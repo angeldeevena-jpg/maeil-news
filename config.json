@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "provider": "openai",
+  "model": "gpt-5.6-luna",
+  "monthly_cap_usd": 2.0,
+  "price_per_million_tokens": {
+    "input": 0.15,
+    "output": 0.6
+  }
+}
