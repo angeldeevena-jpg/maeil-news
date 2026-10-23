@@ -34,17 +34,21 @@ async function main() {
     return;
   }
 
-  // 2. Today's AI cards are already done: nothing to pay for
-  if (previous && previous.date === today && previous.status === 'ai') {
-    console.log("Today's AI cards already exist. Nothing to do.");
-    return;
-  }
-
   const articles = await collectArticles();
   if (articles.length === 0) {
     const reasons = feedErrors.join(' | ').slice(0, 400) || 'feeds were empty';
     await writeCards(today, 'no articles', [], `No articles could be read from korea.net. ${reasons}`);
     console.log('No articles found.');
+    return;
+  }
+
+  // 2. Same articles as the last AI run: keep those cards, make no AI call
+  const sameArticles = previous && previous.status === 'ai' && Array.isArray(previous.cards)
+    && previous.cards.length === articles.length
+    && previous.cards.every((c, i) => c.url === articles[i].link);
+  if (sameArticles) {
+    await writeCards(today, 'ai', previous.cards, previous.note);
+    console.log('Same articles as the last run. No AI call made.');
     return;
   }
 
@@ -98,7 +102,11 @@ async function collectArticles() {
   for (const feed of FEEDS) {
     try {
       const xml = await loadFeed(feed);
-      const items = parseItems(xml).filter(i => i.title && i.link).slice(0, PER_CATEGORY);
+      // Newest first, so the four cards are the latest stories in each section
+      const items = parseItems(xml)
+        .filter(i => i.title && i.link)
+        .sort((a, b) => (Date.parse(b.pubDate) || 0) - (Date.parse(a.pubDate) || 0))
+        .slice(0, PER_CATEGORY);
       items.forEach(i => out.push({ category: feed.category, title: i.title, link: i.link, description: i.description }));
       console.log(`${feed.category}: ${items.length} articles`);
       if (items.length === 0) feedErrors.push(`${feed.category}: no items in feed`);
@@ -135,7 +143,8 @@ function parseItems(xml) {
     items.push({
       title: readTag(body, 'title'),
       link: readTag(body, 'link'),
-      description: readTag(body, 'description')
+      description: readTag(body, 'description'),
+      pubDate: readTag(body, 'pubDate')
     });
   }
   return items;
