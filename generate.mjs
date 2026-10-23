@@ -41,7 +41,8 @@ async function main() {
 
   const articles = await collectArticles();
   if (articles.length === 0) {
-    await writeCards(today, 'no articles', [], 'No articles could be read from korea.net');
+    const reasons = feedErrors.join(' | ').slice(0, 400) || 'feeds were empty';
+    await writeCards(today, 'no articles', [], `No articles could be read from korea.net. ${reasons}`);
     console.log('No articles found.');
     return;
   }
@@ -88,16 +89,21 @@ async function main() {
 
 // ---------- News feeds ----------
 
+let feedErrors = [];
+
 async function collectArticles() {
   const out = [];
+  feedErrors = [];
   for (const feed of FEEDS) {
     try {
       const xml = await loadFeed(feed);
       const items = parseItems(xml).filter(i => i.title && i.link).slice(0, PER_CATEGORY);
       items.forEach(i => out.push({ category: feed.category, title: i.title, link: i.link, description: i.description }));
       console.log(`${feed.category}: ${items.length} articles`);
+      if (items.length === 0) feedErrors.push(`${feed.category}: no items in feed`);
     } catch (err) {
       console.error(`${feed.category} failed: ${err.message}`);
+      feedErrors.push(`${feed.category}: ${err.message}`);
     }
   }
   return out;
@@ -109,7 +115,13 @@ async function loadFeed(feed) {
     const name = feed.category.toLowerCase().replace('/', '-') + '.xml';
     return readFile(path.join(process.env.FIXTURE_DIR, name), 'utf8');
   }
-  const res = await fetch(feed.url, { headers: { 'User-Agent': 'MaeilNewsGenerator/1.0' } });
+  const res = await fetch(feed.url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+      'Accept': 'application/rss+xml, application/xml, text/xml;q=0.9, */*;q=0.8',
+      'Accept-Language': 'en-US,en;q=0.9'
+    }
+  });
   if (!res.ok) throw new Error(`HTTP ${res.status}`);
   return res.text();
 }
