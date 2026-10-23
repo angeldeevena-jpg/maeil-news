@@ -47,7 +47,7 @@ async function main() {
   // 2. Same articles as the last AI run: keep those cards, make no AI call
   const sameArticles = previous && previous.status === 'ai' && Array.isArray(previous.cards)
     && previous.cards.length === articles.length
-    && previous.cards.every((c, i) => c.url === articles[i].link);
+    && previous.cards.every((c, i) => c.url === articles[i].link && 'hook' in c);
   if (sameArticles) {
     await writeCards(today, 'ai', previous.cards, previous.note);
     console.log('Same articles as the last run. No AI call made.');
@@ -77,6 +77,7 @@ async function main() {
         english_title: items[i].english_title,
         korean_desc: items[i].korean_desc,
         english_desc: items[i].english_desc,
+        hook: items[i].hook || '',
         url: a.link
       }));
       status = 'ai';
@@ -199,6 +200,7 @@ Return ONLY a JSON array with exactly ${articles.length} objects, in the same or
 - "english_title": a clear, short English headline
 - "korean_desc": one or two short, simple Korean sentences that summarise the article
 - "english_desc": an English translation of korean_desc
+- "hook": a witty, curious English line under 12 words that makes the reader want to know more. Playful and accurate. No insults, no false claims, no shouting.
 Do not write anything outside the JSON.
 
 Articles:
@@ -272,6 +274,7 @@ function fallbackCards(articles) {
     english_title: a.title,
     korean_desc: '',
     english_desc: firstSentence(a.description),
+    hook: '',
     url: a.link
   }));
 }
