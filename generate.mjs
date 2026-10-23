@@ -11,13 +11,14 @@ const OUT_FILE = path.join(ROOT, 'docs', 'cards.json');
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
 const PER_CATEGORY = 4;
 
+// Korea Herald English feeds (korea.net could not be reached from GitHub)
 const FEEDS = [
-  { category: 'Politics', url: 'https://www.korea.net/koreanet/rss/news/3' },
-  { category: 'Business', url: 'https://www.korea.net/koreanet/rss/news/4' },
-  { category: 'Sci/Tech', url: 'https://www.korea.net/koreanet/rss/news/5' },
-  { category: 'Society', url: 'https://www.korea.net/koreanet/rss/news/6' },
-  { category: 'Culture', url: 'https://www.korea.net/koreanet/rss/news/7' },
-  { category: 'Sports', url: 'https://www.korea.net/koreanet/rss/news/9' }
+  { category: 'Politics & Society', url: 'https://www.koreaherald.com/rss/kh_National', file: 'politics.xml' },
+  { category: 'Business', url: 'https://www.koreaherald.com/rss/kh_Business', file: 'business.xml' },
+  { category: 'Culture', url: 'https://www.koreaherald.com/rss/kh_LifenCulture', file: 'culture.xml' },
+  { category: 'Sports', url: 'https://www.koreaherald.com/rss/kh_Sports', file: 'sports.xml' },
+  { category: 'K-pop', url: 'https://www.koreaherald.com/rss/kh_Kpop', file: 'kpop.xml' },
+  { category: 'World', url: 'https://www.koreaherald.com/rss/kh_World', file: 'world.xml' }
 ];
 
 const config = JSON.parse(await readFile(path.join(ROOT, 'config.json'), 'utf8'));
@@ -112,8 +113,7 @@ async function collectArticles() {
 async function loadFeed(feed) {
   // Offline testing: read saved feed files instead of the internet
   if (process.env.FIXTURE_DIR) {
-    const name = feed.category.toLowerCase().replace('/', '-') + '.xml';
-    return readFile(path.join(process.env.FIXTURE_DIR, name), 'utf8');
+    return readFile(path.join(process.env.FIXTURE_DIR, feed.file), 'utf8');
   }
   const res = await fetch(feed.url, {
     headers: {
