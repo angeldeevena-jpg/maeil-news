@@ -1,7 +1,200 @@
 {
   "date": "2026-10-23",
-  "status": "no articles",
-  "note": "No articles could be read from korea.net. Politics: fetch failed | Business: fetch failed | Sci/Tech: fetch failed | Society: fetch failed | Culture: fetch failed | Sports: fetch failed",
-  "generated_at": "2026-10-23T14:49:37.945Z",
-  "cards": []
+  "status": "ai",
+  "note": "Cost this run about $0.0022",
+  "generated_at": "2026-10-23T14:57:12.415Z",
+  "cards": [
+    {
+      "category": "Politics & Society",
+      "korean_title": "메르츠 독일 총리, 서울 방문",
+      "english_title": "Merz to Visit Seoul",
+      "korean_desc": "메르츠 독일 총리가 10월 29일부터 30일까지 한국을 방문합니다. 이재명 대통령과 정상회담을 하고 독일 기업 행사에도 참석합니다.",
+      "english_desc": "German Chancellor Merz will visit South Korea from October 29 to 30. He will hold a summit with President Lee Jae Myung and attend a German business event.",
+      "url": "https://www.koreaherald.com/article/10913322"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "한일 공급망 협력 강화 촉구",
+      "english_title": "Lee Calls for Stronger Korea-Japan Supply Chains",
+      "korean_desc": "이재명 대통령이 한국과 일본의 경제 협력 강화를 촉구했습니다. 두 나라는 첨단 산업의 공급망을 위해 협력해야 합니다.",
+      "english_desc": "President Lee Jae Myung called for stronger economic cooperation between South Korea and Japan. The two countries should work together on supply chains for advanced industries.",
+      "url": "https://www.koreaherald.com/article/10913316"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "헝가리, 한국과 협력 강화 희망",
+      "english_title": "Hungary Seeks Closer Ties with Korea",
+      "korean_desc": "헝가리가 한국과 투자 및 기술 협력을 강화하고 싶다고 밝혔습니다. 양국은 민주주의와 인권을 중요하게 생각한다고 말했습니다.",
+      "english_desc": "Hungary said it wants to strengthen investment and technology cooperation with South Korea. It said both countries value democracy and human rights.",
+      "url": "https://www.koreaherald.com/article/10913303"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "한국, 케냐에 군 헬기 8대 기증",
+      "english_title": "South Korea Donates Eight Helicopters to Kenya",
+      "korean_desc": "한국이 정비한 퇴역 군용 헬리콥터 8대를 케냐에 기증했습니다. 이 헬리콥터들은 유엔 평화유지 활동을 지원하는 데 사용됩니다.",
+      "english_desc": "South Korea donated eight repaired, retired military helicopters to Kenya. The helicopters will support United Nations peacekeeping activities.",
+      "url": "https://www.koreaherald.com/article/10913282"
+    },
+    {
+      "category": "Business",
+      "korean_title": "하나금융, 9개월 순이익 사상 최대",
+      "english_title": "Hana Financial Posts Record Profit",
+      "korean_desc": "하나금융그룹의 올해 첫 9개월 순이익이 3조 6200억 원으로 사상 최대를 기록했습니다. 주주 환원 규모도 역대 가장 컸습니다.",
+      "english_desc": "Hana Financial Group’s net profit for the first nine months of this year reached a record 3.62 trillion won. Its shareholder returns were also the largest ever.",
+      "url": "https://www.koreaherald.com/article/10913247"
+    },
+    {
+      "category": "Business",
+      "korean_title": "우리금융, 2분기 연속 1조 원대 이익",
+      "english_title": "Woori Financial Profit Tops 1 Trillion Won",
+      "korean_desc": "우리금융그룹이 2분기 연속 1조 원이 넘는 분기 순이익을 냈습니다. 올해 첫 9개월 순이익은 2조 6600억 원입니다.",
+      "english_desc": "Woori Financial Group posted quarterly net profit of more than 1 trillion won for the second straight quarter. Its net profit for the first nine months was 2.66 trillion won.",
+      "url": "https://www.koreaherald.com/article/10913242"
+    },
+    {
+      "category": "Business",
+      "korean_title": "서울 증시, 저가 매수로 소폭 상승",
+      "english_title": "Seoul Stocks Edge Higher on Bargain Hunting",
+      "korean_desc": "한국 주식시장이 전날 크게 하락한 뒤 소폭 올랐습니다. 투자자들은 주요 반도체 주식을 저가에 사들였습니다.",
+      "english_desc": "South Korean stocks edged higher after falling sharply the previous day. Investors bought major chip stocks at lower prices.",
+      "url": "https://www.koreaherald.com/article/10913089"
+    },
+    {
+      "category": "Business",
+      "korean_title": "노후 IT 보안 위험에 주의해야",
+      "english_title": "Groups Warn of Aging IT Security Risks",
+      "korean_desc": "주한미국상공회의소와 시스코가 오래된 IT 시스템의 보안 위험을 경고했습니다. 한국 기업들은 시스템을 현대화해야 합니다.",
+      "english_desc": "The American Chamber of Commerce in Korea and Cisco warned about security risks from old IT systems. Korean companies should modernize their systems.",
+      "url": "https://www.koreaherald.com/article/10913031"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "데버라 터브빌 사진의 퇴색한 매력",
+      "english_title": "The Fading Glamour of Deborah Turbeville’s Photos",
+      "korean_desc": "데버라 터브빌의 사진은 어둡고 흐릿한 분위기를 보여 줍니다. 사진 속 인물들은 유령처럼 멀고 신비롭게 보입니다.",
+      "english_desc": "Deborah Turbeville’s photos show a dark and blurred atmosphere. The people in the photos look distant and mysterious, like ghosts.",
+      "url": "https://www.koreaherald.com/article/10913212"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "저스틴 비버, 서울 성수동 방문",
+      "english_title": "Justin Bieber Visits Seongsu",
+      "korean_desc": "저스틴 비버가 자신의 브랜드를 홍보하기 위해 서울 성수동을 찾았습니다. 그의 브랜드는 성수동에서 첫 팝업 매장을 열었습니다.",
+      "english_desc": "Justin Bieber visited Seoul’s Seongsu neighborhood to promote his own brand. His brand opened its first pop-up store there.",
+      "url": "https://www.koreaherald.com/article/10913096"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "K/DA와 LoL, 한국 협업 확대",
+      "english_title": "K/DA and LoL Expand Korean Collaborations",
+      "korean_desc": "라이엇 게임즈가 한국에서 K/DA와 리그 오브 레전드 협업을 선보입니다. 팝업 매장과 한정 상품도 출시됩니다.",
+      "english_desc": "Riot Games is presenting K/DA and League of Legends collaborations in Korea. Pop-up stores and limited-edition products will also be available.",
+      "url": "https://www.koreaherald.com/article/10912879"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "넷플릭스 이용자 80%, 한국 콘텐츠 시청",
+      "english_title": "80% of Netflix Users Watched Korean Content",
+      "korean_desc": "전 세계 넷플릭스 가입자의 약 80%가 한국 드라마나 영화를 봤습니다. 한국 콘텐츠 200편 이상이 글로벌 톱10에 올랐습니다.",
+      "english_desc": "About 80 percent of Netflix subscribers worldwide have watched Korean dramas or movies. More than 200 Korean productions have entered the global Top 10.",
+      "url": "https://www.koreaherald.com/article/10912695"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "한국 축구, 11월 사우디·카타르와 평가전",
+      "english_title": "Korea to Play Saudi Arabia and Qatar",
+      "korean_desc": "한국 남자 축구대표팀이 11월 카타르에서 사우디아라비아와 카타르를 만납니다. 두 경기는 친선 경기입니다.",
+      "english_desc": "South Korea’s men’s football team will face Saudi Arabia and Qatar in Qatar in November. Both matches are friendly games.",
+      "url": "https://www.koreaherald.com/article/10911950"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "조은혜, 장애인 아시안게임 펜싱 금메달",
+      "english_title": "Cho Eun-hye Wins Para Games Fencing Gold",
+      "korean_desc": "조은혜가 여자 개인 에페 B등급 결승에서 15-14로 승리했습니다. 한국은 장애인 아시안게임 펜싱에서 첫 금메달을 땄습니다.",
+      "english_desc": "Cho Eun-hye won the women’s individual epee B final 15-14. South Korea won its first fencing gold medal at the Asian Para Games.",
+      "url": "https://www.koreaherald.com/article/10911552"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "오스트하위즌, LIV 골프 떠난다",
+      "english_title": "Oosthuizen to Leave LIV Golf",
+      "korean_desc": "2010년 브리티시 오픈 우승자인 루이 오스트하위즌이 LIV 골프를 떠납니다. 그는 이번 결정이 인생에서 가장 어려운 결정 중 하나라고 말했습니다.",
+      "english_desc": "Louis Oosthuizen, the 2010 British Open champion, will leave LIV Golf. He said the decision was one of the hardest of his life.",
+      "url": "https://www.koreaherald.com/article/10911547"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "바이에른, 아스널과 2-2 무승부",
+      "english_title": "Bayern Draws 2-2 with Arsenal",
+      "korean_desc": "바이에른 뮌헨이 아스널과 2-2로 비겼습니다. 김민재는 선발로 출전했지만 전반전만 뛰었습니다.",
+      "english_desc": "Bayern Munich drew 2-2 with Arsenal. Kim Min-jae started the match but played only the first half.",
+      "url": "https://www.koreaherald.com/article/10911505"
+    },
+    {
+      "category": "K-pop",
+      "korean_title": "산토스 브라보스, 데뷔 1주년 신곡 발표",
+      "english_title": "Santos Bravos to Release New Music",
+      "korean_desc": "라틴 팝 그룹 산토스 브라보스가 데뷔 1주년을 맞아 11월 20일 신곡을 발표합니다. 이는 그룹의 첫 기념일 신곡입니다.",
+      "english_desc": "Latin pop group Santos Bravos will release new music on November 20 to mark its first anniversary. It will be the group’s first anniversary release.",
+      "url": "https://www.koreaherald.com/article/10913019"
+    },
+    {
+      "category": "K-pop",
+      "korean_title": "아우라, 인도 음악 축제 피날레 장식",
+      "english_title": "Aoora Headlines Indian Music Festival Finale",
+      "korean_desc": "한국 가수 아우라가 인도 케랄라에서 열린 음악 축제의 마지막 공연을 이끌었습니다. 그는 자신의 노래와 말라얄람 인기곡을 불렀습니다.",
+      "english_desc": "Korean singer Aoora led the final performance of a music festival in Kerala, India. He sang his own songs and popular Malayalam songs.",
+      "url": "https://www.koreaherald.com/article/10911885"
+    },
+    {
+      "category": "K-pop",
+      "korean_title": "A2O 소울, 11월 데뷔 앨범 발표",
+      "english_title": "A2O Soul to Release Debut EP",
+      "korean_desc": "15인조 보이그룹 A2O 소울이 11월 9일 첫 EP ‘슈퍼스타’를 발표합니다. 앨범에는 다섯 곡이 들어갑니다.",
+      "english_desc": "The 15-member boy group A2O Soul will release its first EP, “Superstar,” on November 9. The album will contain five songs.",
+      "url": "https://www.koreaherald.com/article/10911740"
+    },
+    {
+      "category": "K-pop",
+      "korean_title": "이안 이스트우드, 한국 댄스계와 재회",
+      "english_title": "Ian Eastwood Reconnects with Korea’s Dance Scene",
+      "korean_desc": "안무가 이안 이스트우드가 한국에서 신인 댄서들을 가르치고 있습니다. 그는 한국 댄서들의 빠른 학습 능력에 감탄했습니다.",
+      "english_desc": "Choreographer Ian Eastwood is teaching new dancers in Korea. He was impressed by the dancers’ ability to learn quickly.",
+      "url": "https://www.koreaherald.com/article/10911297"
+    },
+    {
+      "category": "World",
+      "korean_title": "PHP 보안 결함에 해킹 시도 급증",
+      "english_title": "Hacking Attempts Surge After PHP Flaws",
+      "korean_desc": "PHP의 심각한 보안 결함이 알려진 뒤 해킹 시도가 크게 늘었습니다. 기업과 정부는 시스템을 고치고 보안을 강화하고 있습니다.",
+      "english_desc": "Hacking attempts surged after serious PHP security flaws were disclosed. Companies and governments are fixing their systems and strengthening security.",
+      "url": "https://www.koreaherald.com/article/10912068"
+    },
+    {
+      "category": "World",
+      "korean_title": "해외 한국어 교육, 학생 수 증가",
+      "english_title": "Korean Language Education Expands Overseas",
+      "korean_desc": "2025년 해외 한국어 수업의 등록 학생 수가 19만 1896명에 이르렀습니다. 5년 전보다 약 50% 증가한 수치입니다.",
+      "english_desc": "The number of students enrolled in Korean classes overseas reached 191,896 in 2025. This was about 50 percent higher than five years earlier.",
+      "url": "https://www.koreaherald.com/article/10911815"
+    },
+    {
+      "category": "World",
+      "korean_title": "메타, 개인정보 사건으로 250억 달러 벌금",
+      "english_title": "Meta Ordered to Pay $25 Billion Penalty",
+      "korean_desc": "미국 뉴멕시코주의 한 판사가 메타에 250억 달러를 지급하라고 명령했습니다. 배심원단은 메타가 이용자 개인정보에 대해 소비자를 속였다고 판단했습니다.",
+      "english_desc": "A judge in New Mexico ordered Meta to pay $25 billion. A jury found that Meta had misled consumers about their personal data.",
+      "url": "https://www.koreaherald.com/article/10911408"
+    },
+    {
+      "category": "World",
+      "korean_title": "미 상원 경합주 조기투표 증가",
+      "english_title": "Early Voting Rises in Key Senate States",
+      "korean_desc": "미국 상원 선거의 주요 경합주에서 조기투표가 크게 늘었습니다. 텍사스의 조기투표는 2022년보다 74% 증가했습니다.",
+      "english_desc": "Early voting has increased sharply in key states that may decide control of the U.S. Senate. Texas early voting is up 74 percent from 2022.",
+      "url": "https://www.koreaherald.com/article/10911398"
+    }
+  ]
 }
