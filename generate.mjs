@@ -29,8 +29,10 @@ async function main() {
 
   // 1. Switched off: no AI calls at all
   if (!config.enabled) {
-    await writeCards(today, 'off', [], 'Turned off in config.json');
-    console.log('Cards are turned off in config.json. No AI call made.');
+    // AI is off: still show the latest English headlines, with a message saying so
+    const articles = await collectArticles();
+    await writeCards(today, 'off', fallbackCards(articles), 'AI is turned off. Showing English titles only.');
+    console.log('AI is turned off in config.json. No AI call made.');
     return;
   }
 
