@@ -9,7 +9,8 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const OUT_FILE = path.join(ROOT, 'docs', 'cards.json');
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
-const PER_CATEGORY = 4;
+const PER_CATEGORY = 8; // 6 feeds x 8 = 48 cards
+const MAX_GLOSSARY = 10;
 
 // Korea Herald English feeds (korea.net could not be reached from GitHub)
 const FEEDS = [
@@ -47,7 +48,7 @@ async function main() {
   // 2. Same articles as the last AI run: keep those cards, make no AI call
   const sameArticles = previous && previous.status === 'ai' && Array.isArray(previous.cards)
     && previous.cards.length === articles.length
-    && previous.cards.every((c, i) => c.url === articles[i].link && 'hook' in c && 'korean_hook' in c);
+    && previous.cards.every((c, i) => c.url === articles[i].link && 'hook' in c && 'glossary' in c);
   if (sameArticles) {
     await writeCards(today, 'ai', previous.cards, previous.note);
     console.log('Same articles as the last run. No AI call made.');
@@ -79,6 +80,7 @@ async function main() {
         english_desc: items[i].english_desc,
         hook: items[i].hook || '',
         korean_hook: items[i].korean_hook || '',
+        glossary: normalizeGlossary(items[i].glossary),
         url: a.link
       }));
       status = 'ai';
@@ -203,10 +205,20 @@ Return ONLY a JSON array with exactly ${articles.length} objects, in the same or
 - "english_desc": an English translation of korean_desc
 - "hook": a witty, curious English line under 12 words that makes the reader want to know more. Playful and accurate. No insults, no false claims, no shouting.
 - "korean_hook": the same hook written in natural, simple Korean with the same playful tone. Under 30 Korean characters.
+- "glossary": up to ${MAX_GLOSSARY} useful Korean words or short phrases taken from that card's Korean title or Korean description, most useful for a learner first. Each item is {"korean": "the word in Korean", "english": "a short English meaning"}. Use fewer if the text has fewer useful words. Use [] if none.
 Do not write anything outside the JSON.
 
 Articles:
 ${list}`;
+}
+
+// Keeps only valid glossary entries, at most MAX_GLOSSARY of them
+function normalizeGlossary(list) {
+  if (!Array.isArray(list)) return [];
+  return list
+    .filter(w => w && typeof w.korean === 'string' && w.korean.trim() && typeof w.english === 'string')
+    .slice(0, MAX_GLOSSARY)
+    .map(w => ({ korean: w.korean.trim(), english: w.english.trim() }));
 }
 
 function parseCardsJson(text, expected) {
@@ -230,7 +242,7 @@ function parseCardsJson(text, expected) {
 async function callOpenAI(key, prompt) {
   const r = await post('https://api.openai.com/v1/chat/completions',
     { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-    { model: config.model, messages: [{ role: 'user', content: prompt }], max_completion_tokens: 8000 });
+    { model: config.model, messages: [{ role: 'user', content: prompt }], max_completion_tokens: 20000 });
   return {
     text: r.choices[0].message.content,
     inputTokens: r.usage?.prompt_tokens ?? 0,
@@ -241,7 +253,7 @@ async function callOpenAI(key, prompt) {
 async function callClaude(key, prompt) {
   const r = await post('https://api.anthropic.com/v1/messages',
     { 'x-api-key': key, 'anthropic-version': '2023-06-01', 'Content-Type': 'application/json' },
-    { model: config.model, max_tokens: 8000, messages: [{ role: 'user', content: prompt }] });
+    { model: config.model, max_tokens: 20000, messages: [{ role: 'user', content: prompt }] });
   return {
     text: r.content.map(c => c.text || '').join(''),
     inputTokens: r.usage?.input_tokens ?? 0,
@@ -252,7 +264,7 @@ async function callClaude(key, prompt) {
 async function callGemini(key, prompt) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${config.model}:generateContent?key=${encodeURIComponent(key)}`;
   const r = await post(url, { 'Content-Type': 'application/json' },
-    { contents: [{ parts: [{ text: prompt }] }], generationConfig: { maxOutputTokens: 8000 } });
+    { contents: [{ parts: [{ text: prompt }] }], generationConfig: { maxOutputTokens: 20000 } });
   return {
     text: r.candidates[0].content.parts.map(p => p.text || '').join(''),
     inputTokens: r.usageMetadata?.promptTokenCount ?? 0,
@@ -278,6 +290,7 @@ function fallbackCards(articles) {
     english_desc: firstSentence(a.description),
     hook: '',
     korean_hook: '',
+    glossary: [],
     url: a.link
   }));
 }
