@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 8;
+export const IMAGE_VERSION = 9;
 
 const W = 1080;
 const H = 1350;
@@ -165,6 +165,21 @@ function sentenceSlide(s, words, i, n, total, part) {
 </div>`, shrink);
 }
 
+// Closing slide: the whole story in one short English and Korean recap
+function recapSlide(c, total) {
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #FFE04D; display: flex; flex-direction: column; gap: 36px; font-family: ${FONT}; color: #000; overflow: hidden">
+  <div style="display: flex; align-items: center; justify-content: space-between">
+    <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #FFE04D; transform: rotate(-3deg)">📌 IN SHORT</span>
+    <span style="font-size: 26px; font-weight: 900">Maeil News · ${total - 1} / ${total}</span>
+  </div>
+  <div style="margin: auto 0; padding: 48px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; gap: 34px">
+    <div style="font-size: 60px; font-weight: 900; line-height: 1.2">${esc(c.short_english || '')}</div>
+    <div style="font-size: 52px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(c.short_korean || '')}</div>
+  </div>
+  <div style="font-size: 28px; font-weight: 800">The original story and credit are on the last slide →</div>
+</div>`);
+}
+
 // Last slide: credit (black)
 function creditSlide(c, region, source, logo, photo, total) {
   const footer = region === 'korean' ? 'Follow for more Korean news' : 'Follow for more news';
@@ -215,6 +230,8 @@ export function planSlides(card) {
       part: 1
     });
   });
+  // Closing recap of the whole story, so every set ends with a conclusion
+  if (card.short_english || card.short_korean) plan.push({ kind: 'recap' });
   plan.push({ kind: 'credit' });
   return plan;
 }
@@ -227,6 +244,7 @@ export function buildSlides(card, region, source, assets) {
     const number = n + 1;
     if (p.kind === 'cover') return coverSlide(card, assets.logo, total);
     if (p.kind === 'title') return titleSlide(card, assets.logo, total);
+    if (p.kind === 'recap') return recapSlide(card, total);
     if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number);
     return creditSlide(card, region, source, assets.logo, assets.photo, total);
   });
