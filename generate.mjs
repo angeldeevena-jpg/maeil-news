@@ -290,14 +290,14 @@ function buildPrompt(batch) {
     .join('\n\n');
   return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
 Write everything in your own words. Do not copy sentences from the article.
-Keep every fact exactly as the article states it. Be witty and playful in the hook and titles, but never add a fact, number, name or quote that is not in the article.
+Keep every fact exactly as the article states it. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Never add a fact, number, name or quote that is not in the article.
 
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
 - "english_title": a clear, short English headline
-- "hook": the headline hook. Plain words, under 10 words, with a surprising contrast between two facts from the article, in the form "Korea aimed for 21 golds. It won 29." Playful and accurate, and it must not add any fact.
-- "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same playful tone
-- "sticker": a short playful line for the cover sticker, under 6 words, with at most one emoji (for example "Okay, this one's a flex 💅")
+- "hook": the headline hook. Plain words, under 10 words, that states the key point of the story clearly, in the form "Korea aimed for 21 golds. It won 29." Accurate, and it must not add any fact. Use a contrast only when the facts support it and the story is not serious.
+- "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
+- "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
 - "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words

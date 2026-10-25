@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 6;
+export const IMAGE_VERSION = 8;
 
 const W = 1080;
 const H = 1350;
@@ -74,7 +74,7 @@ function shrinkScript(head, box, start, min) {
 
 // Slide 1: cover (yellow). The headline shrinks so it never reaches the footer.
 function coverSlide(c, logo, total) {
-  const sticker = c.sticker || 'Read this one 👀';
+  const sticker = c.sticker || 'Read the story';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; color: #000; overflow: hidden">
   <div style="display: flex; align-items: center; gap: 20px">
     ${logoImg(logo, 170)}
@@ -87,7 +87,7 @@ function coverSlide(c, logo, total) {
     </div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800">
-    <span>${esc((c.category || '').toUpperCase())} · swipe, nosy 👀</span>
+    <span>${esc((c.category || '').toUpperCase())} · swipe to read on →</span>
     <span>1 / ${total}</span>
   </div>
 </div>`, shrinkScript('head', 'box', 130, 48));
@@ -132,7 +132,7 @@ function glossaryChips(words, small) {
 // Sentence slides (lime). One slide per sentence: the sentence is the big part,
 // and every word of the sentence is listed in a smaller glossary underneath.
 function sentenceSlide(s, words, i, n, total, part) {
-  const [emoji, label] = i < 2 ? ['🎬', 'THE SETUP'] : i < n - 2 ? ['🍿', 'THE JUICE'] : ['🏆', 'THE PAYOFF'];
+  const [emoji, label] = i < 2 ? ['🧭', 'THE BACKSTORY'] : i < n - 2 ? ['📰', 'WHAT HAPPENED'] : ['💡', 'WHY IT MATTERS'];
   const rot = i % 2 === 0 ? -1 : 1;
   const chips = words.map(w => {
     // The whole word stays together; its particle or ending is highlighted inside it
