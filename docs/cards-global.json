@@ -1,9 +1,631 @@
 {
   "date": "2026-10-25",
   "status": "ai",
-  "note": "24 new cards made, 0 kept. Cost this run about $0.0282",
-  "generated_at": "2026-10-25T13:36:19.149Z",
+  "note": "1 new cards made, 23 kept. Cost this run about $0.0038",
+  "generated_at": "2026-10-25T13:59:44.086Z",
   "cards": [
+    {
+      "category": "World",
+      "korean_title": "브라질, 룰라와 보우소나루의 결선전",
+      "english_title": "Brazil’s Lula-Bolsonaro Runoff",
+      "korean_desc": "브라질은 2026년 10월 25일 대통령 결선투표를 치렀다. 이번 선거는 루이스 이나시우 룰라와 플라비우 보우소나루의 대결이었다. 첫 투표에서 플라비우는 룰라보다 220만 표 이상 앞섰다. 거의 1억 6천만 명 가운데 3,300만 명 이상은 투표하지 않았다. 두 후보는 미국 관계와 기후변화, 복지에서 달랐다. 보우소나루가 이기면 브라질은 우파로 이동한다. 룰라가 이기면 브라질과 멕시코는 중도좌파 지도자가 이끈다. 전자 투표로 결과는 몇 시간 안에 나올 수 있다.",
+      "english_desc": "Brazil held its presidential runoff on October 25, 2026. The election was a contest between Luiz Inácio Lula da Silva and Flávio Bolsonaro. In the first round, Flávio led Lula by more than 2.2 million votes. More than 33 million people did not vote out of nearly 160 million. The candidates differed on U.S. relations, climate change, and welfare. A Bolsonaro victory would move Brazil toward the right. A Lula victory would leave Brazil and Mexico led by left-of-center leaders. Because voting is electronic, the result can arrive within hours.",
+      "hook": "Brazil’s ballot box is juggling two very different futures.",
+      "korean_hook": "브라질 투표함이 두 미래를 저글링한다",
+      "glossary": [
+        {
+          "korean": "브라질",
+          "roman": "beu-ra-jil",
+          "english": "Brazil",
+          "particle": false
+        },
+        {
+          "korean": "은",
+          "roman": "eun",
+          "english": "topic marker",
+          "particle": true
+        },
+        {
+          "korean": "2026년",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
+          "english": "year 2026",
+          "particle": false
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false
+        },
+        {
+          "korean": "25일",
+          "roman": "i-sip-o-il",
+          "english": "25th day",
+          "particle": false
+        },
+        {
+          "korean": "대통령",
+          "roman": "dae-tong-nyeong",
+          "english": "presidential",
+          "particle": false
+        },
+        {
+          "korean": "결선투표",
+          "roman": "gyeol-seon-tu-pyo",
+          "english": "runoff election",
+          "particle": false
+        },
+        {
+          "korean": "를",
+          "roman": "reul",
+          "english": "object marker",
+          "particle": true
+        },
+        {
+          "korean": "치렀다",
+          "roman": "chi-reot-da",
+          "english": "held",
+          "particle": false
+        },
+        {
+          "korean": "이번",
+          "roman": "i-beon",
+          "english": "this",
+          "particle": false
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Brazil held its presidential runoff on October 25, 2026.",
+          "korean": "브라질은 2026년 10월 25일 대통령 결선투표를 치렀다.",
+          "glossary": [
+            {
+              "korean": "브라질",
+              "roman": "beu-ra-jil",
+              "english": "Brazil",
+              "particle": false
+            },
+            {
+              "korean": "은",
+              "roman": "eun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "2026년",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "english": "year 2026",
+              "particle": false
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false
+            },
+            {
+              "korean": "25일",
+              "roman": "i-sip-o-il",
+              "english": "25th day",
+              "particle": false
+            },
+            {
+              "korean": "대통령",
+              "roman": "dae-tong-nyeong",
+              "english": "presidential",
+              "particle": false
+            },
+            {
+              "korean": "결선투표",
+              "roman": "gyeol-seon-tu-pyo",
+              "english": "runoff election",
+              "particle": false
+            },
+            {
+              "korean": "를",
+              "roman": "reul",
+              "english": "object marker",
+              "particle": true
+            },
+            {
+              "korean": "치렀다",
+              "roman": "chi-reot-da",
+              "english": "held",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "context",
+          "english": "The election was a contest between Luiz Inácio Lula da Silva and Flávio Bolsonaro.",
+          "korean": "이번 선거는 루이스 이나시우 룰라와 플라비우 보우소나루의 대결이었다.",
+          "glossary": [
+            {
+              "korean": "이번",
+              "roman": "i-beon",
+              "english": "this",
+              "particle": false
+            },
+            {
+              "korean": "선거",
+              "roman": "seon-geo",
+              "english": "election",
+              "particle": false
+            },
+            {
+              "korean": "는",
+              "roman": "neun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "루이스",
+              "roman": "ru-i-seu",
+              "english": "Luiz",
+              "particle": false
+            },
+            {
+              "korean": "이나시우",
+              "roman": "i-na-si-u",
+              "english": "Inácio",
+              "particle": false
+            },
+            {
+              "korean": "룰라",
+              "roman": "rul-la",
+              "english": "Lula",
+              "particle": false
+            },
+            {
+              "korean": "와",
+              "roman": "wa",
+              "english": "and",
+              "particle": true
+            },
+            {
+              "korean": "플라비우",
+              "roman": "peul-la-bi-u",
+              "english": "Flávio",
+              "particle": false
+            },
+            {
+              "korean": "보우소나루",
+              "roman": "bo-u-so-na-ru",
+              "english": "Bolsonaro",
+              "particle": false
+            },
+            {
+              "korean": "의",
+              "roman": "ui",
+              "english": "of",
+              "particle": true
+            },
+            {
+              "korean": "대결이었다",
+              "roman": "dae-gyeol-i-eot-da",
+              "english": "was a contest",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "In the first round, Flávio led Lula by more than 2.2 million votes.",
+          "korean": "첫 투표에서 플라비우는 룰라보다 220만 표 이상 앞섰다.",
+          "glossary": [
+            {
+              "korean": "첫",
+              "roman": "cheot",
+              "english": "first",
+              "particle": false
+            },
+            {
+              "korean": "투표",
+              "roman": "tu-pyo",
+              "english": "voting",
+              "particle": false
+            },
+            {
+              "korean": "에서",
+              "roman": "e-seo",
+              "english": "in",
+              "particle": true
+            },
+            {
+              "korean": "플라비우",
+              "roman": "peul-la-bi-u",
+              "english": "Flávio",
+              "particle": false
+            },
+            {
+              "korean": "는",
+              "roman": "neun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "룰라",
+              "roman": "rul-la",
+              "english": "Lula",
+              "particle": false
+            },
+            {
+              "korean": "보다",
+              "roman": "bo-da",
+              "english": "than",
+              "particle": true
+            },
+            {
+              "korean": "220만",
+              "roman": "i-baek-i-sip-man",
+              "english": "2.2 million",
+              "particle": false
+            },
+            {
+              "korean": "표",
+              "roman": "pyo",
+              "english": "votes",
+              "particle": false
+            },
+            {
+              "korean": "이상",
+              "roman": "i-sang",
+              "english": "more than",
+              "particle": false
+            },
+            {
+              "korean": "앞섰다",
+              "roman": "ap-seot-da",
+              "english": "led",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "More than 33 million people did not vote out of nearly 160 million.",
+          "korean": "거의 1억 6천만 명 가운데 3,300만 명 이상은 투표하지 않았다.",
+          "glossary": [
+            {
+              "korean": "거의",
+              "roman": "geo-ui",
+              "english": "nearly",
+              "particle": false
+            },
+            {
+              "korean": "1억",
+              "roman": "il-eok",
+              "english": "100 million",
+              "particle": false
+            },
+            {
+              "korean": "6천만",
+              "roman": "yuk-cheon-man",
+              "english": "60 million",
+              "particle": false
+            },
+            {
+              "korean": "명",
+              "roman": "myeong",
+              "english": "people",
+              "particle": false
+            },
+            {
+              "korean": "가운데",
+              "roman": "ga-un-de",
+              "english": "among",
+              "particle": false
+            },
+            {
+              "korean": "3,300만",
+              "roman": "sam-cheon-sam-baek-man",
+              "english": "33 million",
+              "particle": false
+            },
+            {
+              "korean": "명",
+              "roman": "myeong",
+              "english": "people",
+              "particle": false
+            },
+            {
+              "korean": "이상",
+              "roman": "i-sang",
+              "english": "more than",
+              "particle": false
+            },
+            {
+              "korean": "은",
+              "roman": "eun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "투표하지",
+              "roman": "tu-pyo-ha-ji",
+              "english": "vote",
+              "particle": false
+            },
+            {
+              "korean": "않았다",
+              "roman": "a-naet-da",
+              "english": "did not",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "The candidates differed on U.S. relations, climate change, and welfare.",
+          "korean": "두 후보는 미국 관계와 기후변화, 복지에서 달랐다.",
+          "glossary": [
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false
+            },
+            {
+              "korean": "후보",
+              "roman": "hu-bo",
+              "english": "candidates",
+              "particle": false
+            },
+            {
+              "korean": "는",
+              "roman": "neun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "미국",
+              "roman": "mi-guk",
+              "english": "United States",
+              "particle": false
+            },
+            {
+              "korean": "관계",
+              "roman": "gwan-gye",
+              "english": "relations",
+              "particle": false
+            },
+            {
+              "korean": "와",
+              "roman": "wa",
+              "english": "and",
+              "particle": true
+            },
+            {
+              "korean": "기후변화",
+              "roman": "gi-hu-byeon-hwa",
+              "english": "climate change",
+              "particle": false
+            },
+            {
+              "korean": "복지",
+              "roman": "bok-ji",
+              "english": "welfare",
+              "particle": false
+            },
+            {
+              "korean": "에서",
+              "roman": "e-seo",
+              "english": "in",
+              "particle": true
+            },
+            {
+              "korean": "달랐다",
+              "roman": "dal-lat-da",
+              "english": "differed",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "A Bolsonaro victory would move Brazil toward the right.",
+          "korean": "보우소나루가 이기면 브라질은 우파로 이동한다.",
+          "glossary": [
+            {
+              "korean": "보우소나루",
+              "roman": "bo-u-so-na-ru",
+              "english": "Bolsonaro",
+              "particle": false
+            },
+            {
+              "korean": "가",
+              "roman": "ga",
+              "english": "subject marker",
+              "particle": true
+            },
+            {
+              "korean": "이기면",
+              "roman": "i-gi-myeon",
+              "english": "if wins",
+              "particle": false
+            },
+            {
+              "korean": "브라질",
+              "roman": "beu-ra-jil",
+              "english": "Brazil",
+              "particle": false
+            },
+            {
+              "korean": "은",
+              "roman": "eun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "우파",
+              "roman": "u-pa",
+              "english": "right wing",
+              "particle": false
+            },
+            {
+              "korean": "로",
+              "roman": "ro",
+              "english": "toward",
+              "particle": true
+            },
+            {
+              "korean": "이동한다",
+              "roman": "i-dong-han-da",
+              "english": "moves",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "A Lula victory would leave Brazil and Mexico led by left-of-center leaders.",
+          "korean": "룰라가 이기면 브라질과 멕시코는 중도좌파 지도자가 이끈다.",
+          "glossary": [
+            {
+              "korean": "룰라",
+              "roman": "rul-la",
+              "english": "Lula",
+              "particle": false
+            },
+            {
+              "korean": "가",
+              "roman": "ga",
+              "english": "subject marker",
+              "particle": true
+            },
+            {
+              "korean": "이기면",
+              "roman": "i-gi-myeon",
+              "english": "if wins",
+              "particle": false
+            },
+            {
+              "korean": "브라질",
+              "roman": "beu-ra-jil",
+              "english": "Brazil",
+              "particle": false
+            },
+            {
+              "korean": "과",
+              "roman": "gwa",
+              "english": "and",
+              "particle": true
+            },
+            {
+              "korean": "멕시코",
+              "roman": "mek-si-ko",
+              "english": "Mexico",
+              "particle": false
+            },
+            {
+              "korean": "는",
+              "roman": "neun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "중도좌파",
+              "roman": "jung-do-jwa-pa",
+              "english": "left of center",
+              "particle": false
+            },
+            {
+              "korean": "지도자가",
+              "roman": "ji-do-ja-ga",
+              "english": "leader",
+              "particle": false
+            },
+            {
+              "korean": "이끈다",
+              "roman": "i-kkeun-da",
+              "english": "leads",
+              "particle": false
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Because voting is electronic, the result can arrive within hours.",
+          "korean": "전자 투표로 결과는 몇 시간 안에 나올 수 있다.",
+          "glossary": [
+            {
+              "korean": "전자",
+              "roman": "jeon-ja",
+              "english": "electronic",
+              "particle": false
+            },
+            {
+              "korean": "투표",
+              "roman": "tu-pyo",
+              "english": "voting",
+              "particle": false
+            },
+            {
+              "korean": "로",
+              "roman": "ro",
+              "english": "by",
+              "particle": true
+            },
+            {
+              "korean": "결과",
+              "roman": "gyeol-gwa",
+              "english": "result",
+              "particle": false
+            },
+            {
+              "korean": "는",
+              "roman": "neun",
+              "english": "topic marker",
+              "particle": true
+            },
+            {
+              "korean": "몇",
+              "roman": "myeot",
+              "english": "several",
+              "particle": false
+            },
+            {
+              "korean": "시간",
+              "roman": "si-gan",
+              "english": "hours",
+              "particle": false
+            },
+            {
+              "korean": "안",
+              "roman": "an",
+              "english": "within",
+              "particle": false
+            },
+            {
+              "korean": "에",
+              "roman": "e",
+              "english": "in",
+              "particle": true
+            },
+            {
+              "korean": "나올",
+              "roman": "na-ol",
+              "english": "come out",
+              "particle": false
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
+              "particle": false
+            },
+            {
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "can be",
+              "particle": false
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/brazil-votes-in-tense-lula-vs-bolsonaro-runoff-with-us-influence-over-latin-america-at-stake/article71623468.ece"
+    },
     {
       "category": "World",
       "korean_title": "프랑스 시위, 다시 거리로",
@@ -8823,306 +9445,6 @@
         }
       ],
       "url": "https://www.thehindu.com/news/international/immigrants-seeking-us-citizenship-face-charges-in-a-crackdown-on-illegal-voting-and-citizenship-fraud/article71614953.ece"
-    },
-    {
-      "category": "World",
-      "korean_title": "트럼프, 플로리다서 조기 투표",
-      "english_title": "Trump Votes Early in Florida",
-      "korean_desc": "2026년 미국 중간선거가 플로리다에서 진행 중입니다. 도널드 트럼프는 2026년 10월 24일 일찍 투표했습니다. 그는 플로리다에서 모든 공화당 후보에게 투표했다고 말했습니다. 트럼프와 멜라니아 트럼프는 팜비치 카운티 투표소에서 함께 투표했습니다. 투표 후 트럼프는 조지아 집회에서 연설했습니다. 그는 플로리다 선거에서 바이런 도널즈와 애슐리 무디를 지지했습니다.",
-      "english_desc": "The 2026 U.S. midterm elections are underway in Florida. Donald Trump cast his ballot early on October 24, 2026. He said he voted for all Republicans in Florida. Trump and Melania Trump voted together at a Palm Beach County location. After voting, Trump spoke at a rally in Georgia. He also endorsed Byron Donalds and Ashley Moody in Florida races.",
-      "hook": "Trump voted early, then kept the campaign conversation very much alive.",
-      "korean_hook": "트럼프는 일찍 투표하고 선거 이야기를 이어갔어요.",
-      "glossary": [
-        {
-          "korean": "2026년",
-          "english": "2026"
-        },
-        {
-          "korean": "미국",
-          "english": "United States"
-        },
-        {
-          "korean": "중간선거",
-          "english": "midterm elections"
-        },
-        {
-          "korean": "가",
-          "english": "subject marker"
-        },
-        {
-          "korean": "플로리다",
-          "english": "Florida"
-        },
-        {
-          "korean": "에서",
-          "english": "in"
-        },
-        {
-          "korean": "진행 중입니다",
-          "english": "are underway"
-        },
-        {
-          "korean": "도널드 트럼프",
-          "english": "Donald Trump"
-        },
-        {
-          "korean": "는",
-          "english": "topic marker"
-        },
-        {
-          "korean": "10월",
-          "english": "October"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The 2026 U.S. midterm elections are underway in Florida.",
-          "korean": "2026년 미국 중간선거가 플로리다에서 진행 중입니다.",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "english": "2026"
-            },
-            {
-              "korean": "미국",
-              "english": "United States"
-            },
-            {
-              "korean": "중간선거",
-              "english": "midterm elections"
-            },
-            {
-              "korean": "가",
-              "english": "subject marker"
-            },
-            {
-              "korean": "플로리다",
-              "english": "Florida"
-            },
-            {
-              "korean": "에서",
-              "english": "in"
-            },
-            {
-              "korean": "진행 중입니다",
-              "english": "are underway"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Donald Trump cast his ballot early on October 24, 2026.",
-          "korean": "도널드 트럼프는 2026년 10월 24일 일찍 투표했습니다.",
-          "glossary": [
-            {
-              "korean": "도널드 트럼프",
-              "english": "Donald Trump"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "2026년",
-              "english": "2026"
-            },
-            {
-              "korean": "10월",
-              "english": "October"
-            },
-            {
-              "korean": "24일",
-              "english": "24th"
-            },
-            {
-              "korean": "일찍",
-              "english": "early"
-            },
-            {
-              "korean": "투표했습니다",
-              "english": "voted"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "He said he voted for all Republicans in Florida.",
-          "korean": "그는 플로리다에서 모든 공화당 후보에게 투표했다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "english": "he"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "플로리다",
-              "english": "Florida"
-            },
-            {
-              "korean": "에서",
-              "english": "in"
-            },
-            {
-              "korean": "모든",
-              "english": "all"
-            },
-            {
-              "korean": "공화당",
-              "english": "Republican Party"
-            },
-            {
-              "korean": "후보",
-              "english": "candidates"
-            },
-            {
-              "korean": "에게",
-              "english": "to"
-            },
-            {
-              "korean": "투표했다고",
-              "english": "voted"
-            },
-            {
-              "korean": "말했습니다",
-              "english": "said"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Trump and Melania Trump voted together at a Palm Beach County location.",
-          "korean": "트럼프와 멜라니아 트럼프는 팜비치 카운티 투표소에서 함께 투표했습니다.",
-          "glossary": [
-            {
-              "korean": "트럼프",
-              "english": "Trump"
-            },
-            {
-              "korean": "와",
-              "english": "and"
-            },
-            {
-              "korean": "멜라니아 트럼프",
-              "english": "Melania Trump"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "팜비치 카운티",
-              "english": "Palm Beach County"
-            },
-            {
-              "korean": "투표소",
-              "english": "polling place"
-            },
-            {
-              "korean": "에서",
-              "english": "at"
-            },
-            {
-              "korean": "함께",
-              "english": "together"
-            },
-            {
-              "korean": "투표했습니다",
-              "english": "voted"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "After voting, Trump spoke at a rally in Georgia.",
-          "korean": "투표 후 트럼프는 조지아 집회에서 연설했습니다.",
-          "glossary": [
-            {
-              "korean": "투표",
-              "english": "voting"
-            },
-            {
-              "korean": "후",
-              "english": "after"
-            },
-            {
-              "korean": "트럼프",
-              "english": "Trump"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "조지아",
-              "english": "Georgia"
-            },
-            {
-              "korean": "집회",
-              "english": "rally"
-            },
-            {
-              "korean": "에서",
-              "english": "at"
-            },
-            {
-              "korean": "연설했습니다",
-              "english": "spoke"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "He also endorsed Byron Donalds and Ashley Moody in Florida races.",
-          "korean": "그는 플로리다 선거에서 바이런 도널즈와 애슐리 무디를 지지했습니다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "english": "he"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "플로리다",
-              "english": "Florida"
-            },
-            {
-              "korean": "선거",
-              "english": "elections"
-            },
-            {
-              "korean": "에서",
-              "english": "in"
-            },
-            {
-              "korean": "바이런 도널즈",
-              "english": "Byron Donalds"
-            },
-            {
-              "korean": "와",
-              "english": "and"
-            },
-            {
-              "korean": "애슐리 무디",
-              "english": "Ashley Moody"
-            },
-            {
-              "korean": "를",
-              "english": "object marker"
-            },
-            {
-              "korean": "지지했습니다",
-              "english": "endorsed"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/trump-casts-his-midterm-ballot-early-in-florida/article71621475.ece"
     }
   ]
 }
