@@ -298,7 +298,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "hook": the headline hook. Plain words, under 10 words, with a surprising contrast between two facts from the article, in the form "Korea aimed for 21 golds. It won 29." Playful and accurate, and it must not add any fact.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same playful tone
 - "sticker": a short playful line for the cover sticker, under 6 words, with at most one emoji (for example "Okay, this one's a flex 💅")
-- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Keep each English sentence under 25 words. Each object has:
+- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 20 to 30 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
