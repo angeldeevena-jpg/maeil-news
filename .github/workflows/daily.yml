@@ -19,6 +19,14 @@ jobs:
         with:
           node-version: '20'
 
+      # Fonts and a browser, used to draw the slide images
+      - name: Install fonts and browser
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y fonts-noto-cjk fonts-noto-color-emoji
+          npm install --no-save playwright@1.47.2
+          npx playwright install --with-deps chromium
+
       # One run per region, one after another, so they share the usage counter safely
       - name: Make the Korean cards
         env:
