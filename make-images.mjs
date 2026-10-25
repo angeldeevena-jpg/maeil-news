@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 17;
+export const IMAGE_VERSION = 18;
 
 const W = 1080;
 const H = 1350;
@@ -106,7 +106,7 @@ function coverSlide(c, logo, total) {
 
 // Slide 2: title (black). Neutral label, the headline fills the middle of the slide.
 function titleSlide(c, logo, total) {
-  const fit = `(function(){var box=document.getElementById('main'),en=document.getElementById('en'),ko=document.getElementById('ko'),a=140,b=110;` +
+  const fit = `(function(){var box=document.getElementById('main'),en=document.getElementById('en'),ko=document.getElementById('ko'),a=116,b=94;` +
     `while(box.scrollHeight>box.clientHeight&&a>60){a-=2;b-=2;en.style.fontSize=a+'px';ko.style.fontSize=b+'px';}})();`;
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: #000; color: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
   <div style="display: flex; align-items: center; justify-content: space-between">
@@ -118,8 +118,8 @@ function titleSlide(c, logo, total) {
   </div>
   <div id="main" style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0; overflow: hidden">
     <div style="align-self: flex-start; padding: 10px 22px; background: #FF5FA2; color: #000; font-size: 30px; font-weight: 900; transform: rotate(2deg)">THE HEADLINE</div>
-    <div id="en" style="font-size: 140px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.english_title)}</div>
-    <div id="ko" style="font-size: 110px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_title)}</div>
+    <div id="en" style="font-size: 116px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.source_title || c.english_title)}</div>
+    <div id="ko" style="font-size: 94px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_title)}</div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: #FFFFFF">
     <span>Read it. Then say it out loud.</span>

@@ -144,6 +144,7 @@ async function main() {
           takeaway_english: items[i].takeaway || '',
           takeaway_korean: items[i].takeaway_korean || '',
           why_it_matters: normalizeWhy(items[i].why_it_matters),
+          source_title: a.title,
           glossary,
           sentences,
           url: a.link
