@@ -1,9 +1,1266 @@
 {
   "date": "2026-10-26",
   "status": "ai",
-  "note": "9 new cards made, 15 kept. Cost this run about $0.0178",
-  "generated_at": "2026-10-25T17:11:21.708Z",
+  "note": "2 new cards made, 22 kept. Cost this run about $0.0051",
+  "generated_at": "2026-10-25T17:20:41.813Z",
   "cards": [
+    {
+      "category": "Politics & Society",
+      "korean_title": "무이주, 반인도 캠페인 재개하나",
+      "english_title": "Shahid Warns of a New Anti-India Campaign",
+      "korean_desc": "몰디브의 대선과 인도와의 관계가 다시 쟁점이 될 수 있습니다. 무이주의 파키스탄 방문 뒤, 압둘라 샤히드는 무이주가 몰디브의 2023년 인도 퇴출 캠페인을 재개할 수 있다고 말했습니다. 무이주 대통령은 10월 20일부터 22일까지 파키스탄을 사흘 동안 방문했습니다. 두 나라는 국방과 해양 안보 등을 포함한 20개 양해각서를 체결했습니다. 샤히드는 2028년 대선을 앞두고 MDP 지도부 선거에 출마하고 있습니다. 몰디브 정부 대변인은 샤히드의 발언에 답하지 않았습니다. 인도 외교부는 상황을 주시하며 필요한 조치를 취하겠다고 밝혔습니다.",
+      "english_desc": "Maldives elections and ties with India could become an issue again. After Muizzu’s Pakistan visit, Abdulla Shahid said Muizzu could revive Maldives’ 2023 India Out campaign. Muizzu visited Pakistan from October 20 to 22 for three days. The two countries signed 20 memorandums covering areas including defence and maritime security. Shahid is seeking MDP leadership before the 2028 presidential election. The Maldives government spokesperson did not respond to Shahid’s comments. India’s foreign ministry said it was watching developments and would take necessary steps.",
+      "hook": "Shahid says Muizzu may revive anti-India politics.",
+      "sticker": "정치권의 새 갈등",
+      "korean_hook": "샤히드, 무이주가 반인도 정치를 재개할 수 있다고 말해",
+      "glossary": [
+        {
+          "korean": "무이주의",
+          "roman": "mu-i-ju-ui",
+          "english": "Muizzu's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "파키스탄",
+          "roman": "pa-ki-seu-tan",
+          "english": "Pakistan",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "방문",
+          "roman": "bang-mun",
+          "english": "visit",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "뒤",
+          "roman": "dwi",
+          "english": "after",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "압둘라",
+          "roman": "ap-dul-la",
+          "english": "Abdulla",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "샤히드는",
+          "roman": "sya-hi-deu-neun",
+          "english": "Shahid",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "무이주가",
+          "roman": "mu-i-ju-ga",
+          "english": "Muizzu",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "몰디브의",
+          "roman": "mol-di-beu-ui",
+          "english": "Maldives'",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "2023년",
+          "roman": "i-cheon-i-sip-sam-nyeon",
+          "english": "2023",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "인도",
+          "roman": "in-do",
+          "english": "India",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "퇴출",
+          "roman": "toe-chul",
+          "english": "expulsion",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "캠페인을",
+          "roman": "kaem-pe-in-eul",
+          "english": "campaign",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "재개할",
+          "roman": "jae-gae-hal",
+          "english": "revive",
+          "particle": false,
+          "suffix": "할"
+        },
+        {
+          "korean": "수",
+          "roman": "su",
+          "english": "possibility",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "있다고",
+          "roman": "it-da-go",
+          "english": "could, saying",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "말했습니다",
+          "roman": "mal-haet-seum-ni-da",
+          "english": "said",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Maldives elections and ties with India could become an issue again.",
+          "korean": "몰디브의 대선과 인도와의 관계가 다시 쟁점이 될 수 있습니다.",
+          "glossary": [
+            {
+              "korean": "몰디브의",
+              "roman": "mol-di-beu-ui",
+              "english": "Maldives'",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "대선과",
+              "roman": "dae-seon-gwa",
+              "english": "presidential election and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "인도와의",
+              "roman": "in-do-wa-ui",
+              "english": "with India",
+              "particle": false,
+              "suffix": "와의"
+            },
+            {
+              "korean": "관계가",
+              "roman": "gwan-gye-ga",
+              "english": "relations",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "다시",
+              "roman": "da-si",
+              "english": "again",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "쟁점이",
+              "roman": "jaeng-jeom-i",
+              "english": "an issue",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "될",
+              "roman": "doel",
+              "english": "become",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있습니다",
+              "roman": "it-seum-ni-da",
+              "english": "there is",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "After Muizzu’s Pakistan visit, Abdulla Shahid said Muizzu could revive Maldives’ 2023 India Out campaign.",
+          "korean": "무이주의 파키스탄 방문 뒤, 압둘라 샤히드는 무이주가 몰디브의 2023년 인도 퇴출 캠페인을 재개할 수 있다고 말했습니다.",
+          "glossary": [
+            {
+              "korean": "무이주의",
+              "roman": "mu-i-ju-ui",
+              "english": "Muizzu's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "파키스탄",
+              "roman": "pa-ki-seu-tan",
+              "english": "Pakistan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방문",
+              "roman": "bang-mun",
+              "english": "visit",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "압둘라",
+              "roman": "ap-dul-la",
+              "english": "Abdulla",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "샤히드는",
+              "roman": "sya-hi-deu-neun",
+              "english": "Shahid",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "무이주가",
+              "roman": "mu-i-ju-ga",
+              "english": "Muizzu",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "몰디브의",
+              "roman": "mol-di-beu-ui",
+              "english": "Maldives'",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "2023년",
+              "roman": "i-cheon-i-sip-sam-nyeon",
+              "english": "2023",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "인도",
+              "roman": "in-do",
+              "english": "India",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "퇴출",
+              "roman": "toe-chul",
+              "english": "expulsion",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "캠페인을",
+              "roman": "kaem-pe-in-eul",
+              "english": "campaign",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "재개할",
+              "roman": "jae-gae-hal",
+              "english": "revive",
+              "particle": false,
+              "suffix": "할"
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다고",
+              "roman": "it-da-go",
+              "english": "could, saying",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했습니다",
+              "roman": "mal-haet-seum-ni-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "context",
+          "english": "Muizzu visited Pakistan from October 20 to 22 for three days.",
+          "korean": "무이주 대통령은 10월 20일부터 22일까지 파키스탄을 사흘 동안 방문했습니다.",
+          "glossary": [
+            {
+              "korean": "무이주",
+              "roman": "mu-i-ju",
+              "english": "Muizzu",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대통령은",
+              "roman": "dae-tong-nyeong-eun",
+              "english": "president",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "10월",
+              "roman": "si-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "20일부터",
+              "roman": "i-sip-il-bu-teo",
+              "english": "from the 20th",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "22일까지",
+              "roman": "i-sip-i-il-kka-ji",
+              "english": "through the 22nd",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "파키스탄을",
+              "roman": "pa-ki-seu-tan-eul",
+              "english": "Pakistan",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "사흘",
+              "roman": "sa-heul",
+              "english": "three days",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "동안",
+              "roman": "dong-an",
+              "english": "during",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방문했습니다",
+              "roman": "bang-mun-haet-seum-ni-da",
+              "english": "visited",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "context",
+          "english": "The two countries signed 20 memorandums covering areas including defence and maritime security.",
+          "korean": "두 나라는 국방과 해양 안보 등을 포함한 20개 양해각서를 체결했습니다.",
+          "glossary": [
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나라는",
+              "roman": "na-ra-neun",
+              "english": "countries",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "국방과",
+              "roman": "guk-bang-gwa",
+              "english": "defence and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "해양",
+              "roman": "hae-yang",
+              "english": "maritime",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "안보",
+              "roman": "an-bo",
+              "english": "security",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "등을",
+              "roman": "deung-eul",
+              "english": "and others",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "포함한",
+              "roman": "po-ham-han",
+              "english": "including",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "20개",
+              "roman": "i-sip-gae",
+              "english": "20",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "양해각서를",
+              "roman": "yang-hae-gak-seo-reul",
+              "english": "memorandums",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "체결했습니다",
+              "roman": "che-gyeol-haet-seum-ni-da",
+              "english": "signed",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Shahid is seeking MDP leadership before the 2028 presidential election.",
+          "korean": "샤히드는 2028년 대선을 앞두고 MDP 지도부 선거에 출마하고 있습니다.",
+          "glossary": [
+            {
+              "korean": "샤히드는",
+              "roman": "sya-hi-deu-neun",
+              "english": "Shahid",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2028년",
+              "roman": "i-cheon-i-sip-pal-nyeon",
+              "english": "2028",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "대선을",
+              "roman": "dae-seon-eul",
+              "english": "presidential election",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "앞두고",
+              "roman": "ap-du-go",
+              "english": "ahead of",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "MDP",
+              "roman": "MDP",
+              "english": "MDP",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도부",
+              "roman": "ji-do-bu",
+              "english": "leadership",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선거에",
+              "roman": "seon-geo-e",
+              "english": "in the election",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "출마하고",
+              "roman": "chul-ma-ha-go",
+              "english": "running",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "있습니다",
+              "roman": "it-seum-ni-da",
+              "english": "is",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The Maldives government spokesperson did not respond to Shahid’s comments.",
+          "korean": "몰디브 정부 대변인은 샤히드의 발언에 답하지 않았습니다.",
+          "glossary": [
+            {
+              "korean": "몰디브",
+              "roman": "mol-di-beu",
+              "english": "Maldives",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정부",
+              "roman": "jeong-bu",
+              "english": "government",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대변인은",
+              "roman": "dae-byeon-in-eun",
+              "english": "spokesperson",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "샤히드의",
+              "roman": "sya-hi-deu-ui",
+              "english": "Shahid's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "발언에",
+              "roman": "bal-eon-e",
+              "english": "to comments",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "답하지",
+              "roman": "dap-ha-ji",
+              "english": "respond",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았습니다",
+              "roman": "a-na-sseum-ni-da",
+              "english": "did not",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "India’s foreign ministry said it was watching developments and would take necessary steps.",
+          "korean": "인도 외교부는 상황을 주시하며 필요한 조치를 취하겠다고 밝혔습니다.",
+          "glossary": [
+            {
+              "korean": "인도",
+              "roman": "in-do",
+              "english": "India",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "외교부는",
+              "roman": "oe-gyo-bu-neun",
+              "english": "foreign ministry",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "상황을",
+              "roman": "sang-hwang-eul",
+              "english": "developments",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "주시하며",
+              "roman": "ju-si-ha-myeo",
+              "english": "watching",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "필요한",
+              "roman": "pil-yo-han",
+              "english": "necessary",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "조치를",
+              "roman": "jo-chi-reul",
+              "english": "steps",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "취하겠다고",
+              "roman": "chwi-ha-get-da-go",
+              "english": "would take",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔습니다",
+              "roman": "bal-kyeot-seum-ni-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/muizzu-could-stir-up-anti-india-campaign-again-former-maldives-minister-abdullah-shahid/article71624124.ece",
+      "short_english": "After Muizzu’s Pakistan visit, Abdulla Shahid said Muizzu could revive Maldives’ 2023 India Out campaign.",
+      "short_korean": "무이주의 파키스탄 방문 뒤, 압둘라 샤히드는 무이주가 몰디브의 2023년 인도 퇴출 캠페인을 재개할 수 있다고 말했습니다.",
+      "images": [
+        "images/indian/d93e468cf523/1.jpg",
+        "images/indian/d93e468cf523/2.jpg",
+        "images/indian/d93e468cf523/3.jpg",
+        "images/indian/d93e468cf523/4.jpg",
+        "images/indian/d93e468cf523/5.jpg",
+        "images/indian/d93e468cf523/6.jpg",
+        "images/indian/d93e468cf523/7.jpg",
+        "images/indian/d93e468cf523/8.jpg",
+        "images/indian/d93e468cf523/9.jpg",
+        "images/indian/d93e468cf523/10.jpg"
+      ],
+      "images_v": 8
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "북안드라 세 지역, 사이클론 대비",
+      "english_title": "Three North Andhra Districts Prepare for Cyclone",
+      "korean_desc": "벵골만의 깊은 저기압이 사이클론으로 강해질 것으로 예상됐습니다. 일요일에 북안드라 세 지역은 통제실을 열고 구호센터를 준비하며 사이클론에 대비했습니다. 세 지역은 비사카파트남, 아나카팔리, 알루리 시타라마 라주입니다. 당국은 저지대와 해안 지역 주민을 확인하고 대피시킬 계획입니다. 이전에 일곱 지역 주민들이 대피했으며, 당국은 그들을 다시 이동시키려 합니다. 어부들은 바다에 나가지 말고, 주민과 관광객은 해변을 피하라는 안내를 받았습니다. 당국은 상황과 기상청 예보를 검토한 뒤 월요일에 교육기관 휴교 여부를 결정합니다.",
+      "english_desc": "The deep depression over the Bay of Bengal was expected to strengthen into a cyclone. On Sunday, three North Andhra districts prepared for a cyclone by opening control rooms and readying relief centres. The three districts are Visakhapatnam, Anakapalli, and Alluri Sitharama Raju. Officials planned to identify and relocate people in low-lying and coastal areas. Residents from seven areas had already been evacuated, and officials planned to move them again. Fishermen were told to stay off the sea, while residents and tourists were warned away from beaches. Officials will decide school holidays on Monday after reviewing conditions and the weather forecast.",
+      "hook": "Three districts prepared as a cyclone could strengthen.",
+      "sticker": "폭풍 대비에 나선 지역",
+      "korean_hook": "사이클론 가능성에 세 지역이 대비했습니다",
+      "glossary": [
+        {
+          "korean": "일요일에",
+          "roman": "il-yo-il-e",
+          "english": "on Sunday",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "북안드라",
+          "roman": "buk-an-deu-ra",
+          "english": "North Andhra",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "세",
+          "roman": "se",
+          "english": "three",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "지역은",
+          "roman": "ji-yeog-eun",
+          "english": "districts",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "통제실을",
+          "roman": "tong-je-sil-eul",
+          "english": "control rooms",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "열고",
+          "roman": "yeol-go",
+          "english": "opening",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "구호센터를",
+          "roman": "gu-ho-sen-teo-reul",
+          "english": "relief centres",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "준비하며",
+          "roman": "jun-bi-ha-myeo",
+          "english": "readying",
+          "particle": false,
+          "suffix": "며"
+        },
+        {
+          "korean": "사이클론에",
+          "roman": "sai-keul-lon-e",
+          "english": "for a cyclone",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "대비했습니다",
+          "roman": "dae-bi-haet-seum-ni-da",
+          "english": "prepared",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "The deep depression over the Bay of Bengal was expected to strengthen into a cyclone.",
+          "korean": "벵골만의 깊은 저기압이 사이클론으로 강해질 것으로 예상됐습니다.",
+          "glossary": [
+            {
+              "korean": "벵골만의",
+              "roman": "beng-gol-man-ui",
+              "english": "Bay of Bengal's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "깊은",
+              "roman": "gi-peun",
+              "english": "deep",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "저기압이",
+              "roman": "jeo-gi-ap-i",
+              "english": "depression",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "사이클론으로",
+              "roman": "sai-keul-lon-eu-ro",
+              "english": "into a cyclone",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "강해질",
+              "roman": "gang-hae-jil",
+              "english": "strengthen",
+              "particle": false,
+              "suffix": "질"
+            },
+            {
+              "korean": "것으로",
+              "roman": "geot-eu-ro",
+              "english": "as expected",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "예상됐습니다",
+              "roman": "ye-sang-dwaet-seum-ni-da",
+              "english": "was expected",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "On Sunday, three North Andhra districts prepared for a cyclone by opening control rooms and readying relief centres.",
+          "korean": "일요일에 북안드라 세 지역은 통제실을 열고 구호센터를 준비하며 사이클론에 대비했습니다.",
+          "glossary": [
+            {
+              "korean": "일요일에",
+              "roman": "il-yo-il-e",
+              "english": "on Sunday",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "북안드라",
+              "roman": "buk-an-deu-ra",
+              "english": "North Andhra",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역은",
+              "roman": "ji-yeog-eun",
+              "english": "districts",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "통제실을",
+              "roman": "tong-je-sil-eul",
+              "english": "control rooms",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "열고",
+              "roman": "yeol-go",
+              "english": "opening",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "구호센터를",
+              "roman": "gu-ho-sen-teo-reul",
+              "english": "relief centres",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "준비하며",
+              "roman": "jun-bi-ha-myeo",
+              "english": "readying",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "사이클론에",
+              "roman": "sai-keul-lon-e",
+              "english": "for a cyclone",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "대비했습니다",
+              "roman": "dae-bi-haet-seum-ni-da",
+              "english": "prepared",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "context",
+          "english": "The three districts are Visakhapatnam, Anakapalli, and Alluri Sitharama Raju.",
+          "korean": "세 지역은 비사카파트남, 아나카팔리, 알루리 시타라마 라주입니다.",
+          "glossary": [
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역은",
+              "roman": "ji-yeog-eun",
+              "english": "districts",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "비사카파트남",
+              "roman": "bi-sa-ka-pa-teu-nam",
+              "english": "Visakhapatnam",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아나카팔리",
+              "roman": "a-na-ka-pal-li",
+              "english": "Anakapalli",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "알루리",
+              "roman": "al-lu-ri",
+              "english": "Alluri",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시타라마",
+              "roman": "si-ta-ra-ma",
+              "english": "Sitharama",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "라주입니다",
+              "roman": "ra-ju-im-ni-da",
+              "english": "Raju are",
+              "particle": false,
+              "suffix": "입니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Officials planned to identify and relocate people in low-lying and coastal areas.",
+          "korean": "당국은 저지대와 해안 지역 주민을 확인하고 대피시킬 계획입니다.",
+          "glossary": [
+            {
+              "korean": "당국은",
+              "roman": "dang-gug-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "저지대와",
+              "roman": "jeo-ji-dae-wa",
+              "english": "low-lying areas and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "해안",
+              "roman": "hae-an",
+              "english": "coastal",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역",
+              "roman": "ji-yeog",
+              "english": "areas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주민을",
+              "roman": "ju-min-eul",
+              "english": "residents",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "확인하고",
+              "roman": "hwag-in-ha-go",
+              "english": "identify",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "대피시킬",
+              "roman": "dae-pi-si-kil",
+              "english": "relocate",
+              "particle": false,
+              "suffix": "킬"
+            },
+            {
+              "korean": "계획입니다",
+              "roman": "gye-hoeg-im-ni-da",
+              "english": "plan",
+              "particle": false,
+              "suffix": "입니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Residents from seven areas had already been evacuated, and officials planned to move them again.",
+          "korean": "이전에 일곱 지역 주민들이 대피했으며, 당국은 그들을 다시 이동시키려 합니다.",
+          "glossary": [
+            {
+              "korean": "이전에",
+              "roman": "i-jeon-e",
+              "english": "earlier",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "일곱",
+              "roman": "il-gop",
+              "english": "seven",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역",
+              "roman": "ji-yeog",
+              "english": "areas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주민들이",
+              "roman": "ju-min-deul-i",
+              "english": "residents",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "대피했으며",
+              "roman": "dae-pi-haet-eu-myeo",
+              "english": "were evacuated",
+              "particle": false,
+              "suffix": "으며"
+            },
+            {
+              "korean": "당국은",
+              "roman": "dang-gug-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "그들을",
+              "roman": "geu-deul-eul",
+              "english": "them",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "다시",
+              "roman": "da-si",
+              "english": "again",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이동시키려",
+              "roman": "i-dong-si-ki-ryeo",
+              "english": "plan to move",
+              "particle": false,
+              "suffix": "려"
+            },
+            {
+              "korean": "합니다",
+              "roman": "ham-ni-da",
+              "english": "do",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Fishermen were told to stay off the sea, while residents and tourists were warned away from beaches.",
+          "korean": "어부들은 바다에 나가지 말고, 주민과 관광객은 해변을 피하라는 안내를 받았습니다.",
+          "glossary": [
+            {
+              "korean": "어부들은",
+              "roman": "eo-bu-deul-eun",
+              "english": "fishermen",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "바다에",
+              "roman": "ba-da-e",
+              "english": "to the sea",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "나가지",
+              "roman": "na-ga-ji",
+              "english": "go out",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "말고",
+              "roman": "mal-go",
+              "english": "do not",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "주민과",
+              "roman": "ju-min-gwa",
+              "english": "residents and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "관광객은",
+              "roman": "gwan-gwang-gaeg-eun",
+              "english": "tourists",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "해변을",
+              "roman": "hae-byeon-eul",
+              "english": "beaches",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "피하라는",
+              "roman": "pi-ha-ra-neun",
+              "english": "to avoid",
+              "particle": false,
+              "suffix": "라는"
+            },
+            {
+              "korean": "안내를",
+              "roman": "an-nae-reul",
+              "english": "guidance",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "받았습니다",
+              "roman": "ba-dat-seum-ni-da",
+              "english": "received",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Officials will decide school holidays on Monday after reviewing conditions and the weather forecast.",
+          "korean": "당국은 상황과 기상청 예보를 검토한 뒤 월요일에 교육기관 휴교 여부를 결정합니다.",
+          "glossary": [
+            {
+              "korean": "당국은",
+              "roman": "dang-gug-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "상황과",
+              "roman": "sang-hwang-gwa",
+              "english": "conditions and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "기상청",
+              "roman": "gi-sang-cheong",
+              "english": "weather service",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "예보를",
+              "roman": "ye-bo-reul",
+              "english": "forecast",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "검토한",
+              "roman": "geom-to-han",
+              "english": "reviewing",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "월요일에",
+              "roman": "wol-yo-il-e",
+              "english": "on Monday",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "교육기관",
+              "roman": "gyo-yug-gi-gwan",
+              "english": "educational institutions",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "휴교",
+              "roman": "hyu-gyo",
+              "english": "school closure",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여부를",
+              "roman": "yeo-bu-reul",
+              "english": "whether",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "결정합니다",
+              "roman": "gyeol-jeong-ham-ni-da",
+              "english": "will decide",
+              "particle": false,
+              "suffix": "합니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/three-north-andhra-districts-step-up-cyclone-preparedness/article71624037.ece",
+      "short_english": "On Sunday, three North Andhra districts prepared for a cyclone by opening control rooms and readying relief centres.",
+      "short_korean": "일요일에 북안드라 세 지역은 통제실을 열고 구호센터를 준비하며 사이클론에 대비했습니다.",
+      "images": [
+        "images/indian/d571ced8f196/1.jpg",
+        "images/indian/d571ced8f196/2.jpg",
+        "images/indian/d571ced8f196/3.jpg",
+        "images/indian/d571ced8f196/4.jpg",
+        "images/indian/d571ced8f196/5.jpg",
+        "images/indian/d571ced8f196/6.jpg",
+        "images/indian/d571ced8f196/7.jpg",
+        "images/indian/d571ced8f196/8.jpg",
+        "images/indian/d571ced8f196/9.jpg",
+        "images/indian/d571ced8f196/10.jpg"
+      ],
+      "images_v": 8
+    },
     {
       "category": "Politics & Society",
       "korean_title": "벵골만 폭풍, 해안으로",
@@ -549,7 +1806,7 @@
         "images/indian/8e56cd14e2d1/8.jpg",
         "images/indian/8e56cd14e2d1/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Politics & Society",
@@ -1089,1003 +2346,7 @@
         "images/indian/59cbd8d8d71b/8.jpg",
         "images/indian/59cbd8d8d71b/9.jpg"
       ],
-      "images_v": 6
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "닐기리, 하루에 산사태 62건",
-      "english_title": "Nilgiris Hit by 62 Landslips",
-      "korean_desc": "타밀나두의 취약한 닐기리 지역에 약한 비부터 보통 비까지 내렸습니다. 닐기리에서는 2026년 10월 25일 오전 7시까지 24시간 동안 산사태 62건이 발생했습니다. 비로 오두막 15채가 일부 파손되고 한 채가 완전히 무너졌습니다. 나무 28그루가 쓰러졌고 고압 전봇대 2개가 손상됐습니다. 메투팔라얌에서 쿠누르까지 구간의 교통은 계속 중단됐습니다. 메투팔라얌과 쿠누르 사이의 닐기리 산악철도 운행도 중단됐습니다.",
-      "english_desc": "Tamil Nadu’s fragile Nilgiris district received light to moderate rain. The Nilgiris recorded 62 landslips in 24 hours ending 7 a.m. on October 25, 2026. The rain damaged 15 huts partly and destroyed one hut completely. Twenty-eight trees fell, and two high-tension poles were damaged. Traffic remains suspended on the Mettupalayam–Coonoor stretch. Nilgiri Mountain Railway services between Mettupalayam and Coonoor were also suspended.",
-      "hook": "Light rain fell. Sixty-two landslips followed.",
-      "sticker": "The hills said nope",
-      "korean_hook": "비는 약했지만 산사태는 62건",
-      "glossary": [
-        {
-          "korean": "닐기리에서는",
-          "roman": "nilgiri-eseoneun",
-          "english": "in the Nilgiris",
-          "particle": false,
-          "suffix": "에서는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yuk-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "sipur-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "25일",
-          "roman": "isipo-il",
-          "english": "25th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "오전",
-          "roman": "ojeon",
-          "english": "a.m.",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "7시까지",
-          "roman": "ilgop-si-kkaji",
-          "english": "until 7",
-          "particle": false,
-          "suffix": "까지"
-        },
-        {
-          "korean": "24시간",
-          "roman": "isipsa-sigan",
-          "english": "24 hours",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "동안",
-          "roman": "dongan",
-          "english": "during",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "산사태",
-          "roman": "sansatae",
-          "english": "landslips",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "62건이",
-          "roman": "yuksip-i-geon-i",
-          "english": "62 cases",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "발생했습니다",
-          "roman": "balsaenghaetseumnida",
-          "english": "occurred",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Tamil Nadu’s fragile Nilgiris district received light to moderate rain.",
-          "korean": "타밀나두의 취약한 닐기리 지역에 약한 비부터 보통 비까지 내렸습니다.",
-          "glossary": [
-            {
-              "korean": "타밀나두의",
-              "roman": "tamilnadu-ui",
-              "english": "Tamil Nadu's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "취약한",
-              "roman": "chwiyakan",
-              "english": "fragile",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "약한",
-              "roman": "yakan",
-              "english": "light",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "닐기리",
-              "roman": "nilgiri",
-              "english": "Nilgiris",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지역에",
-              "roman": "jiyeog-e",
-              "english": "district",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "비부터",
-              "roman": "bi-buteo",
-              "english": "from rain",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "보통",
-              "roman": "botong",
-              "english": "moderate",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "비까지",
-              "roman": "bi-kkaji",
-              "english": "to rain",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "내렸습니다",
-              "roman": "naeryeotseumnida",
-              "english": "fell",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The Nilgiris recorded 62 landslips in 24 hours ending 7 a.m. on October 25, 2026.",
-          "korean": "닐기리에서는 2026년 10월 25일 오전 7시까지 24시간 동안 산사태 62건이 발생했습니다.",
-          "glossary": [
-            {
-              "korean": "닐기리에서는",
-              "roman": "nilgiri-eseoneun",
-              "english": "in the Nilgiris",
-              "particle": false,
-              "suffix": "에서는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yuk-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sipur-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "25일",
-              "roman": "isipo-il",
-              "english": "25th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "오전",
-              "roman": "ojeon",
-              "english": "a.m.",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "7시까지",
-              "roman": "ilgop-si-kkaji",
-              "english": "until 7",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "24시간",
-              "roman": "isipsa-sigan",
-              "english": "24 hours",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "동안",
-              "roman": "dongan",
-              "english": "during",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "산사태",
-              "roman": "sansatae",
-              "english": "landslips",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "62건이",
-              "roman": "yuksip-i-geon-i",
-              "english": "62 cases",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "발생했습니다",
-              "roman": "balsaenghaetseumnida",
-              "english": "occurred",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The rain damaged 15 huts partly and destroyed one hut completely.",
-          "korean": "비로 오두막 15채가 일부 파손되고 한 채가 완전히 무너졌습니다.",
-          "glossary": [
-            {
-              "korean": "비로",
-              "roman": "bi-ro",
-              "english": "because of rain",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "오두막",
-              "roman": "odumak",
-              "english": "huts",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "15채가",
-              "roman": "sibo-chaega",
-              "english": "15 units",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "채가",
-              "roman": "chae-ga",
-              "english": "hut",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "일부",
-              "roman": "ilbu",
-              "english": "partly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "파손되고",
-              "roman": "pason-doego",
-              "english": "were damaged",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "완전히",
-              "roman": "wanjeonhi",
-              "english": "completely",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "무너졌습니다",
-              "roman": "muneojyeotseumnida",
-              "english": "collapsed",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Twenty-eight trees fell, and two high-tension poles were damaged.",
-          "korean": "나무 28그루가 쓰러졌고 고압 전봇대 2개가 손상됐습니다.",
-          "glossary": [
-            {
-              "korean": "나무",
-              "roman": "namu",
-              "english": "trees",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "28그루가",
-              "roman": "isip-pal-guru-ga",
-              "english": "28 trees",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "쓰러졌고",
-              "roman": "sseureojyeotgo",
-              "english": "fell",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "고압",
-              "roman": "goap",
-              "english": "high-tension",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전봇대",
-              "roman": "jeonbotdae",
-              "english": "poles",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "2개가",
-              "roman": "du-gae-ga",
-              "english": "two",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "손상됐습니다",
-              "roman": "sonsang-dwaetseumnida",
-              "english": "were damaged",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "Traffic remains suspended on the Mettupalayam–Coonoor stretch.",
-          "korean": "메투팔라얌에서 쿠누르까지 구간의 교통은 계속 중단됐습니다.",
-          "glossary": [
-            {
-              "korean": "메투팔라얌에서",
-              "roman": "metupallayam-eseo",
-              "english": "from Mettupalayam",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "쿠누르까지",
-              "roman": "kunur-kkaji",
-              "english": "to Coonoor",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "구간의",
-              "roman": "gugan-ui",
-              "english": "stretch's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "교통은",
-              "roman": "gyotong-eun",
-              "english": "traffic",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "계속",
-              "roman": "gyesok",
-              "english": "still",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중단됐습니다",
-              "roman": "jungdan-dwaetseumnida",
-              "english": "is suspended",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Nilgiri Mountain Railway services between Mettupalayam and Coonoor were also suspended.",
-          "korean": "메투팔라얌과 쿠누르 사이의 닐기리 산악철도 운행도 중단됐습니다.",
-          "glossary": [
-            {
-              "korean": "메투팔라얌과",
-              "roman": "metupallayam-gwa",
-              "english": "Mettupalayam and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "쿠누르",
-              "roman": "kunur",
-              "english": "Coonoor",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사이의",
-              "roman": "sai-ui",
-              "english": "between",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "닐기리",
-              "roman": "nilgiri",
-              "english": "Nilgiri",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "산악철도",
-              "roman": "sanak-cheoldo",
-              "english": "Mountain Railway",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "운행도",
-              "roman": "unhaeng-do",
-              "english": "services also",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "중단됐습니다",
-              "roman": "jungdan-dwaetseumnida",
-              "english": "were suspended",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/tamil-nadu/nilgiris-district-hit-by-62-minor-landslips-in-a-day-till-october-25-2026-morning/article71622616.ece",
-      "short_english": "The Nilgiris recorded 62 landslips in 24 hours ending 7 a.m. on October 25, 2026.",
-      "short_korean": "닐기리에서는 2026년 10월 25일 오전 7시까지 24시간 동안 산사태 62건이 발생했습니다.",
-      "images": [
-        "images/indian/e2efe31e3922/1.jpg",
-        "images/indian/e2efe31e3922/2.jpg",
-        "images/indian/e2efe31e3922/3.jpg",
-        "images/indian/e2efe31e3922/4.jpg",
-        "images/indian/e2efe31e3922/5.jpg",
-        "images/indian/e2efe31e3922/6.jpg",
-        "images/indian/e2efe31e3922/7.jpg",
-        "images/indian/e2efe31e3922/8.jpg",
-        "images/indian/e2efe31e3922/9.jpg"
-      ],
-      "images_v": 6
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "문나르 도로, 또 막혔다",
-      "english_title": "Munnar Traffic Ban Extended",
-      "korean_desc": "문나르는 산악 고속도로에서 반복되는 산사태를 겪고 있습니다. 문나르 지방 행정부는 큰 산사태 뒤 아디말리~문나르 교통 금지를 2주 더 연장했습니다. 첫 산사태는 고속도로 확장 작업 중 발생했습니다. 치우는 동안 더 많은 바위와 잔해가 떨어져 옹벽을 손상시켰습니다. 관계자들은 작업이 2주 안에 끝날 것으로 예상합니다. 전면 금지가 계속되는 동안 운전자들은 우회로를 이용해야 합니다.",
-      "english_desc": "Munnar is facing repeated landslips on a mountain highway. Munnar’s district administration extended the Adimaly–Munnar traffic ban for another two weeks after a major landslip. The first landslip happened during highway-widening work. More rock and debris fell during clearing and damaged the retaining wall. Officials expect the work to finish within two weeks. Motorists must use alternative routes while the full ban continues.",
-      "hook": "The road was clearing. Rocks came back.",
-      "sticker": "Roadwork: hard mode",
-      "korean_hook": "길을 치우자 바위가 돌아왔다",
-      "glossary": [
-        {
-          "korean": "문나르",
-          "roman": "munnareu",
-          "english": "Munnar",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "지방",
-          "roman": "jibang",
-          "english": "district",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "행정부는",
-          "roman": "haengjeongbu-neun",
-          "english": "administration",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "큰",
-          "roman": "keun",
-          "english": "major",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "산사태",
-          "roman": "sansatae",
-          "english": "landslip",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "뒤",
-          "roman": "dwi",
-          "english": "after",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "아디말리~문나르",
-          "roman": "adimali-munnareu",
-          "english": "Adimaly–Munnar",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "교통",
-          "roman": "gyotong",
-          "english": "traffic",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "금지를",
-          "roman": "geumji-reul",
-          "english": "ban",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "2주",
-          "roman": "i-ju",
-          "english": "two weeks",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "더",
-          "roman": "deo",
-          "english": "another",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "연장했습니다",
-          "roman": "yeonjanghaetseumnida",
-          "english": "extended",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Munnar is facing repeated landslips on a mountain highway.",
-          "korean": "문나르는 산악 고속도로에서 반복되는 산사태를 겪고 있습니다.",
-          "glossary": [
-            {
-              "korean": "문나르는",
-              "roman": "munnareu-neun",
-              "english": "Munnar",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "산악",
-              "roman": "sanak",
-              "english": "mountain",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "고속도로에서",
-              "roman": "gosokdoro-eseo",
-              "english": "on a highway",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "반복되는",
-              "roman": "banbok-doeneun",
-              "english": "repeated",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "산사태를",
-              "roman": "sansatae-reul",
-              "english": "landslips",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "겪고",
-              "roman": "gyeokgo",
-              "english": "experiencing",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "있습니다",
-              "roman": "isseumnida",
-              "english": "is",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Munnar’s district administration extended the Adimaly–Munnar traffic ban for another two weeks after a major landslip.",
-          "korean": "문나르 지방 행정부는 큰 산사태 뒤 아디말리~문나르 교통 금지를 2주 더 연장했습니다.",
-          "glossary": [
-            {
-              "korean": "문나르",
-              "roman": "munnareu",
-              "english": "Munnar",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지방",
-              "roman": "jibang",
-              "english": "district",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "행정부는",
-              "roman": "haengjeongbu-neun",
-              "english": "administration",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "큰",
-              "roman": "keun",
-              "english": "major",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "산사태",
-              "roman": "sansatae",
-              "english": "landslip",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "아디말리~문나르",
-              "roman": "adimali-munnareu",
-              "english": "Adimaly–Munnar",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "교통",
-              "roman": "gyotong",
-              "english": "traffic",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "금지를",
-              "roman": "geumji-reul",
-              "english": "ban",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "2주",
-              "roman": "i-ju",
-              "english": "two weeks",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "another",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "연장했습니다",
-              "roman": "yeonjanghaetseumnida",
-              "english": "extended",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "The first landslip happened during highway-widening work.",
-          "korean": "첫 산사태는 고속도로 확장 작업 중 발생했습니다.",
-          "glossary": [
-            {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "산사태는",
-              "roman": "sansatae-neun",
-              "english": "landslip",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "고속도로",
-              "roman": "gosokdoro",
-              "english": "highway",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "확장",
-              "roman": "hwakjang",
-              "english": "widening",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "작업",
-              "roman": "jageop",
-              "english": "work",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중",
-              "roman": "jung",
-              "english": "during",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "발생했습니다",
-              "roman": "balsaenghaetseumnida",
-              "english": "happened",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "More rock and debris fell during clearing and damaged the retaining wall.",
-          "korean": "치우는 동안 더 많은 바위와 잔해가 떨어져 옹벽을 손상시켰습니다.",
-          "glossary": [
-            {
-              "korean": "치우는",
-              "roman": "chiuneun",
-              "english": "clearing",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "동안",
-              "roman": "dongan",
-              "english": "during",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "많은",
-              "roman": "maneun",
-              "english": "much",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "바위와",
-              "roman": "bawi-wa",
-              "english": "rock and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "잔해가",
-              "roman": "janhae-ga",
-              "english": "debris",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "떨어져",
-              "roman": "tteoreojyeo",
-              "english": "fell",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "옹벽을",
-              "roman": "ongbyeok-eul",
-              "english": "retaining wall",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "손상시켰습니다",
-              "roman": "sonsangsikyeotseumnida",
-              "english": "damaged",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Officials expect the work to finish within two weeks.",
-          "korean": "관계자들은 작업이 2주 안에 끝날 것으로 예상합니다.",
-          "glossary": [
-            {
-              "korean": "관계자들은",
-              "roman": "gwangyejadeul-eun",
-              "english": "officials",
-              "particle": false,
-              "suffix": "들은"
-            },
-            {
-              "korean": "작업이",
-              "roman": "jageop-i",
-              "english": "work",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "2주",
-              "roman": "i-ju",
-              "english": "two weeks",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안에",
-              "roman": "an-e",
-              "english": "within",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "끝날",
-              "roman": "kkeutnal",
-              "english": "finish",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "것으로",
-              "roman": "geoseuro",
-              "english": "as",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "예상합니다",
-              "roman": "yesanghamnida",
-              "english": "expect",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Motorists must use alternative routes while the full ban continues.",
-          "korean": "전면 금지가 계속되는 동안 운전자들은 우회로를 이용해야 합니다.",
-          "glossary": [
-            {
-              "korean": "전면",
-              "roman": "jeonmyeon",
-              "english": "full",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "금지가",
-              "roman": "geumji-ga",
-              "english": "ban",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "계속되는",
-              "roman": "gyesok-doeneun",
-              "english": "continues",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "동안",
-              "roman": "dongan",
-              "english": "while",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "운전자들은",
-              "roman": "unjeonjadeul-eun",
-              "english": "motorists",
-              "particle": false,
-              "suffix": "들은"
-            },
-            {
-              "korean": "우회로를",
-              "roman": "uhoero-reul",
-              "english": "alternative routes",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "이용해야",
-              "roman": "iyonghaeya",
-              "english": "must use",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "합니다",
-              "roman": "hamnida",
-              "english": "must",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/kerala/traffic-ban-continue-in-munnar-after-another-landslip-on-kochidhanushkodi-national-highway/article71623815.ece",
-      "short_english": "Munnar’s district administration extended the Adimaly–Munnar traffic ban for another two weeks after a major landslip.",
-      "short_korean": "문나르 지방 행정부는 큰 산사태 뒤 아디말리~문나르 교통 금지를 2주 더 연장했습니다.",
-      "images": [
-        "images/indian/ba6661b09aba/1.jpg",
-        "images/indian/ba6661b09aba/2.jpg",
-        "images/indian/ba6661b09aba/3.jpg",
-        "images/indian/ba6661b09aba/4.jpg",
-        "images/indian/ba6661b09aba/5.jpg",
-        "images/indian/ba6661b09aba/6.jpg",
-        "images/indian/ba6661b09aba/7.jpg",
-        "images/indian/ba6661b09aba/8.jpg",
-        "images/indian/ba6661b09aba/9.jpg"
-      ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Business",
@@ -2667,7 +2928,7 @@
         "images/indian/7b8a5feb9ce3/8.jpg",
         "images/indian/7b8a5feb9ce3/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Business",
@@ -3333,7 +3594,7 @@
         "images/indian/95b4632b42d7/8.jpg",
         "images/indian/95b4632b42d7/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Business",
@@ -4055,7 +4316,7 @@
         "images/indian/a148c09ee457/8.jpg",
         "images/indian/a148c09ee457/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Business",
@@ -4707,7 +4968,7 @@
         "images/indian/e0b5f02f260b/8.jpg",
         "images/indian/e0b5f02f260b/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "K-pop",
@@ -5331,7 +5592,7 @@
         "images/indian/8b16051a3c57/8.jpg",
         "images/indian/8b16051a3c57/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Culture",
@@ -5962,7 +6223,7 @@
         "images/indian/ab45069ceea5/8.jpg",
         "images/indian/ab45069ceea5/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Culture",
@@ -6579,7 +6840,7 @@
         "images/indian/ee9deafe4be7/8.jpg",
         "images/indian/ee9deafe4be7/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Culture",
@@ -7224,7 +7485,7 @@
         "images/indian/aeb61827a536/8.jpg",
         "images/indian/aeb61827a536/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Sports",
@@ -7792,7 +8053,7 @@
         "images/indian/5d131a5515a0/8.jpg",
         "images/indian/5d131a5515a0/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Sports",
@@ -8677,7 +8938,7 @@
         "images/indian/dd71cd8df2af/10.jpg",
         "images/indian/dd71cd8df2af/11.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Sports",
@@ -9435,7 +9696,7 @@
         "images/indian/d5d2d0650273/9.jpg",
         "images/indian/d5d2d0650273/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "Sports",
@@ -10137,7 +10398,7 @@
         "images/indian/1c7a5bc2fffc/9.jpg",
         "images/indian/1c7a5bc2fffc/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "K-pop",
@@ -11014,7 +11275,7 @@
         "images/indian/ad661e417a38/9.jpg",
         "images/indian/ad661e417a38/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "K-pop",
@@ -11667,7 +11928,7 @@
         "images/indian/7df78b022348/9.jpg",
         "images/indian/7df78b022348/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "K-pop",
@@ -12368,7 +12629,7 @@
         "images/indian/6d3667c84495/8.jpg",
         "images/indian/6d3667c84495/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "K-pop",
@@ -12992,7 +13253,7 @@
         "images/indian/8b16051a3c57/8.jpg",
         "images/indian/8b16051a3c57/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "World",
@@ -13595,7 +13856,7 @@
         "images/indian/2b8c7c97e9a0/8.jpg",
         "images/indian/2b8c7c97e9a0/9.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "World",
@@ -14276,7 +14537,7 @@
         "images/indian/0d1473606a8a/9.jpg",
         "images/indian/0d1473606a8a/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "World",
@@ -14908,7 +15169,7 @@
         "images/indian/2a6d4322cbab/9.jpg",
         "images/indian/2a6d4322cbab/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     },
     {
       "category": "World",
@@ -15575,7 +15836,7 @@
         "images/indian/2b290243cee3/9.jpg",
         "images/indian/2b290243cee3/10.jpg"
       ],
-      "images_v": 6
+      "images_v": 8
     }
   ]
 }
