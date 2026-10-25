@@ -1,78 +1,110 @@
 // Maeil News daily generator.
-// Reads six korea.net news feeds, asks the AI for one Korean card per article,
-// and writes docs/cards.json. GitHub Pages publishes that file for the widget.
+// Reads the news feeds for one region (REGION env var), asks the AI for one Korean card per article,
+// and writes docs/<region file>.json. GitHub Pages publishes those files for the widget.
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
-const OUT_FILE = path.join(ROOT, 'docs', 'cards.json');
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
-const PER_CATEGORY = 8; // 6 feeds x 8 = 48 cards
+const PER_REGION = 24; // 24 cards per region, shared across its feeds
 const MAX_GLOSSARY = 10;
 
-// Korea Herald English feeds (korea.net could not be reached from GitHub)
-const FEEDS = [
-  { category: 'Politics & Society', url: 'https://www.koreaherald.com/rss/kh_National', file: 'politics.xml' },
-  { category: 'Business', url: 'https://www.koreaherald.com/rss/kh_Business', file: 'business.xml' },
-  { category: 'Culture', url: 'https://www.koreaherald.com/rss/kh_LifenCulture', file: 'culture.xml' },
-  { category: 'Sports', url: 'https://www.koreaherald.com/rss/kh_Sports', file: 'sports.xml' },
-  { category: 'K-pop', url: 'https://www.koreaherald.com/rss/kh_Kpop', file: 'kpop.xml' },
-  { category: 'World', url: 'https://www.koreaherald.com/rss/kh_World', file: 'world.xml' }
-];
+// Three news regions. Each writes its own file, so the widget can switch between them.
+// Korean: Korea Herald (the file the widget already reads stays docs/cards.json)
+// Indian and global: The Hindu. Feed addresses are the usual Hindu section feeds and
+// must be confirmed on the first run (the log shows any feed that fails).
+const REGIONS = {
+  korean: {
+    outFile: 'cards.json',
+    feeds: [
+      { category: 'Politics & Society', url: 'https://www.koreaherald.com/rss/kh_National', file: 'politics.xml' },
+      { category: 'Business', url: 'https://www.koreaherald.com/rss/kh_Business', file: 'business.xml' },
+      { category: 'Culture', url: 'https://www.koreaherald.com/rss/kh_LifenCulture', file: 'culture.xml' },
+      { category: 'Sports', url: 'https://www.koreaherald.com/rss/kh_Sports', file: 'sports.xml' },
+      { category: 'K-pop', url: 'https://www.koreaherald.com/rss/kh_Kpop', file: 'kpop.xml' },
+      { category: 'World', url: 'https://www.koreaherald.com/rss/kh_World', file: 'world.xml' }
+    ]
+  },
+  indian: {
+    outFile: 'cards-indian.json',
+    feeds: [
+      { category: 'Politics & Society', url: 'https://www.thehindu.com/news/national/feeder/default.rss', file: 'h-national.xml' },
+      { category: 'Business', url: 'https://www.thehindu.com/business/feeder/default.rss', file: 'h-business.xml' },
+      { category: 'Culture', url: 'https://www.thehindu.com/life-and-style/feeder/default.rss', file: 'h-culture.xml' },
+      { category: 'Sports', url: 'https://www.thehindu.com/sport/feeder/default.rss', file: 'h-sport.xml' },
+      { category: 'K-pop', url: 'https://www.thehindu.com/entertainment/feeder/default.rss', file: 'h-entertainment.xml' },
+      { category: 'World', url: 'https://www.thehindu.com/news/international/feeder/default.rss', file: 'h-international.xml' }
+    ]
+  },
+  global: {
+    outFile: 'cards-global.json',
+    // Global news: The Hindu International section only, so every card is labelled World
+    feeds: [
+      { category: 'World', url: 'https://www.thehindu.com/news/international/feeder/default.rss', file: 'h-international.xml' }
+    ]
+  }
+};
+
+// Which region this run makes: set by the workflow (REGION=korean|indian|global), default korean
+const REGION = process.env.REGION || 'korean';
+if (!REGIONS[REGION]) throw new Error(`Unknown REGION "${REGION}"`);
+const FEEDS = REGIONS[REGION].feeds;
+const OUT_FILE = path.join(ROOT, 'docs', REGIONS[REGION].outFile);
 
 const config = JSON.parse(await readFile(path.join(ROOT, 'config.json'), 'utf8'));
 
 async function main() {
   const today = seoulDate();
   const previous = await readJson(OUT_FILE, null);
+  const articles = await collectArticles();
 
-  // 1. Switched off: no AI calls at all
+  // Switched off: no AI calls at all
   if (!config.enabled) {
-    // AI is off: still show the latest English headlines, with a message saying so
-    const articles = await collectArticles();
     await writeCards(today, 'off', fallbackCards(articles), 'AI is turned off. Showing English titles only.');
     console.log('AI is turned off in config.json. No AI call made.');
     return;
   }
 
-  const articles = await collectArticles();
   if (articles.length === 0) {
     const reasons = feedErrors.join(' | ').slice(0, 400) || 'feeds were empty';
-    await writeCards(today, 'no articles', [], `No articles could be read from korea.net. ${reasons}`);
+    await writeCards(today, 'no articles', [], `No articles could be read for the ${REGION} region. ${reasons}`);
     console.log('No articles found.');
     return;
   }
 
-  // 2. Same articles as the last AI run: keep those cards, make no AI call
-  const sameArticles = previous && previous.status === 'ai' && Array.isArray(previous.cards)
-    && previous.cards.length === articles.length
-    && previous.cards.every((c, i) => c.url === articles[i].link && 'hook' in c && 'glossary' in c);
-  if (sameArticles) {
-    await writeCards(today, 'ai', previous.cards, previous.note);
-    console.log('Same articles as the last run. No AI call made.');
-    return;
+  // Cards already made (same article link, with Korean text) are kept.
+  // Only articles we have not seen before go to the AI.
+  const cached = new Map();
+  if (previous && Array.isArray(previous.cards)) {
+    for (const c of previous.cards) {
+      if (c.url && c.korean_desc && 'hook' in c && 'glossary' in c) cached.set(c.url, c);
+    }
   }
+  const fresh = articles.filter(a => !cached.has(a.link));
+  const kept = articles.length - fresh.length;
 
   const usage = await loadUsage();
-  let status;
+  let status = 'ai';
   let note = '';
-  let cards;
+  let newCards = [];
 
-  if (usage.spent_usd >= config.monthly_cap_usd) {
+  if (fresh.length === 0) {
+    note = `No new articles. ${kept} cards kept from earlier days.`;
+  } else if (usage.spent_usd >= config.monthly_cap_usd) {
     status = 'cap reached';
     note = `Monthly cap of $${config.monthly_cap_usd} reached`;
-    cards = fallbackCards(articles);
+    newCards = fallbackCards(fresh);
   } else if (!process.env.AI_API_KEY) {
     status = 'no key';
     note = 'AI_API_KEY secret is missing';
-    cards = fallbackCards(articles);
+    newCards = fallbackCards(fresh);
   } else {
     try {
-      const { items, costUsd } = await translateAll(articles);
+      const { items, costUsd } = await translateAll(fresh);
       usage.spent_usd += costUsd;
-      cards = articles.map((a, i) => ({
+      newCards = fresh.map((a, i) => ({
         category: a.category,
         korean_title: items[i].korean_title,
         english_title: items[i].english_title,
@@ -83,19 +115,22 @@ async function main() {
         glossary: normalizeGlossary(items[i].glossary),
         url: a.link
       }));
-      status = 'ai';
-      note = `Cost this run about $${costUsd.toFixed(4)}`;
+      note = `${fresh.length} new cards made, ${kept} kept. Cost this run about $${costUsd.toFixed(4)}`;
     } catch (err) {
-      // Usually "no credits" or a network problem: show English-only cards, retry on the next run
+      // Usually "no credits" or a network problem: English-only cards for the new ones, retried tomorrow
       status = 'fallback';
       note = err.message.slice(0, 300);
-      cards = fallbackCards(articles);
+      newCards = fallbackCards(fresh);
     }
   }
 
+  // Final list follows the feed order and drops articles no longer in the feed
+  const byUrl = new Map(newCards.map(c => [c.url, c]));
+  const cards = articles.map(a => cached.get(a.link) || byUrl.get(a.link)).filter(Boolean);
+
   await saveUsage(usage);
   await writeCards(today, status, cards, note);
-  console.log(`Wrote ${cards.length} cards. Status: ${status}. ${note}`);
+  console.log(`Wrote ${cards.length} cards (${fresh.length} new, ${kept} kept). Status: ${status}. ${note}`);
 }
 
 // ---------- News feeds ----------
@@ -112,7 +147,7 @@ async function collectArticles() {
       const items = parseItems(xml)
         .filter(i => i.title && i.link)
         .sort((a, b) => (Date.parse(b.pubDate) || 0) - (Date.parse(a.pubDate) || 0))
-        .slice(0, PER_CATEGORY);
+        .slice(0, Math.floor(PER_REGION / FEEDS.length));
       items.forEach(i => out.push({ category: feed.category, title: i.title, link: i.link, description: i.description }));
       console.log(`${feed.category}: ${items.length} articles`);
       if (items.length === 0) feedErrors.push(`${feed.category}: no items in feed`);
@@ -121,7 +156,7 @@ async function collectArticles() {
       feedErrors.push(`${feed.category}: ${err.message}`);
     }
   }
-  return out;
+  return out.slice(0, PER_REGION);
 }
 
 async function loadFeed(feed) {
