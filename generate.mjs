@@ -121,6 +121,7 @@ async function main() {
       const { items, costUsd } = await translateAll(fresh);
       usage.spent_usd += costUsd;
       newCards = fresh.map((a, i) => {
+        if (!items[i]) return fallbackCards([a])[0];
         const sentences = normalizeSentences(items[i].sentences);
         // The widget's WORDS pages come from the Korean description, in reading order, no repeats.
         // Each word has its romanization and a particle flag (particles are shown highlighted).
@@ -159,7 +160,7 @@ async function main() {
   const cards = articles.map(a => cached.get(a.link) || byUrl.get(a.link)).filter(Boolean);
 
   // Slide images for the Save images button (only cards that do not have them yet)
-  for (const c of cards) addShortText(c);
+  for (const c of cards) { fixGlossary(c); addShortText(c); }
   await addImages(cards, REGION, ROOT, REGIONS[REGION].source);
 
   await saveUsage(usage);
@@ -250,17 +251,35 @@ async function translateAll(articles) {
   const provider = process.env.AI_PROVIDER || config.provider;
   const key = process.env.AI_API_KEY;
   const p = config.price_per_million_tokens;
-  const items = [];
+  // One bad article used to fail its whole batch and leave every card in it blank.
+  // Now a failed batch is retried one article at a time, and only an article that fails
+  // on its own is left out (null), so it gets an English-only card and is tried again tomorrow.
+  const items = new Array(articles.length).fill(null);
   let costUsd = 0;
-  for (let i = 0; i < articles.length; i += BATCH_SIZE) {
-    const batch = articles.slice(i, i + BATCH_SIZE);
+  const ask = async (batch) => {
     const prompt = buildPrompt(batch);
     let reply;
     if (provider === 'claude') reply = await callClaude(key, prompt);
     else if (provider === 'gemini') reply = await callGemini(key, prompt);
     else reply = await callOpenAI(key, prompt);
-    items.push(...parseCardsJson(reply.text, batch.length));
     costUsd += (reply.inputTokens * p.input + reply.outputTokens * p.output) / 1_000_000;
+    return parseCardsJson(reply.text, batch.length);
+  };
+  for (let i = 0; i < articles.length; i += BATCH_SIZE) {
+    const batch = articles.slice(i, i + BATCH_SIZE);
+    try {
+      (await ask(batch)).forEach((item, j) => { items[i + j] = item; });
+    } catch (err) {
+      console.log(`Batch of ${batch.length} failed (${err.message.slice(0, 200)}). Trying one article at a time.`);
+      for (let j = 0; j < batch.length; j++) {
+        try {
+          const [one] = await ask([batch[j]]);
+          items[i + j] = one;
+        } catch (err2) {
+          console.log(`Article left for tomorrow: ${batch[j].title} (${err2.message.slice(0, 200)})`);
+        }
+      }
+    }
   }
   return { items, costUsd };
 }
@@ -279,11 +298,11 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "hook": the headline hook. Plain words, under 10 words, with a surprising contrast between two facts from the article, in the form "Korea aimed for 21 golds. It won 29." Playful and accurate, and it must not add any fact.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same playful tone
 - "sticker": a short playful line for the cover sticker, under 6 words, with at most one emoji (for example "Okay, this one's a flex 💅")
-- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Keep each sentence short enough that its glossary has 8 items or fewer; if a sentence needs more, split it into two sentences. Each object has:
+- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Keep each English sentence under 25 words. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
-  - "glossary": the content words and particles of the Korean sentence, in order, as {"korean": "the word as it appears in the sentence", "roman": "its romanization, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false}. Content words (nouns, verbs, adjectives) have "particle": false. Particles (such as 은, 는, 이, 가, 을, 를, 에, 에서, 부터, 까지, 의, 로, 과, 와) are their own items with "particle": true and a short meaning such as "subject marker" or "from". Do NOT include plain numbers (such as 29 or 2026) or names of people, teams, places or events. At most 8 items.
+  - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
 Do not write anything outside the JSON.
 
 Articles:
@@ -321,16 +340,46 @@ function normalizeSentences(list) {
       stage: stages.includes(s.stage) ? s.stage : 'summary',
       english: s.english.trim(),
       korean: s.korean.trim(),
-      glossary: (Array.isArray(s.glossary) ? s.glossary : [])
-        .filter(g => g && g.korean && g.english && !/^[0-9]/.test(String(g.korean).trim())) // no plain numbers
-        .slice(0, 12)
-        .map(g => ({
-          korean: String(g.korean),
-          roman: String(g.roman || ''),
-          english: String(g.english),
-          particle: g.particle === true
-        }))
+      glossary: cleanGlossary(s.glossary, s.korean.trim())
     }));
+}
+
+// Glossary words must really appear in their Korean sentence, listed in the order they appear.
+// At most 8 per sentence, no plain numbers.
+function cleanGlossary(list, korean) {
+  const found = (Array.isArray(list) ? list : [])
+    .filter(g => g && g.korean && g.english)
+    .map(g => ({
+      korean: String(g.korean).trim(),
+      roman: String(g.roman || ''),
+      english: String(g.english),
+      particle: g.particle === true
+    }))
+    .filter(g => g.korean && !/^[0-9.,%\s]+$/.test(g.korean)) // plain numbers only; 5집 stays
+    .map(g => ({ g, start: korean.indexOf(g.korean) }))
+    .filter(x => x.start >= 0)
+    .sort((a, b) => a.start - b.start);
+  // A particle written right after a word is part of that word: BTS + 의 becomes BTS의
+  const out = [];
+  let last = null; // { item, end }
+  for (const { g, start } of found) {
+    if (last && g.particle && start === last.end) {
+      last.item.korean += g.korean;
+      last.item.roman = [last.item.roman, g.roman].filter(Boolean).join('-');
+      last.end = start + g.korean.length;
+      continue;
+    }
+    const item = { ...g, particle: false };
+    out.push(item);
+    last = { item, end: start + g.korean.length };
+  }
+  return out;
+}
+
+// Applies the same glossary rules to cards made earlier, and rebuilds the card's word list
+function fixGlossary(card) {
+  if (!Array.isArray(card.sentences)) return;
+  for (const s of card.sentences) s.glossary = cleanGlossary(s.glossary, String(s.korean || '').trim());
 }
 
 // The short description shown on the widget: one summary sentence in English and in Korean
@@ -340,6 +389,8 @@ function addShortText(card) {
   const pick = list.find(s => s.stage === 'summary') || list[0];
   card.short_english = pick.english;
   card.short_korean = pick.korean;
+  // The widget's WORDS are the words of the short Korean line shown on the card, nothing else
+  card.glossary = pick.glossary;
 }
 
 // Reads the article page and keeps its paragraphs. Returns '' if the page cannot be read.

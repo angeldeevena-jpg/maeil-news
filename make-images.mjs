@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 3;
+export const IMAGE_VERSION = 5;
 
 const W = 1080;
 const H = 1350;
@@ -129,26 +129,35 @@ function glossaryChips(words, small) {
   return { html, gap: small ? 10 : 12 };
 }
 
-// Sentence slides (lime). Labels follow the position: first 2 setup, next 3 juice, rest payoff.
+// Sentence slides (lime). One slide per sentence: the sentence is the big part,
+// and every word of the sentence is listed in a smaller glossary underneath.
 function sentenceSlide(s, words, i, n, total, part) {
   const [emoji, label] = i < 2 ? ['🎬', 'THE SETUP'] : i < n - 2 ? ['🍿', 'THE JUICE'] : ['🏆', 'THE PAYOFF'];
   const rot = i % 2 === 0 ? -1 : 1;
-  const { html: grid, gap } = glossaryChips(words, false);
-  const shrink = `(function(){var sl=document.querySelector('.slide'),en=document.getElementById('en'),ko=document.getElementById('ko'),k=1;` +
-    `while(sl.scrollHeight>1350&&k>0.45){k-=0.02;en.style.fontSize=(64*k)+'px';ko.style.fontSize=(56*k)+'px';}})();`;
+  const chips = words.map(w => {
+    const meaning = [w.roman, w.english].filter(Boolean).map(esc).join(' · ');
+    return `<div style="padding: 8px 10px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 26px; font-weight: 900">${esc(w.korean)}</div><div style="font-size: 18px; color: #D4F36B">${meaning}</div></div>`;
+  }).join('');
+  // The sentence text shrinks first; if the whole slide still does not fit, the glossary is scaled down.
+  const shrink = `(function(){var sl=document.querySelector('.slide'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),k=1,z=1;` +
+    `while(sl.scrollHeight>1350&&k>0.6){k-=0.02;en.style.fontSize=(72*k)+'px';ko.style.fontSize=(62*k)+'px';}` +
+    `while(g&&sl.scrollHeight>1350&&z>0.5){z-=0.02;g.style.zoom=z;}})();`;
+  const glossary = words.length
+    ? `<div style="display: flex; flex-direction: column; gap: 10px">
+    <div style="font-size: 22px; font-weight: 700; color: #3A3A3A">Glossary · every word in this sentence</div>
+    <div id="gloss" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px">${chips}</div>
+  </div>`
+    : '';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 28px; font-family: ${FONT}; color: #141413; overflow: hidden">
   <div style="display: flex; align-items: center; justify-content: space-between">
     <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #D4F36B; transform: rotate(-3deg)">${emoji} ${label}</span>
-    <span style="font-size: 26px; font-weight: 900">Maeil News · ${part} / ${total}</span>
+    <span style="font-size: 26px; font-weight: 900">Maeil News · ${i + 1} / ${n}</span>
   </div>
-  <div style="padding: 40px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; gap: 22px; transform: rotate(${rot}deg)">
-    <div id="en" style="font-size: 64px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
-    <div id="ko" style="font-size: 56px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
+  <div style="padding: 44px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; gap: 26px; transform: rotate(${rot}deg)">
+    <div id="en" style="font-size: 72px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
+    <div id="ko" style="font-size: 62px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
   </div>
-  <div style="display: flex; flex-direction: column; gap: 12px">
-    <div style="font-size: 26px; font-weight: 800">Glossary · <span style="background: #FFE04D; padding: 0 6px">yellow</span> = particle (the tiny word that shows the job of the word before it)</div>
-    <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: ${gap}px">${grid}</div>
-  </div>
+  ${glossary}
   <div style="margin-top: auto; font-size: 28px; font-weight: 800">Keep swiping 👀 →</div>
 </div>`, shrink);
 }
@@ -184,7 +193,7 @@ function creditSlide(c, region, source, logo, photo, total) {
 // Words that are plain numbers are not shown on slides
 function slideWords(sentence) {
   return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
-    .filter(w => w && w.korean && !/^[0-9]/.test(String(w.korean).trim()));
+    .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()));
 }
 
 // Every slide of the card, in order. A sentence with more than 8 words is split over
@@ -192,19 +201,16 @@ function slideWords(sentence) {
 export function planSlides(card) {
   const sentences = Array.isArray(card.sentences) ? card.sentences : [];
   const plan = [{ kind: 'cover' }, { kind: 'title' }];
+  // One slide per sentence. The glossary (at most 8 words) fits on that same slide, so nothing repeats.
   sentences.forEach((s, i) => {
-    const words = slideWords(s);
-    const parts = Math.max(1, Math.ceil(words.length / CHIPS_PER_SLIDE));
-    for (let p = 0; p < parts; p++) {
-      plan.push({
-        kind: 'sentence',
-        sentence: s,
-        words: words.slice(p * CHIPS_PER_SLIDE, (p + 1) * CHIPS_PER_SLIDE),
-        index: i,
-        count: sentences.length,
-        part: p + 1
-      });
-    }
+    plan.push({
+      kind: 'sentence',
+      sentence: s,
+      words: slideWords(s),
+      index: i,
+      count: sentences.length,
+      part: 1
+    });
   });
   plan.push({ kind: 'credit' });
   return plan;
