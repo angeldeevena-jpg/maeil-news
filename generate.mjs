@@ -302,7 +302,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
-  - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
+  - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, REQUIRED for every item, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false, "suffix": "the particle or ending at the very end of the word (such as 의, 에는, 이다), or empty if none"}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
 Do not write anything outside the JSON.
 
 Articles:
@@ -353,7 +353,8 @@ function cleanGlossary(list, korean) {
       korean: String(g.korean).trim(),
       roman: String(g.roman || ''),
       english: String(g.english),
-      particle: g.particle === true
+      particle: g.particle === true,
+      suffix: String(g.suffix || '').trim()
     }))
     .filter(g => g.korean && !/^[0-9.,%\s]+$/.test(g.korean)) // plain numbers only; 5집 stays
     .map(g => ({ g, start: korean.indexOf(g.korean) }))
@@ -366,10 +367,14 @@ function cleanGlossary(list, korean) {
     if (last && g.particle && start === last.end) {
       last.item.korean += g.korean;
       last.item.roman = [last.item.roman, g.roman].filter(Boolean).join('-');
+      last.item.suffix = g.korean;
       last.end = start + g.korean.length;
       continue;
     }
     const item = { ...g, particle: false };
+    if (item.particle && !item.suffix) item.suffix = item.korean;
+    // The suffix must be the very end of the word; otherwise it is not highlighted
+    if (item.suffix && (!item.korean.endsWith(item.suffix) || item.suffix === item.korean && !item.particle)) item.suffix = '';
     out.push(item);
     last = { item, end: start + g.korean.length };
   }

@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 5;
+export const IMAGE_VERSION = 6;
 
 const W = 1080;
 const H = 1350;
@@ -135,8 +135,11 @@ function sentenceSlide(s, words, i, n, total, part) {
   const [emoji, label] = i < 2 ? ['🎬', 'THE SETUP'] : i < n - 2 ? ['🍿', 'THE JUICE'] : ['🏆', 'THE PAYOFF'];
   const rot = i % 2 === 0 ? -1 : 1;
   const chips = words.map(w => {
-    const meaning = [w.roman, w.english].filter(Boolean).map(esc).join(' · ');
-    return `<div style="padding: 8px 10px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 26px; font-weight: 900">${esc(w.korean)}</div><div style="font-size: 18px; color: #D4F36B">${meaning}</div></div>`;
+    // The whole word stays together; its particle or ending is highlighted inside it
+    const suffix = w.suffix && w.korean.endsWith(w.suffix) ? w.suffix : '';
+    const base = suffix ? w.korean.slice(0, -suffix.length) : w.korean;
+    const kor = esc(base) + (suffix ? `<span style="background: #FFE04D; color: #000; border-radius: 6px; padding: 0 4px">${esc(suffix)}</span>` : '');
+    return `<div style="padding: 10px 12px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 28px; font-weight: 900">${kor}</div><div style="font-size: 20px; font-weight: 700; color: #D4F36B">${esc(w.roman || '')}</div><div style="font-size: 18px; color: #FFFFFF">${esc(w.english || '')}</div></div>`;
   }).join('');
   // The sentence text shrinks first; if the whole slide still does not fit, the glossary is scaled down.
   const shrink = `(function(){var sl=document.querySelector('.slide'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),k=1,z=1;` +
@@ -145,7 +148,7 @@ function sentenceSlide(s, words, i, n, total, part) {
   const glossary = words.length
     ? `<div style="display: flex; flex-direction: column; gap: 10px">
     <div style="font-size: 22px; font-weight: 700; color: #3A3A3A">Glossary · every word in this sentence</div>
-    <div id="gloss" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px">${chips}</div>
+    <div id="gloss" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px">${chips}</div>
   </div>`
     : '';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 28px; font-family: ${FONT}; color: #141413; overflow: hidden">
