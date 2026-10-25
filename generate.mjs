@@ -11,9 +11,9 @@ const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
 const PER_REGION = 24; // 24 cards per region, shared across its feeds
 const BATCH_SIZE = 6; // cards per AI call, so each reply stays a manageable size
-const MAX_SENTENCES = 7; // the design has 7 sentence slides
+const MAX_SENTENCES = 9; // sentences per article (a long sentence can be split into two)
 const MAX_BODY = 6000; // characters of article text sent to the AI
-const MAX_GLOSSARY = 10;
+const MAX_GLOSSARY = 500; // no limit: the widget pages through every word
 
 // Three news regions. Each writes its own file, so the widget can switch between them.
 // Korean: Korea Herald (the file the widget already reads stays docs/cards.json)
@@ -159,6 +159,7 @@ async function main() {
   const cards = articles.map(a => cached.get(a.link) || byUrl.get(a.link)).filter(Boolean);
 
   // Slide images for the Save images button (only cards that do not have them yet)
+  for (const c of cards) addShortText(c);
   await addImages(cards, REGION, ROOT, REGIONS[REGION].source);
 
   await saveUsage(usage);
@@ -275,14 +276,14 @@ Keep every fact exactly as the article states it. Be witty and playful in the ho
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
 - "english_title": a clear, short English headline
-- "hook": a witty, curious English line under 12 words. Playful and accurate.
+- "hook": the headline hook. Plain words, under 10 words, with a surprising contrast between two facts from the article, in the form "Korea aimed for 21 golds. It won 29." Playful and accurate, and it must not add any fact.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same playful tone
 - "sticker": a short playful line for the cover sticker, under 6 words, with at most one emoji (for example "Okay, this one's a flex 💅")
-- "sentences": exactly ${MAX_SENTENCES} objects in reading order (use 6 only if the article is very short). Start with context, then summary, then outcome. Each object has:
+- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Keep each sentence short enough that its glossary has 8 items or fewer; if a sentence needs more, split it into two sentences. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
-  - "korean": the Korean translation of that sentence, simple and natural
-  - "glossary": every word in the Korean sentence, in order, as {"korean": "the word as it appears in the sentence", "roman": "its romanization, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false}. Content words (nouns, verbs, adjectives, names, numbers) have "particle": false. Particles (such as 은, 는, 이, 가, 을, 를, 에, 에서, 부터, 까지, 의, 로, 과, 와) are their own items with "particle": true and a short meaning such as "subject marker" or "from". Up to 12 items.
+  - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
+  - "glossary": the content words and particles of the Korean sentence, in order, as {"korean": "the word as it appears in the sentence", "roman": "its romanization, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false}. Content words (nouns, verbs, adjectives) have "particle": false. Particles (such as 은, 는, 이, 가, 을, 를, 에, 에서, 부터, 까지, 의, 로, 과, 와) are their own items with "particle": true and a short meaning such as "subject marker" or "from". Do NOT include plain numbers (such as 29 or 2026) or names of people, teams, places or events. At most 8 items.
 Do not write anything outside the JSON.
 
 Articles:
@@ -321,7 +322,7 @@ function normalizeSentences(list) {
       english: s.english.trim(),
       korean: s.korean.trim(),
       glossary: (Array.isArray(s.glossary) ? s.glossary : [])
-        .filter(g => g && g.korean && g.english)
+        .filter(g => g && g.korean && g.english && !/^[0-9]/.test(String(g.korean).trim())) // no plain numbers
         .slice(0, 12)
         .map(g => ({
           korean: String(g.korean),
@@ -330,6 +331,15 @@ function normalizeSentences(list) {
           particle: g.particle === true
         }))
     }));
+}
+
+// The short description shown on the widget: one summary sentence in English and in Korean
+function addShortText(card) {
+  const list = Array.isArray(card.sentences) ? card.sentences : [];
+  if (list.length === 0) return;
+  const pick = list.find(s => s.stage === 'summary') || list[0];
+  card.short_english = pick.english;
+  card.short_korean = pick.korean;
 }
 
 // Reads the article page and keeps its paragraphs. Returns '' if the page cannot be read.

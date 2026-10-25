@@ -1,6 +1,6 @@
 // Maeil News slide images.
-// Each card gets 10 slides (cover, title, 7 sentence slides, credit), drawn from the same
-// layouts as the design board (IG1–IG10). Saved as JPEG under docs/images/<region>/<card id>/.
+// Each card becomes a set of slides: cover, title, one or more sentence slides, credit.
+// Layouts follow the design board (IG1–IG10). Saved as JPEG under docs/images/<region>/<card id>/.
 // GitHub Pages serves them, and the widget's "Save images" button downloads them.
 //
 // Needs two files in the repo's assets folder:
@@ -13,11 +13,12 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 2;
+export const IMAGE_VERSION = 3;
 
 const W = 1080;
 const H = 1350;
 const FONT = 'system-ui, sans-serif';
+const CHIPS_PER_SLIDE = 8;
 
 export function imageFolderId(url) {
   return createHash('sha1').update(url).digest('hex').slice(0, 12);
@@ -39,10 +40,11 @@ function hostOf(url) {
   }
 }
 
-function wrap(body) {
+// Page wrapper. The script shrinks text that would otherwise run into the footer.
+function wrap(body, script = '') {
   return `<!doctype html><html><head><meta charset="utf-8"><style>` +
     `html,body{margin:0;padding:0;width:${W}px;height:${H}px;overflow:hidden}` +
-    `</style></head><body>${body}</body></html>`;
+    `</style></head><body>${body}${script ? `<script>${script}</script>` : ''}</body></html>`;
 }
 
 function logoImg(src, width) {
@@ -55,28 +57,45 @@ function photoImg(src) {
     : '';
 }
 
-// Slide 1: cover (yellow)
+// Shrinks #id's font until its box is no taller than the box. Used for the long headlines.
+const SHRINK_BOX = `
+(function(){
+  var el = document.getElementById('HEAD'), box = document.getElementById('BOX');
+  var s = START;
+  el.style.fontSize = s + 'px';
+  while (el.getBoundingClientRect().height > box.clientHeight && s > MIN) {
+    s -= 2; el.style.fontSize = s + 'px';
+  }
+})();`;
+
+function shrinkScript(head, box, start, min) {
+  return SHRINK_BOX.replace('HEAD', head).replace('BOX', box).replace('START', start).replace('MIN', min);
+}
+
+// Slide 1: cover (yellow). The headline shrinks so it never reaches the footer.
 function coverSlide(c, logo, total) {
   const sticker = c.sticker || 'Read this one 👀';
-  return wrap(`<div style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; color: #000; overflow: hidden">
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; color: #000; overflow: hidden">
   <div style="display: flex; align-items: center; gap: 20px">
     ${logoImg(logo, 170)}
     <span style="font-size: 44px; font-weight: 900">Maeil News</span>
   </div>
   <div style="margin: auto 0; display: flex; flex-direction: column; gap: 48px">
     <div style="align-self: flex-start; padding: 16px 30px; background: #D4F36B; border: 6px solid #000; box-shadow: 12px 12px 0 #000; font-size: 40px; font-weight: 900; transform: rotate(-4deg)">${esc(sticker)}</div>
-    <div style="font-size: 130px; font-weight: 900; line-height: 1.0; transform: rotate(-1deg)">${esc(c.hook || c.english_title)}</div>
+    <div id="box" style="height: 620px; display: flex; align-items: center">
+      <div id="head" style="font-size: 130px; font-weight: 900; line-height: 1.0; transform: rotate(-1deg)">${esc(c.hook || c.english_title)}</div>
+    </div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800">
     <span>${esc((c.category || '').toUpperCase())} · swipe, nosy 👀</span>
     <span>1 / ${total}</span>
   </div>
-</div>`);
+</div>`, shrinkScript('head', 'box', 130, 48));
 }
 
 // Slide 2: title (black)
 function titleSlide(c, logo, total) {
-  return wrap(`<div style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #000; color: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #000; color: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
   <div style="display: flex; align-items: center; gap: 20px">
     ${logoImg(logo, 130)}
     <span style="font-size: 34px; font-weight: 900; color: #FFFFFF">Maeil News</span>
@@ -101,7 +120,6 @@ function glossaryChips(words, small) {
   const romSize = small ? 19 : 20;
   const html = words.map((w, i) => {
     const span = words.length % 2 === 1 && i === words.length - 1 ? 'grid-column: span 2; ' : '';
-    // Particles are highlighted in yellow, as on the design board
     const kor = w.particle
       ? `<span style="background: #FFE04D; color: #000; padding: 0 4px; border-radius: 6px">${esc(w.korean)}</span>`
       : esc(w.korean);
@@ -111,34 +129,34 @@ function glossaryChips(words, small) {
   return { html, gap: small ? 10 : 12 };
 }
 
-// Slides 3–9: one sentence each (lime). Labels follow the position: 2 setup, 3 juice, 2 payoff.
-function sentenceSlide(s, i, total) {
-  const [emoji, label] = i < 2 ? ['🎬', 'THE SETUP'] : i < 5 ? ['🍿', 'THE JUICE'] : ['🏆', 'THE PAYOFF'];
+// Sentence slides (lime). Labels follow the position: first 2 setup, next 3 juice, rest payoff.
+function sentenceSlide(s, words, i, n, total, part) {
+  const [emoji, label] = i < 2 ? ['🎬', 'THE SETUP'] : i < n - 2 ? ['🍿', 'THE JUICE'] : ['🏆', 'THE PAYOFF'];
   const rot = i % 2 === 0 ? -1 : 1;
-  const words = Array.isArray(s.glossary) ? s.glossary : [];
-  const small = words.length >= 10;
-  const { html: grid, gap } = glossaryChips(words, small);
-  return wrap(`<div style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 28px; font-family: ${FONT}; color: #141413; overflow: hidden">
+  const { html: grid, gap } = glossaryChips(words, false);
+  const shrink = `(function(){var sl=document.querySelector('.slide'),en=document.getElementById('en'),ko=document.getElementById('ko'),k=1;` +
+    `while(sl.scrollHeight>1350&&k>0.45){k-=0.02;en.style.fontSize=(64*k)+'px';ko.style.fontSize=(56*k)+'px';}})();`;
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 28px; font-family: ${FONT}; color: #141413; overflow: hidden">
   <div style="display: flex; align-items: center; justify-content: space-between">
     <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #D4F36B; transform: rotate(-3deg)">${emoji} ${label}</span>
-    <span style="font-size: 26px; font-weight: 900">Maeil News · ${i + 3} / ${total}</span>
+    <span style="font-size: 26px; font-weight: 900">Maeil News · ${part} / ${total}</span>
   </div>
   <div style="padding: 40px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; gap: 22px; transform: rotate(${rot}deg)">
-    <div style="font-size: 64px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
-    <div style="font-size: 56px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
+    <div id="en" style="font-size: 64px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
+    <div id="ko" style="font-size: 56px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
   </div>
   <div style="display: flex; flex-direction: column; gap: 12px">
     <div style="font-size: 26px; font-weight: 800">Glossary · <span style="background: #FFE04D; padding: 0 6px">yellow</span> = particle (the tiny word that shows the job of the word before it)</div>
     <div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: ${gap}px">${grid}</div>
   </div>
   <div style="margin-top: auto; font-size: 28px; font-weight: 800">Keep swiping 👀 →</div>
-</div>`);
+</div>`, shrink);
 }
 
-// Slide 10: credit (black)
+// Last slide: credit (black)
 function creditSlide(c, region, source, logo, photo, total) {
   const footer = region === 'korean' ? 'Follow for more Korean news' : 'Follow for more news';
-  return wrap(`<div style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #141413; color: #FFFFFF; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #141413; color: #FFFFFF; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
   <div style="display: flex; align-items: center; gap: 20px">
     ${logoImg(logo, 130)}
     <span style="font-size: 36px; font-weight: 900">Maeil News</span>
@@ -163,16 +181,46 @@ function creditSlide(c, region, source, logo, photo, total) {
 </div>`);
 }
 
-// All slides of one card, in order.
-export function buildSlides(card, region, source, assets) {
+// Words that are plain numbers are not shown on slides
+function slideWords(sentence) {
+  return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
+    .filter(w => w && w.korean && !/^[0-9]/.test(String(w.korean).trim()));
+}
+
+// Every slide of the card, in order. A sentence with more than 8 words is split over
+// several slides, so nothing is cut off at the bottom.
+export function planSlides(card) {
   const sentences = Array.isArray(card.sentences) ? card.sentences : [];
-  const total = sentences.length + 3;
-  return [
-    coverSlide(card, assets.logo, total),
-    titleSlide(card, assets.logo, total),
-    ...sentences.map((s, i) => sentenceSlide(s, i, total)),
-    creditSlide(card, region, source, assets.logo, assets.photo, total)
-  ];
+  const plan = [{ kind: 'cover' }, { kind: 'title' }];
+  sentences.forEach((s, i) => {
+    const words = slideWords(s);
+    const parts = Math.max(1, Math.ceil(words.length / CHIPS_PER_SLIDE));
+    for (let p = 0; p < parts; p++) {
+      plan.push({
+        kind: 'sentence',
+        sentence: s,
+        words: words.slice(p * CHIPS_PER_SLIDE, (p + 1) * CHIPS_PER_SLIDE),
+        index: i,
+        count: sentences.length,
+        part: p + 1
+      });
+    }
+  });
+  plan.push({ kind: 'credit' });
+  return plan;
+}
+
+// All slides of one card, in order, as HTML pages.
+export function buildSlides(card, region, source, assets) {
+  const plan = planSlides(card);
+  const total = plan.length;
+  return plan.map((p, n) => {
+    const number = n + 1;
+    if (p.kind === 'cover') return coverSlide(card, assets.logo, total);
+    if (p.kind === 'title') return titleSlide(card, assets.logo, total);
+    if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number);
+    return creditSlide(card, region, source, assets.logo, assets.photo, total);
+  });
 }
 
 async function renderCard(browser, card, region, source, assets, outDir) {
