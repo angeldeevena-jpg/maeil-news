@@ -143,6 +143,7 @@ async function main() {
           korean_hook: items[i].korean_hook || '',
           takeaway_english: items[i].takeaway || '',
           takeaway_korean: items[i].takeaway_korean || '',
+          why_it_matters: normalizeWhy(items[i].why_it_matters),
           glossary,
           sentences,
           url: a.link
@@ -292,7 +293,7 @@ function buildPrompt(batch) {
     .join('\n\n');
   return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
 Write everything in your own words. Do not copy sentences from the article.
-Keep every fact exactly as the article states it. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Never add a fact, number, name or quote that is not in the article.
+Keep every fact exactly as the article states it. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Never add a fact, number, name or quote that is not in the article. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
 
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
@@ -301,8 +302,9 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
 - "takeaway": one new English sentence, under 20 words, that says why the story matters or what comes next. It must not repeat the hook or the summary.
 - "takeaway_korean": the takeaway in simple, natural Korean
+- "why_it_matters": 2 or 3 objects, each {"english": "one short reason, under 20 words, why this story matters to everyday readers, using only facts from the article", "korean": "the same reason in simple, natural Korean"}
 - "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
-- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Each sentence must follow from the one before it, so a reader gets the whole story from the slides alone, with no sudden jumps. Use 5 to 7 sentences. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
+- "sentences": 6 or 7 objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Each sentence must follow from the one before it, so a reader gets the whole story from the slides alone, with no sudden jumps. From the second sentence on, the English should link to the one before it, using a plain link such as "Then", "As a result" or "Since then" where it fits. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
@@ -331,6 +333,15 @@ function parseCardsJson(text, expected) {
     if (good.length === 0) throw new Error('AI card has no usable sentences');
   }
   return items;
+}
+
+// Keeps up to three well-formed "why it matters" reasons (English and Korean)
+function normalizeWhy(list) {
+  if (!Array.isArray(list)) return [];
+  return list
+    .filter(w => w && typeof w.english === 'string' && w.english.trim() && typeof w.korean === 'string' && w.korean.trim())
+    .slice(0, 3)
+    .map(w => ({ english: w.english.trim(), korean: w.korean.trim() }));
 }
 
 // Keeps only well-formed sentence pairs, in the order given

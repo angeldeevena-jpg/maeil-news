@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 15;
+export const IMAGE_VERSION = 17;
 
 const W = 1080;
 const H = 1350;
@@ -118,8 +118,8 @@ function titleSlide(c, logo, total) {
   </div>
   <div id="main" style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0; overflow: hidden">
     <div style="align-self: flex-start; padding: 10px 22px; background: #FF5FA2; color: #000; font-size: 30px; font-weight: 900; transform: rotate(2deg)">THE HEADLINE</div>
-    <div id="en" style="font-size: 140px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.english_title)}</div>
-    <div id="ko" style="font-size: 110px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_title)}</div>
+    <div id="en" style="font-size: 140px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.hook || c.english_title)}</div>
+    <div id="ko" style="font-size: 110px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_hook || c.korean_title)}</div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: #FFFFFF">
     <span>Read it. Then say it out loud.</span>
@@ -148,25 +148,24 @@ function glossaryChips(words, small) {
 // Sentence slides (lime). The story card is 945px tall (70% of the slide).
 // The glossary of every word in the sentence fills the rest, with the header and footer.
 function sentenceSlide(s, words, i, n, total, part, date) {
-  const [emoji, label] = i < 2 ? ['🧭', 'THE BACKSTORY'] : ['📰', 'WHAT HAPPENED'];
+  // The label follows the sentence's stage from the generator, so each step has its own name
+  const STAGES = { context: ['🧭', 'THE BACKSTORY'], summary: ['📰', 'WHAT HAPPENED'], outcome: ['💡', 'WHAT IT MEANS'] };
+  const [emoji, label] = STAGES[s.stage] || (i === 0 ? ['🧭', 'THE BACKSTORY'] : i === n - 1 ? ['💡', 'WHAT IT MEANS'] : ['📰', 'WHAT HAPPENED']);
   const rot = i % 2 === 0 ? -1 : 1;
   const chips = words.map(w => {
     // The whole word stays together; its particle or ending is highlighted inside it
     const suffix = w.suffix && w.korean.endsWith(w.suffix) ? w.suffix : '';
     const base = suffix ? w.korean.slice(0, -suffix.length) : w.korean;
     const kor = esc(base) + (suffix ? `<span style="background: #FFE04D; color: #000; border-radius: 6px; padding: 0 4px">${esc(suffix)}</span>` : '');
-    const meaning = [w.roman, w.english].filter(Boolean).map(esc).join(' · ');
-    return `<div style="padding: 10px 12px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 26px; font-weight: 900">${kor}</div><div style="font-size: 17px; font-weight: 700; color: #D4F36B">${meaning}</div></div>`;
+    const meaning = esc(w.english || '');
+    return `<div style="min-width: 0; padding: 10px 12px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 26px; font-weight: 900; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">${kor}</div><div style="font-size: 18px; font-weight: 700; color: #D4F36B; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">${meaning}</div></div>`;
   }).join('');
   // The sentence text shrinks if it does not fit the card; the glossary is scaled down if it does not fit its space
   const shrink = `(function(){var card=document.getElementById('card'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),a=76,b=66,z=1;` +
     `while(card.scrollHeight>card.clientHeight&&a>30){a-=2;b-=2;en.style.fontSize=a+'px';ko.style.fontSize=b+'px';}` +
     `while(g&&g.scrollHeight>g.clientHeight&&z>0.5){z-=0.02;g.style.zoom=z;}})();`;
   const glossary = words.length
-    ? `<div style="flex: 1; min-height: 0; display: flex; flex-direction: column; gap: 8px; overflow: hidden">
-    <div style="font-size: 22px; font-weight: 700; color: #3A3A3A">Glossary · every word in this sentence</div>
-    <div id="gloss" style="display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; align-content: start">${chips}</div>
-  </div>`
+    ? `<div id="gloss" style="flex: 1; min-height: 0; overflow: hidden; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; align-content: start">${chips}</div>`
     : '<div style="flex: 1"></div>';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 36px 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 16px; font-family: ${FONT}; color: #141413; overflow: hidden">
   <div style="flex: none; height: 60px; display: flex; align-items: center; justify-content: space-between">
@@ -243,7 +242,8 @@ function creditSlide(c, region, source, logo, photo, total, date) {
 // Words that are plain numbers are not shown on slides
 function slideWords(sentence) {
   return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
-    .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()));
+    .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()))
+    .slice(0, CHIPS_PER_SLIDE);
 }
 
 // Every slide of the card, in order. A sentence with more than 8 words is split over
