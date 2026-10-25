@@ -1,9 +1,1184 @@
 {
   "date": "2026-10-26",
   "status": "ai",
-  "note": "2 new cards made, 22 kept. Cost this run about $0.0052",
-  "generated_at": "2026-10-25T20:02:24.418Z",
+  "note": "3 new cards made, 21 kept. Cost this run about $0.0055",
+  "generated_at": "2026-10-25T20:29:43.128Z",
   "cards": [
+    {
+      "category": "Politics & Society",
+      "korean_title": "BJP, Kharge 발언 비판",
+      "english_title": "BJP Condemns Kharge’s Remarks",
+      "korean_desc": "2026년 10월 25일, 의회당 대표 말리카르준 카르게는 파트나 행사에서 연설했다. BJP는 2026년 10월 25일 나렌드라 모디 총리에 대한 발언 뒤 카르게를 비판하고 전국 시위를 예고했다. BJP는 2026년 10월 26일 인도 전역에서 시위를 벌이겠다고 밝혔다. 내무장관 아미트 샤는 그 발언이 정치적 예의의 기준을 어겼다고 말했다. BJP 지도자들은 민주주의에서 정치적 상대가 적절한 한계를 지켜야 한다고 말했다.",
+      "english_desc": "On October 25, 2026, Congress president Mallikarjun Kharge spoke at an event in Patna. The BJP criticized Kharge on October 25, 2026, after remarks about Prime Minister Narendra Modi and announced nationwide protests. The BJP said the protests would take place across India on October 26, 2026. Home Minister Amit Shah said the comment violated standards of political decorum. BJP leaders said political opponents should stay within proper limits in a democracy.",
+      "hook": "BJP called Kharge’s remarks offensive. Protests are planned.",
+      "sticker": "정치권의 반응",
+      "korean_hook": "BJP는 발언을 모욕적이라 했다",
+      "takeaway_english": "The dispute highlights demands for restraint in political debate.",
+      "takeaway_korean": "이번 논쟁은 정치적 절제가 필요함을 보여준다.",
+      "glossary": [
+        {
+          "korean": "BJP는",
+          "roman": "BJP-neun",
+          "english": "the BJP",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isip-yuk-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "25일",
+          "roman": "isip-o-il",
+          "english": "25th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "나렌드라",
+          "roman": "narendeura",
+          "english": "Narendra",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "모디",
+          "roman": "modi",
+          "english": "Modi",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "총리에",
+          "roman": "chongni-e",
+          "english": "about the prime minister",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "대한",
+          "roman": "daehan",
+          "english": "about",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "발언",
+          "roman": "bareon",
+          "english": "remarks",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "뒤",
+          "roman": "dwi",
+          "english": "after",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "카르게를",
+          "roman": "karege-reul",
+          "english": "Kharge",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "비판하고",
+          "roman": "bipanhago",
+          "english": "criticized and",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "전국",
+          "roman": "jeonguk",
+          "english": "nationwide",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "시위를",
+          "roman": "siwi-reul",
+          "english": "protests",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "예고했다.",
+          "roman": "yegoh aetda",
+          "english": "announced",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "On October 25, 2026, Congress president Mallikarjun Kharge spoke at an event in Patna.",
+          "korean": "2026년 10월 25일, 의회당 대표 말리카르준 카르게는 파트나 행사에서 연설했다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25일,",
+              "roman": "isip-o-il",
+              "english": "25th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "의회당",
+              "roman": "uihoedang",
+              "english": "Congress party",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대표",
+              "roman": "daepyo",
+              "english": "president",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "말리카르준",
+              "roman": "mallikareujun",
+              "english": "Mallikarjun",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "카르게는",
+              "roman": "karege-neun",
+              "english": "Kharge",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "파트나",
+              "roman": "pateuna",
+              "english": "Patna",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행사에서",
+              "roman": "haengsa-eseo",
+              "english": "at an event",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "연설했다.",
+              "roman": "yeonseolhaetda",
+              "english": "spoke",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "The BJP criticized Kharge on October 25, 2026, after remarks about Prime Minister Narendra Modi and announced nationwide protests.",
+          "korean": "BJP는 2026년 10월 25일 나렌드라 모디 총리에 대한 발언 뒤 카르게를 비판하고 전국 시위를 예고했다.",
+          "glossary": [
+            {
+              "korean": "BJP는",
+              "roman": "BJP-neun",
+              "english": "the BJP",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25일",
+              "roman": "isip-o-il",
+              "english": "25th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나렌드라",
+              "roman": "narendeura",
+              "english": "Narendra",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "모디",
+              "roman": "modi",
+              "english": "Modi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "총리에",
+              "roman": "chongni-e",
+              "english": "about the prime minister",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "대한",
+              "roman": "daehan",
+              "english": "about",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "발언",
+              "roman": "bareon",
+              "english": "remarks",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "카르게를",
+              "roman": "karege-reul",
+              "english": "Kharge",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "비판하고",
+              "roman": "bipanhago",
+              "english": "criticized and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "전국",
+              "roman": "jeonguk",
+              "english": "nationwide",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시위를",
+              "roman": "siwi-reul",
+              "english": "protests",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "예고했다.",
+              "roman": "yegoh aetda",
+              "english": "announced",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The BJP said the protests would take place across India on October 26, 2026.",
+          "korean": "BJP는 2026년 10월 26일 인도 전역에서 시위를 벌이겠다고 밝혔다.",
+          "glossary": [
+            {
+              "korean": "BJP는",
+              "roman": "BJP-neun",
+              "english": "the BJP",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "26일",
+              "roman": "isip-yuk-il",
+              "english": "26th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인도",
+              "roman": "indo",
+              "english": "India",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전역에서",
+              "roman": "jeonyeog-eseo",
+              "english": "across",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "시위를",
+              "roman": "siwi-reul",
+              "english": "protests",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "벌이겠다고",
+              "roman": "beoligetdago",
+              "english": "would hold",
+              "particle": false,
+              "suffix": "겠다고"
+            },
+            {
+              "korean": "밝혔다.",
+              "roman": "balghyeotda",
+              "english": "said",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Home Minister Amit Shah said the comment violated standards of political decorum.",
+          "korean": "내무장관 아미트 샤는 그 발언이 정치적 예의의 기준을 어겼다고 말했다.",
+          "glossary": [
+            {
+              "korean": "내무장관",
+              "roman": "naemujangwan",
+              "english": "Home Minister",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아미트",
+              "roman": "amiteu",
+              "english": "Amit",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "샤는",
+              "roman": "sya-neun",
+              "english": "Shah",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "그",
+              "roman": "geu",
+              "english": "the",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "발언이",
+              "roman": "bareon-i",
+              "english": "remark",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "정치적",
+              "roman": "jeongchijeok",
+              "english": "political",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "예의의",
+              "roman": "yeui-ui",
+              "english": "of decorum",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "기준을",
+              "roman": "gijun-eul",
+              "english": "standards",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "어겼다고",
+              "roman": "eogyeotdago",
+              "english": "violated",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다.",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "BJP leaders said political opponents should stay within proper limits in a democracy.",
+          "korean": "BJP 지도자들은 민주주의에서 정치적 상대가 적절한 한계를 지켜야 한다고 말했다.",
+          "glossary": [
+            {
+              "korean": "BJP",
+              "roman": "BJP",
+              "english": "BJP",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도자들은",
+              "roman": "jidojadeul-eun",
+              "english": "leaders",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "민주주의에서",
+              "roman": "minjujuui-eseo",
+              "english": "in democracy",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "정치적",
+              "roman": "jeongchijeok",
+              "english": "political",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "상대가",
+              "roman": "sangdae-ga",
+              "english": "opponents",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "적절한",
+              "roman": "jeokjeolhan",
+              "english": "proper",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "한계를",
+              "roman": "hangye-reul",
+              "english": "limits",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "지켜야",
+              "roman": "jikyeoya",
+              "english": "should keep",
+              "particle": false,
+              "suffix": "야"
+            },
+            {
+              "korean": "한다고",
+              "roman": "handago",
+              "english": "that they should",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다.",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/bihar/kharges-remark-in-bihar-pm-modi-father-sparks-row-bjp-congress/article71623852.ece",
+      "short_english": "The BJP criticized Kharge on October 25, 2026, after remarks about Prime Minister Narendra Modi and announced nationwide protests.",
+      "short_korean": "BJP는 2026년 10월 25일 나렌드라 모디 총리에 대한 발언 뒤 카르게를 비판하고 전국 시위를 예고했다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/indian/d78f1d5e07bf/1.jpg",
+        "images/indian/d78f1d5e07bf/2.jpg",
+        "images/indian/d78f1d5e07bf/3.jpg",
+        "images/indian/d78f1d5e07bf/4.jpg",
+        "images/indian/d78f1d5e07bf/5.jpg",
+        "images/indian/d78f1d5e07bf/6.jpg",
+        "images/indian/d78f1d5e07bf/7.jpg",
+        "images/indian/d78f1d5e07bf/8.jpg"
+      ],
+      "images_v": 13
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "자미아대 학생 시위 격화",
+      "english_title": "Jamia Student Protest Intensifies",
+      "korean_desc": "뉴델리 자미아 밀리아 이슬람 대학 학생들은 2026년 10월 11일부터 시위해 왔다. 2026년 10월 25일 자미아 학생들은 수업 중단과 출입문 봉쇄, 대규모 경찰 배치에도 뉴델리 캠퍼스 주변에서 시위했다. 학생들은 2006년부터 존재하지 않은 자미아 밀리아 이슬람 학생연합의 복원을 원한다. 10월 24일 교직원들은 시위 천막을 치우고 출입문과 도서관을 닫았으며 모든 수업을 온라인으로 전환했다. 경찰은 캠퍼스 밖에서 여성 두 명을 포함한 세 명을 구금하고 여러 혐의로 FIR을 등록했다.",
+      "english_desc": "Students at Jamia Millia Islamia in New Delhi have protested since October 11, 2026. On October 25, 2026, Jamia students protested around New Delhi’s campus despite suspended classes, blocked gates, and heavy police deployment. The students want restoration of the Jamia Millia Islamia Students’ Union, which has been absent since 2006. On October 24, staff removed a protest tent, closed gates and libraries, and moved all classes online. Police detained three people outside the campus, including two women, and registered an FIR over several alleged offenses.",
+      "hook": "Students protested despite blocked gates and heavy police deployment.",
+      "sticker": "시위 현장 소식",
+      "korean_hook": "학생들은 경찰 배치에도 시위했다",
+      "takeaway_english": "The university remains closed while students seek talks about restoring their union.",
+      "takeaway_korean": "대학은 닫힌 채 학생들은 노조 복원을 위한 대화를 요구한다.",
+      "glossary": [
+        {
+          "korean": "2026년",
+          "roman": "icheon-isip-yuk-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "25일",
+          "roman": "isip-o-il",
+          "english": "25th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "자미아",
+          "roman": "jamia",
+          "english": "Jamia",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "학생들은",
+          "roman": "haksaengdeul-eun",
+          "english": "students",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "수업",
+          "roman": "sueop",
+          "english": "classes",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "중단과",
+          "roman": "jungdan-gwa",
+          "english": "suspension and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "출입문",
+          "roman": "churipmun",
+          "english": "gates",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "봉쇄,",
+          "roman": "bongsae",
+          "english": "blocking",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "대규모",
+          "roman": "daegyumo",
+          "english": "heavy",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "경찰",
+          "roman": "gyeongchal",
+          "english": "police",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "배치에도",
+          "roman": "baechi-edo",
+          "english": "despite deployment",
+          "particle": false,
+          "suffix": "에도"
+        },
+        {
+          "korean": "뉴델리",
+          "roman": "nyu-delli",
+          "english": "New Delhi",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "캠퍼스",
+          "roman": "kaempeoseu",
+          "english": "campus",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "주변에서",
+          "roman": "jubyeon-eseo",
+          "english": "around",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "시위했다.",
+          "roman": "siwihaetda",
+          "english": "protested",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Students at Jamia Millia Islamia in New Delhi have protested since October 11, 2026.",
+          "korean": "뉴델리 자미아 밀리아 이슬람 대학 학생들은 2026년 10월 11일부터 시위해 왔다.",
+          "glossary": [
+            {
+              "korean": "뉴델리",
+              "roman": "nyu-delli",
+              "english": "New Delhi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자미아",
+              "roman": "jamia",
+              "english": "Jamia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "밀리아",
+              "roman": "millia",
+              "english": "Millia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이슬람",
+              "roman": "iseullam",
+              "english": "Islamia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대학",
+              "roman": "daehak",
+              "english": "university",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "학생들은",
+              "roman": "haksaengdeul-eun",
+              "english": "students",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "11일부터",
+              "roman": "sibilbuteo",
+              "english": "since the 11th",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "시위해",
+              "roman": "siwihae",
+              "english": "protested",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "왔다.",
+              "roman": "watda",
+              "english": "have continued",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "On October 25, 2026, Jamia students protested around New Delhi’s campus despite suspended classes, blocked gates, and heavy police deployment.",
+          "korean": "2026년 10월 25일 자미아 학생들은 수업 중단과 출입문 봉쇄, 대규모 경찰 배치에도 뉴델리 캠퍼스 주변에서 시위했다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25일",
+              "roman": "isip-o-il",
+              "english": "25th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자미아",
+              "roman": "jamia",
+              "english": "Jamia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "학생들은",
+              "roman": "haksaengdeul-eun",
+              "english": "students",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "수업",
+              "roman": "sueop",
+              "english": "classes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중단과",
+              "roman": "jungdan-gwa",
+              "english": "suspension and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "출입문",
+              "roman": "churipmun",
+              "english": "gates",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "봉쇄,",
+              "roman": "bongsae",
+              "english": "blocking",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대규모",
+              "roman": "daegyumo",
+              "english": "heavy",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "경찰",
+              "roman": "gyeongchal",
+              "english": "police",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "배치에도",
+              "roman": "baechi-edo",
+              "english": "despite deployment",
+              "particle": false,
+              "suffix": "에도"
+            },
+            {
+              "korean": "뉴델리",
+              "roman": "nyu-delli",
+              "english": "New Delhi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "캠퍼스",
+              "roman": "kaempeoseu",
+              "english": "campus",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주변에서",
+              "roman": "jubyeon-eseo",
+              "english": "around",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "시위했다.",
+              "roman": "siwihaetda",
+              "english": "protested",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The students want restoration of the Jamia Millia Islamia Students’ Union, which has been absent since 2006.",
+          "korean": "학생들은 2006년부터 존재하지 않은 자미아 밀리아 이슬람 학생연합의 복원을 원한다.",
+          "glossary": [
+            {
+              "korean": "학생들은",
+              "roman": "haksaengdeul-eun",
+              "english": "students",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2006년부터",
+              "roman": "icheon-yuk-nyeonbuteo",
+              "english": "since 2006",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "존재하지",
+              "roman": "jonjaehaji",
+              "english": "not exist",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "않은",
+              "roman": "aneun",
+              "english": "that has not",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자미아",
+              "roman": "jamia",
+              "english": "Jamia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "밀리아",
+              "roman": "millia",
+              "english": "Millia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이슬람",
+              "roman": "iseullam",
+              "english": "Islamia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "학생연합의",
+              "roman": "haksaeng-yeonhap-ui",
+              "english": "students’ union",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "복원을",
+              "roman": "bogwon-eul",
+              "english": "restoration",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "원한다.",
+              "roman": "wonhanda",
+              "english": "want",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "On October 24, staff removed a protest tent, closed gates and libraries, and moved all classes online.",
+          "korean": "10월 24일 교직원들은 시위 천막을 치우고 출입문과 도서관을 닫았으며 모든 수업을 온라인으로 전환했다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "24일",
+              "roman": "isip-sa-il",
+              "english": "24th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "교직원들은",
+              "roman": "gyojigwondeul-eun",
+              "english": "staff",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "시위",
+              "roman": "siwi",
+              "english": "protest",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "천막을",
+              "roman": "cheonmag-eul",
+              "english": "tent",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "치우고",
+              "roman": "chiugo",
+              "english": "removed and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "출입문과",
+              "roman": "churipmun-gwa",
+              "english": "gates and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "도서관을",
+              "roman": "doseogwan-eul",
+              "english": "libraries",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "닫았으며",
+              "roman": "dadat-eumyeo",
+              "english": "closed and",
+              "particle": false,
+              "suffix": "으며"
+            },
+            {
+              "korean": "모든",
+              "roman": "modeun",
+              "english": "all",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수업을",
+              "roman": "sueop-eul",
+              "english": "classes",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "온라인으로",
+              "roman": "onlain-euro",
+              "english": "online",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "전환했다.",
+              "roman": "jeonhwanhaetda",
+              "english": "moved",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Police detained three people outside the campus, including two women, and registered an FIR over several alleged offenses.",
+          "korean": "경찰은 캠퍼스 밖에서 여성 두 명을 포함한 세 명을 구금하고 여러 혐의로 FIR을 등록했다.",
+          "glossary": [
+            {
+              "korean": "경찰은",
+              "roman": "gyeongchal-eun",
+              "english": "police",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "캠퍼스",
+              "roman": "kaempeoseu",
+              "english": "campus",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "밖에서",
+              "roman": "bakk-eseo",
+              "english": "outside",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "여성",
+              "roman": "yeoseong",
+              "english": "women",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명을",
+              "roman": "myeong-eul",
+              "english": "people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "명을",
+              "roman": "myeong-eul",
+              "english": "people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "포함한",
+              "roman": "pohamhan",
+              "english": "including",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구금하고",
+              "roman": "gug eumhago",
+              "english": "detained and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "여러",
+              "roman": "yeoreo",
+              "english": "several",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "혐의로",
+              "roman": "hyeomui-ro",
+              "english": "over charges",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "FIR을",
+              "roman": "FIR-eul",
+              "english": "an FIR",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "등록했다.",
+              "roman": "deungnokhaetda",
+              "english": "registered",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/cities/Delhi/jamia-students-climb-gates-join-protest-amid-heavy-police-deployment/article71623802.ece",
+      "short_english": "On October 25, 2026, Jamia students protested around New Delhi’s campus despite suspended classes, blocked gates, and heavy police deployment.",
+      "short_korean": "2026년 10월 25일 자미아 학생들은 수업 중단과 출입문 봉쇄, 대규모 경찰 배치에도 뉴델리 캠퍼스 주변에서 시위했다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/indian/ae7a40335bbf/1.jpg",
+        "images/indian/ae7a40335bbf/2.jpg",
+        "images/indian/ae7a40335bbf/3.jpg",
+        "images/indian/ae7a40335bbf/4.jpg",
+        "images/indian/ae7a40335bbf/5.jpg",
+        "images/indian/ae7a40335bbf/6.jpg",
+        "images/indian/ae7a40335bbf/7.jpg",
+        "images/indian/ae7a40335bbf/8.jpg"
+      ],
+      "images_v": 13
+    },
     {
       "category": "Politics & Society",
       "korean_title": "사이클론, 10월 28일 상륙 예보",
@@ -544,7 +1719,7 @@
         "images/indian/8e56cd14e2d1/7.jpg",
         "images/indian/8e56cd14e2d1/8.jpg"
       ],
-      "images_v": 12
+      "images_v": 13
     },
     {
       "category": "Politics & Society",
@@ -1121,1087 +2296,7 @@
         "images/indian/c1bb6530b268/7.jpg",
         "images/indian/c1bb6530b268/8.jpg"
       ],
-      "images_v": 12
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "방갈루루 폭발 사건 해결",
-      "english_title": "Bengaluru Blast Case Solved",
-      "korean_desc": "이 사건은 방갈루루 예레미아 로드의 공사 중인 건물에서 일어난 폭발에 관한 것입니다. 10월 20일 방갈루루에서 IED 소포 폭발로 두 명이 다쳤고 경찰은 27세 빵집 판매원을 체포했습니다. 경찰은 그 판매원이 재산, 돈, 가족 문제 때문에 삼촌을 죽이려 했다고 말했습니다. 장치는 손전등 안에 숨겨졌고 근처 가게에서 소포를 열자 폭발했습니다. 수사에는 약 1,200명의 인력이 참여했고 국가수사기관도 조사에 합류했습니다.",
-      "english_desc": "The case concerns an explosion at an unfinished building on Jeremiah Road in Bengaluru. On October 20 in Bengaluru, an IED parcel blast injured two people, and police arrested a 27-year-old bakery salesman. Police say the salesman allegedly planned to kill his uncle because of property, money, and family disputes. The device was hidden inside a torch and exploded when the parcel was opened at a nearby shop. The investigation involved about 1,200 personnel, while the National Investigation Agency also joined the probe.",
-      "hook": "A parcel blast injured two. Police arrested one suspect.",
-      "sticker": "What police found",
-      "korean_hook": "소포 폭발로 두 명이 다쳤다",
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "20일",
-          "roman": "iseu-il",
-          "english": "20th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "방갈루루에서",
-          "roman": "bangalgulru-eseo",
-          "english": "in Bengaluru",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "IED",
-          "roman": "ai-i-di",
-          "english": "IED",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "소포",
-          "roman": "sopo",
-          "english": "parcel",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "폭발로",
-          "roman": "pokbal-ro",
-          "english": "because of an explosion",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "두",
-          "roman": "du",
-          "english": "two",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "명이",
-          "roman": "myeong-i",
-          "english": "people",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "다쳤고",
-          "roman": "dachyeotgo",
-          "english": "were injured and",
-          "particle": false,
-          "suffix": "고"
-        },
-        {
-          "korean": "경찰은",
-          "roman": "gyeongchal-eun",
-          "english": "police",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "27세",
-          "roman": "isipsam-se",
-          "english": "27-year-old",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "빵집",
-          "roman": "ppangjip",
-          "english": "bakery",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "판매원을",
-          "roman": "panmaewon-eul",
-          "english": "salesman",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "체포했습니다",
-          "roman": "chepoh했습니다",
-          "english": "arrested",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The case concerns an explosion at an unfinished building on Jeremiah Road in Bengaluru.",
-          "korean": "이 사건은 방갈루루 예레미아 로드의 공사 중인 건물에서 일어난 폭발에 관한 것입니다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사건은",
-              "roman": "sageon-eun",
-              "english": "case",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "방갈루루",
-              "roman": "bangalgulru",
-              "english": "Bengaluru",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "예레미아",
-              "roman": "yeremia",
-              "english": "Jeremiah",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "로드의",
-              "roman": "rodeu-ui",
-              "english": "Road's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "공사",
-              "roman": "gongsa",
-              "english": "construction",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중인",
-              "roman": "jung-in",
-              "english": "unfinished",
-              "particle": false,
-              "suffix": "인"
-            },
-            {
-              "korean": "건물에서",
-              "roman": "geonmul-eseo",
-              "english": "at a building",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "일어난",
-              "roman": "ireonan",
-              "english": "that happened",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "폭발에",
-              "roman": "pokbal-e",
-              "english": "about the explosion",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "관한",
-              "roman": "gwanhan",
-              "english": "concerning",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "것입니다",
-              "roman": "geos-imnida",
-              "english": "is a matter",
-              "particle": false,
-              "suffix": "입니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "On October 20 in Bengaluru, an IED parcel blast injured two people, and police arrested a 27-year-old bakery salesman.",
-          "korean": "10월 20일 방갈루루에서 IED 소포 폭발로 두 명이 다쳤고 경찰은 27세 빵집 판매원을 체포했습니다.",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "20일",
-              "roman": "iseu-il",
-              "english": "20th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "방갈루루에서",
-              "roman": "bangalgulru-eseo",
-              "english": "in Bengaluru",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "IED",
-              "roman": "ai-i-di",
-              "english": "IED",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "소포",
-              "roman": "sopo",
-              "english": "parcel",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "폭발로",
-              "roman": "pokbal-ro",
-              "english": "because of an explosion",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명이",
-              "roman": "myeong-i",
-              "english": "people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "다쳤고",
-              "roman": "dachyeotgo",
-              "english": "were injured and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "경찰은",
-              "roman": "gyeongchal-eun",
-              "english": "police",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "27세",
-              "roman": "isipsam-se",
-              "english": "27-year-old",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "빵집",
-              "roman": "ppangjip",
-              "english": "bakery",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판매원을",
-              "roman": "panmaewon-eul",
-              "english": "salesman",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "체포했습니다",
-              "roman": "chepoh했습니다",
-              "english": "arrested",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Police say the salesman allegedly planned to kill his uncle because of property, money, and family disputes.",
-          "korean": "경찰은 그 판매원이 재산, 돈, 가족 문제 때문에 삼촌을 죽이려 했다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "경찰은",
-              "roman": "gyeongchal-eun",
-              "english": "police",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "the",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판매원이",
-              "roman": "panmaewon-i",
-              "english": "salesman",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "재산",
-              "roman": "jaesan",
-              "english": "property",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "돈",
-              "roman": "don",
-              "english": "money",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "가족",
-              "roman": "gajok",
-              "english": "family",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "문제",
-              "roman": "munje",
-              "english": "disputes",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "때문에",
-              "roman": "ttaemune",
-              "english": "because of",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "삼촌을",
-              "roman": "samchon-eul",
-              "english": "uncle",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "죽이려",
-              "roman": "jugiryeo",
-              "english": "to kill",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "했다고",
-              "roman": "haetdago",
-              "english": "allegedly did",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했습니다",
-              "roman": "malhaetseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The device was hidden inside a torch and exploded when the parcel was opened at a nearby shop.",
-          "korean": "장치는 손전등 안에 숨겨졌고 근처 가게에서 소포를 열자 폭발했습니다.",
-          "glossary": [
-            {
-              "korean": "장치는",
-              "roman": "jangchi-neun",
-              "english": "the device",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "손전등",
-              "roman": "sonjeondeung",
-              "english": "torch",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안에",
-              "roman": "an-e",
-              "english": "inside",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "숨겨졌고",
-              "roman": "sumgyeojyeotgo",
-              "english": "was hidden and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "근처",
-              "roman": "geuncheo",
-              "english": "nearby",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "가게에서",
-              "roman": "gage-eseo",
-              "english": "at a shop",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "소포를",
-              "roman": "sopo-reul",
-              "english": "the parcel",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "열자",
-              "roman": "yeolja",
-              "english": "when opened",
-              "particle": false,
-              "suffix": "자"
-            },
-            {
-              "korean": "폭발했습니다",
-              "roman": "pokbalhaetseumnida",
-              "english": "exploded",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The investigation involved about 1,200 personnel, while the National Investigation Agency also joined the probe.",
-          "korean": "수사에는 약 1,200명의 인력이 참여했고 국가수사기관도 조사에 합류했습니다.",
-          "glossary": [
-            {
-              "korean": "수사에는",
-              "roman": "susa-eneun",
-              "english": "in the investigation",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "1,200명의",
-              "roman": "cheon-ibaekmyeong-ui",
-              "english": "of 1,200 people",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "인력이",
-              "roman": "inryeok-i",
-              "english": "personnel",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "참여했고",
-              "roman": "chamyeohaetgo",
-              "english": "participated and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "국가수사기관도",
-              "roman": "gukgasusagigwando",
-              "english": "National Investigation Agency also",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "조사에",
-              "roman": "josa-e",
-              "english": "to the probe",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "합류했습니다",
-              "roman": "hamnyuhaetseumnida",
-              "english": "joined",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/cities/bangalore/pulakeshinagar-ied-blast-case-cracked-personal-rivalry-behind-the-plot/article71623321.ece",
-      "short_english": "On October 20 in Bengaluru, an IED parcel blast injured two people, and police arrested a 27-year-old bakery salesman.",
-      "short_korean": "10월 20일 방갈루루에서 IED 소포 폭발로 두 명이 다쳤고 경찰은 27세 빵집 판매원을 체포했습니다.",
-      "images": [
-        "images/indian/d8962eedd5e6/1.jpg",
-        "images/indian/d8962eedd5e6/2.jpg",
-        "images/indian/d8962eedd5e6/3.jpg",
-        "images/indian/d8962eedd5e6/4.jpg",
-        "images/indian/d8962eedd5e6/5.jpg",
-        "images/indian/d8962eedd5e6/6.jpg",
-        "images/indian/d8962eedd5e6/7.jpg",
-        "images/indian/d8962eedd5e6/8.jpg"
-      ],
-      "images_v": 12,
-      "date": "2026-10-26"
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "하이데라바드에서 만난 한국과 텔랑가나",
-      "english_title": "Korean and Telangana Cultures Meet",
-      "korean_desc": "2026 한국 문화의 날 행사가 일요일 하이데라바드 실파칼라 베디카에서 열렸습니다. 일요일 하이데라바드에서 2026 한국 문화의 날은 한국과 텔랑가나의 음악, 춤, 무술과 전통을 모았습니다. 한국 제품을 파는 가게들을 둘러본 뒤 오후 5시부터 수백 명의 방문객이 모였습니다. 프로그램에는 태권도, 페리니 시바 탄다밤, 텔랑가나 전통 북, 얼씨구, 바이올린과 보컬 공연이 포함됐습니다. 연사들은 디왈리와 추석을 가족, 함께함, 감사와 희망이라는 가치로 연결했습니다.",
-      "english_desc": "Korea Culture Day 2026 took place Sunday at Shilpakala Vedika in Hyderabad. On Sunday in Hyderabad, Korea Culture Day 2026 brought Korean and Telangana music, dance, martial arts, and traditions together. Hundreds of visitors gathered from 5 p.m., after exploring stalls with Korean products. The programme included taekwondo, Perini Shiva Tandavam, Telangana drums, Eolssigu, violin, and vocal performances. Speakers also connected Diwali and Chuseok through family, togetherness, gratitude, and hope.",
-      "hook": "Korean and Telangana traditions shared one stage.",
-      "sticker": "Culture on one stage 🎶",
-      "korean_hook": "한국과 텔랑가나 전통이 한 무대에 올랐다",
-      "glossary": [
-        {
-          "korean": "일요일",
-          "roman": "ilyoil",
-          "english": "Sunday",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "하이데라바드에서",
-          "roman": "haiderabadeu-eseo",
-          "english": "in Hyderabad",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "한국",
-          "roman": "hanguk",
-          "english": "Korean",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "문화의",
-          "roman": "munhwa-ui",
-          "english": "of culture",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "날은",
-          "roman": "nal-eun",
-          "english": "Culture Day",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "한국과",
-          "roman": "hanguk-gwa",
-          "english": "Korean and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "텔랑가나의",
-          "roman": "tellanggana-ui",
-          "english": "Telangana's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "음악",
-          "roman": "eumak",
-          "english": "music",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "춤",
-          "roman": "chum",
-          "english": "dance",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "무술과",
-          "roman": "musul-gwa",
-          "english": "martial arts and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "전통을",
-          "roman": "jeontong-eul",
-          "english": "traditions",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "모았습니다",
-          "roman": "moasseumnida",
-          "english": "brought together",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Korea Culture Day 2026 took place Sunday at Shilpakala Vedika in Hyderabad.",
-          "korean": "2026 한국 문화의 날 행사가 일요일 하이데라바드 실파칼라 베디카에서 열렸습니다.",
-          "glossary": [
-            {
-              "korean": "한국",
-              "roman": "hanguk",
-              "english": "Korea",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "문화의",
-              "roman": "munhwa-ui",
-              "english": "of culture",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "날",
-              "roman": "nal",
-              "english": "day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "행사가",
-              "roman": "haengsa-ga",
-              "english": "event",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "일요일",
-              "roman": "ilyoil",
-              "english": "Sunday",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "하이데라바드",
-              "roman": "haiderabadeu",
-              "english": "Hyderabad",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "실파칼라",
-              "roman": "silpakalla",
-              "english": "Shilpakala",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "베디카에서",
-              "roman": "bedika-eseo",
-              "english": "at Vedika",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "열렸습니다",
-              "roman": "yeollyeotseumnida",
-              "english": "took place",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "On Sunday in Hyderabad, Korea Culture Day 2026 brought Korean and Telangana music, dance, martial arts, and traditions together.",
-          "korean": "일요일 하이데라바드에서 2026 한국 문화의 날은 한국과 텔랑가나의 음악, 춤, 무술과 전통을 모았습니다.",
-          "glossary": [
-            {
-              "korean": "일요일",
-              "roman": "ilyoil",
-              "english": "Sunday",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "하이데라바드에서",
-              "roman": "haiderabadeu-eseo",
-              "english": "in Hyderabad",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "한국",
-              "roman": "hanguk",
-              "english": "Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "문화의",
-              "roman": "munhwa-ui",
-              "english": "of culture",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "날은",
-              "roman": "nal-eun",
-              "english": "Culture Day",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "한국과",
-              "roman": "hanguk-gwa",
-              "english": "Korean and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "텔랑가나의",
-              "roman": "tellanggana-ui",
-              "english": "Telangana's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "음악",
-              "roman": "eumak",
-              "english": "music",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "춤",
-              "roman": "chum",
-              "english": "dance",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "무술과",
-              "roman": "musul-gwa",
-              "english": "martial arts and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "전통을",
-              "roman": "jeontong-eul",
-              "english": "traditions",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "모았습니다",
-              "roman": "moasseumnida",
-              "english": "brought together",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Hundreds of visitors gathered from 5 p.m., after exploring stalls with Korean products.",
-          "korean": "한국 제품을 파는 가게들을 둘러본 뒤 오후 5시부터 수백 명의 방문객이 모였습니다.",
-          "glossary": [
-            {
-              "korean": "한국",
-              "roman": "hanguk",
-              "english": "Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "제품을",
-              "roman": "jepum-eul",
-              "english": "products",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "파는",
-              "roman": "paneun",
-              "english": "selling",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "가게들을",
-              "roman": "gage-deul-eul",
-              "english": "stalls",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "둘러본",
-              "roman": "dulleobon",
-              "english": "explored",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오후",
-              "roman": "ohu",
-              "english": "afternoon",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5시부터",
-              "roman": "daseot-si-buteo",
-              "english": "from 5 p.m.",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "수백",
-              "roman": "subaek",
-              "english": "hundreds",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명의",
-              "roman": "myeong-ui",
-              "english": "of people",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "방문객이",
-              "roman": "bangmungaek-i",
-              "english": "visitors",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "모였습니다",
-              "roman": "moieotseumnida",
-              "english": "gathered",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The programme included taekwondo, Perini Shiva Tandavam, Telangana drums, Eolssigu, violin, and vocal performances.",
-          "korean": "프로그램에는 태권도, 페리니 시바 탄다밤, 텔랑가나 전통 북, 얼씨구, 바이올린과 보컬 공연이 포함됐습니다.",
-          "glossary": [
-            {
-              "korean": "프로그램에는",
-              "roman": "peurogeuraem-eneun",
-              "english": "the programme included",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "태권도",
-              "roman": "taegwondo",
-              "english": "taekwondo",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "페리니",
-              "roman": "perini",
-              "english": "Perini",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시바",
-              "roman": "siba",
-              "english": "Shiva",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "탄다밤",
-              "roman": "tandabam",
-              "english": "Tandavam",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "텔랑가나",
-              "roman": "tellanggana",
-              "english": "Telangana",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전통",
-              "roman": "jeontong",
-              "english": "traditional",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "북",
-              "roman": "buk",
-              "english": "drums",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "얼씨구",
-              "roman": "eolssigu",
-              "english": "Eolssigu",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "바이올린과",
-              "roman": "baiollin-gwa",
-              "english": "violin and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "보컬",
-              "roman": "bokeol",
-              "english": "vocal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공연이",
-              "roman": "gongyeon-i",
-              "english": "performances",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "포함됐습니다",
-              "roman": "poham dwaetseumnida",
-              "english": "were included",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Speakers also connected Diwali and Chuseok through family, togetherness, gratitude, and hope.",
-          "korean": "연사들은 디왈리와 추석을 가족, 함께함, 감사와 희망이라는 가치로 연결했습니다.",
-          "glossary": [
-            {
-              "korean": "연사들은",
-              "roman": "yeonsa-deul-eun",
-              "english": "speakers",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "디왈리와",
-              "roman": "diwalli-wa",
-              "english": "Diwali and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "추석을",
-              "roman": "chuseok-eul",
-              "english": "Chuseok",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "가족",
-              "roman": "gajok",
-              "english": "family",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "함께함",
-              "roman": "hamkkeham",
-              "english": "togetherness",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "감사와",
-              "roman": "gamsa-wa",
-              "english": "gratitude and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "희망이라는",
-              "roman": "huimang-iraneun",
-              "english": "called hope",
-              "particle": false,
-              "suffix": "이라는"
-            },
-            {
-              "korean": "가치로",
-              "roman": "gachi-ro",
-              "english": "through values",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "연결했습니다",
-              "roman": "yeongyeolhaetseumnida",
-              "english": "connected",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/cities/Hyderabad/a-korean-cultural-evening-in-hyderabad-with-a-distinctly-telangana-touch/article71624250.ece",
-      "short_english": "On Sunday in Hyderabad, Korea Culture Day 2026 brought Korean and Telangana music, dance, martial arts, and traditions together.",
-      "short_korean": "일요일 하이데라바드에서 2026 한국 문화의 날은 한국과 텔랑가나의 음악, 춤, 무술과 전통을 모았습니다.",
-      "images": [
-        "images/indian/5c62707bb973/1.jpg",
-        "images/indian/5c62707bb973/2.jpg",
-        "images/indian/5c62707bb973/3.jpg",
-        "images/indian/5c62707bb973/4.jpg",
-        "images/indian/5c62707bb973/5.jpg",
-        "images/indian/5c62707bb973/6.jpg",
-        "images/indian/5c62707bb973/7.jpg",
-        "images/indian/5c62707bb973/8.jpg"
-      ],
-      "images_v": 12,
-      "date": "2026-10-26"
+      "images_v": 13
     },
     {
       "category": "Business",
@@ -2783,7 +2878,7 @@
         "images/indian/7b8a5feb9ce3/8.jpg",
         "images/indian/7b8a5feb9ce3/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -3450,7 +3545,7 @@
         "images/indian/95b4632b42d7/8.jpg",
         "images/indian/95b4632b42d7/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -4173,7 +4268,7 @@
         "images/indian/a148c09ee457/8.jpg",
         "images/indian/a148c09ee457/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -4826,7 +4921,7 @@
         "images/indian/e0b5f02f260b/8.jpg",
         "images/indian/e0b5f02f260b/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -5451,7 +5546,7 @@
         "images/indian/8b16051a3c57/8.jpg",
         "images/indian/8b16051a3c57/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -6083,7 +6178,7 @@
         "images/indian/ab45069ceea5/8.jpg",
         "images/indian/ab45069ceea5/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -6701,7 +6796,7 @@
         "images/indian/ee9deafe4be7/8.jpg",
         "images/indian/ee9deafe4be7/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -7347,7 +7442,7 @@
         "images/indian/aeb61827a536/8.jpg",
         "images/indian/aeb61827a536/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -7915,7 +8010,7 @@
         "images/indian/8dbe70ca785a/7.jpg",
         "images/indian/8dbe70ca785a/8.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -8511,7 +8606,7 @@
         "images/indian/1edba4850f6f/7.jpg",
         "images/indian/1edba4850f6f/8.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -9242,7 +9337,7 @@
         "images/indian/ec88b4f96348/9.jpg",
         "images/indian/ec88b4f96348/10.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -9811,7 +9906,7 @@
         "images/indian/5d131a5515a0/8.jpg",
         "images/indian/5d131a5515a0/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -10689,7 +10784,7 @@
         "images/indian/ad661e417a38/9.jpg",
         "images/indian/ad661e417a38/10.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -11343,7 +11438,7 @@
         "images/indian/7df78b022348/9.jpg",
         "images/indian/7df78b022348/10.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -12045,7 +12140,7 @@
         "images/indian/6d3667c84495/8.jpg",
         "images/indian/6d3667c84495/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -12670,8 +12765,536 @@
         "images/indian/8b16051a3c57/8.jpg",
         "images/indian/8b16051a3c57/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
+    },
+    {
+      "category": "World",
+      "korean_title": "가자 대학 공습으로 3명 사망",
+      "english_title": "Three Killed in Gaza University Strike",
+      "korean_desc": "이 사건은 2026년 10월 25일 가자시티의 이슬람 대학에서 발생했다. 2026년 10월 25일 이스라엘의 가자시티 이슬람 대학 공습으로 3명이 사망하고 8명이 다쳤다. 알시파 병원은 시신 세 구를 받고 부상자 여덟 명을 치료했다고 대학 관계자들이 말했다. 대학과 가자 교육부는 전쟁 중 교육기관 건물의 95%가 파괴됐다며 공격을 규탄했다. 이스라엘군은 하마스 군사조직원을 겨냥한 뒤 공습을 조사하고 있다고 밝혔다.",
+      "english_desc": "The incident occurred at the Islamic University in Gaza City on October 25, 2026. An Israeli strike on Gaza City’s Islamic University killed three people and wounded eight others on October 25, 2026. Al Shifa hospital received three bodies and treated eight wounded people, university sources said. The university and Gaza’s Education Ministry condemned the attack, saying 95% of academic buildings had been damaged during the war. The Israeli army said it was reviewing the strike after targeting a Hamas military-wing member.",
+      "hook": "A strike killed three people at a Gaza university.",
+      "sticker": "희생자를 추모하며",
+      "korean_hook": "가자 대학 공습으로 3명 사망",
+      "takeaway_english": "The incident is under review as violence continues despite a long-standing truce.",
+      "takeaway_korean": "오랜 휴전에도 폭력이 계속되는 가운데 사건은 조사 중이다.",
+      "glossary": [
+        {
+          "korean": "2026년",
+          "roman": "icheon-isip-yuk-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "25일",
+          "roman": "isip-o-il",
+          "english": "25th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "이스라엘의",
+          "roman": "iseurael-ui",
+          "english": "Israeli",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "가자시티",
+          "roman": "gaja-siti",
+          "english": "Gaza City",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "이슬람",
+          "roman": "iseullam",
+          "english": "Islamic",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "대학",
+          "roman": "daehak",
+          "english": "university",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "공습으로",
+          "roman": "gongseup-euro",
+          "english": "in a strike",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "3명이",
+          "roman": "se-myeong-i",
+          "english": "three people",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "사망하고",
+          "roman": "samanghago",
+          "english": "died and",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "8명이",
+          "roman": "yeodeol-myeong-i",
+          "english": "eight people",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "다쳤다.",
+          "roman": "dachyeotda",
+          "english": "were wounded",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "The incident occurred at the Islamic University in Gaza City on October 25, 2026.",
+          "korean": "이 사건은 2026년 10월 25일 가자시티의 이슬람 대학에서 발생했다.",
+          "glossary": [
+            {
+              "korean": "이",
+              "roman": "i",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사건은",
+              "roman": "sageon-eun",
+              "english": "incident",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25일",
+              "roman": "isip-o-il",
+              "english": "25th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "가자시티의",
+              "roman": "gaja-siti-ui",
+              "english": "of Gaza City",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "이슬람",
+              "roman": "iseullam",
+              "english": "Islamic",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대학에서",
+              "roman": "daehak-eseo",
+              "english": "at the university",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "발생했다.",
+              "roman": "balsaenghaetda",
+              "english": "occurred",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "An Israeli strike on Gaza City’s Islamic University killed three people and wounded eight others on October 25, 2026.",
+          "korean": "2026년 10월 25일 이스라엘의 가자시티 이슬람 대학 공습으로 3명이 사망하고 8명이 다쳤다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25일",
+              "roman": "isip-o-il",
+              "english": "25th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이스라엘의",
+              "roman": "iseurael-ui",
+              "english": "Israeli",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "가자시티",
+              "roman": "gaja-siti",
+              "english": "Gaza City",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이슬람",
+              "roman": "iseullam",
+              "english": "Islamic",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대학",
+              "roman": "daehak",
+              "english": "university",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공습으로",
+              "roman": "gongseup-euro",
+              "english": "in a strike",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "3명이",
+              "roman": "se-myeong-i",
+              "english": "three people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "사망하고",
+              "roman": "samanghago",
+              "english": "died and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "8명이",
+              "roman": "yeodeol-myeong-i",
+              "english": "eight people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "다쳤다.",
+              "roman": "dachyeotda",
+              "english": "were wounded",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Al Shifa hospital received three bodies and treated eight wounded people, university sources said.",
+          "korean": "알시파 병원은 시신 세 구를 받고 부상자 여덟 명을 치료했다고 대학 관계자들이 말했다.",
+          "glossary": [
+            {
+              "korean": "알시파",
+              "roman": "al-sipa",
+              "english": "Al Shifa",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "병원은",
+              "roman": "byeongwon-eun",
+              "english": "hospital",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "시신",
+              "roman": "sisin",
+              "english": "bodies",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구를",
+              "roman": "gu-reul",
+              "english": "bodies",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "받고",
+              "roman": "batgo",
+              "english": "received and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "부상자",
+              "roman": "busangja",
+              "english": "wounded people",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여덟",
+              "roman": "yeodeol",
+              "english": "eight",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명을",
+              "roman": "myeong-eul",
+              "english": "people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "치료했다고",
+              "roman": "chiry ohaetdago",
+              "english": "treated",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "대학",
+              "roman": "daehak",
+              "english": "university",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "관계자들이",
+              "roman": "gwangyejadeul-i",
+              "english": "sources",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "말했다.",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The university and Gaza’s Education Ministry condemned the attack, saying 95% of academic buildings had been damaged during the war.",
+          "korean": "대학과 가자 교육부는 전쟁 중 교육기관 건물의 95%가 파괴됐다며 공격을 규탄했다.",
+          "glossary": [
+            {
+              "korean": "대학과",
+              "roman": "daehak-gwa",
+              "english": "the university and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "가자",
+              "roman": "gaja",
+              "english": "Gaza",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "교육부는",
+              "roman": "gyoyukbu-neun",
+              "english": "Education Ministry",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "전쟁",
+              "roman": "jeonjaeng",
+              "english": "war",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중",
+              "roman": "jung",
+              "english": "during",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "교육기관",
+              "roman": "gyoyukgigwan",
+              "english": "academic institutions",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "건물의",
+              "roman": "geonmul-ui",
+              "english": "of buildings",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "95%가",
+              "roman": "gusibo-peosenteu-ga",
+              "english": "95 percent",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "파괴됐다며",
+              "roman": "pagoe dwaetdamyeo",
+              "english": "saying were destroyed",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "공격을",
+              "roman": "gonggyeog-eul",
+              "english": "the attack",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "규탄했다.",
+              "roman": "gyutanhaetda",
+              "english": "condemned",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The Israeli army said it was reviewing the strike after targeting a Hamas military-wing member.",
+          "korean": "이스라엘군은 하마스 군사조직원을 겨냥한 뒤 공습을 조사하고 있다고 밝혔다.",
+          "glossary": [
+            {
+              "korean": "이스라엘군은",
+              "roman": "iseuraelgun-eun",
+              "english": "Israeli army",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "하마스",
+              "roman": "hamaseu",
+              "english": "Hamas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "군사조직원을",
+              "roman": "gunsajojigwon-eul",
+              "english": "military-wing member",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "겨냥한",
+              "roman": "g yeonyanghan",
+              "english": "targeted",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공습을",
+              "roman": "gongseup-eul",
+              "english": "the strike",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "조사하고",
+              "roman": "josahago",
+              "english": "reviewing and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "있다고",
+              "roman": "itdago",
+              "english": "that it is",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔다.",
+              "roman": "balgyeotda",
+              "english": "said",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
+      "short_english": "An Israeli strike on Gaza City’s Islamic University killed three people and wounded eight others on October 25, 2026.",
+      "short_korean": "2026년 10월 25일 이스라엘의 가자시티 이슬람 대학 공습으로 3명이 사망하고 8명이 다쳤다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/indian/3acd98ad4603/1.jpg",
+        "images/indian/3acd98ad4603/2.jpg",
+        "images/indian/3acd98ad4603/3.jpg",
+        "images/indian/3acd98ad4603/4.jpg",
+        "images/indian/3acd98ad4603/5.jpg",
+        "images/indian/3acd98ad4603/6.jpg",
+        "images/indian/3acd98ad4603/7.jpg",
+        "images/indian/3acd98ad4603/8.jpg"
+      ],
+      "images_v": 13
     },
     {
       "category": "World",
@@ -13387,7 +14010,7 @@
         "images/indian/24310249abbf/9.jpg",
         "images/indian/24310249abbf/10.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -13991,7 +14614,7 @@
         "images/indian/2b8c7c97e9a0/8.jpg",
         "images/indian/2b8c7c97e9a0/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -14673,640 +15296,7 @@
         "images/indian/0d1473606a8a/9.jpg",
         "images/indian/0d1473606a8a/10.jpg"
       ],
-      "images_v": 12,
-      "date": "2026-10-26"
-    },
-    {
-      "category": "World",
-      "korean_title": "국가 이익만으로 세계정치가 될까",
-      "english_title": "Is National Interest Enough?",
-      "korean_desc": "세계정치는 군사 공격과 제재를 국가 이익으로 설명하는 일이 많다. 이 글은 국가 이익을 넘어 윤리와 감정도 세계정치에 영향을 준다고 주장한다. 국제관계 연구와 외교는 주로 서구 사상 전통의 영향을 받았다. 현대 국제질서는 유럽 열강이 세계 대부분을 지배하던 시기에 만들어졌다. 제2차 세계대전 뒤 한스 모겐소의 현실주의가 국제정치 이해의 중심 틀이 되었다. 현실주의는 중앙 권력이 없으면 국가가 국가 이익을 추구한다고 본다. 대중 담론은 현실주의를 무정부 상태와 국가 이익이라는 두 생각으로 줄였다.",
-      "english_desc": "World politics often explains military strikes and sanctions through national interest. The article argues that ethics and emotions matter in world politics beyond national interest. International Relations research and diplomacy were shaped mainly by Western intellectual traditions. The modern international order emerged while European powers dominated much of the world. After World War II, Hans Morgenthau's Realism became the main framework for understanding international affairs. Realism says states pursue national interests when no central authority exists. Public debate reduced Realism to two ideas: anarchy and national interest.",
-      "hook": "Politics sounds emotionless. Crises tell a different story.",
-      "sticker": "감정도 외교의 선수",
-      "korean_hook": "정치는 차갑다? 위기는 다르다",
-      "glossary": [
-        {
-          "korean": "이",
-          "roman": "i",
-          "english": "this",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "글은",
-          "roman": "geul-eun",
-          "english": "article",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "국가",
-          "roman": "guk-ga",
-          "english": "national",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "이익을",
-          "roman": "i-ik-eul",
-          "english": "interest",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "넘어",
-          "roman": "neom-eo",
-          "english": "beyond",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "윤리와",
-          "roman": "yun-ri-wa",
-          "english": "ethics and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "감정도",
-          "roman": "gam-jeong-do",
-          "english": "emotions too",
-          "particle": false,
-          "suffix": "도"
-        },
-        {
-          "korean": "세계정치에",
-          "roman": "se-gye-jeong-chi-e",
-          "english": "in world politics",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "영향을",
-          "roman": "yeong-hyang-eul",
-          "english": "influence",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "준다고",
-          "roman": "jun-da-go",
-          "english": "matter, saying",
-          "particle": false,
-          "suffix": "다고"
-        },
-        {
-          "korean": "주장한다",
-          "roman": "ju-jang-han-da",
-          "english": "argues",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "World politics often explains military strikes and sanctions through national interest.",
-          "korean": "세계정치는 군사 공격과 제재를 국가 이익으로 설명하는 일이 많다.",
-          "glossary": [
-            {
-              "korean": "세계정치는",
-              "roman": "se-gye-jeong-chi-neun",
-              "english": "world politics",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "군사",
-              "roman": "gun-sa",
-              "english": "military",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공격과",
-              "roman": "gong-gyeok-gwa",
-              "english": "attacks and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "제재를",
-              "roman": "je-jae-reul",
-              "english": "sanctions",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "국가",
-              "roman": "guk-ga",
-              "english": "national",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이익으로",
-              "roman": "i-ik-eu-ro",
-              "english": "as interest",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "설명하는",
-              "roman": "seol-myeong-ha-neun",
-              "english": "explaining",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "일이",
-              "roman": "il-i",
-              "english": "things",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "많다",
-              "roman": "man-ta",
-              "english": "are common",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The article argues that ethics and emotions matter in world politics beyond national interest.",
-          "korean": "이 글은 국가 이익을 넘어 윤리와 감정도 세계정치에 영향을 준다고 주장한다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "글은",
-              "roman": "geul-eun",
-              "english": "article",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "국가",
-              "roman": "guk-ga",
-              "english": "national",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이익을",
-              "roman": "i-ik-eul",
-              "english": "interest",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "넘어",
-              "roman": "neom-eo",
-              "english": "beyond",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "윤리와",
-              "roman": "yun-ri-wa",
-              "english": "ethics and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "감정도",
-              "roman": "gam-jeong-do",
-              "english": "emotions too",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "세계정치에",
-              "roman": "se-gye-jeong-chi-e",
-              "english": "in world politics",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "영향을",
-              "roman": "yeong-hyang-eul",
-              "english": "influence",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "준다고",
-              "roman": "jun-da-go",
-              "english": "matter, saying",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "주장한다",
-              "roman": "ju-jang-han-da",
-              "english": "argues",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "International Relations research and diplomacy were shaped mainly by Western intellectual traditions.",
-          "korean": "국제관계 연구와 외교는 주로 서구 사상 전통의 영향을 받았다.",
-          "glossary": [
-            {
-              "korean": "국제관계",
-              "roman": "guk-je-gwan-gye",
-              "english": "International Relations",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "연구와",
-              "roman": "yeon-gu-wa",
-              "english": "research and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "외교는",
-              "roman": "oe-gyo-neun",
-              "english": "diplomacy",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "주로",
-              "roman": "ju-ro",
-              "english": "mainly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "서구",
-              "roman": "seo-gu",
-              "english": "Western",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사상",
-              "roman": "sa-sang",
-              "english": "intellectual",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전통의",
-              "roman": "jeon-tong-ui",
-              "english": "tradition's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "영향을",
-              "roman": "yeong-hyang-eul",
-              "english": "influence",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "받았다",
-              "roman": "bat-at-da",
-              "english": "received",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "The modern international order emerged while European powers dominated much of the world.",
-          "korean": "현대 국제질서는 유럽 열강이 세계 대부분을 지배하던 시기에 만들어졌다.",
-          "glossary": [
-            {
-              "korean": "현대",
-              "roman": "hyeon-dae",
-              "english": "modern",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "국제질서는",
-              "roman": "guk-je-jil-seo-neun",
-              "english": "international order",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "유럽",
-              "roman": "yu-reop",
-              "english": "European",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "열강이",
-              "roman": "yeol-gang-i",
-              "english": "great powers",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "세계",
-              "roman": "se-gye",
-              "english": "world",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대부분을",
-              "roman": "dae-bu-bun-eul",
-              "english": "most",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "지배하던",
-              "roman": "ji-bae-ha-deon",
-              "english": "dominated",
-              "particle": false,
-              "suffix": "던"
-            },
-            {
-              "korean": "시기에",
-              "roman": "si-gi-e",
-              "english": "during the period",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "만들어졌다",
-              "roman": "man-deu-reo-jyeot-da",
-              "english": "was created",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "After World War II, Hans Morgenthau's Realism became the main framework for understanding international affairs.",
-          "korean": "제2차 세계대전 뒤 한스 모겐소의 현실주의가 국제정치 이해의 중심 틀이 되었다.",
-          "glossary": [
-            {
-              "korean": "제2차",
-              "roman": "je-i-cha",
-              "english": "second",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "세계대전",
-              "roman": "se-gye-dae-jeon",
-              "english": "World War",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "한스",
-              "roman": "han-seu",
-              "english": "Hans",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "모겐소의",
-              "roman": "mo-gen-so-ui",
-              "english": "Morgenthau's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "현실주의가",
-              "roman": "hyeon-sil-ju-ui-ga",
-              "english": "Realism",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "국제정치",
-              "roman": "guk-je-jeong-chi",
-              "english": "international politics",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이해의",
-              "roman": "i-hae-ui",
-              "english": "understanding's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "중심",
-              "roman": "jung-sim",
-              "english": "main",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "틀이",
-              "roman": "teul-i",
-              "english": "framework",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "되었다",
-              "roman": "doe-eot-da",
-              "english": "became",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Realism says states pursue national interests when no central authority exists.",
-          "korean": "현실주의는 중앙 권력이 없으면 국가가 국가 이익을 추구한다고 본다.",
-          "glossary": [
-            {
-              "korean": "현실주의는",
-              "roman": "hyeon-sil-ju-ui-neun",
-              "english": "Realism",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "중앙",
-              "roman": "jung-ang",
-              "english": "central",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "권력이",
-              "roman": "gwon-ryeok-i",
-              "english": "authority",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "없으면",
-              "roman": "eop-seu-myeon",
-              "english": "if there is none",
-              "particle": false,
-              "suffix": "으면"
-            },
-            {
-              "korean": "국가가",
-              "roman": "guk-ga-ga",
-              "english": "states",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "국가",
-              "roman": "guk-ga",
-              "english": "national",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이익을",
-              "roman": "i-ik-eul",
-              "english": "interests",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "추구한다고",
-              "roman": "chu-gu-han-da-go",
-              "english": "pursue, saying",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "본다",
-              "roman": "bon-da",
-              "english": "views",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Public debate reduced Realism to two ideas: anarchy and national interest.",
-          "korean": "대중 담론은 현실주의를 무정부 상태와 국가 이익이라는 두 생각으로 줄였다.",
-          "glossary": [
-            {
-              "korean": "대중",
-              "roman": "dae-jung",
-              "english": "public",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "담론은",
-              "roman": "dam-ron-eun",
-              "english": "discourse",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "현실주의를",
-              "roman": "hyeon-sil-ju-ui-reul",
-              "english": "Realism",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "무정부",
-              "roman": "mu-jeong-bu",
-              "english": "anarchy",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "상태와",
-              "roman": "sang-tae-wa",
-              "english": "condition and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "국가",
-              "roman": "guk-ga",
-              "english": "national",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이익이라는",
-              "roman": "i-ik-i-ra-neun",
-              "english": "called national interest",
-              "particle": false,
-              "suffix": "이라는"
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "생각으로",
-              "roman": "saeng-gak-eu-ro",
-              "english": "ideas",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "줄였다",
-              "roman": "jul-yeot-da",
-              "english": "reduced",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
-      "short_english": "The article argues that ethics and emotions matter in world politics beyond national interest.",
-      "short_korean": "이 글은 국가 이익을 넘어 윤리와 감정도 세계정치에 영향을 준다고 주장한다.",
-      "images": [
-        "images/indian/2a6d4322cbab/1.jpg",
-        "images/indian/2a6d4322cbab/2.jpg",
-        "images/indian/2a6d4322cbab/3.jpg",
-        "images/indian/2a6d4322cbab/4.jpg",
-        "images/indian/2a6d4322cbab/5.jpg",
-        "images/indian/2a6d4322cbab/6.jpg",
-        "images/indian/2a6d4322cbab/7.jpg",
-        "images/indian/2a6d4322cbab/8.jpg",
-        "images/indian/2a6d4322cbab/9.jpg",
-        "images/indian/2a6d4322cbab/10.jpg"
-      ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     }
   ]

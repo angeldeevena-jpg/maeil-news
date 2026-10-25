@@ -1,9 +1,658 @@
 {
   "date": "2026-10-26",
   "status": "ai",
-  "note": "No new articles. 24 cards kept from earlier days.",
-  "generated_at": "2026-10-25T20:02:44.179Z",
+  "note": "1 new cards made, 23 kept. Cost this run about $0.0039",
+  "generated_at": "2026-10-25T20:30:47.775Z",
   "cards": [
+    {
+      "category": "World",
+      "korean_title": "가자 대학 공격으로 3명 사망",
+      "english_title": "Gaza University Strike Kills Three",
+      "korean_desc": "지난 일요일, 가자시의 한 대학이 이스라엘의 공격을 받았습니다. 10월 25일 이스라엘의 공격으로 가자의 이슬람대학교에서 3명이 숨지고 8명이 다쳤다고 직원들과 한 병원이 밝혔습니다. 알시파 병원은 시신 3구를 받고 부상자 8명을 치료했습니다. 대학 소식통 두 명은 사망자들이 직원이고 부상자들은 학생이라고 말했습니다. 대학교는 그날 캠퍼스와 주변 지역이 두 차례 공격받았다고 밝혔습니다. 이스라엘군은 하마스 군사 조직의 테러리스트를 겨냥했으며 사건을 검토 중이라고 밝혔습니다. 가자에서는 1년 넘게 휴전 중이지만 폭력은 완전히 멈추지 않았습니다.",
+      "english_desc": "Last Sunday, a university in Gaza City was hit by an Israeli strike. October 25's Israeli strike at Gaza's Islamic University killed three and wounded eight, staff and a hospital said. Al-Shifa Hospital received three bodies and treated eight wounded people. Two university sources said the dead were employees and the injured were students. The university said its campus and surrounding areas were targeted twice that day. The Israeli army said it targeted a terrorist from Hamas's military wing, and the incident was under review. A truce has lasted over a year in Gaza but has not completely stopped the violence.",
+      "hook": "A Gaza university strike killed three people.",
+      "sticker": "What happened in Gaza",
+      "korean_hook": "가자 대학 공격으로 3명 사망",
+      "takeaway_english": "The incident is under review as violence continues despite a truce lasting more than a year.",
+      "takeaway_korean": "1년 넘는 휴전에도 폭력이 계속돼 사건을 검토 중입니다.",
+      "glossary": [
+        {
+          "korean": "10월",
+          "roman": "siwol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "25일",
+          "roman": "isibil",
+          "english": "25th day",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "이스라엘의",
+          "roman": "iseurael-ui",
+          "english": "Israel's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "공격으로",
+          "roman": "gong-gyeog-euro",
+          "english": "because of the strike",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "가자의",
+          "roman": "gaja-ui",
+          "english": "Gaza's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "이슬람대학교에서",
+          "roman": "iseullamdaehaggyo-eseo",
+          "english": "at the Islamic University",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "3명이",
+          "roman": "sam-myeong-i",
+          "english": "three people",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "숨지고",
+          "roman": "sumjigo",
+          "english": "died and",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "8명이",
+          "roman": "pal-myeong-i",
+          "english": "eight people",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "다쳤다고",
+          "roman": "dachyeotdago",
+          "english": "were wounded, reportedly",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "직원들과",
+          "roman": "jigweondeulgwa",
+          "english": "staff and",
+          "particle": false,
+          "suffix": "들과"
+        },
+        {
+          "korean": "한",
+          "roman": "han",
+          "english": "a",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "병원이",
+          "roman": "byeongwon-i",
+          "english": "hospital",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "밝혔습니다",
+          "roman": "balhyeotseumnida",
+          "english": "said",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Last Sunday, a university in Gaza City was hit by an Israeli strike.",
+          "korean": "지난 일요일, 가자시의 한 대학이 이스라엘의 공격을 받았습니다.",
+          "glossary": [
+            {
+              "korean": "지난",
+              "roman": "jinan",
+              "english": "last",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "일요일",
+              "roman": "iryoil",
+              "english": "Sunday",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "가자시의",
+              "roman": "gajasi-ui",
+              "english": "Gaza City's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "한",
+              "roman": "han",
+              "english": "a",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대학이",
+              "roman": "daehag-i",
+              "english": "university",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "이스라엘의",
+              "roman": "iseurael-ui",
+              "english": "Israel's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "공격을",
+              "roman": "gong-gyeog-eul",
+              "english": "attack",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "받았습니다",
+              "roman": "bad-assseumnida",
+              "english": "was hit",
+              "particle": false,
+              "suffix": "았습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "October 25's Israeli strike at Gaza's Islamic University killed three and wounded eight, staff and a hospital said.",
+          "korean": "10월 25일 이스라엘의 공격으로 가자의 이슬람대학교에서 3명이 숨지고 8명이 다쳤다고 직원들과 한 병원이 밝혔습니다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "siwol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25일",
+              "roman": "isibil",
+              "english": "25th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이스라엘의",
+              "roman": "iseurael-ui",
+              "english": "Israel's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "공격으로",
+              "roman": "gong-gyeog-euro",
+              "english": "because of the strike",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "가자의",
+              "roman": "gaja-ui",
+              "english": "Gaza's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "이슬람대학교에서",
+              "roman": "iseullamdaehaggyo-eseo",
+              "english": "at the Islamic University",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "3명이",
+              "roman": "sam-myeong-i",
+              "english": "three people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "숨지고",
+              "roman": "sumjigo",
+              "english": "died and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "8명이",
+              "roman": "pal-myeong-i",
+              "english": "eight people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "다쳤다고",
+              "roman": "dachyeotdago",
+              "english": "were wounded, reportedly",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "직원들과",
+              "roman": "jigweondeulgwa",
+              "english": "staff and",
+              "particle": false,
+              "suffix": "들과"
+            },
+            {
+              "korean": "한",
+              "roman": "han",
+              "english": "a",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "병원이",
+              "roman": "byeongwon-i",
+              "english": "hospital",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "밝혔습니다",
+              "roman": "balhyeotseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Al-Shifa Hospital received three bodies and treated eight wounded people.",
+          "korean": "알시파 병원은 시신 3구를 받고 부상자 8명을 치료했습니다.",
+          "glossary": [
+            {
+              "korean": "알시파",
+              "roman": "alsipa",
+              "english": "Al-Shifa",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "병원은",
+              "roman": "byeongwon-eun",
+              "english": "hospital",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "시신",
+              "roman": "sisin",
+              "english": "bodies",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "3구를",
+              "roman": "sam-gu-reul",
+              "english": "three bodies",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "받고",
+              "roman": "batgo",
+              "english": "received and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "부상자",
+              "roman": "busangja",
+              "english": "wounded people",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "8명을",
+              "roman": "pal-myeong-eul",
+              "english": "eight people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "치료했습니다",
+              "roman": "chiryohaetseumnida",
+              "english": "treated",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Two university sources said the dead were employees and the injured were students.",
+          "korean": "대학 소식통 두 명은 사망자들이 직원이고 부상자들은 학생이라고 말했습니다.",
+          "glossary": [
+            {
+              "korean": "대학",
+              "roman": "daehak",
+              "english": "university",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "소식통",
+              "roman": "sosiktong",
+              "english": "sources",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명은",
+              "roman": "myeong-eun",
+              "english": "people",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "사망자들이",
+              "roman": "samangjadeul-i",
+              "english": "the dead",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "직원이고",
+              "roman": "jigweon-igo",
+              "english": "were employees and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "부상자들은",
+              "roman": "busangjadeul-eun",
+              "english": "the injured",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "학생이라고",
+              "roman": "haksaeng-irago",
+              "english": "were students, reportedly",
+              "particle": false,
+              "suffix": "이라고"
+            },
+            {
+              "korean": "말했습니다",
+              "roman": "malhaetseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The university said its campus and surrounding areas were targeted twice that day.",
+          "korean": "대학교는 그날 캠퍼스와 주변 지역이 두 차례 공격받았다고 밝혔습니다.",
+          "glossary": [
+            {
+              "korean": "대학교는",
+              "roman": "daehaggyo-neun",
+              "english": "the university",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "그날",
+              "roman": "geunal",
+              "english": "that day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "캠퍼스와",
+              "roman": "kaempeoseu-wa",
+              "english": "campus and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "주변",
+              "roman": "jubyeon",
+              "english": "surrounding",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역이",
+              "roman": "jiyeog-i",
+              "english": "areas",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "차례",
+              "roman": "charye",
+              "english": "times",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공격받았다고",
+              "roman": "gonggyeogbadatdago",
+              "english": "were attacked, reportedly",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔습니다",
+              "roman": "balhyeotseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The Israeli army said it targeted a terrorist from Hamas's military wing, and the incident was under review.",
+          "korean": "이스라엘군은 하마스 군사 조직의 테러리스트를 겨냥했으며 사건을 검토 중이라고 밝혔습니다.",
+          "glossary": [
+            {
+              "korean": "이스라엘군은",
+              "roman": "iseuraelgun-eun",
+              "english": "the Israeli army",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "하마스",
+              "roman": "hamaseu",
+              "english": "Hamas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "군사",
+              "roman": "gunsa",
+              "english": "military",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "조직의",
+              "roman": "jojig-ui",
+              "english": "organization's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "테러리스트를",
+              "roman": "teroreiseuteu-reul",
+              "english": "terrorist",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "겨냥했으며",
+              "roman": "gyeonyanghaesseumyeo",
+              "english": "targeted and",
+              "particle": false,
+              "suffix": "으며"
+            },
+            {
+              "korean": "사건을",
+              "roman": "sageon-eul",
+              "english": "incident",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "검토",
+              "roman": "geomto",
+              "english": "review",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중이라고",
+              "roman": "jung-irago",
+              "english": "is under way, reportedly",
+              "particle": false,
+              "suffix": "이라고"
+            },
+            {
+              "korean": "밝혔습니다",
+              "roman": "balhyeotseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "A truce has lasted over a year in Gaza but has not completely stopped the violence.",
+          "korean": "가자에서는 1년 넘게 휴전 중이지만 폭력은 완전히 멈추지 않았습니다.",
+          "glossary": [
+            {
+              "korean": "가자에서는",
+              "roman": "gaja-eseoneun",
+              "english": "in Gaza",
+              "particle": false,
+              "suffix": "에서는"
+            },
+            {
+              "korean": "1년",
+              "roman": "il-nyeon",
+              "english": "one year",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "넘게",
+              "roman": "neomge",
+              "english": "more than",
+              "particle": false,
+              "suffix": "게"
+            },
+            {
+              "korean": "휴전",
+              "roman": "hyujeon",
+              "english": "truce",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중이지만",
+              "roman": "jung-ijiman",
+              "english": "is in effect, but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "폭력은",
+              "roman": "pogryeog-eun",
+              "english": "violence",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "완전히",
+              "roman": "wanjeonhi",
+              "english": "completely",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "멈추지",
+              "roman": "meomchuji",
+              "english": "stop",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았습니다",
+              "roman": "an-assseumnida",
+              "english": "did not",
+              "particle": false,
+              "suffix": "았습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/strike-on-gaza-university-kills-three-staff-hospital/article71624609.ece",
+      "short_english": "October 25's Israeli strike at Gaza's Islamic University killed three and wounded eight, staff and a hospital said.",
+      "short_korean": "10월 25일 이스라엘의 공격으로 가자의 이슬람대학교에서 3명이 숨지고 8명이 다쳤다고 직원들과 한 병원이 밝혔습니다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/global/3acd98ad4603/1.jpg",
+        "images/global/3acd98ad4603/2.jpg",
+        "images/global/3acd98ad4603/3.jpg",
+        "images/global/3acd98ad4603/4.jpg",
+        "images/global/3acd98ad4603/5.jpg",
+        "images/global/3acd98ad4603/6.jpg",
+        "images/global/3acd98ad4603/7.jpg",
+        "images/global/3acd98ad4603/8.jpg",
+        "images/global/3acd98ad4603/9.jpg",
+        "images/global/3acd98ad4603/10.jpg"
+      ],
+      "images_v": 13
+    },
     {
       "category": "World",
       "korean_title": "마차도, 망명 끝에 귀환",
@@ -710,7 +1359,7 @@
         "images/global/24310249abbf/8.jpg",
         "images/global/24310249abbf/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -1271,7 +1920,7 @@
         "images/global/2b8c7c97e9a0/7.jpg",
         "images/global/2b8c7c97e9a0/8.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -1762,7 +2411,7 @@
         "images/global/0d1473606a8a/7.jpg",
         "images/global/0d1473606a8a/8.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -2324,7 +2973,7 @@
         "images/global/2a6d4322cbab/8.jpg",
         "images/global/2a6d4322cbab/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -2928,7 +3577,7 @@
         "images/global/2b290243cee3/8.jpg",
         "images/global/2b290243cee3/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -3539,7 +4188,7 @@
         "images/global/b5bee75dc8d7/8.jpg",
         "images/global/b5bee75dc8d7/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -4157,7 +4806,7 @@
         "images/global/e4c2d0a60113/8.jpg",
         "images/global/e4c2d0a60113/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -4726,7 +5375,7 @@
         "images/global/b4f1308c1c9c/8.jpg",
         "images/global/b4f1308c1c9c/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -5582,7 +6231,7 @@
         "images/global/68a239c7eeeb/8.jpg",
         "images/global/68a239c7eeeb/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -6579,7 +7228,7 @@
         "images/global/54453d0845a1/9.jpg",
         "images/global/54453d0845a1/10.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -7591,7 +8240,7 @@
         "images/global/ca74d309ef62/10.jpg",
         "images/global/ca74d309ef62/11.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -8440,7 +9089,7 @@
         "images/global/5d0fc6e3f025/8.jpg",
         "images/global/5d0fc6e3f025/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -9382,7 +10031,7 @@
         "images/global/a1e7d32e457c/10.jpg",
         "images/global/a1e7d32e457c/11.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -9846,7 +10495,7 @@
         "images/global/5a9bf2be0114/8.jpg",
         "images/global/5a9bf2be0114/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -10422,7 +11071,7 @@
         "images/global/fc6f00ca3a4b/8.jpg",
         "images/global/fc6f00ca3a4b/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -11005,7 +11654,7 @@
         "images/global/ecb6643b4002/8.jpg",
         "images/global/ecb6643b4002/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -11644,7 +12293,7 @@
         "images/global/86a5eb1225f0/8.jpg",
         "images/global/86a5eb1225f0/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -12354,7 +13003,7 @@
         "images/global/4790f35f69aa/9.jpg",
         "images/global/4790f35f69aa/10.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -12986,7 +13635,7 @@
         "images/global/c530f7d64ee8/8.jpg",
         "images/global/c530f7d64ee8/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -13590,7 +14239,7 @@
         "images/global/0ce7e9202006/8.jpg",
         "images/global/0ce7e9202006/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -14047,7 +14696,7 @@
         "images/global/d558ddcdd8a9/8.jpg",
         "images/global/d558ddcdd8a9/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -14581,7 +15230,7 @@
         "images/global/03b30c0fde2d/8.jpg",
         "images/global/03b30c0fde2d/9.jpg"
       ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     },
     {
@@ -15115,597 +15764,7 @@
         "images/global/55874239ae89/8.jpg",
         "images/global/55874239ae89/9.jpg"
       ],
-      "images_v": 12,
-      "date": "2026-10-26"
-    },
-    {
-      "category": "World",
-      "korean_title": "세르비아, 학생들이 선거판 흔들다",
-      "english_title": "Serbia Votes Amid Student Challenge",
-      "korean_desc": "세르비아는 2026년 10월 25일 의회 선거를 실시했습니다. 이번 선거는 거의 2년간 이어진 학생 시위 뒤에 열렸습니다. 세르비아는 2026년 10월 25일 거의 2년간의 시위 뒤 학생들이 지지하는 학생 명단이 알렉산다르 부치치의 SNS에 도전하는 선거를 치렀습니다. 2024년 노비사드 역 지붕 붕괴로 16명이 숨졌습니다. 18개 선거 명단이 의회 250석을 두고 경쟁했습니다. 10월 22일 베오그라드 집회에는 약 15만 명이 모였습니다.",
-      "english_desc": "Serbia held a parliamentary election on October 25, 2026. The election followed nearly two years of student protests. Serbia voted on October 25, 2026, as the student-backed Students' List challenged Aleksandar Vucic's SNS after nearly two years of protests. The 2024 Novi Sad station canopy collapse killed 16 people. Eighteen electoral lists competed for 250 parliamentary seats. A Belgrade rally on October 22 drew around 150,000 people.",
-      "hook": "Students have little political experience. Their challenge is huge.",
-      "sticker": "학생들의 큰 한 표 🗳️",
-      "korean_hook": "학생들은 경험은 적지만 도전은 큽니다",
-      "glossary": [
-        {
-          "korean": "세르비아는",
-          "roman": "Serbia-neun",
-          "english": "Serbia",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "25일",
-          "roman": "isip-o-il",
-          "english": "25th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "거의",
-          "roman": "geoui",
-          "english": "nearly",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "2년간의",
-          "roman": "i-nyeongan-ui",
-          "english": "of two years",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "시위",
-          "roman": "siwi",
-          "english": "protests",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "뒤",
-          "roman": "dwi",
-          "english": "after",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "학생들이",
-          "roman": "haksaeng-deuri",
-          "english": "students",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "학생",
-          "roman": "haksaeng",
-          "english": "student",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "지지하는",
-          "roman": "jiji-haneun",
-          "english": "backed",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "명단이",
-          "roman": "myeongdan-i",
-          "english": "list",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "알렉산다르",
-          "roman": "Aleksandar",
-          "english": "Aleksandar",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "부치치의",
-          "roman": "Vucic-ui",
-          "english": "Vucic's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "SNS에",
-          "roman": "SNS-e",
-          "english": "SNS",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "도전하는",
-          "roman": "dojeon-haneun",
-          "english": "challenging",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "선거를",
-          "roman": "seongeo-reul",
-          "english": "election",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "치렀습니다",
-          "roman": "chirueotseumnida",
-          "english": "held",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Serbia held a parliamentary election on October 25, 2026.",
-          "korean": "세르비아는 2026년 10월 25일 의회 선거를 실시했습니다.",
-          "glossary": [
-            {
-              "korean": "세르비아는",
-              "roman": "Serbia-neun",
-              "english": "Serbia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "25일",
-              "roman": "isip-o-il",
-              "english": "25th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의회",
-              "roman": "uihoe",
-              "english": "parliamentary",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선거를",
-              "roman": "seongeo-reul",
-              "english": "election",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "실시했습니다",
-              "roman": "silsi-haetseumnida",
-              "english": "held",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "The election followed nearly two years of student protests.",
-          "korean": "이번 선거는 거의 2년간 이어진 학생 시위 뒤에 열렸습니다.",
-          "glossary": [
-            {
-              "korean": "이번",
-              "roman": "ibeon",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선거는",
-              "roman": "seongeo-neun",
-              "english": "election",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "거의",
-              "roman": "geoui",
-              "english": "nearly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "2년간",
-              "roman": "i-nyeongan",
-              "english": "for two years",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이어진",
-              "roman": "ieojin",
-              "english": "continued",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "학생",
-              "roman": "haksaeng",
-              "english": "student",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시위",
-              "roman": "siwi",
-              "english": "protests",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤에",
-              "roman": "dwi-e",
-              "english": "after",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "열렸습니다",
-              "roman": "yeollyeotseumnida",
-              "english": "was held",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Serbia voted on October 25, 2026, as the student-backed Students' List challenged Aleksandar Vucic's SNS after nearly two years of protests.",
-          "korean": "세르비아는 2026년 10월 25일 거의 2년간의 시위 뒤 학생들이 지지하는 학생 명단이 알렉산다르 부치치의 SNS에 도전하는 선거를 치렀습니다.",
-          "glossary": [
-            {
-              "korean": "세르비아는",
-              "roman": "Serbia-neun",
-              "english": "Serbia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "25일",
-              "roman": "isip-o-il",
-              "english": "25th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "거의",
-              "roman": "geoui",
-              "english": "nearly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "2년간의",
-              "roman": "i-nyeongan-ui",
-              "english": "of two years",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "시위",
-              "roman": "siwi",
-              "english": "protests",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "학생들이",
-              "roman": "haksaeng-deuri",
-              "english": "students",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "학생",
-              "roman": "haksaeng",
-              "english": "student",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지지하는",
-              "roman": "jiji-haneun",
-              "english": "backed",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명단이",
-              "roman": "myeongdan-i",
-              "english": "list",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "알렉산다르",
-              "roman": "Aleksandar",
-              "english": "Aleksandar",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "부치치의",
-              "roman": "Vucic-ui",
-              "english": "Vucic's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "SNS에",
-              "roman": "SNS-e",
-              "english": "SNS",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "도전하는",
-              "roman": "dojeon-haneun",
-              "english": "challenging",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선거를",
-              "roman": "seongeo-reul",
-              "english": "election",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "치렀습니다",
-              "roman": "chirueotseumnida",
-              "english": "held",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The 2024 Novi Sad station canopy collapse killed 16 people.",
-          "korean": "2024년 노비사드 역 지붕 붕괴로 16명이 숨졌습니다.",
-          "glossary": [
-            {
-              "korean": "2024년",
-              "roman": "icheon-isip-sa-nyeon",
-              "english": "2024",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "노비사드",
-              "roman": "Nobisa-deu",
-              "english": "Novi Sad",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "역",
-              "roman": "yeok",
-              "english": "station",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지붕",
-              "roman": "jibung",
-              "english": "canopy",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "붕괴로",
-              "roman": "bunggoe-ro",
-              "english": "collapse",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "16명이",
-              "roman": "sipsa-myeong-i",
-              "english": "16 people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "숨졌습니다",
-              "roman": "sum-jyeotseumnida",
-              "english": "died",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Eighteen electoral lists competed for 250 parliamentary seats.",
-          "korean": "18개 선거 명단이 의회 250석을 두고 경쟁했습니다.",
-          "glossary": [
-            {
-              "korean": "18개",
-              "roman": "sipsam-gae",
-              "english": "18",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선거",
-              "roman": "seongeo",
-              "english": "electoral",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명단이",
-              "roman": "myeongdan-i",
-              "english": "lists",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "의회",
-              "roman": "uihoe",
-              "english": "parliament",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "250석을",
-              "roman": "ibaek-osip-seok-eul",
-              "english": "250 seats",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "두고",
-              "roman": "dugo",
-              "english": "over",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "경쟁했습니다",
-              "roman": "gyeongjaeng-haetseumnida",
-              "english": "competed",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "A Belgrade rally on October 22 drew around 150,000 people.",
-          "korean": "10월 22일 베오그라드 집회에는 약 15만 명이 모였습니다.",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "22일",
-              "roman": "isibi-il",
-              "english": "22nd",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "베오그라드",
-              "roman": "Beogradeu",
-              "english": "Belgrade",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "집회에는",
-              "roman": "jiphoe-eneun",
-              "english": "at the rally",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "around",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "15만",
-              "roman": "sip-o-man",
-              "english": "150,000",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명이",
-              "roman": "myeong-i",
-              "english": "people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "모였습니다",
-              "roman": "mo-yeotseumnida",
-              "english": "gathered",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/serbia-elections-amid-students-protest/article71622730.ece",
-      "short_english": "Serbia voted on October 25, 2026, as the student-backed Students' List challenged Aleksandar Vucic's SNS after nearly two years of protests.",
-      "short_korean": "세르비아는 2026년 10월 25일 거의 2년간의 시위 뒤 학생들이 지지하는 학생 명단이 알렉산다르 부치치의 SNS에 도전하는 선거를 치렀습니다.",
-      "images": [
-        "images/global/4d8da735cf39/1.jpg",
-        "images/global/4d8da735cf39/2.jpg",
-        "images/global/4d8da735cf39/3.jpg",
-        "images/global/4d8da735cf39/4.jpg",
-        "images/global/4d8da735cf39/5.jpg",
-        "images/global/4d8da735cf39/6.jpg",
-        "images/global/4d8da735cf39/7.jpg",
-        "images/global/4d8da735cf39/8.jpg",
-        "images/global/4d8da735cf39/9.jpg"
-      ],
-      "images_v": 12,
+      "images_v": 13,
       "date": "2026-10-26"
     }
   ]
