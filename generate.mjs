@@ -143,7 +143,7 @@ async function main() {
           korean_hook: items[i].korean_hook || '',
           takeaway_english: items[i].takeaway || '',
           takeaway_korean: items[i].takeaway_korean || '',
-          why_it_matters: normalizeWhy(items[i].why_it_matters),
+          why_it_matters: dropRestated(normalizeWhy(items[i].why_it_matters), sentences),
           source_title: a.title,
           glossary,
           sentences,
@@ -260,8 +260,8 @@ async function translateAll(articles) {
   // on its own is left out (null), so it gets an English-only card and is tried again tomorrow.
   const items = new Array(articles.length).fill(null);
   let costUsd = 0;
-  const ask = async (batch) => {
-    const prompt = buildPrompt(batch);
+  const ask = async (batch, notes = {}) => {
+    const prompt = buildPrompt(batch, notes);
     let reply;
     if (provider === 'claude') reply = await callClaude(key, prompt);
     else if (provider === 'gemini') reply = await callGemini(key, prompt);
@@ -272,7 +272,8 @@ async function translateAll(articles) {
   for (let i = 0; i < articles.length; i += BATCH_SIZE) {
     const batch = articles.slice(i, i + BATCH_SIZE);
     try {
-      (await ask(batch)).forEach((item, j) => { items[i + j] = item; });
+      const made = await ask(batch);
+      made.forEach((item, j) => { items[i + j] = tidyCard(item, batch[j].title); });
     } catch (err) {
       console.log(`Batch of ${batch.length} failed (${err.message.slice(0, 200)}). Trying one article at a time.`);
       for (let j = 0; j < batch.length; j++) {
@@ -288,9 +289,9 @@ async function translateAll(articles) {
   return { items, costUsd };
 }
 
-function buildPrompt(batch) {
+function buildPrompt(batch, notes = {}) {
   const list = batch
-    .map((a, i) => `${i + 1}. [${a.category}] ${a.title}\n   ARTICLE TEXT:\n${a.body.slice(0, MAX_BODY)}`)
+    .map((a, i) => `${i + 1}. [${a.category}] ${a.title}${notes[i] ? `\n   FIX THIS: ${notes[i]}` : ''}\n   ARTICLE TEXT:\n${a.body.slice(0, MAX_BODY)}`)
     .join('\n\n');
   return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
 Write everything in your own words. Do not copy sentences from the article.
@@ -305,7 +306,10 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "takeaway_korean": the takeaway in simple, natural Korean
 - "why_it_matters": 2 or 3 objects, each {"english": "one short reason, under 20 words, why this story matters to everyday readers, using only facts from the article", "korean": "the same reason in simple, natural Korean"}
 - "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
-- "sentences": 6 or 7 objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Plan the story before you write: first the context (who, what, when and where), then the events in the order they happened, then the result or what it means. Write the sentences in that order. Do not put a general trend or comment between the events of the story. Each sentence after the first must follow on from the previous one. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary. From the second sentence on, the English should link to the one before it, using a plain link such as "Then", "As a result" or "Since then" where it fits. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
+- "sentences": 6 or 7 objects in reading order.
+- Story order: if the story has a cause (an attack, a decision, a discovery), state it in the first two sentences, then what happened because of it, then the result and what comes next. Never leave the cause for later.
+- No repetition: each sentence must give a fact that the hook and the other sentences do not give. Do not repeat a name, number or phrase that is already in the hook or in another sentence, unless it is needed to make sense. Short, specific sentences beat long, repeated ones.
+- The "why it matters" reasons must explain the effect on people, not restate a sentence from the story. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Plan the story before you write: first the context (who, what, when and where), then the events in the order they happened, then the result or what it means. Write the sentences in that order. Do not put a general trend or comment between the events of the story. Each sentence after the first must follow on from the previous one. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary. From the second sentence on, the English should link to the one before it, using a plain link such as "Then", "As a result" or "Since then" where it fits. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
@@ -334,6 +338,78 @@ function parseCardsJson(text, expected) {
     if (good.length === 0) throw new Error('AI card has no usable sentences');
   }
   return items;
+}
+
+// ---------- Quality checks: the card must not repeat itself, must follow the story, and must gloss every word ----------
+const STOP = new Set(['the','and','that','with','from','after','said','were','have','their','they','this','into','about','over','than','when','where','which','while','been','also','more','most','some','such','these','those','will','would','could','should','there','here','what','its','his','her','was','are','for','not','but','had','has']);
+
+function contentWords(text) {
+  return new Set(String(text || '').toLowerCase().replace(/[^a-z0-9\s]/g, ' ').split(/\s+/)
+    .filter(w => w.length > 3 && !STOP.has(w)));
+}
+
+// Share of the smaller set that both texts have in common (0 to 1)
+function sharedShare(a, b) {
+  const A = contentWords(a), B = contentWords(b);
+  if (A.size === 0 || B.size === 0) return 0;
+  let common = 0;
+  for (const w of A) if (B.has(w)) common++;
+  return common / Math.min(A.size, B.size);
+}
+
+// Korean words of a sentence that have no glossary entry
+function missingGlossaryWords(s) {
+  const tokens = String(s.korean || '').split(/\s+/)
+    .map(t => t.replace(/[.,!?"'()\[\]·]/g, '').trim())
+    .filter(t => t && /[가-힣A-Za-z]/.test(t));
+  return tokens.filter(t => !(s.glossary || []).some(g => {
+    const k = String(g.korean || '').replace(/[.,!?"'()\[\]·]/g, '').trim();
+    return k && (k.includes(t) || t.includes(k));
+  }));
+}
+
+// Returns a list of problems to show the AI (empty list = the card is fine)
+function cardProblems(sentences, hook) {
+  const problems = [];
+  sentences.forEach((s, i) => {
+    if (sharedShare(s.english, hook) > 0.6) problems.push(`Sentence ${i + 1} repeats the hook. Give it a new fact.`);
+    for (let k = i + 1; k < sentences.length; k++) {
+      if (sharedShare(s.english, sentences[k].english) > 0.5) {
+        problems.push(`Sentences ${i + 1} and ${k + 1} say the same thing. Keep one, and make the other add a new fact.`);
+      }
+    }
+    const missing = missingGlossaryWords(s);
+    if (missing.length) problems.push(`Sentence ${i + 1}: these Korean words have no glossary entry: ${missing.join(', ')}. Add every word.`);
+  });
+  return problems;
+}
+
+// Local clean-up, no extra AI call: drop sentences that repeat the hook or an earlier sentence.
+// The card keeps its story order. If fewer than 3 sentences would be left, the card is kept as it is and logged.
+function tidyCard(item, title) {
+  if (!item || !Array.isArray(item.sentences)) return item;
+  const hook = item.hook || '';
+  const all = normalizeSentences(item.sentences);
+  const kept = [];
+  for (const s of all) {
+    if (sharedShare(s.english, hook) > 0.6) continue;
+    if (kept.some(k => sharedShare(s.english, k.english) > 0.5)) continue;
+    kept.push(s);
+  }
+  if (kept.length >= 3) {
+    if (kept.length < all.length) console.log(`"${title}": removed ${all.length - kept.length} repeated sentence(s)`);
+    item.sentences = kept;
+  } else if (kept.length < all.length) {
+    console.log(`"${title}": repeats found, but keeping all sentences (only ${kept.length} would remain)`);
+  }
+  const gaps = item.sentences.filter(s => missingGlossaryWords(s).length > 0).length;
+  if (gaps) console.log(`"${title}": ${gaps} sentence(s) have Korean words without a glossary entry`);
+  return item;
+}
+
+// Drops "why it matters" reasons that only restate a sentence of the story
+function dropRestated(reasons, sentences) {
+  return reasons.filter(r => !sentences.some(s => sharedShare(r.english, s.english) > 0.5));
 }
 
 // Keeps up to three well-formed "why it matters" reasons (English and Korean)

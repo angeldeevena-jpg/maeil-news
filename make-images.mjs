@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 18;
+export const IMAGE_VERSION = 19;
 
 const W = 1080;
 const H = 1350;
@@ -243,6 +243,7 @@ function creditSlide(c, region, source, logo, photo, total, date) {
 function slideWords(sentence) {
   return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
     .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()))
+    .filter((w, i, all) => all.findIndex(x => x.korean === w.korean) === i) // each word once per slide
     .slice(0, CHIPS_PER_SLIDE);
 }
 
