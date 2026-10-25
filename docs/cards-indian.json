@@ -1,1924 +1,52 @@
 {
   "date": "2026-10-25",
-  "status": "ai",
-  "note": "6 new cards made, 18 kept. Cost this run about $0.0094",
-  "generated_at": "2026-10-25T14:23:54.479Z",
+  "status": "fallback",
+  "note": "AI reply did not contain a JSON array",
+  "generated_at": "2026-10-25T14:57:46.116Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "학교가 피난처가 된 날",
-      "english_title": "School Turns Into Relief Camp",
-      "korean_desc": "와야나드 의 한 학교가 홍수 뒤 구호 캠프로 쓰이고 있습니다. 폭우 뒤 체랄 마을 의 벨라찰 우나티 에 물이 들어왔습니다. 지역 수집관 V. 첼사시니 는 10월 26일 월요일 을 휴일로 정했습니다. 그 학교는 칼린카라 정부 초등학교입니다. 그 캠프는 10가족 의 28명 을 받았습니다. 이 사람들은 안전을 위해 그곳으로 이동했습니다. 학교는 이제 긴급 피난처를 제공해서 수업을 쉽니다.",
-      "english_desc": "A school in Wayanad is being used as a relief camp after flooding. Floodwaters entered Vellachaal Unnathi in Cheeral village after heavy rain. District Collector V. Chelsasini declared a holiday for the school on Monday, October 26. The school is Kallinkara Government Lower Primary School. The camp received 28 people from 10 families. Those people were moved there for safety. Classes pause because the school now provides emergency shelter.",
-      "hook": "No classes today—the school has a bigger job.",
-      "sticker": "School, but make it shelter 🏫",
-      "korean_hook": "오늘은 수업 대신 피난처예요",
-      "glossary": [
-        {
-          "korean": "와야나드",
-          "roman": "wayanadeu",
-          "english": "Wayanad",
-          "particle": false
-        },
-        {
-          "korean": "의",
-          "roman": "ui",
-          "english": "of",
-          "particle": true
-        },
-        {
-          "korean": "한",
-          "roman": "han",
-          "english": "one",
-          "particle": false
-        },
-        {
-          "korean": "학교가",
-          "roman": "hakgyoga",
-          "english": "school",
-          "particle": false
-        },
-        {
-          "korean": "홍수",
-          "roman": "hongsu",
-          "english": "flood",
-          "particle": false
-        },
-        {
-          "korean": "뒤",
-          "roman": "dwi",
-          "english": "after",
-          "particle": false
-        },
-        {
-          "korean": "구호",
-          "roman": "guho",
-          "english": "relief",
-          "particle": false
-        },
-        {
-          "korean": "캠프로",
-          "roman": "kaempeuro",
-          "english": "as a camp",
-          "particle": false
-        },
-        {
-          "korean": "쓰이고",
-          "roman": "sseuigo",
-          "english": "being used",
-          "particle": false
-        },
-        {
-          "korean": "있습니다",
-          "roman": "isseumnida",
-          "english": "is",
-          "particle": false
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "A school in Wayanad is being used as a relief camp after flooding.",
-          "korean": "와야나드 의 한 학교가 홍수 뒤 구호 캠프로 쓰이고 있습니다.",
-          "glossary": [
-            {
-              "korean": "와야나드",
-              "roman": "wayanadeu",
-              "english": "Wayanad",
-              "particle": false
-            },
-            {
-              "korean": "의",
-              "roman": "ui",
-              "english": "of",
-              "particle": true
-            },
-            {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
-              "particle": false
-            },
-            {
-              "korean": "학교가",
-              "roman": "hakgyoga",
-              "english": "school",
-              "particle": false
-            },
-            {
-              "korean": "홍수",
-              "roman": "hongsu",
-              "english": "flood",
-              "particle": false
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false
-            },
-            {
-              "korean": "구호",
-              "roman": "guho",
-              "english": "relief",
-              "particle": false
-            },
-            {
-              "korean": "캠프로",
-              "roman": "kaempeuro",
-              "english": "as a camp",
-              "particle": false
-            },
-            {
-              "korean": "쓰이고",
-              "roman": "sseuigo",
-              "english": "being used",
-              "particle": false
-            },
-            {
-              "korean": "있습니다",
-              "roman": "isseumnida",
-              "english": "is",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "Floodwaters entered Vellachaal Unnathi in Cheeral village after heavy rain.",
-          "korean": "폭우 뒤 체랄 마을 의 벨라찰 우나티 에 물이 들어왔습니다.",
-          "glossary": [
-            {
-              "korean": "폭우",
-              "roman": "pogu",
-              "english": "heavy rain",
-              "particle": false
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false
-            },
-            {
-              "korean": "체랄",
-              "roman": "cheral",
-              "english": "Cheeral",
-              "particle": false
-            },
-            {
-              "korean": "마을",
-              "roman": "maeul",
-              "english": "village",
-              "particle": false
-            },
-            {
-              "korean": "의",
-              "roman": "ui",
-              "english": "of",
-              "particle": true
-            },
-            {
-              "korean": "벨라찰",
-              "roman": "bellachal",
-              "english": "Vellachaal",
-              "particle": false
-            },
-            {
-              "korean": "우나티",
-              "roman": "unati",
-              "english": "Unnathi",
-              "particle": false
-            },
-            {
-              "korean": "에",
-              "roman": "e",
-              "english": "into",
-              "particle": true
-            },
-            {
-              "korean": "물이",
-              "roman": "muri",
-              "english": "water",
-              "particle": false
-            },
-            {
-              "korean": "들어왔습니다",
-              "roman": "deureowatseumnida",
-              "english": "entered",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "District Collector V. Chelsasini declared a holiday for the school on Monday, October 26.",
-          "korean": "지역 수집관 V. 첼사시니 는 10월 26일 월요일 을 휴일로 정했습니다.",
-          "glossary": [
-            {
-              "korean": "지역",
-              "roman": "jiyeok",
-              "english": "district",
-              "particle": false
-            },
-            {
-              "korean": "수집관",
-              "roman": "sujipgwan",
-              "english": "collector",
-              "particle": false
-            },
-            {
-              "korean": "V.",
-              "roman": "bi",
-              "english": "V.",
-              "particle": false
-            },
-            {
-              "korean": "첼사시니",
-              "roman": "chelsasini",
-              "english": "Chelsasini",
-              "particle": false
-            },
-            {
-              "korean": "는",
-              "roman": "neun",
-              "english": "topic marker",
-              "particle": true
-            },
-            {
-              "korean": "10월",
-              "roman": "sipurwol",
-              "english": "October",
-              "particle": false
-            },
-            {
-              "korean": "26일",
-              "roman": "isibir-il",
-              "english": "26th",
-              "particle": false
-            },
-            {
-              "korean": "월요일",
-              "roman": "woryoil",
-              "english": "Monday",
-              "particle": false
-            },
-            {
-              "korean": "을",
-              "roman": "eul",
-              "english": "object marker",
-              "particle": true
-            },
-            {
-              "korean": "휴일로",
-              "roman": "hyuilro",
-              "english": "as a holiday",
-              "particle": false
-            },
-            {
-              "korean": "정했습니다",
-              "roman": "jeonghaetseumnida",
-              "english": "declared",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The school is Kallinkara Government Lower Primary School.",
-          "korean": "그 학교는 칼린카라 정부 초등학교입니다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "that",
-              "particle": false
-            },
-            {
-              "korean": "학교는",
-              "roman": "hakgyoneun",
-              "english": "school",
-              "particle": false
-            },
-            {
-              "korean": "칼린카라",
-              "roman": "kallinkara",
-              "english": "Kallinkara",
-              "particle": false
-            },
-            {
-              "korean": "정부",
-              "roman": "jeongbu",
-              "english": "government",
-              "particle": false
-            },
-            {
-              "korean": "초등학교입니다",
-              "roman": "chodeunghakgyoimnida",
-              "english": "is an elementary school",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The camp received 28 people from 10 families.",
-          "korean": "그 캠프는 10가족 의 28명 을 받았습니다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "the",
-              "particle": false
-            },
-            {
-              "korean": "캠프는",
-              "roman": "kaempeuneun",
-              "english": "camp",
-              "particle": false
-            },
-            {
-              "korean": "10가족",
-              "roman": "sip-gajok",
-              "english": "10 families",
-              "particle": false
-            },
-            {
-              "korean": "의",
-              "roman": "ui",
-              "english": "of",
-              "particle": true
-            },
-            {
-              "korean": "28명",
-              "roman": "isippal-myeong",
-              "english": "28 people",
-              "particle": false
-            },
-            {
-              "korean": "을",
-              "roman": "eul",
-              "english": "object marker",
-              "particle": true
-            },
-            {
-              "korean": "받았습니다",
-              "roman": "badatseumnida",
-              "english": "received",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Those people were moved there for safety.",
-          "korean": "이 사람들은 안전을 위해 그곳으로 이동했습니다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "these",
-              "particle": false
-            },
-            {
-              "korean": "사람들은",
-              "roman": "saramdeureun",
-              "english": "people",
-              "particle": false
-            },
-            {
-              "korean": "안전을",
-              "roman": "anjeoneul",
-              "english": "safety",
-              "particle": false
-            },
-            {
-              "korean": "위해",
-              "roman": "wihae",
-              "english": "for",
-              "particle": false
-            },
-            {
-              "korean": "그곳으로",
-              "roman": "geugoseuro",
-              "english": "there",
-              "particle": false
-            },
-            {
-              "korean": "이동했습니다",
-              "roman": "idonghaetseumnida",
-              "english": "moved",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Classes pause because the school now provides emergency shelter.",
-          "korean": "학교는 이제 긴급 피난처를 제공해서 수업을 쉽니다.",
-          "glossary": [
-            {
-              "korean": "학교는",
-              "roman": "hakgyoneun",
-              "english": "school",
-              "particle": false
-            },
-            {
-              "korean": "이제",
-              "roman": "ije",
-              "english": "now",
-              "particle": false
-            },
-            {
-              "korean": "긴급",
-              "roman": "gingeup",
-              "english": "emergency",
-              "particle": false
-            },
-            {
-              "korean": "피난처를",
-              "roman": "pinancheoreul",
-              "english": "shelter",
-              "particle": false
-            },
-            {
-              "korean": "제공해서",
-              "roman": "jegonghaeseo",
-              "english": "because it provides",
-              "particle": false
-            },
-            {
-              "korean": "수업을",
-              "roman": "sueobeul",
-              "english": "classes",
-              "particle": false
-            },
-            {
-              "korean": "쉽니다",
-              "roman": "swimnida",
-              "english": "takes a break",
-              "particle": false
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/kerala/holiday-for-school-in-wayanad/article71623696.ece",
-      "images": [
-        "images/indian/c510ef1c6110/1.jpg",
-        "images/indian/c510ef1c6110/2.jpg",
-        "images/indian/c510ef1c6110/3.jpg",
-        "images/indian/c510ef1c6110/4.jpg",
-        "images/indian/c510ef1c6110/5.jpg",
-        "images/indian/c510ef1c6110/6.jpg",
-        "images/indian/c510ef1c6110/7.jpg",
-        "images/indian/c510ef1c6110/8.jpg",
-        "images/indian/c510ef1c6110/9.jpg",
-        "images/indian/c510ef1c6110/10.jpg"
-      ],
-      "images_v": 2
+      "korean_title": "",
+      "english_title": "BEL to invest ₹2,500 crore in defence ecosystem in Sri Sathya Sai district",
+      "korean_desc": "",
+      "english_desc": "",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/bel-to-invest-2500-crore-in-defence-ecosystem-in-sri-sathya-sai-district/article71623910.ece"
     },
     {
       "category": "Politics & Society",
-      "korean_title": "동맹, 비자야나가람을 노리다",
-      "english_title": "Alliance Eyes Vizianagaram Victory",
-      "korean_desc": "TDP, JSP, BJP 는 비자야나가람 지방선거에 함께 나섭니다. TDP 지도자들은 일요일 에 동맹의 큰 승리를 예상한다고 말했습니다. 도시 지방자치단체 선거는 2026년 11월 1일 에 열립니다. 아디티 비자얄락슈미 는 정당 사이 의 표 이동이 동맹을 강화한다고 말했습니다. TDP 후보는 48개 선거구에 나서고 JSP는 10명, BJP는 4명입니다. 동맹은 여러 도시 구역에서 공동 집회와 선거운동을 했습니다. 지도자들은 YSRCP가 대부분 선거구에서 동맹에 강하게 맞서기 어렵다고 말했습니다.",
-      "english_desc": "The TDP, JSP, and BJP are contesting Vizianagaram’s local body elections together. TDP leaders said on Sunday that the alliance expected a striking victory. The urban local body elections are scheduled for November 1, 2026. Aditi Vijayalakshmi said vote transfers among the parties would strengthen the alliance. TDP candidates are contesting 48 divisions, while JSP has 10 candidates and BJP has four. The alliance held joint meetings and campaigned across several city wards. The leaders said the YSRCP could not strongly challenge the alliance in most constituencies.",
-      "hook": "Three parties, one election, and plenty of teamwork.",
-      "sticker": "Teamwork enters the ballot box",
-      "korean_hook": "세 정당이 한 팀으로 출격합니다",
-      "glossary": [
-        {
-          "korean": "TDP",
-          "roman": "ti-di-pi",
-          "english": "TDP",
-          "particle": false
-        },
-        {
-          "korean": "JSP",
-          "roman": "jei-es-pi",
-          "english": "JSP",
-          "particle": false
-        },
-        {
-          "korean": "BJP",
-          "roman": "bi-jei-pi",
-          "english": "BJP",
-          "particle": false
-        },
-        {
-          "korean": "는",
-          "roman": "neun",
-          "english": "topic marker",
-          "particle": true
-        },
-        {
-          "korean": "비자야나가람",
-          "roman": "bijayanagaram",
-          "english": "Vizianagaram",
-          "particle": false
-        },
-        {
-          "korean": "지방선거에",
-          "roman": "jibangseongeoe",
-          "english": "in local elections",
-          "particle": false
-        },
-        {
-          "korean": "함께",
-          "roman": "hamkke",
-          "english": "together",
-          "particle": false
-        },
-        {
-          "korean": "나섭니다",
-          "roman": "naseumnida",
-          "english": "take part",
-          "particle": false
-        },
-        {
-          "korean": "지도자들은",
-          "roman": "jidojadeureun",
-          "english": "leaders",
-          "particle": false
-        },
-        {
-          "korean": "일요일",
-          "roman": "iryoil",
-          "english": "Sunday",
-          "particle": false
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The TDP, JSP, and BJP are contesting Vizianagaram’s local body elections together.",
-          "korean": "TDP, JSP, BJP 는 비자야나가람 지방선거에 함께 나섭니다.",
-          "glossary": [
-            {
-              "korean": "TDP",
-              "roman": "ti-di-pi",
-              "english": "TDP",
-              "particle": false
-            },
-            {
-              "korean": "JSP",
-              "roman": "jei-es-pi",
-              "english": "JSP",
-              "particle": false
-            },
-            {
-              "korean": "BJP",
-              "roman": "bi-jei-pi",
-              "english": "BJP",
-              "particle": false
-            },
-            {
-              "korean": "는",
-              "roman": "neun",
-              "english": "topic marker",
-              "particle": true
-            },
-            {
-              "korean": "비자야나가람",
-              "roman": "bijayanagaram",
-              "english": "Vizianagaram",
-              "particle": false
-            },
-            {
-              "korean": "지방선거에",
-              "roman": "jibangseongeoe",
-              "english": "in local elections",
-              "particle": false
-            },
-            {
-              "korean": "함께",
-              "roman": "hamkke",
-              "english": "together",
-              "particle": false
-            },
-            {
-              "korean": "나섭니다",
-              "roman": "naseumnida",
-              "english": "take part",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "TDP leaders said on Sunday that the alliance expected a striking victory.",
-          "korean": "TDP 지도자들은 일요일 에 동맹의 큰 승리를 예상한다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "TDP",
-              "roman": "ti-di-pi",
-              "english": "TDP",
-              "particle": false
-            },
-            {
-              "korean": "지도자들은",
-              "roman": "jidojadeureun",
-              "english": "leaders",
-              "particle": false
-            },
-            {
-              "korean": "일요일",
-              "roman": "iryoil",
-              "english": "Sunday",
-              "particle": false
-            },
-            {
-              "korean": "에",
-              "roman": "e",
-              "english": "on",
-              "particle": true
-            },
-            {
-              "korean": "동맹의",
-              "roman": "dongmaengui",
-              "english": "of the alliance",
-              "particle": false
-            },
-            {
-              "korean": "큰",
-              "roman": "keun",
-              "english": "big",
-              "particle": false
-            },
-            {
-              "korean": "승리를",
-              "roman": "seungnireul",
-              "english": "victory",
-              "particle": false
-            },
-            {
-              "korean": "예상한다고",
-              "roman": "yesanghandago",
-              "english": "expect",
-              "particle": false
-            },
-            {
-              "korean": "말했습니다",
-              "roman": "malhaetseumnida",
-              "english": "said",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The urban local body elections are scheduled for November 1, 2026.",
-          "korean": "도시 지방자치단체 선거는 2026년 11월 1일 에 열립니다.",
-          "glossary": [
-            {
-              "korean": "도시",
-              "roman": "dosi",
-              "english": "urban",
-              "particle": false
-            },
-            {
-              "korean": "지방자치단체",
-              "roman": "jibangjachidanche",
-              "english": "local body",
-              "particle": false
-            },
-            {
-              "korean": "선거는",
-              "roman": "seongeoneun",
-              "english": "election",
-              "particle": false
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isippal-nyeon",
-              "english": "2026",
-              "particle": false
-            },
-            {
-              "korean": "11월",
-              "roman": "sibirwol",
-              "english": "November",
-              "particle": false
-            },
-            {
-              "korean": "1일",
-              "roman": "ir-il",
-              "english": "1st",
-              "particle": false
-            },
-            {
-              "korean": "에",
-              "roman": "e",
-              "english": "on",
-              "particle": true
-            },
-            {
-              "korean": "열립니다",
-              "roman": "yeollimnida",
-              "english": "are held",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Aditi Vijayalakshmi said vote transfers among the parties would strengthen the alliance.",
-          "korean": "아디티 비자얄락슈미 는 정당 사이 의 표 이동이 동맹을 강화한다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "아디티",
-              "roman": "aditi",
-              "english": "Aditi",
-              "particle": false
-            },
-            {
-              "korean": "비자얄락슈미",
-              "roman": "bijayalakswimi",
-              "english": "Vijayalakshmi",
-              "particle": false
-            },
-            {
-              "korean": "는",
-              "roman": "neun",
-              "english": "topic marker",
-              "particle": true
-            },
-            {
-              "korean": "정당",
-              "roman": "jeongdang",
-              "english": "party",
-              "particle": false
-            },
-            {
-              "korean": "사이",
-              "roman": "sai",
-              "english": "between",
-              "particle": false
-            },
-            {
-              "korean": "의",
-              "roman": "ui",
-              "english": "of",
-              "particle": true
-            },
-            {
-              "korean": "표",
-              "roman": "pyo",
-              "english": "votes",
-              "particle": false
-            },
-            {
-              "korean": "이동이",
-              "roman": "idongi",
-              "english": "transfer",
-              "particle": false
-            },
-            {
-              "korean": "동맹을",
-              "roman": "dongmaengeul",
-              "english": "alliance",
-              "particle": false
-            },
-            {
-              "korean": "강화한다고",
-              "roman": "ganghwahandago",
-              "english": "strengthens",
-              "particle": false
-            },
-            {
-              "korean": "말했습니다",
-              "roman": "malhaetseumnida",
-              "english": "said",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "TDP candidates are contesting 48 divisions, while JSP has 10 candidates and BJP has four.",
-          "korean": "TDP 후보는 48개 선거구에 나서고 JSP는 10명, BJP는 4명입니다.",
-          "glossary": [
-            {
-              "korean": "TDP",
-              "roman": "ti-di-pi",
-              "english": "TDP",
-              "particle": false
-            },
-            {
-              "korean": "후보는",
-              "roman": "huboneun",
-              "english": "candidates",
-              "particle": false
-            },
-            {
-              "korean": "48개",
-              "roman": "sasib-pal-gae",
-              "english": "48",
-              "particle": false
-            },
-            {
-              "korean": "선거구에",
-              "roman": "seongeogue",
-              "english": "in divisions",
-              "particle": false
-            },
-            {
-              "korean": "나서고",
-              "roman": "naseogo",
-              "english": "contest",
-              "particle": false
-            },
-            {
-              "korean": "JSP는",
-              "roman": "jei-es-pineun",
-              "english": "JSP",
-              "particle": false
-            },
-            {
-              "korean": "10명",
-              "roman": "sip-myeong",
-              "english": "10 people",
-              "particle": false
-            },
-            {
-              "korean": "BJP는",
-              "roman": "bi-jei-pineun",
-              "english": "BJP",
-              "particle": false
-            },
-            {
-              "korean": "4명입니다",
-              "roman": "ne-myeongimnida",
-              "english": "has four people",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The alliance held joint meetings and campaigned across several city wards.",
-          "korean": "동맹은 여러 도시 구역에서 공동 집회와 선거운동을 했습니다.",
-          "glossary": [
-            {
-              "korean": "동맹은",
-              "roman": "dongmaengeun",
-              "english": "alliance",
-              "particle": false
-            },
-            {
-              "korean": "여러",
-              "roman": "yeoreo",
-              "english": "several",
-              "particle": false
-            },
-            {
-              "korean": "도시",
-              "roman": "dosi",
-              "english": "city",
-              "particle": false
-            },
-            {
-              "korean": "구역에서",
-              "roman": "guyeogeseo",
-              "english": "in wards",
-              "particle": false
-            },
-            {
-              "korean": "공동",
-              "roman": "gongdong",
-              "english": "joint",
-              "particle": false
-            },
-            {
-              "korean": "집회와",
-              "roman": "jiphoewa",
-              "english": "meetings and",
-              "particle": false
-            },
-            {
-              "korean": "선거운동을",
-              "roman": "seongeoungeundongeul",
-              "english": "campaigning",
-              "particle": false
-            },
-            {
-              "korean": "했습니다",
-              "roman": "haetseumnida",
-              "english": "did",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The leaders said the YSRCP could not strongly challenge the alliance in most constituencies.",
-          "korean": "지도자들은 YSRCP가 대부분 선거구에서 동맹에 강하게 맞서기 어렵다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "지도자들은",
-              "roman": "jidojadeureun",
-              "english": "leaders",
-              "particle": false
-            },
-            {
-              "korean": "YSRCP가",
-              "roman": "wai-es-ar-si-piga",
-              "english": "YSRCP",
-              "particle": false
-            },
-            {
-              "korean": "대부분",
-              "roman": "daebubun",
-              "english": "most",
-              "particle": false
-            },
-            {
-              "korean": "선거구에서",
-              "roman": "seongeogueseo",
-              "english": "in constituencies",
-              "particle": false
-            },
-            {
-              "korean": "동맹에",
-              "roman": "dongmaenge",
-              "english": "against the alliance",
-              "particle": false
-            },
-            {
-              "korean": "강하게",
-              "roman": "ganghage",
-              "english": "strongly",
-              "particle": false
-            },
-            {
-              "korean": "맞서기",
-              "roman": "matseogi",
-              "english": "to challenge",
-              "particle": false
-            },
-            {
-              "korean": "어렵다고",
-              "roman": "eoryeopdago",
-              "english": "is difficult",
-              "particle": false
-            },
-            {
-              "korean": "말했습니다",
-              "roman": "malhaetseumnida",
-              "english": "said",
-              "particle": false
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/andhra-pradesh/tdp-led-alliance-confidant-of-sweeping-vizianagaram-local-body-elections/article71623098.ece",
-      "images": [
-        "images/indian/740125c04c14/1.jpg",
-        "images/indian/740125c04c14/2.jpg",
-        "images/indian/740125c04c14/3.jpg",
-        "images/indian/740125c04c14/4.jpg",
-        "images/indian/740125c04c14/5.jpg",
-        "images/indian/740125c04c14/6.jpg",
-        "images/indian/740125c04c14/7.jpg",
-        "images/indian/740125c04c14/8.jpg",
-        "images/indian/740125c04c14/9.jpg",
-        "images/indian/740125c04c14/10.jpg"
-      ],
-      "images_v": 2
+      "korean_title": "",
+      "english_title": "Seven arrested on charge of stealing railway signal cable in Kasaragod",
+      "korean_desc": "",
+      "english_desc": "The operator of a scrap shop at Pariyaram, who allegedly purchased the copper extracted from the stolen cables, was also arrested.",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/news/national/kerala/seven-arrested-on-charge-of-stealing-railway-signal-cable-in-kasaragod/article71622816.ece"
     },
     {
       "category": "Politics & Society",
-      "korean_title": "AI가 잡아낸 수상한 계산",
-      "english_title": "AI Tracks Civic Irregularities",
-      "korean_desc": "마디아프라데시는 재정 비리 의혹으로 지방 공무원들에게 조치하고 있습니다. 모두 392명의 공무원이 조치를 받고 있으며 그중 135명은 최고 지방관입니다. 지금까지 공무원 7명이 해임되었습니다. 정부는 기술과 인공지능으로 의심스러운 지출을 찾습니다. 한 기관은 쓰레기 차량을 2 lakh에 샀고 다른 기관은 같은 차에 6 lakh를 냈습니다. 부서는 과다 지급 때문에 공무원들에게서 약 3-4 crore를 회수했습니다. 공무원들은 정부 포털을 사용해야 지출을 비교하고 감시할 수 있습니다.",
-      "english_desc": "Madhya Pradesh is taking action against civic officials over alleged financial irregularities. A total of 392 officials face action, including 135 chief municipal officers. Seven officials have been dismissed from service so far. The government uses technology and artificial intelligence to find suspicious spending. One civic body bought a garbage vehicle for ₹2 lakh, while another paid ₹6 lakh for the same vehicle. The department recovered around ₹3–4 crore from officials over excess payments. Officials must use government portals so spending can be compared and monitored.",
-      "hook": "The spreadsheets are watching—and seven officials are out.",
-      "sticker": "The numbers noticed 👀",
-      "korean_hook": "숫자가 지켜보고 일곱 명이 해임됐어요",
-      "glossary": [
-        {
-          "korean": "마디아프라데시는",
-          "roman": "madiapradeesineun",
-          "english": "Madhya Pradesh",
-          "particle": false
-        },
-        {
-          "korean": "재정",
-          "roman": "jaejeong",
-          "english": "financial",
-          "particle": false
-        },
-        {
-          "korean": "비리",
-          "roman": "biri",
-          "english": "irregularity",
-          "particle": false
-        },
-        {
-          "korean": "의혹으로",
-          "roman": "uihogeuro",
-          "english": "over allegations",
-          "particle": false
-        },
-        {
-          "korean": "지방",
-          "roman": "jibang",
-          "english": "civic",
-          "particle": false
-        },
-        {
-          "korean": "공무원들에게",
-          "roman": "gongmuwondeurege",
-          "english": "against officials",
-          "particle": false
-        },
-        {
-          "korean": "조치하고",
-          "roman": "jochihago",
-          "english": "taking action",
-          "particle": false
-        },
-        {
-          "korean": "있습니다",
-          "roman": "isseumnida",
-          "english": "is",
-          "particle": false
-        },
-        {
-          "korean": "모두",
-          "roman": "modu",
-          "english": "a total of",
-          "particle": false
-        },
-        {
-          "korean": "392명의",
-          "roman": "sam-baek-gusip-i-myeongui",
-          "english": "392 people's",
-          "particle": false
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Madhya Pradesh is taking action against civic officials over alleged financial irregularities.",
-          "korean": "마디아프라데시는 재정 비리 의혹으로 지방 공무원들에게 조치하고 있습니다.",
-          "glossary": [
-            {
-              "korean": "마디아프라데시는",
-              "roman": "madiapradeesineun",
-              "english": "Madhya Pradesh",
-              "particle": false
-            },
-            {
-              "korean": "재정",
-              "roman": "jaejeong",
-              "english": "financial",
-              "particle": false
-            },
-            {
-              "korean": "비리",
-              "roman": "biri",
-              "english": "irregularity",
-              "particle": false
-            },
-            {
-              "korean": "의혹으로",
-              "roman": "uihogeuro",
-              "english": "over allegations",
-              "particle": false
-            },
-            {
-              "korean": "지방",
-              "roman": "jibang",
-              "english": "civic",
-              "particle": false
-            },
-            {
-              "korean": "공무원들에게",
-              "roman": "gongmuwondeurege",
-              "english": "against officials",
-              "particle": false
-            },
-            {
-              "korean": "조치하고",
-              "roman": "jochihago",
-              "english": "taking action",
-              "particle": false
-            },
-            {
-              "korean": "있습니다",
-              "roman": "isseumnida",
-              "english": "is",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "A total of 392 officials face action, including 135 chief municipal officers.",
-          "korean": "모두 392명의 공무원이 조치를 받고 있으며 그중 135명은 최고 지방관입니다.",
-          "glossary": [
-            {
-              "korean": "모두",
-              "roman": "modu",
-              "english": "a total of",
-              "particle": false
-            },
-            {
-              "korean": "392명의",
-              "roman": "sam-baek-gusip-i-myeongui",
-              "english": "392 people's",
-              "particle": false
-            },
-            {
-              "korean": "공무원이",
-              "roman": "gongmuwoni",
-              "english": "officials",
-              "particle": false
-            },
-            {
-              "korean": "조치를",
-              "roman": "jochireul",
-              "english": "action",
-              "particle": false
-            },
-            {
-              "korean": "받고",
-              "roman": "batgo",
-              "english": "receiving",
-              "particle": false
-            },
-            {
-              "korean": "있으며",
-              "roman": "isseumyeo",
-              "english": "and are",
-              "particle": false
-            },
-            {
-              "korean": "그중",
-              "roman": "geujung",
-              "english": "among them",
-              "particle": false
-            },
-            {
-              "korean": "135명은",
-              "roman": "baek-sam-sip-o-myeongeun",
-              "english": "135",
-              "particle": false
-            },
-            {
-              "korean": "최고",
-              "roman": "choego",
-              "english": "chief",
-              "particle": false
-            },
-            {
-              "korean": "지방관입니다",
-              "roman": "jibanggw an-imnida",
-              "english": "municipal officers",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Seven officials have been dismissed from service so far.",
-          "korean": "지금까지 공무원 7명이 해임되었습니다.",
-          "glossary": [
-            {
-              "korean": "지금까지",
-              "roman": "jigeumkkaji",
-              "english": "so far",
-              "particle": false
-            },
-            {
-              "korean": "공무원",
-              "roman": "gongmuwon",
-              "english": "officials",
-              "particle": false
-            },
-            {
-              "korean": "7명이",
-              "roman": "ilgop-myeongi",
-              "english": "seven people",
-              "particle": false
-            },
-            {
-              "korean": "해임되었습니다",
-              "roman": "haeimdoeeotseumnida",
-              "english": "were dismissed",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The government uses technology and artificial intelligence to find suspicious spending.",
-          "korean": "정부는 기술과 인공지능으로 의심스러운 지출을 찾습니다.",
-          "glossary": [
-            {
-              "korean": "정부는",
-              "roman": "jeongbuneun",
-              "english": "government",
-              "particle": false
-            },
-            {
-              "korean": "기술과",
-              "roman": "gisulgwa",
-              "english": "technology and",
-              "particle": false
-            },
-            {
-              "korean": "인공지능으로",
-              "roman": "ingongjineungeuro",
-              "english": "with AI",
-              "particle": false
-            },
-            {
-              "korean": "의심스러운",
-              "roman": "uisimseureoun",
-              "english": "suspicious",
-              "particle": false
-            },
-            {
-              "korean": "지출을",
-              "roman": "jichureul",
-              "english": "spending",
-              "particle": false
-            },
-            {
-              "korean": "찾습니다",
-              "roman": "chatseumnida",
-              "english": "finds",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "One civic body bought a garbage vehicle for ₹2 lakh, while another paid ₹6 lakh for the same vehicle.",
-          "korean": "한 기관은 쓰레기 차량을 2 lakh에 샀고 다른 기관은 같은 차에 6 lakh를 냈습니다.",
-          "glossary": [
-            {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
-              "particle": false
-            },
-            {
-              "korean": "기관은",
-              "roman": "gigwaneun",
-              "english": "body",
-              "particle": false
-            },
-            {
-              "korean": "쓰레기",
-              "roman": "sseuregi",
-              "english": "garbage",
-              "particle": false
-            },
-            {
-              "korean": "차량을",
-              "roman": "charyangeul",
-              "english": "vehicle",
-              "particle": false
-            },
-            {
-              "korean": "2",
-              "roman": "i",
-              "english": "two",
-              "particle": false
-            },
-            {
-              "korean": "lakh에",
-              "roman": "lakh-e",
-              "english": "lakh",
-              "particle": false
-            },
-            {
-              "korean": "샀고",
-              "roman": "satgo",
-              "english": "bought",
-              "particle": false
-            },
-            {
-              "korean": "다른",
-              "roman": "dareun",
-              "english": "another",
-              "particle": false
-            },
-            {
-              "korean": "기관은",
-              "roman": "gigwaneun",
-              "english": "body",
-              "particle": false
-            },
-            {
-              "korean": "같은",
-              "roman": "gateun",
-              "english": "same",
-              "particle": false
-            },
-            {
-              "korean": "차에",
-              "roman": "chae",
-              "english": "for the vehicle",
-              "particle": false
-            },
-            {
-              "korean": "6",
-              "roman": "yuk",
-              "english": "six",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The department recovered around ₹3–4 crore from officials over excess payments.",
-          "korean": "부서는 과다 지급 때문에 공무원들에게서 약 3-4 crore를 회수했습니다.",
-          "glossary": [
-            {
-              "korean": "부서는",
-              "roman": "buseoneun",
-              "english": "department",
-              "particle": false
-            },
-            {
-              "korean": "과다",
-              "roman": "gwada",
-              "english": "excess",
-              "particle": false
-            },
-            {
-              "korean": "지급",
-              "roman": "jigeup",
-              "english": "payment",
-              "particle": false
-            },
-            {
-              "korean": "때문에",
-              "roman": "ttaemune",
-              "english": "because of",
-              "particle": false
-            },
-            {
-              "korean": "공무원들에게서",
-              "roman": "gongmuwondeurege seo",
-              "english": "from officials",
-              "particle": false
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false
-            },
-            {
-              "korean": "3-4",
-              "roman": "sam-sa",
-              "english": "3–4",
-              "particle": false
-            },
-            {
-              "korean": "crore를",
-              "roman": "crore-reul",
-              "english": "crore",
-              "particle": false
-            },
-            {
-              "korean": "회수했습니다",
-              "roman": "hoesuh aetseumnida",
-              "english": "recovered",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Officials must use government portals so spending can be compared and monitored.",
-          "korean": "공무원들은 정부 포털을 사용해야 지출을 비교하고 감시할 수 있습니다.",
-          "glossary": [
-            {
-              "korean": "공무원들은",
-              "roman": "gongmuwondeureun",
-              "english": "officials",
-              "particle": false
-            },
-            {
-              "korean": "정부",
-              "roman": "jeongbu",
-              "english": "government",
-              "particle": false
-            },
-            {
-              "korean": "포털을",
-              "roman": "poteoreul",
-              "english": "portal",
-              "particle": false
-            },
-            {
-              "korean": "사용해야",
-              "roman": "sayonghaeya",
-              "english": "must use",
-              "particle": false
-            },
-            {
-              "korean": "지출을",
-              "roman": "jichureul",
-              "english": "spending",
-              "particle": false
-            },
-            {
-              "korean": "비교하고",
-              "roman": "bigyohago",
-              "english": "compare",
-              "particle": false
-            },
-            {
-              "korean": "감시할",
-              "roman": "gamsihal",
-              "english": "monitor",
-              "particle": false
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "ability",
-              "particle": false
-            },
-            {
-              "korean": "있습니다",
-              "roman": "isseumnida",
-              "english": "can",
-              "particle": false
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/madhya-pradesh/nearly-400-personnel-accused-of-financial-irregularities-govt-action-against-them-underway/article71623216.ece",
-      "images": [
-        "images/indian/28da12ef6597/1.jpg",
-        "images/indian/28da12ef6597/2.jpg",
-        "images/indian/28da12ef6597/3.jpg",
-        "images/indian/28da12ef6597/4.jpg",
-        "images/indian/28da12ef6597/5.jpg",
-        "images/indian/28da12ef6597/6.jpg",
-        "images/indian/28da12ef6597/7.jpg",
-        "images/indian/28da12ef6597/8.jpg",
-        "images/indian/28da12ef6597/9.jpg",
-        "images/indian/28da12ef6597/10.jpg"
-      ],
-      "images_v": 2
+      "korean_title": "",
+      "english_title": "Vizianagaram SP praises free artificial limbs distribution to accident victims",
+      "korean_desc": "",
+      "english_desc": "",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/news/national/andhra-pradesh/vizianagaram-sp-praises-free-artificial-limbs-distribution-to-accident-victims/article71623092.ece"
     },
     {
       "category": "Politics & Society",
-      "korean_title": "센 교수, 끈이론으로 메달",
-      "english_title": "Ashoke Sen Wins Physics Medal",
-      "korean_desc": "이론물리학자 아쇼크 센은 2026년 오스카르 클라인 메달을 받았습니다. 그는 이 상을 받은 첫 인도인 수상자입니다. 이 메달은 이론물리학에 대한 중요한 공헌을 인정합니다. 센은 경력 내내 끈이론에 집중했습니다. 끈이론은 물질과 기본 힘을 하나의 틀에서 설명하려고 합니다. 그의 연구는 물리학자들이 이중성과 블랙홀을 이해하는 데 도움을 주었습니다. 이 상은 센이 받은 여러 물리학상에 하나를 더했습니다.",
-      "english_desc": "Theoretical physicist Ashoke Sen has received the 2026 Oskar Klein Medal. He is the first Indian laureate to receive this honour. The medal recognizes significant contributions to theoretical physics. Sen has focused on string theory throughout his career. String theory tries to describe matter and fundamental forces in one framework. His work helped physicists understand duality and black holes. The award adds to Sen’s many earlier honors in physics.",
-      "hook": "Strings attached? Yes—also a shiny medal.",
-      "sticker": "Physics gets a glow-up ✨",
-      "korean_hook": "끈이론과 반짝이는 메달입니다",
-      "glossary": [
-        {
-          "korean": "이론물리학자",
-          "roman": "iron-mullihakja",
-          "english": "theoretical physicist",
-          "particle": false
-        },
-        {
-          "korean": "아쇼크",
-          "roman": "asyokeu",
-          "english": "Ashoke",
-          "particle": false
-        },
-        {
-          "korean": "센은",
-          "roman": "seneun",
-          "english": "Sen",
-          "particle": false
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isippal-nyeon",
-          "english": "2026",
-          "particle": false
-        },
-        {
-          "korean": "오스카르",
-          "roman": "oseukareu",
-          "english": "Oskar",
-          "particle": false
-        },
-        {
-          "korean": "클라인",
-          "roman": "keullain",
-          "english": "Klein",
-          "particle": false
-        },
-        {
-          "korean": "메달을",
-          "roman": "medareul",
-          "english": "medal",
-          "particle": false
-        },
-        {
-          "korean": "받았습니다",
-          "roman": "badatseumnida",
-          "english": "received",
-          "particle": false
-        },
-        {
-          "korean": "그는",
-          "roman": "geuneun",
-          "english": "he",
-          "particle": false
-        },
-        {
-          "korean": "이",
-          "roman": "i",
-          "english": "this",
-          "particle": false
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Theoretical physicist Ashoke Sen has received the 2026 Oskar Klein Medal.",
-          "korean": "이론물리학자 아쇼크 센은 2026년 오스카르 클라인 메달을 받았습니다.",
-          "glossary": [
-            {
-              "korean": "이론물리학자",
-              "roman": "iron-mullihakja",
-              "english": "theoretical physicist",
-              "particle": false
-            },
-            {
-              "korean": "아쇼크",
-              "roman": "asyokeu",
-              "english": "Ashoke",
-              "particle": false
-            },
-            {
-              "korean": "센은",
-              "roman": "seneun",
-              "english": "Sen",
-              "particle": false
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isippal-nyeon",
-              "english": "2026",
-              "particle": false
-            },
-            {
-              "korean": "오스카르",
-              "roman": "oseukareu",
-              "english": "Oskar",
-              "particle": false
-            },
-            {
-              "korean": "클라인",
-              "roman": "keullain",
-              "english": "Klein",
-              "particle": false
-            },
-            {
-              "korean": "메달을",
-              "roman": "medareul",
-              "english": "medal",
-              "particle": false
-            },
-            {
-              "korean": "받았습니다",
-              "roman": "badatseumnida",
-              "english": "received",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "He is the first Indian laureate to receive this honour.",
-          "korean": "그는 이 상을 받은 첫 인도인 수상자입니다.",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
-              "particle": false
-            },
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false
-            },
-            {
-              "korean": "상을",
-              "roman": "sangeul",
-              "english": "honour",
-              "particle": false
-            },
-            {
-              "korean": "받은",
-              "roman": "badeun",
-              "english": "received",
-              "particle": false
-            },
-            {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
-              "particle": false
-            },
-            {
-              "korean": "인도인",
-              "roman": "indoin",
-              "english": "Indian",
-              "particle": false
-            },
-            {
-              "korean": "수상자입니다",
-              "roman": "susangjaimnida",
-              "english": "is a laureate",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The medal recognizes significant contributions to theoretical physics.",
-          "korean": "이 메달은 이론물리학에 대한 중요한 공헌을 인정합니다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false
-            },
-            {
-              "korean": "메달은",
-              "roman": "medareun",
-              "english": "medal",
-              "particle": false
-            },
-            {
-              "korean": "이론물리학에",
-              "roman": "ironmullihage",
-              "english": "to theoretical physics",
-              "particle": false
-            },
-            {
-              "korean": "대한",
-              "roman": "daehan",
-              "english": "about",
-              "particle": false
-            },
-            {
-              "korean": "중요한",
-              "roman": "jungyohan",
-              "english": "significant",
-              "particle": false
-            },
-            {
-              "korean": "공헌을",
-              "roman": "gongheoneul",
-              "english": "contributions",
-              "particle": false
-            },
-            {
-              "korean": "인정합니다",
-              "roman": "injeonghamnida",
-              "english": "recognizes",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Sen has focused on string theory throughout his career.",
-          "korean": "센은 경력 내내 끈이론에 집중했습니다.",
-          "glossary": [
-            {
-              "korean": "센은",
-              "roman": "seneun",
-              "english": "Sen",
-              "particle": false
-            },
-            {
-              "korean": "경력",
-              "roman": "gyeongnyeok",
-              "english": "career",
-              "particle": false
-            },
-            {
-              "korean": "내내",
-              "roman": "naenae",
-              "english": "throughout",
-              "particle": false
-            },
-            {
-              "korean": "끈이론에",
-              "roman": "kkeunirone",
-              "english": "on string theory",
-              "particle": false
-            },
-            {
-              "korean": "집중했습니다",
-              "roman": "jipjunghaetseumnida",
-              "english": "focused",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "String theory tries to describe matter and fundamental forces in one framework.",
-          "korean": "끈이론은 물질과 기본 힘을 하나의 틀에서 설명하려고 합니다.",
-          "glossary": [
-            {
-              "korean": "끈이론은",
-              "roman": "kkeunironeun",
-              "english": "string theory",
-              "particle": false
-            },
-            {
-              "korean": "물질과",
-              "roman": "muljilgwa",
-              "english": "matter and",
-              "particle": false
-            },
-            {
-              "korean": "기본",
-              "roman": "gibon",
-              "english": "fundamental",
-              "particle": false
-            },
-            {
-              "korean": "힘을",
-              "roman": "himeul",
-              "english": "forces",
-              "particle": false
-            },
-            {
-              "korean": "하나의",
-              "roman": "hanaui",
-              "english": "one",
-              "particle": false
-            },
-            {
-              "korean": "틀에서",
-              "roman": "teures eo",
-              "english": "in a framework",
-              "particle": false
-            },
-            {
-              "korean": "설명하려고",
-              "roman": "seolmyeongharyeogo",
-              "english": "to describe",
-              "particle": false
-            },
-            {
-              "korean": "합니다",
-              "roman": "hamnida",
-              "english": "tries",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "His work helped physicists understand duality and black holes.",
-          "korean": "그의 연구는 물리학자들이 이중성과 블랙홀을 이해하는 데 도움을 주었습니다.",
-          "glossary": [
-            {
-              "korean": "그의",
-              "roman": "geuui",
-              "english": "his",
-              "particle": false
-            },
-            {
-              "korean": "연구는",
-              "roman": "yeonguneun",
-              "english": "work",
-              "particle": false
-            },
-            {
-              "korean": "물리학자들이",
-              "roman": "mullihakjadeuri",
-              "english": "physicists",
-              "particle": false
-            },
-            {
-              "korean": "이중성과",
-              "roman": "ijungseonggwa",
-              "english": "duality and",
-              "particle": false
-            },
-            {
-              "korean": "블랙홀을",
-              "roman": "beullaekholeul",
-              "english": "black holes",
-              "particle": false
-            },
-            {
-              "korean": "이해하는",
-              "roman": "ihaehaneun",
-              "english": "understanding",
-              "particle": false
-            },
-            {
-              "korean": "데",
-              "roman": "de",
-              "english": "in doing",
-              "particle": false
-            },
-            {
-              "korean": "도움을",
-              "roman": "doumeul",
-              "english": "help",
-              "particle": false
-            },
-            {
-              "korean": "주었습니다",
-              "roman": "jueotseumnida",
-              "english": "gave",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The award adds to Sen’s many earlier honors in physics.",
-          "korean": "이 상은 센이 받은 여러 물리학상에 하나를 더했습니다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false
-            },
-            {
-              "korean": "상은",
-              "roman": "sangeun",
-              "english": "award",
-              "particle": false
-            },
-            {
-              "korean": "센이",
-              "roman": "seni",
-              "english": "Sen",
-              "particle": false
-            },
-            {
-              "korean": "받은",
-              "roman": "badeun",
-              "english": "received",
-              "particle": false
-            },
-            {
-              "korean": "여러",
-              "roman": "yeoreo",
-              "english": "many",
-              "particle": false
-            },
-            {
-              "korean": "물리학상에",
-              "roman": "mullihaksange",
-              "english": "physics awards",
-              "particle": false
-            },
-            {
-              "korean": "하나를",
-              "roman": "hanareul",
-              "english": "one",
-              "particle": false
-            },
-            {
-              "korean": "더했습니다",
-              "roman": "deohaetseumnida",
-              "english": "added",
-              "particle": false
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sci-tech/science/award-winning-theoretical-physicist-ashoke-sen-has-focused-on-string-theory/article71623560.ece",
-      "images": [
-        "images/indian/4f64e1e6a37c/1.jpg",
-        "images/indian/4f64e1e6a37c/2.jpg",
-        "images/indian/4f64e1e6a37c/3.jpg",
-        "images/indian/4f64e1e6a37c/4.jpg",
-        "images/indian/4f64e1e6a37c/5.jpg",
-        "images/indian/4f64e1e6a37c/6.jpg",
-        "images/indian/4f64e1e6a37c/7.jpg",
-        "images/indian/4f64e1e6a37c/8.jpg",
-        "images/indian/4f64e1e6a37c/9.jpg",
-        "images/indian/4f64e1e6a37c/10.jpg"
-      ],
-      "images_v": 2
+      "korean_title": "",
+      "english_title": "Woman, two girls drown in pond in Mancherial district",
+      "korean_desc": "",
+      "english_desc": "",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/news/national/telangana/woman-two-girls-drown-in-pond-in-mancherial-district/article71623854.ece"
     },
     {
       "category": "Business",
@@ -2276,9 +404,16 @@
         "images/indian/7b8a5feb9ce3/6.jpg",
         "images/indian/7b8a5feb9ce3/7.jpg",
         "images/indian/7b8a5feb9ce3/8.jpg",
-        "images/indian/7b8a5feb9ce3/9.jpg"
+        "images/indian/7b8a5feb9ce3/9.jpg",
+        "images/indian/7b8a5feb9ce3/10.jpg",
+        "images/indian/7b8a5feb9ce3/11.jpg",
+        "images/indian/7b8a5feb9ce3/12.jpg",
+        "images/indian/7b8a5feb9ce3/13.jpg",
+        "images/indian/7b8a5feb9ce3/14.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "The routes include Bahrain, Riyadh, Dammam, Jeddah, Kuwait, Muscat, Dhaka, and Jakarta.",
+      "short_korean": "노선에는 바레인, 리야드, 담맘, 제다, 쿠웨이트, 무스카트, 다카, 자카르타가 포함됩니다."
     },
     {
       "category": "Business",
@@ -2716,9 +851,18 @@
         "images/indian/95b4632b42d7/7.jpg",
         "images/indian/95b4632b42d7/8.jpg",
         "images/indian/95b4632b42d7/9.jpg",
-        "images/indian/95b4632b42d7/10.jpg"
+        "images/indian/95b4632b42d7/10.jpg",
+        "images/indian/95b4632b42d7/11.jpg",
+        "images/indian/95b4632b42d7/12.jpg",
+        "images/indian/95b4632b42d7/13.jpg",
+        "images/indian/95b4632b42d7/14.jpg",
+        "images/indian/95b4632b42d7/15.jpg",
+        "images/indian/95b4632b42d7/16.jpg",
+        "images/indian/95b4632b42d7/17.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Pre-order delivery estimates quickly moved to late January because demand exceeded supply.",
+      "short_korean": "사전 주문 배송일은 수요가 공급을 넘어서 빠르게 1월 말로 밀렸습니다."
     },
     {
       "category": "Business",
@@ -3088,9 +1232,17 @@
         "images/indian/a148c09ee457/6.jpg",
         "images/indian/a148c09ee457/7.jpg",
         "images/indian/a148c09ee457/8.jpg",
-        "images/indian/a148c09ee457/9.jpg"
+        "images/indian/a148c09ee457/9.jpg",
+        "images/indian/a148c09ee457/10.jpg",
+        "images/indian/a148c09ee457/11.jpg",
+        "images/indian/a148c09ee457/12.jpg",
+        "images/indian/a148c09ee457/13.jpg",
+        "images/indian/a148c09ee457/14.jpg",
+        "images/indian/a148c09ee457/15.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Together, they hope to raise close to ₹2,600 crore from the primary market.",
+      "short_korean": "이 회사들은 1차 시장에서 약 ₹2,600크로어를 모으려 합니다."
     },
     {
       "category": "Business",
@@ -3476,9 +1628,17 @@
         "images/indian/e0b5f02f260b/6.jpg",
         "images/indian/e0b5f02f260b/7.jpg",
         "images/indian/e0b5f02f260b/8.jpg",
-        "images/indian/e0b5f02f260b/9.jpg"
+        "images/indian/e0b5f02f260b/9.jpg",
+        "images/indian/e0b5f02f260b/10.jpg",
+        "images/indian/e0b5f02f260b/11.jpg",
+        "images/indian/e0b5f02f260b/12.jpg",
+        "images/indian/e0b5f02f260b/13.jpg",
+        "images/indian/e0b5f02f260b/14.jpg",
+        "images/indian/e0b5f02f260b/15.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "High crude oil prices, West Asia tensions, inflation worries, and weak earnings pushed selling.",
+      "short_korean": "높은 원유 가격, 서아시아 긴장, 인플레이션 우려와 약한 실적이 매도를 키웠습니다."
     },
     {
       "category": "K-pop",
@@ -3820,9 +1980,15 @@
         "images/indian/8b16051a3c57/6.jpg",
         "images/indian/8b16051a3c57/7.jpg",
         "images/indian/8b16051a3c57/8.jpg",
-        "images/indian/8b16051a3c57/9.jpg"
+        "images/indian/8b16051a3c57/9.jpg",
+        "images/indian/8b16051a3c57/10.jpg",
+        "images/indian/8b16051a3c57/11.jpg",
+        "images/indian/8b16051a3c57/12.jpg",
+        "images/indian/8b16051a3c57/13.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "It is his first art show in twelve years and gathers drawings and text.",
+      "short_korean": "이 전시는 12년 만의 첫 미술 전시이며 그림과 글을 모았습니다."
     },
     {
       "category": "Culture",
@@ -4184,9 +2350,15 @@
         "images/indian/ab45069ceea5/6.jpg",
         "images/indian/ab45069ceea5/7.jpg",
         "images/indian/ab45069ceea5/8.jpg",
-        "images/indian/ab45069ceea5/9.jpg"
+        "images/indian/ab45069ceea5/9.jpg",
+        "images/indian/ab45069ceea5/10.jpg",
+        "images/indian/ab45069ceea5/11.jpg",
+        "images/indian/ab45069ceea5/12.jpg",
+        "images/indian/ab45069ceea5/13.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "The film grew from a meeting with geophysicist and seismologist Harsh Kumar Gupta.",
+      "short_korean": "이 영화는 지구물리학자이자 지진학자인 하르시 쿠마르 굽타와의 만남에서 시작됐습니다."
     },
     {
       "category": "Culture",
@@ -4572,9 +2744,17 @@
         "images/indian/ee9deafe4be7/6.jpg",
         "images/indian/ee9deafe4be7/7.jpg",
         "images/indian/ee9deafe4be7/8.jpg",
-        "images/indian/ee9deafe4be7/9.jpg"
+        "images/indian/ee9deafe4be7/9.jpg",
+        "images/indian/ee9deafe4be7/10.jpg",
+        "images/indian/ee9deafe4be7/11.jpg",
+        "images/indian/ee9deafe4be7/12.jpg",
+        "images/indian/ee9deafe4be7/13.jpg",
+        "images/indian/ee9deafe4be7/14.jpg",
+        "images/indian/ee9deafe4be7/15.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Pasta bars now focus on handmade shapes, carefully made sauces, and compact menus.",
+      "short_korean": "파스타 바는 이제 손으로 만든 모양, 정성스러운 소스와 짧은 메뉴에 집중합니다."
     },
     {
       "category": "Culture",
@@ -4968,9 +3148,28 @@
         "images/indian/aeb61827a536/6.jpg",
         "images/indian/aeb61827a536/7.jpg",
         "images/indian/aeb61827a536/8.jpg",
-        "images/indian/aeb61827a536/9.jpg"
+        "images/indian/aeb61827a536/9.jpg",
+        "images/indian/aeb61827a536/10.jpg",
+        "images/indian/aeb61827a536/11.jpg",
+        "images/indian/aeb61827a536/12.jpg",
+        "images/indian/aeb61827a536/13.jpg",
+        "images/indian/aeb61827a536/14.jpg",
+        "images/indian/aeb61827a536/15.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Ashwin Thiyagarajan is bringing back strong colors and modern silhouettes in cotton.",
+      "short_korean": "애시윈 티야가라잔은 면 소재에 강한 색과 현대적인 실루엣을 되살립니다."
+    },
+    {
+      "category": "Sports",
+      "korean_title": "",
+      "english_title": "Dhruv Goswami, Balaprasath share FLGB4 honours",
+      "korean_desc": "",
+      "english_desc": "",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/sport/dhruv-goswami-balaprasath-share-flgb4-honours/article71623691.ece"
     },
     {
       "category": "Sports",
@@ -5465,9 +3664,13 @@
         "images/indian/608de7c131cb/7.jpg",
         "images/indian/608de7c131cb/8.jpg",
         "images/indian/608de7c131cb/9.jpg",
-        "images/indian/608de7c131cb/10.jpg"
+        "images/indian/608de7c131cb/10.jpg",
+        "images/indian/608de7c131cb/11.jpg",
+        "images/indian/608de7c131cb/12.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "The victory was her fourth Women’s Indian Open title.",
+      "short_korean": "이번 우승은 그녀의 네 번째 여자 인디언 오픈 타이틀입니다."
     },
     {
       "category": "Sports",
@@ -6004,9 +4207,15 @@
         "images/indian/ad4c67a536ad/7.jpg",
         "images/indian/ad4c67a536ad/8.jpg",
         "images/indian/ad4c67a536ad/9.jpg",
-        "images/indian/ad4c67a536ad/10.jpg"
+        "images/indian/ad4c67a536ad/10.jpg",
+        "images/indian/ad4c67a536ad/11.jpg",
+        "images/indian/ad4c67a536ad/12.jpg",
+        "images/indian/ad4c67a536ad/13.jpg",
+        "images/indian/ad4c67a536ad/14.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Fernandes was named as a substitute against Bournemouth in the Premier League.",
+      "short_korean": "페르난데스는 프리미어리그 본머스전에서 교체 선수로 이름을 올렸습니다."
     },
     {
       "category": "Sports",
@@ -6486,497 +4695,14 @@
         "images/indian/f78f25d34a6e/6.jpg",
         "images/indian/f78f25d34a6e/7.jpg",
         "images/indian/f78f25d34a6e/8.jpg",
-        "images/indian/f78f25d34a6e/9.jpg"
+        "images/indian/f78f25d34a6e/9.jpg",
+        "images/indian/f78f25d34a6e/10.jpg",
+        "images/indian/f78f25d34a6e/11.jpg",
+        "images/indian/f78f25d34a6e/12.jpg"
       ],
-      "images_v": 2
-    },
-    {
-      "category": "Sports",
-      "korean_title": "인도, 주니어 3대3 개최 희망",
-      "english_title": "India Hopes to Host World Junior 3x3 Championships",
-      "korean_desc": "인도는 세계 주니어 3대3 선수권대회를 개최하고 싶어 합니다. K. 고빈다라지는 2027년 3월이나 4월 제네바 FIBA 이사회에 제안할 예정입니다. 제안된 대회에는 40개에서 44개 나라가 참가할 수 있습니다. 고빈다라지는 3대3이 유럽에서 더 인기를 얻고 그곳의 1위 스포츠라고 말했습니다. 그는 2023년부터 2027년까지 FIBA 아시아를 이끈 일이 순조로웠지만 서아시아 혼란으로 일정이 늦어졌다고 말했습니다. 그는 미래 선수인 16세 이하와 18세 이하를 위해 더 강한 훈련 캠프를 촉구했습니다.",
-      "english_desc": "India is interested in hosting the World junior 3x3 championships. K. Govindaraj plans to present the proposal at a FIBA Central Board meeting in Geneva in March or April 2027. The proposed event could include 40 to 44 countries. Govindaraj said 3x3 is becoming more popular in Europe and is the number one sport there. He said leading FIBA Asia from 2023 to 2027 had been smooth, except for delays caused by West Asian disturbances. He urged stronger training camps for under-16 and under-18 players because they are the country’s future.",
-      "hook": "India wants basketball’s mini-court to host a big world stage.",
-      "korean_hook": "인도가 작은 코트의 큰 무대를 원해요",
-      "glossary": [
-        {
-          "korean": "인도는",
-          "roman": "indoneun",
-          "english": "India",
-          "particle": false
-        },
-        {
-          "korean": "세계",
-          "roman": "segye",
-          "english": "world",
-          "particle": false
-        },
-        {
-          "korean": "주니어",
-          "roman": "junieo",
-          "english": "junior",
-          "particle": false
-        },
-        {
-          "korean": "3대3",
-          "roman": "sam-dae-sam",
-          "english": "3x3",
-          "particle": false
-        },
-        {
-          "korean": "선수권대회를",
-          "roman": "seonsugwon-daehoereul",
-          "english": "championships",
-          "particle": false
-        },
-        {
-          "korean": "개최하고",
-          "roman": "gae choehago",
-          "english": "host",
-          "particle": false
-        },
-        {
-          "korean": "싶어",
-          "roman": "sipeo",
-          "english": "want",
-          "particle": false
-        },
-        {
-          "korean": "합니다",
-          "roman": "hamnida",
-          "english": "do",
-          "particle": false
-        },
-        {
-          "korean": "K.",
-          "roman": "ke-i",
-          "english": "K.",
-          "particle": false
-        },
-        {
-          "korean": "고빈다라지는",
-          "roman": "gobindarajineun",
-          "english": "Govindaraj",
-          "particle": false
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "India is interested in hosting the World junior 3x3 championships.",
-          "korean": "인도는 세계 주니어 3대3 선수권대회를 개최하고 싶어 합니다.",
-          "glossary": [
-            {
-              "korean": "인도는",
-              "roman": "indoneun",
-              "english": "India",
-              "particle": false
-            },
-            {
-              "korean": "세계",
-              "roman": "segye",
-              "english": "world",
-              "particle": false
-            },
-            {
-              "korean": "주니어",
-              "roman": "junieo",
-              "english": "junior",
-              "particle": false
-            },
-            {
-              "korean": "3대3",
-              "roman": "sam-dae-sam",
-              "english": "3x3",
-              "particle": false
-            },
-            {
-              "korean": "선수권대회를",
-              "roman": "seonsugwon-daehoereul",
-              "english": "championships",
-              "particle": false
-            },
-            {
-              "korean": "개최하고",
-              "roman": "gae choehago",
-              "english": "host",
-              "particle": false
-            },
-            {
-              "korean": "싶어",
-              "roman": "sipeo",
-              "english": "want",
-              "particle": false
-            },
-            {
-              "korean": "합니다",
-              "roman": "hamnida",
-              "english": "do",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "K. Govindaraj plans to present the proposal at a FIBA Central Board meeting in Geneva in March or April 2027.",
-          "korean": "K. 고빈다라지는 2027년 3월이나 4월 제네바 FIBA 이사회에 제안할 예정입니다.",
-          "glossary": [
-            {
-              "korean": "K.",
-              "roman": "ke-i",
-              "english": "K.",
-              "particle": false
-            },
-            {
-              "korean": "고빈다라지는",
-              "roman": "gobindarajineun",
-              "english": "Govindaraj",
-              "particle": false
-            },
-            {
-              "korean": "2027년",
-              "roman": "icheon-isip-chil-nyeon",
-              "english": "2027",
-              "particle": false
-            },
-            {
-              "korean": "3월이나",
-              "roman": "sam-wolina",
-              "english": "March or",
-              "particle": false
-            },
-            {
-              "korean": "4월",
-              "roman": "sa-wol",
-              "english": "April",
-              "particle": false
-            },
-            {
-              "korean": "제네바",
-              "roman": "jeneba",
-              "english": "Geneva",
-              "particle": false
-            },
-            {
-              "korean": "FIBA",
-              "roman": "faiba",
-              "english": "FIBA",
-              "particle": false
-            },
-            {
-              "korean": "이사회에",
-              "roman": "isahoee",
-              "english": "board",
-              "particle": false
-            },
-            {
-              "korean": "제안할",
-              "roman": "jeanhal",
-              "english": "propose",
-              "particle": false
-            },
-            {
-              "korean": "예정입니다",
-              "roman": "yejeongimnida",
-              "english": "plans to",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "The proposed event could include 40 to 44 countries.",
-          "korean": "제안된 대회에는 40개에서 44개 나라가 참가할 수 있습니다.",
-          "glossary": [
-            {
-              "korean": "제안된",
-              "roman": "jean-doen",
-              "english": "proposed",
-              "particle": false
-            },
-            {
-              "korean": "대회에는",
-              "roman": "daeho-e-neun",
-              "english": "in event",
-              "particle": false
-            },
-            {
-              "korean": "40개에서",
-              "roman": "sasim-gaeseo",
-              "english": "from 40",
-              "particle": false
-            },
-            {
-              "korean": "44개",
-              "roman": "saship-sa-gae",
-              "english": "44",
-              "particle": false
-            },
-            {
-              "korean": "나라가",
-              "roman": "naraga",
-              "english": "countries",
-              "particle": false
-            },
-            {
-              "korean": "참가할",
-              "roman": "chamgahal",
-              "english": "participate",
-              "particle": false
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "ability",
-              "particle": false
-            },
-            {
-              "korean": "있습니다",
-              "roman": "itseumnida",
-              "english": "can",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Govindaraj said 3x3 is becoming more popular in Europe and is the number one sport there.",
-          "korean": "고빈다라지는 3대3이 유럽에서 더 인기를 얻고 그곳의 1위 스포츠라고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "고빈다라지는",
-              "roman": "gobindarajineun",
-              "english": "Govindaraj",
-              "particle": false
-            },
-            {
-              "korean": "3대3이",
-              "roman": "sam-dae-sami",
-              "english": "3x3",
-              "particle": false
-            },
-            {
-              "korean": "유럽에서",
-              "roman": "yureobeseo",
-              "english": "in Europe",
-              "particle": false
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false
-            },
-            {
-              "korean": "인기를",
-              "roman": "ingireul",
-              "english": "popularity",
-              "particle": false
-            },
-            {
-              "korean": "얻고",
-              "roman": "eotgo",
-              "english": "gaining",
-              "particle": false
-            },
-            {
-              "korean": "그곳의",
-              "roman": "geugosui",
-              "english": "there's",
-              "particle": false
-            },
-            {
-              "korean": "1위",
-              "roman": "il-wi",
-              "english": "number one",
-              "particle": false
-            },
-            {
-              "korean": "스포츠라고",
-              "roman": "seupocheurago",
-              "english": "as sport",
-              "particle": false
-            },
-            {
-              "korean": "말했습니다",
-              "roman": "malhaetseumnida",
-              "english": "said",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "He said leading FIBA Asia from 2023 to 2027 had been smooth, except for delays caused by West Asian disturbances.",
-          "korean": "그는 2023년부터 2027년까지 FIBA 아시아를 이끈 일이 순조로웠지만 서아시아 혼란으로 일정이 늦어졌다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
-              "particle": false
-            },
-            {
-              "korean": "2023년부터",
-              "roman": "icheon-isip-sam-nyeonbuteo",
-              "english": "from 2023",
-              "particle": false
-            },
-            {
-              "korean": "2027년까지",
-              "roman": "icheon-isip-chil-nyeonkkaji",
-              "english": "to 2027",
-              "particle": false
-            },
-            {
-              "korean": "FIBA",
-              "roman": "faiba",
-              "english": "FIBA",
-              "particle": false
-            },
-            {
-              "korean": "아시아를",
-              "roman": "asi areul",
-              "english": "Asia",
-              "particle": false
-            },
-            {
-              "korean": "이끈",
-              "roman": "ikkeun",
-              "english": "led",
-              "particle": false
-            },
-            {
-              "korean": "일이",
-              "roman": "iri",
-              "english": "work",
-              "particle": false
-            },
-            {
-              "korean": "순조로웠지만",
-              "roman": "sunjorowotjiman",
-              "english": "was smooth but",
-              "particle": false
-            },
-            {
-              "korean": "서아시아",
-              "roman": "seoasia",
-              "english": "West Asia",
-              "particle": false
-            },
-            {
-              "korean": "혼란으로",
-              "roman": "hollan-euro",
-              "english": "because of disturbances",
-              "particle": false
-            },
-            {
-              "korean": "일정이",
-              "roman": "iljeongi",
-              "english": "schedule",
-              "particle": false
-            },
-            {
-              "korean": "늦어졌다고",
-              "roman": "neujeotdago",
-              "english": "was delayed",
-              "particle": false
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "He urged stronger training camps for under-16 and under-18 players because they are the country’s future.",
-          "korean": "그는 미래 선수인 16세 이하와 18세 이하를 위해 더 강한 훈련 캠프를 촉구했습니다.",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
-              "particle": false
-            },
-            {
-              "korean": "미래",
-              "roman": "mirae",
-              "english": "future",
-              "particle": false
-            },
-            {
-              "korean": "선수인",
-              "roman": "seonsu-in",
-              "english": "who are players",
-              "particle": false
-            },
-            {
-              "korean": "16세",
-              "roman": "sip-yuk-se",
-              "english": "16 years",
-              "particle": false
-            },
-            {
-              "korean": "이하와",
-              "roman": "ihawa",
-              "english": "under and",
-              "particle": false
-            },
-            {
-              "korean": "18세",
-              "roman": "sip-pal-se",
-              "english": "18 years",
-              "particle": false
-            },
-            {
-              "korean": "이하를",
-              "roman": "ihareul",
-              "english": "under",
-              "particle": false
-            },
-            {
-              "korean": "위해",
-              "roman": "wihae",
-              "english": "for",
-              "particle": false
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false
-            },
-            {
-              "korean": "강한",
-              "roman": "ganghan",
-              "english": "stronger",
-              "particle": false
-            },
-            {
-              "korean": "훈련",
-              "roman": "hullyeon",
-              "english": "training",
-              "particle": false
-            },
-            {
-              "korean": "캠프를",
-              "roman": "kaempeureul",
-              "english": "camps",
-              "particle": false
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/other-sports/basketball/article71623429.ece",
-      "images": [
-        "images/indian/404334ed4251/1.jpg",
-        "images/indian/404334ed4251/2.jpg",
-        "images/indian/404334ed4251/3.jpg",
-        "images/indian/404334ed4251/4.jpg",
-        "images/indian/404334ed4251/5.jpg",
-        "images/indian/404334ed4251/6.jpg",
-        "images/indian/404334ed4251/7.jpg",
-        "images/indian/404334ed4251/8.jpg",
-        "images/indian/404334ed4251/9.jpg"
-      ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Jockey Vivek G. kept Zuccaro in the middle before unleashing him in the home straight.",
+      "short_korean": "기수 비베크 G.는 주카로를 중간에 두었다가 직선 구간에서 달리게 했습니다."
     },
     {
       "category": "K-pop",
@@ -7358,9 +5084,17 @@
         "images/indian/ad661e417a38/6.jpg",
         "images/indian/ad661e417a38/7.jpg",
         "images/indian/ad661e417a38/8.jpg",
-        "images/indian/ad661e417a38/9.jpg"
+        "images/indian/ad661e417a38/9.jpg",
+        "images/indian/ad661e417a38/10.jpg",
+        "images/indian/ad661e417a38/11.jpg",
+        "images/indian/ad661e417a38/12.jpg",
+        "images/indian/ad661e417a38/13.jpg",
+        "images/indian/ad661e417a38/14.jpg",
+        "images/indian/ad661e417a38/15.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "Roman Carax, D, Talia and Weak Kingsley are the four central characters.",
+      "short_korean": "로만 카락스, D, 탈리아, 위크 킹슬리가 네 중심인물이다."
     },
     {
       "category": "K-pop",
@@ -7714,9 +5448,16 @@
         "images/indian/7df78b022348/6.jpg",
         "images/indian/7df78b022348/7.jpg",
         "images/indian/7df78b022348/8.jpg",
-        "images/indian/7df78b022348/9.jpg"
+        "images/indian/7df78b022348/9.jpg",
+        "images/indian/7df78b022348/10.jpg",
+        "images/indian/7df78b022348/11.jpg",
+        "images/indian/7df78b022348/12.jpg",
+        "images/indian/7df78b022348/13.jpg",
+        "images/indian/7df78b022348/14.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "He and Sreekar Prasad often discussed ways to develop those scripts.",
+      "short_korean": "그와 스리카르 프라사드는 그 대본들을 발전시킬 방법을 자주 이야기했다."
     },
     {
       "category": "K-pop",
@@ -8078,9 +5819,15 @@
         "images/indian/6d3667c84495/6.jpg",
         "images/indian/6d3667c84495/7.jpg",
         "images/indian/6d3667c84495/8.jpg",
-        "images/indian/6d3667c84495/9.jpg"
+        "images/indian/6d3667c84495/9.jpg",
+        "images/indian/6d3667c84495/10.jpg",
+        "images/indian/6d3667c84495/11.jpg",
+        "images/indian/6d3667c84495/12.jpg",
+        "images/indian/6d3667c84495/13.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "The song later appeared in the 2025 Malayalam film Narivetta.",
+      "short_korean": "그 노래는 나중에 2025년 말라얄람 영화 ‘나리베타’에 나왔습니다."
     },
     {
       "category": "K-pop",
@@ -8422,9 +6169,37 @@
         "images/indian/8b16051a3c57/6.jpg",
         "images/indian/8b16051a3c57/7.jpg",
         "images/indian/8b16051a3c57/8.jpg",
-        "images/indian/8b16051a3c57/9.jpg"
+        "images/indian/8b16051a3c57/9.jpg",
+        "images/indian/8b16051a3c57/10.jpg",
+        "images/indian/8b16051a3c57/11.jpg",
+        "images/indian/8b16051a3c57/12.jpg",
+        "images/indian/8b16051a3c57/13.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "It is his first art show in twelve years and gathers drawings and text.",
+      "short_korean": "이 전시는 12년 만의 첫 미술 전시이며 그림과 글을 모았습니다."
+    },
+    {
+      "category": "World",
+      "korean_title": "",
+      "english_title": "LS Speaker Om Birla meets counterparts from Cuba, Russia ahead of BRICS parliamentary forum meeting",
+      "korean_desc": "",
+      "english_desc": "Cuba lobbying for support of its UNGA resolution against a crippling economic blockade imposed by the U.S.; India, Russia review parliamentary exchanges as they mark 80th anniversary of bilateral ties",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/news/international/ls-speaker-om-birla-meets-counterparts-from-cuba-russia-ahead-of-brics-parliamentary-forum-meeting/article71623634.ece"
+    },
+    {
+      "category": "World",
+      "korean_title": "",
+      "english_title": "How people’s genes are revealing why some languages are so unique",
+      "korean_desc": "",
+      "english_desc": "A new study measured how different neighbouring languages were from one another.",
+      "hook": "",
+      "korean_hook": "",
+      "glossary": [],
+      "url": "https://www.thehindu.com/sci-tech/science/how-genetic-history-reveals-why-some-languages-are-so-unique/article71217585.ece"
     },
     {
       "category": "World",
@@ -9094,9 +6869,16 @@
         "images/indian/5d0fc6e3f025/8.jpg",
         "images/indian/5d0fc6e3f025/9.jpg",
         "images/indian/5d0fc6e3f025/10.jpg",
-        "images/indian/5d0fc6e3f025/11.jpg"
+        "images/indian/5d0fc6e3f025/11.jpg",
+        "images/indian/5d0fc6e3f025/12.jpg",
+        "images/indian/5d0fc6e3f025/13.jpg",
+        "images/indian/5d0fc6e3f025/14.jpg",
+        "images/indian/5d0fc6e3f025/15.jpg",
+        "images/indian/5d0fc6e3f025/16.jpg"
       ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "A candidate needs more than 50% of the vote to become Brazil’s next leader.",
+      "short_korean": "후보는 브라질의 다음 지도자가 되려면 50%를 넘어야 한다."
     },
     {
       "category": "World",
@@ -9442,657 +7224,14 @@
         "images/indian/a1e7d32e457c/6.jpg",
         "images/indian/a1e7d32e457c/7.jpg",
         "images/indian/a1e7d32e457c/8.jpg",
-        "images/indian/a1e7d32e457c/9.jpg"
+        "images/indian/a1e7d32e457c/9.jpg",
+        "images/indian/a1e7d32e457c/10.jpg",
+        "images/indian/a1e7d32e457c/11.jpg",
+        "images/indian/a1e7d32e457c/12.jpg"
       ],
-      "images_v": 2
-    },
-    {
-      "category": "World",
-      "korean_title": "티베트 지역에 규모 5.9 지진",
-      "english_title": "5.9 Earthquake Strikes Tibet Region",
-      "korean_desc": "티베트 지역에서 2026년 10월 25일 지진이 발생했습니다. 유럽지중해지진센터는 지진 규모가 5.9라고 발표했습니다. 그 센터에 따르면 지진은 일요일에 발생했습니다. 전주에는 규모 7의 지진이 그 지역을 강타했습니다. 그 이전 지진으로 16명이 사망했습니다. 이번 규모 5.9 지진으로 인한 사망자 정보는 보도되지 않았습니다.",
-      "english_desc": "The Tibet region experienced an earthquake on October 25, 2026. The European-Mediterranean Seismological Centre reported the earthquake’s magnitude as 5.9. The earthquake struck on Sunday, according to the centre. A magnitude 7 earthquake struck the region the previous week. That earlier earthquake killed sixteen people. The report gives no information about deaths from the new 5.9 earthquake.",
-      "hook": "The ground delivered a 5.9-level surprise in Tibet.",
-      "korean_hook": "티베트 땅이 5.9로 흔들렸다",
-      "glossary": [
-        {
-          "korean": "티베트",
-          "english": "Tibet"
-        },
-        {
-          "korean": "지역",
-          "english": "region"
-        },
-        {
-          "korean": "2026년 10월 25일",
-          "english": "October 25, 2026"
-        },
-        {
-          "korean": "지진",
-          "english": "earthquake"
-        },
-        {
-          "korean": "발생했습니다",
-          "english": "occurred"
-        },
-        {
-          "korean": "에서",
-          "english": "in marker"
-        },
-        {
-          "korean": "이",
-          "english": "subject marker"
-        },
-        {
-          "korean": "유럽지중해지진센터",
-          "english": "European-Mediterranean Seismological Centre"
-        },
-        {
-          "korean": "규모",
-          "english": "magnitude"
-        },
-        {
-          "korean": "5.9",
-          "english": "5.9"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The Tibet region experienced an earthquake on October 25, 2026.",
-          "korean": "티베트 지역에서 2026년 10월 25일 지진이 발생했습니다.",
-          "glossary": [
-            {
-              "korean": "티베트",
-              "english": "Tibet"
-            },
-            {
-              "korean": "지역",
-              "english": "region"
-            },
-            {
-              "korean": "2026년 10월 25일",
-              "english": "October 25, 2026"
-            },
-            {
-              "korean": "지진",
-              "english": "earthquake"
-            },
-            {
-              "korean": "발생했습니다",
-              "english": "occurred"
-            },
-            {
-              "korean": "에서",
-              "english": "in marker"
-            },
-            {
-              "korean": "이",
-              "english": "subject marker"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The European-Mediterranean Seismological Centre reported the earthquake’s magnitude as 5.9.",
-          "korean": "유럽지중해지진센터는 지진 규모가 5.9라고 발표했습니다.",
-          "glossary": [
-            {
-              "korean": "유럽지중해지진센터",
-              "english": "European-Mediterranean Seismological Centre"
-            },
-            {
-              "korean": "지진",
-              "english": "earthquake"
-            },
-            {
-              "korean": "규모",
-              "english": "magnitude"
-            },
-            {
-              "korean": "5.9",
-              "english": "5.9"
-            },
-            {
-              "korean": "발표했습니다",
-              "english": "reported"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "이",
-              "english": "subject marker"
-            },
-            {
-              "korean": "라고",
-              "english": "quoting marker"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The earthquake struck on Sunday, according to the centre.",
-          "korean": "그 센터에 따르면 지진은 일요일에 발생했습니다.",
-          "glossary": [
-            {
-              "korean": "센터",
-              "english": "centre"
-            },
-            {
-              "korean": "지진",
-              "english": "earthquake"
-            },
-            {
-              "korean": "일요일",
-              "english": "Sunday"
-            },
-            {
-              "korean": "발생했습니다",
-              "english": "occurred"
-            },
-            {
-              "korean": "에 따르면",
-              "english": "according to"
-            },
-            {
-              "korean": "은",
-              "english": "topic marker"
-            },
-            {
-              "korean": "에",
-              "english": "on/in marker"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "A magnitude 7 earthquake struck the region the previous week.",
-          "korean": "전주에는 규모 7의 지진이 그 지역을 강타했습니다.",
-          "glossary": [
-            {
-              "korean": "전주",
-              "english": "previous week"
-            },
-            {
-              "korean": "규모",
-              "english": "magnitude"
-            },
-            {
-              "korean": "7",
-              "english": "7"
-            },
-            {
-              "korean": "지진",
-              "english": "earthquake"
-            },
-            {
-              "korean": "지역",
-              "english": "region"
-            },
-            {
-              "korean": "강타했습니다",
-              "english": "struck"
-            },
-            {
-              "korean": "에는",
-              "english": "in/as for marker"
-            },
-            {
-              "korean": "의",
-              "english": "possessive marker"
-            },
-            {
-              "korean": "이",
-              "english": "subject marker"
-            },
-            {
-              "korean": "을",
-              "english": "object marker"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "That earlier earthquake killed sixteen people.",
-          "korean": "그 이전 지진으로 16명이 사망했습니다.",
-          "glossary": [
-            {
-              "korean": "이전",
-              "english": "earlier"
-            },
-            {
-              "korean": "지진",
-              "english": "earthquake"
-            },
-            {
-              "korean": "16명",
-              "english": "sixteen people"
-            },
-            {
-              "korean": "사망했습니다",
-              "english": "died"
-            },
-            {
-              "korean": "으로",
-              "english": "because of/by marker"
-            },
-            {
-              "korean": "이",
-              "english": "subject marker"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The report gives no information about deaths from the new 5.9 earthquake.",
-          "korean": "이번 규모 5.9 지진으로 인한 사망자 정보는 보도되지 않았습니다.",
-          "glossary": [
-            {
-              "korean": "이번",
-              "english": "this time’s"
-            },
-            {
-              "korean": "규모",
-              "english": "magnitude"
-            },
-            {
-              "korean": "5.9",
-              "english": "5.9"
-            },
-            {
-              "korean": "지진",
-              "english": "earthquake"
-            },
-            {
-              "korean": "사망자",
-              "english": "deaths/dead people"
-            },
-            {
-              "korean": "정보",
-              "english": "information"
-            },
-            {
-              "korean": "보도되지 않았습니다",
-              "english": "was not reported"
-            },
-            {
-              "korean": "으로 인한",
-              "english": "caused by"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/tibet-earthquake-magnitude-59-earthquake-updates-october-25-2026/article71623292.ece",
-      "images": [
-        "images/indian/5a9bf2be0114/1.jpg",
-        "images/indian/5a9bf2be0114/2.jpg",
-        "images/indian/5a9bf2be0114/3.jpg",
-        "images/indian/5a9bf2be0114/4.jpg",
-        "images/indian/5a9bf2be0114/5.jpg",
-        "images/indian/5a9bf2be0114/6.jpg",
-        "images/indian/5a9bf2be0114/7.jpg",
-        "images/indian/5a9bf2be0114/8.jpg",
-        "images/indian/5a9bf2be0114/9.jpg"
-      ],
-      "images_v": 2
-    },
-    {
-      "category": "World",
-      "korean_title": "스리랑카, 이란 선원 치료 지원",
-      "english_title": "Sri Lanka Treats Stranded Iranian Sailors",
-      "korean_desc": "약 40명의 이란 선원들이 스리랑카 근처 유조선에 발이 묶였습니다. 그들은 2026년 10월 24일 긴급 의료 치료를 받았습니다. 스리랑카 당국은 갈레 항구를 통해 선원들을 육지로 옮겼습니다. 스리랑카 외교부에 따르면 이란 대사관이 모든 비용을 냈습니다. 선원들은 치료를 받으려고 갈레에서 콜롬보로 갔습니다. 그들은 그곳에서 몇 시간만 머문 뒤 그날 밤 스리랑카를 떠났습니다.",
-      "english_desc": "Around forty Iranian sailors were stranded on oil tankers near Sri Lanka. They received urgent medical treatment on October 24, 2026. Sri Lankan authorities moved the sailors ashore through the port of Galle. The Iranian Embassy paid all expenses, according to Sri Lanka’s Foreign Ministry. The sailors went from Galle to Colombo for medical care. They left Sri Lanka that night after spending only a few hours there.",
-      "hook": "Stranded sailors got a shore break—and urgent medical care.",
-      "korean_hook": "갇힌 선원들이 육지에서 치료받았다",
-      "glossary": [
-        {
-          "korean": "약",
-          "english": "around"
-        },
-        {
-          "korean": "40명",
-          "english": "forty people"
-        },
-        {
-          "korean": "이란",
-          "english": "Iranian"
-        },
-        {
-          "korean": "선원들",
-          "english": "sailors"
-        },
-        {
-          "korean": "스리랑카",
-          "english": "Sri Lanka"
-        },
-        {
-          "korean": "근처",
-          "english": "near"
-        },
-        {
-          "korean": "유조선",
-          "english": "oil tanker"
-        },
-        {
-          "korean": "발이 묶였습니다",
-          "english": "were stranded"
-        },
-        {
-          "korean": "의",
-          "english": "possessive marker"
-        },
-        {
-          "korean": "에",
-          "english": "at/on marker"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Around forty Iranian sailors were stranded on oil tankers near Sri Lanka.",
-          "korean": "약 40명의 이란 선원들이 스리랑카 근처 유조선에 발이 묶였습니다.",
-          "glossary": [
-            {
-              "korean": "약",
-              "english": "around"
-            },
-            {
-              "korean": "40명",
-              "english": "forty people"
-            },
-            {
-              "korean": "이란",
-              "english": "Iranian"
-            },
-            {
-              "korean": "선원들",
-              "english": "sailors"
-            },
-            {
-              "korean": "스리랑카",
-              "english": "Sri Lanka"
-            },
-            {
-              "korean": "근처",
-              "english": "near"
-            },
-            {
-              "korean": "유조선",
-              "english": "oil tanker"
-            },
-            {
-              "korean": "발이 묶였습니다",
-              "english": "were stranded"
-            },
-            {
-              "korean": "의",
-              "english": "possessive marker"
-            },
-            {
-              "korean": "에",
-              "english": "at/on marker"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "They received urgent medical treatment on October 24, 2026.",
-          "korean": "그들은 2026년 10월 24일 긴급 의료 치료를 받았습니다.",
-          "glossary": [
-            {
-              "korean": "그들",
-              "english": "they"
-            },
-            {
-              "korean": "2026년 10월 24일",
-              "english": "October 24, 2026"
-            },
-            {
-              "korean": "긴급",
-              "english": "urgent"
-            },
-            {
-              "korean": "의료",
-              "english": "medical"
-            },
-            {
-              "korean": "치료",
-              "english": "treatment"
-            },
-            {
-              "korean": "받았습니다",
-              "english": "received"
-            },
-            {
-              "korean": "은",
-              "english": "topic marker"
-            },
-            {
-              "korean": "을",
-              "english": "object marker"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Sri Lankan authorities moved the sailors ashore through the port of Galle.",
-          "korean": "스리랑카 당국은 갈레 항구를 통해 선원들을 육지로 옮겼습니다.",
-          "glossary": [
-            {
-              "korean": "스리랑카",
-              "english": "Sri Lankan"
-            },
-            {
-              "korean": "당국",
-              "english": "authorities"
-            },
-            {
-              "korean": "갈레",
-              "english": "Galle"
-            },
-            {
-              "korean": "항구",
-              "english": "port"
-            },
-            {
-              "korean": "선원들",
-              "english": "sailors"
-            },
-            {
-              "korean": "육지",
-              "english": "shore"
-            },
-            {
-              "korean": "옮겼습니다",
-              "english": "moved"
-            },
-            {
-              "korean": "은",
-              "english": "topic marker"
-            },
-            {
-              "korean": "를",
-              "english": "object marker"
-            },
-            {
-              "korean": "통해",
-              "english": "through"
-            },
-            {
-              "korean": "로",
-              "english": "to marker"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The Iranian Embassy paid all expenses, according to Sri Lanka’s Foreign Ministry.",
-          "korean": "스리랑카 외교부에 따르면 이란 대사관이 모든 비용을 냈습니다.",
-          "glossary": [
-            {
-              "korean": "스리랑카",
-              "english": "Sri Lanka"
-            },
-            {
-              "korean": "외교부",
-              "english": "Foreign Ministry"
-            },
-            {
-              "korean": "이란",
-              "english": "Iranian"
-            },
-            {
-              "korean": "대사관",
-              "english": "Embassy"
-            },
-            {
-              "korean": "모든",
-              "english": "all"
-            },
-            {
-              "korean": "비용",
-              "english": "expenses"
-            },
-            {
-              "korean": "냈습니다",
-              "english": "paid"
-            },
-            {
-              "korean": "에 따르면",
-              "english": "according to"
-            },
-            {
-              "korean": "이",
-              "english": "subject marker"
-            },
-            {
-              "korean": "을",
-              "english": "object marker"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The sailors went from Galle to Colombo for medical care.",
-          "korean": "선원들은 치료를 받으려고 갈레에서 콜롬보로 갔습니다.",
-          "glossary": [
-            {
-              "korean": "선원들",
-              "english": "sailors"
-            },
-            {
-              "korean": "치료",
-              "english": "medical care"
-            },
-            {
-              "korean": "받으려고",
-              "english": "in order to receive"
-            },
-            {
-              "korean": "갈레",
-              "english": "Galle"
-            },
-            {
-              "korean": "콜롬보",
-              "english": "Colombo"
-            },
-            {
-              "korean": "갔습니다",
-              "english": "went"
-            },
-            {
-              "korean": "는",
-              "english": "topic marker"
-            },
-            {
-              "korean": "를",
-              "english": "object marker"
-            },
-            {
-              "korean": "에서",
-              "english": "from marker"
-            },
-            {
-              "korean": "로",
-              "english": "to marker"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "They left Sri Lanka that night after spending only a few hours there.",
-          "korean": "그들은 그곳에서 몇 시간만 머문 뒤 그날 밤 스리랑카를 떠났습니다.",
-          "glossary": [
-            {
-              "korean": "그들",
-              "english": "they"
-            },
-            {
-              "korean": "그곳",
-              "english": "there"
-            },
-            {
-              "korean": "몇",
-              "english": "several"
-            },
-            {
-              "korean": "시간",
-              "english": "hours"
-            },
-            {
-              "korean": "머문",
-              "english": "stayed"
-            },
-            {
-              "korean": "그날",
-              "english": "that day"
-            },
-            {
-              "korean": "밤",
-              "english": "night"
-            },
-            {
-              "korean": "스리랑카",
-              "english": "Sri Lanka"
-            },
-            {
-              "korean": "떠났습니다",
-              "english": "left"
-            },
-            {
-              "korean": "에서",
-              "english": "in/from marker"
-            },
-            {
-              "korean": "만",
-              "english": "only"
-            },
-            {
-              "korean": "뒤",
-              "english": "after"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/stranded-iranian-sailors-receive-urgent-medical-assistance-in-sri-lanka/article71623159.ece",
-      "images": [
-        "images/indian/fc6f00ca3a4b/1.jpg",
-        "images/indian/fc6f00ca3a4b/2.jpg",
-        "images/indian/fc6f00ca3a4b/3.jpg",
-        "images/indian/fc6f00ca3a4b/4.jpg",
-        "images/indian/fc6f00ca3a4b/5.jpg",
-        "images/indian/fc6f00ca3a4b/6.jpg",
-        "images/indian/fc6f00ca3a4b/7.jpg",
-        "images/indian/fc6f00ca3a4b/8.jpg",
-        "images/indian/fc6f00ca3a4b/9.jpg"
-      ],
-      "images_v": 2
+      "images_v": 3,
+      "short_english": "The Interior Ministry said 410,000 people joined marches on October 25.",
+      "short_korean": "내무부는 10월 25일 행진에 41만 명이 참여했다고 밝혔습니다."
     }
   ]
 }
