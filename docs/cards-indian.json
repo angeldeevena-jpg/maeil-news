@@ -1,9 +1,1128 @@
 {
   "date": "2026-10-26",
   "status": "ai",
-  "note": "8 new cards made, 16 kept. Cost this run about $0.0175",
-  "generated_at": "2026-10-25T19:34:48.882Z",
+  "note": "2 new cards made, 22 kept. Cost this run about $0.0052",
+  "generated_at": "2026-10-25T20:02:24.418Z",
   "cards": [
+    {
+      "category": "Politics & Society",
+      "korean_title": "사이클론, 10월 28일 상륙 예보",
+      "english_title": "Cyclone May Reach Andhra Pradesh",
+      "korean_desc": "2026년 10월 25일, 벵골만에서 기상 시스템이 발달하고 있었습니다. 깊은 저기압은 2026년 10월 28일 안드라프라데시를 통과할 매우 강한 사이클론으로 발달할 것으로 예상됐습니다. 10월 27일과 28일에는 안드라프라데시 해안에 극심한 폭우가 내릴 것으로 예보됐습니다. 바람은 시속 115~125킬로미터에 이르고, 돌풍은 시속 140킬로미터까지 불 것으로 예상됐습니다. 당국은 전력 기관에 비상 대응을 지시하고 전봇대 25,000개를 준비했으며, 카키나다 어민들에게 조업을 중단하라고 알렸습니다.",
+      "english_desc": "A weather system was developing over the Bay of Bengal on October 25, 2026. The deep depression was expected to become a very severe cyclonic storm and cross Andhra Pradesh on October 28, 2026. It was forecast to bring extremely heavy rain to coastal Andhra Pradesh on October 27 and 28. Winds were expected to reach 115 to 125 kmph, with gusts up to 140 kmph. Authorities alerted utilities, prepared 25,000 poles, and warned Kakinada fisherfolk to stop fishing.",
+      "hook": "A cyclone may reach Andhra Pradesh on October 28.",
+      "sticker": "Cyclone warning",
+      "korean_hook": "사이클론이 10월 28일 안드라프라데시에 올 수 있습니다.",
+      "takeaway_english": "Fisherfolk were told to stop fishing and return to landing centres.",
+      "takeaway_korean": "어민들은 조업을 멈추고 어항으로 돌아가라는 안내를 받았습니다.",
+      "glossary": [
+        {
+          "korean": "깊은",
+          "roman": "gip-eun",
+          "english": "deep",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "저기압은",
+          "roman": "jeo-gi-ap-eun",
+          "english": "the depression",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "2026년",
+          "roman": "2026-nyeon",
+          "english": "year 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "10월",
+          "roman": "10-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "28일",
+          "roman": "28-il",
+          "english": "28th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "안드라프라데시를",
+          "roman": "Andeura-puradesi-reul",
+          "english": "Andhra Pradesh",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "통과할",
+          "roman": "tong-gwa-hal",
+          "english": "to cross",
+          "particle": false,
+          "suffix": "할"
+        },
+        {
+          "korean": "매우",
+          "roman": "mae-u",
+          "english": "very",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "강한",
+          "roman": "gang-han",
+          "english": "severe",
+          "particle": false,
+          "suffix": "한"
+        },
+        {
+          "korean": "사이클론으로",
+          "roman": "sa-i-keul-lon-eu-ro",
+          "english": "as a cyclone",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "발달할",
+          "roman": "bal-dal-hal",
+          "english": "to develop",
+          "particle": false,
+          "suffix": "할"
+        },
+        {
+          "korean": "것으로",
+          "roman": "geos-eu-ro",
+          "english": "as expected",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "예상됐습니다",
+          "roman": "ye-sang-dwae-eot-seum-ni-da",
+          "english": "was expected",
+          "particle": false,
+          "suffix": "됐습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "A weather system was developing over the Bay of Bengal on October 25, 2026.",
+          "korean": "2026년 10월 25일, 벵골만에서 기상 시스템이 발달하고 있었습니다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "25일",
+              "roman": "25-il",
+              "english": "25th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "벵골만에서",
+              "roman": "Bengol-man-eseo",
+              "english": "over the Bay of Bengal",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "기상",
+              "roman": "gisang",
+              "english": "weather",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시스템이",
+              "roman": "siseutem-i",
+              "english": "system",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "발달하고",
+              "roman": "bal-dal-ha-go",
+              "english": "developing",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "있었습니다",
+              "roman": "it-eot-seum-ni-da",
+              "english": "was",
+              "particle": false,
+              "suffix": "었습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "The deep depression was expected to become a very severe cyclonic storm and cross Andhra Pradesh on October 28, 2026.",
+          "korean": "깊은 저기압은 2026년 10월 28일 안드라프라데시를 통과할 매우 강한 사이클론으로 발달할 것으로 예상됐습니다.",
+          "glossary": [
+            {
+              "korean": "깊은",
+              "roman": "gip-eun",
+              "english": "deep",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "저기압은",
+              "roman": "jeo-gi-ap-eun",
+              "english": "the depression",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "28-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "안드라프라데시를",
+              "roman": "Andeura-puradesi-reul",
+              "english": "Andhra Pradesh",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "통과할",
+              "roman": "tong-gwa-hal",
+              "english": "to cross",
+              "particle": false,
+              "suffix": "할"
+            },
+            {
+              "korean": "매우",
+              "roman": "mae-u",
+              "english": "very",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "강한",
+              "roman": "gang-han",
+              "english": "severe",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "사이클론으로",
+              "roman": "sa-i-keul-lon-eu-ro",
+              "english": "as a cyclone",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "발달할",
+              "roman": "bal-dal-hal",
+              "english": "to develop",
+              "particle": false,
+              "suffix": "할"
+            },
+            {
+              "korean": "것으로",
+              "roman": "geos-eu-ro",
+              "english": "as expected",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "예상됐습니다",
+              "roman": "ye-sang-dwae-eot-seum-ni-da",
+              "english": "was expected",
+              "particle": false,
+              "suffix": "됐습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "It was forecast to bring extremely heavy rain to coastal Andhra Pradesh on October 27 and 28.",
+          "korean": "10월 27일과 28일에는 안드라프라데시 해안에 극심한 폭우가 내릴 것으로 예보됐습니다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "27일과",
+              "roman": "27-il-gwa",
+              "english": "27th and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "28일에는",
+              "roman": "28-il-eneun",
+              "english": "on the 28th",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "안드라프라데시",
+              "roman": "Andeura-puradesi",
+              "english": "Andhra Pradesh",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "해안에",
+              "roman": "hae-an-e",
+              "english": "on the coast",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "극심한",
+              "roman": "geuk-sim-han",
+              "english": "extremely heavy",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "폭우가",
+              "roman": "pog-u-ga",
+              "english": "heavy rain",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "내릴",
+              "roman": "nae-ril",
+              "english": "will fall",
+              "particle": false,
+              "suffix": "릴"
+            },
+            {
+              "korean": "것으로",
+              "roman": "geos-eu-ro",
+              "english": "as expected",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "예보됐습니다",
+              "roman": "ye-bo-dwae-eot-seum-ni-da",
+              "english": "was forecast",
+              "particle": false,
+              "suffix": "됐습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Winds were expected to reach 115 to 125 kmph, with gusts up to 140 kmph.",
+          "korean": "바람은 시속 115~125킬로미터에 이르고, 돌풍은 시속 140킬로미터까지 불 것으로 예상됐습니다.",
+          "glossary": [
+            {
+              "korean": "바람은",
+              "roman": "ba-ram-eun",
+              "english": "winds",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "시속",
+              "roman": "si-sok",
+              "english": "per hour",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시속",
+              "roman": "si-sok",
+              "english": "per hour",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "115~125킬로미터에",
+              "roman": "115~125-kil-lo-mi-teo-e",
+              "english": "at 115–125 kilometers",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "이르고",
+              "roman": "i-reu-go",
+              "english": "reach",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "돌풍은",
+              "roman": "dol-pung-eun",
+              "english": "gusts",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "140킬로미터까지",
+              "roman": "140-kil-lo-mi-teo-kka-ji",
+              "english": "up to 140 kilometers",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "불",
+              "roman": "bul",
+              "english": "blow",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "것으로",
+              "roman": "geos-eu-ro",
+              "english": "as expected",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "예상됐습니다",
+              "roman": "ye-sang-dwae-eot-seum-ni-da",
+              "english": "was expected",
+              "particle": false,
+              "suffix": "됐습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Authorities alerted utilities, prepared 25,000 poles, and warned Kakinada fisherfolk to stop fishing.",
+          "korean": "당국은 전력 기관에 비상 대응을 지시하고 전봇대 25,000개를 준비했으며, 카키나다 어민들에게 조업을 중단하라고 알렸습니다.",
+          "glossary": [
+            {
+              "korean": "당국은",
+              "roman": "dang-guk-eun",
+              "english": "authorities",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "전력",
+              "roman": "jeon-ryeok",
+              "english": "power",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기관에",
+              "roman": "gi-gwan-e",
+              "english": "to agencies",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "비상",
+              "roman": "bi-sang",
+              "english": "emergency",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대응을",
+              "roman": "dae-eung-eul",
+              "english": "response",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "지시하고",
+              "roman": "ji-si-ha-go",
+              "english": "ordered",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "전봇대",
+              "roman": "jeon-bot-dae",
+              "english": "utility poles",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25,000개를",
+              "roman": "25,000-gae-reul",
+              "english": "25,000 units",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "준비했으며",
+              "roman": "jun-bi-hae-eot-eu-myeo",
+              "english": "prepared",
+              "particle": false,
+              "suffix": "으며"
+            },
+            {
+              "korean": "카키나다",
+              "roman": "Ka-ki-na-da",
+              "english": "Kakinada",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "어민들에게",
+              "roman": "eo-min-deul-e-ge",
+              "english": "to fisherfolk",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "조업을",
+              "roman": "jo-eop-eul",
+              "english": "fishing",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "중단하라고",
+              "roman": "jung-dan-ha-ra-go",
+              "english": "to stop",
+              "particle": false,
+              "suffix": "라고"
+            },
+            {
+              "korean": "알렸습니다",
+              "roman": "al-lyeot-seum-ni-da",
+              "english": "warned",
+              "particle": false,
+              "suffix": "렸습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/cyclone-andhra-pradesh-odisha-live-updates-october-25-2026/article71622459.ece",
+      "short_english": "The deep depression was expected to become a very severe cyclonic storm and cross Andhra Pradesh on October 28, 2026.",
+      "short_korean": "깊은 저기압은 2026년 10월 28일 안드라프라데시를 통과할 매우 강한 사이클론으로 발달할 것으로 예상됐습니다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/indian/8e56cd14e2d1/1.jpg",
+        "images/indian/8e56cd14e2d1/2.jpg",
+        "images/indian/8e56cd14e2d1/3.jpg",
+        "images/indian/8e56cd14e2d1/4.jpg",
+        "images/indian/8e56cd14e2d1/5.jpg",
+        "images/indian/8e56cd14e2d1/6.jpg",
+        "images/indian/8e56cd14e2d1/7.jpg",
+        "images/indian/8e56cd14e2d1/8.jpg"
+      ],
+      "images_v": 12
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "2천 명 달린 카슈미르 마라톤",
+      "english_title": "Kashmir Marathon Draws 2,000 Runners",
+      "korean_desc": "스리나가르는 2026년 10월 25일 일요일에 제3회 카슈미르 국제 마라톤을 열었습니다. 2026년 10월 25일, 인도와 해외에서 온 2,000명 넘는 주자가 스리나가르에서 풀코스와 하프 마라톤에 참가했습니다. 오마르 압둘라흐는 오전 6시 30분에 42.195킬로미터 경기를, 오전 7시 45분에 21킬로미터 경기를 시작했습니다. 케냐 주자 엠마누엘 시쿠쿠 은디와와 레멘사 하르파가 남녀 풀코스 우승을 차지했습니다. 주최 측은 메달 68개를 수여했고, 이 행사의 총상금은 3억 1,700만 루피였습니다.",
+      "english_desc": "Srinagar hosted the third Kashmir International Marathon on Sunday, October 25, 2026. More than 2,000 runners from India and overseas joined full and half marathons in Srinagar on October 25, 2026. Omar Abdullah started the 42.195-kilometre race at 6:30 a.m. and the 21-kilometre race at 7:45 a.m. Kenyan runners Emmanuel Sikuku Ndiwa and Lemensa Harpaa won the men's and women's full-marathon titles. Organizers awarded 68 medals, while the event offered ₹3.17 crore in total prize money.",
+      "hook": "More than 2,000 runners joined Kashmir’s marathon in Srinagar.",
+      "sticker": "Kashmir on the run 🏃",
+      "korean_hook": "2천 명 넘는 주자가 스리나가르에서 달렸습니다.",
+      "takeaway_english": "The event combines competition, local scenery, and hopes for more sports tourism.",
+      "takeaway_korean": "이 행사는 경기와 풍경을 알리며 스포츠 관광을 넓히려 합니다.",
+      "glossary": [
+        {
+          "korean": "2026년",
+          "roman": "2026-nyeon",
+          "english": "year 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "10월",
+          "roman": "10-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "25일",
+          "roman": "25-il",
+          "english": "25th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "인도와",
+          "roman": "in-do-wa",
+          "english": "India and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "해외에서",
+          "roman": "hae-oe-eseo",
+          "english": "from overseas",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "온",
+          "roman": "on",
+          "english": "who came",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "2,000명",
+          "roman": "2,000-myeong",
+          "english": "2,000 people",
+          "particle": false,
+          "suffix": "명"
+        },
+        {
+          "korean": "넘는",
+          "roman": "neom-neun",
+          "english": "more than",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "주자가",
+          "roman": "ju-ja-ga",
+          "english": "runners",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "스리나가르에서",
+          "roman": "Seu-ri-na-ga-reu-eseo",
+          "english": "in Srinagar",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "풀코스와",
+          "roman": "pul-ko-seu-wa",
+          "english": "full course and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "하프",
+          "roman": "ha-peu",
+          "english": "half",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "마라톤에",
+          "roman": "ma-ra-ton-e",
+          "english": "marathon",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "참가했습니다",
+          "roman": "cham-ga-hae-seum-ni-da",
+          "english": "participated",
+          "particle": false,
+          "suffix": "했습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Srinagar hosted the third Kashmir International Marathon on Sunday, October 25, 2026.",
+          "korean": "스리나가르는 2026년 10월 25일 일요일에 제3회 카슈미르 국제 마라톤을 열었습니다.",
+          "glossary": [
+            {
+              "korean": "스리나가르는",
+              "roman": "Seu-ri-na-ga-reun",
+              "english": "Srinagar",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "25일",
+              "roman": "25-il",
+              "english": "25th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "일요일에",
+              "roman": "il-yo-il-e",
+              "english": "on Sunday",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "제3회",
+              "roman": "je-3-hoe",
+              "english": "third edition",
+              "particle": false,
+              "suffix": "회"
+            },
+            {
+              "korean": "카슈미르",
+              "roman": "Ka-syu-mi-reu",
+              "english": "Kashmir",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "국제",
+              "roman": "guk-je",
+              "english": "international",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마라톤을",
+              "roman": "ma-ra-ton-eul",
+              "english": "marathon",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "열었습니다",
+              "roman": "yeol-eot-seum-ni-da",
+              "english": "hosted",
+              "particle": false,
+              "suffix": "었습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "More than 2,000 runners from India and overseas joined full and half marathons in Srinagar on October 25, 2026.",
+          "korean": "2026년 10월 25일, 인도와 해외에서 온 2,000명 넘는 주자가 스리나가르에서 풀코스와 하프 마라톤에 참가했습니다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "25일",
+              "roman": "25-il",
+              "english": "25th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "인도와",
+              "roman": "in-do-wa",
+              "english": "India and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "해외에서",
+              "roman": "hae-oe-eseo",
+              "english": "from overseas",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "온",
+              "roman": "on",
+              "english": "who came",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2,000명",
+              "roman": "2,000-myeong",
+              "english": "2,000 people",
+              "particle": false,
+              "suffix": "명"
+            },
+            {
+              "korean": "넘는",
+              "roman": "neom-neun",
+              "english": "more than",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "주자가",
+              "roman": "ju-ja-ga",
+              "english": "runners",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "스리나가르에서",
+              "roman": "Seu-ri-na-ga-reu-eseo",
+              "english": "in Srinagar",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "풀코스와",
+              "roman": "pul-ko-seu-wa",
+              "english": "full course and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "하프",
+              "roman": "ha-peu",
+              "english": "half",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마라톤에",
+              "roman": "ma-ra-ton-e",
+              "english": "marathon",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "참가했습니다",
+              "roman": "cham-ga-hae-seum-ni-da",
+              "english": "participated",
+              "particle": false,
+              "suffix": "했습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Omar Abdullah started the 42.195-kilometre race at 6:30 a.m. and the 21-kilometre race at 7:45 a.m.",
+          "korean": "오마르 압둘라흐는 오전 6시 30분에 42.195킬로미터 경기를, 오전 7시 45분에 21킬로미터 경기를 시작했습니다.",
+          "glossary": [
+            {
+              "korean": "오마르",
+              "roman": "O-ma-reu",
+              "english": "Omar",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "압둘라흐는",
+              "roman": "Ap-dul-la-heu-neun",
+              "english": "Abdullah",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "오전",
+              "roman": "o-jeon",
+              "english": "a.m.",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "오전",
+              "roman": "o-jeon",
+              "english": "a.m.",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "6시",
+              "roman": "6-si",
+              "english": "6 o’clock",
+              "particle": false,
+              "suffix": "시"
+            },
+            {
+              "korean": "30분에",
+              "roman": "30-bun-e",
+              "english": "at 30 minutes",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "42.195킬로미터",
+              "roman": "42.195-kil-lo-mi-teo",
+              "english": "42.195 kilometers",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "경기를",
+              "roman": "gyeong-gi-reul",
+              "english": "race",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "경기를",
+              "roman": "gyeong-gi-reul",
+              "english": "race",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "7시",
+              "roman": "7-si",
+              "english": "7 o’clock",
+              "particle": false,
+              "suffix": "시"
+            },
+            {
+              "korean": "45분에",
+              "roman": "45-bun-e",
+              "english": "at 45 minutes",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "21킬로미터",
+              "roman": "21-kil-lo-mi-teo",
+              "english": "21 kilometers",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시작했습니다",
+              "roman": "si-jak-hae-seum-ni-da",
+              "english": "started",
+              "particle": false,
+              "suffix": "했습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Kenyan runners Emmanuel Sikuku Ndiwa and Lemensa Harpaa won the men's and women's full-marathon titles.",
+          "korean": "케냐 주자 엠마누엘 시쿠쿠 은디와와 레멘사 하르파가 남녀 풀코스 우승을 차지했습니다.",
+          "glossary": [
+            {
+              "korean": "케냐",
+              "roman": "Ke-nya",
+              "english": "Kenyan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주자",
+              "roman": "ju-ja",
+              "english": "runners",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "엠마누엘",
+              "roman": "Em-ma-nu-el",
+              "english": "Emmanuel",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시쿠쿠",
+              "roman": "Si-ku-ku",
+              "english": "Sikuku",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "은디와와",
+              "roman": "Eun-di-wa-wa",
+              "english": "Ndiwa and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "레멘사",
+              "roman": "Re-men-sa",
+              "english": "Lemensa",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "하르파가",
+              "roman": "Ha-reu-pa-ga",
+              "english": "Harpaa",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "남녀",
+              "roman": "nam-nyeo",
+              "english": "men’s and women’s",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "풀코스",
+              "roman": "pul-ko-seu",
+              "english": "full marathon",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "우승을",
+              "roman": "u-seung-eul",
+              "english": "titles",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "차지했습니다",
+              "roman": "cha-ji-hae-seum-ni-da",
+              "english": "won",
+              "particle": false,
+              "suffix": "했습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Organizers awarded 68 medals, while the event offered ₹3.17 crore in total prize money.",
+          "korean": "주최 측은 메달 68개를 수여했고, 이 행사의 총상금은 3억 1,700만 루피였습니다.",
+          "glossary": [
+            {
+              "korean": "주최",
+              "roman": "ju-choe",
+              "english": "organizing",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "측은",
+              "roman": "cheug-eun",
+              "english": "side",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "메달",
+              "roman": "me-dal",
+              "english": "medals",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "68개를",
+              "roman": "68-gae-reul",
+              "english": "68",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "수여했고",
+              "roman": "su-yeo-hae-tgo",
+              "english": "awarded",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "이",
+              "roman": "i",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행사의",
+              "roman": "haeng-sa-ui",
+              "english": "event’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "총상금은",
+              "roman": "chong-sang-geum-eun",
+              "english": "total prize money",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "3억",
+              "roman": "3-eok",
+              "english": "300 million",
+              "particle": false,
+              "suffix": "억"
+            },
+            {
+              "korean": "1,700만",
+              "roman": "1,700-man",
+              "english": "17 million",
+              "particle": false,
+              "suffix": "만"
+            },
+            {
+              "korean": "루피였습니다",
+              "roman": "ru-pi-yeot-seum-ni-da",
+              "english": "was rupees",
+              "particle": false,
+              "suffix": "였습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/as-2000-attend-kashmir-marathon-cm-omar-says-strengthens-jks-position-as-a-global-sports-tourism-destination/article71623960.ece",
+      "short_english": "More than 2,000 runners from India and overseas joined full and half marathons in Srinagar on October 25, 2026.",
+      "short_korean": "2026년 10월 25일, 인도와 해외에서 온 2,000명 넘는 주자가 스리나가르에서 풀코스와 하프 마라톤에 참가했습니다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/indian/c1bb6530b268/1.jpg",
+        "images/indian/c1bb6530b268/2.jpg",
+        "images/indian/c1bb6530b268/3.jpg",
+        "images/indian/c1bb6530b268/4.jpg",
+        "images/indian/c1bb6530b268/5.jpg",
+        "images/indian/c1bb6530b268/6.jpg",
+        "images/indian/c1bb6530b268/7.jpg",
+        "images/indian/c1bb6530b268/8.jpg"
+      ],
+      "images_v": 12
+    },
     {
       "category": "Politics & Society",
       "korean_title": "방갈루루 폭발 사건 해결",
@@ -546,10 +1665,10 @@
         "images/indian/d8962eedd5e6/5.jpg",
         "images/indian/d8962eedd5e6/6.jpg",
         "images/indian/d8962eedd5e6/7.jpg",
-        "images/indian/d8962eedd5e6/8.jpg",
-        "images/indian/d8962eedd5e6/9.jpg"
+        "images/indian/d8962eedd5e6/8.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Politics & Society",
@@ -1079,1181 +2198,10 @@
         "images/indian/5c62707bb973/5.jpg",
         "images/indian/5c62707bb973/6.jpg",
         "images/indian/5c62707bb973/7.jpg",
-        "images/indian/5c62707bb973/8.jpg",
-        "images/indian/5c62707bb973/9.jpg"
+        "images/indian/5c62707bb973/8.jpg"
       ],
-      "images_v": 9
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "자르칸드 BJP, 결의안 통과",
-      "english_title": "Jharkhand BJP Passes Resolution",
-      "korean_desc": "자르칸드 BJP 주 집행위원회는 2026년 10월 25일 란치에서 회의를 열었습니다. 10월 25일 란치에서 자르칸드 BJP 위원들은 헤만트 소렌 정부를 반민중적이라고 부르는 결의안을 만장일치로 통과시켰습니다. 결의안은 선거 공약, 치안, 여성 안전, 자원, 청년과 부족 공동체에 대한 실패를 주장했습니다. 바불랄 마란디는 의회당과 JMM이 자르칸드의 부족 토지를 빼앗았다고도 비난했습니다. BJP는 부패와 실업에 맞선 활동을 모든 마을과 가정으로 확대하겠다고 밝혔습니다.",
-      "english_desc": "The Jharkhand BJP State Executive Committee met in Ranchi on October 25, 2026. On October 25 in Ranchi, Jharkhand BJP members unanimously passed a resolution calling the Hemant Soren government anti-people. The resolution alleged failures involving election promises, law and order, women’s safety, resources, youth, and tribal communities. Babulal Marandi also accused Congress and JMM of taking tribal land in Jharkhand. The BJP said it would take its campaign against corruption and unemployment to every village and household.",
-      "hook": "Jharkhand BJP criticized the government and planned wider protests.",
-      "sticker": "What the party decided",
-      "korean_hook": "자르칸드 BJP가 정부를 비판하고 시위를 확대한다",
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "25일",
-          "roman": "isibo-il",
-          "english": "25th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "란치에서",
-          "roman": "ranchi-eseo",
-          "english": "in Ranchi",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "자르칸드",
-          "roman": "jareukandeu",
-          "english": "Jharkhand",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "BJP",
-          "roman": "bi-jei-pi",
-          "english": "BJP",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "위원들은",
-          "roman": "wiwon-deul-eun",
-          "english": "members",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "헤만트",
-          "roman": "hemanteu",
-          "english": "Hemant",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "소렌",
-          "roman": "soren",
-          "english": "Soren",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "정부를",
-          "roman": "jeongbu-reul",
-          "english": "government",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "반민중적이라고",
-          "roman": "banminjungjeogirago",
-          "english": "as anti-people",
-          "particle": false,
-          "suffix": "이라고"
-        },
-        {
-          "korean": "부르는",
-          "roman": "bureuneun",
-          "english": "calling",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "결의안을",
-          "roman": "gyeol-ui-an-eul",
-          "english": "resolution",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "만장일치로",
-          "roman": "manjangilchi-ro",
-          "english": "unanimously",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "통과시켰습니다",
-          "roman": "tonggwasi-kyeotseumnida",
-          "english": "passed",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The Jharkhand BJP State Executive Committee met in Ranchi on October 25, 2026.",
-          "korean": "자르칸드 BJP 주 집행위원회는 2026년 10월 25일 란치에서 회의를 열었습니다.",
-          "glossary": [
-            {
-              "korean": "자르칸드",
-              "roman": "jareukandeu",
-              "english": "Jharkhand",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "BJP",
-              "roman": "bi-jei-pi",
-              "english": "BJP",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주",
-              "roman": "ju",
-              "english": "state",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "집행위원회는",
-              "roman": "jiphaengwiwonhoe-neun",
-              "english": "executive committee",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isipsa-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "25일",
-              "roman": "isibo-il",
-              "english": "25th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "란치에서",
-              "roman": "ranchi-eseo",
-              "english": "in Ranchi",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "회의를",
-              "roman": "hoeui-reul",
-              "english": "meeting",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "열었습니다",
-              "roman": "yeoleotseumnida",
-              "english": "held",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "On October 25 in Ranchi, Jharkhand BJP members unanimously passed a resolution calling the Hemant Soren government anti-people.",
-          "korean": "10월 25일 란치에서 자르칸드 BJP 위원들은 헤만트 소렌 정부를 반민중적이라고 부르는 결의안을 만장일치로 통과시켰습니다.",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "25일",
-              "roman": "isibo-il",
-              "english": "25th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "란치에서",
-              "roman": "ranchi-eseo",
-              "english": "in Ranchi",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "자르칸드",
-              "roman": "jareukandeu",
-              "english": "Jharkhand",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "BJP",
-              "roman": "bi-jei-pi",
-              "english": "BJP",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "위원들은",
-              "roman": "wiwon-deul-eun",
-              "english": "members",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "헤만트",
-              "roman": "hemanteu",
-              "english": "Hemant",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "소렌",
-              "roman": "soren",
-              "english": "Soren",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정부를",
-              "roman": "jeongbu-reul",
-              "english": "government",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "반민중적이라고",
-              "roman": "banminjungjeogirago",
-              "english": "as anti-people",
-              "particle": false,
-              "suffix": "이라고"
-            },
-            {
-              "korean": "부르는",
-              "roman": "bureuneun",
-              "english": "calling",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "결의안을",
-              "roman": "gyeol-ui-an-eul",
-              "english": "resolution",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "만장일치로",
-              "roman": "manjangilchi-ro",
-              "english": "unanimously",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "통과시켰습니다",
-              "roman": "tonggwasi-kyeotseumnida",
-              "english": "passed",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The resolution alleged failures involving election promises, law and order, women’s safety, resources, youth, and tribal communities.",
-          "korean": "결의안은 선거 공약, 치안, 여성 안전, 자원, 청년과 부족 공동체에 대한 실패를 주장했습니다.",
-          "glossary": [
-            {
-              "korean": "결의안은",
-              "roman": "gyeol-uian-eun",
-              "english": "the resolution",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "선거",
-              "roman": "seongeo",
-              "english": "election",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공약",
-              "roman": "gongyak",
-              "english": "promises",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "치안",
-              "roman": "chian",
-              "english": "law and order",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여성",
-              "roman": "yeoseong",
-              "english": "women",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안전",
-              "roman": "anjeon",
-              "english": "safety",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "자원",
-              "roman": "jawon",
-              "english": "resources",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "청년과",
-              "roman": "cheongnyeon-gwa",
-              "english": "youth and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "부족",
-              "roman": "bujok",
-              "english": "tribal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공동체에",
-              "roman": "gongdongche-e",
-              "english": "communities",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "대한",
-              "roman": "daehan",
-              "english": "concerning",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "실패를",
-              "roman": "silpae-reul",
-              "english": "failures",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "주장했습니다",
-              "roman": "jジャンghanghaetseumnida",
-              "english": "alleged",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Babulal Marandi also accused Congress and JMM of taking tribal land in Jharkhand.",
-          "korean": "바불랄 마란디는 의회당과 JMM이 자르칸드의 부족 토지를 빼앗았다고도 비난했습니다.",
-          "glossary": [
-            {
-              "korean": "바불랄",
-              "roman": "babulral",
-              "english": "Babulal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "마란디는",
-              "roman": "marandi-neun",
-              "english": "Marandi",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "의회당과",
-              "roman": "uihoedang-gwa",
-              "english": "Congress and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "JMM이",
-              "roman": "jei-em-em-i",
-              "english": "JMM",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "자르칸드의",
-              "roman": "jareukandeu-ui",
-              "english": "Jharkhand's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "부족",
-              "roman": "bujok",
-              "english": "tribal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "토지를",
-              "roman": "toji-reul",
-              "english": "land",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "빼앗았다고도",
-              "roman": "ppaeasdatgod o",
-              "english": "also took",
-              "particle": false,
-              "suffix": "다고도"
-            },
-            {
-              "korean": "비난했습니다",
-              "roman": "binanhaetseumnida",
-              "english": "accused",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The BJP said it would take its campaign against corruption and unemployment to every village and household.",
-          "korean": "BJP는 부패와 실업에 맞선 활동을 모든 마을과 가정으로 확대하겠다고 밝혔습니다.",
-          "glossary": [
-            {
-              "korean": "BJP는",
-              "roman": "bi-jei-pi-neun",
-              "english": "BJP",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "부패와",
-              "roman": "bupae-wa",
-              "english": "corruption and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "실업에",
-              "roman": "sireop-e",
-              "english": "against unemployment",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "맞선",
-              "roman": "matseon",
-              "english": "opposing",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "활동을",
-              "roman": "hwaldong-eul",
-              "english": "campaign",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "모든",
-              "roman": "modeun",
-              "english": "every",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "마을과",
-              "roman": "maeul-gwa",
-              "english": "village and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "가정으로",
-              "roman": "gajeong-euro",
-              "english": "to households",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "확대하겠다고",
-              "roman": "hwakdaehagetdago",
-              "english": "would expand",
-              "particle": false,
-              "suffix": "겠다고"
-            },
-            {
-              "korean": "밝혔습니다",
-              "roman": "balhyeotseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/jharkhand/jharkhand-bjp-unanimously-passes-political-resolution-at-state-executive-committee-meeting/article71624016.ece",
-      "short_english": "On October 25 in Ranchi, Jharkhand BJP members unanimously passed a resolution calling the Hemant Soren government anti-people.",
-      "short_korean": "10월 25일 란치에서 자르칸드 BJP 위원들은 헤만트 소렌 정부를 반민중적이라고 부르는 결의안을 만장일치로 통과시켰습니다.",
-      "images": [
-        "images/indian/b0358adfbaeb/1.jpg",
-        "images/indian/b0358adfbaeb/2.jpg",
-        "images/indian/b0358adfbaeb/3.jpg",
-        "images/indian/b0358adfbaeb/4.jpg",
-        "images/indian/b0358adfbaeb/5.jpg",
-        "images/indian/b0358adfbaeb/6.jpg",
-        "images/indian/b0358adfbaeb/7.jpg",
-        "images/indian/b0358adfbaeb/8.jpg",
-        "images/indian/b0358adfbaeb/9.jpg"
-      ],
-      "images_v": 9
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "크리파 알바, 사건 조사받아",
-      "english_title": "Kripa Alva Questioned",
-      "korean_desc": "중앙범죄수사대는 전 주총리 시다라마이아를 겨냥한 것으로 알려진 함정 취재를 조사하고 있습니다. CCB는 닥시나 칸나다에서 의회당 지도자 크리파 알바를 함정 취재 사건으로 조사했지만 체포하지 않았습니다. 알바는 여러 차례 수사관 앞에 나왔고 가장 최근에는 토요일에 진술한 뒤 떠났습니다. 경찰은 그녀가 Power TV 대표이사 라케시 셰티와 함께 있는 것으로 보이는 영상이 온라인에 퍼진 뒤 소환했습니다. 경찰은 22세 리테시 판데이를 체포했지만 그는 현재 보석으로 풀려났고 다른 두 사람을 찾고 있습니다.",
-      "english_desc": "The Central Crime Branch is investigating an alleged sting operation targeting former Chief Minister Siddaramaiah. The CCB questioned Congress leader Kripa Alva in Dakshina Kannada about the alleged sting operation and did not arrest her. Alva appeared before investigators several times, most recently on Saturday, and left after giving a statement. Police summoned her after a video allegedly showing her with Power TV managing director Rakesh Shetty spread online. Police arrested Ritesh Pandey, 22, who is now out on bail, and are seeking two other people.",
-      "hook": "Police questioned Kripa Alva. She was not arrested.",
-      "sticker": "What investigators asked",
-      "korean_hook": "경찰이 크리파 알바를 조사했지만 체포하지 않았다",
-      "glossary": [
-        {
-          "korean": "CCB는",
-          "roman": "si-si-bi-neun",
-          "english": "CCB",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "닥시나",
-          "roman": "daksina",
-          "english": "Dakshina",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "칸나다에서",
-          "roman": "kannada-eseo",
-          "english": "in Kannada",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "의회당",
-          "roman": "uihoedang",
-          "english": "Congress",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "지도자",
-          "roman": "jidoja",
-          "english": "leader",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "크리파",
-          "roman": "keuripa",
-          "english": "Kripa",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "알바를",
-          "roman": "alba-reul",
-          "english": "Alva",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "함정",
-          "roman": "hamjeong",
-          "english": "sting",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "취재",
-          "roman": "chwijae",
-          "english": "operation",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "사건으로",
-          "roman": "sageon-euro",
-          "english": "in the case",
-          "particle": false,
-          "suffix": "으로"
-        },
-        {
-          "korean": "조사했지만",
-          "roman": "josahaetjiman",
-          "english": "questioned but",
-          "particle": false,
-          "suffix": "지만"
-        },
-        {
-          "korean": "체포하지",
-          "roman": "chepohaji",
-          "english": "did not arrest",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "않았습니다",
-          "roman": "anasseumnida",
-          "english": "did not",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The Central Crime Branch is investigating an alleged sting operation targeting former Chief Minister Siddaramaiah.",
-          "korean": "중앙범죄수사대는 전 주총리 시다라마이아를 겨냥한 것으로 알려진 함정 취재를 조사하고 있습니다.",
-          "glossary": [
-            {
-              "korean": "중앙범죄수사대는",
-              "roman": "jungangbeomjoesusadae-neun",
-              "english": "Central Crime Branch",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "전",
-              "roman": "jeon",
-              "english": "former",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주총리",
-              "roman": "juchongni",
-              "english": "Chief Minister",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시다라마이아를",
-              "roman": "sidaram-aia-reul",
-              "english": "Siddaramaiah",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "겨냥한",
-              "roman": "gyeonyanghan",
-              "english": "targeting",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "것으로",
-              "roman": "geoseuro",
-              "english": "as being",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "알려진",
-              "roman": "allyeojin",
-              "english": "alleged",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "함정",
-              "roman": "hamjeong",
-              "english": "sting",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "취재를",
-              "roman": "chwijae-reul",
-              "english": "operation",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "조사하고",
-              "roman": "josahago",
-              "english": "investigating",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "있습니다",
-              "roman": "itseumnida",
-              "english": "is",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The CCB questioned Congress leader Kripa Alva in Dakshina Kannada about the alleged sting operation and did not arrest her.",
-          "korean": "CCB는 닥시나 칸나다에서 의회당 지도자 크리파 알바를 함정 취재 사건으로 조사했지만 체포하지 않았습니다.",
-          "glossary": [
-            {
-              "korean": "CCB는",
-              "roman": "si-si-bi-neun",
-              "english": "CCB",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "닥시나",
-              "roman": "daksina",
-              "english": "Dakshina",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "칸나다에서",
-              "roman": "kannada-eseo",
-              "english": "in Kannada",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "의회당",
-              "roman": "uihoedang",
-              "english": "Congress",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지도자",
-              "roman": "jidoja",
-              "english": "leader",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "크리파",
-              "roman": "keuripa",
-              "english": "Kripa",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "알바를",
-              "roman": "alba-reul",
-              "english": "Alva",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "함정",
-              "roman": "hamjeong",
-              "english": "sting",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "취재",
-              "roman": "chwijae",
-              "english": "operation",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사건으로",
-              "roman": "sageon-euro",
-              "english": "in the case",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "조사했지만",
-              "roman": "josahaetjiman",
-              "english": "questioned but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "체포하지",
-              "roman": "chepohaji",
-              "english": "did not arrest",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "않았습니다",
-              "roman": "anasseumnida",
-              "english": "did not",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Alva appeared before investigators several times, most recently on Saturday, and left after giving a statement.",
-          "korean": "알바는 여러 차례 수사관 앞에 나왔고 가장 최근에는 토요일에 진술한 뒤 떠났습니다.",
-          "glossary": [
-            {
-              "korean": "알바는",
-              "roman": "alba-neun",
-              "english": "Alva",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "여러",
-              "roman": "yeoreo",
-              "english": "several",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "차례",
-              "roman": "charye",
-              "english": "times",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수사관",
-              "roman": "susagwan",
-              "english": "investigators",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "앞에",
-              "roman": "ap-e",
-              "english": "before",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "나왔고",
-              "roman": "nawatgo",
-              "english": "appeared and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "가장",
-              "roman": "gajang",
-              "english": "most",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "최근에는",
-              "roman": "choegeun-eneun",
-              "english": "recently",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "토요일에",
-              "roman": "toyoil-e",
-              "english": "on Saturday",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "진술한",
-              "roman": "jinsulhan",
-              "english": "giving a statement",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "떠났습니다",
-              "roman": "tteonatseumnida",
-              "english": "left",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Police summoned her after a video allegedly showing her with Power TV managing director Rakesh Shetty spread online.",
-          "korean": "경찰은 그녀가 Power TV 대표이사 라케시 셰티와 함께 있는 것으로 보이는 영상이 온라인에 퍼진 뒤 소환했습니다.",
-          "glossary": [
-            {
-              "korean": "경찰은",
-              "roman": "gyeongchal-eun",
-              "english": "police",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그녀가",
-              "roman": "geunyeo-ga",
-              "english": "her",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "Power",
-              "roman": "paweo",
-              "english": "Power",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "TV",
-              "roman": "ti-bi",
-              "english": "TV",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대표이사",
-              "roman": "daepyoisa",
-              "english": "managing director",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "라케시",
-              "roman": "rakesi",
-              "english": "Rakesh",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "셰티와",
-              "roman": "syeti-wa",
-              "english": "Shetty with",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "함께",
-              "roman": "hamkke",
-              "english": "together",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있는",
-              "roman": "inneun",
-              "english": "being",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "것으로",
-              "roman": "geoseuro",
-              "english": "as appearing",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "보이는",
-              "roman": "boineun",
-              "english": "showing",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "영상이",
-              "roman": "yeongsang-i",
-              "english": "video",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "온라인에",
-              "roman": "onrain-e",
-              "english": "online",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "퍼진",
-              "roman": "peojin",
-              "english": "spread",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "소환했습니다",
-              "roman": "sohwanhaetseumnida",
-              "english": "summoned",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Police arrested Ritesh Pandey, 22, who is now out on bail, and are seeking two other people.",
-          "korean": "경찰은 22세 리테시 판데이를 체포했지만 그는 현재 보석으로 풀려났고 다른 두 사람을 찾고 있습니다.",
-          "glossary": [
-            {
-              "korean": "경찰은",
-              "roman": "gyeongchal-eun",
-              "english": "police",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "22세",
-              "roman": "isipsae",
-              "english": "22-year-old",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "리테시",
-              "roman": "ritesi",
-              "english": "Ritesh",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판데이를",
-              "roman": "pandei-reul",
-              "english": "Pandey",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "체포했지만",
-              "roman": "chepohhaetjiman",
-              "english": "arrested but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "현재",
-              "roman": "hyeonjae",
-              "english": "currently",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "보석으로",
-              "roman": "boseog-euro",
-              "english": "on bail",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "풀려났고",
-              "roman": "pullyeonatgo",
-              "english": "was released and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "다른",
-              "roman": "dareun",
-              "english": "other",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사람을",
-              "roman": "saram-eul",
-              "english": "people",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "찾고",
-              "roman": "chatgo",
-              "english": "seeking",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "있습니다",
-              "roman": "itseumnida",
-              "english": "are",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/karnataka/congress-leader-kripa-alva-questioned-in-sting-operation-case/article71623365.ece",
-      "short_english": "The CCB questioned Congress leader Kripa Alva in Dakshina Kannada about the alleged sting operation and did not arrest her.",
-      "short_korean": "CCB는 닥시나 칸나다에서 의회당 지도자 크리파 알바를 함정 취재 사건으로 조사했지만 체포하지 않았습니다.",
-      "images": [
-        "images/indian/e2404eef93fd/1.jpg",
-        "images/indian/e2404eef93fd/2.jpg",
-        "images/indian/e2404eef93fd/3.jpg",
-        "images/indian/e2404eef93fd/4.jpg",
-        "images/indian/e2404eef93fd/5.jpg",
-        "images/indian/e2404eef93fd/6.jpg",
-        "images/indian/e2404eef93fd/7.jpg",
-        "images/indian/e2404eef93fd/8.jpg",
-        "images/indian/e2404eef93fd/9.jpg"
-      ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Business",
@@ -2833,10 +2781,10 @@
         "images/indian/7b8a5feb9ce3/6.jpg",
         "images/indian/7b8a5feb9ce3/7.jpg",
         "images/indian/7b8a5feb9ce3/8.jpg",
-        "images/indian/7b8a5feb9ce3/9.jpg",
-        "images/indian/7b8a5feb9ce3/10.jpg"
+        "images/indian/7b8a5feb9ce3/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Business",
@@ -3500,10 +3448,10 @@
         "images/indian/95b4632b42d7/6.jpg",
         "images/indian/95b4632b42d7/7.jpg",
         "images/indian/95b4632b42d7/8.jpg",
-        "images/indian/95b4632b42d7/9.jpg",
-        "images/indian/95b4632b42d7/10.jpg"
+        "images/indian/95b4632b42d7/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Business",
@@ -4223,10 +4171,10 @@
         "images/indian/a148c09ee457/6.jpg",
         "images/indian/a148c09ee457/7.jpg",
         "images/indian/a148c09ee457/8.jpg",
-        "images/indian/a148c09ee457/9.jpg",
-        "images/indian/a148c09ee457/10.jpg"
+        "images/indian/a148c09ee457/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Business",
@@ -4876,10 +4824,10 @@
         "images/indian/e0b5f02f260b/6.jpg",
         "images/indian/e0b5f02f260b/7.jpg",
         "images/indian/e0b5f02f260b/8.jpg",
-        "images/indian/e0b5f02f260b/9.jpg",
-        "images/indian/e0b5f02f260b/10.jpg"
+        "images/indian/e0b5f02f260b/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "K-pop",
@@ -5501,10 +5449,10 @@
         "images/indian/8b16051a3c57/6.jpg",
         "images/indian/8b16051a3c57/7.jpg",
         "images/indian/8b16051a3c57/8.jpg",
-        "images/indian/8b16051a3c57/9.jpg",
-        "images/indian/8b16051a3c57/10.jpg"
+        "images/indian/8b16051a3c57/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Culture",
@@ -6133,10 +6081,10 @@
         "images/indian/ab45069ceea5/6.jpg",
         "images/indian/ab45069ceea5/7.jpg",
         "images/indian/ab45069ceea5/8.jpg",
-        "images/indian/ab45069ceea5/9.jpg",
-        "images/indian/ab45069ceea5/10.jpg"
+        "images/indian/ab45069ceea5/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Culture",
@@ -6751,10 +6699,10 @@
         "images/indian/ee9deafe4be7/6.jpg",
         "images/indian/ee9deafe4be7/7.jpg",
         "images/indian/ee9deafe4be7/8.jpg",
-        "images/indian/ee9deafe4be7/9.jpg",
-        "images/indian/ee9deafe4be7/10.jpg"
+        "images/indian/ee9deafe4be7/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Culture",
@@ -7397,10 +7345,10 @@
         "images/indian/aeb61827a536/6.jpg",
         "images/indian/aeb61827a536/7.jpg",
         "images/indian/aeb61827a536/8.jpg",
-        "images/indian/aeb61827a536/9.jpg",
-        "images/indian/aeb61827a536/10.jpg"
+        "images/indian/aeb61827a536/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Sports",
@@ -7965,10 +7913,10 @@
         "images/indian/8dbe70ca785a/5.jpg",
         "images/indian/8dbe70ca785a/6.jpg",
         "images/indian/8dbe70ca785a/7.jpg",
-        "images/indian/8dbe70ca785a/8.jpg",
-        "images/indian/8dbe70ca785a/9.jpg"
+        "images/indian/8dbe70ca785a/8.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Sports",
@@ -8561,10 +8509,10 @@
         "images/indian/1edba4850f6f/5.jpg",
         "images/indian/1edba4850f6f/6.jpg",
         "images/indian/1edba4850f6f/7.jpg",
-        "images/indian/1edba4850f6f/8.jpg",
-        "images/indian/1edba4850f6f/9.jpg"
+        "images/indian/1edba4850f6f/8.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Sports",
@@ -9292,10 +9240,10 @@
         "images/indian/ec88b4f96348/7.jpg",
         "images/indian/ec88b4f96348/8.jpg",
         "images/indian/ec88b4f96348/9.jpg",
-        "images/indian/ec88b4f96348/10.jpg",
-        "images/indian/ec88b4f96348/11.jpg"
+        "images/indian/ec88b4f96348/10.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "Sports",
@@ -9861,10 +9809,10 @@
         "images/indian/5d131a5515a0/6.jpg",
         "images/indian/5d131a5515a0/7.jpg",
         "images/indian/5d131a5515a0/8.jpg",
-        "images/indian/5d131a5515a0/9.jpg",
-        "images/indian/5d131a5515a0/10.jpg"
+        "images/indian/5d131a5515a0/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "K-pop",
@@ -10739,10 +10687,10 @@
         "images/indian/ad661e417a38/7.jpg",
         "images/indian/ad661e417a38/8.jpg",
         "images/indian/ad661e417a38/9.jpg",
-        "images/indian/ad661e417a38/10.jpg",
-        "images/indian/ad661e417a38/11.jpg"
+        "images/indian/ad661e417a38/10.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "K-pop",
@@ -11393,10 +11341,10 @@
         "images/indian/7df78b022348/7.jpg",
         "images/indian/7df78b022348/8.jpg",
         "images/indian/7df78b022348/9.jpg",
-        "images/indian/7df78b022348/10.jpg",
-        "images/indian/7df78b022348/11.jpg"
+        "images/indian/7df78b022348/10.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "K-pop",
@@ -12095,10 +12043,10 @@
         "images/indian/6d3667c84495/6.jpg",
         "images/indian/6d3667c84495/7.jpg",
         "images/indian/6d3667c84495/8.jpg",
-        "images/indian/6d3667c84495/9.jpg",
-        "images/indian/6d3667c84495/10.jpg"
+        "images/indian/6d3667c84495/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "K-pop",
@@ -12720,10 +12668,10 @@
         "images/indian/8b16051a3c57/6.jpg",
         "images/indian/8b16051a3c57/7.jpg",
         "images/indian/8b16051a3c57/8.jpg",
-        "images/indian/8b16051a3c57/9.jpg",
-        "images/indian/8b16051a3c57/10.jpg"
+        "images/indian/8b16051a3c57/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "World",
@@ -13437,10 +13385,10 @@
         "images/indian/24310249abbf/7.jpg",
         "images/indian/24310249abbf/8.jpg",
         "images/indian/24310249abbf/9.jpg",
-        "images/indian/24310249abbf/10.jpg",
-        "images/indian/24310249abbf/11.jpg"
+        "images/indian/24310249abbf/10.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "World",
@@ -14041,10 +13989,10 @@
         "images/indian/2b8c7c97e9a0/6.jpg",
         "images/indian/2b8c7c97e9a0/7.jpg",
         "images/indian/2b8c7c97e9a0/8.jpg",
-        "images/indian/2b8c7c97e9a0/9.jpg",
-        "images/indian/2b8c7c97e9a0/10.jpg"
+        "images/indian/2b8c7c97e9a0/9.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "World",
@@ -14723,10 +14671,10 @@
         "images/indian/0d1473606a8a/7.jpg",
         "images/indian/0d1473606a8a/8.jpg",
         "images/indian/0d1473606a8a/9.jpg",
-        "images/indian/0d1473606a8a/10.jpg",
-        "images/indian/0d1473606a8a/11.jpg"
+        "images/indian/0d1473606a8a/10.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     },
     {
       "category": "World",
@@ -15356,10 +15304,10 @@
         "images/indian/2a6d4322cbab/7.jpg",
         "images/indian/2a6d4322cbab/8.jpg",
         "images/indian/2a6d4322cbab/9.jpg",
-        "images/indian/2a6d4322cbab/10.jpg",
-        "images/indian/2a6d4322cbab/11.jpg"
+        "images/indian/2a6d4322cbab/10.jpg"
       ],
-      "images_v": 9
+      "images_v": 12,
+      "date": "2026-10-26"
     }
   ]
 }
