@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 13;
+export const IMAGE_VERSION = 14;
 
 const W = 1080;
 const H = 1350;
@@ -146,7 +146,7 @@ function glossaryChips(words, small) {
 // Sentence slides (lime). One slide per sentence: the sentence is the big part,
 // and every word of the sentence is listed in a smaller glossary underneath.
 function sentenceSlide(s, words, i, n, total, part, date) {
-  const [emoji, label] = i < 2 ? ['🧭', 'THE BACKSTORY'] : i < n - 2 ? ['📰', 'WHAT HAPPENED'] : ['💡', 'WHY IT MATTERS'];
+  const [emoji, label] = i < 2 ? ['🧭', 'THE BACKSTORY'] : ['📰', 'WHAT HAPPENED'];
   const rot = i % 2 === 0 ? -1 : 1;
   const chips = words.map(w => {
     // The whole word stays together; its particle or ending is highlighted inside it
@@ -180,6 +180,29 @@ function sentenceSlide(s, words, i, n, total, part, date) {
     <span>${part} / ${total}</span>
   </div>
 </div>`, shrink);
+}
+
+// Why it matters: two or three short reasons from the story, English with the Korean line under each
+function whySlide(c, number, total, date) {
+  const items = (c.why_it_matters || []).map((w, i) => `
+    <div style="display: flex; gap: 24px; align-items: flex-start; padding: 32px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 10px 10px 0 #141413">
+      <div style="flex: none; width: 64px; height: 64px; border-radius: 32px; background: #FFE04D; border: 4px solid #141413; font-size: 34px; font-weight: 900; display: flex; align-items: center; justify-content: center">${i + 1}</div>
+      <div style="display: flex; flex-direction: column; gap: 14px">
+        <div style="font-size: 42px; font-weight: 900; line-height: 1.3">${esc(w.english)}</div>
+        <div style="font-size: 34px; font-weight: 700; line-height: 1.4; color: #3A3A3A">${esc(w.korean)}</div>
+      </div>
+    </div>`).join('');
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 36px; font-family: ${FONT}; color: #141413; overflow: hidden">
+  <div style="display: flex; align-items: center; justify-content: space-between">
+    <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #D4F36B; transform: rotate(-3deg)">💡 WHY IT MATTERS</span>
+    <span style="font-size: 26px; font-weight: 800">${esc(dateText(c))}</span>
+  </div>
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 36px; min-height: 0">${items}</div>
+  <div style="display: flex; align-items: center; justify-content: space-between; font-size: 28px; font-weight: 800">
+    <span>Keep swiping 👀 →</span>
+    <span>${number} / ${total}</span>
+  </div>
+</div>`);
 }
 
 // Last slide: credit (black)
@@ -235,6 +258,8 @@ export function planSlides(card) {
       part: 1
     });
   });
+  // Why it matters, only when the story has reasons (no empty slide)
+  if (Array.isArray(card.why_it_matters) && card.why_it_matters.length > 0) plan.push({ kind: 'why' });
   // The credit slide comes once, at the end
   plan.push({ kind: 'credit' });
   return plan;
@@ -248,6 +273,7 @@ export function buildSlides(card, region, source, assets) {
     const number = n + 1;
     if (p.kind === 'cover') return coverSlide(card, assets.logo, total);
     if (p.kind === 'title') return titleSlide(card, assets.logo, total);
+    if (p.kind === 'why') return whySlide(card, number, total, dateText(card));
     if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number, dateText(card));
     return creditSlide(card, region, source, assets.logo, assets.photo, total, dateText(card));
   });
