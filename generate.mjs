@@ -9,6 +9,9 @@ import { fileURLToPath } from 'node:url';
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
 const PER_REGION = 24; // 24 cards per region, shared across its feeds
+const BATCH_SIZE = 6; // cards per AI call, so each reply stays a manageable size
+const MAX_SENTENCES = 8;
+const MAX_BODY = 6000; // characters of article text sent to the AI
 const MAX_GLOSSARY = 10;
 
 // Three news regions. Each writes its own file, so the widget can switch between them.
@@ -79,11 +82,20 @@ async function main() {
   const cached = new Map();
   if (previous && Array.isArray(previous.cards)) {
     for (const c of previous.cards) {
-      if (c.url && c.korean_desc && 'hook' in c && 'glossary' in c) cached.set(c.url, c);
+      if (c.url && c.korean_desc && Array.isArray(c.sentences) && c.sentences.length > 0) cached.set(c.url, c);
     }
   }
   const fresh = articles.filter(a => !cached.has(a.link));
   const kept = articles.length - fresh.length;
+
+  // Read the article page for each new article (the feed's short description is the fallback)
+  let withText = 0;
+  for (const a of fresh) {
+    const body = await fetchArticleText(a.link);
+    if (body) withText++;
+    a.body = body || a.description;
+  }
+  if (fresh.length) console.log(`Article text found for ${withText} of ${fresh.length} new articles`);
 
   const usage = await loadUsage();
   let status = 'ai';
@@ -104,17 +116,29 @@ async function main() {
     try {
       const { items, costUsd } = await translateAll(fresh);
       usage.spent_usd += costUsd;
-      newCards = fresh.map((a, i) => ({
-        category: a.category,
-        korean_title: items[i].korean_title,
-        english_title: items[i].english_title,
-        korean_desc: items[i].korean_desc,
-        english_desc: items[i].english_desc,
-        hook: items[i].hook || '',
-        korean_hook: items[i].korean_hook || '',
-        glossary: normalizeGlossary(items[i].glossary),
-        url: a.link
-      }));
+      newCards = fresh.map((a, i) => {
+        const sentences = normalizeSentences(items[i].sentences);
+        // The widget's WORDS list shows up to 10 words: the first ones from all sentences, no repeats
+        const seen = new Set();
+        const glossary = [];
+        for (const sen of sentences) {
+          for (const g of sen.glossary) {
+            if (!seen.has(g.korean) && glossary.length < 10) { seen.add(g.korean); glossary.push(g); }
+          }
+        }
+        return {
+          category: a.category,
+          korean_title: items[i].korean_title,
+          english_title: items[i].english_title,
+          korean_desc: sentences.map(x => x.korean).join(' '),
+          english_desc: sentences.map(x => x.english).join(' '),
+          hook: items[i].hook || '',
+          korean_hook: items[i].korean_hook || '',
+          glossary,
+          sentences,
+          url: a.link
+        };
+      });
       note = `${fresh.length} new cards made, ${kept} kept. Cost this run about $${costUsd.toFixed(4)}`;
     } catch (err) {
       // Usually "no credits" or a network problem: English-only cards for the new ones, retried tomorrow
@@ -213,47 +237,46 @@ function cleanText(s) {
 // ---------- AI ----------
 
 async function translateAll(articles) {
-  const prompt = buildPrompt(articles);
   const provider = process.env.AI_PROVIDER || config.provider;
   const key = process.env.AI_API_KEY;
-
-  let reply;
-  if (provider === 'claude') reply = await callClaude(key, prompt);
-  else if (provider === 'gemini') reply = await callGemini(key, prompt);
-  else reply = await callOpenAI(key, prompt);
-
-  const items = parseCardsJson(reply.text, articles.length);
   const p = config.price_per_million_tokens;
-  const costUsd = (reply.inputTokens * p.input + reply.outputTokens * p.output) / 1_000_000;
+  const items = [];
+  let costUsd = 0;
+  for (let i = 0; i < articles.length; i += BATCH_SIZE) {
+    const batch = articles.slice(i, i + BATCH_SIZE);
+    const prompt = buildPrompt(batch);
+    let reply;
+    if (provider === 'claude') reply = await callClaude(key, prompt);
+    else if (provider === 'gemini') reply = await callGemini(key, prompt);
+    else reply = await callOpenAI(key, prompt);
+    items.push(...parseCardsJson(reply.text, batch.length));
+    costUsd += (reply.inputTokens * p.input + reply.outputTokens * p.output) / 1_000_000;
+  }
   return { items, costUsd };
 }
 
-function buildPrompt(articles) {
-  const list = articles
-    .map((a, i) => `${i + 1}. [${a.category}] ${a.title}\n   ${a.description.slice(0, 400)}`)
-    .join('\n');
-  return `You make one short Korean-learning card for each news article below, for a beginner to intermediate learner.
-Return ONLY a JSON array with exactly ${articles.length} objects, in the same order as the articles. Each object has:
+function buildPrompt(batch) {
+  const list = batch
+    .map((a, i) => `${i + 1}. [${a.category}] ${a.title}\n   ARTICLE TEXT:\n${a.body.slice(0, MAX_BODY)}`)
+    .join('\n\n');
+  return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
+Write everything in your own words. Do not copy sentences from the article.
+Keep every fact exactly as the article states it. Be witty and playful in the hook and titles, but never add a fact, number, name or quote that is not in the article.
+
+Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
 - "english_title": a clear, short English headline
-- "korean_desc": one or two short, simple Korean sentences that summarise the article
-- "english_desc": an English translation of korean_desc
-- "hook": a witty, curious English line under 12 words that makes the reader want to know more. Playful and accurate. No insults, no false claims, no shouting.
-- "korean_hook": the same hook written in natural, simple Korean with the same playful tone. Under 30 Korean characters.
-- "glossary": up to ${MAX_GLOSSARY} useful Korean words or short phrases taken from that card's Korean title or Korean description, most useful for a learner first. Each item is {"korean": "the word in Korean", "english": "a short English meaning"}. Use fewer if the text has fewer useful words. Use [] if none.
+- "hook": a witty, curious English line under 12 words. Playful and accurate.
+- "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same playful tone
+- "sentences": ${'6 to ' + MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Each object has:
+  - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
+  - "english": one clear English sentence, under 25 words
+  - "korean": the Korean translation of that sentence, simple and natural
+  - "glossary": every content word in the Korean sentence (nouns, verbs, adjectives, names, numbers), as {"korean": "the word as it appears in the sentence", "english": "a short meaning"}. Also include the particles in the sentence (such as 은, 는, 이, 가, 을, 를, 에, 에서, 의, 로, 과, 와) as their own items, with a short meaning such as "subject marker". Up to 12 items.
 Do not write anything outside the JSON.
 
 Articles:
 ${list}`;
-}
-
-// Keeps only valid glossary entries, at most MAX_GLOSSARY of them
-function normalizeGlossary(list) {
-  if (!Array.isArray(list)) return [];
-  return list
-    .filter(w => w && typeof w.korean === 'string' && w.korean.trim() && typeof w.english === 'string')
-    .slice(0, MAX_GLOSSARY)
-    .map(w => ({ korean: w.korean.trim(), english: w.english.trim() }));
 }
 
 function parseCardsJson(text, expected) {
@@ -265,13 +288,55 @@ function parseCardsJson(text, expected) {
     throw new Error(`AI returned ${items?.length} cards, expected ${expected}`);
   }
   for (const item of items) {
-    for (const field of ['korean_title', 'english_title', 'korean_desc', 'english_desc']) {
+    for (const field of ['korean_title', 'english_title']) {
       if (typeof item[field] !== 'string' || !item[field].trim()) {
         throw new Error(`AI card is missing ${field}`);
       }
     }
+    const good = normalizeSentences(item.sentences);
+    if (good.length === 0) throw new Error('AI card has no usable sentences');
   }
   return items;
+}
+
+// Keeps only well-formed sentence pairs, in the order given
+function normalizeSentences(list) {
+  if (!Array.isArray(list)) return [];
+  const stages = ['context', 'summary', 'outcome'];
+  return list
+    .filter(s => s && typeof s.english === 'string' && s.english.trim() && typeof s.korean === 'string' && s.korean.trim())
+    .slice(0, MAX_SENTENCES)
+    .map(s => ({
+      stage: stages.includes(s.stage) ? s.stage : 'summary',
+      english: s.english.trim(),
+      korean: s.korean.trim(),
+      glossary: (Array.isArray(s.glossary) ? s.glossary : [])
+        .filter(g => g && g.korean && g.english)
+        .slice(0, 12)
+        .map(g => ({ korean: String(g.korean), english: String(g.english) }))
+    }));
+}
+
+// Reads the article page and keeps its paragraphs. Returns '' if the page cannot be read.
+async function fetchArticleText(url) {
+  try {
+    const res = await fetch(url, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+        'Accept': 'text/html,application/xhtml+xml',
+        'Accept-Language': 'en-US,en;q=0.9'
+      },
+      signal: AbortSignal.timeout(15000)
+    });
+    if (!res.ok) return '';
+    const html = await res.text();
+    const paras = [...html.matchAll(/<p[^>]*>([\s\S]*?)<\/p>/gi)]
+      .map(m => cleanText(m[1]))
+      .filter(t => t.length > 60);
+    return paras.join('\n').slice(0, MAX_BODY);
+  } catch {
+    return '';
+  }
 }
 
 async function callOpenAI(key, prompt) {
