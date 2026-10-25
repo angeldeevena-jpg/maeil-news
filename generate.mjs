@@ -5,12 +5,13 @@
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { addImages } from './make-images.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
 const PER_REGION = 24; // 24 cards per region, shared across its feeds
 const BATCH_SIZE = 6; // cards per AI call, so each reply stays a manageable size
-const MAX_SENTENCES = 8;
+const MAX_SENTENCES = 7; // the design has 7 sentence slides
 const MAX_BODY = 6000; // characters of article text sent to the AI
 const MAX_GLOSSARY = 10;
 
@@ -21,6 +22,7 @@ const MAX_GLOSSARY = 10;
 const REGIONS = {
   korean: {
     outFile: 'cards.json',
+    source: 'The Korea Herald',
     feeds: [
       { category: 'Politics & Society', url: 'https://www.koreaherald.com/rss/kh_National', file: 'politics.xml' },
       { category: 'Business', url: 'https://www.koreaherald.com/rss/kh_Business', file: 'business.xml' },
@@ -32,6 +34,7 @@ const REGIONS = {
   },
   indian: {
     outFile: 'cards-indian.json',
+    source: 'The Hindu',
     feeds: [
       { category: 'Politics & Society', url: 'https://www.thehindu.com/news/national/feeder/default.rss', file: 'h-national.xml' },
       { category: 'Business', url: 'https://www.thehindu.com/business/feeder/default.rss', file: 'h-business.xml' },
@@ -43,6 +46,7 @@ const REGIONS = {
   },
   global: {
     outFile: 'cards-global.json',
+    source: 'The Hindu',
     // Global news: The Hindu International section only, so every card is labelled World
     feeds: [
       { category: 'World', url: 'https://www.thehindu.com/news/international/feeder/default.rss', file: 'h-international.xml' }
@@ -134,6 +138,7 @@ async function main() {
           korean_desc: sentences.map(x => x.korean).join(' '),
           english_desc: sentences.map(x => x.english).join(' '),
           hook: items[i].hook || '',
+          sticker: items[i].sticker || '',
           korean_hook: items[i].korean_hook || '',
           glossary,
           sentences,
@@ -152,6 +157,9 @@ async function main() {
   // Final list follows the feed order and drops articles no longer in the feed
   const byUrl = new Map(newCards.map(c => [c.url, c]));
   const cards = articles.map(a => cached.get(a.link) || byUrl.get(a.link)).filter(Boolean);
+
+  // Slide images for the Save images button (only cards that do not have them yet)
+  await addImages(cards, REGION, ROOT, REGIONS[REGION].source);
 
   await saveUsage(usage);
   await writeCards(today, status, cards, note);
@@ -269,7 +277,8 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "english_title": a clear, short English headline
 - "hook": a witty, curious English line under 12 words. Playful and accurate.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same playful tone
-- "sentences": ${'6 to ' + MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Each object has:
+- "sticker": a short playful line for the cover sticker, under 6 words, with at most one emoji (for example "Okay, this one's a flex 💅")
+- "sentences": exactly ${MAX_SENTENCES} objects in reading order (use 6 only if the article is very short). Start with context, then summary, then outcome. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural
