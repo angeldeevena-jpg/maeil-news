@@ -18,7 +18,7 @@ export const IMAGE_VERSION = 17;
 const W = 1080;
 const H = 1350;
 const FONT = 'system-ui, sans-serif';
-const CHIPS_PER_SLIDE = 8;
+const CHIPS_PER_SLIDE = 12;
 
 export function imageFolderId(url) {
   return createHash('sha1').update(url).digest('hex').slice(0, 12);
@@ -118,8 +118,8 @@ function titleSlide(c, logo, total) {
   </div>
   <div id="main" style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0; overflow: hidden">
     <div style="align-self: flex-start; padding: 10px 22px; background: #FF5FA2; color: #000; font-size: 30px; font-weight: 900; transform: rotate(2deg)">THE HEADLINE</div>
-    <div id="en" style="font-size: 140px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.hook || c.english_title)}</div>
-    <div id="ko" style="font-size: 110px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_hook || c.korean_title)}</div>
+    <div id="en" style="font-size: 140px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.english_title)}</div>
+    <div id="ko" style="font-size: 110px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_title)}</div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: #FFFFFF">
     <span>Read it. Then say it out loud.</span>
@@ -158,14 +158,14 @@ function sentenceSlide(s, words, i, n, total, part, date) {
     const base = suffix ? w.korean.slice(0, -suffix.length) : w.korean;
     const kor = esc(base) + (suffix ? `<span style="background: #FFE04D; color: #000; border-radius: 6px; padding: 0 4px">${esc(suffix)}</span>` : '');
     const meaning = esc(w.english || '');
-    return `<div style="min-width: 0; padding: 10px 12px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 26px; font-weight: 900; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">${kor}</div><div style="font-size: 18px; font-weight: 700; color: #D4F36B; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">${meaning}</div></div>`;
+    return `<div style="min-width: 0; padding: 6px 12px; background: #141413; color: #FFFFFF; border-radius: 10px; display: flex; align-items: baseline; gap: 10px; white-space: nowrap; overflow: hidden"><span class="kor" style="font-size: 24px; font-weight: 900">${kor}</span><span style="font-size: 17px; font-weight: 700; color: #D4F36B; overflow: hidden; text-overflow: ellipsis">${meaning}</span></div>`;
   }).join('');
   // The sentence text shrinks if it does not fit the card; the glossary is scaled down if it does not fit its space
-  const shrink = `(function(){var card=document.getElementById('card'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),a=76,b=66,z=1;` +
+  const shrink = `(function(){var card=document.getElementById('card'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),a=76,b=66,f=24;` +
     `while(card.scrollHeight>card.clientHeight&&a>30){a-=2;b-=2;en.style.fontSize=a+'px';ko.style.fontSize=b+'px';}` +
-    `while(g&&g.scrollHeight>g.clientHeight&&z>0.5){z-=0.02;g.style.zoom=z;}})();`;
+    `while(g&&g.scrollHeight>g.clientHeight&&f>12){f-=1;g.querySelectorAll('.kor').forEach(function(e){e.style.fontSize=f+'px';});}})();`;
   const glossary = words.length
-    ? `<div id="gloss" style="flex: 1; min-height: 0; overflow: hidden; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px; align-content: start">${chips}</div>`
+    ? `<div id="gloss" style="flex: 1; min-height: 0; overflow: hidden; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; align-content: start">${chips}</div>`
     : '<div style="flex: 1"></div>';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 36px 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 16px; font-family: ${FONT}; color: #141413; overflow: hidden">
   <div style="flex: none; height: 60px; display: flex; align-items: center; justify-content: space-between">

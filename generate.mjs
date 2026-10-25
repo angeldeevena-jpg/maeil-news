@@ -304,7 +304,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "takeaway_korean": the takeaway in simple, natural Korean
 - "why_it_matters": 2 or 3 objects, each {"english": "one short reason, under 20 words, why this story matters to everyday readers, using only facts from the article", "korean": "the same reason in simple, natural Korean"}
 - "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
-- "sentences": 6 or 7 objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Each sentence must follow from the one before it, so a reader gets the whole story from the slides alone, with no sudden jumps. From the second sentence on, the English should link to the one before it, using a plain link such as "Then", "As a result" or "Since then" where it fits. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
+- "sentences": 6 or 7 objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Plan the story before you write: first the context (who, what, when and where), then the events in the order they happened, then the result or what it means. Write the sentences in that order. Do not put a general trend or comment between the events of the story. Each sentence after the first must follow on from the previous one. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary. From the second sentence on, the English should link to the one before it, using a plain link such as "Then", "As a result" or "Since then" where it fits. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
@@ -344,12 +344,22 @@ function normalizeWhy(list) {
     .map(w => ({ english: w.english.trim(), korean: w.korean.trim() }));
 }
 
-// Keeps only well-formed sentence pairs, in the order given
+// Keeps the story in its arc: context first, then what happened, then the outcome
+const STAGE_ORDER = { context: 0, summary: 1, outcome: 2 };
+function sortByStory(list) {
+  return list
+    .map((s, i) => ({ s, i }))
+    .sort((a, b) => (STAGE_ORDER[a.s.stage] - STAGE_ORDER[b.s.stage]) || (a.i - b.i))
+    .map(x => x.s);
+}
+
+// Keeps only well-formed sentence pairs, in story order
 function normalizeSentences(list) {
   if (!Array.isArray(list)) return [];
   const stages = ['context', 'summary', 'outcome'];
-  return list
+  return sortByStory(list
     .filter(s => s && typeof s.english === 'string' && s.english.trim() && typeof s.korean === 'string' && s.korean.trim())
+    .map(s => ({ ...s, stage: stages.includes(s.stage) ? s.stage : 'summary' })))
     .slice(0, MAX_SENTENCES)
     .map(s => ({
       stage: stages.includes(s.stage) ? s.stage : 'summary',
