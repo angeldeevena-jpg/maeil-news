@@ -1,9 +1,718 @@
 {
   "date": "2026-10-26",
   "status": "ai",
-  "note": "No new articles. 24 cards kept from earlier days.",
-  "generated_at": "2026-10-25T17:21:01.797Z",
+  "note": "1 new cards made, 23 kept. Cost this run about $0.0037",
+  "generated_at": "2026-10-25T19:35:44.377Z",
   "cards": [
+    {
+      "category": "World",
+      "korean_title": "마차도, 망명 끝에 귀환",
+      "english_title": "Machado Returns to Venezuela",
+      "korean_desc": "2026년 10월 25일, 야권 지도자 마리아 코리나 마차도는 거의 1년 동안 해외에 있다가 베네수엘라로 돌아왔다. 그녀는 12월 이후 처음으로 카라카스 서쪽 라라의 한 교회에 모습을 드러냈다. 그녀가 소셜 미디어로 도착을 알리자, 교회에 모인 수십 명이 박수를 치고 악수하며 포옹했다. 2026년 10월 25일, 베네수엘라 야권 지도자 마리아 코리나 마차도가 거의 1년 만에 귀국했다. 하지만 델시 로드리게스 임시 대통령은 90일 임기를 넘겨 계속 집권하고 있으며, 선거 일정도 없다. 마차도와 동맹들은 대선 날짜를 요구하지만, 미국 관리들은 먼저 경제 안정이 필요하다고 강조한다.",
+      "english_desc": "On October 25, 2026, opposition leader Maria Corina Machado returned to Venezuela after nearly a year abroad. She appeared at a church in Lara, west of Caracas, for the first time since December. After announcing her arrival online, she received applause, handshakes, and hugs from dozens gathered there. On October 25, 2026, Venezuelan opposition leader Maria Corina Machado returned home after nearly a year abroad. However, acting President Delcy Rodriguez has stayed beyond her 90-day term, and no election is scheduled. Machado and her allies demand an election date, while U.S. officials emphasize economic stabilization first.",
+      "hook": "Machado returned. Venezuela still has no election date.",
+      "sticker": "귀환과 선거 논의",
+      "korean_hook": "마차도는 돌아왔지만, 선거일은 없다.",
+      "glossary": [
+        {
+          "korean": "그녀가",
+          "roman": "geu-nyeo-ga",
+          "english": "she",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "소셜",
+          "roman": "so-syeol",
+          "english": "social",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "미디어로",
+          "roman": "mi-di-eo-ro",
+          "english": "through media",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "도착을",
+          "roman": "do-chag-eul",
+          "english": "arrival",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "알리자",
+          "roman": "al-li-ja",
+          "english": "after announcing",
+          "particle": false,
+          "suffix": "자"
+        },
+        {
+          "korean": "교회에",
+          "roman": "gyo-hoe-e",
+          "english": "at the church",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "모인",
+          "roman": "mo-in",
+          "english": "gathered",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "수십",
+          "roman": "su-sip",
+          "english": "dozens",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "명이",
+          "roman": "myeong-i",
+          "english": "people",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "박수를",
+          "roman": "bag-su-reul",
+          "english": "applause",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "치고",
+          "roman": "chi-go",
+          "english": "clapping and",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "악수하며",
+          "roman": "ak-su-ha-myeo",
+          "english": "shaking hands and",
+          "particle": false,
+          "suffix": "며"
+        },
+        {
+          "korean": "포옹했다",
+          "roman": "po-ong-haet-da",
+          "english": "hugged",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "On October 25, 2026, opposition leader Maria Corina Machado returned to Venezuela after nearly a year abroad.",
+          "korean": "2026년 10월 25일, 야권 지도자 마리아 코리나 마차도는 거의 1년 동안 해외에 있다가 베네수엘라로 돌아왔다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "25일",
+              "roman": "25-il",
+              "english": "25th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "야권",
+              "roman": "ya-gwon",
+              "english": "opposition",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도자",
+              "roman": "ji-do-ja",
+              "english": "leader",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마리아",
+              "roman": "ma-ri-a",
+              "english": "Maria",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "코리나",
+              "roman": "ko-ri-na",
+              "english": "Corina",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마차도는",
+              "roman": "ma-cha-do-neun",
+              "english": "Machado",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "거의",
+              "roman": "geo-ui",
+              "english": "nearly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1년",
+              "roman": "1-nyeon",
+              "english": "one year",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "동안",
+              "roman": "dong-an",
+              "english": "for",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "해외에",
+              "roman": "hae-oe-e",
+              "english": "abroad",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "있다가",
+              "roman": "it-da-ga",
+              "english": "after being",
+              "particle": false,
+              "suffix": "다가"
+            },
+            {
+              "korean": "베네수엘라로",
+              "roman": "be-ne-su-el-la-ro",
+              "english": "to Venezuela",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "돌아왔다",
+              "roman": "dol-a-wat-da",
+              "english": "returned",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "context",
+          "english": "She appeared at a church in Lara, west of Caracas, for the first time since December.",
+          "korean": "그녀는 12월 이후 처음으로 카라카스 서쪽 라라의 한 교회에 모습을 드러냈다.",
+          "glossary": [
+            {
+              "korean": "그녀는",
+              "roman": "geu-nyeo-neun",
+              "english": "she",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "12월",
+              "roman": "12-wol",
+              "english": "December",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "이후",
+              "roman": "i-hu",
+              "english": "since",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "처음으로",
+              "roman": "cheo-eum-eu-ro",
+              "english": "for the first time",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "카라카스",
+              "roman": "ka-ra-ka-seu",
+              "english": "Caracas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "서쪽",
+              "roman": "seo-jjok",
+              "english": "west",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "라라의",
+              "roman": "ra-ra-ui",
+              "english": "Lara's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "한",
+              "roman": "han",
+              "english": "a",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "교회에",
+              "roman": "gyo-hoe-e",
+              "english": "at a church",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "모습을",
+              "roman": "mo-seub-eul",
+              "english": "appearance",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "드러냈다",
+              "roman": "deu-reo-naet-da",
+              "english": "appeared",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "After announcing her arrival online, she received applause, handshakes, and hugs from dozens gathered there.",
+          "korean": "그녀가 소셜 미디어로 도착을 알리자, 교회에 모인 수십 명이 박수를 치고 악수하며 포옹했다.",
+          "glossary": [
+            {
+              "korean": "그녀가",
+              "roman": "geu-nyeo-ga",
+              "english": "she",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "소셜",
+              "roman": "so-syeol",
+              "english": "social",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "미디어로",
+              "roman": "mi-di-eo-ro",
+              "english": "through media",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "도착을",
+              "roman": "do-chag-eul",
+              "english": "arrival",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "알리자",
+              "roman": "al-li-ja",
+              "english": "after announcing",
+              "particle": false,
+              "suffix": "자"
+            },
+            {
+              "korean": "교회에",
+              "roman": "gyo-hoe-e",
+              "english": "at the church",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "모인",
+              "roman": "mo-in",
+              "english": "gathered",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수십",
+              "roman": "su-sip",
+              "english": "dozens",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명이",
+              "roman": "myeong-i",
+              "english": "people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "박수를",
+              "roman": "bag-su-reul",
+              "english": "applause",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "치고",
+              "roman": "chi-go",
+              "english": "clapping and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "악수하며",
+              "roman": "ak-su-ha-myeo",
+              "english": "shaking hands and",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "포옹했다",
+              "roman": "po-ong-haet-da",
+              "english": "hugged",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "On October 25, 2026, Venezuelan opposition leader Maria Corina Machado returned home after nearly a year abroad.",
+          "korean": "2026년 10월 25일, 베네수엘라 야권 지도자 마리아 코리나 마차도가 거의 1년 만에 귀국했다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "25일",
+              "roman": "25-il",
+              "english": "25th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "베네수엘라",
+              "roman": "be-ne-su-el-la",
+              "english": "Venezuelan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "야권",
+              "roman": "ya-gwon",
+              "english": "opposition",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도자",
+              "roman": "ji-do-ja",
+              "english": "leader",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마리아",
+              "roman": "ma-ri-a",
+              "english": "Maria",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "코리나",
+              "roman": "ko-ri-na",
+              "english": "Corina",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마차도가",
+              "roman": "ma-cha-do-ga",
+              "english": "Machado",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "거의",
+              "roman": "geo-ui",
+              "english": "nearly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1년",
+              "roman": "1-nyeon",
+              "english": "one year",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "만에",
+              "roman": "man-e",
+              "english": "after only",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "귀국했다",
+              "roman": "gwi-guk-haet-da",
+              "english": "returned home",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "However, acting President Delcy Rodriguez has stayed beyond her 90-day term, and no election is scheduled.",
+          "korean": "하지만 델시 로드리게스 임시 대통령은 90일 임기를 넘겨 계속 집권하고 있으며, 선거 일정도 없다.",
+          "glossary": [
+            {
+              "korean": "하지만",
+              "roman": "ha-ji-man",
+              "english": "however",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "델시",
+              "roman": "del-si",
+              "english": "Delcy",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "로드리게스",
+              "roman": "ro-deu-ri-ge-seu",
+              "english": "Rodriguez",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "임시",
+              "roman": "im-si",
+              "english": "acting",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대통령은",
+              "roman": "dae-tong-nyeong-eun",
+              "english": "president",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "90일",
+              "roman": "90-il",
+              "english": "90 days",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "임기를",
+              "roman": "im-gi-reul",
+              "english": "term",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "넘겨",
+              "roman": "neom-gyeo",
+              "english": "exceeding",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계속",
+              "roman": "gye-sok",
+              "english": "continuously",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "집권하고",
+              "roman": "jip-gwon-ha-go",
+              "english": "remaining in power",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "있으며",
+              "roman": "it-eu-myeo",
+              "english": "and remains",
+              "particle": false,
+              "suffix": "으며"
+            },
+            {
+              "korean": "선거",
+              "roman": "seon-geo",
+              "english": "election",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "일정도",
+              "roman": "il-jeong-do",
+              "english": "schedule either",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "없다",
+              "roman": "eop-da",
+              "english": "does not exist",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Machado and her allies demand an election date, while U.S. officials emphasize economic stabilization first.",
+          "korean": "마차도와 동맹들은 대선 날짜를 요구하지만, 미국 관리들은 먼저 경제 안정이 필요하다고 강조한다.",
+          "glossary": [
+            {
+              "korean": "마차도와",
+              "roman": "ma-cha-do-wa",
+              "english": "Machado and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "동맹들은",
+              "roman": "dong-maeng-deul-eun",
+              "english": "allies",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "대선",
+              "roman": "dae-seon",
+              "english": "presidential election",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "날짜를",
+              "roman": "nal-jja-reul",
+              "english": "date",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "요구하지만",
+              "roman": "yo-gu-ha-ji-man",
+              "english": "demand but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "미국",
+              "roman": "mi-guk",
+              "english": "United States",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "관리들은",
+              "roman": "gwan-ri-deul-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "먼저",
+              "roman": "meon-jeo",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "경제",
+              "roman": "gyeong-je",
+              "english": "economy",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "안정이",
+              "roman": "an-jeong-i",
+              "english": "stabilization",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "필요하다고",
+              "roman": "pil-yo-ha-da-go",
+              "english": "is necessary",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "강조한다",
+              "roman": "gang-jo-han-da",
+              "english": "emphasize",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece",
+      "short_english": "After announcing her arrival online, she received applause, handshakes, and hugs from dozens gathered there.",
+      "short_korean": "그녀가 소셜 미디어로 도착을 알리자, 교회에 모인 수십 명이 박수를 치고 악수하며 포옹했다.",
+      "images": [
+        "images/global/24310249abbf/1.jpg",
+        "images/global/24310249abbf/2.jpg",
+        "images/global/24310249abbf/3.jpg",
+        "images/global/24310249abbf/4.jpg",
+        "images/global/24310249abbf/5.jpg",
+        "images/global/24310249abbf/6.jpg",
+        "images/global/24310249abbf/7.jpg",
+        "images/global/24310249abbf/8.jpg",
+        "images/global/24310249abbf/9.jpg",
+        "images/global/24310249abbf/10.jpg"
+      ],
+      "images_v": 9
+    },
     {
       "category": "World",
       "korean_title": "영국, EU 이동 자유를 다시 볼까",
@@ -560,9 +1269,10 @@
         "images/global/2b8c7c97e9a0/5.jpg",
         "images/global/2b8c7c97e9a0/6.jpg",
         "images/global/2b8c7c97e9a0/7.jpg",
-        "images/global/2b8c7c97e9a0/8.jpg"
+        "images/global/2b8c7c97e9a0/8.jpg",
+        "images/global/2b8c7c97e9a0/9.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -1050,9 +1760,10 @@
         "images/global/0d1473606a8a/5.jpg",
         "images/global/0d1473606a8a/6.jpg",
         "images/global/0d1473606a8a/7.jpg",
-        "images/global/0d1473606a8a/8.jpg"
+        "images/global/0d1473606a8a/8.jpg",
+        "images/global/0d1473606a8a/9.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -1611,9 +2322,10 @@
         "images/global/2a6d4322cbab/6.jpg",
         "images/global/2a6d4322cbab/7.jpg",
         "images/global/2a6d4322cbab/8.jpg",
-        "images/global/2a6d4322cbab/9.jpg"
+        "images/global/2a6d4322cbab/9.jpg",
+        "images/global/2a6d4322cbab/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -2214,9 +2926,10 @@
         "images/global/2b290243cee3/6.jpg",
         "images/global/2b290243cee3/7.jpg",
         "images/global/2b290243cee3/8.jpg",
-        "images/global/2b290243cee3/9.jpg"
+        "images/global/2b290243cee3/9.jpg",
+        "images/global/2b290243cee3/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -2824,9 +3537,10 @@
         "images/global/b5bee75dc8d7/6.jpg",
         "images/global/b5bee75dc8d7/7.jpg",
         "images/global/b5bee75dc8d7/8.jpg",
-        "images/global/b5bee75dc8d7/9.jpg"
+        "images/global/b5bee75dc8d7/9.jpg",
+        "images/global/b5bee75dc8d7/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -3441,9 +4155,10 @@
         "images/global/e4c2d0a60113/6.jpg",
         "images/global/e4c2d0a60113/7.jpg",
         "images/global/e4c2d0a60113/8.jpg",
-        "images/global/e4c2d0a60113/9.jpg"
+        "images/global/e4c2d0a60113/9.jpg",
+        "images/global/e4c2d0a60113/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -4009,9 +4724,10 @@
         "images/global/b4f1308c1c9c/6.jpg",
         "images/global/b4f1308c1c9c/7.jpg",
         "images/global/b4f1308c1c9c/8.jpg",
-        "images/global/b4f1308c1c9c/9.jpg"
+        "images/global/b4f1308c1c9c/9.jpg",
+        "images/global/b4f1308c1c9c/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -4864,9 +5580,10 @@
         "images/global/68a239c7eeeb/6.jpg",
         "images/global/68a239c7eeeb/7.jpg",
         "images/global/68a239c7eeeb/8.jpg",
-        "images/global/68a239c7eeeb/9.jpg"
+        "images/global/68a239c7eeeb/9.jpg",
+        "images/global/68a239c7eeeb/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -5860,9 +6577,10 @@
         "images/global/54453d0845a1/7.jpg",
         "images/global/54453d0845a1/8.jpg",
         "images/global/54453d0845a1/9.jpg",
-        "images/global/54453d0845a1/10.jpg"
+        "images/global/54453d0845a1/10.jpg",
+        "images/global/54453d0845a1/11.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -6871,9 +7589,10 @@
         "images/global/ca74d309ef62/8.jpg",
         "images/global/ca74d309ef62/9.jpg",
         "images/global/ca74d309ef62/10.jpg",
-        "images/global/ca74d309ef62/11.jpg"
+        "images/global/ca74d309ef62/11.jpg",
+        "images/global/ca74d309ef62/12.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -7719,9 +8438,10 @@
         "images/global/5d0fc6e3f025/6.jpg",
         "images/global/5d0fc6e3f025/7.jpg",
         "images/global/5d0fc6e3f025/8.jpg",
-        "images/global/5d0fc6e3f025/9.jpg"
+        "images/global/5d0fc6e3f025/9.jpg",
+        "images/global/5d0fc6e3f025/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -8660,9 +9380,10 @@
         "images/global/a1e7d32e457c/8.jpg",
         "images/global/a1e7d32e457c/9.jpg",
         "images/global/a1e7d32e457c/10.jpg",
-        "images/global/a1e7d32e457c/11.jpg"
+        "images/global/a1e7d32e457c/11.jpg",
+        "images/global/a1e7d32e457c/12.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -9123,9 +9844,10 @@
         "images/global/5a9bf2be0114/6.jpg",
         "images/global/5a9bf2be0114/7.jpg",
         "images/global/5a9bf2be0114/8.jpg",
-        "images/global/5a9bf2be0114/9.jpg"
+        "images/global/5a9bf2be0114/9.jpg",
+        "images/global/5a9bf2be0114/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -9698,9 +10420,10 @@
         "images/global/fc6f00ca3a4b/6.jpg",
         "images/global/fc6f00ca3a4b/7.jpg",
         "images/global/fc6f00ca3a4b/8.jpg",
-        "images/global/fc6f00ca3a4b/9.jpg"
+        "images/global/fc6f00ca3a4b/9.jpg",
+        "images/global/fc6f00ca3a4b/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -10280,9 +11003,10 @@
         "images/global/ecb6643b4002/6.jpg",
         "images/global/ecb6643b4002/7.jpg",
         "images/global/ecb6643b4002/8.jpg",
-        "images/global/ecb6643b4002/9.jpg"
+        "images/global/ecb6643b4002/9.jpg",
+        "images/global/ecb6643b4002/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -10918,9 +11642,10 @@
         "images/global/86a5eb1225f0/6.jpg",
         "images/global/86a5eb1225f0/7.jpg",
         "images/global/86a5eb1225f0/8.jpg",
-        "images/global/86a5eb1225f0/9.jpg"
+        "images/global/86a5eb1225f0/9.jpg",
+        "images/global/86a5eb1225f0/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -11627,9 +12352,10 @@
         "images/global/4790f35f69aa/7.jpg",
         "images/global/4790f35f69aa/8.jpg",
         "images/global/4790f35f69aa/9.jpg",
-        "images/global/4790f35f69aa/10.jpg"
+        "images/global/4790f35f69aa/10.jpg",
+        "images/global/4790f35f69aa/11.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -12258,9 +12984,10 @@
         "images/global/c530f7d64ee8/6.jpg",
         "images/global/c530f7d64ee8/7.jpg",
         "images/global/c530f7d64ee8/8.jpg",
-        "images/global/c530f7d64ee8/9.jpg"
+        "images/global/c530f7d64ee8/9.jpg",
+        "images/global/c530f7d64ee8/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -12861,9 +13588,10 @@
         "images/global/0ce7e9202006/6.jpg",
         "images/global/0ce7e9202006/7.jpg",
         "images/global/0ce7e9202006/8.jpg",
-        "images/global/0ce7e9202006/9.jpg"
+        "images/global/0ce7e9202006/9.jpg",
+        "images/global/0ce7e9202006/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -13317,9 +14045,10 @@
         "images/global/d558ddcdd8a9/6.jpg",
         "images/global/d558ddcdd8a9/7.jpg",
         "images/global/d558ddcdd8a9/8.jpg",
-        "images/global/d558ddcdd8a9/9.jpg"
+        "images/global/d558ddcdd8a9/9.jpg",
+        "images/global/d558ddcdd8a9/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -13850,9 +14579,10 @@
         "images/global/03b30c0fde2d/6.jpg",
         "images/global/03b30c0fde2d/7.jpg",
         "images/global/03b30c0fde2d/8.jpg",
-        "images/global/03b30c0fde2d/9.jpg"
+        "images/global/03b30c0fde2d/9.jpg",
+        "images/global/03b30c0fde2d/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -14383,9 +15113,10 @@
         "images/global/55874239ae89/6.jpg",
         "images/global/55874239ae89/7.jpg",
         "images/global/55874239ae89/8.jpg",
-        "images/global/55874239ae89/9.jpg"
+        "images/global/55874239ae89/9.jpg",
+        "images/global/55874239ae89/10.jpg"
       ],
-      "images_v": 8
+      "images_v": 9
     },
     {
       "category": "World",
@@ -14972,493 +15703,10 @@
         "images/global/4d8da735cf39/6.jpg",
         "images/global/4d8da735cf39/7.jpg",
         "images/global/4d8da735cf39/8.jpg",
-        "images/global/4d8da735cf39/9.jpg"
+        "images/global/4d8da735cf39/9.jpg",
+        "images/global/4d8da735cf39/10.jpg"
       ],
-      "images_v": 8
-    },
-    {
-      "category": "World",
-      "korean_title": "프랑스 시위, 마크롱 시대 흔들다",
-      "english_title": "France Rocked by Nationwide Protests",
-      "korean_desc": "프랑스에서는 2026년 10월 17일 전국 시위가 벌어졌습니다. 노란 조끼 운동이 시위에 참여했습니다. 2026년 10월 17일 프랑스 전역에서 50만 명 넘게 시위했고, 폭력으로 건물과 상점과 차량이 훼손됐습니다. 방화범들은 리옹 관광 안내소와 리모주 시청을 불태웠습니다. 경찰은 6,000명 넘게 체포하거나 구금했습니다. 여러 도시는 전면 또는 부분 통행금지를 시행했습니다.",
-      "english_desc": "France saw nationwide protests on October 17, 2026. The Yellow Vests movement joined the protests. More than half a million people protested across France on October 17, 2026, while violence damaged buildings, shops, and vehicles. Arsonists burned Lyon's tourist office and Limoges City Hall. Police arrested or detained more than 6,000 people. Several cities imposed full or partial curfews.",
-      "hook": "Peaceful protests began. More than 6,000 people were detained.",
-      "sticker": "프랑스가 들썩들썩 🇫🇷",
-      "korean_hook": "평화 시위로 시작해 6천 명 넘게 구금",
-      "glossary": [
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "17일",
-          "roman": "sibil-il",
-          "english": "17th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "프랑스",
-          "roman": "France",
-          "english": "France",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "전역에서",
-          "roman": "jeonyeog-eseo",
-          "english": "across",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "50만",
-          "roman": "osip-man",
-          "english": "500,000",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "명",
-          "roman": "myeong",
-          "english": "people",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "넘게",
-          "roman": "neomge",
-          "english": "more than",
-          "particle": false,
-          "suffix": "게"
-        },
-        {
-          "korean": "시위했고",
-          "roman": "siwi-haetgo",
-          "english": "protested",
-          "particle": false,
-          "suffix": "했고"
-        },
-        {
-          "korean": "폭력으로",
-          "roman": "pongnyeok-euro",
-          "english": "through violence",
-          "particle": false,
-          "suffix": "으로"
-        },
-        {
-          "korean": "건물과",
-          "roman": "geonmul-gwa",
-          "english": "buildings and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "상점과",
-          "roman": "sangjeom-gwa",
-          "english": "shops and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "차량이",
-          "roman": "charyang-i",
-          "english": "vehicles",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "훼손됐습니다",
-          "roman": "hweson-dwaetseumnida",
-          "english": "were damaged",
-          "particle": false,
-          "suffix": "됐습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "France saw nationwide protests on October 17, 2026.",
-          "korean": "프랑스에서는 2026년 10월 17일 전국 시위가 벌어졌습니다.",
-          "glossary": [
-            {
-              "korean": "프랑스에서는",
-              "roman": "France-eseoneun",
-              "english": "in France",
-              "particle": false,
-              "suffix": "에서는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "17일",
-              "roman": "sibil-il",
-              "english": "17th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전국",
-              "roman": "jeonguk",
-              "english": "nationwide",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시위가",
-              "roman": "siwi-ga",
-              "english": "protests",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "벌어졌습니다",
-              "roman": "beoreojyeotseumnida",
-              "english": "occurred",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "context",
-          "english": "The Yellow Vests movement joined the protests.",
-          "korean": "노란 조끼 운동이 시위에 참여했습니다.",
-          "glossary": [
-            {
-              "korean": "노란",
-              "roman": "noran",
-              "english": "yellow",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "조끼",
-              "roman": "jokki",
-              "english": "vests",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "운동이",
-              "roman": "undong-i",
-              "english": "movement",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "시위에",
-              "roman": "siwi-e",
-              "english": "in protests",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "참여했습니다",
-              "roman": "chamyeo-haetseumnida",
-              "english": "joined",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "More than half a million people protested across France on October 17, 2026, while violence damaged buildings, shops, and vehicles.",
-          "korean": "2026년 10월 17일 프랑스 전역에서 50만 명 넘게 시위했고, 폭력으로 건물과 상점과 차량이 훼손됐습니다.",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "17일",
-              "roman": "sibil-il",
-              "english": "17th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "프랑스",
-              "roman": "France",
-              "english": "France",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전역에서",
-              "roman": "jeonyeog-eseo",
-              "english": "across",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "50만",
-              "roman": "osip-man",
-              "english": "500,000",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명",
-              "roman": "myeong",
-              "english": "people",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "넘게",
-              "roman": "neomge",
-              "english": "more than",
-              "particle": false,
-              "suffix": "게"
-            },
-            {
-              "korean": "시위했고",
-              "roman": "siwi-haetgo",
-              "english": "protested",
-              "particle": false,
-              "suffix": "했고"
-            },
-            {
-              "korean": "폭력으로",
-              "roman": "pongnyeok-euro",
-              "english": "through violence",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "건물과",
-              "roman": "geonmul-gwa",
-              "english": "buildings and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "상점과",
-              "roman": "sangjeom-gwa",
-              "english": "shops and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "차량이",
-              "roman": "charyang-i",
-              "english": "vehicles",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "훼손됐습니다",
-              "roman": "hweson-dwaetseumnida",
-              "english": "were damaged",
-              "particle": false,
-              "suffix": "됐습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Arsonists burned Lyon's tourist office and Limoges City Hall.",
-          "korean": "방화범들은 리옹 관광 안내소와 리모주 시청을 불태웠습니다.",
-          "glossary": [
-            {
-              "korean": "방화범들은",
-              "roman": "banghwabeom-deureun",
-              "english": "arsonists",
-              "particle": false,
-              "suffix": "들은"
-            },
-            {
-              "korean": "리옹",
-              "roman": "Riong",
-              "english": "Lyon",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "관광",
-              "roman": "gwangwang",
-              "english": "tourist",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안내소와",
-              "roman": "annaeso-wa",
-              "english": "office and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "리모주",
-              "roman": "Rimoju",
-              "english": "Limoges",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시청을",
-              "roman": "sicheong-eul",
-              "english": "city hall",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "불태웠습니다",
-              "roman": "bultae-wotseumnida",
-              "english": "burned",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Police arrested or detained more than 6,000 people.",
-          "korean": "경찰은 6,000명 넘게 체포하거나 구금했습니다.",
-          "glossary": [
-            {
-              "korean": "경찰은",
-              "roman": "gyeongchal-eun",
-              "english": "police",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "6,000명",
-              "roman": "yukcheon-myeong",
-              "english": "6,000 people",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "넘게",
-              "roman": "neomge",
-              "english": "more than",
-              "particle": false,
-              "suffix": "게"
-            },
-            {
-              "korean": "체포하거나",
-              "roman": "chepo-hageona",
-              "english": "arrested or",
-              "particle": false,
-              "suffix": "거나"
-            },
-            {
-              "korean": "구금했습니다",
-              "roman": "gugeum-haetseumnida",
-              "english": "detained",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Several cities imposed full or partial curfews.",
-          "korean": "여러 도시는 전면 또는 부분 통행금지를 시행했습니다.",
-          "glossary": [
-            {
-              "korean": "여러",
-              "roman": "yeoreo",
-              "english": "several",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "도시는",
-              "roman": "dosi-neun",
-              "english": "cities",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "전면",
-              "roman": "jeonmyeon",
-              "english": "full",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "또는",
-              "roman": "ttoneun",
-              "english": "or",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "부분",
-              "roman": "bubun",
-              "english": "partial",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "통행금지를",
-              "roman": "tonghaeng-geumji-reul",
-              "english": "curfew",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "시행했습니다",
-              "roman": "sihaeng-haetseumnida",
-              "english": "imposed",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/france-october-17-protest-the-hindu-profiles/article71621130.ece",
-      "short_english": "More than half a million people protested across France on October 17, 2026, while violence damaged buildings, shops, and vehicles.",
-      "short_korean": "2026년 10월 17일 프랑스 전역에서 50만 명 넘게 시위했고, 폭력으로 건물과 상점과 차량이 훼손됐습니다.",
-      "images": [
-        "images/global/3777693dad48/1.jpg",
-        "images/global/3777693dad48/2.jpg",
-        "images/global/3777693dad48/3.jpg",
-        "images/global/3777693dad48/4.jpg",
-        "images/global/3777693dad48/5.jpg",
-        "images/global/3777693dad48/6.jpg",
-        "images/global/3777693dad48/7.jpg",
-        "images/global/3777693dad48/8.jpg",
-        "images/global/3777693dad48/9.jpg"
-      ],
-      "images_v": 8
+      "images_v": 9
     }
   ]
 }
