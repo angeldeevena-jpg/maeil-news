@@ -2,88 +2,172 @@
   "date": "2026-10-25",
   "status": "ai",
   "note": "Cost this run about $0.0083",
-  "generated_at": "2026-10-24T16:16:49.516Z",
+  "generated_at": "2026-10-25T04:38:17.503Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "김정은, 새 압록강 다리로 방중",
-      "english_title": "Kim Jong-un Visits China via New Bridge",
-      "korean_desc": "김정은이 새 압록강 다리를 건너 중국 단둥을 깜짝 방문했습니다. 한반도 외교에 다시 관심이 커지고 있습니다.",
-      "english_desc": "Kim Jong-un made a surprise visit to Dandong, China, crossing the new Yalu River Bridge. Diplomatic attention on the Korean Peninsula is growing again.",
-      "hook": "A new bridge, a surprise visit, and plenty to discuss.",
-      "korean_hook": "새 다리와 깜짝 방문, 할 말이 많네요",
+      "korean_title": "한국인 납치·감금 사건 두 배 증가",
+      "english_title": "Kidnapping cases involving Koreans double",
+      "korean_desc": "지난해 해외에서 한국인 납치·감금 사건이 553건 발생했습니다. 특히 캄보디아에서 510건이 보고됐습니다.",
+      "english_desc": "There were 553 kidnapping and confinement cases involving Koreans overseas last year. Cambodia accounted for 510 of them.",
+      "hook": "Cambodia became the troubling center of a sharp rise.",
+      "korean_hook": "캄보디아에서 왜 급증했을까요?",
       "glossary": [
         {
-          "korean": "새 압록강 다리",
-          "english": "new Yalu River Bridge"
+          "korean": "납치",
+          "english": "kidnapping"
         },
         {
-          "korean": "방중",
-          "english": "visit to China"
+          "korean": "감금",
+          "english": "confinement"
         },
+        {
+          "korean": "사건",
+          "english": "case"
+        },
+        {
+          "korean": "발생하다",
+          "english": "occur"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913869"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "동국대, 불교·한류·AI로 세계화",
+      "english_title": "Dongguk builds global identity with Buddhism, Hallyu and AI",
+      "korean_desc": "동국대학교는 불교, 한국 문화와 인공지능을 세계화의 기반으로 봅니다. 대학은 고유한 정체성을 발전시키려 합니다.",
+      "english_desc": "Dongguk University sees Buddhism, Korean culture and artificial intelligence as foundations for globalization. It aims to develop a unique identity.",
+      "hook": "Can ancient wisdom and cutting-edge AI share a campus?",
+      "korean_hook": "불교와 AI가 한 캠퍼스에?",
+      "glossary": [
+        {
+          "korean": "불교",
+          "english": "Buddhism"
+        },
+        {
+          "korean": "한류",
+          "english": "Hallyu"
+        },
+        {
+          "korean": "인공지능",
+          "english": "artificial intelligence"
+        },
+        {
+          "korean": "기반",
+          "english": "foundation"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913851"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "외교·국방부 이전 소통 없었다",
+      "english_title": "Ministries had no prior communication on relocation",
+      "korean_desc": "외교부와 통일부는 세종시 이전 계획을 다른 정부 기관과 공식적으로 논의하지 않았습니다. 한 국회의원이 부처의 답변을 공개했습니다.",
+      "english_desc": "The Foreign and Unification ministries did not officially discuss their relocation plan with other government agencies. A lawmaker disclosed the ministries’ responses.",
+      "hook": "A government move began without much government conversation.",
+      "korean_hook": "이전 계획, 대화 없이 시작됐나?",
+      "glossary": [
+        {
+          "korean": "외교부",
+          "english": "Foreign Ministry"
+        },
+        {
+          "korean": "통일부",
+          "english": "Unification Ministry"
+        },
+        {
+          "korean": "이전 계획",
+          "english": "relocation plan"
+        },
+        {
+          "korean": "공식적으로",
+          "english": "officially"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913818"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "김정은, 전쟁기념관 방문 후 귀국",
+      "english_title": "Kim Jong-un returns after war memorial visit",
+      "korean_desc": "김정은 북한 국무위원장이 중국 단둥의 한국전쟁 기념관을 방문한 뒤 육로로 귀국했습니다. 그는 새 다리를 건너 중국을 방문했습니다.",
+      "english_desc": "North Korean leader Kim Jong-un returned by road after visiting a Korean War memorial in Dandong, China. He crossed a new bridge during the visit.",
+      "hook": "A new bridge carried an old rivalry into fresh diplomacy.",
+      "korean_hook": "새 다리 위에 외교가 움직였다",
+      "glossary": [
+        {
+          "korean": "귀국하다",
+          "english": "return home"
+        },
+        {
+          "korean": "전쟁기념관",
+          "english": "war memorial"
+        },
+        {
+          "korean": "방문하다",
+          "english": "visit"
+        },
+        {
+          "korean": "육로",
+          "english": "overland route"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913718"
+    },
+    {
+      "category": "Politics & Society",
+      "korean_title": "김정은, 새 압록강 다리로 방중",
+      "english_title": "Kim Jong-un makes surprise China visit",
+      "korean_desc": "김정은이 새 압록강 다리를 건너 중국 단둥을 깜짝 방문했습니다. 이번 방문은 한반도 외교에 대한 관심이 커지는 가운데 이루어졌습니다.",
+      "english_desc": "Kim Jong-un made a surprise visit to Dandong, China, crossing the new Yalu River Bridge. The visit came amid renewed diplomatic attention to the Korean Peninsula.",
+      "hook": "A surprise crossing gives diplomacy a brand-new route.",
+      "korean_hook": "깜짝 방중, 새 길을 열다",
+      "glossary": [
         {
           "korean": "깜짝 방문",
           "english": "surprise visit"
         },
         {
-          "korean": "외교",
-          "english": "diplomacy"
+          "korean": "압록강",
+          "english": "Yalu River"
+        },
+        {
+          "korean": "다리를 건너다",
+          "english": "cross a bridge"
+        },
+        {
+          "korean": "한반도",
+          "english": "Korean Peninsula"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913525"
     },
     {
       "category": "Politics & Society",
-      "korean_title": "어두워지면 살아나는 조용한 서울",
-      "english_title": "A Quieter Seoul Comes Alive at Night",
-      "korean_desc": "운현궁에서 방문객들이 전통 간식을 만들고 차를 마십니다. 가야금 음악을 들으며 하루 이야기도 나눕니다.",
-      "english_desc": "At Unhyeongung, visitors make traditional snacks and drink tea. They also share stories about their day while listening to gayageum music.",
-      "hook": "Seoul’s quiet night comes with tea, music, and sweet surprises.",
-      "korean_hook": "서울의 밤, 차와 음악이 찾아옵니다",
-      "glossary": [
-        {
-          "korean": "어두워지면",
-          "english": "when it gets dark"
-        },
-        {
-          "korean": "전통 간식",
-          "english": "traditional snack"
-        },
-        {
-          "korean": "차를 마시다",
-          "english": "drink tea"
-        },
-        {
-          "korean": "가야금 음악",
-          "english": "gayageum music"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911646"
-    },
-    {
-      "category": "Politics & Society",
       "korean_title": "북한과 중국을 잇는 새 관문",
-      "english_title": "A New Gateway Between North Korea and China",
-      "korean_desc": "북한과 중국 사이에 새로운 관문이 열렸습니다. 새 다리는 두 나라의 이동과 교류를 도울 수 있습니다.",
-      "english_desc": "A new gateway has opened between North Korea and China. The new bridge could support movement and exchanges between the two countries.",
-      "hook": "A bridge opens, and the border story gets a new chapter.",
-      "korean_hook": "다리가 열리자 국경 이야기도 달라집니다",
+      "english_title": "A new gateway between North Korea and China",
+      "korean_desc": "북한과 중국을 연결하는 새 다리가 문을 열었습니다. 이 다리는 두 나라의 교류와 무역을 늘릴 새로운 관문으로 주목받고 있습니다.",
+      "english_desc": "A new bridge connecting North Korea and China has opened. It is drawing attention as a new gateway for trade and exchanges between the two countries.",
+      "hook": "One bridge, two neighbors, many possible journeys.",
+      "korean_hook": "다리 하나, 새로운 길이 열렸다",
       "glossary": [
         {
-          "korean": "관문",
-          "english": "gateway"
-        },
-        {
-          "korean": "잇다",
+          "korean": "연결하다",
           "english": "connect"
-        },
-        {
-          "korean": "이동",
-          "english": "movement"
         },
         {
           "korean": "교류",
           "english": "exchange"
+        },
+        {
+          "korean": "무역",
+          "english": "trade"
+        },
+        {
+          "korean": "관문",
+          "english": "gateway"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913512"
@@ -91,11 +175,11 @@
     {
       "category": "Politics & Society",
       "korean_title": "김정은, 새 압록강 다리로 단둥 도착",
-      "english_title": "Kim Jong-un Arrives in Dandong",
+      "english_title": "Kim Jong-un arrives in Dandong via new bridge",
       "korean_desc": "김정은이 토요일 새 압록강 다리를 통해 중국 단둥에 도착했습니다. 한국 통일부가 이 사실을 밝혔습니다.",
       "english_desc": "Kim Jong-un arrived in Dandong, China, on Saturday via the new Yalu River Bridge. South Korea’s Unification Ministry confirmed it.",
-      "hook": "One bridge crossing turned into a major diplomatic headline.",
-      "korean_hook": "다리 한 번 건넜는데 큰 외교 뉴스가 됐습니다",
+      "hook": "The bridge’s first big crossing came with a surprise guest.",
+      "korean_hook": "새 다리의 첫 손님은 김정은?",
       "glossary": [
         {
           "korean": "도착하다",
@@ -103,7 +187,7 @@
         },
         {
           "korean": "통해",
-          "english": "through; via"
+          "english": "via; through"
         },
         {
           "korean": "통일부",
@@ -114,15 +198,15 @@
     },
     {
       "category": "Politics & Society",
-      "korean_title": "전문가들, 이재명 실용 외교 논의",
-      "english_title": "Experts Discuss Lee’s Pragmatic Diplomacy",
-      "korean_desc": "전문가들은 한국의 기술과 산업 경쟁력을 외교 영향력으로 바꿔야 한다고 말했습니다. 파트너 국가에 실질적인 도움도 줘야 한다고 했습니다.",
-      "english_desc": "Experts said South Korea should turn its technological and industrial strengths into diplomatic influence. They also said it should provide practical benefits to partner countries.",
-      "hook": "Can strong technology become even stronger diplomacy?",
-      "korean_hook": "강한 기술이 더 강한 외교가 될까요?",
+      "korean_title": "전문가들, 이 대통령 실용외교 논의",
+      "english_title": "Experts discuss Lee’s pragmatic diplomacy",
+      "korean_desc": "전문가들은 한국이 기술과 산업의 강점을 외교적 영향력으로 바꿔야 한다고 말했습니다. 또한 협력국에 실질적인 이익을 줘야 한다고 강조했습니다.",
+      "english_desc": "Experts said South Korea should turn its technological and industrial strengths into diplomatic influence. They also stressed delivering practical benefits to partners.",
+      "hook": "Can Korea turn strong industries into stronger friendships?",
+      "korean_hook": "산업 강점이 외교가 될까?",
       "glossary": [
         {
-          "korean": "실용 외교",
+          "korean": "실용외교",
           "english": "pragmatic diplomacy"
         },
         {
@@ -130,8 +214,8 @@
           "english": "technology"
         },
         {
-          "korean": "산업 경쟁력",
-          "english": "industrial competitiveness"
+          "korean": "산업",
+          "english": "industry"
         },
         {
           "korean": "영향력",
@@ -141,141 +225,169 @@
       "url": "https://www.koreaherald.com/article/10913456"
     },
     {
-      "category": "Politics & Society",
-      "korean_title": "유엔, 케냐 헬기 기부에 감사",
-      "english_title": "UN Thanks South Korea for Kenya Helicopters",
-      "korean_desc": "유엔 고위 관계자가 한국의 케냐 헬리콥터 기부에 감사를 전했습니다. 헬기 8대는 평화유지 활동을 지원합니다.",
-      "english_desc": "A senior UN official thanked South Korea for donating helicopters to Kenya. The eight helicopters will support peacekeeping operations.",
-      "hook": "Eight helicopters take off with a mission beyond the runway.",
-      "korean_hook": "헬기 8대가 평화를 향해 뜹니다",
+      "category": "Business",
+      "korean_title": "AIA생명, 고양서 K팝 공연 개최",
+      "english_title": "AIA Life Korea draws 7,000 to K-pop concert",
+      "korean_desc": "AIA생명은 경기도 고양에서 K팝 콘서트를 열어 약 7,000명을 모았습니다. 말레이시아, 필리핀, 싱가포르 고객과 직원도 참석했습니다.",
+      "english_desc": "AIA Life Korea held a K-pop concert in Goyang, attracting about 7,000 people. Customers and employees from Malaysia, the Philippines and Singapore also attended.",
+      "hook": "This concert had customers, partners, and plenty of fan energy.",
+      "korean_hook": "고객과 팬이 함께 즐긴 콘서트",
       "glossary": [
         {
-          "korean": "기부",
-          "english": "donation"
+          "korean": "공연",
+          "english": "concert; performance"
         },
         {
-          "korean": "고위 관계자",
-          "english": "senior official"
+          "korean": "개최하다",
+          "english": "hold"
         },
         {
-          "korean": "헬리콥터",
-          "english": "helicopter"
+          "korean": "모으다",
+          "english": "attract; gather"
         },
         {
-          "korean": "평화유지 활동",
-          "english": "peacekeeping operations"
+          "korean": "참석하다",
+          "english": "attend"
         }
       ],
-      "url": "https://www.koreaherald.com/article/10913420"
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "미국, 북한 기술 투자 제한 확대 추진",
-      "english_title": "US Proposes Wider Tech Investment Limits",
-      "korean_desc": "미국 재무부가 북한을 포함하도록 민감한 기술에 대한 투자 제한을 넓히려 합니다. 미국 자본이 군사 기술 개발에 쓰이는 것을 막기 위한 조치입니다.",
-      "english_desc": "The US Treasury Department wants to expand investment restrictions on sensitive technologies to include North Korea. The measure aims to stop US capital from supporting military technology development.",
-      "hook": "When money meets technology, Washington wants tighter guardrails.",
-      "korean_hook": "돈과 기술에 미국이 더 큰 울타리를 칩니다",
-      "glossary": [
-        {
-          "korean": "투자 제한",
-          "english": "investment restriction"
-        },
-        {
-          "korean": "확대하다",
-          "english": "expand"
-        },
-        {
-          "korean": "민감한 기술",
-          "english": "sensitive technology"
-        },
-        {
-          "korean": "군사 기술",
-          "english": "military technology"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10913416"
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "독일 총리, 서울서 이재명과 회담",
-      "english_title": "Merz to Visit Seoul for Talks with Lee",
-      "korean_desc": "독일 총리 프리드리히 메르츠가 10월 29일부터 30일까지 한국을 방문합니다. 이재명 대통령과 회담하고 독일 기업 행사에도 참석합니다.",
-      "english_desc": "German Chancellor Friedrich Merz will visit South Korea from October 29 to 30. He will meet President Lee Jae Myung and attend a German business event.",
-      "hook": "Seoul gets a German guest, a summit, and a business agenda.",
-      "korean_hook": "서울에 독일 손님과 정상회담이 옵니다",
-      "glossary": [
-        {
-          "korean": "총리",
-          "english": "chancellor; prime minister"
-        },
-        {
-          "korean": "방문하다",
-          "english": "visit"
-        },
-        {
-          "korean": "회담",
-          "english": "talks; summit"
-        },
-        {
-          "korean": "기업 행사",
-          "english": "business event"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10913322"
+      "url": "https://www.koreaherald.com/article/10913827"
     },
     {
       "category": "Business",
-      "korean_title": "하나금융, 9개월 순익 3.62조원",
-      "english_title": "Hana Financial Posts Record Profit",
-      "korean_desc": "하나금융그룹이 올해 첫 9개월 동안 3조 6200억 원의 역대 최대 순이익을 냈습니다. 자사주 매입과 소각도 크게 늘었습니다.",
-      "english_desc": "Hana Financial Group recorded a record net profit of 3.62 trillion won in the first nine months of the year. Its share buybacks and cancellations also increased significantly.",
-      "hook": "Hana’s numbers are smiling, and shareholders may be too.",
-      "korean_hook": "하나의 실적에 주주들도 웃을까요?",
+      "korean_title": "한국 2분기 경상수지 흑자 세계 2위",
+      "english_title": "South Korea ranks second in Q2 current-account surplus",
+      "korean_desc": "한국은 반도체 수출 증가에 힘입어 2분기 경상수지 흑자 규모에서 주요 경제국 중 2위를 기록했습니다. 흑자는 1,166억 3천만 달러였습니다.",
+      "english_desc": "South Korea ranked second among major economies in second-quarter current-account surpluses, helped by strong chip exports. Its surplus was $116.63 billion.",
+      "hook": "Chips helped Korea’s balance sheet shine brightly.",
+      "korean_hook": "반도체가 흑자를 빛냈다",
+      "glossary": [
+        {
+          "korean": "경상수지",
+          "english": "current account"
+        },
+        {
+          "korean": "흑자",
+          "english": "surplus"
+        },
+        {
+          "korean": "반도체",
+          "english": "semiconductor"
+        },
+        {
+          "korean": "수출",
+          "english": "exports"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913796"
+    },
+    {
+      "category": "Business",
+      "korean_title": "한국인 절반 피로…평균 수면 6.3시간",
+      "english_title": "Nearly half of Koreans report fatigue",
+      "korean_desc": "조사 대상 한국인의 절반 가까이가 충분히 쉬어도 계속 피곤하다고 답했습니다. 평균 수면 시간은 6.3시간으로 줄었습니다.",
+      "english_desc": "Nearly half of surveyed South Koreans said they remained tired despite getting enough rest. Average sleep fell to 6.3 hours.",
+      "hook": "The national alarm clock may be ringing too early.",
+      "korean_hook": "한국인의 알람이 너무 일찍 울린다",
+      "glossary": [
+        {
+          "korean": "피로",
+          "english": "fatigue"
+        },
+        {
+          "korean": "수면",
+          "english": "sleep"
+        },
+        {
+          "korean": "충분히",
+          "english": "enough; sufficiently"
+        },
+        {
+          "korean": "줄다",
+          "english": "decrease"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913792"
+    },
+    {
+      "category": "Business",
+      "korean_title": "삼성 엑시노스, 퀄컴 칩 앞서",
+      "english_title": "Samsung Exynos chip beats Qualcomm in test",
+      "korean_desc": "삼성전자의 차세대 엑시노스 2700이 내부 CPU 시험에서 퀄컴의 최고급 칩보다 약 20% 높은 점수를 냈습니다. 이 칩은 내년 갤럭시 S27에 탑재될 전망입니다.",
+      "english_desc": "Samsung’s next-generation Exynos 2700 scored about 20 percent higher than Qualcomm’s top chip in an internal CPU test. It is expected to appear in the Galaxy S27 next year.",
+      "hook": "Samsung’s next chip just found an extra gear.",
+      "korean_hook": "삼성 칩이 한 단계 빨라졌다",
+      "glossary": [
+        {
+          "korean": "차세대",
+          "english": "next-generation"
+        },
+        {
+          "korean": "내부 시험",
+          "english": "internal test"
+        },
+        {
+          "korean": "최고급",
+          "english": "top-end"
+        },
+        {
+          "korean": "탑재되다",
+          "english": "be installed; included"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913791"
+    },
+    {
+      "category": "Business",
+      "korean_title": "쌀 소비 감소에 CJ, 햇반 해외 공략",
+      "english_title": "CJ looks overseas as Koreans eat less rice",
+      "korean_desc": "한국인의 쌀 소비가 줄자 CJ제일제당이 햇반의 해외 판매 확대에 나섰습니다. 햇반은 한국 즉석밥 시장에서 약 65%를 차지합니다.",
+      "english_desc": "As rice consumption falls in Korea, CJ CheilJedang is expanding overseas sales of Hetbahn. Hetbahn holds about 65 percent of Korea’s instant-rice market.",
+      "hook": "Less rice at home means more rice on the world stage.",
+      "korean_hook": "집에서 줄고, 세계로 나가는 밥",
+      "glossary": [
+        {
+          "korean": "쌀 소비",
+          "english": "rice consumption"
+        },
+        {
+          "korean": "해외 판매",
+          "english": "overseas sales"
+        },
+        {
+          "korean": "즉석밥",
+          "english": "instant rice"
+        },
+        {
+          "korean": "차지하다",
+          "english": "account for"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913221"
+    },
+    {
+      "category": "Business",
+      "korean_title": "우리금융 3분기 연속 1조원대 이익",
+      "english_title": "Woori Financial profit tops 1 trillion won again",
+      "korean_desc": "우리금융그룹은 올해 첫 9개월 동안 2조 6,600억 원의 순이익을 기록했습니다. 일회성 이익을 제외하면 지난해보다 18.7% 증가했습니다.",
+      "english_desc": "Woori Financial Group posted 2.66 trillion won in net profit during the first nine months of the year. Excluding one-off gains, profit rose 18.7 percent from a year earlier.",
+      "hook": "Woori’s profit streak keeps crossing the trillion-won line.",
+      "korean_hook": "우리금융, 또 1조원을 넘었다",
       "glossary": [
         {
           "korean": "순이익",
           "english": "net profit"
         },
         {
-          "korean": "역대 최대",
-          "english": "largest ever"
-        },
-        {
-          "korean": "자사주 매입",
-          "english": "share buyback"
-        },
-        {
-          "korean": "소각",
-          "english": "cancellation"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10913247"
-    },
-    {
-      "category": "Business",
-      "korean_title": "우리금융, 2분기 연속 1조원대 순익",
-      "english_title": "Woori Profit Tops One Trillion Won Again",
-      "korean_desc": "우리금융의 올해 첫 9개월 순이익은 2조 6600억 원이었습니다. 일회성 이익을 제외하면 지난해보다 실적이 좋아졌습니다.",
-      "english_desc": "Woori Financial’s net profit for the first nine months was 2.66 trillion won. Excluding one-time gains, its performance improved from last year.",
-      "hook": "Woori crosses the trillion-won line again, with a twist.",
-      "korean_hook": "우리금융, 또 1조원을 넘었지만 반전이 있습니다",
-      "glossary": [
-        {
-          "korean": "연속",
-          "english": "consecutive"
-        },
-        {
-          "korean": "순이익",
-          "english": "net profit"
+          "korean": "기록하다",
+          "english": "record"
         },
         {
           "korean": "일회성 이익",
-          "english": "one-time gain"
+          "english": "one-off gain"
         },
         {
-          "korean": "실적",
-          "english": "performance; results"
+          "korean": "증가하다",
+          "english": "increase"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913242"
@@ -283,11 +395,11 @@
     {
       "category": "Business",
       "korean_title": "서울 증시, 저가 매수로 소폭 상승",
-      "english_title": "Seoul Stocks Edge Higher on Bargain Hunting",
-      "korean_desc": "서울 증시는 전날 큰 폭으로 하락한 뒤 조금 올랐습니다. 투자자들은 주요 반도체 주식을 싸게 사려 했습니다.",
-      "english_desc": "Seoul stocks rose slightly after falling sharply the previous day. Investors tried to buy major chip stocks at lower prices.",
-      "hook": "After a steep fall, bargain hunters went shopping for chips.",
-      "korean_hook": "급락 뒤 투자자들이 반도체를 쇼핑했습니다",
+      "english_title": "Seoul stocks edge up on bargain hunting",
+      "korean_desc": "서울 증시는 전날 급락 뒤 반도체주 저가 매수세에 힘입어 소폭 올랐습니다. 원화도 달러화보다 강세를 보였습니다.",
+      "english_desc": "Seoul stocks edged up after the previous day’s sharp drop, helped by bargain hunting in chip stocks. The won also strengthened against the dollar.",
+      "hook": "After a tumble, bargain hunters went shopping for chips.",
+      "korean_hook": "급락 뒤 반도체를 다시 샀다",
       "glossary": [
         {
           "korean": "증시",
@@ -295,27 +407,27 @@
         },
         {
           "korean": "저가 매수",
-          "english": "bargain hunting"
+          "english": "bargain buying"
         },
         {
           "korean": "소폭 상승",
           "english": "slight rise"
         },
         {
-          "korean": "반도체 주식",
-          "english": "chip stocks"
+          "korean": "강세",
+          "english": "strength"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913089"
     },
     {
       "category": "Business",
-      "korean_title": "노후 IT 보안 위험에 주의 촉구",
-      "english_title": "Groups Urge Firms to Fix Aging IT Security",
-      "korean_desc": "주한미국상공회의소와 시스코가 오래된 IT 시스템의 보안 위험에 주의를 촉구했습니다. 한국 기업들은 시스템을 현대화해야 합니다.",
-      "english_desc": "AmCham Korea and Cisco urged attention to the security risks of aging IT systems. Korean companies need to modernize their systems.",
-      "hook": "Old systems can create new problems, especially in the AI era.",
-      "korean_hook": "오래된 시스템이 새 문제를 만듭니다",
+      "korean_title": "노후 IT 보안 위험에 기업들 경고",
+      "english_title": "AmCham and Cisco warn of aging IT security risks",
+      "korean_desc": "주한미국상공회의소와 시스코가 오래된 IT 시스템의 보안 위험에 주의하라고 촉구했습니다. 기업들은 변화하는 인공지능 위협에 대응해야 합니다.",
+      "english_desc": "AmCham Korea and Cisco urged businesses to address security risks from aging IT systems. Companies must respond to a changing artificial-intelligence threat landscape.",
+      "hook": "Old systems may be quietly inviting new trouble.",
+      "korean_hook": "낡은 시스템이 새 위협을 부른다",
       "glossary": [
         {
           "korean": "노후",
@@ -326,208 +438,96 @@
           "english": "security risk"
         },
         {
-          "korean": "시스템",
-          "english": "system"
+          "korean": "촉구하다",
+          "english": "urge"
         },
         {
-          "korean": "현대화하다",
-          "english": "modernize"
+          "korean": "대응하다",
+          "english": "respond"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913031"
     },
     {
-      "category": "Business",
-      "korean_title": "한화, 한국 방산 ETF를 아부다비에 상장",
-      "english_title": "Hanwha Takes Korean Defense ETFs to Abu Dhabi",
-      "korean_desc": "한화자산운용이 한국 방산과 제조업을 추종하는 ETF를 아부다비 거래소에 상장할 예정입니다. 한국 자산운용사 중 처음입니다.",
-      "english_desc": "Hanwha Asset Management plans to list ETFs tracking Korean defense and manufacturing in Abu Dhabi. It will be the first Korean asset manager to do so.",
-      "hook": "Korean defense funds are taking a trip to the Middle East.",
-      "korean_hook": "한국 방산 펀드가 중동으로 떠납니다",
+      "category": "Culture",
+      "korean_title": "한국 예술, 런던에서 소프트파워 발휘",
+      "english_title": "Korea projects artistic soft power in London",
+      "korean_desc": "한국의 문화와 예술 상품이 영국에서 큰 인기를 얻고 있습니다. K팝, 영화, 게임, 음식과 뷰티 제품이 영국 시장에 자리 잡았습니다.",
+      "english_desc": "South Korean cultural and artistic products are highly popular in Britain. K-pop, films, games, food and beauty products have become established in the UK market.",
+      "hook": "Korea’s cultural wave is still making stylish ripples in London.",
+      "korean_hook": "한류 물결이 런던을 계속 적신다",
       "glossary": [
         {
-          "korean": "방산",
-          "english": "defense industry"
+          "korean": "예술",
+          "english": "art"
         },
         {
-          "korean": "상장하다",
-          "english": "list on an exchange"
+          "korean": "소프트파워",
+          "english": "soft power"
         },
         {
-          "korean": "거래소",
-          "english": "exchange"
+          "korean": "인기",
+          "english": "popularity"
         },
         {
-          "korean": "자산운용사",
-          "english": "asset manager"
+          "korean": "자리 잡다",
+          "english": "become established"
         }
       ],
-      "url": "https://www.koreaherald.com/article/10913025"
-    },
-    {
-      "category": "Business",
-      "korean_title": "애플이라서? 한국 첫 아이폰 듀오 열풍",
-      "english_title": "Why Korea’s First iPhone Duo Buyers Chose Apple",
-      "korean_desc": "애플의 접는 스마트폰 아이폰 듀오가 한국에서 판매를 시작했습니다. 일부 구매자들은 삼성 폴더블폰을 반품하고 애플을 선택했습니다.",
-      "english_desc": "Apple’s foldable iPhone Duo went on sale in South Korea. Some buyers returned Samsung foldable phones and chose Apple instead.",
-      "hook": "Some buyers switched phones before even opening the box.",
-      "korean_hook": "상자도 열기 전에 휴대폰을 바꿨습니다",
-      "glossary": [
-        {
-          "korean": "아이폰 듀오",
-          "english": "iPhone Duo"
-        },
-        {
-          "korean": "접는 스마트폰",
-          "english": "foldable smartphone"
-        },
-        {
-          "korean": "반품하다",
-          "english": "return"
-        },
-        {
-          "korean": "선택하다",
-          "english": "choose"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10912978"
-    },
-    {
-      "category": "Business",
-      "korean_title": "삼성, 이건희 회장 유산 기려",
-      "english_title": "Samsung Honors Lee Kun-hee’s Legacy",
-      "korean_desc": "이재용 삼성전자 회장이 고 이건희 회장의 추도식에 참석했습니다. 이건희 회장 6주기를 앞두고 열린 행사입니다.",
-      "english_desc": "Samsung Electronics Chairman Lee Jae-yong attended a memorial service for the late Chairman Lee Kun-hee. The event came before the sixth anniversary of his death.",
-      "hook": "Samsung pauses to remember the leader who shaped its legacy.",
-      "korean_hook": "삼성이 역사를 만든 지도자를 기억합니다",
-      "glossary": [
-        {
-          "korean": "유산",
-          "english": "legacy"
-        },
-        {
-          "korean": "기리다",
-          "english": "honor; commemorate"
-        },
-        {
-          "korean": "추도식",
-          "english": "memorial service"
-        },
-        {
-          "korean": "6주기",
-          "english": "sixth death anniversary"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10912910"
-    },
-    {
-      "category": "Business",
-      "korean_title": "현대차, 발리에 전기버스 11대 공급",
-      "english_title": "Hyundai Supplies Electric Buses to Bali",
-      "korean_desc": "현대자동차가 인도네시아 발리에 전기버스 11대를 공급했습니다. 발리의 첫 전기 대중교통 서비스가 시작됩니다.",
-      "english_desc": "Hyundai Motor supplied 11 electric buses to Bali, Indonesia. The island’s first electric public transportation service will begin.",
-      "hook": "Bali’s buses are going electric, one quiet ride at a time.",
-      "korean_hook": "발리 버스가 조용하게 전기로 달립니다",
-      "glossary": [
-        {
-          "korean": "전기버스",
-          "english": "electric bus"
-        },
-        {
-          "korean": "공급하다",
-          "english": "supply"
-        },
-        {
-          "korean": "대중교통",
-          "english": "public transportation"
-        },
-        {
-          "korean": "시작되다",
-          "english": "begin"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10912514"
+      "url": "https://www.koreaherald.com/article/10913804"
     },
     {
       "category": "Culture",
-      "korean_title": "한국 겨울의 검은 패딩, 끝날까",
-      "english_title": "Is Korea’s Black Puffer Era Ending?",
-      "korean_desc": "한국의 겨울 거리에서는 오랫동안 검은 롱패딩이 인기를 끌었습니다. 최근에는 케이팝 스타들이 다양한 색의 패딩을 입고 있습니다.",
-      "english_desc": "Long black puffers have been popular on Korean winter streets for years. Recently, K-pop stars have been wearing puffers in many colors.",
-      "hook": "Black puffers ruled winter; colorful challengers are warming up.",
-      "korean_hook": "검은 패딩 시대에 색깔 경쟁자가 나타났습니다",
+      "korean_title": "한국행 외국인 크루즈 관광객 급증",
+      "english_title": "Cruise visitors to Korea near 1.3 million",
+      "korean_desc": "올해 1월부터 8월까지 크루즈선을 타고 한국에 온 외국인이 128만 명에 달했습니다. 중국인 관광객이 증가를 이끌었습니다.",
+      "english_desc": "From January through August, 1.28 million foreigners arrived in Korea by cruise ship. Chinese visitors drove much of the increase.",
+      "hook": "Korea’s visitor count is sailing toward a major milestone.",
+      "korean_hook": "한국 관광객 수가 순항 중이다",
       "glossary": [
         {
-          "korean": "겨울 거리",
-          "english": "winter streets"
+          "korean": "크루즈선",
+          "english": "cruise ship"
         },
         {
-          "korean": "검은 패딩",
-          "english": "black puffer jacket"
+          "korean": "관광객",
+          "english": "tourist"
         },
         {
-          "korean": "인기를 끌다",
-          "english": "be popular"
+          "korean": "달하다",
+          "english": "reach"
         },
         {
-          "korean": "다양한 색",
-          "english": "various colors"
+          "korean": "증가를 이끌다",
+          "english": "drive an increase"
         }
       ],
-      "url": "https://www.koreaherald.com/article/10913273"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "어두워지면 살아나는 조용한 서울",
-      "english_title": "A Quieter Seoul Comes Alive at Night",
-      "korean_desc": "운현궁에서 방문객들이 전통 간식을 만들고 차를 마십니다. 가야금 음악을 들으며 하루 이야기도 나눕니다.",
-      "english_desc": "At Unhyeongung, visitors make traditional snacks and drink tea. They also share stories about their day while listening to gayageum music.",
-      "hook": "Seoul’s quiet night comes with tea, music, and sweet surprises.",
-      "korean_hook": "서울의 밤, 차와 음악이 찾아옵니다",
-      "glossary": [
-        {
-          "korean": "운현궁",
-          "english": "Unhyeongung"
-        },
-        {
-          "korean": "방문객",
-          "english": "visitor"
-        },
-        {
-          "korean": "전통 간식",
-          "english": "traditional snack"
-        },
-        {
-          "korean": "이야기를 나누다",
-          "english": "share stories"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911646"
+      "url": "https://www.koreaherald.com/article/10913797"
     },
     {
       "category": "Culture",
       "korean_title": "진영이 말하는 천천히 읽는 힘",
-      "english_title": "Jinyoung Makes the Case for Slow Reading",
-      "korean_desc": "진영은 아이돌이 된 뒤 책을 읽기 시작했습니다. 천천히 읽으며 반복적인 생활로 지친 마음을 회복했습니다.",
-      "english_desc": "Jinyoung began reading after becoming an idol. Reading slowly helped him recover from the tiring routine of his repetitive life.",
-      "hook": "Could reading slowly make a busy mind feel young again?",
-      "korean_hook": "천천히 읽으면 마음도 다시 젊어질까요?",
+      "english_title": "Jinyoung makes the case for reading slowly",
+      "korean_desc": "가수 진영은 아이돌이 된 뒤 책을 읽기 시작했습니다. 그는 천천히 읽는 일이 반복되는 생활 속에서 마음을 깨우는 데 도움이 됐다고 말합니다.",
+      "english_desc": "Singer Jinyoung began reading after becoming an idol. He says reading slowly helped awaken his mind amid a repetitive life.",
+      "hook": "Could slowing down be the fastest way to refresh your mind?",
+      "korean_hook": "천천히 읽어야 마음이 깨어날까?",
       "glossary": [
         {
-          "korean": "천천히 읽다",
-          "english": "read slowly"
+          "korean": "천천히",
+          "english": "slowly"
         },
         {
-          "korean": "아이돌",
-          "english": "idol"
+          "korean": "읽다",
+          "english": "read"
         },
         {
-          "korean": "반복적인 생활",
-          "english": "repetitive life"
+          "korean": "반복되다",
+          "english": "be repetitive"
         },
         {
-          "korean": "회복하다",
-          "english": "recover"
+          "korean": "마음이 깨어나다",
+          "english": "the mind awaken"
         }
       ],
       "url": "https://www.koreaherald.com/article/10912893"
@@ -535,44 +535,40 @@
     {
       "category": "Culture",
       "korean_title": "서울의 수백만 원짜리 커피 세계",
-      "english_title": "Inside Seoul’s Multimillion-Won Coffee World",
-      "korean_desc": "서울의 한 카페에서는 한 잔에 350만 원인 고급 커피를 팝니다. 아주 희귀한 원두와 맞춤 추출법을 사용합니다.",
-      "english_desc": "A Seoul café sells luxury coffee costing 3.5 million won a cup. It uses extremely rare beans and customized brewing methods.",
-      "hook": "This coffee costs millions—what exactly is in the cup?",
-      "korean_hook": "수백만 원 커피, 컵 안에 무엇이 들었을까요?",
+      "english_title": "Inside Seoul’s multimillion-won coffee world",
+      "korean_desc": "서울의 한 커피 전문점은 희귀한 원두와 맞춤형 추출법으로 최고 350만 원짜리 커피를 제공합니다. 커피가 특별한 사치 경험이 되고 있습니다.",
+      "english_desc": "A Seoul specialty coffee shop offers coffee costing up to 3.5 million won, using rare beans and tailored brewing. Coffee is becoming a luxury experience.",
+      "hook": "At this café, your coffee may cost more than your phone.",
+      "korean_hook": "커피 한 잔이 휴대폰보다 비싸다",
       "glossary": [
         {
-          "korean": "수백만 원",
-          "english": "millions of won"
+          "korean": "희귀하다",
+          "english": "be rare"
         },
         {
-          "korean": "고급 커피",
-          "english": "luxury coffee"
-        },
-        {
-          "korean": "희귀한 원두",
-          "english": "rare coffee beans"
+          "korean": "원두",
+          "english": "coffee beans"
         },
         {
           "korean": "추출법",
           "english": "brewing method"
+        },
+        {
+          "korean": "사치",
+          "english": "luxury"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911484"
     },
     {
       "category": "Culture",
-      "korean_title": "데버라 터버빌 사진의 독특한 분위기",
-      "english_title": "Deborah Turbeville’s Photos Are All About Atmosphere",
-      "korean_desc": "데버라 터버빌의 사진은 흐릿하고 어두운 분위기를 보여 줍니다. 사진 속 모델들은 마치 유령처럼 보입니다.",
-      "english_desc": "Deborah Turbeville’s photographs show a hazy and dark atmosphere. The models in the pictures look almost like ghosts.",
-      "hook": "These glamorous photos feel like memories from a haunted album.",
-      "korean_hook": "이 화려한 사진은 유령 앨범처럼 보입니다",
+      "korean_title": "데버라 터브빌 사진의 오묘한 분위기",
+      "english_title": "Deborah Turbeville’s photos are all about atmosphere",
+      "korean_desc": "데버라 터브빌의 사진은 흐릿하고 낡은 듯한 분위기를 보여줍니다. 사진 속 모델들은 현실과 꿈 사이에 있는 유령처럼 보입니다.",
+      "english_desc": "Deborah Turbeville’s photographs have a hazy, decayed atmosphere. The models look like ghosts between reality and dreams.",
+      "hook": "These glamorous photos seem to remember their own ghosts.",
+      "korean_hook": "화려한 사진 속 유령을 찾아보세요",
       "glossary": [
-        {
-          "korean": "사진",
-          "english": "photograph"
-        },
         {
           "korean": "분위기",
           "english": "atmosphere"
@@ -580,6 +576,10 @@
         {
           "korean": "흐릿하다",
           "english": "be hazy"
+        },
+        {
+          "korean": "낡다",
+          "english": "be worn-out"
         },
         {
           "korean": "유령",
@@ -590,48 +590,44 @@
     },
     {
       "category": "Culture",
-      "korean_title": "저스틴 비버, 서울 성수에 등장",
-      "english_title": "Justin Bieber Visits Seongsu for Brand Debut",
-      "korean_desc": "저스틴 비버가 자신의 브랜드를 홍보하기 위해 서울 성수를 찾았습니다. 성수동에는 브랜드의 첫 팝업 매장이 문을 열었습니다.",
-      "english_desc": "Justin Bieber visited Seoul’s Seongsu area to promote his own brand. The brand’s first pop-up store opened there.",
-      "hook": "Bieber swapped the stage for Seongsu’s trendiest storefront.",
-      "korean_hook": "비버가 무대 대신 성수 매장을 찾았습니다",
+      "korean_title": "저스틴 비버, 서울 성수 찾았다",
+      "english_title": "Justin Bieber visits Seongsu for brand debut",
+      "korean_desc": "저스틴 비버가 가수로 공연하지 않고 자신의 브랜드를 홍보하기 위해 한국을 찾았습니다. 그의 브랜드 스카일라크는 성수동에 첫 팝업 매장을 열었습니다.",
+      "english_desc": "Justin Bieber visited Korea to promote his own brand rather than perform as a singer. His brand Skylrk opened its first pop-up store in Seongsu.",
+      "hook": "Bieber returned to Korea, but this time the stage was a storefront.",
+      "korean_hook": "이번 무대는 공연장이 아닌 매장",
       "glossary": [
-        {
-          "korean": "등장하다",
-          "english": "appear"
-        },
         {
           "korean": "홍보하다",
           "english": "promote"
+        },
+        {
+          "korean": "브랜드",
+          "english": "brand"
         },
         {
           "korean": "팝업 매장",
           "english": "pop-up store"
         },
         {
-          "korean": "브랜드",
-          "english": "brand"
+          "korean": "찾다",
+          "english": "visit"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913096"
     },
     {
       "category": "Culture",
-      "korean_title": "K팝과 LoL, 화면 밖 한국 협업",
-      "english_title": "K/DA and LoL Worlds Go Beyond the Screen",
-      "korean_desc": "라이엇 게임즈가 한국에서 LoL 월드 챔피언십과 K/DA를 기념하는 행사를 엽니다. 팝업 매장과 한정 상품도 선보입니다.",
-      "english_desc": "Riot Games is holding events in Korea to celebrate the LoL World Championship and K/DA. It will also offer pop-up stores and limited-edition products.",
-      "hook": "K/DA is stepping out of the screen and into Korean streets.",
-      "korean_hook": "K/DA가 화면 밖 한국 거리로 나옵니다",
+      "korean_title": "K/DA와 롤 월즈, 한국서 현실로",
+      "english_title": "K/DA and LoL Worlds expand offline in Korea",
+      "korean_desc": "라이엇게임즈가 롤 월드 챔피언십과 K/DA의 귀환을 기념해 한국에서 팝업 매장과 한정 상품을 선보입니다. 게임 속 세계가 현실로 확장됩니다.",
+      "english_desc": "Riot Games is presenting pop-up stores and limited merchandise in Korea to celebrate LoL Worlds and K/DA’s return. The game world is expanding offline.",
+      "hook": "The game is leaving the screen—and bringing merch.",
+      "korean_hook": "게임이 화면 밖으로 나왔다",
       "glossary": [
         {
-          "korean": "화면 밖",
-          "english": "outside the screen"
-        },
-        {
-          "korean": "협업",
-          "english": "collaboration"
+          "korean": "기념하다",
+          "english": "celebrate"
         },
         {
           "korean": "팝업 매장",
@@ -639,47 +635,135 @@
         },
         {
           "korean": "한정 상품",
-          "english": "limited-edition product"
+          "english": "limited merchandise"
+        },
+        {
+          "korean": "확장되다",
+          "english": "expand"
         }
       ],
       "url": "https://www.koreaherald.com/article/10912879"
     },
     {
       "category": "Culture",
-      "korean_title": "전 세계 넷플릭스 80%, 한국 콘텐츠 시청",
-      "english_title": "80% of Netflix Subscribers Watched Korean Content",
-      "korean_desc": "전 세계 넷플릭스 가입자의 약 80%가 한국 드라마나 영화를 봤습니다. 한국 콘텐츠 200편 이상이 글로벌 톱10에 올랐습니다.",
-      "english_desc": "About 80 percent of Netflix subscribers worldwide have watched Korean shows or movies. More than 200 Korean productions have reached the global Top 10.",
-      "hook": "Korean stories have found an enormous audience worldwide.",
-      "korean_hook": "한국 이야기가 세계 시청자를 만났습니다",
+      "korean_title": "넷플릭스 이용자 80%, 한국 콘텐츠 시청",
+      "english_title": "80% of Netflix subscribers watched Korean content",
+      "korean_desc": "전 세계 넷플릭스 가입자의 약 80%가 한국 드라마나 영화를 본 것으로 나타났습니다. 한국 콘텐츠 200편 이상이 글로벌 톱10에 올랐습니다.",
+      "english_desc": "About 80 percent of Netflix subscribers worldwide have watched Korean shows or films. More than 200 Korean productions have entered the global Top 10.",
+      "hook": "Korean stories have become everyone’s streaming neighbors.",
+      "korean_hook": "한국 이야기가 세계의 안방으로",
       "glossary": [
-        {
-          "korean": "전 세계",
-          "english": "worldwide"
-        },
         {
           "korean": "가입자",
           "english": "subscriber"
         },
         {
-          "korean": "한국 콘텐츠",
-          "english": "Korean content"
+          "korean": "콘텐츠",
+          "english": "content"
         },
         {
           "korean": "시청하다",
           "english": "watch"
+        },
+        {
+          "korean": "올라가다",
+          "english": "rise; enter"
         }
       ],
       "url": "https://www.koreaherald.com/article/10912695"
     },
     {
       "category": "Sports",
+      "korean_title": "김기동 감독, FC서울 우승 약속 지켜",
+      "english_title": "FC Seoul boss delivers championship promise",
+      "korean_desc": "김기동 감독이 약속한 3년 안 우승을 지켰습니다. FC서울은 강원FC와 비긴 뒤 K리그1 우승을 확정했습니다.",
+      "english_desc": "Manager Kim Gi-dong fulfilled his promise to win a title within three years. FC Seoul clinched the K League 1 championship after drawing with Gangwon FC.",
+      "hook": "A three-year promise became a championship celebration.",
+      "korean_hook": "3년 약속이 우승으로 돌아왔다",
+      "glossary": [
+        {
+          "korean": "감독",
+          "english": "manager; coach"
+        },
+        {
+          "korean": "약속을 지키다",
+          "english": "keep a promise"
+        },
+        {
+          "korean": "우승",
+          "english": "championship"
+        },
+        {
+          "korean": "비기다",
+          "english": "draw"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913757"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "FC서울, 10년 만에 K리그 우승",
+      "english_title": "FC Seoul crowned K League 1 champions",
+      "korean_desc": "FC서울이 10년 만에 한국 프로축구 정상에 올랐습니다. 강원FC와 1대1로 비겼지만 남은 경기와 관계없이 우승을 차지했습니다.",
+      "english_desc": "FC Seoul won the South Korean professional football title for the first time in 10 years. Despite a 1-1 draw with Gangwon FC, it secured the championship with games remaining.",
+      "hook": "Ten years later, Seoul finally got its football crown back.",
+      "korean_hook": "10년 만에 왕관을 되찾았다",
+      "glossary": [
+        {
+          "korean": "정상",
+          "english": "top position"
+        },
+        {
+          "korean": "비기다",
+          "english": "draw"
+        },
+        {
+          "korean": "남은 경기",
+          "english": "remaining matches"
+        },
+        {
+          "korean": "차지하다",
+          "english": "claim; win"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913751"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "LIV 골프, 파산 전 임원진에 1560만 달러",
+      "english_title": "LIV Golf paid executives before bankruptcy",
+      "korean_desc": "LIV 골프가 파산 신청 전 임원 7명에게 1,560만 달러를 지급했습니다. 법원 기록에서 이 지급 내역이 공개됐습니다.",
+      "english_desc": "LIV Golf paid $15.6 million to seven executives before filing for bankruptcy. The payments were revealed in court records.",
+      "hook": "The golf drama continued off the course—and into court.",
+      "korean_hook": "골프 drama가 법정으로 번졌다",
+      "glossary": [
+        {
+          "korean": "임원진",
+          "english": "executives"
+        },
+        {
+          "korean": "파산",
+          "english": "bankruptcy"
+        },
+        {
+          "korean": "지급하다",
+          "english": "pay"
+        },
+        {
+          "korean": "법원 기록",
+          "english": "court records"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913743"
+    },
+    {
+      "category": "Sports",
       "korean_title": "한국, 11월 사우디·카타르와 평가전",
-      "english_title": "South Korea to Face Saudi Arabia and Qatar",
-      "korean_desc": "한국 축구 대표팀이 11월 도하에서 사우디아라비아와 카타르를 만납니다. 두 경기는 친선 경기입니다.",
-      "english_desc": "South Korea’s national football team will face Saudi Arabia and Qatar in Doha in November. Both matches are friendlies.",
-      "hook": "Two November tests await Korea under Doha’s lights.",
-      "korean_hook": "11월, 도하에서 두 번의 시험이 기다립니다",
+      "english_title": "South Korea to face Saudi Arabia and Qatar",
+      "korean_desc": "한국 축구대표팀이 11월 도하에서 사우디아라비아와 카타르를 상대로 평가전을 치릅니다. 경기는 11월 13일과 17일에 열립니다.",
+      "english_desc": "South Korea’s national football team will play friendlies against Saudi Arabia and Qatar in Doha in November. The matches will be held on November 13 and 17.",
+      "hook": "Two desert tests await the Taegeuk Warriors.",
+      "korean_hook": "태극전사 앞에 두 번의 시험",
       "glossary": [
         {
           "korean": "대표팀",
@@ -690,24 +774,24 @@
           "english": "friendly match"
         },
         {
-          "korean": "친선 경기",
-          "english": "friendly match"
+          "korean": "치르다",
+          "english": "play; hold"
         },
         {
-          "korean": "만나다",
-          "english": "face; meet"
+          "korean": "열리다",
+          "english": "take place"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911950"
     },
     {
       "category": "Sports",
-      "korean_title": "조은혜, 아시아패러게임 펜싱 금메달",
-      "english_title": "Cho Eun-hye Wins Korea’s First Para Fencing Gold",
-      "korean_desc": "휠체어 펜싱 선수 조은혜가 여자 개인 에페에서 금메달을 땄습니다. 한국은 아시아패러게임 펜싱에서 처음으로 금메달을 얻었습니다.",
-      "english_desc": "Wheelchair fencer Cho Eun-hye won gold in the women’s individual épée. South Korea earned its first Asian Para Games fencing gold.",
+      "korean_title": "조은혜, 아시아 패러게임 펜싱 금메달",
+      "english_title": "Cho Eun-hye wins Korea’s first Asian Para Games fencing gold",
+      "korean_desc": "휠체어 펜싱 선수 조은혜가 여자 에페 B에서 금메달을 땄습니다. 한국은 아시아 패러게임 펜싱에서 처음으로 금메달을 얻었습니다.",
+      "english_desc": "Wheelchair fencer Cho Eun-hye won gold in the women’s epee B event. South Korea earned its first Asian Para Games fencing gold.",
       "hook": "A one-point victory made para-fencing history for Korea.",
-      "korean_hook": "한 점 차 승리가 한국 펜싱 역사를 썼습니다",
+      "korean_hook": "한 점 차 승리가 역사를 썼다",
       "glossary": [
         {
           "korean": "휠체어 펜싱",
@@ -718,24 +802,24 @@
           "english": "gold medal"
         },
         {
-          "korean": "개인",
-          "english": "individual"
-        },
-        {
           "korean": "한 점 차",
           "english": "by one point"
+        },
+        {
+          "korean": "역사",
+          "english": "history"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911552"
     },
     {
       "category": "Sports",
-      "korean_title": "2010년 우승자 오스트하위즌 LIV 떠난다",
-      "english_title": "2010 Open Champion Oosthuizen to Leave LIV",
-      "korean_desc": "남아프리카공화국 골퍼 루이 오스트하위즌이 LIV 골프를 떠납니다. 그는 이를 인생에서 가장 어려운 결정 중 하나라고 말했습니다.",
-      "english_desc": "South African golfer Louis Oosthuizen is leaving LIV Golf. He called it one of the hardest decisions of his life.",
-      "hook": "A major champion is leaving LIV after a very difficult decision.",
-      "korean_hook": "메이저 우승자가 어려운 결정을 내렸습니다",
+      "korean_title": "2010년 오픈 챔피언, LIV 골프 떠난다",
+      "english_title": "Open champion Oosthuizen to leave LIV Golf",
+      "korean_desc": "2010년 브리티시 오픈 우승자 루이 오스투이젠이 LIV 골프를 떠납니다. 그는 이번 결정을 인생에서 가장 어려운 결정 중 하나라고 말했습니다.",
+      "english_desc": "2010 British Open champion Louis Oosthuizen is leaving LIV Golf. He called the decision one of the hardest of his life.",
+      "hook": "A major champion is choosing a new fairway.",
+      "korean_hook": "메이저 챔피언이 새 길을 택했다",
       "glossary": [
         {
           "korean": "우승자",
@@ -746,24 +830,24 @@
           "english": "leave"
         },
         {
-          "korean": "골퍼",
-          "english": "golfer"
+          "korean": "결정",
+          "english": "decision"
         },
         {
-          "korean": "어려운 결정",
-          "english": "difficult decision"
+          "korean": "어렵다",
+          "english": "be difficult"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911547"
     },
     {
       "category": "Sports",
-      "korean_title": "바이에른, 아스널과 2-2 무승부",
-      "english_title": "Bayern Draws 2-2 with Arsenal",
-      "korean_desc": "바이에른 뮌헨이 아스널과 2-2로 비겼습니다. 한국 수비수 김민재는 전반전만 뛰었습니다.",
-      "english_desc": "Bayern Munich drew 2-2 with Arsenal. South Korean defender Kim Min-jae played only the first half.",
-      "hook": "Four goals, two giants, and Kim Min-jae’s half-time exit.",
-      "korean_hook": "네 골 뒤 김민재는 하프타임에 나왔습니다",
+      "korean_title": "바이에른, 아스널과 2대2 무승부",
+      "english_title": "Bayern draws Arsenal 2-2",
+      "korean_desc": "바이에른 뮌헨이 아스널과 2대2로 비겼습니다. 한국 수비수 김민재는 선발 출전했지만 전반전만 뛰었습니다.",
+      "english_desc": "Bayern Munich drew 2-2 with Arsenal. South Korean defender Kim Min-jae started but played only the first half.",
+      "hook": "Kim’s first-half shift helped set up a heavyweight draw.",
+      "korean_hook": "김민재의 전반전, 승부는 무승부",
       "glossary": [
         {
           "korean": "무승부",
@@ -774,139 +858,59 @@
           "english": "defender"
         },
         {
-          "korean": "전반전",
-          "english": "first half"
+          "korean": "선발 출전하다",
+          "english": "start a match"
         },
         {
-          "korean": "뛰다",
-          "english": "play"
+          "korean": "전반전",
+          "english": "first half"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911505"
     },
     {
       "category": "Sports",
-      "korean_title": "에인절스, 100패 뒤 스즈키 감독 해임",
-      "english_title": "Angels Fire Manager Kurt Suzuki",
-      "korean_desc": "LA 에인절스가 커트 스즈키 감독을 해임했습니다. 에인절스는 이번 시즌 62승 100패를 기록했습니다.",
-      "english_desc": "The Los Angeles Angels fired manager Kurt Suzuki. The Angels finished this season with 62 wins and 100 losses.",
-      "hook": "A 100-loss season brings a very different kind of change.",
-      "korean_hook": "100패 시즌 뒤 큰 변화가 시작됩니다",
+      "korean_title": "에인절스, 100패 시즌 뒤 감독 해임",
+      "english_title": "Angels fire manager Kurt Suzuki after 100-loss season",
+      "korean_desc": "LA 에인절스가 62승 100패를 기록한 뒤 커트 스즈키 감독을 해임했습니다. 구단은 새 감독과 코치진을 찾기 시작했습니다.",
+      "english_desc": "The Los Angeles Angels fired manager Kurt Suzuki after a 62-100 season. The club began searching for a new manager and coaching staff.",
+      "hook": "A 100-loss season brought a very unfunny changeup.",
+      "korean_hook": "100패 시즌 뒤 감독이 바뀐다",
       "glossary": [
         {
           "korean": "해임하다",
           "english": "fire; dismiss"
         },
         {
-          "korean": "감독",
-          "english": "manager; coach"
-        },
-        {
           "korean": "시즌",
           "english": "season"
         },
         {
-          "korean": "기록하다",
-          "english": "record"
+          "korean": "구단",
+          "english": "club; team"
+        },
+        {
+          "korean": "코치진",
+          "english": "coaching staff"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911474"
     },
     {
-      "category": "Sports",
-      "korean_title": "손흥민은 왜 이름 대신 7번일까",
-      "english_title": "Why Is Son Heung-min Being Called Number 7?",
-      "korean_desc": "한 국회의원이 일부 선수들이 손흥민을 이름 대신 7번이라고 부른다고 주장했습니다. 대표팀 내부 갈등이 커지고 있다는 의혹이 나왔습니다.",
-      "english_desc": "A lawmaker claimed some players call Son Heung-min Number 7 instead of using his name. This raised suspicions of growing tension within the national team.",
-      "hook": "When a captain becomes a number, something feels unusual.",
-      "korean_hook": "주장이 숫자가 되면 뭔가 이상합니다",
-      "glossary": [
-        {
-          "korean": "이름 대신",
-          "english": "instead of the name"
-        },
-        {
-          "korean": "국회의원",
-          "english": "lawmaker"
-        },
-        {
-          "korean": "주장하다",
-          "english": "claim"
-        },
-        {
-          "korean": "내부 갈등",
-          "english": "internal conflict"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911471"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "슈퍼레이스 결승, 2위 경쟁 뜨겁다",
-      "english_title": "Superrace Finale Set as Battle for Second Heats Up",
-      "korean_desc": "2026 오네 슈퍼레이스 챔피언십 결승전이 10월 24일부터 25일까지 열립니다. 이번에는 2위를 둘러싼 경쟁이 치열합니다.",
-      "english_desc": "The 2026 O-NE Superrace Championship finale will take place from October 24 to 25. This time, the battle for second place is intense.",
-      "hook": "The title race ends, but second place is still burning rubber.",
-      "korean_hook": "우승 경쟁은 끝나도 2위 경쟁은 뜨겁습니다",
-      "glossary": [
-        {
-          "korean": "결승",
-          "english": "finale"
-        },
-        {
-          "korean": "경쟁",
-          "english": "competition"
-        },
-        {
-          "korean": "치열하다",
-          "english": "be intense"
-        },
-        {
-          "korean": "챔피언십",
-          "english": "championship"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911463"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "비니시우스, 9경기 연속 무득점",
-      "english_title": "Vinicius Junior’s Scoring Drought Reaches Nine Games",
-      "korean_desc": "비니시우스 주니어가 챔피언스리그에서도 골을 넣지 못했습니다. 레알 마드리드에서 9경기 연속 무득점입니다.",
-      "english_desc": "Vinicius Junior failed to score in the Champions League as well. He has now gone nine straight games without a goal for Real Madrid.",
-      "hook": "Nine games, no goal—but the drought is not the whole story.",
-      "korean_hook": "9경기 무득점, 하지만 이야기는 끝나지 않았습니다",
-      "glossary": [
-        {
-          "korean": "연속",
-          "english": "consecutive"
-        },
-        {
-          "korean": "무득점",
-          "english": "scoreless"
-        },
-        {
-          "korean": "골을 넣다",
-          "english": "score a goal"
-        },
-        {
-          "korean": "가뭄",
-          "english": "drought"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911462"
-    },
-    {
       "category": "K-pop",
       "korean_title": "산토스 브라보스, 데뷔 1주년 신곡",
-      "english_title": "Santos Bravos to Mark Anniversary with New Release",
-      "korean_desc": "라틴 팝 그룹 산토스 브라보스가 데뷔 1주년을 맞아 11월 20일 새 음악을 발표합니다. 5인조 그룹의 새 활동입니다.",
-      "english_desc": "Latin pop group Santos Bravos will release new music on November 20 for its first anniversary. It will be the five-member group’s new activity.",
-      "hook": "One year old, five members, and a fresh musical surprise.",
-      "korean_hook": "데뷔 1년, 다섯 멤버가 새 음악을 준비합니다",
+      "english_title": "Santos Bravos announces first-anniversary release",
+      "korean_desc": "라틴 팝 그룹 산토스 브라보스가 데뷔 1주년을 맞아 11월 20일 새 음원을 발표합니다. 이번 음원은 그룹의 첫 기념일 발매입니다.",
+      "english_desc": "Latin pop group Santos Bravos will release new music on November 20 for its first anniversary. It will be the group’s first anniversary release.",
+      "hook": "One year old, and Santos Bravos already has birthday music.",
+      "korean_hook": "데뷔 1년, 생일 선물이 나왔다",
       "glossary": [
         {
-          "korean": "데뷔 1주년",
+          "korean": "데뷔",
+          "english": "debut"
+        },
+        {
+          "korean": "1주년",
           "english": "first anniversary"
         },
         {
@@ -914,12 +918,8 @@
           "english": "new song"
         },
         {
-          "korean": "라틴 팝 그룹",
-          "english": "Latin pop group"
-        },
-        {
           "korean": "발표하다",
-          "english": "release; announce"
+          "english": "announce; release"
         }
       ],
       "url": "https://www.koreaherald.com/article/10913019"
@@ -927,39 +927,39 @@
     {
       "category": "K-pop",
       "korean_title": "TWS, 두 번째 싱글로 팬들을 밝힌다",
-      "english_title": "TWS to Light Up Fans with Second Single",
-      "korean_desc": "TWS가 조명을 넣은 두 번째 싱글 패키지를 선보입니다. 새 싱글은 청춘의 아름다움을 표현합니다.",
-      "english_desc": "TWS will present a second single package that includes lighting. The new single expresses the beauty of youth.",
-      "hook": "This album does not just play music—it glows.",
-      "korean_hook": "이 앨범은 음악뿐 아니라 빛도 냅니다",
+      "english_title": "TWS to light up fans with second single",
+      "korean_desc": "TWS가 두 번째 싱글 ‘To Us’를 11월 2일 발표합니다. 앨범에는 팬들이 즐길 수 있는 조명 패키지도 포함됩니다.",
+      "english_desc": "TWS will release its second single, “To Us,” on November 2. The album includes a lighting package for fans to enjoy.",
+      "hook": "TWS is putting a little glow inside the album.",
+      "korean_hook": "앨범 안에 작은 빛을 담았다",
       "glossary": [
         {
-          "korean": "두 번째 싱글",
-          "english": "second single"
+          "korean": "두 번째",
+          "english": "second"
+        },
+        {
+          "korean": "싱글",
+          "english": "single"
+        },
+        {
+          "korean": "발표하다",
+          "english": "release"
         },
         {
           "korean": "조명",
           "english": "lighting"
-        },
-        {
-          "korean": "패키지",
-          "english": "package"
-        },
-        {
-          "korean": "청춘",
-          "english": "youth"
         }
       ],
       "url": "https://www.koreaherald.com/article/10912763"
     },
     {
       "category": "K-pop",
-      "korean_title": "아이들의 민니, 솔로 EP 예고",
-      "english_title": "I-dle’s Minnie Teases Solo EP",
-      "korean_desc": "아이들의 민니가 솔로 디지털 EP의 일부 음원을 공개했습니다. 세 곡은 서로 다른 감정을 보여 줍니다.",
-      "english_desc": "Minnie of I-dle released snippets from her solo digital EP. The three songs show different emotions.",
-      "hook": "Three songs, one voice, and a moonlit solo adventure.",
-      "korean_hook": "세 곡과 하나의 목소리, 달빛 솔로 모험입니다",
+      "korean_title": "아이들 민니, 솔로 EP 예고",
+      "english_title": "I-dle’s Minnie teases solo EP",
+      "korean_desc": "아이들의 민니가 솔로 디지털 EP의 음원 일부를 공개했습니다. EP에는 서로 다른 감정을 담은 세 곡이 들어갑니다.",
+      "english_desc": "I-dle’s Minnie released snippets from her solo digital EP. The EP will contain three songs expressing different emotions.",
+      "hook": "Minnie offers three emotional clues before the full moon rises.",
+      "korean_hook": "민니가 세 가지 감정을 살짝 공개",
       "glossary": [
         {
           "korean": "솔로",
@@ -970,8 +970,8 @@
           "english": "tease; preview"
         },
         {
-          "korean": "음원",
-          "english": "audio track"
+          "korean": "음원 일부",
+          "english": "song snippet"
         },
         {
           "korean": "감정",
@@ -983,23 +983,23 @@
     {
       "category": "K-pop",
       "korean_title": "아일릿 새 EP, 스포티파이 선저장 50만",
-      "english_title": "Illit’s New EP Gets 500,000 Spotify Pre-Saves",
-      "korean_desc": "아일릿의 새 EP가 발매 전 스포티파이 선저장 50만 건을 넘겼습니다. 앨범은 월요일에 공개됩니다.",
-      "english_desc": "Illit’s new EP passed 500,000 Spotify pre-saves before release. The album will be released on Monday.",
-      "hook": "Half a million fans pressed save before the music arrived.",
-      "korean_hook": "음악이 오기 전 50만 명이 저장했습니다",
+      "english_title": "Illit’s upcoming EP gets 500,000 Spotify pre-saves",
+      "korean_desc": "아일릿의 다섯 번째 EP가 발매 전 스포티파이 선저장 50만 건을 넘겼습니다. 앨범은 월요일에 공개됩니다.",
+      "english_desc": "Illit’s fifth EP surpassed 500,000 Spotify pre-saves before release. The album will be released Monday.",
+      "hook": "Half a million listeners saved the surprise before hearing it.",
+      "korean_hook": "듣기 전부터 50만 명이 저장했다",
       "glossary": [
         {
           "korean": "새 EP",
           "english": "new EP"
         },
         {
-          "korean": "발매 전",
-          "english": "before release"
-        },
-        {
           "korean": "선저장",
           "english": "pre-save"
+        },
+        {
+          "korean": "넘기다",
+          "english": "surpass"
         },
         {
           "korean": "공개되다",
@@ -1010,12 +1010,12 @@
     },
     {
       "category": "K-pop",
-      "korean_title": "BTS 2.0 뮤직비디오 2억 조회",
-      "english_title": "BTS Music Video 2.0 Reaches 200 Million Views",
-      "korean_desc": "BTS의 2.0 뮤직비디오가 유튜브 조회수 2억 회를 넘겼습니다. 새 앨범 아리랑에서 이 기록을 세운 첫 영상입니다.",
-      "english_desc": "BTS’s 2.0 music video surpassed 200 million YouTube views. It is the first video from the new album Arirang to reach this milestone.",
-      "hook": "BTS hits 200 million views, and the album’s journey continues.",
-      "korean_hook": "BTS가 2억 조회를 기록하며 계속 달립니다",
+      "korean_title": "BTS ‘2.0’ 뮤직비디오 2억 뷰",
+      "english_title": "BTS music video ‘2.0’ reaches 200 million views",
+      "korean_desc": "BTS의 ‘2.0’ 뮤직비디오가 유튜브 조회수 2억 회를 넘겼습니다. 정규 5집 ‘아리랑’에서 이 기록을 세운 첫 영상입니다.",
+      "english_desc": "BTS’s “2.0” music video surpassed 200 million YouTube views. It is the first video from their fifth album, “Arirang,” to reach the milestone.",
+      "hook": "BTS turns “2.0” into a very large viewing party.",
+      "korean_hook": "BTS가 2억 번의 파티를 열었다",
       "glossary": [
         {
           "korean": "뮤직비디오",
@@ -1030,36 +1030,36 @@
           "english": "surpass"
         },
         {
-          "korean": "기록을 세우다",
-          "english": "set a record"
+          "korean": "정규 5집",
+          "english": "fifth studio album"
         }
       ],
       "url": "https://www.koreaherald.com/article/10912312"
     },
     {
       "category": "K-pop",
-      "korean_title": "아우라, 인도 음악축제 피날레 장식",
-      "english_title": "Aoora Headlines Music Festival Finale in India",
-      "korean_desc": "인도 뭄바이에 거주하는 한국 가수 아우라가 인도 음악축제의 마지막 무대를 장식했습니다. 그는 자신의 노래와 말라얄람 노래를 불렀습니다.",
-      "english_desc": "Korean singer Aoora, who lives in Mumbai, headlined the finale of an Indian music festival. He performed his own songs and Malayalam songs.",
-      "hook": "A Korean voice closes an Indian festival with a cross-cultural encore.",
-      "korean_hook": "한국 가수가 인도 축제의 마지막을 장식했습니다",
+      "korean_title": "아우라, 인도 음악축제 마지막 무대",
+      "english_title": "Aoora headlines music festival finale in India",
+      "korean_desc": "뭄바이에 기반을 둔 한국 가수 아우라가 인도 케랄라 음악축제의 마지막 무대를 장식했습니다. 그는 자신의 노래와 말라얄람 인기곡을 불렀습니다.",
+      "english_desc": "Mumbai-based Korean singer Aoora headlined the finale of a music festival in Kerala, India. He performed his own songs and popular Malayalam songs.",
+      "hook": "A Korean voice gave India’s festival finale a global encore.",
+      "korean_hook": "한국 가수가 인도 무대를 빛냈다",
       "glossary": [
+        {
+          "korean": "기반을 두다",
+          "english": "be based"
+        },
         {
           "korean": "음악축제",
           "english": "music festival"
         },
         {
-          "korean": "피날레",
+          "korean": "마지막 무대",
           "english": "finale"
         },
         {
-          "korean": "거주하다",
-          "english": "live; reside"
-        },
-        {
           "korean": "장식하다",
-          "english": "headline; decorate"
+          "english": "headline; grace"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911885"
@@ -1067,26 +1067,26 @@
     {
       "category": "K-pop",
       "korean_title": "A2O 소울, 11월 데뷔 앨범 발표",
-      "english_title": "A2O Soul to Release Debut Album in November",
-      "korean_desc": "15인조 보이그룹 A2O 소울이 11월 9일 데뷔 EP 슈퍼스타를 발표합니다. 앨범에는 다섯 곡이 들어갑니다.",
-      "english_desc": "The 15-member boy group A2O Soul will release its debut EP Superstar on November 9. The album will contain five songs.",
-      "hook": "Fifteen members, five tracks, and one big debut countdown.",
-      "korean_hook": "15명, 5곡, 큰 데뷔 카운트다운이 시작됩니다",
+      "english_title": "A2O Soul to release debut album in November",
+      "korean_desc": "15인조 보이그룹 A2O 소울이 11월 9일 데뷔 EP ‘Superstar’를 발표합니다. 앨범에는 ‘Superstar’와 ‘Dancing in the Dark’ 등이 수록됩니다.",
+      "english_desc": "The 15-member boy group A2O Soul will release its debut EP, “Superstar,” on November 9. The album includes “Superstar” and “Dancing in the Dark.”",
+      "hook": "Fifteen members are ready to make one very big entrance.",
+      "korean_hook": "15명이 큰 데뷔를 준비한다",
       "glossary": [
-        {
-          "korean": "데뷔 앨범",
-          "english": "debut album"
-        },
         {
           "korean": "보이그룹",
           "english": "boy group"
         },
         {
-          "korean": "15인조",
-          "english": "15-member"
+          "korean": "데뷔 앨범",
+          "english": "debut album"
         },
         {
-          "korean": "들어가다",
+          "korean": "발표하다",
+          "english": "release"
+        },
+        {
+          "korean": "수록되다",
           "english": "be included"
         }
       ],
@@ -1094,84 +1094,224 @@
     },
     {
       "category": "K-pop",
-      "korean_title": "이안 이스트우드, 한국 춤과 재회",
-      "english_title": "Ian Eastwood Reconnects with Korea’s Dance Scene",
-      "korean_desc": "안무가 이안 이스트우드가 한국에서 신인 예술가들을 가르치고 있습니다. 그는 한국 댄서들의 빠른 학습에 다시 감탄했습니다.",
-      "english_desc": "Choreographer Ian Eastwood is teaching emerging artists in Korea. He was impressed again by Korean dancers’ fast learning.",
-      "hook": "A choreographer returns and finds Korea’s dance future already moving.",
-      "korean_hook": "안무가가 돌아와 한국 춤의 미래를 만났습니다",
+      "korean_title": "아이언 이스트우드, 한국 춤과 재연결",
+      "english_title": "Ian Eastwood reconnects with Korea’s dance scene",
+      "korean_desc": "미국 안무가 아이언 이스트우드는 한국에서 데뷔 전 예술가들을 가르치며 깊은 인상을 받았습니다. 그는 한국의 춤 문화와 다시 연결되고 있습니다.",
+      "english_desc": "American choreographer Ian Eastwood was impressed while teaching pre-debut artists in Korea. He is reconnecting with Korea’s dance culture.",
+      "hook": "A choreographer returns—and finds Korea’s next moves waiting.",
+      "korean_hook": "돌아온 안무가, 다음 춤을 만나다",
       "glossary": [
-        {
-          "korean": "춤과 재회하다",
-          "english": "reconnect with dance"
-        },
         {
           "korean": "안무가",
           "english": "choreographer"
         },
         {
-          "korean": "신인 예술가",
-          "english": "emerging artist"
+          "korean": "데뷔 전",
+          "english": "pre-debut"
         },
         {
-          "korean": "감탄하다",
-          "english": "be impressed"
+          "korean": "가르치다",
+          "english": "teach"
+        },
+        {
+          "korean": "다시 연결되다",
+          "english": "reconnect"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911297"
     },
     {
       "category": "World",
+      "korean_title": "캘리포니아 선거관리자들, 투표용지 요구에 반발",
+      "english_title": "California officials frustrated by ballot demand",
+      "korean_desc": "미 법무부가 비시민권자에게 보내졌다고 판단한 투표용지를 따로 보관하라고 요구했습니다. 캘리포니아 선거관리자들은 혼란과 불만을 나타냈습니다.",
+      "english_desc": "The US Justice Department demanded that ballots it believes went to noncitizens be set aside. California election officials expressed confusion and frustration.",
+      "hook": "A ballot box dispute is rattling California’s election workers.",
+      "korean_hook": "투표용지 요구가 선거 현장을 흔든다",
+      "glossary": [
+        {
+          "korean": "선거관리자",
+          "english": "election official"
+        },
+        {
+          "korean": "투표용지",
+          "english": "ballot"
+        },
+        {
+          "korean": "비시민권자",
+          "english": "noncitizen"
+        },
+        {
+          "korean": "따로 보관하다",
+          "english": "set aside"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913863"
+    },
+    {
+      "category": "World",
+      "korean_title": "이스라엘군, 헤브론 주민 2천 명 대피시켜",
+      "english_title": "Israeli forces displace Hebron families after attack",
+      "korean_desc": "이스라엘군이 공격 다음 날 요르단강 서안 헤브론에서 약 2,000명의 주민을 대피시켰습니다. 팔레스타인 자치정부는 국제사회의 압박을 요구했습니다.",
+      "english_desc": "Israeli forces displaced about 2,000 residents in Hebron in the West Bank after an attack. The Palestinian Authority called for international pressure.",
+      "hook": "A deadly attack was followed by a mass evacuation.",
+      "korean_hook": "공격 뒤 대규모 대피가 이어졌다",
+      "glossary": [
+        {
+          "korean": "대피시키다",
+          "english": "evacuate; displace"
+        },
+        {
+          "korean": "주민",
+          "english": "resident"
+        },
+        {
+          "korean": "공격",
+          "english": "attack"
+        },
+        {
+          "korean": "국제사회",
+          "english": "international community"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913862"
+    },
+    {
+      "category": "World",
+      "korean_title": "오바마, 트럼프 측의 잔혹함 비판",
+      "english_title": "Obama attacks Trump allies’ campaign conduct",
+      "korean_desc": "버락 오바마 전 대통령이 트럼프 대통령과 공화당 동맹의 잔혹함과 부적절한 행동을 비판했습니다. 그는 오하이오에서 민주당 유권자들을 독려했습니다.",
+      "english_desc": "Former President Barack Obama criticized what he called cruelty and indecency by President Trump and Republican allies. He rallied Democratic voters in Ohio.",
+      "hook": "Obama stepped into a campaign fight already running hot.",
+      "korean_hook": "오바마가 뜨거운 선거전에 뛰어들었다",
+      "glossary": [
+        {
+          "korean": "전 대통령",
+          "english": "former president"
+        },
+        {
+          "korean": "잔혹함",
+          "english": "cruelty"
+        },
+        {
+          "korean": "비판하다",
+          "english": "criticize"
+        },
+        {
+          "korean": "유권자",
+          "english": "voter"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913861"
+    },
+    {
+      "category": "World",
+      "korean_title": "우크라이나 스타실드 정상화, 머스크는 반박",
+      "english_title": "Ukraine says Starshield restored, Musk disputes terms",
+      "korean_desc": "우크라이나는 스타링크와 군사용 스타실드가 정상적으로 작동한다고 밝혔습니다. 그러나 일론 머스크는 우크라이나군이 회사 약관을 위반했다고 주장했습니다.",
+      "english_desc": "Ukraine said Starlink and military Starshield were fully functional again. Elon Musk, however, claimed that Ukraine’s military had violated the company’s terms.",
+      "hook": "The signal returned, but the argument stayed online.",
+      "korean_hook": "신호는 돌아왔지만 논쟁은 계속됐다",
+      "glossary": [
+        {
+          "korean": "정상화",
+          "english": "restoration"
+        },
+        {
+          "korean": "작동하다",
+          "english": "function"
+        },
+        {
+          "korean": "약관",
+          "english": "terms"
+        },
+        {
+          "korean": "위반하다",
+          "english": "violate"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913860"
+    },
+    {
+      "category": "World",
+      "korean_title": "유럽 위기 속 병력 배치된 밀라노",
+      "english_title": "Soldiers guard Milan amid European crisis",
+      "korean_desc": "이탈리아 여러 도시에서 수천 명의 젊은이들이 시위에 참여했습니다. 당국은 과거의 폭력 사태를 막기 위해 경찰과 군인을 대규모로 배치했습니다.",
+      "english_desc": "Thousands of young people protested in several Italian cities. Authorities deployed large numbers of police and soldiers to prevent a repeat of earlier violence.",
+      "hook": "Milan’s streets saw a tense mix of protest and protection.",
+      "korean_hook": "시위와 경비가 함께한 밀라노 거리",
+      "glossary": [
+        {
+          "korean": "병력",
+          "english": "troops"
+        },
+        {
+          "korean": "배치하다",
+          "english": "deploy"
+        },
+        {
+          "korean": "시위",
+          "english": "protest"
+        },
+        {
+          "korean": "폭력 사태",
+          "english": "violent unrest"
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10913859"
+    },
+    {
+      "category": "World",
       "korean_title": "PHP 보안 결함에 해킹 시도 급증",
-      "english_title": "Hacking Attempts Surge After PHP Flaws Disclosed",
-      "korean_desc": "PHP의 심각한 보안 결함이 공개된 뒤 해킹 시도가 급증했습니다. 기업과 정부는 서둘러 시스템을 고치고 있습니다.",
-      "english_desc": "Hacking attempts surged after serious PHP security flaws were disclosed. Companies and governments are rushing to fix their systems.",
-      "hook": "A tiny software flaw is creating a very large global headache.",
-      "korean_hook": "작은 소프트웨어 결함이 큰 골칫거리가 됐습니다",
+      "english_title": "Hacking attempts surge after PHP flaws disclosed",
+      "korean_desc": "PHP의 심각한 보안 결함이 공개되자 기업과 정부가 서둘러 시스템을 고치고 있습니다. 클라우드 기업들은 해킹 시도가 급증했다고 보고했습니다.",
+      "english_desc": "Companies and governments are rushing to fix serious PHP security flaws after their disclosure. Cloud firms reported a surge in hacking attempts.",
+      "hook": "Hackers spotted the cracks before everyone finished patching.",
+      "korean_hook": "해커들이 패치보다 먼저 움직였다",
       "glossary": [
         {
           "korean": "보안 결함",
           "english": "security flaw"
         },
         {
+          "korean": "공개되다",
+          "english": "be disclosed"
+        },
+        {
+          "korean": "서두르다",
+          "english": "hurry"
+        },
+        {
           "korean": "해킹 시도",
           "english": "hacking attempt"
-        },
-        {
-          "korean": "급증하다",
-          "english": "surge"
-        },
-        {
-          "korean": "서둘러",
-          "english": "hurriedly"
         }
       ],
       "url": "https://www.koreaherald.com/article/10912068"
     },
     {
       "category": "World",
-      "korean_title": "해외 한국어 교육, 학생 19만 명",
-      "english_title": "Korean-Language Education Expands Overseas",
-      "korean_desc": "2025년 해외 한국어 수업 학생 수가 19만 1896명에 이르렀습니다. 5년 전보다 약 50% 늘어난 수치입니다.",
-      "english_desc": "The number of students in overseas Korean-language classes reached 191,896 in 2025. That is about 50 percent higher than five years earlier.",
-      "hook": "Korean class is growing worldwide—who is joining the lesson?",
-      "korean_hook": "세계 곳곳에서 한국어 수업이 커지고 있습니다",
+      "korean_title": "해외 한국어 교육, 학생 19만 명 돌파",
+      "english_title": "Korean-language education expands overseas",
+      "korean_desc": "2025년 해외 한국어 수업 등록자는 19만 1,896명으로 5년 전보다 약 50% 늘었습니다. 47개국 2,777개 학교에서 한국어를 가르쳤습니다.",
+      "english_desc": "Enrollment in overseas Korean-language classes reached 191,896 in 2025, about 50 percent higher than five years earlier. Korean was taught at 2,777 schools in 47 countries.",
+      "hook": "Korean class is becoming a global after-school favorite.",
+      "korean_hook": "한국어 수업이 세계에서 인기다",
       "glossary": [
         {
           "korean": "해외",
           "english": "overseas"
         },
         {
-          "korean": "한국어 교육",
-          "english": "Korean-language education"
+          "korean": "등록자",
+          "english": "enrollee"
         },
         {
-          "korean": "학생 수",
-          "english": "number of students"
-        },
-        {
-          "korean": "늘어나다",
+          "korean": "늘다",
           "english": "increase"
+        },
+        {
+          "korean": "가르치다",
+          "english": "teach"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911815"
@@ -1179,11 +1319,11 @@
     {
       "category": "World",
       "korean_title": "메타, 개인정보 사건으로 250억 달러 벌금",
-      "english_title": "Meta Ordered to Pay $25 Billion Privacy Penalty",
-      "korean_desc": "미국 뉴멕시코주의 법원이 메타에 250억 달러를 내라고 명령했습니다. 배심원단은 메타가 이용자 개인정보에 대해 소비자를 속였다고 판단했습니다.",
-      "english_desc": "A New Mexico judge ordered Meta to pay $25 billion. A jury found that Meta misled consumers about their personal data.",
-      "hook": "A privacy case delivers a bill with an astonishing number of zeros.",
-      "korean_hook": "개인정보 사건이 어마어마한 청구서를 만들었습니다",
+      "english_title": "Meta ordered to pay $25 billion privacy penalty",
+      "korean_desc": "뉴멕시코 법원이 개인정보 사건과 관련해 메타에 250억 달러를 지급하라고 명령했습니다. 배심원단은 메타가 데이터 개인정보 보호에 대해 소비자를 속였다고 판단했습니다.",
+      "english_desc": "A New Mexico judge ordered Meta to pay $25 billion over a data privacy case. A jury found that Meta misled consumers about protecting their data.",
+      "hook": "Meta’s privacy bill just became extremely hard to ignore.",
+      "korean_hook": "메타의 개인정보 청구서가 너무 커졌다",
       "glossary": [
         {
           "korean": "개인정보",
@@ -1198,151 +1338,11 @@
           "english": "court"
         },
         {
-          "korean": "속이다",
-          "english": "deceive; mislead"
+          "korean": "소비자",
+          "english": "consumer"
         }
       ],
       "url": "https://www.koreaherald.com/article/10911408"
-    },
-    {
-      "category": "World",
-      "korean_title": "미 상원 주도권 주에서 사전투표 증가",
-      "english_title": "Early Voting Rises in Key US Senate States",
-      "korean_desc": "미국 상원 주도권을 결정할 가능성이 큰 여러 주에서 사전투표가 늘었습니다. 텍사스에서는 2022년보다 74% 증가했습니다.",
-      "english_desc": "Early voting has increased in several states likely to decide control of the US Senate. In Texas, it is up 74 percent from 2022.",
-      "hook": "Voters are lining up early where Senate power hangs in the balance.",
-      "korean_hook": "상원 주도권이 걸린 곳에서 투표가 일찍 시작됐습니다",
-      "glossary": [
-        {
-          "korean": "상원",
-          "english": "Senate"
-        },
-        {
-          "korean": "주도권",
-          "english": "control"
-        },
-        {
-          "korean": "사전투표",
-          "english": "early voting"
-        },
-        {
-          "korean": "늘다",
-          "english": "increase"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911398"
-    },
-    {
-      "category": "World",
-      "korean_title": "미국, 사우디 주재 외교관 철수 명령",
-      "english_title": "US Orders Diplomats to Leave Saudi Arabia",
-      "korean_desc": "미국 국무부가 사우디아라비아의 일부 외교관과 가족들에게 떠나라고 명령했습니다. 사우디에서 후티 반군의 공격이 이어지고 있습니다.",
-      "english_desc": "The US State Department ordered some diplomats and their families to leave Saudi Arabia. Houthi attacks have continued in the country.",
-      "hook": "Diplomats are leaving as regional danger moves closer to home.",
-      "korean_hook": "위험이 가까워지자 외교관들이 떠납니다",
-      "glossary": [
-        {
-          "korean": "외교관",
-          "english": "diplomat"
-        },
-        {
-          "korean": "철수",
-          "english": "withdrawal; evacuation"
-        },
-        {
-          "korean": "명령",
-          "english": "order"
-        },
-        {
-          "korean": "공격",
-          "english": "attack"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911389"
-    },
-    {
-      "category": "World",
-      "korean_title": "이스라엘 선거 뒤에도 대이란 정책 유지",
-      "english_title": "Israel’s Iran Policy May Survive Its Election",
-      "korean_desc": "이스라엘 선거가 지도자를 바꿀 수 있지만 대이란 정책은 크게 달라지지 않을 수 있습니다. 이란은 계속 주요 적으로 남을 전망입니다.",
-      "english_desc": "Israel’s election may change its leader, but its Iran policy may not change much. Iran is expected to remain its main adversary.",
-      "hook": "A new leader may arrive, but the old enemy remains.",
-      "korean_hook": "새 지도자가 와도 적은 그대로일 수 있습니다",
-      "glossary": [
-        {
-          "korean": "선거",
-          "english": "election"
-        },
-        {
-          "korean": "지도자",
-          "english": "leader"
-        },
-        {
-          "korean": "정책",
-          "english": "policy"
-        },
-        {
-          "korean": "적",
-          "english": "enemy"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911385"
-    },
-    {
-      "category": "World",
-      "korean_title": "푸틴, 우크라이나 평화회담 재개 동의",
-      "english_title": "Putin Agrees to Resume Ukraine Peace Talks",
-      "korean_desc": "푸틴 러시아 대통령이 미국이 중재하는 우크라이나 평화회담을 다시 열기로 했습니다. 회담은 다음 달에 시작될 수 있습니다.",
-      "english_desc": "Russian President Vladimir Putin agreed to resume US-mediated peace talks on Ukraine. The talks could begin next month.",
-      "hook": "The peace table may reopen, but the path there remains difficult.",
-      "korean_hook": "평화의 식탁이 다시 열려도 길은 험합니다",
-      "glossary": [
-        {
-          "korean": "평화회담",
-          "english": "peace talks"
-        },
-        {
-          "korean": "재개하다",
-          "english": "resume"
-        },
-        {
-          "korean": "중재하다",
-          "english": "mediate"
-        },
-        {
-          "korean": "다음 달",
-          "english": "next month"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911381"
-    },
-    {
-      "category": "World",
-      "korean_title": "마크롱 후계자 두고 파리 정가 경쟁",
-      "english_title": "Paris Politicians Jockey to Succeed Macron",
-      "korean_desc": "마크롱 대통령의 임기가 막바지에 이르면서 프랑스 정치인들이 후계자 자리를 놓고 경쟁하고 있습니다. 극단 성향 후보가 다음 대통령이 될 가능성도 있습니다.",
-      "english_desc": "As President Macron’s term nears its end, French politicians are competing to succeed him. A candidate from the political extremes could become the next president.",
-      "hook": "Macron’s final stretch has France’s future contenders circling.",
-      "korean_hook": "마크롱의 마지막 길에 후계자들이 모여듭니다",
-      "glossary": [
-        {
-          "korean": "후계자",
-          "english": "successor"
-        },
-        {
-          "korean": "정가",
-          "english": "political world"
-        },
-        {
-          "korean": "임기",
-          "english": "term in office"
-        },
-        {
-          "korean": "경쟁하다",
-          "english": "compete"
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10911379"
     }
   ]
 }
