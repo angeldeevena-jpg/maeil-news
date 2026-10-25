@@ -13,7 +13,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 9;
+export const IMAGE_VERSION = 12;
 
 const W = 1080;
 const H = 1350;
@@ -73,6 +73,13 @@ function shrinkScript(head, box, start, min) {
 }
 
 // Slide 1: cover (yellow). The headline shrinks so it never reaches the footer.
+// Date shown on the slides, e.g. 26 Oct 2026
+function dateText(c) {
+  const d = new Date(String(c.date || '') + 'T00:00:00');
+  if (!c.date || isNaN(d)) return '';
+  return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
+}
+
 function coverSlide(c, logo, total) {
   const sticker = c.sticker || 'Read the story';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 80px; background: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; color: #000; overflow: hidden">
@@ -82,13 +89,14 @@ function coverSlide(c, logo, total) {
   </div>
   <div style="margin: auto 0; display: flex; flex-direction: column; gap: 48px">
     <div style="align-self: flex-start; padding: 16px 30px; background: #D4F36B; border: 6px solid #000; box-shadow: 12px 12px 0 #000; font-size: 40px; font-weight: 900; transform: rotate(-4deg)">${esc(sticker)}</div>
-    <div id="box" style="height: 620px; display: flex; align-items: center">
+    <div id="box" style="height: 520px; display: flex; align-items: center">
       <div id="head" style="font-size: 130px; font-weight: 900; line-height: 1.0; transform: rotate(-1deg)">${esc(c.hook || c.english_title)}</div>
     </div>
+    ${c.korean_hook ? `<div style="font-size: 56px; font-weight: 800; line-height: 1.3; color: #3A3A3A">${esc(c.korean_hook)}</div>` : ''}
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800">
     <span>${esc((c.category || '').toUpperCase())} · swipe to read on →</span>
-    <span>1 / ${total}</span>
+    <span>${dateText(c) ? dateText(c) + ' · ' : ''}1 / ${total}</span>
   </div>
 </div>`, shrinkScript('head', 'box', 130, 48));
 }
@@ -107,7 +115,7 @@ function titleSlide(c, logo, total) {
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: #FFFFFF">
     <span>Read it. Then say it out loud.</span>
-    <span>2 / ${total}</span>
+    <span>${dateText(c)} · 2 / ${total}</span>
   </div>
 </div>`);
 }
@@ -131,7 +139,7 @@ function glossaryChips(words, small) {
 
 // Sentence slides (lime). One slide per sentence: the sentence is the big part,
 // and every word of the sentence is listed in a smaller glossary underneath.
-function sentenceSlide(s, words, i, n, total, part) {
+function sentenceSlide(s, words, i, n, total, part, date) {
   const [emoji, label] = i < 2 ? ['🧭', 'THE BACKSTORY'] : i < n - 2 ? ['📰', 'WHAT HAPPENED'] : ['💡', 'WHY IT MATTERS'];
   const rot = i % 2 === 0 ? -1 : 1;
   const chips = words.map(w => {
@@ -139,26 +147,26 @@ function sentenceSlide(s, words, i, n, total, part) {
     const suffix = w.suffix && w.korean.endsWith(w.suffix) ? w.suffix : '';
     const base = suffix ? w.korean.slice(0, -suffix.length) : w.korean;
     const kor = esc(base) + (suffix ? `<span style="background: #FFE04D; color: #000; border-radius: 6px; padding: 0 4px">${esc(suffix)}</span>` : '');
-    return `<div style="padding: 10px 12px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 28px; font-weight: 900">${kor}</div><div style="font-size: 20px; font-weight: 700; color: #D4F36B">${esc(w.roman || '')}</div><div style="font-size: 18px; color: #FFFFFF">${esc(w.english || '')}</div></div>`;
+    return `<div style="padding: 12px 14px; background: #141413; color: #FFFFFF; border-radius: 12px"><div style="font-size: 28px; font-weight: 900">${kor}</div><div style="font-size: 19px; font-weight: 700; color: #D4F36B">${esc(w.roman || '')}</div><div style="font-size: 17px; color: #FFFFFF">${esc(w.english || '')}</div></div>`;
   }).join('');
   // The sentence text shrinks first; if the whole slide still does not fit, the glossary is scaled down.
   const shrink = `(function(){var sl=document.querySelector('.slide'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),k=1,z=1;` +
-    `while(sl.scrollHeight>1350&&k>0.6){k-=0.02;en.style.fontSize=(72*k)+'px';ko.style.fontSize=(62*k)+'px';}` +
+    `while(sl.scrollHeight>1350&&k>0.6){k-=0.02;en.style.fontSize=(60*k)+'px';ko.style.fontSize=(52*k)+'px';}` +
     `while(g&&sl.scrollHeight>1350&&z>0.5){z-=0.02;g.style.zoom=z;}})();`;
   const glossary = words.length
     ? `<div style="display: flex; flex-direction: column; gap: 10px">
     <div style="font-size: 22px; font-weight: 700; color: #3A3A3A">Glossary · every word in this sentence</div>
-    <div id="gloss" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px">${chips}</div>
+    <div id="gloss" style="display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 8px">${chips}</div>
   </div>`
     : '';
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 28px; font-family: ${FONT}; color: #141413; overflow: hidden">
   <div style="display: flex; align-items: center; justify-content: space-between">
     <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #D4F36B; transform: rotate(-3deg)">${emoji} ${label}</span>
-    <span style="font-size: 26px; font-weight: 900">Maeil News · ${i + 1} / ${n}</span>
+    <span style="font-size: 26px; font-weight: 900">${esc(date ? date + ' · ' : '')}${part} / ${total}</span>
   </div>
   <div style="padding: 44px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; gap: 26px; transform: rotate(${rot}deg)">
-    <div id="en" style="font-size: 72px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
-    <div id="ko" style="font-size: 62px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
+    <div id="en" style="font-size: 60px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
+    <div id="ko" style="font-size: 52px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
   </div>
   ${glossary}
   <div style="margin-top: auto; font-size: 28px; font-weight: 800">Keep swiping 👀 →</div>
@@ -166,15 +174,15 @@ function sentenceSlide(s, words, i, n, total, part) {
 }
 
 // Closing slide: the whole story in one short English and Korean recap
-function recapSlide(c, total) {
+function recapSlide(c, total, number) {
   return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 60px; background: #FFE04D; display: flex; flex-direction: column; gap: 36px; font-family: ${FONT}; color: #000; overflow: hidden">
   <div style="display: flex; align-items: center; justify-content: space-between">
     <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #FFE04D; transform: rotate(-3deg)">📌 IN SHORT</span>
-    <span style="font-size: 26px; font-weight: 900">Maeil News · ${total - 1} / ${total}</span>
+    <span style="font-size: 26px; font-weight: 900">${esc(dateText(c) ? dateText(c) + ' · ' : '')}${number} / ${total}</span>
   </div>
   <div style="margin: auto 0; padding: 48px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; gap: 34px">
-    <div style="font-size: 60px; font-weight: 900; line-height: 1.2">${esc(c.short_english || '')}</div>
-    <div style="font-size: 52px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(c.short_korean || '')}</div>
+    <div style="font-size: 60px; font-weight: 900; line-height: 1.2">${esc(c.takeaway_english || c.short_english || '')}</div>
+    <div style="font-size: 52px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(c.takeaway_korean || c.short_korean || '')}</div>
   </div>
   <div style="font-size: 28px; font-weight: 800">The original story and credit are on the last slide →</div>
 </div>`);
@@ -218,7 +226,7 @@ function slideWords(sentence) {
 // several slides, so nothing is cut off at the bottom.
 export function planSlides(card) {
   const sentences = Array.isArray(card.sentences) ? card.sentences : [];
-  const plan = [{ kind: 'cover' }, { kind: 'title' }];
+  const plan = [{ kind: 'cover' }];
   // One slide per sentence. The glossary (at most 8 words) fits on that same slide, so nothing repeats.
   sentences.forEach((s, i) => {
     plan.push({
@@ -231,7 +239,7 @@ export function planSlides(card) {
     });
   });
   // Closing recap of the whole story, so every set ends with a conclusion
-  if (card.short_english || card.short_korean) plan.push({ kind: 'recap' });
+  if (card.takeaway_english || card.short_english) plan.push({ kind: 'recap' });
   plan.push({ kind: 'credit' });
   return plan;
 }
@@ -244,8 +252,8 @@ export function buildSlides(card, region, source, assets) {
     const number = n + 1;
     if (p.kind === 'cover') return coverSlide(card, assets.logo, total);
     if (p.kind === 'title') return titleSlide(card, assets.logo, total);
-    if (p.kind === 'recap') return recapSlide(card, total);
-    if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number);
+    if (p.kind === 'recap') return recapSlide(card, total, number);
+    if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number, dateText(card));
     return creditSlide(card, region, source, assets.logo, assets.photo, total);
   });
 }

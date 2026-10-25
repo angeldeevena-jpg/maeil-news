@@ -141,6 +141,8 @@ async function main() {
           hook: items[i].hook || '',
           sticker: items[i].sticker || '',
           korean_hook: items[i].korean_hook || '',
+          takeaway_english: items[i].takeaway || '',
+          takeaway_korean: items[i].takeaway_korean || '',
           glossary,
           sentences,
           url: a.link
@@ -160,7 +162,7 @@ async function main() {
   const cards = articles.map(a => cached.get(a.link) || byUrl.get(a.link)).filter(Boolean);
 
   // Slide images for the Save images button (only cards that do not have them yet)
-  for (const c of cards) { fixGlossary(c); addShortText(c); }
+  for (const c of cards) { fixGlossary(c); addShortText(c); c.date = today; }
   await addImages(cards, REGION, ROOT, REGIONS[REGION].source);
 
   await saveUsage(usage);
@@ -297,8 +299,10 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "english_title": a clear, short English headline
 - "hook": the headline hook. Plain words, under 10 words, that states the key point of the story clearly, in the form "Korea aimed for 21 golds. It won 29." Accurate, and it must not add any fact. Use a contrast only when the facts support it and the story is not serious.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
+- "takeaway": one new English sentence, under 20 words, that says why the story matters or what comes next. It must not repeat the hook or the summary.
+- "takeaway_korean": the takeaway in simple, natural Korean
 - "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
-- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Each sentence must follow from the one before it, so a reader gets the whole story from the slides alone, with no sudden jumps. Use 5 to 7 sentences. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
+- "sentences": between 6 and ${MAX_SENTENCES} objects in reading order. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Each sentence must follow from the one before it, so a reader gets the whole story from the slides alone, with no sudden jumps. Use 5 to 7 sentences. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
