@@ -118,12 +118,13 @@ async function main() {
       usage.spent_usd += costUsd;
       newCards = fresh.map((a, i) => {
         const sentences = normalizeSentences(items[i].sentences);
-        // The widget's WORDS list shows up to 10 words: the first ones from all sentences, no repeats
+        // The widget's WORDS pages come from the Korean description, in reading order, no repeats.
+        // Each word has its romanization and a particle flag (particles are shown highlighted).
         const seen = new Set();
         const glossary = [];
         for (const sen of sentences) {
           for (const g of sen.glossary) {
-            if (!seen.has(g.korean) && glossary.length < 10) { seen.add(g.korean); glossary.push(g); }
+            if (!seen.has(g.korean) && glossary.length < MAX_GLOSSARY) { seen.add(g.korean); glossary.push(g); }
           }
         }
         return {
@@ -272,7 +273,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
   - "english": one clear English sentence, under 25 words
   - "korean": the Korean translation of that sentence, simple and natural
-  - "glossary": every content word in the Korean sentence (nouns, verbs, adjectives, names, numbers), as {"korean": "the word as it appears in the sentence", "english": "a short meaning"}. Also include the particles in the sentence (such as 은, 는, 이, 가, 을, 를, 에, 에서, 의, 로, 과, 와) as their own items, with a short meaning such as "subject marker". Up to 12 items.
+  - "glossary": every word in the Korean sentence, in order, as {"korean": "the word as it appears in the sentence", "roman": "its romanization, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false}. Content words (nouns, verbs, adjectives, names, numbers) have "particle": false. Particles (such as 은, 는, 이, 가, 을, 를, 에, 에서, 부터, 까지, 의, 로, 과, 와) are their own items with "particle": true and a short meaning such as "subject marker" or "from". Up to 12 items.
 Do not write anything outside the JSON.
 
 Articles:
@@ -313,7 +314,12 @@ function normalizeSentences(list) {
       glossary: (Array.isArray(s.glossary) ? s.glossary : [])
         .filter(g => g && g.korean && g.english)
         .slice(0, 12)
-        .map(g => ({ korean: String(g.korean), english: String(g.english) }))
+        .map(g => ({
+          korean: String(g.korean),
+          roman: String(g.roman || ''),
+          english: String(g.english),
+          particle: g.particle === true
+        }))
     }));
 }
 
