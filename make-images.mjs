@@ -1,24 +1,117 @@
 // Maeil News slide images.
-// Each card becomes a set of slides: cover, title, one or more sentence slides, credit.
-// Layouts follow the design board (IG1–IG10). Saved as JPEG under docs/images/<region>/<card id>/.
-// GitHub Pages serves them, and the widget's "Save images" button downloads them.
+// Each card becomes a set of slides: hook (cover), title, sentence slides, an optional body slide,
+// an optional "why it matters" slide, and a credit slide. Saved as JPEG under docs/images/<region>/<card id>/.
+//
+// Layouts and colours follow the approved artboards: Flow-<category> (skins and slide flow) and
+// F1–F9 (hook and body formats). Each category has its own skin (skinFor).
+// Hook formats: question-reveal, question-clues, question-chat, question-myth (question cover),
+//               headline (question cover with the story's hook), number, vocab.
+// Body formats: two_views, three_points, timeline, before_after, who_speaks, whats_missing,
+//               another_view, map_place, poll. The generator decides which ones a card may use.
 //
 // Needs two files in the repo's assets folder:
 //   assets/logo.png    the Maeil News logo
-//   assets/author.jpg  the author photo (round on the last slide)
+//   assets/author.jpg  the author photo (round, on the last slide)
 // If a file is missing, that picture is left out and everything else still works.
 
 import { readFile, readdir, rm, stat, mkdir } from 'node:fs/promises';
 import { createHash } from 'node:crypto';
 import path from 'node:path';
 
-// Bump this when the slide layouts change: every card is then drawn again once.
-export const IMAGE_VERSION = 19;
+// Bump this when the slide layouts or skins change: every card is then drawn again once.
+export const IMAGE_VERSION = 22;
 
 const W = 1080;
 const H = 1350;
 const FONT = 'system-ui, sans-serif';
 const CHIPS_PER_SLIDE = 12;
+const FOOTER_SWIPE = 'Keep swiping 👀 →';
+
+// ---------- Skins: colours from the Flow artboards ----------
+// cardRot: tilt of the sentence card. stickerBorder: border of the cover sticker.
+// upper: the cover question is shown in capitals (Sports).
+
+const DEFAULT_SKIN = {
+  coverBg: '#FFE04D', coverFg: '#000000', coverKo: '#3A3A3A',
+  stickerBg: '#D4F36B', stickerFg: '#000000', stickerBorder: '#000000', stickerShadow: '#000000',
+  titleBg: '#000000', titleFg: '#FFFFFF', titleLabelBg: '#FF5FA2', titleLabelFg: '#000000', titleKo: '#FFE04D',
+  sentBg: '#D4F36B', cardBg: '#FFFFFF', cardBorder: '#141413', cardShadow: '#141413', cardRot: 1,
+  labelBg: '#141413', labelFg: '#D4F36B', text: '#141413', ko: '#3A3A3A',
+  chipBg: '#141413', chipFg: '#FFFFFF', chipMean: '#D4F36B',
+  creditBg: '#141413', creditFg: '#FFFFFF', creditEyebrow: '#D4F36B', creditBox: '#D4F36B', creditBoxFg: '#141413', photoBorder: '#141413',
+  upper: false
+};
+
+const SKINS = {
+  Culture: {
+    coverBg: '#F3E3D0', coverFg: '#3B2418', coverKo: '#6B4A36',
+    stickerBg: '#A8482C', stickerFg: '#F3E3D0', stickerBorder: '#3B2418', stickerShadow: '#3B2418',
+    titleBg: '#3B2418', titleFg: '#F3E3D0', titleLabelBg: '#A8482C', titleLabelFg: '#F3E3D0', titleKo: '#E9B98F',
+    sentBg: '#F3E3D0', cardBg: '#FFFFFF', cardBorder: '#3B2418', cardShadow: '#3B2418', cardRot: -1,
+    labelBg: '#3B2418', labelFg: '#F3E3D0', text: '#3B2418', ko: '#6B4A36',
+    chipBg: '#3B2418', chipFg: '#F3E3D0', chipMean: '#E9B98F',
+    creditBg: '#3B2418', creditFg: '#F3E3D0', creditEyebrow: '#E9B98F', creditBox: '#F3E3D0', creditBoxFg: '#3B2418', photoBorder: '#3B2418',
+    upper: false
+  },
+  'Politics & Society': {
+    coverBg: '#FFFFFF', coverFg: '#1B2A41', coverKo: '#5A6475',
+    stickerBg: '#1B2A41', stickerFg: '#FFFFFF', stickerBorder: '#1B2A41', stickerShadow: '#5A6475',
+    titleBg: '#1B2A41', titleFg: '#FFFFFF', titleLabelBg: '#FFFFFF', titleLabelFg: '#1B2A41', titleKo: '#C9D3E0',
+    sentBg: '#E6EBF2', cardBg: '#FFFFFF', cardBorder: '#1B2A41', cardShadow: '#1B2A41', cardRot: 1,
+    labelBg: '#1B2A41', labelFg: '#E6EBF2', text: '#1B2A41', ko: '#5A6475',
+    chipBg: '#1B2A41', chipFg: '#E6EBF2', chipMean: '#C9D3E0',
+    creditBg: '#1B2A41', creditFg: '#FFFFFF', creditEyebrow: '#C9D3E0', creditBox: '#FFFFFF', creditBoxFg: '#1B2A41', photoBorder: '#1B2A41',
+    upper: false
+  },
+  Business: {
+    coverBg: '#CFF5E4', coverFg: '#064E3B', coverKo: '#2F5D4A',
+    stickerBg: '#047857', stickerFg: '#FFFFFF', stickerBorder: '#064E3B', stickerShadow: '#064E3B',
+    titleBg: '#064E3B', titleFg: '#FFFFFF', titleLabelBg: '#047857', titleLabelFg: '#FFFFFF', titleKo: '#6EE7B7',
+    sentBg: '#ECFDF5', cardBg: '#FFFFFF', cardBorder: '#064E3B', cardShadow: '#064E3B', cardRot: 1,
+    labelBg: '#047857', labelFg: '#FFFFFF', text: '#064E3B', ko: '#2F5D4A',
+    chipBg: '#064E3B', chipFg: '#FFFFFF', chipMean: '#6EE7B7',
+    creditBg: '#064E3B', creditFg: '#FFFFFF', creditEyebrow: '#6EE7B7', creditBox: '#CFF5E4', creditBoxFg: '#064E3B', photoBorder: '#047857',
+    upper: false
+  },
+  Sports: {
+    coverBg: '#D4F36B', coverFg: '#141413', coverKo: '#141413',
+    stickerBg: '#141413', stickerFg: '#D4F36B', stickerBorder: '#141413', stickerShadow: '#FFE04D',
+    titleBg: '#141413', titleFg: '#FFFFFF', titleLabelBg: '#D4F36B', titleLabelFg: '#141413', titleKo: '#FFE04D',
+    sentBg: '#FFE04D', cardBg: '#FFFFFF', cardBorder: '#141413', cardShadow: '#141413', cardRot: 1,
+    labelBg: '#141413', labelFg: '#D4F36B', text: '#141413', ko: '#3A3A3A',
+    chipBg: '#141413', chipFg: '#FFFFFF', chipMean: '#D4F36B',
+    creditBg: '#141413', creditFg: '#FFFFFF', creditEyebrow: '#D4F36B', creditBox: '#FF7A59', creditBoxFg: '#141413', photoBorder: '#141413',
+    upper: true
+  },
+  Entertainment: {
+    coverBg: '#7B3FE4', coverFg: '#FFFFFF', coverKo: '#F1EAFD',
+    stickerBg: '#FF5FA2', stickerFg: '#141413', stickerBorder: '#141413', stickerShadow: '#141413',
+    titleBg: '#FF5FA2', titleFg: '#141413', titleLabelBg: '#7B3FE4', titleLabelFg: '#FFFFFF', titleKo: '#FFFFFF',
+    sentBg: '#F1EAFD', cardBg: '#FFFFFF', cardBorder: '#7B3FE4', cardShadow: '#FF5FA2', cardRot: 1,
+    labelBg: '#7B3FE4', labelFg: '#FFFFFF', text: '#141413', ko: '#4A3A66',
+    chipBg: '#7B3FE4', chipFg: '#FFFFFF', chipMean: '#FFE04D',
+    creditBg: '#7B3FE4', creditFg: '#FFFFFF', creditEyebrow: '#FFE04D', creditBox: '#FFE04D', creditBoxFg: '#141413', photoBorder: '#141413',
+    upper: false
+  },
+  World: {
+    coverBg: '#F6F4EE', coverFg: '#141413', coverKo: '#3A3A37',
+    stickerBg: '#0E6F8F', stickerFg: '#FFFFFF', stickerBorder: '#141413', stickerShadow: '#141413',
+    titleBg: '#141413', titleFg: '#FFFFFF', titleLabelBg: '#0E6F8F', titleLabelFg: '#FFFFFF', titleKo: '#D9E8EE',
+    sentBg: '#F6F4EE', cardBg: '#FFFFFF', cardBorder: '#141413', cardShadow: '#0E6F8F', cardRot: 1,
+    labelBg: '#0E6F8F', labelFg: '#FFFFFF', text: '#141413', ko: '#3A3A37',
+    chipBg: '#0E6F8F', chipFg: '#FFFFFF', chipMean: '#FFFFFF',
+    creditBg: '#141413', creditFg: '#FFFFFF', creditEyebrow: '#7FD3E8', creditBox: '#F6F4EE', creditBoxFg: '#141413', photoBorder: '#0E6F8F',
+    upper: false
+  }
+};
+// K-pop cards use the Entertainment skin
+SKINS['K-pop'] = SKINS.Entertainment;
+
+export function skinFor(category) {
+  return { ...DEFAULT_SKIN, ...(SKINS[category] || {}) };
+}
+
+// ---------- Helpers ----------
 
 export function imageFolderId(url) {
   return createHash('sha1').update(url).digest('hex').slice(0, 12);
@@ -32,14 +125,6 @@ function esc(value) {
     .replace(/"/g, '&quot;');
 }
 
-function hostOf(url) {
-  try {
-    return new URL(url).hostname.replace(/^www\./, '');
-  } catch {
-    return '';
-  }
-}
-
 // Page wrapper. The script shrinks text that would otherwise run into the footer.
 function wrap(body, script = '') {
   return `<!doctype html><html><head><meta charset="utf-8"><style>` +
@@ -51,28 +136,24 @@ function logoImg(src, width) {
   return src ? `<img src="${src}" style="width: ${width}px; height: auto" alt="">` : '';
 }
 
-function photoImg(src) {
+function photoImg(src, border) {
   return src
-    ? `<img src="${src}" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 5px solid #141413" alt="">`
+    ? `<img src="${src}" style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; border: 5px solid ${border}" alt="">`
     : '';
 }
 
-// Shrinks #id's font until its box is no taller than the box. Used for the long headlines.
-const SHRINK_BOX = `
-(function(){
-  var el = document.getElementById('HEAD'), box = document.getElementById('BOX');
-  var s = START;
+// Shrinks #head's font until its box is no taller than #box. Used for the long hooks.
+function shrinkScript(head, box, start, min) {
+  return `(function(){
+  var el = document.getElementById('${head}'), box = document.getElementById('${box}');
+  var s = ${start};
   el.style.fontSize = s + 'px';
-  while (el.getBoundingClientRect().height > box.clientHeight && s > MIN) {
+  while (el.getBoundingClientRect().height > box.clientHeight && s > ${min}) {
     s -= 2; el.style.fontSize = s + 'px';
   }
 })();`;
-
-function shrinkScript(head, box, start, min) {
-  return SHRINK_BOX.replace('HEAD', head).replace('BOX', box).replace('START', start).replace('MIN', min);
 }
 
-// Slide 1: cover (yellow). The headline shrinks so it never reaches the footer.
 // Date shown on the slides, e.g. 26 Oct 2026
 function dateText(c) {
   const d = new Date(String(c.date || '') + 'T00:00:00');
@@ -80,138 +161,339 @@ function dateText(c) {
   return d.toLocaleDateString('en-GB', { day: 'numeric', month: 'short', year: 'numeric' });
 }
 
-function coverSlide(c, logo, total) {
-  const sticker = c.sticker || 'Read the story';
-  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; color: #000; overflow: hidden">
-  <div style="display: flex; align-items: center; justify-content: space-between">
-    <div style="display: flex; align-items: center; gap: 20px">
-      ${logoImg(logo, 150)}
-      <span style="font-size: 44px; font-weight: 900">Maeil News</span>
-    </div>
-    <span style="font-size: 30px; font-weight: 800">${esc(dateText(c))}</span>
-  </div>
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0">
-    <div style="align-self: flex-start; padding: 16px 30px; background: #D4F36B; border: 6px solid #000; box-shadow: 12px 12px 0 #000; font-size: 40px; font-weight: 900; transform: rotate(-4deg)">${esc(sticker)}</div>
-    <div id="box" style="flex: 1; display: flex; align-items: center; min-height: 0">
-      <div id="head" style="font-size: 130px; font-weight: 900; line-height: 1.0; transform: rotate(-1deg)">${esc(c.hook || c.english_title)}</div>
-    </div>
-    ${c.korean_hook ? `<div style="font-size: 56px; font-weight: 800; line-height: 1.3; color: #3A3A3A">${esc(c.korean_hook)}</div>` : ''}
-  </div>
-  <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800">
-    <span>${esc((c.category || '').toUpperCase())} · swipe to read on →</span>
-    <span>1 / ${total}</span>
-  </div>
-</div>`, shrinkScript('head', 'box', 130, 48));
+// Words that are plain numbers are not shown on slides; each word once per slide
+function slideWords(sentence) {
+  return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
+    .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()))
+    .filter((w, i, all) => all.findIndex(x => x.korean === w.korean) === i)
+    .slice(0, CHIPS_PER_SLIDE);
 }
 
-// Slide 2: title (black). Neutral label, the headline fills the middle of the slide.
-function titleSlide(c, logo, total) {
+// Shared header of the cover and the title slide: logo, name and date
+function topBar(c, logo, sk, logoW, nameSize, dateSize, color) {
+  return `<div style="display: flex; align-items: center; justify-content: space-between">
+    <div style="display: flex; align-items: center; gap: 20px">${logoImg(logo, logoW)}<span style="font-size: ${nameSize}px; font-weight: 900; color: ${color}">Maeil News</span></div>
+    <span style="font-size: ${dateSize}px; font-weight: 800; color: ${color}">${esc(dateText(c))}</span>
+  </div>`;
+}
+
+// ---------- Hook: the cover ----------
+
+const QUESTION_STICKER = {
+  'question-reveal': 'Do you know?',
+  'question-clues': 'Three clues',
+  'question-chat': 'Quick question',
+  'question-myth': 'Myth or fact?'
+};
+
+// The first Korean word of the story that has a glossary entry (for the vocabulary hook)
+function firstWord(c) {
+  for (const s of Array.isArray(c.sentences) ? c.sentences : []) {
+    const w = (s.glossary || []).find(g => g && g.korean && !/^[0-9.,%\s]+$/.test(String(g.korean)));
+    if (w) return w;
+  }
+  return null;
+}
+
+// Which cover to draw: a big number, a vocabulary word, or the question cover (used by the question
+// and headline hooks). Falls back to the question cover when the chosen hook has no data.
+function hookParts(c) {
+  const d = c.format_data || {};
+  const fmt = c.hook_format;
+  if (fmt === 'number' && d.number && d.number.value) {
+    return { kind: 'number', big: String(d.number.value), label: d.number.label || '', ko: d.number.korean_label || c.korean_hook || '' };
+  }
+  if (fmt === 'vocab') {
+    const w = firstWord(c);
+    if (w) return { kind: 'vocab', word: w.korean, sub: [w.roman, w.english].filter(Boolean).join(' · '), ko: c.korean_hook || '' };
+  }
+  if (QUESTION_STICKER[fmt] && c.question) {
+    return { kind: 'question', sticker: QUESTION_STICKER[fmt], big: c.question, ko: c.korean_question || '' };
+  }
+  return { kind: 'question', sticker: c.sticker || 'Read the story', big: c.hook || c.english_title || '', ko: c.korean_hook || '' };
+}
+
+// Slide 1: the hook. Each hook keeps its artboard layout: question (Flow cover), number (F2) or vocabulary (F4)
+function coverSlide(c, logo, total, sk) {
+  const h = hookParts(c);
+  const cat = esc((c.category || '').toUpperCase());
+  const shell = (inner, footer, script = '') => wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: ${sk.coverBg}; display: flex; flex-direction: column; font-family: ${FONT}; color: ${sk.coverFg}; overflow: hidden">
+  ${topBar(c, logo, sk, 150, 44, 30, sk.coverFg)}
+  ${inner}
+  <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800">
+    <span>${footer}</span>
+    <span>1 / ${total}</span>
+  </div>
+</div>`, script);
+
+  if (h.kind === 'number') {
+    const inner = `<div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0">
+    <div id="box" style="flex: 1; display: flex; align-items: center; min-height: 0"><div id="head" style="font-size: 300px; font-weight: 900; line-height: 1.0">${esc(h.big)}</div></div>
+    ${h.label ? `<div style="font-size: 60px; font-weight: 900; line-height: 1.2">${esc(h.label)}</div>` : ''}
+    ${h.ko ? `<div style="font-size: 44px; font-weight: 800; line-height: 1.3; color: ${sk.coverKo}">${esc(h.ko)}</div>` : ''}
+  </div>`;
+    return shell(inner, `${cat} · swipe for the meaning →`, shrinkScript('head', 'box', 300, 120));
+  }
+
+  if (h.kind === 'vocab') {
+    const inner = `<div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0">
+    <div style="align-self: flex-start; padding: 16px 30px; background: ${sk.stickerBg}; color: ${sk.stickerFg}; border: 6px solid ${sk.stickerBorder}; box-shadow: 12px 12px 0 ${sk.stickerShadow}; font-size: 40px; font-weight: 900; transform: rotate(-4deg)">Word of the story</div>
+    <div id="box" style="flex: 1; display: flex; align-items: center; min-height: 0"><div id="head" style="font-size: 200px; font-weight: 900; line-height: 1.0">${esc(h.word)}</div></div>
+    ${h.sub ? `<div style="font-size: 52px; font-weight: 800; line-height: 1.3; color: ${sk.coverKo}">${esc(h.sub)}</div>` : ''}
+    ${h.ko ? `<div style="font-size: 44px; font-weight: 800; line-height: 1.3; color: ${sk.coverKo}">${esc(h.ko)}</div>` : ''}
+  </div>`;
+    return shell(inner, `${cat} · swipe to see it in the news →`, shrinkScript('head', 'box', 200, 90));
+  }
+
+  const bigStyle = `font-size: 130px; font-weight: 900; line-height: 1.0; transform: rotate(-1deg)${sk.upper ? '; text-transform: uppercase' : ''}`;
+  const inner = `<div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0">
+    <div style="align-self: flex-start; padding: 16px 30px; background: ${sk.stickerBg}; color: ${sk.stickerFg}; border: 6px solid ${sk.stickerBorder}; box-shadow: 12px 12px 0 ${sk.stickerShadow}; font-size: 40px; font-weight: 900; transform: rotate(-4deg)">${esc(h.sticker)}</div>
+    <div id="box" style="flex: 1; display: flex; align-items: center; min-height: 0"><div id="head" style="${bigStyle}">${esc(h.big)}</div></div>
+    ${h.ko ? `<div style="font-size: 56px; font-weight: 800; line-height: 1.3; color: ${sk.coverKo}">${esc(h.ko)}</div>` : ''}
+  </div>`;
+  return shell(inner, `${cat} · swipe to read on →`, shrinkScript('head', 'box', 130, 48));
+}
+
+// ---------- Title and sentence slides ----------
+
+// Slide 2: the story's own headline, in English and Korean
+function titleSlide(c, logo, total, sk) {
   const fit = `(function(){var box=document.getElementById('main'),en=document.getElementById('en'),ko=document.getElementById('ko'),a=116,b=94;` +
     `while(box.scrollHeight>box.clientHeight&&a>60){a-=2;b-=2;en.style.fontSize=a+'px';ko.style.fontSize=b+'px';}})();`;
-  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: #000; color: #FFE04D; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
-  <div style="display: flex; align-items: center; justify-content: space-between">
-    <div style="display: flex; align-items: center; gap: 20px">
-      ${logoImg(logo, 130)}
-      <span style="font-size: 34px; font-weight: 900; color: #FFFFFF">Maeil News</span>
-    </div>
-    <span style="font-size: 30px; font-weight: 800; color: #FFFFFF">${esc(dateText(c))}</span>
-  </div>
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: ${sk.titleBg}; color: ${sk.titleKo}; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
+  ${topBar(c, logo, sk, 130, 34, 30, sk.titleFg)}
   <div id="main" style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0; overflow: hidden">
-    <div style="align-self: flex-start; padding: 10px 22px; background: #FF5FA2; color: #000; font-size: 30px; font-weight: 900; transform: rotate(2deg)">THE HEADLINE</div>
-    <div id="en" style="font-size: 116px; font-weight: 900; line-height: 1.05; color: #FFFFFF">${esc(c.source_title || c.english_title)}</div>
-    <div id="ko" style="font-size: 94px; font-weight: 900; line-height: 1.2; color: #FFE04D">${esc(c.korean_title)}</div>
+    <div style="align-self: flex-start; padding: 10px 22px; background: ${sk.titleLabelBg}; color: ${sk.titleLabelFg}; font-size: 30px; font-weight: 900; transform: rotate(2deg)">THE HEADLINE</div>
+    <div id="en" style="font-size: 116px; font-weight: 900; line-height: 1.05; color: ${sk.titleFg}">${esc(c.source_title || c.english_title)}</div>
+    <div id="ko" style="font-size: 94px; font-weight: 900; line-height: 1.2; color: ${sk.titleKo}">${esc(c.korean_title)}</div>
   </div>
-  <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: #FFFFFF">
+  <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: ${sk.titleFg}">
     <span>Read it. Then say it out loud.</span>
     <span>2 / ${total}</span>
   </div>
 </div>`, fit);
 }
 
-// Glossary chips. Particles get the yellow box. An odd last chip spans both columns.
-function glossaryChips(words, small) {
-  const pad = small ? '8px 12px' : '10px 14px';
-  const radius = small ? 14 : 16;
-  const korSize = small ? 26 : 28;
-  const romSize = small ? 19 : 20;
-  const html = words.map((w, i) => {
-    const span = words.length % 2 === 1 && i === words.length - 1 ? 'grid-column: span 2; ' : '';
-    const kor = w.particle
-      ? `<span style="background: #FFE04D; color: #000; padding: 0 4px; border-radius: 6px">${esc(w.korean)}</span>`
-      : esc(w.korean);
-    const meaning = [w.roman, w.english].filter(Boolean).map(esc).join(' · ');
-    return `<div style="padding: ${pad}; background: #141413; color: #FFFFFF; border-radius: ${radius}px; ${span}"><div style="font-size: ${korSize}px; font-weight: 900">${kor}</div><div style="font-size: ${romSize}px; color: #D4F36B">${meaning}</div></div>`;
-  }).join('');
-  return { html, gap: small ? 10 : 12 };
-}
-
-// Sentence slides (lime). The story card is 945px tall (70% of the slide).
-// The glossary of every word in the sentence fills the rest, with the header and footer.
-function sentenceSlide(s, words, i, n, total, part, date) {
-  // The label follows the sentence's stage from the generator, so each step has its own name
-  const STAGES = { context: ['🧭', 'THE BACKSTORY'], summary: ['📰', 'WHAT HAPPENED'], outcome: ['💡', 'WHAT IT MEANS'] };
-  const [emoji, label] = STAGES[s.stage] || (i === 0 ? ['🧭', 'THE BACKSTORY'] : i === n - 1 ? ['💡', 'WHAT IT MEANS'] : ['📰', 'WHAT HAPPENED']);
-  const rot = i % 2 === 0 ? -1 : 1;
-  const chips = words.map(w => {
-    // The whole word stays together; its particle or ending is highlighted inside it
+// Glossary chips. The particle or ending is highlighted inside the word.
+function glossaryChips(words, sk) {
+  return words.map(w => {
     const suffix = w.suffix && w.korean.endsWith(w.suffix) ? w.suffix : '';
     const base = suffix ? w.korean.slice(0, -suffix.length) : w.korean;
     const kor = esc(base) + (suffix ? `<span style="background: #FFE04D; color: #000; border-radius: 6px; padding: 0 4px">${esc(suffix)}</span>` : '');
     const meaning = esc(w.english || '');
-    return `<div style="min-width: 0; padding: 6px 12px; background: #141413; color: #FFFFFF; border-radius: 10px; display: flex; align-items: baseline; gap: 10px; white-space: nowrap; overflow: hidden"><span class="kor" style="font-size: 24px; font-weight: 900">${kor}</span><span style="font-size: 17px; font-weight: 700; color: #D4F36B; overflow: hidden; text-overflow: ellipsis">${meaning}</span></div>`;
+    return `<div style="min-width: 0; padding: 6px 12px; background: ${sk.chipBg}; color: ${sk.chipFg}; border-radius: 10px; display: flex; align-items: baseline; gap: 10px; white-space: nowrap; overflow: hidden"><span class="kor" style="font-size: 24px; font-weight: 900">${kor}</span><span style="font-size: 17px; font-weight: 700; color: ${sk.chipMean}; overflow: hidden; text-overflow: ellipsis">${meaning}</span></div>`;
   }).join('');
+}
+
+// Sentence slides. The story card is 945px tall (70% of the slide), tilted as in the Flow artboard.
+// The glossary of the sentence's words fills the rest, with the header and footer.
+function sentenceSlide(s, words, i, n, total, part, date, sk) {
+  const STAGES = { context: ['🧭', 'THE BACKSTORY'], summary: ['📰', 'WHAT HAPPENED'], outcome: ['💡', 'WHAT IT MEANS'] };
+  const [emoji, label] = STAGES[s.stage] || (i === 0 ? ['🧭', 'THE BACKSTORY'] : i === n - 1 ? ['💡', 'WHAT IT MEANS'] : ['📰', 'WHAT HAPPENED']);
   // The sentence text shrinks if it does not fit the card; the glossary is scaled down if it does not fit its space
   const shrink = `(function(){var card=document.getElementById('card'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),a=76,b=66,f=24;` +
     `while(card.scrollHeight>card.clientHeight&&a>30){a-=2;b-=2;en.style.fontSize=a+'px';ko.style.fontSize=b+'px';}` +
     `while(g&&g.scrollHeight>g.clientHeight&&f>12){f-=1;g.querySelectorAll('.kor').forEach(function(e){e.style.fontSize=f+'px';});}})();`;
   const glossary = words.length
-    ? `<div id="gloss" style="flex: 1; min-height: 0; overflow: hidden; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; align-content: start">${chips}</div>`
+    ? `<div id="gloss" style="flex: 1; min-height: 0; overflow: hidden; display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 6px; align-content: start">${glossaryChips(words, sk)}</div>`
     : '<div style="flex: 1"></div>';
-  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 36px 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 16px; font-family: ${FONT}; color: #141413; overflow: hidden">
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 36px 60px; background: ${sk.sentBg}; display: flex; flex-direction: column; gap: 16px; font-family: ${FONT}; color: ${sk.text}; overflow: hidden">
   <div style="flex: none; height: 60px; display: flex; align-items: center; justify-content: space-between">
-    <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #D4F36B; transform: rotate(-3deg)">${emoji} ${label}</span>
+    <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: ${sk.labelBg}; color: ${sk.labelFg}; transform: rotate(-3deg)">${emoji} ${label}</span>
     <span style="font-size: 26px; font-weight: 800">${esc(date || '')}</span>
   </div>
-  <div id="card" style="flex: none; height: 945px; box-sizing: border-box; padding: 44px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 14px 14px 0 #141413; display: flex; flex-direction: column; justify-content: center; gap: 26px; transform: rotate(${rot}deg); overflow: hidden">
-    <div id="en" style="font-size: 76px; font-weight: 900; line-height: 1.2">${esc(s.english)}</div>
-    <div id="ko" style="font-size: 66px; font-weight: 800; line-height: 1.35; color: #3A3A3A">${esc(s.korean)}</div>
+  <div id="card" style="flex: none; height: 945px; box-sizing: border-box; padding: 44px; background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 14px 14px 0 ${sk.cardShadow}; display: flex; flex-direction: column; justify-content: center; gap: 26px; transform: rotate(${sk.cardRot}deg); overflow: hidden">
+    <div id="en" style="font-size: 76px; font-weight: 900; line-height: 1.2; color: ${sk.text}">${esc(s.english)}</div>
+    <div id="ko" style="font-size: 66px; font-weight: 800; line-height: 1.35; color: ${sk.ko}">${esc(s.korean)}</div>
   </div>
   ${glossary}
   <div style="flex: none; height: 40px; display: flex; align-items: center; justify-content: space-between; font-size: 28px; font-weight: 800">
-    <span>Keep swiping 👀 →</span>
+    <span>${FOOTER_SWIPE}</span>
     <span>${part} / ${total}</span>
   </div>
 </div>`, shrink);
 }
 
-// Why it matters: two or three short reasons from the story, English with the Korean line under each.
-// The reasons fill the middle of the slide.
-function whySlide(c, number, total, date) {
-  const items = (c.why_it_matters || []).map((w, i) => `
-    <div style="flex: 1; display: flex; align-items: center; gap: 28px; padding: 36px; background: #FFFFFF; border: 6px solid #141413; box-shadow: 10px 10px 0 #141413">
-      <div style="flex: none; width: 80px; height: 80px; border-radius: 40px; background: #FFE04D; border: 4px solid #141413; font-size: 40px; font-weight: 900; display: flex; align-items: center; justify-content: center">${i + 1}</div>
-      <div style="display: flex; flex-direction: column; gap: 18px">
-        <div style="font-size: 46px; font-weight: 900; line-height: 1.3">${esc(w.english)}</div>
-        <div style="font-size: 36px; font-weight: 700; line-height: 1.4; color: #3A3A3A">${esc(w.korean)}</div>
-      </div>
-    </div>`).join('');
-  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 36px 60px; background: #D4F36B; display: flex; flex-direction: column; gap: 16px; font-family: ${FONT}; color: #141413; overflow: hidden">
+// ---------- Body formats (one slide after the sentences) ----------
+
+// Returns { kind, label, items, question, footer } for the chosen body format, or null when the card has
+// no usable data for it. The data keys match the generator's format_data (generate.mjs, cleanFormatData).
+function bodyItems(c, body) {
+  const d = c.format_data || {};
+  const pick = (list, max) => (Array.isArray(list) ? list : []).filter(x => x && x.english).slice(0, max);
+  const row = (x, head = '') => ({ head: x.label || head, english: x.english, korean: x.korean || '' });
+  switch (body) {
+    case 'two_views': {
+      const v = pick(d.views, 2);
+      if (v.length < 2) return null;
+      return { kind: 'boxes', label: '🔎 TWO VIEWS', items: v.map((x, i) => row(x, i ? 'OTHERS SEE…' : 'SOME SEE…')), footer: 'No verdict from us. ' + FOOTER_SWIPE };
+    }
+    case 'three_points': {
+      const p = pick(d.points, 3);
+      if (p.length < 2) return null;
+      return { kind: 'list', label: '📌 THREE THINGS', items: p.map(x => row(x)) };
+    }
+    case 'timeline': {
+      const s = pick(d.steps, 4);
+      if (s.length < 2) return null;
+      return { kind: 'list', label: '🕒 HOW IT UNFOLDED', items: s.map(x => row(x)) };
+    }
+    case 'before_after': {
+      if (!d.before || !d.before.english || !d.after || !d.after.english) return null;
+      return { kind: 'pair', label: '📰 BEFORE → AFTER', items: [row(d.before, 'BEFORE'), row(d.after, 'AFTER')] };
+    }
+    case 'who_speaks': {
+      const p = pick(d.people, 3);
+      if (p.length < 2) return null;
+      return { kind: 'people', label: '🎙 WHO IS SPEAKING', items: p.map(x => row(x)) };
+    }
+    case 'whats_missing': {
+      const m = pick(d.missing, 3);
+      if (m.length < 1) return null;
+      return { kind: 'boxes', label: '🕳 WHAT IS MISSING', items: m.map(x => row(x)) };
+    }
+    case 'another_view': {
+      if (!d.view || !d.view.english) return null;
+      return { kind: 'boxes', label: '🔁 ANOTHER VIEW', items: [row(d.view, 'ANOTHER VIEW')] };
+    }
+    case 'map_place': {
+      const p = pick(d.places, 4);
+      if (p.length < 1) return null;
+      return { kind: 'map', label: '📍 WHERE IT HAPPENED', items: [row(p[0])] };
+    }
+    case 'poll': {
+      if (!d.poll || !d.poll.question || !Array.isArray(d.poll.options) || d.poll.options.length < 2) return null;
+      return {
+        kind: 'poll',
+        label: '🗳 WHAT DO YOU THINK?',
+        question: /\?$/.test(d.poll.question) ? d.poll.question : d.poll.question + '?',
+        items: d.poll.options.slice(0, 2).map((x, i) => ({ mark: ['A', 'B'][i], english: x.english, korean: x.korean || '' }))
+      };
+    }
+    default:
+      return null;
+  }
+}
+
+// Body slide header and footer, the same as the sentence slides (date top right, numbers bottom right)
+function bodyShell(label, inner, sk, date, number, total, footer, labelBg, labelFg) {
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 36px 60px; background: ${sk.sentBg}; display: flex; flex-direction: column; gap: 16px; font-family: ${FONT}; color: ${sk.text}; overflow: hidden">
   <div style="flex: none; height: 60px; display: flex; align-items: center; justify-content: space-between">
-    <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: #141413; color: #D4F36B; transform: rotate(-3deg)">💡 WHY IT MATTERS</span>
+    <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: ${labelBg || sk.labelBg}; color: ${labelFg || sk.labelFg}; transform: rotate(-3deg)">${esc(label)}</span>
     <span style="font-size: 26px; font-weight: 800">${esc(date || '')}</span>
   </div>
-  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 36px; min-height: 0">${items}</div>
+  <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 30px; min-height: 0">${inner}</div>
   <div style="flex: none; height: 40px; display: flex; align-items: center; justify-content: space-between; font-size: 28px; font-weight: 800">
-    <span>Keep swiping 👀 →</span>
+    <span>${footer || FOOTER_SWIPE}</span>
     <span>${number} / ${total}</span>
   </div>
 </div>`);
 }
 
-// Last slide: credit (black)
-function creditSlide(c, region, source, logo, photo, total, date) {
-  const footer = region === 'korean' ? 'Follow for more Korean news' : 'Follow for more news';
-  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: #141413; color: #FFFFFF; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
+// One white box (the Flow card style) with an optional label line, English and Korean
+function box(sk, head, en, ko, pad = 40) {
+  return `<div style="background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 10px 10px 0 ${sk.cardShadow}; padding: ${pad}px; display: flex; flex-direction: column; gap: 14px">
+    ${head ? `<div style="font-size: 30px; font-weight: 900; color: ${sk.ko}">${esc(head)}</div>` : ''}
+    <div style="font-size: 46px; font-weight: 800; line-height: 1.3; color: ${sk.text}">${esc(en)}</div>
+    ${ko ? `<div style="font-size: 34px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">${esc(ko)}</div>` : ''}
+  </div>`;
+}
+
+// One body slide for the chosen body format, after the sentence slides
+function bodySlide(c, number, total, date, sk) {
+  const b = bodyItems(c, c.body_format);
+  if (!b) return null;
+  const date0 = date;
+
+  if (b.kind === 'list') {
+    const rows = b.items.map((it, i) => `
+      <div style="display: flex; gap: 24px; align-items: center; background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 10px 10px 0 ${sk.cardShadow}; padding: 28px">
+        <div style="flex: none; width: 80px; height: 80px; border-radius: 40px; background: ${sk.stickerBg}; color: ${sk.stickerFg}; border: 4px solid ${sk.cardBorder}; font-size: 40px; font-weight: 900; display: flex; align-items: center; justify-content: center">${i + 1}</div>
+        <div style="display: flex; flex-direction: column; gap: 10px; min-width: 0">
+          <div style="font-size: 40px; font-weight: 800; line-height: 1.3; color: ${sk.text}">${esc(it.english)}</div>
+          ${it.korean ? `<div style="font-size: 30px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">${esc(it.korean)}</div>` : ''}
+        </div>
+      </div>`).join('');
+    return bodyShell(b.label, `<div style="display: flex; flex-direction: column; gap: 24px">${rows}</div>`, sk, date0, number, total, b.footer);
+  }
+
+  if (b.kind === 'pair') {
+    const [before, after] = b.items;
+    const inner = `
+      <div style="background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 10px 10px 0 ${sk.cardShadow}; padding: 40px">
+        <div style="font-size: 26px; font-weight: 900; color: ${sk.ko}">BEFORE</div>
+        <div style="font-size: 52px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(before.english)}</div>
+        ${before.korean ? `<div style="font-size: 36px; font-weight: 700; color: ${sk.ko}">${esc(before.korean)}</div>` : ''}
+      </div>
+      <div style="text-align: center; font-size: 80px; font-weight: 900; color: ${sk.text}">↓</div>
+      <div style="background: ${sk.labelBg}; color: ${sk.labelFg}; border: 6px solid ${sk.labelBg}; box-shadow: 10px 10px 0 ${sk.stickerBg}; padding: 40px">
+        <div style="font-size: 26px; font-weight: 900; color: ${sk.creditEyebrow}">AFTER</div>
+        <div style="font-size: 52px; font-weight: 900; line-height: 1.25">${esc(after.english)}</div>
+        ${after.korean ? `<div style="font-size: 36px; font-weight: 700; color: ${sk.labelFg}">${esc(after.korean)}</div>` : ''}
+      </div>`;
+    return bodyShell(b.label, inner, sk, date0, number, total, b.footer);
+  }
+
+  if (b.kind === 'boxes') {
+    const inner = b.items.map(it => box(sk, it.head, it.english, it.korean)).join('');
+    return bodyShell(b.label, inner, sk, date0, number, total, b.footer);
+  }
+
+  if (b.kind === 'people') {
+    const inner = b.items.map(p => {
+      const initials = String(p.head || '').split(/\s+/).filter(Boolean).map(w => w[0]).join('').slice(0, 2).toUpperCase() || '?';
+      return `<div style="flex: 1; display: flex; align-items: center; gap: 30px; background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 10px 10px 0 ${sk.cardShadow}; padding: 36px">
+        <div style="flex: none; width: 140px; height: 140px; border-radius: 70px; background: ${sk.stickerBg}; color: ${sk.stickerFg}; border: 6px solid ${sk.cardBorder}; display: flex; align-items: center; justify-content: center; font-size: 52px; font-weight: 900">${esc(initials)}</div>
+        <div style="display: flex; flex-direction: column; gap: 12px; min-width: 0">
+          <div style="font-size: 28px; font-weight: 900; letter-spacing: 1px; color: ${sk.ko}">${esc(String(p.head || '').toUpperCase())}</div>
+          <div style="font-size: 42px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(p.english)}</div>
+          ${p.korean ? `<div style="font-size: 30px; font-weight: 700; line-height: 1.35; color: ${sk.ko}">${esc(p.korean)}</div>` : ''}
+        </div>
+      </div>`;
+    }).join('');
+    return bodyShell(b.label, inner, sk, date0, number, total, b.footer);
+  }
+
+  if (b.kind === 'map') {
+    const p = b.items[0];
+    const inner = `<div style="background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 14px 14px 0 ${sk.cardShadow}; padding: 40px; display: flex; flex-direction: column; gap: 30px">
+        <div style="height: 460px; background: #E9F3D0; border: 4px solid ${sk.cardBorder}; position: relative; overflow: hidden">
+          <div style="position: absolute; left: 46%; top: 42%; width: 48px; height: 48px; border-radius: 24px; background: #FF7A59; border: 6px solid ${sk.cardBorder}"></div>
+          <div style="position: absolute; left: 24px; bottom: 16px; font-size: 26px; font-weight: 800; color: #141413">${esc(p.head)}</div>
+        </div>
+        <div style="font-size: 46px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(p.english)}</div>
+        ${p.korean ? `<div style="font-size: 36px; font-weight: 800; line-height: 1.35; color: ${sk.ko}">${esc(p.korean)}</div>` : ''}
+      </div>`;
+    return bodyShell(b.label, inner, sk, date0, number, total, b.footer);
+  }
+
+  // poll
+  const options = b.items.map(o => `
+      <div style="background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 10px 10px 0 ${sk.cardShadow}; padding: 36px; display: flex; flex-direction: column; gap: 10px">
+        <div style="font-size: 44px; font-weight: 800; line-height: 1.3; color: ${sk.text}">${esc(o.mark)}. ${esc(o.english)}</div>
+        ${o.korean ? `<div style="font-size: 34px; font-weight: 700; color: ${sk.ko}">${esc(o.korean)}</div>` : ''}
+      </div>`).join('');
+  const inner = `<div style="font-size: 60px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(b.question)}</div>${options}
+      <div style="font-size: 34px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">Tell a friend which one you picked. Answers are shared in the next post.</div>`;
+  return bodyShell(b.label, inner, sk, date0, number, total, b.footer);
+}
+
+// Why it matters: up to three short reasons from the story, English with the Korean line under each
+function whySlide(c, number, total, date, sk) {
+  const items = (c.why_it_matters || []).map((w, i) => `
+    <div style="flex: 1; display: flex; align-items: center; gap: 28px; padding: 36px; background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 10px 10px 0 ${sk.cardShadow}">
+      <div style="flex: none; width: 80px; height: 80px; border-radius: 40px; background: ${sk.stickerBg}; color: ${sk.stickerFg}; border: 4px solid ${sk.cardBorder}; font-size: 40px; font-weight: 900; display: flex; align-items: center; justify-content: center">${i + 1}</div>
+      <div style="display: flex; flex-direction: column; gap: 18px">
+        <div style="font-size: 46px; font-weight: 900; line-height: 1.3; color: ${sk.text}">${esc(w.english)}</div>
+        <div style="font-size: 36px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">${esc(w.korean)}</div>
+      </div>
+    </div>`).join('');
+  return bodyShell('💡 WHY IT MATTERS', `${items}`, sk, date, number, total);
+}
+
+// Last slide: credit and author. No source lines here: sources are in the post caption.
+function creditSlide(c, region, logo, photo, total, date, sk) {
+  return wrap(`<div class="slide" style="width: 1080px; height: 1350px; box-sizing: border-box; padding: 70px 80px; background: ${sk.creditBg}; color: ${sk.creditFg}; display: flex; flex-direction: column; font-family: ${FONT}; overflow: hidden">
   <div style="display: flex; align-items: center; justify-content: space-between">
     <div style="display: flex; align-items: center; gap: 20px">
       ${logoImg(logo, 130)}
@@ -220,11 +502,9 @@ function creditSlide(c, region, source, logo, photo, total, date) {
     <span style="font-size: 30px; font-weight: 800">${esc(date)}</span>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 48px; min-height: 0">
-    <div style="font-size: 32px; font-weight: 800; letter-spacing: 2px; color: #D4F36B">SOURCE, CREDIT AND AUTHOR</div>
-    <div style="font-size: 72px; font-weight: 800; line-height: 1.2">Original news: ${esc(source)}.</div>
-    <div style="font-size: 44px; line-height: 1.5">Read the original at ${esc(hostOf(c.url))}. This slide set summarises and translates the story. It does not reproduce the article.</div>
-    <div style="display: flex; align-items: center; gap: 32px; padding: 36px; background: #D4F36B; color: #141413; border-radius: 28px">
-      ${photoImg(photo)}
+    <div style="font-size: 32px; font-weight: 800; letter-spacing: 2px; color: ${sk.creditEyebrow}">WRITTEN AND PUBLISHED BY</div>
+    <div style="display: flex; align-items: center; gap: 32px; padding: 36px; background: ${sk.creditBox}; color: ${sk.creditBoxFg}; border-radius: 28px">
+      ${photoImg(photo, sk.photoBorder)}
       <div style="display: flex; flex-direction: column; gap: 10px">
         <div style="font-size: 34px; font-weight: 800">Written and published by</div>
         <div style="font-size: 50px; font-weight: 900">Deevena Angel Thirupathi</div>
@@ -233,37 +513,24 @@ function creditSlide(c, region, source, logo, photo, total, date) {
     </div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 28px; font-weight: 700">
-    <span>${footer}</span>
+    <span>Follow for more news</span>
     <span>${total} / ${total}</span>
   </div>
 </div>`);
 }
 
-// Words that are plain numbers are not shown on slides
-function slideWords(sentence) {
-  return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
-    .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()))
-    .filter((w, i, all) => all.findIndex(x => x.korean === w.korean) === i) // each word once per slide
-    .slice(0, CHIPS_PER_SLIDE);
-}
+// ---------- Plan and build ----------
 
-// Every slide of the card, in order. A sentence with more than 8 words is split over
-// several slides, so nothing is cut off at the bottom.
+// Every slide of the card, in order. Sentences are one slide each, with the glossary on the same slide.
 export function planSlides(card) {
   const sentences = Array.isArray(card.sentences) ? card.sentences : [];
   const plan = [{ kind: 'cover' }, { kind: 'title' }];
-  // One slide per sentence. The glossary (at most 8 words) fits on that same slide, so nothing repeats.
   sentences.forEach((s, i) => {
-    plan.push({
-      kind: 'sentence',
-      sentence: s,
-      words: slideWords(s),
-      index: i,
-      count: sentences.length,
-      part: 1
-    });
+    plan.push({ kind: 'sentence', sentence: s, words: slideWords(s), index: i, count: sentences.length });
   });
-  // Why it matters, only when the story has reasons (no empty slide)
+  // One body slide, only for a body format with usable data (otherwise the sentences alone)
+  if (card.body_format && card.body_format !== 'sentences' && bodyItems(card, card.body_format)) plan.push({ kind: 'body' });
+  // Why it matters, only when the story has reasons
   if (Array.isArray(card.why_it_matters) && card.why_it_matters.length > 0) plan.push({ kind: 'why' });
   // The credit slide comes once, at the end
   plan.push({ kind: 'credit' });
@@ -274,13 +541,15 @@ export function planSlides(card) {
 export function buildSlides(card, region, source, assets) {
   const plan = planSlides(card);
   const total = plan.length;
+  const sk = skinFor(card.category);
   return plan.map((p, n) => {
     const number = n + 1;
-    if (p.kind === 'cover') return coverSlide(card, assets.logo, total);
-    if (p.kind === 'title') return titleSlide(card, assets.logo, total);
-    if (p.kind === 'why') return whySlide(card, number, total, dateText(card));
-    if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number, dateText(card));
-    return creditSlide(card, region, source, assets.logo, assets.photo, total, dateText(card));
+    if (p.kind === 'cover') return coverSlide(card, assets.logo, total, sk);
+    if (p.kind === 'title') return titleSlide(card, assets.logo, total, sk);
+    if (p.kind === 'body') return bodySlide(card, number, total, dateText(card), sk);
+    if (p.kind === 'why') return whySlide(card, number, total, dateText(card), sk);
+    if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number, dateText(card), sk);
+    return creditSlide(card, region, assets.logo, assets.photo, total, dateText(card), sk);
   });
 }
 

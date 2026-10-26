@@ -1,11 +1,13 @@
 // Maeil News daily generator.
-// Reads the news feeds for one region (REGION env var), asks the AI for one Korean card per article,
-// and writes docs/<region file>.json. GitHub Pages publishes those files for the widget.
+// Reads the news feeds for one region (REGION env var), takes the newest headlines, and asks the AI
+// once per batch of articles. The AI searches the web for recent updates on each story, then writes
+// the card: hook, sentences, body format, caption and sources. Writes docs/<region file>.json.
+// GitHub Pages publishes those files for the widget.
 
 import { readFile, writeFile, mkdir } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { addImages } from './make-images.mjs';
+import { addImages, imageFolderId } from './make-images.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
@@ -14,6 +16,29 @@ const BATCH_SIZE = 6; // cards per AI call, so each reply stays a manageable siz
 const MAX_SENTENCES = 9; // sentences per article (a long sentence can be split into two)
 const MAX_BODY = 6000; // characters of article text sent to the AI
 const MAX_GLOSSARY = 500; // no limit: the widget pages through every word
+const MAX_EXTRA_SOURCES = 3; // sources the AI found, in addition to the feed article
+
+// ---------- Format plan (the same table as the Plan-Formats artboard) ----------
+// Hooks: question-reveal, question-clues, question-chat, question-myth, number, vocab, headline
+// Bodies: sentences (always allowed), two_views, three_points, timeline, before_after,
+//         who_speaks, whats_missing, another_view, map_place, poll
+// A card may only use the formats listed for its category. Anything else falls back to the plain layout.
+const PLAN = {
+  'Politics & Society': { hooks: ['headline', 'question-reveal', 'number'], bodies: ['two_views', 'who_speaks', 'timeline', 'three_points'] },
+  'Business': { hooks: ['number', 'question-clues', 'headline'], bodies: ['before_after', 'whats_missing', 'three_points', 'timeline'] },
+  'Culture': { hooks: ['question-myth', 'vocab', 'headline'], bodies: ['who_speaks', 'another_view', 'map_place'] },
+  'Sports': { hooks: ['number', 'question-clues', 'headline'], bodies: ['before_after', 'three_points', 'poll'] },
+  'K-pop': { hooks: ['question-chat', 'question-myth', 'vocab'], bodies: ['who_speaks', 'another_view', 'poll'] },
+  'World': { hooks: ['headline', 'question-reveal', 'number'], bodies: ['who_speaks', 'timeline', 'map_place', 'two_views'] }
+};
+// Serious stories (crime, deaths, disasters, abuse, illness, war): headline hook only, and only these bodies
+const SERIOUS_HOOKS = ['headline'];
+const SERIOUS_BODIES = ['timeline', 'two_views'];
+const HOOK_FORMATS = ['question-reveal', 'question-clues', 'question-chat', 'question-myth', 'number', 'vocab', 'headline'];
+const BODY_FORMATS = ['sentences', 'two_views', 'three_points', 'timeline', 'before_after', 'who_speaks', 'whats_missing', 'another_view', 'map_place', 'poll'];
+
+const CATEGORY_TAG = { 'Politics & Society': 'PoliticsAndSociety', Business: 'Business', Culture: 'Culture', Sports: 'Sports', 'K-pop': 'KPop', World: 'World' };
+const NEWS_TAG = { korean: 'KoreanNews', indian: 'IndianNews', global: 'WorldNews' };
 
 // Three news regions. Each writes its own file, so the widget can switch between them.
 // Korean: Korea Herald (the file the widget already reads stays docs/cards.json)
@@ -61,6 +86,8 @@ const FEEDS = REGIONS[REGION].feeds;
 const OUT_FILE = path.join(ROOT, 'docs', REGIONS[REGION].outFile);
 
 const config = JSON.parse(await readFile(path.join(ROOT, 'config.json'), 'utf8'));
+// Web search is on unless config.json sets "web_search": false
+const WEB_SEARCH = config.web_search !== false;
 
 async function main() {
   const today = seoulDate();
@@ -81,12 +108,15 @@ async function main() {
     return;
   }
 
-  // Cards already made (same article link, with Korean text) are kept.
+  // Cards already made (same article link, with Korean text and the current format fields) are kept.
   // Only articles we have not seen before go to the AI.
   const cached = new Map();
   if (previous && Array.isArray(previous.cards)) {
     for (const c of previous.cards) {
-      if (c.url && c.korean_desc && Array.isArray(c.sentences) && c.sentences.length > 0) cached.set(c.url, c);
+      if (c.url && c.korean_desc && Array.isArray(c.sentences) && c.sentences.length > 0 &&
+          c.hook_format && Array.isArray(c.caption_lines)) {
+        cached.set(c.url, c);
+      }
     }
   }
   const fresh = articles.filter(a => !cached.has(a.link));
@@ -132,6 +162,8 @@ async function main() {
             if (!seen.has(g.korean) && glossary.length < MAX_GLOSSARY) { seen.add(g.korean); glossary.push(g); }
           }
         }
+        const picked = resolveFormats(items[i], a.category, sentences);
+        if (picked.note) console.log(`"${a.title}": plain layout (${picked.note})`);
         return {
           category: a.category,
           korean_title: items[i].korean_title,
@@ -145,6 +177,16 @@ async function main() {
           takeaway_korean: items[i].takeaway_korean || '',
           why_it_matters: dropRestated(normalizeWhy(items[i].why_it_matters), sentences),
           source_title: a.title,
+          hook_format: picked.hook_format,
+          body_format: picked.body_format,
+          question: picked.question,
+          korean_question: picked.korean_question,
+          format_data: picked.format_data,
+          serious: items[i].serious === true,
+          caption_lines: cleanList(items[i].caption_lines, 3),
+          reader_question: str(items[i].reader_question),
+          topic_tag: str(items[i].topic_tag).replace(/[^A-Za-z0-9]/g, ''),
+          sources: buildSources(a, items[i]),
           glossary,
           sentences,
           url: a.link
@@ -163,9 +205,10 @@ async function main() {
   const byUrl = new Map(newCards.map(c => [c.url, c]));
   const cards = articles.map(a => cached.get(a.link) || byUrl.get(a.link)).filter(Boolean);
 
-  // Slide images for the Save images button (only cards that do not have them yet)
+  // Slide images for the Save images button (only cards that do not have them yet), then the caption files
   for (const c of cards) { fixGlossary(c); addShortText(c); c.date = today; }
   await addImages(cards, REGION, ROOT, REGIONS[REGION].source);
+  await writeCaptions(cards, REGION, today);
 
   await saveUsage(usage);
   await writeCards(today, status, cards, note);
@@ -182,12 +225,12 @@ async function collectArticles() {
   for (const feed of FEEDS) {
     try {
       const xml = await loadFeed(feed);
-      // Newest first, so the four cards are the latest stories in each section
+      // Newest first, so the cards are the latest stories in each section
       const items = parseItems(xml)
         .filter(i => i.title && i.link)
         .sort((a, b) => (Date.parse(b.pubDate) || 0) - (Date.parse(a.pubDate) || 0))
         .slice(0, Math.floor(PER_REGION / FEEDS.length));
-      items.forEach(i => out.push({ category: feed.category, title: i.title, link: i.link, description: i.description }));
+      items.forEach(i => out.push({ category: feed.category, title: i.title, link: i.link, description: i.description, date: isoDate(i.pubDate) }));
       console.log(`${feed.category}: ${items.length} articles`);
       if (items.length === 0) feedErrors.push(`${feed.category}: no items in feed`);
     } catch (err) {
@@ -260,14 +303,17 @@ async function translateAll(articles) {
   // on its own is left out (null), so it gets an English-only card and is tried again tomorrow.
   const items = new Array(articles.length).fill(null);
   let costUsd = 0;
-  const ask = async (batch, notes = {}) => {
-    const prompt = buildPrompt(batch, notes);
+  const ask = async (batch) => {
+    const prompt = buildPrompt(batch);
     let reply;
     if (provider === 'claude') reply = await callClaude(key, prompt);
     else if (provider === 'gemini') reply = await callGemini(key, prompt);
     else reply = await callOpenAI(key, prompt);
     costUsd += (reply.inputTokens * p.input + reply.outputTokens * p.output) / 1_000_000;
-    return parseCardsJson(reply.text, batch.length);
+    const made = parseCardsJson(reply.text, batch.length);
+    // Web addresses the search really returned. A source the AI names must be one of these.
+    for (const item of made) item.found_urls = reply.found;
+    return made;
   };
   for (let i = 0; i < articles.length; i += BATCH_SIZE) {
     const batch = articles.slice(i, i + BATCH_SIZE);
@@ -279,7 +325,7 @@ async function translateAll(articles) {
       for (let j = 0; j < batch.length; j++) {
         try {
           const [one] = await ask([batch[j]]);
-          items[i + j] = one;
+          items[i + j] = tidyCard(one, batch[j].title);
         } catch (err2) {
           console.log(`Article left for tomorrow: ${batch[j].title} (${err2.message.slice(0, 200)})`);
         }
@@ -289,30 +335,67 @@ async function translateAll(articles) {
   return { items, costUsd };
 }
 
-function buildPrompt(batch, notes = {}) {
+function buildPrompt(batch) {
   const list = batch
-    .map((a, i) => `${i + 1}. [${a.category}] ${a.title}${notes[i] ? `\n   FIX THIS: ${notes[i]}` : ''}\n   ARTICLE TEXT:\n${a.body.slice(0, MAX_BODY)}`)
+    .map((a, i) => {
+      const plan = PLAN[a.category] || { hooks: [], bodies: [] };
+      return `${i + 1}. [${a.category}] ${a.title} (published ${a.date || 'unknown'})
+   Allowed hook_format: ${plan.hooks.join(', ')}
+   Allowed body_format: sentences, ${plan.bodies.join(', ')}
+   ARTICLE TEXT:
+${a.body.slice(0, MAX_BODY)}`;
+    })
     .join('\n\n');
+  const searchLine = WEB_SEARCH
+    ? 'For each article, use the web search tool to find the latest updates on the same story from news outlets: newer details, the outcome, or what happens next. Write from the article text plus those updates, and name the date of each update where it matters.'
+    : 'Use only the article text. Do not search.';
   return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
+${searchLine}
+
 Write everything in your own words. Do not copy sentences from the article.
-Keep every fact exactly as the article states it. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Never add a fact, number, name or quote that is not in the article. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
+Keep every fact exactly as the article and the updates state it. Use only facts from the article text and the search results. If sources disagree, say so. If the evidence is thin, say so. Never add a fact, number, name or quote that is not in them. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
+
+Write with a critical eye, not as a summary: say what the story leaves out, whose voice is heard and whose is not, and where the evidence is disputed. On a disputed or political question, give the strongest case on each side and never a verdict. Critical framing never targets victims of crime, disaster, abuse or illness.
 
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
 - "english_title": a clear, short English headline
 - "hook": the headline hook. Plain words, under 10 words, that states the key point of the story clearly, in the form "Korea aimed for 21 golds. It won 29." Accurate, and it must not add any fact. Use a contrast only when the facts support it and the story is not serious.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
+- "serious": true for crime, violence, war, deaths, disasters, abuse, accidents or illness; otherwise false. For a serious story, hook_format must be "headline" and body_format must be "sentences", "timeline" or "two_views".
+- "hook_format": one of the Allowed hook_format values for that article:
+  question-reveal = a question the reader should be wondering, which the sentences then answer;
+  question-clues = a question answered by three clues from the story;
+  question-chat = a casual question that starts a conversation;
+  question-myth = a common belief, asked as "Is it true that...?", then answered;
+  number = the story's key number;
+  vocab = opens with the key Korean word of the story;
+  headline = the story's own headline.
+- "question" and "korean_question": the question for a question-* hook, under 15 words; otherwise "".
+- "body_format": one of the Allowed body_format values for that article. "sentences" means sentence cards only.
+- "format_data": an object with ONLY the keys for the chosen hook_format and body_format, in these shapes (leave the others out):
+  "number": {"value": "the number exactly as in the story", "label": "what it counts, English, under 8 words", "korean_label": "the same in Korean"}
+  "views": [2 objects {"label": "who holds this view", "english": "...", "korean": "..."}]  for two_views
+  "points": [3 objects {"english": "...", "korean": "..."}]  for three_points
+  "steps": [2 to 4 objects {"english": "...", "korean": "..."}, in date order]  for timeline
+  "before": {"english": "how things were", "korean": "..."} and "after": {"english": "what changed", "korean": "..."}  for before_after
+  "people": [2 or 3 objects {"label": "who", "english": "what they said or did", "korean": "..."}]  for who_speaks
+  "missing": [2 or 3 objects {"english": "what the coverage left out, or whose voice is missing", "korean": "..."}]  for whats_missing
+  "view": {"label": "a reasonable position the story does not give", "english": "...", "korean": "..."}  for another_view
+  "places": [2 to 4 objects {"label": "place name", "english": "...", "korean": "..."}]  for map_place
+  "poll": {"question": "a question for readers", "question_korean": "...", "options": [2 objects {"english": "...", "korean": "..."}]}  for poll
+- "why_it_matters": 2 or 3 objects, each {"english": "one short reason, under 20 words, why this story matters to everyday readers, using only facts from the article or the updates", "korean": "the same reason in simple, natural Korean"}. The reasons explain the effect on people. They must not restate a sentence of the story.
 - "takeaway": one new English sentence, under 20 words, that says why the story matters or what comes next. It must not repeat the hook or the summary.
 - "takeaway_korean": the takeaway in simple, natural Korean
-- "why_it_matters": 2 or 3 objects, each {"english": "one short reason, under 20 words, why this story matters to everyday readers, using only facts from the article", "korean": "the same reason in simple, natural Korean"}
 - "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
-- "sentences": 6 or 7 objects in reading order.
-- Story order: if the story has a cause (an attack, a decision, a discovery), state it in the first two sentences, then what happened because of it, then the result and what comes next. Never leave the cause for later.
-- No repetition: each sentence must give a fact that the hook and the other sentences do not give. Do not repeat a name, number or phrase that is already in the hook or in another sentence, unless it is needed to make sense. Short, specific sentences beat long, repeated ones.
-- The "why it matters" reasons must explain the effect on people, not restate a sentence from the story. Start with context, then summary, then outcome. Together the sentences must tell one complete story in order: first who or what it is about and when and where it happened, then what happened, then the result or what comes next. Plan the story before you write: first the context (who, what, when and where), then the events in the order they happened, then the result or what it means. Write the sentences in that order. Do not put a general trend or comment between the events of the story. Each sentence after the first must follow on from the previous one. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary. From the second sentence on, the English should link to the one before it, using a plain link such as "Then", "As a result" or "Since then" where it fits. Each sentence must add new information: never repeat a fact or phrase that another sentence or the hook already says, and do not copy the hook into any sentence. Keep each English sentence under 25 words, except the "summary" sentence. The "summary" sentence is the card's short description: make it 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result, so a reader understands the news from that one sentence alone. Each object has:
-  - "stage": "context" (what the story is about), "summary" (what happened) or "outcome" (the result or why it matters)
-  - "english": one clear English sentence, under 25 words
-  - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개.
+- "caption_lines": 1 to 3 short English lines of extra context that the slides do not show: a date, a name, a term the story assumes you know, or what to watch next. They never repeat the hook or the sentences.
+- "reader_question": one question for the reader, different from the hook question.
+- "topic_tag": one word naming the topic, letters only (for example Election).
+- "sources": up to ${MAX_EXTRA_SOURCES} objects {"outlet": "...", "title": "...", "date": "YYYY-MM-DD", "url": "..."} for the pages you used from your search. Only URLs your web search returned.
+- "sentences": 6 or 7 objects, in reading order, that together tell ONE story. Read them in order and they must be one coherent account: each sentence follows on from the one before it, uses a plain link such as "Then", "As a result" or "Since then" where it fits, and no sentence repeats a fact, number or phrase that the hook or another sentence already gives. Plan the story before you write it: first the context (who, what, when and where), then the events in the order they happened, then the result or what it means. A cause is stated before its effect. Short, specific sentences beat long, repeated ones. Each object has:
+  - "stage": "context" (what the story is about, the first sentence), "summary" (what happened, the middle sentences) or "outcome" (the result or why it matters, the last sentence)
+  - "english": one clear English sentence, under 25 words. The "summary" sentence is the card's short description: 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result.
+  - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary.
   - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, REQUIRED for every item, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false, "suffix": "the particle or ending at the very end of the word (such as 의, 에는, 이다), or empty if none"}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
 Do not write anything outside the JSON.
 
@@ -320,6 +403,7 @@ Articles:
 ${list}`;
 }
 
+// Parses the JSON array from the AI reply. Throws when the reply is not usable (the batch is then retried one article at a time).
 function parseCardsJson(text, expected) {
   const start = text.indexOf('[');
   const end = text.lastIndexOf(']');
@@ -338,6 +422,148 @@ function parseCardsJson(text, expected) {
     if (good.length === 0) throw new Error('AI card has no usable sentences');
   }
   return items;
+}
+
+// ---------- Format choice: check the AI's pick against the plan table ----------
+
+// Returns the hook and body that the card will use, with their data.
+// Not allowed by the plan (or a serious story with a non-serious format): plain layout (headline + sentence cards).
+// Allowed but missing its data: that one part falls back to the plain choice, the other part is kept.
+function resolveFormats(item, category, sentences) {
+  const plan = PLAN[category] || { hooks: [], bodies: [] };
+  const serious = item.serious === true;
+  const hookAllowed = serious ? SERIOUS_HOOKS : plan.hooks;
+  const bodyAllowed = serious ? plan.bodies.filter(b => SERIOUS_BODIES.includes(b)) : plan.bodies;
+  const plain = (note) => ({ hook_format: 'headline', body_format: 'sentences', format_data: {}, question: '', korean_question: '', note });
+
+  if (!HOOK_FORMATS.includes(item.hook_format) || !hookAllowed.includes(item.hook_format)) {
+    return plain(`hook "${item.hook_format}" not allowed for ${category}${serious ? ' (serious story)' : ''}`);
+  }
+  if (!BODY_FORMATS.includes(item.body_format) || (item.body_format !== 'sentences' && !bodyAllowed.includes(item.body_format))) {
+    return plain(`body "${item.body_format}" not allowed for ${category}${serious ? ' (serious story)' : ''}`);
+  }
+
+  const data = cleanFormatData(item.format_data);
+  const question = str(item.question);
+  const korean_question = str(item.korean_question);
+  let hook = item.hook_format;
+  let body = item.body_format;
+  const notes = [];
+  if (hook === 'number' && !data.number) { hook = 'headline'; notes.push('number missing'); }
+  if (hook.startsWith('question-') && !question) { hook = 'headline'; notes.push('question missing'); }
+  if (hook === 'vocab' && !sentences.some(s => s.glossary.length > 0)) { hook = 'headline'; notes.push('no vocabulary'); }
+  if (body !== 'sentences' && !bodyDataOk(body, data)) { notes.push(`${body} data missing, sentence cards used`); body = 'sentences'; }
+
+  // Story coherence: a body or hook built on a story too short to read is not used
+  if (sentences.length < 3) return plain('fewer than 3 coherent sentences');
+
+  return {
+    hook_format: hook,
+    body_format: body,
+    format_data: data,
+    question: hook.startsWith('question-') ? question : '',
+    korean_question: hook.startsWith('question-') ? korean_question : '',
+    note: notes.join(', ')
+  };
+}
+
+function hookDataOk(hook, data) {
+  return hook === 'headline' || hook === 'vocab' || (hook === 'number' && !!data.number);
+}
+
+function bodyDataOk(body, d) {
+  switch (body) {
+    case 'two_views': return (d.views || []).length >= 2;
+    case 'three_points': return (d.points || []).length >= 2;
+    case 'timeline': return (d.steps || []).length >= 2;
+    case 'before_after': return !!(d.before && d.after);
+    case 'who_speaks': return (d.people || []).length >= 2;
+    case 'whats_missing': return (d.missing || []).length >= 1;
+    case 'another_view': return !!d.view;
+    case 'map_place': return (d.places || []).length >= 2;
+    case 'poll': return !!d.poll;
+    default: return body === 'sentences';
+  }
+}
+
+// Keeps only well-formed body data, with the same keys the slide images use
+function cleanFormatData(raw) {
+  const d = raw && typeof raw === 'object' ? raw : {};
+  const list = (x, max) => (Array.isArray(x) ? x : [])
+    .map(i => ({ label: str(i?.label), english: str(i?.english), korean: str(i?.korean) }))
+    .filter(i => i.english)
+    .slice(0, max);
+  const one = x => list([x], 1)[0] || null;
+  const out = {};
+  if (d.number && str(d.number.value)) {
+    out.number = { value: str(d.number.value), label: str(d.number.label), korean_label: str(d.number.korean_label) };
+  }
+  const keys = { views: 2, points: 3, steps: 4, people: 3, missing: 3, places: 4 };
+  for (const [key, max] of Object.entries(keys)) {
+    const items = list(d[key], max);
+    if (items.length) out[key] = items;
+  }
+  if (one(d.before)) out.before = one(d.before);
+  if (one(d.after)) out.after = one(d.after);
+  if (one(d.view)) out.view = one(d.view);
+  if (d.poll && str(d.poll.question)) {
+    const options = list(d.poll.options, 2);
+    if (options.length === 2) out.poll = { question: str(d.poll.question), question_korean: str(d.poll.question_korean), options };
+  }
+  return out;
+}
+
+// Sources: the feed article first, then the AI's sources that the web search really returned
+function buildSources(a, item) {
+  const seen = new Set([normalizeUrl(a.link)]);
+  const list = [{ outlet: REGIONS[REGION].source, title: a.title, date: a.date || '', url: a.link }];
+  const found = new Set(Array.isArray(item.found_urls) ? item.found_urls : []);
+  for (const s of Array.isArray(item.sources) ? item.sources : []) {
+    const url = normalizeUrl(str(s && s.url));
+    if (!/^https?:\/\//.test(url) || seen.has(url) || !found.has(url)) continue;
+    seen.add(url);
+    list.push({ outlet: str(s.outlet) || hostOf(url), title: str(s.title), date: str(s.date), url });
+    if (list.length > MAX_EXTRA_SOURCES) break;
+  }
+  return list;
+}
+
+function normalizeUrl(u) {
+  return String(u || '').trim().replace(/[.,;)\]]+$/, '').replace(/\/$/, '');
+}
+
+// Every web address in a provider's response, from search results and citations (not from the text the AI wrote)
+function searchUrls(node, out = new Set()) {
+  if (Array.isArray(node)) {
+    node.forEach(n => searchUrls(n, out));
+  } else if (node && typeof node === 'object') {
+    for (const [k, v] of Object.entries(node)) {
+      if ((k === 'url' || k === 'uri') && typeof v === 'string' && /^https?:\/\//.test(v)) out.add(normalizeUrl(v));
+      else searchUrls(v, out);
+    }
+  }
+  return out;
+}
+
+function hostOf(url) {
+  try {
+    return new URL(url).hostname.replace(/^www\./, '');
+  } catch {
+    return '';
+  }
+}
+
+function str(v) {
+  return v == null ? '' : String(v).trim();
+}
+
+function cleanList(list, max) {
+  return (Array.isArray(list) ? list : []).map(str).filter(Boolean).slice(0, max);
+}
+
+function isoDate(text) {
+  const d = new Date(text);
+  return isNaN(d) ? '' : d.toISOString().slice(0, 10);
 }
 
 // ---------- Quality checks: the card must not repeat itself, must follow the story, and must gloss every word ----------
@@ -366,22 +592,6 @@ function missingGlossaryWords(s) {
     const k = String(g.korean || '').replace(/[.,!?"'()\[\]·]/g, '').trim();
     return k && (k.includes(t) || t.includes(k));
   }));
-}
-
-// Returns a list of problems to show the AI (empty list = the card is fine)
-function cardProblems(sentences, hook) {
-  const problems = [];
-  sentences.forEach((s, i) => {
-    if (sharedShare(s.english, hook) > 0.6) problems.push(`Sentence ${i + 1} repeats the hook. Give it a new fact.`);
-    for (let k = i + 1; k < sentences.length; k++) {
-      if (sharedShare(s.english, sentences[k].english) > 0.5) {
-        problems.push(`Sentences ${i + 1} and ${k + 1} say the same thing. Keep one, and make the other add a new fact.`);
-      }
-    }
-    const missing = missingGlossaryWords(s);
-    if (missing.length) problems.push(`Sentence ${i + 1}: these Korean words have no glossary entry: ${missing.join(', ')}. Add every word.`);
-  });
-  return problems;
 }
 
 // Local clean-up, no extra AI call: drop sentences that repeat the hook or an earlier sentence.
@@ -447,7 +657,6 @@ function normalizeSentences(list) {
 }
 
 // Glossary words must really appear in their Korean sentence, listed in the order they appear.
-// At most 8 per sentence, no plain numbers.
 function cleanGlossary(list, korean) {
   const found = (Array.isArray(list) ? list : [])
     .filter(g => g && g.korean && g.english)
@@ -522,23 +731,44 @@ async function fetchArticleText(url) {
   }
 }
 
+// ---------- AI providers: one call per batch; web search is part of that call ----------
+// Each returns { text, found (web addresses from the search), inputTokens, outputTokens }.
+
 async function callOpenAI(key, prompt) {
-  const r = await post('https://api.openai.com/v1/chat/completions',
+  const r = await post('https://api.openai.com/v1/responses',
     { Authorization: `Bearer ${key}`, 'Content-Type': 'application/json' },
-    { model: config.model, messages: [{ role: 'user', content: prompt }], max_completion_tokens: 20000 });
+    {
+      model: config.model,
+      input: prompt,
+      max_output_tokens: 20000,
+      ...(WEB_SEARCH ? { tools: [{ type: 'web_search' }] } : {})
+    });
+  const text = r.output_text || (r.output || [])
+    .filter(o => o.type === 'message')
+    .flatMap(o => o.content || [])
+    .filter(c => c.type === 'output_text')
+    .map(c => c.text)
+    .join('');
   return {
-    text: r.choices[0].message.content,
-    inputTokens: r.usage?.prompt_tokens ?? 0,
-    outputTokens: r.usage?.completion_tokens ?? 0
+    text,
+    found: [...searchUrls(r)],
+    inputTokens: r.usage?.input_tokens ?? 0,
+    outputTokens: r.usage?.output_tokens ?? 0
   };
 }
 
 async function callClaude(key, prompt) {
   const r = await post('https://api.anthropic.com/v1/messages',
     { 'x-api-key': key, 'anthropic-version': '2023-06-01', 'Content-Type': 'application/json' },
-    { model: config.model, max_tokens: 20000, messages: [{ role: 'user', content: prompt }] });
+    {
+      model: config.model,
+      max_tokens: 20000,
+      messages: [{ role: 'user', content: prompt }],
+      ...(WEB_SEARCH ? { tools: [{ type: 'web_search_20250305', name: 'web_search', max_uses: 3 }] } : {})
+    });
   return {
-    text: r.content.map(c => c.text || '').join(''),
+    text: r.content.filter(c => c.type === 'text').map(c => c.text || '').join(''),
+    found: [...searchUrls(r)],
     inputTokens: r.usage?.input_tokens ?? 0,
     outputTokens: r.usage?.output_tokens ?? 0
   };
@@ -547,9 +777,14 @@ async function callClaude(key, prompt) {
 async function callGemini(key, prompt) {
   const url = `https://generativelanguage.googleapis.com/v1beta/models/${config.model}:generateContent?key=${encodeURIComponent(key)}`;
   const r = await post(url, { 'Content-Type': 'application/json' },
-    { contents: [{ parts: [{ text: prompt }] }], generationConfig: { maxOutputTokens: 20000 } });
+    {
+      contents: [{ parts: [{ text: prompt }] }],
+      generationConfig: { maxOutputTokens: 20000 },
+      ...(WEB_SEARCH ? { tools: [{ google_search: {} }] } : {})
+    });
   return {
     text: r.candidates[0].content.parts.map(p => p.text || '').join(''),
+    found: [...searchUrls(r)],
     inputTokens: r.usageMetadata?.promptTokenCount ?? 0,
     outputTokens: r.usageMetadata?.candidatesTokenCount ?? 0
   };
@@ -580,6 +815,48 @@ function fallbackCards(articles) {
 
 function firstSentence(text) {
   return (text.split(/(?<=[.!?])\s/)[0] || '').slice(0, 200);
+}
+
+// ---------- Caption files: caption, reader question, sources with dates, hashtags ----------
+
+async function writeCaptions(cards, region, today) {
+  for (const c of cards) {
+    if (!c.url || !Array.isArray(c.caption_lines) || c.caption_lines.length === 0) continue;
+    const id = imageFolderId(c.url);
+    c.caption_file = `images/${region}/${id}/caption.txt`;
+    const dir = path.join(ROOT, 'docs', 'images', region, id);
+    await mkdir(dir, { recursive: true });
+    await writeFile(path.join(dir, 'caption.txt'), captionText(c, region, today, id));
+  }
+}
+
+function captionText(c, region, today, id) {
+  const lines = [
+    'MAEIL NEWS: POST TEXT',
+    `Category: ${c.category}`,
+    `Date: ${niceDate(c.date)}`,
+    `Story ID: ${id}`,
+    '',
+    'CAPTION (extra context, not a repeat of the slides)'
+  ];
+  for (const l of c.caption_lines) lines.push(l, '');
+  if (c.reader_question) lines.push(`Something to think about: ${c.reader_question}`, '');
+  lines.push('Sources and dates are listed below. Check them before you share. 👇', '');
+  lines.push(`SOURCES (checked ${niceDate(today)})`);
+  (c.sources || []).forEach((s, i) => lines.push(`${i + 1}. ${s.outlet}, "${s.title}", ${niceDate(s.date)}, ${s.url}`));
+  lines.push('', 'HASHTAGS');
+  const topic = String(c.topic_tag || '').replace(/[^A-Za-z0-9]/g, '');
+  const tags = ['#MaeilNews', '#LearnKorean', `#${NEWS_TAG[region] || 'News'}`, CATEGORY_TAG[c.category] ? `#${CATEGORY_TAG[c.category]}` : '', topic ? `#${topic}` : ''];
+  lines.push(tags.filter(Boolean).join(' '));
+  return lines.join('\n') + '\n';
+}
+
+// "26 Oct 2026" for a date given as YYYY-MM-DD (or any date text); "date not given" when empty
+function niceDate(v) {
+  const text = str(v);
+  if (!text) return 'date not given';
+  const d = new Date(text.length === 10 ? text + 'T00:00:00Z' : text);
+  return isNaN(d) ? text : d.toLocaleDateString('en-GB', { day: '2-digit', month: 'short', year: 'numeric', timeZone: 'UTC' });
 }
 
 // ---------- Files ----------
