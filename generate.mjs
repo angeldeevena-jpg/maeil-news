@@ -11,7 +11,9 @@ import { addImages, imageFolderId } from './make-images.mjs';
 
 const ROOT = path.dirname(fileURLToPath(import.meta.url));
 const USAGE_FILE = path.join(ROOT, 'state', 'usage.json');
-const PER_REGION = 24; // 24 cards per region, shared across its feeds
+const PER_REGION = 6; // 6 cards per region per day, shared across its feeds
+const SEEN_DAYS = 7; // a story used by one region is not used by another region for this many days
+const SEEN_KEEP = 400; // most recent entries kept per region
 const BATCH_SIZE = 6; // cards per AI call, so each reply stays a manageable size
 const MAX_SENTENCES = 9; // sentences per article (a long sentence can be split into two)
 const MAX_BODY = 6000; // characters of article text sent to the AI
@@ -239,6 +241,7 @@ async function main() {
   await writeCaptions(cards, REGION, today);
 
   await saveUsage(usage);
+  await saveSeen(cards);
   await writeCards(today, status, cards, note);
   console.log(`Wrote ${cards.length} cards (${fresh.length} new, ${kept} kept). Status: ${status}. ${note}`);
 }
@@ -247,17 +250,52 @@ async function main() {
 
 let feedErrors = [];
 
+// Stories other regions already used in the last few days (this region's own cards are kept by the cache)
+async function loadSeen() {
+  const cutoff = Date.now() - SEEN_DAYS * 86400000;
+  const entries = [];
+  for (const r of Object.keys(REGIONS)) {
+    if (r === REGION) continue;
+    const j = await readJson(path.join(ROOT, 'state', `seen-${r}.json`), null);
+    if (j && Array.isArray(j.entries)) {
+      entries.push(...j.entries.filter(e => (Date.parse(e.date) || 0) >= cutoff));
+    }
+  }
+  return entries;
+}
+
+// Same link, or a title that shares most of its words with a story another region used
+function isSeen(item, seen) {
+  return seen.some(s => s.url === item.link || (s.title && sharedShare(s.title, item.title) > 0.6));
+}
+
+// Records this region's cards so the other regions skip them
+async function saveSeen(cards) {
+  const file = path.join(ROOT, 'state', `seen-${REGION}.json`);
+  const prev = await readJson(file, { entries: [] });
+  const mine = new Map((prev.entries || []).map(e => [e.url, e]));
+  for (const c of cards) {
+    if (c.url) mine.set(c.url, { url: c.url, title: c.source_title || c.english_title || '', date: c.date || seoulDate() });
+  }
+  await mkdir(path.dirname(file), { recursive: true });
+  await writeFile(file, JSON.stringify({ entries: [...mine.values()].slice(-SEEN_KEEP) }, null, 2) + '\n');
+}
+
 async function collectArticles() {
   const out = [];
   feedErrors = [];
+  const seen = await loadSeen();
+  const perFeed = Math.max(1, Math.ceil(PER_REGION / FEEDS.length));
   for (const feed of FEEDS) {
     try {
       const xml = await loadFeed(feed);
-      // Newest first, so the cards are the latest stories in each section
+      // Newest first, so the cards are the latest stories in each section.
+      // Skips stories already in this region's list (the same link twice across feeds) and stories other regions used.
       const items = parseItems(xml)
         .filter(i => i.title && i.link)
         .sort((a, b) => (Date.parse(b.pubDate) || 0) - (Date.parse(a.pubDate) || 0))
-        .slice(0, Math.floor(PER_REGION / FEEDS.length));
+        .filter(i => !out.some(o => o.link === i.link) && !isSeen(i, seen))
+        .slice(0, perFeed);
       items.forEach(i => out.push({ category: feed.category, title: i.title, link: i.link, description: i.description, date: isoDate(i.pubDate) }));
       console.log(`${feed.category}: ${items.length} articles`);
       if (items.length === 0) feedErrors.push(`${feed.category}: no items in feed`);
@@ -390,7 +428,7 @@ Write with a critical eye, not as a summary: say what the story leaves out, whos
 
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
-- "english_title": a clear, short English headline. It names the same point as the hook and the question: for a question-* hook, it uses at least one key word from the question, so the headline and the question read as one thread
+- "english_title": the headline and the first slide of the card, so it is also the hook. Under 12 words, specific and curious, stating the story's main point and opening a thread the sentences then follow. It must not add a fact. The Korean headline "korean_title" says the same thing in Korean.
 - "hook": the headline hook. Plain words, under 10 words, that states the key point of the story clearly, in the form "Korea aimed for 21 golds. It won 29." Accurate, and it must not add any fact. Use a contrast only when the facts support it and the story is not serious.
   For a question-* hook the question is the intriguing gossip-style question that makes the reader want the rest. It must not give the answer away and must not be an obvious yes-or-no question whose answer is in the question itself.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
@@ -403,7 +441,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   number = the story's key number;
   vocab = opens with the key Korean word of the story;
   headline = the story's own headline.
-- "question" and "korean_question": the cover question, for EVERY card, under 15 words. It is the gossip-style question that makes the reader want the rest, and it does not give the answer away. The cover shows this question, and the headline slide later shows the headline, so the two must not be the same words.
+- "question" and "korean_question": "" (leave both empty; the headline is the hook now).
 - "answer": for a question-* hook, the direct answer to that question, {"english": "one sentence, under 25 words, that answers the question plainly", "korean": "the same answer in simple Korean"}. The "truth" sentence states this answer, placed where the story reaches it, after the "what" sentence. For other hooks, leave it as null.
 - "body_format": one of the Allowed body_format values for that article. "sentences" means sentence cards only.
 - "format_data": an object with ONLY the keys for the chosen hook_format and body_format, in these shapes (leave the others out):
@@ -702,9 +740,6 @@ function cardFlags(item, sources) {
   if (normalizeParties(item.views, 2).length < 2) flags.push('no two views');
   if (!normalizeDisagree(item.disagree)) flags.push('no disagreement');
   if (!str(item.reader_question_korean)) flags.push('no reader question in Korean');
-  if (!str(item.question)) flags.push('no cover question');
-  // The headline and the question should share a key word, so they read as one thread
-  if (str(item.question) && !sharesKeyWord(item.english_title, item.question)) flags.push('headline and question share no key word');
   for (const s of normalizeSentences(item.sentences)) {
     const missing = numbersMissingInKorean(s.english, s.korean);
     if (missing.length) flags.push(`number missing in Korean: ${missing.join(', ')}`);
@@ -960,8 +995,16 @@ function fallbackCards(articles) {
   }));
 }
 
+// The first sentence of a feed description. Abbreviations such as "Dr." or "U.S." do not end a sentence.
+const ABBREVIATION = /\b(Mr|Mrs|Ms|Dr|No|St|Jr|Sr|Prof|vs|Inc|Ltd|Co|Rs|U\.S|U\.K)\.$/i;
 function firstSentence(text) {
-  return (text.split(/(?<=[.!?])\s/)[0] || '').slice(0, 200);
+  const parts = String(text || '').replace(/\s+/g, ' ').trim().split(/(?<=[.!?])\s+/);
+  let out = '';
+  for (const p of parts) {
+    out = out ? `${out} ${p}` : p;
+    if (!ABBREVIATION.test(p) && /[.!?]["”’]?$/.test(p)) break;
+  }
+  return out.slice(0, 200);
 }
 
 // ---------- Caption files: caption, reader question, sources with dates, hashtags ----------

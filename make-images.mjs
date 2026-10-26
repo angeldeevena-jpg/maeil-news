@@ -19,7 +19,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts or skins change: every card is then drawn again once.
-export const IMAGE_VERSION = 27;
+export const IMAGE_VERSION = 28;
 
 const W = 1080;
 const H = 1350;
@@ -270,7 +270,7 @@ function titleSlide(c, logo, total, sk) {
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: ${sk.titleFg}">
     <span>Read it. Then say it out loud.</span>
-    <span>2 / ${total}</span>
+    <span>1 / ${total}</span>
   </div>
 </div>`, fit);
 }
@@ -532,7 +532,8 @@ function creditSlide(c, region, logo, photo, total, date, sk) {
 // Every slide of the card, in order. Sentences are one slide each, with the glossary on the same slide.
 export function planSlides(card) {
   const sentences = Array.isArray(card.sentences) ? card.sentences : [];
-  const plan = [{ kind: 'cover' }, { kind: 'title' }];
+  // The headline is the first slide and the hook; there is no separate cover slide
+  const plan = [{ kind: 'title' }];
   // Every sentence gets as many slides as its words need: the glossary never gets cut off
   sentences.forEach((s, i) => {
     const words = slideWords(s);
