@@ -16,7 +16,13 @@ const BATCH_SIZE = 6; // cards per AI call, so each reply stays a manageable siz
 const MAX_SENTENCES = 9; // sentences per article (a long sentence can be split into two)
 const MAX_BODY = 6000; // characters of article text sent to the AI
 const MAX_GLOSSARY = 500; // no limit: the widget pages through every word
-const MAX_EXTRA_SOURCES = 3; // sources the AI found, in addition to the feed article
+const MAX_EXTRA_SOURCES = 4; // sources the AI found, in addition to the feed article
+
+// Sentences that point at the article, the report or the search instead of the topic are dropped.
+const META = /\b(this|the|that) (article|report|story|piece|source|search)s?\b|\bweb search\b|\bsearch results?\b/i;
+function hasMetaWords(text) {
+  return META.test(String(text || ''));
+}
 
 // ---------- Format plan (the same table as the Plan-Formats artboard) ----------
 // Hooks: question-reveal, question-clues, question-chat, question-myth, number, vocab, headline
@@ -114,7 +120,9 @@ async function main() {
   if (previous && Array.isArray(previous.cards)) {
     for (const c of previous.cards) {
       if (c.url && c.korean_desc && Array.isArray(c.sentences) && c.sentences.length > 0 &&
-          c.hook_format && Array.isArray(c.caption_lines)) {
+          c.hook_format && Array.isArray(c.caption_lines) &&
+          // question cards made before the answer field existed are made again
+          (!String(c.hook_format).startsWith('question-') || c.answer_english)) {
         cached.set(c.url, c);
       }
     }
@@ -181,6 +189,8 @@ async function main() {
           body_format: picked.body_format,
           question: picked.question,
           korean_question: picked.korean_question,
+          answer_english: picked.answer_english,
+          answer_korean: picked.answer_korean,
           format_data: picked.format_data,
           serious: items[i].serious === true,
           caption_lines: cleanList(items[i].caption_lines, 3),
@@ -347,13 +357,13 @@ ${a.body.slice(0, MAX_BODY)}`;
     })
     .join('\n\n');
   const searchLine = WEB_SEARCH
-    ? 'For each article, use the web search tool to find the latest updates on the same story from news outlets: newer details, the outcome, or what happens next. Write from the article text plus those updates, and name the date of each update where it matters.'
+    ? 'For each article, use the web search tool on the topic itself, not only on the article: find the background, the newest facts and the outcome, and at least two different perspectives from different outlets. Write the card from what you find, with the article as one of the sources. Name the date of any update where it matters.'
     : 'Use only the article text. Do not search.';
   return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
 ${searchLine}
 
-Write everything in your own words. Do not copy sentences from the article.
-Keep every fact exactly as the article and the updates state it. Use only facts from the article text and the search results. If sources disagree, say so. If the evidence is thin, say so. Never add a fact, number, name or quote that is not in them. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
+Write about the topic itself, in plain, easy English that anyone can follow, the way you would explain it to a friend. Say what the topic is about, what happened, who is involved, and why it matters. Never write "this article", "the article", "this report", "this story", "the source", "the search" or "the web", and never say where a fact came from in the text: the sources are listed separately. Write in your own words. Do not copy sentences from the article.
+Keep every fact exactly as the article and the search results state it. Use only facts from the article text and the search results. If sources disagree, say so. If the evidence is thin, say so. Never add a fact, number, name or quote that is not in them. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
 
 Write with a critical eye, not as a summary: say what the story leaves out, whose voice is heard and whose is not, and where the evidence is disputed. On a disputed or political question, give the strongest case on each side and never a verdict. Critical framing never targets victims of crime, disaster, abuse or illness.
 
@@ -372,6 +382,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   vocab = opens with the key Korean word of the story;
   headline = the story's own headline.
 - "question" and "korean_question": the question for a question-* hook, under 15 words; otherwise "".
+- "answer": for a question-* hook, the direct answer to that question, {"english": "one sentence, under 25 words, that answers the question plainly", "korean": "the same answer in simple Korean"}. The sentences must lead to this answer: the outcome sentence states it. For other hooks, leave it as null.
 - "body_format": one of the Allowed body_format values for that article. "sentences" means sentence cards only.
 - "format_data": an object with ONLY the keys for the chosen hook_format and body_format, in these shapes (leave the others out):
   "number": {"value": "the number exactly as in the story", "label": "what it counts, English, under 8 words", "korean_label": "the same in Korean"}
@@ -434,7 +445,7 @@ function resolveFormats(item, category, sentences) {
   const serious = item.serious === true;
   const hookAllowed = serious ? SERIOUS_HOOKS : plan.hooks;
   const bodyAllowed = serious ? plan.bodies.filter(b => SERIOUS_BODIES.includes(b)) : plan.bodies;
-  const plain = (note) => ({ hook_format: 'headline', body_format: 'sentences', format_data: {}, question: '', korean_question: '', note });
+  const plain = (note) => ({ hook_format: 'headline', body_format: 'sentences', format_data: {}, question: '', korean_question: '', answer_english: '', answer_korean: '', note });
 
   if (!HOOK_FORMATS.includes(item.hook_format) || !hookAllowed.includes(item.hook_format)) {
     return plain(`hook "${item.hook_format}" not allowed for ${category}${serious ? ' (serious story)' : ''}`);
@@ -450,7 +461,12 @@ function resolveFormats(item, category, sentences) {
   let body = item.body_format;
   const notes = [];
   if (hook === 'number' && !data.number) { hook = 'headline'; notes.push('number missing'); }
+  // A question hook must come with its answer; without one the card falls back to the headline hook
+  const answer = item.answer && typeof item.answer === 'object' ? item.answer : {};
+  const answer_english = str(answer.english);
+  const answer_korean = str(answer.korean);
   if (hook.startsWith('question-') && !question) { hook = 'headline'; notes.push('question missing'); }
+  if (hook.startsWith('question-') && !answer_english) { hook = 'headline'; notes.push('answer missing'); }
   if (hook === 'vocab' && !sentences.some(s => s.glossary.length > 0)) { hook = 'headline'; notes.push('no vocabulary'); }
   if (body !== 'sentences' && !bodyDataOk(body, data)) { notes.push(`${body} data missing, sentence cards used`); body = 'sentences'; }
 
@@ -463,6 +479,8 @@ function resolveFormats(item, category, sentences) {
     format_data: data,
     question: hook.startsWith('question-') ? question : '',
     korean_question: hook.startsWith('question-') ? korean_question : '',
+    answer_english: hook.startsWith('question-') ? answer_english : '',
+    answer_korean: hook.startsWith('question-') ? answer_korean : '',
     note: notes.join(', ')
   };
 }
@@ -606,9 +624,15 @@ function tidyCard(item, title) {
     if (kept.some(k => sharedShare(s.english, k.english) > 0.5)) continue;
     kept.push(s);
   }
-  if (kept.length >= 3) {
-    if (kept.length < all.length) console.log(`"${title}": removed ${all.length - kept.length} repeated sentence(s)`);
-    item.sentences = kept;
+  // Sentences that talk about the article, the report or the search are dropped too
+  const clean = kept.filter(s => !hasMetaWords(s.english));
+  const metaCount = kept.length - clean.length;
+  if (metaCount) console.log(`"${title}": ${metaCount} sentence(s) mentioned the article/search`);
+  // Article-talk sentences go whenever at least two sentences remain; resolveFormats then decides if the story is long enough
+  const finalList = clean.length >= 2 ? clean : kept;
+  if (finalList.length >= 2) {
+    if (finalList.length < all.length) console.log(`"${title}": removed ${all.length - finalList.length} sentence(s)`);
+    item.sentences = finalList;
   } else if (kept.length < all.length) {
     console.log(`"${title}": repeats found, but keeping all sentences (only ${kept.length} would remain)`);
   }
@@ -619,7 +643,7 @@ function tidyCard(item, title) {
 
 // Drops "why it matters" reasons that only restate a sentence of the story
 function dropRestated(reasons, sentences) {
-  return reasons.filter(r => !sentences.some(s => sharedShare(r.english, s.english) > 0.5));
+  return reasons.filter(r => !hasMetaWords(r.english) && !sentences.some(s => sharedShare(r.english, s.english) > 0.5));
 }
 
 // Keeps up to three well-formed "why it matters" reasons (English and Korean)
