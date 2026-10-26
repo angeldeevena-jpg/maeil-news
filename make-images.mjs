@@ -19,12 +19,12 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts or skins change: every card is then drawn again once.
-export const IMAGE_VERSION = 26;
+export const IMAGE_VERSION = 27;
 
 const W = 1080;
 const H = 1350;
 const FONT = 'system-ui, sans-serif';
-const CHIPS_PER_SLIDE = 12;
+const CHIPS_PER_SLIDE = 9;
 const FOOTER_SWIPE = 'Keep swiping 👀 →';
 
 // ---------- Skins: colours from the Flow artboards ----------
@@ -165,8 +165,7 @@ function dateText(c) {
 function slideWords(sentence) {
   return (Array.isArray(sentence.glossary) ? sentence.glossary : [])
     .filter(w => w && w.korean && !/^[0-9.,%\s]+$/.test(String(w.korean).trim()))
-    .filter((w, i, all) => all.findIndex(x => x.korean === w.korean) === i)
-    .slice(0, CHIPS_PER_SLIDE);
+    .filter((w, i, all) => all.findIndex(x => x.korean === w.korean) === i);
 }
 
 // Shared header of the cover and the title slide: logo, name and date
@@ -210,6 +209,8 @@ function hookParts(c) {
   if (QUESTION_STICKER[fmt] && c.question) {
     return { kind: 'question', sticker: QUESTION_STICKER[fmt], big: c.question, ko: c.korean_question || '' };
   }
+  // Every card has a cover question now; the headline comes on its own slide after the story starts
+  if (c.question) return { kind: 'question', sticker: c.sticker || 'Quick question', big: c.question, ko: c.korean_question || '' };
   return { kind: 'question', sticker: c.sticker || 'Read the story', big: c.hook || c.english_title || '', ko: c.korean_hook || '' };
 }
 
@@ -532,15 +533,21 @@ function creditSlide(c, region, logo, photo, total, date, sk) {
 export function planSlides(card) {
   const sentences = Array.isArray(card.sentences) ? card.sentences : [];
   const plan = [{ kind: 'cover' }, { kind: 'title' }];
+  // Every sentence gets as many slides as its words need: the glossary never gets cut off
   sentences.forEach((s, i) => {
-    plan.push({ kind: 'sentence', sentence: s, words: slideWords(s), index: i, count: sentences.length });
+    const words = slideWords(s);
+    const pages = Math.max(1, Math.ceil(words.length / CHIPS_PER_SLIDE));
+    for (let p = 0; p < pages; p++) {
+      plan.push({ kind: 'sentence', sentence: s, words: words.slice(p * CHIPS_PER_SLIDE, (p + 1) * CHIPS_PER_SLIDE), index: i, count: sentences.length });
+    }
   });
-  // Full flow (news and entertainment with parties and views): who it affects, why it matters, other views, what you think
+  // Full flow (news and entertainment with parties and views): one idea per slide
   const fullFlow = Array.isArray(card.views) && card.views.length >= 2;
   if (fullFlow) {
-    if (Array.isArray(card.parties) && card.parties.length > 0) plan.push({ kind: 'parties' });
-    if (Array.isArray(card.why_it_matters) && card.why_it_matters.length > 0) plan.push({ kind: 'why' });
-    plan.push({ kind: 'views' });
+    (Array.isArray(card.parties) ? card.parties : []).forEach(p => plan.push({ kind: 'party', item: { label: p.label, english: p.english, korean: p.korean } }));
+    (Array.isArray(card.why_it_matters) ? card.why_it_matters : []).forEach(w => plan.push({ kind: 'reason', item: { english: w.english, korean: w.korean } }));
+    card.views.slice(0, 2).forEach(v => plan.push({ kind: 'view', item: { label: v.label, english: v.english, korean: v.korean } }));
+    if (card.disagree) plan.push({ kind: 'disagree', item: { label: 'WHY OTHERS MIGHT DISAGREE', english: card.disagree.english, korean: card.disagree.korean } });
     if (card.reader_question) plan.push({ kind: 'think' });
   } else {
     // Older cards: one body slide, only for a body format with usable data (otherwise the sentences alone)
@@ -552,25 +559,22 @@ export function planSlides(card) {
   return plan;
 }
 
-// Parties: what the story means for each party, the same boxes as the views
-function partiesSlide(c, number, total, date, sk) {
-  const inner = c.parties.map(p => box(sk, p.label, p.english, p.korean)).join('');
-  return bodyShell('👥 WHAT IT MEANS FOR', inner, sk, date, number, total);
-}
-
-// Other perspectives: two views from different outlets or groups, then why others might disagree
-function viewsSlide(c, number, total, date, sk) {
-  const inner = c.views.slice(0, 2).map(v => box(sk, v.label, v.english, v.korean)).join('')
-    + (c.disagree ? box(sk, 'WHY OTHERS MIGHT DISAGREE', c.disagree.english, c.disagree.korean) : '');
-  return bodyShell('🔎 OTHER PERSPECTIVES', inner, sk, date, number, total, 'No verdict from us. ' + FOOTER_SWIPE);
-}
-
 // What do you think: one question for readers, with its Korean line
 function thinkSlide(c, number, total, date, sk) {
   const q = /\?$/.test(c.reader_question) ? c.reader_question : c.reader_question + '?';
   const inner = `<div style="font-size: 60px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(q)}</div>
       ${c.reader_question_korean ? `<div style="font-size: 40px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">${esc(c.reader_question_korean)}</div>` : ''}`;
   return bodyShell('🤔 WHAT DO YOU THINK?', inner, sk, date, number, total);
+}
+
+// One idea per slide: a single large box with its label, English and Korean
+function oneBoxSlide(item, header, number, total, date, sk, footer) {
+  const inner = `<div style="background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 14px 14px 0 ${sk.cardShadow}; padding: 60px; display: flex; flex-direction: column; gap: 30px">
+    ${item.label ? `<div style="font-size: 36px; font-weight: 900; color: ${sk.ko}">${esc(item.label)}</div>` : ''}
+    <div style="font-size: 64px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(item.english)}</div>
+    ${item.korean ? `<div style="font-size: 44px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">${esc(item.korean)}</div>` : ''}
+  </div>`;
+  return bodyShell(header, inner, sk, date, number, total, footer);
 }
 
 // All slides of one card, in order, as HTML pages.
@@ -584,8 +588,10 @@ export function buildSlides(card, region, source, assets) {
     if (p.kind === 'title') return titleSlide(card, assets.logo, total, sk);
     if (p.kind === 'body') return bodySlide(card, number, total, dateText(card), sk);
     if (p.kind === 'why') return whySlide(card, number, total, dateText(card), sk);
-    if (p.kind === 'parties') return partiesSlide(card, number, total, dateText(card), sk);
-    if (p.kind === 'views') return viewsSlide(card, number, total, dateText(card), sk);
+    if (p.kind === 'party') return oneBoxSlide(p.item, '👥 WHAT IT MEANS FOR', number, total, dateText(card), sk);
+    if (p.kind === 'reason') return oneBoxSlide(p.item, '💡 WHY IT MATTERS', number, total, dateText(card), sk);
+    if (p.kind === 'view') return oneBoxSlide(p.item, '🔎 OTHER PERSPECTIVES', number, total, dateText(card), sk, 'No verdict from us. ' + FOOTER_SWIPE);
+    if (p.kind === 'disagree') return oneBoxSlide(p.item, '🔎 OTHER PERSPECTIVES', number, total, dateText(card), sk, 'No verdict from us. ' + FOOTER_SWIPE);
     if (p.kind === 'think') return thinkSlide(card, number, total, dateText(card), sk);
     if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number, dateText(card), sk);
     return creditSlide(card, region, assets.logo, assets.photo, total, dateText(card), sk);

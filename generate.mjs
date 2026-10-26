@@ -171,7 +171,8 @@ async function main() {
       usage.spent_usd += costUsd;
       newCards = fresh.map((a, i) => {
         if (!items[i]) return fallbackCards([a])[0];
-        const sentences = normalizeSentences(items[i].sentences);
+        const checked = checkTranslations(normalizeSentences(items[i].sentences));
+        const sentences = checked.kept;
         // The widget's WORDS pages come from the Korean description, in reading order, no repeats.
         // Each word has its romanization and a particle flag (particles are shown highlighted).
         const seen = new Set();
@@ -200,7 +201,7 @@ async function main() {
           disagree: normalizeDisagree(items[i].disagree),
           reader_question_korean: str(items[i].reader_question_korean),
           search_hits: (items[i].found_urls || []).length,
-          flags: cardFlags(items[i], buildSources(a, items[i])),
+          flags: [...cardFlags(items[i], buildSources(a, items[i])), ...checked.problems],
           source_title: a.title,
           hook_format: picked.hook_format,
           body_format: picked.body_format,
@@ -383,6 +384,8 @@ ${searchLine}
 Write about the topic itself, in plain, easy English that anyone can follow. Write the whole card as ONE paragraph told by one storyteller, in one voice: every sentence picks up where the last one stopped, as if the card were a single paragraph cut into pieces. Use a lively, gossipy, curious tone for light stories, like a friend who has just heard the news and cannot wait to tell you, but every line must be a checked fact. Never guess about private lives, never mock anyone, and never use gossip for serious stories. Say what the topic is about, what happened, who is involved, and why it matters. Never write "this article", "the article", "this report", "this story", "the source", "the search" or "the web", and never say where a fact came from in the text: the sources are listed separately. Write in your own words. Do not copy sentences from the article.
 Keep every fact exactly as the article and the search results state it. Use only facts from the article text and the search results. If sources disagree, say so. If the evidence is thin, say so. Never add a fact, number, name or quote that is not in them. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
 
+Write with wit and a sharp mind. Be clever and dry, like a smart friend who reads the news closely and cannot resist a well-placed line. Wit is for light stories only, and it must never change or exaggerate a fact. Never joke at the expense of a victim, a person who is hurt, or anyone's suffering. For serious stories, be precise and calm instead of witty.
+
 Write with a critical eye, not as a summary: say what the story leaves out, whose voice is heard and whose is not, and where the evidence is disputed. On a disputed or political question, give the strongest case on each side and never a verdict. Critical framing never targets victims of crime, disaster, abuse or illness.
 
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
@@ -400,7 +403,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   number = the story's key number;
   vocab = opens with the key Korean word of the story;
   headline = the story's own headline.
-- "question" and "korean_question": the question for a question-* hook, under 15 words; otherwise "".
+- "question" and "korean_question": the cover question, for EVERY card, under 15 words. It is the gossip-style question that makes the reader want the rest, and it does not give the answer away. The cover shows this question, and the headline slide later shows the headline, so the two must not be the same words.
 - "answer": for a question-* hook, the direct answer to that question, {"english": "one sentence, under 25 words, that answers the question plainly", "korean": "the same answer in simple Korean"}. The "truth" sentence states this answer, placed where the story reaches it, after the "what" sentence. For other hooks, leave it as null.
 - "body_format": one of the Allowed body_format values for that article. "sentences" means sentence cards only.
 - "format_data": an object with ONLY the keys for the chosen hook_format and body_format, in these shapes (leave the others out):
@@ -434,8 +437,8 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
     - "now": where it stands today, with the date of that update.
     - "next": what is expected, and from whom.
     A serious story (crime, disaster, illness, or anything involving victims) uses only "what", "how" and "now", in plain facts, and never uses "truth", "why" or "next" as blame or speculation. Use the stages the Arc line allows and no other stage name.
-  - "english": one clear English sentence, under 25 words. The "what" sentence is the card's short description: 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result.
-  - "korean": the Korean translation of that sentence, simple and natural. It is a faithful translation: every fact, number, name and detail of the English sentence appears in it, and nothing extra is added. If a detail is hard to say in Korean, simplify the English sentence, never drop a detail from one language only. For example, "seven golds" must appear in Korean as 금메달 7개. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary.
+  - "english": one short, clear English sentence, under 14 words. Split long ideas into two sentences rather than writing one long one. The "what" sentence is the card's short description: complete and self-contained, naming who did what, where and when, with the key number or result.
+  - "korean": the Korean translation of that sentence, simple and natural. It is a faithful translation: every fact, number, name and detail of the English sentence appears in it, and nothing extra is added. If a detail is hard to say in Korean, simplify the English sentence, never drop a detail from one language only. For example, "seven golds" must appear in Korean as 금메달 7개. Keep each Korean sentence to at most 8 words. Before you return, check each Korean sentence against its English word by word: every who, what, how many, when, and every negation ("not", "no", "cannot"), limit ("only", "more than", "at least"), and action ("arrested", "detained", "should") must be present in the Korean with the same meaning. If anything is missing or changed, rewrite the Korean.
   - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, REQUIRED for every item, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false, "suffix": "the particle or ending at the very end of the word (such as 의, 에는, 이다), or empty if none"}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
 Do not write anything outside the JSON.
 
@@ -699,6 +702,7 @@ function cardFlags(item, sources) {
   if (normalizeParties(item.views, 2).length < 2) flags.push('no two views');
   if (!normalizeDisagree(item.disagree)) flags.push('no disagreement');
   if (!str(item.reader_question_korean)) flags.push('no reader question in Korean');
+  if (!str(item.question)) flags.push('no cover question');
   // The headline and the question should share a key word, so they read as one thread
   if (str(item.question) && !sharesKeyWord(item.english_title, item.question)) flags.push('headline and question share no key word');
   for (const s of normalizeSentences(item.sentences)) {
@@ -706,6 +710,43 @@ function cardFlags(item, sources) {
     if (missing.length) flags.push(`number missing in Korean: ${missing.join(', ')}`);
   }
   return flags;
+}
+
+// Stricter translation check (no extra AI call). Each English word or phrase that carries meaning must have
+// its Korean counterpart in the Korean sentence. A sentence that fails is dropped when at least three remain;
+// otherwise it is kept and the card is flagged for a look.
+const TRANSLATION_KEYS = [
+  [/\barrested\b/i, ['체포']], [/\bdetained\b/i, ['구금', '억류']], [/\bcannot\b|\bcan't\b/i, ['못', '없']],
+  [/\bnot\b|\bno\b|n't\b/i, ['않', '못', '아니', '없']], [/\bshould\b/i, ['해야', '되어야', '돼야']],
+  [/\bonly\b/i, ['만', '뿐']], [/\bmore than\b/i, ['넘']], [/\bat least\b/i, ['최소', '이상']],
+  [/\bpromis/i, ['약속']], [/\bcurfew/i, ['통금', '통행금지']], [/\bpolice\b/i, ['경찰']],
+  [/\bgovernment\b/i, ['정부']], [/\bprotest|\bdemonstrat/i, ['시위']], [/\bviolen/i, ['폭력']],
+  [/\blooting\b/i, ['약탈']], [/\bkilled\b/i, ['사망', '숨']], [/\binjur/i, ['부상']],
+  [/\bmillion\b/i, ['백만', '만']], [/\bstudents?\b/i, ['학생']], [/\bteachers?\b/i, ['교사']],
+  [/\bfarmers?\b/i, ['농민']], [/\bworkers?\b/i, ['노동', '근로']], [/\bretirees?\b/i, ['퇴직', '은퇴']],
+  [/\bfires?\b/i, ['방화', '불']], [/\bbuildings?\b/i, ['건물']], [/\bpeaceful\b/i, ['평화']],
+  [/\bcities\b|\bcity\b/i, ['도시']], [/\bpresident\b/i, ['대통령']], [/\bcourt\b/i, ['법원']],
+  [/\bconfused\b|\bmistake/i, ['혼동', '혼돈', '착각']], [/\brefus/i, ['거부', '거절']],
+];
+
+function checkTranslations(list) {
+  const problems = [];
+  const failing = new Set();
+  list.forEach((s, idx) => {
+    const en = s.english || '';
+    const ko = s.korean || '';
+    const missing = TRANSLATION_KEYS
+      .filter(([re, stems]) => re.test(en) && !stems.some(st => ko.includes(st)))
+      .map(([re]) => re.source.replace(/\\b|\\/g, '').split('|')[0]);
+    if (missing.length) {
+      failing.add(idx);
+      problems.push(`translation check: "${en.slice(0, 50)}" may be missing ${missing.join(', ')}`);
+    }
+    if (en.split(/\s+/).length > 16) problems.push(`long sentence: "${en.slice(0, 50)}"`);
+  });
+  const kept = list.filter((s, idx) => !failing.has(idx));
+  if (kept.length >= 3) return { kept, problems };
+  return { kept: list, problems };
 }
 
 const STOP_WORDS = new Set(['what', 'does', 'look', 'like', 'with', 'from', 'that', 'this', 'have', 'they', 'their', 'there', 'about', 'when', 'where', 'which', 'would', 'could', 'should', 'does', 'is', 'are', 'was', 'were', 'the', 'and', 'for', 'how', 'why', 'can', 'will']);
