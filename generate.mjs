@@ -195,6 +195,12 @@ async function main() {
           takeaway_english: items[i].takeaway || '',
           takeaway_korean: items[i].takeaway_korean || '',
           why_it_matters: dropRestated(normalizeWhy(items[i].why_it_matters), sentences),
+          parties: normalizeParties(items[i].parties),
+          views: normalizeParties(items[i].views, 2),
+          disagree: normalizeDisagree(items[i].disagree),
+          reader_question_korean: str(items[i].reader_question_korean),
+          search_hits: (items[i].found_urls || []).length,
+          flags: cardFlags(items[i], buildSources(a, items[i])),
           source_title: a.title,
           hook_format: picked.hook_format,
           body_format: picked.body_format,
@@ -381,7 +387,7 @@ Write with a critical eye, not as a summary: say what the story leaves out, whos
 
 Return ONLY a JSON array with exactly ${batch.length} objects, in the same order as the articles. Each object has:
 - "korean_title": a natural Korean headline, under 30 Korean characters
-- "english_title": a clear, short English headline
+- "english_title": a clear, short English headline. It names the same point as the hook and the question: for a question-* hook, it uses at least one key word from the question, so the headline and the question read as one thread
 - "hook": the headline hook. Plain words, under 10 words, that states the key point of the story clearly, in the form "Korea aimed for 21 golds. It won 29." Accurate, and it must not add any fact. Use a contrast only when the facts support it and the story is not serious.
   For a question-* hook the question is the intriguing gossip-style question that makes the reader want the rest. It must not give the answer away and must not be an obvious yes-or-no question whose answer is in the question itself.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
@@ -408,12 +414,15 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   "view": {"label": "a reasonable position the story does not give", "english": "...", "korean": "..."}  for another_view
   "places": [2 to 4 objects {"label": "place name", "english": "...", "korean": "..."}]  for map_place
   "poll": {"question": "a question for readers", "question_korean": "...", "options": [2 objects {"english": "...", "korean": "..."}]}  for poll
+- "parties": 2 or 3 objects {"label": "a party to the story (a person, group, company, government or place)", "english": "what this means for them, under 20 words, from the story or the search results", "korean": "the same in simple Korean"}.
+- "views": 2 objects {"label": "who holds this view", "english": "one view on the topic, under 25 words, from a different outlet or group in the search results", "korean": "the same in simple Korean"}. Give both sides fairly, with no verdict.
+- "disagree": {"english": "why other people might disagree with these views, under 25 words", "korean": "the same in simple Korean"}.
+- "reader_question": one question that makes readers think about the topic and asks for their opinion, under 15 words. It is not the hook question. For a serious story it is a plain, respectful question, with no playful tone. "reader_question_korean": the same question in simple Korean.
 - "why_it_matters": 2 or 3 objects, each {"english": "one short reason, under 20 words, why this story matters to everyday readers, using only facts from the article or the updates", "korean": "the same reason in simple, natural Korean"}. The reasons explain the effect on people. They must not restate a sentence of the story.
 - "takeaway": one new English sentence, under 20 words, that says why the story matters or what comes next. It must not repeat the hook or the summary.
 - "takeaway_korean": the takeaway in simple, natural Korean
 - "sticker": a short line for the cover sticker, under 6 words, that fits the story's tone: light for light news (for example "Good news from the stadium"), and plain and respectful for serious news (for example "What the court decided"). No emoji for serious news; at most one emoji for light news.
 - "caption_lines": 1 to 3 short English lines of extra context that the slides do not show: a date, a name, a term the story assumes you know, or what to watch next. They never repeat the hook or the sentences.
-- "reader_question": one question for the reader, different from the hook question.
 - "topic_tag": one word naming the topic, letters only (for example Election).
 - "sources": up to ${MAX_EXTRA_SOURCES} objects {"outlet": "...", "title": "...", "date": "YYYY-MM-DD", "url": "..."} for the pages you used from your search. Only URLs your web search returned.
 - "sentences": objects, in reading order, that together tell ONE story about the topic itself, following the Arc line of the article. Read them in order and they must be one coherent account: each sentence follows on from the one before it, uses a plain link such as "Then", "As a result" or "Since then" where it fits, and no sentence repeats a fact, number or phrase that the hook or another sentence already gives. Every sentence must add a fact. Drop any line that only comments on the story. A cause is stated before its effect. Short, specific sentences beat long, repeated ones. Each object has:
@@ -426,7 +435,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
     - "next": what is expected, and from whom.
     A serious story (crime, disaster, illness, or anything involving victims) uses only "what", "how" and "now", in plain facts, and never uses "truth", "why" or "next" as blame or speculation. Use the stages the Arc line allows and no other stage name.
   - "english": one clear English sentence, under 25 words. The "what" sentence is the card's short description: 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result.
-  - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary.
+  - "korean": the Korean translation of that sentence, simple and natural. It is a faithful translation: every fact, number, name and detail of the English sentence appears in it, and nothing extra is added. If a detail is hard to say in Korean, simplify the English sentence, never drop a detail from one language only. For example, "seven golds" must appear in Korean as 금메달 7개. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary.
   - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, REQUIRED for every item, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false, "suffix": "the particle or ending at the very end of the word (such as 의, 에는, 이다), or empty if none"}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
 Do not write anything outside the JSON.
 
@@ -664,6 +673,54 @@ function tidyCard(item, title) {
 // Drops "why it matters" reasons that only restate a sentence of the story
 function dropRestated(reasons, sentences) {
   return reasons.filter(r => !hasMetaWords(r.english) && !sentences.some(s => sharedShare(r.english, s.english) > 0.5));
+}
+
+// Parties and views: English and Korean pairs with a label, up to max
+function normalizeParties(list, max = 3) {
+  if (!Array.isArray(list)) return [];
+  return list
+    .filter(w => w && str(w.english) && str(w.korean))
+    .slice(0, max)
+    .map(w => ({ label: str(w.label), english: str(w.english), korean: str(w.korean) }));
+}
+
+function normalizeDisagree(d) {
+  return d && str(d.english) && str(d.korean) ? { english: str(d.english), korean: str(d.korean) } : null;
+}
+
+// Marks a card that needs a look: few outlets, no search results, no parties, no views, a number missing in Korean
+function cardFlags(item, sources) {
+  const flags = [];
+  const hits = (item.found_urls || []).length;
+  if (hits === 0) flags.push('no web results');
+  const outlets = new Set(sources.map(s => s.outlet).filter(Boolean));
+  if (outlets.size < 2) flags.push('fewer than 2 outlets');
+  if (normalizeParties(item.parties).length === 0) flags.push('no parties');
+  if (normalizeParties(item.views, 2).length < 2) flags.push('no two views');
+  if (!normalizeDisagree(item.disagree)) flags.push('no disagreement');
+  if (!str(item.reader_question_korean)) flags.push('no reader question in Korean');
+  // The headline and the question should share a key word, so they read as one thread
+  if (str(item.question) && !sharesKeyWord(item.english_title, item.question)) flags.push('headline and question share no key word');
+  for (const s of normalizeSentences(item.sentences)) {
+    const missing = numbersMissingInKorean(s.english, s.korean);
+    if (missing.length) flags.push(`number missing in Korean: ${missing.join(', ')}`);
+  }
+  return flags;
+}
+
+const STOP_WORDS = new Set(['what', 'does', 'look', 'like', 'with', 'from', 'that', 'this', 'have', 'they', 'their', 'there', 'about', 'when', 'where', 'which', 'would', 'could', 'should', 'does', 'is', 'are', 'was', 'were', 'the', 'and', 'for', 'how', 'why', 'can', 'will']);
+function keyWords(text) {
+  return String(text || '').toLowerCase().match(/[a-z]{4,}/g)?.filter(w => !STOP_WORDS.has(w)) || [];
+}
+function sharesKeyWord(a, b) {
+  const set = new Set(keyWords(a));
+  return keyWords(b).some(w => set.has(w));
+}
+
+// Numbers written in the English sentence that the Korean sentence does not repeat
+function numbersMissingInKorean(english, korean) {
+  const nums = String(english).match(/\d+/g) || [];
+  return nums.filter(n => !String(korean).includes(n));
 }
 
 // Keeps up to three well-formed "why it matters" reasons (English and Korean)

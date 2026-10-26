@@ -19,7 +19,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts or skins change: every card is then drawn again once.
-export const IMAGE_VERSION = 24;
+export const IMAGE_VERSION = 26;
 
 const W = 1080;
 const H = 1350;
@@ -264,7 +264,7 @@ function titleSlide(c, logo, total, sk) {
   ${topBar(c, logo, sk, 130, 34, 30, sk.titleFg)}
   <div id="main" style="flex: 1; display: flex; flex-direction: column; justify-content: center; gap: 40px; min-height: 0; overflow: hidden">
     <div style="align-self: flex-start; padding: 10px 22px; background: ${sk.titleLabelBg}; color: ${sk.titleLabelFg}; font-size: 30px; font-weight: 900; transform: rotate(2deg)">THE HEADLINE</div>
-    <div id="en" style="font-size: 116px; font-weight: 900; line-height: 1.05; color: ${sk.titleFg}">${esc(c.source_title || c.english_title)}</div>
+    <div id="en" style="font-size: 116px; font-weight: 900; line-height: 1.05; color: ${sk.titleFg}">${esc(c.english_title || c.source_title)}</div>
     <div id="ko" style="font-size: 94px; font-weight: 900; line-height: 1.2; color: ${sk.titleKo}">${esc(c.korean_title)}</div>
   </div>
   <div style="display: flex; align-items: center; justify-content: space-between; font-size: 32px; font-weight: 800; color: ${sk.titleFg}">
@@ -281,12 +281,14 @@ function glossaryChips(words, sk) {
     const base = suffix ? w.korean.slice(0, -suffix.length) : w.korean;
     const kor = esc(base) + (suffix ? `<span style="background: #FFE04D; color: #000; border-radius: 6px; padding: 0 4px">${esc(suffix)}</span>` : '');
     const meaning = esc(w.english || '');
-    return `<div style="min-width: 0; padding: 6px 12px; background: ${sk.chipBg}; color: ${sk.chipFg}; border-radius: 10px; display: flex; align-items: baseline; gap: 10px; white-space: nowrap; overflow: hidden"><span class="kor" style="font-size: 24px; font-weight: 900">${kor}</span><span style="font-size: 17px; font-weight: 700; color: ${sk.chipMean}; overflow: hidden; text-overflow: ellipsis">${meaning}</span></div>`;
+    const roman = esc(w.roman || '');
+    // Three lines: the Korean word, its romanization, and its meaning
+    return `<div style="min-width: 0; padding: 6px 12px; background: ${sk.chipBg}; color: ${sk.chipFg}; border-radius: 10px; display: flex; flex-direction: column; gap: 2px; overflow: hidden"><span class="kor" style="font-size: 24px; font-weight: 900; white-space: nowrap">${kor}</span>${roman ? `<span style="font-size: 17px; font-weight: 700; color: ${sk.chipMean}; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">${roman}</span>` : ''}<span style="font-size: 17px; font-weight: 700; color: ${sk.chipMean}; white-space: nowrap; overflow: hidden; text-overflow: ellipsis">${meaning}</span></div>`;
   }).join('');
 }
 
-// Sentence slides. The story card is 945px tall (70% of the slide), tilted as in the Flow artboard.
-// The glossary of the sentence's words fills the rest, with the header and footer.
+// Sentence slides. The story card is 810px tall (60% of the slide), tilted as in the Flow artboard.
+// The glossary (word, romanization, meaning), the header and the footer take the other 40%.
 function sentenceSlide(s, words, i, n, total, part, date, sk) {
   const STAGES = {
     truth: ['✅', 'THE REAL ANSWER'], what: ['📰', 'WHAT HAPPENED'], why: ['🧭', 'WHY IT HAPPENED'],
@@ -306,7 +308,7 @@ function sentenceSlide(s, words, i, n, total, part, date, sk) {
     <span style="padding: 10px 22px; font-size: 30px; font-weight: 900; background: ${sk.labelBg}; color: ${sk.labelFg}; transform: rotate(-3deg)">${emoji} ${label}</span>
     <span style="font-size: 26px; font-weight: 800">${esc(date || '')}</span>
   </div>
-  <div id="card" style="flex: none; height: 945px; box-sizing: border-box; padding: 44px; background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 14px 14px 0 ${sk.cardShadow}; display: flex; flex-direction: column; justify-content: center; gap: 26px; transform: rotate(${sk.cardRot}deg); overflow: hidden">
+  <div id="card" style="flex: none; height: 810px; box-sizing: border-box; padding: 44px; background: ${sk.cardBg}; border: 6px solid ${sk.cardBorder}; box-shadow: 14px 14px 0 ${sk.cardShadow}; display: flex; flex-direction: column; justify-content: center; gap: 26px; transform: rotate(${sk.cardRot}deg); overflow: hidden">
     <div id="en" style="font-size: 76px; font-weight: 900; line-height: 1.2; color: ${sk.text}">${esc(s.english)}</div>
     <div id="ko" style="font-size: 66px; font-weight: 800; line-height: 1.35; color: ${sk.ko}">${esc(s.korean)}</div>
   </div>
@@ -533,13 +535,42 @@ export function planSlides(card) {
   sentences.forEach((s, i) => {
     plan.push({ kind: 'sentence', sentence: s, words: slideWords(s), index: i, count: sentences.length });
   });
-  // One body slide, only for a body format with usable data (otherwise the sentences alone)
-  if (card.body_format && card.body_format !== 'sentences' && bodyItems(card, card.body_format)) plan.push({ kind: 'body' });
-  // Why it matters, only when the story has reasons
-  if (Array.isArray(card.why_it_matters) && card.why_it_matters.length > 0) plan.push({ kind: 'why' });
+  // Full flow (news and entertainment with parties and views): who it affects, why it matters, other views, what you think
+  const fullFlow = Array.isArray(card.views) && card.views.length >= 2;
+  if (fullFlow) {
+    if (Array.isArray(card.parties) && card.parties.length > 0) plan.push({ kind: 'parties' });
+    if (Array.isArray(card.why_it_matters) && card.why_it_matters.length > 0) plan.push({ kind: 'why' });
+    plan.push({ kind: 'views' });
+    if (card.reader_question) plan.push({ kind: 'think' });
+  } else {
+    // Older cards: one body slide, only for a body format with usable data (otherwise the sentences alone)
+    if (card.body_format && card.body_format !== 'sentences' && bodyItems(card, card.body_format)) plan.push({ kind: 'body' });
+    if (Array.isArray(card.why_it_matters) && card.why_it_matters.length > 0) plan.push({ kind: 'why' });
+  }
   // The credit slide comes once, at the end
   plan.push({ kind: 'credit' });
   return plan;
+}
+
+// Parties: what the story means for each party, the same boxes as the views
+function partiesSlide(c, number, total, date, sk) {
+  const inner = c.parties.map(p => box(sk, p.label, p.english, p.korean)).join('');
+  return bodyShell('👥 WHAT IT MEANS FOR', inner, sk, date, number, total);
+}
+
+// Other perspectives: two views from different outlets or groups, then why others might disagree
+function viewsSlide(c, number, total, date, sk) {
+  const inner = c.views.slice(0, 2).map(v => box(sk, v.label, v.english, v.korean)).join('')
+    + (c.disagree ? box(sk, 'WHY OTHERS MIGHT DISAGREE', c.disagree.english, c.disagree.korean) : '');
+  return bodyShell('🔎 OTHER PERSPECTIVES', inner, sk, date, number, total, 'No verdict from us. ' + FOOTER_SWIPE);
+}
+
+// What do you think: one question for readers, with its Korean line
+function thinkSlide(c, number, total, date, sk) {
+  const q = /\?$/.test(c.reader_question) ? c.reader_question : c.reader_question + '?';
+  const inner = `<div style="font-size: 60px; font-weight: 900; line-height: 1.25; color: ${sk.text}">${esc(q)}</div>
+      ${c.reader_question_korean ? `<div style="font-size: 40px; font-weight: 700; line-height: 1.4; color: ${sk.ko}">${esc(c.reader_question_korean)}</div>` : ''}`;
+  return bodyShell('🤔 WHAT DO YOU THINK?', inner, sk, date, number, total);
 }
 
 // All slides of one card, in order, as HTML pages.
@@ -553,6 +584,9 @@ export function buildSlides(card, region, source, assets) {
     if (p.kind === 'title') return titleSlide(card, assets.logo, total, sk);
     if (p.kind === 'body') return bodySlide(card, number, total, dateText(card), sk);
     if (p.kind === 'why') return whySlide(card, number, total, dateText(card), sk);
+    if (p.kind === 'parties') return partiesSlide(card, number, total, dateText(card), sk);
+    if (p.kind === 'views') return viewsSlide(card, number, total, dateText(card), sk);
+    if (p.kind === 'think') return thinkSlide(card, number, total, dateText(card), sk);
     if (p.kind === 'sentence') return sentenceSlide(p.sentence, p.words, p.index, p.count, total, number, dateText(card), sk);
     return creditSlide(card, region, assets.logo, assets.photo, total, dateText(card), sk);
   });
