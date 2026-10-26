@@ -1,9 +1,1114 @@
 {
   "date": "2026-10-26",
   "status": "ai",
-  "note": "4 new cards made, 20 kept. Cost this run about $0.0122",
-  "generated_at": "2026-10-26T06:50:23.806Z",
+  "note": "2 new cards made, 22 kept. Cost this run about $0.0083",
+  "generated_at": "2026-10-26T07:42:32.365Z",
   "cards": [
+    {
+      "category": "World",
+      "korean_title": "푸껫 폭우로 곳곳 침수",
+      "english_title": "Flash floods hit Phuket after heavy rain",
+      "korean_desc": "2026년 10월 26일 태국 푸껫 곳곳이 폭우로 물에 잠겼다. 푸껫시를 포함한 세 구역 모두 침수 피해를 입었다. 늦은 오전 물은 줄었지만, 낮은 지역은 계속 잠겨 있었다. 산사태가 도로를 막았고, 당국은 물길에서 잔해를 치웠다. 약 100가구가 피해를 입었고, 사상자는 보고되지 않았다. 10월 28일까지 폭우가 예보돼 추가 홍수 위험이 커졌다. 보도는 당국과 도로에 집중됐고, 주민 목소리는 빠졌다.",
+      "english_desc": "Heavy rain flooded parts of Phuket, Thailand, on October 26, 2026. All three districts, including Phuket City, were affected. By late morning, water levels fell, but low areas stayed flooded. Mudslides blocked roads, and officials cleared debris from waterways. About 100 households were affected, with no reported casualties. More heavy rain was forecast through October 28, raising further flood risks. The coverage centers officials and roads, not residents’ own accounts.",
+      "hook": "Flash floods hit Phuket. No casualties were reported.",
+      "sticker": "홍수 뒤의 푸껫",
+      "korean_hook": "푸껫 침수 발생. 사상자는 없었다.",
+      "takeaway_english": "Officials must keep clearing debris while watching for more rain.",
+      "takeaway_korean": "당국은 더 많은 비를 살피며 잔해를 계속 치워야 한다.",
+      "why_it_matters": [
+        {
+          "english": "Flooded roads made travel difficult in several parts of a major tourist island.",
+          "korean": "침수된 도로 때문에 주요 관광섬 여러 곳에서 이동이 어려웠다."
+        },
+        {
+          "english": "More rain could bring new floods and landslides through October 28.",
+          "korean": "10월 28일까지 비가 더 오면 홍수와 산사태가 다시 날 수 있다."
+        }
+      ],
+      "source_title": "Flash floods inundate several areas of Thailand’s Phuket island after heavy rain",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "The flooding happened on October 26, 2026.",
+        "Heavy rain was forecast through October 28.",
+        "Officials warned small vehicles to avoid low areas."
+      ],
+      "reader_question": "What should local officials do before the next heavy rain?",
+      "topic_tag": "Flooding",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Flash floods inundate several areas of Thailand’s Phuket island after heavy rain",
+          "date": "2026-10-26",
+          "url": "https://www.thehindu.com/news/international/flash-floods-inundate-several-areas-of-thailands-phuket-island-after-heavy-rain/article71625917.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "푸껫시를",
+          "roman": "pu-kket-si-reul",
+          "english": "Phuket City",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "포함한",
+          "roman": "po-ham-han",
+          "english": "including",
+          "particle": false,
+          "suffix": "한"
+        },
+        {
+          "korean": "세",
+          "roman": "se",
+          "english": "three",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "구역",
+          "roman": "gu-yeok",
+          "english": "districts",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "모두",
+          "roman": "mo-du",
+          "english": "all",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "침수",
+          "roman": "chim-su",
+          "english": "flooding",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "피해를",
+          "roman": "pi-hae-reul",
+          "english": "damage",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "입었다",
+          "roman": "ip-eot-da",
+          "english": "suffered",
+          "particle": false,
+          "suffix": "었다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Heavy rain flooded parts of Phuket, Thailand, on October 26, 2026.",
+          "korean": "2026년 10월 26일 태국 푸껫 곳곳이 폭우로 물에 잠겼다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "26일",
+              "roman": "isib-yuk-il",
+              "english": "26th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "태국",
+              "roman": "tae-guk",
+              "english": "Thailand",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "푸껫",
+              "roman": "pu-kket",
+              "english": "Phuket",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "곳곳이",
+              "roman": "got-got-i",
+              "english": "many areas",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "폭우로",
+              "roman": "pog-u-ro",
+              "english": "because of heavy rain",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "물에",
+              "roman": "mul-e",
+              "english": "under water",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "잠겼다",
+              "roman": "jam-gyeot-da",
+              "english": "were flooded",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "All three districts, including Phuket City, were affected.",
+          "korean": "푸껫시를 포함한 세 구역 모두 침수 피해를 입었다.",
+          "glossary": [
+            {
+              "korean": "푸껫시를",
+              "roman": "pu-kket-si-reul",
+              "english": "Phuket City",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "포함한",
+              "roman": "po-ham-han",
+              "english": "including",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구역",
+              "roman": "gu-yeok",
+              "english": "districts",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "모두",
+              "roman": "mo-du",
+              "english": "all",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "침수",
+              "roman": "chim-su",
+              "english": "flooding",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "피해를",
+              "roman": "pi-hae-reul",
+              "english": "damage",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "입었다",
+              "roman": "ip-eot-da",
+              "english": "suffered",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "By late morning, water levels fell, but low areas stayed flooded.",
+          "korean": "늦은 오전 물은 줄었지만, 낮은 지역은 계속 잠겨 있었다.",
+          "glossary": [
+            {
+              "korean": "늦은",
+              "roman": "neu-jeun",
+              "english": "late",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "오전",
+              "roman": "o-jeon",
+              "english": "morning",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "물은",
+              "roman": "mul-eun",
+              "english": "water",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "줄었지만",
+              "roman": "jul-eot-ji-man",
+              "english": "fell, but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "낮은",
+              "roman": "na-jeun",
+              "english": "low",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "지역은",
+              "roman": "ji-yeok-eun",
+              "english": "areas",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "계속",
+              "roman": "gye-sok",
+              "english": "still",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "잠겨",
+              "roman": "jam-gyeo",
+              "english": "flooded",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있었다",
+              "roman": "it-eot-da",
+              "english": "remained",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "Mudslides blocked roads, and officials cleared debris from waterways.",
+          "korean": "산사태가 도로를 막았고, 당국은 물길에서 잔해를 치웠다.",
+          "glossary": [
+            {
+              "korean": "산사태가",
+              "roman": "san-sa-tae-ga",
+              "english": "mudslides",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "도로를",
+              "roman": "do-ro-reul",
+              "english": "roads",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "막았고",
+              "roman": "ma-gat-go",
+              "english": "blocked",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "당국은",
+              "roman": "dang-guk-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "물길에서",
+              "roman": "mul-gil-e-seo",
+              "english": "from waterways",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "잔해를",
+              "roman": "jan-hae-reul",
+              "english": "debris",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "치웠다",
+              "roman": "chi-wot-da",
+              "english": "cleared",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "About 100 households were affected, with no reported casualties.",
+          "korean": "약 100가구가 피해를 입었고, 사상자는 보고되지 않았다.",
+          "glossary": [
+            {
+              "korean": "약",
+              "roman": "yak",
+              "english": "about",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "100가구가",
+              "roman": "baek-ga-gu-ga",
+              "english": "100 households",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "피해를",
+              "roman": "pi-hae-reul",
+              "english": "damage",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "입었고",
+              "roman": "ip-eot-go",
+              "english": "suffered",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "사상자는",
+              "roman": "sa-sang-ja-neun",
+              "english": "casualties",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "보고되지",
+              "roman": "bo-go-doe-ji",
+              "english": "were not reported",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았다",
+              "roman": "a-naet-da",
+              "english": "did not occur",
+              "particle": false,
+              "suffix": "았다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "More heavy rain was forecast through October 28, raising further flood risks.",
+          "korean": "10월 28일까지 폭우가 예보돼 추가 홍수 위험이 커졌다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일까지",
+              "roman": "isib-pal-il-kka-ji",
+              "english": "through October 28",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "폭우가",
+              "roman": "pog-u-ga",
+              "english": "heavy rain",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "예보돼",
+              "roman": "ye-bo-dwae",
+              "english": "was forecast",
+              "particle": false,
+              "suffix": "돼"
+            },
+            {
+              "korean": "추가",
+              "roman": "chu-ga",
+              "english": "additional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "홍수",
+              "roman": "hong-su",
+              "english": "flood",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "위험이",
+              "roman": "wi-heom-i",
+              "english": "risk",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "커졌다",
+              "roman": "keo-jyeot-da",
+              "english": "increased",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "The coverage centers officials and roads, not residents’ own accounts.",
+          "korean": "보도는 당국과 도로에 집중됐고, 주민 목소리는 빠졌다.",
+          "glossary": [
+            {
+              "korean": "보도는",
+              "roman": "bo-do-neun",
+              "english": "coverage",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "당국과",
+              "roman": "dang-guk-gwa",
+              "english": "officials and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "도로에",
+              "roman": "do-ro-e",
+              "english": "on roads",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "집중됐고",
+              "roman": "jip-jung-dwaet-go",
+              "english": "focused",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "주민",
+              "roman": "ju-min",
+              "english": "residents",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "목소리는",
+              "roman": "mok-so-ri-neun",
+              "english": "voices",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "빠졌다",
+              "roman": "ppa-jyeot-da",
+              "english": "were missing",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/flash-floods-inundate-several-areas-of-thailands-phuket-island-after-heavy-rain/article71625917.ece",
+      "short_english": "All three districts, including Phuket City, were affected.",
+      "short_korean": "푸껫시를 포함한 세 구역 모두 침수 피해를 입었다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/global/a6d578fd73f9/1.jpg",
+        "images/global/a6d578fd73f9/2.jpg",
+        "images/global/a6d578fd73f9/3.jpg",
+        "images/global/a6d578fd73f9/4.jpg",
+        "images/global/a6d578fd73f9/5.jpg",
+        "images/global/a6d578fd73f9/6.jpg",
+        "images/global/a6d578fd73f9/7.jpg",
+        "images/global/a6d578fd73f9/8.jpg",
+        "images/global/a6d578fd73f9/9.jpg",
+        "images/global/a6d578fd73f9/10.jpg",
+        "images/global/a6d578fd73f9/11.jpg"
+      ],
+      "images_v": 22,
+      "caption_file": "images/global/a6d578fd73f9/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "러시아 공격으로 우크라이나 6명 부상",
+      "english_title": "Russian Strikes Injure Six in Ukraine",
+      "korean_desc": "러시아군은 2026년 10월 26일 우크라이나 자포리자와 체르니히우를 밤새 공격했습니다. 미하일로 세미킨 주지사에 따르면 자포리자에서 4명이 다쳤습니다. 우크라이나 응급기관은 체르니히우 지역에서 2명이 더 다쳤다고 밝혔습니다. 러시아는 오데사 인근 전력소와 창고, 항구 시설, 화물선을 공격했다고 밝혔습니다. 미국은 에너지 가격 우려로 우크라이나에 러시아 정유소 공격 중단을 촉구했습니다. 젤렌스키는 러시아가 전력 시설 공격을 멈추거나 미국 지원을 받아야 중단한다고 말했습니다.",
+      "english_desc": "Russian forces carried out overnight strikes in Ukraine’s Zaporizhzhia and Chernihiv regions on October 26, 2026. Four people were injured in Zaporizhzhia, according to regional Governor Mykhailo Semikin. Ukraine’s emergency service said two more people were injured in the Chernihiv region. Russia said it struck power stations, a warehouse, port infrastructure, and a cargo vessel near Odesa. The United States has urged Ukraine to stop attacks on Russian oil refineries because of energy-price concerns. Zelensky said Ukraine would stop those strikes only if Russia stopped hitting power infrastructure or received more U.S. support.",
+      "hook": "Russian strikes injured six people in Ukraine.",
+      "sticker": "전쟁 속 부상 소식",
+      "korean_hook": "러시아 공격으로 우크라이나에서 6명이 다쳤습니다.",
+      "takeaway_english": "The dispute over attacks on energy sites remains unresolved.",
+      "takeaway_korean": "에너지 시설 공격 논쟁은 아직 해결되지 않았습니다.",
+      "why_it_matters": [
+        {
+          "english": "The strikes injured people in two Ukrainian areas.",
+          "korean": "공격으로 우크라이나 두 지역에서 사람들이 다쳤습니다."
+        },
+        {
+          "english": "Power infrastructure remains central to the dispute over further attacks.",
+          "korean": "전력 시설이 추가 공격 논쟁의 중심에 있습니다."
+        },
+        {
+          "english": "The United States is also linking the issue to energy prices.",
+          "korean": "미국은 이 문제를 에너지 가격과도 연결하고 있습니다."
+        }
+      ],
+      "source_title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "The reported injuries occurred overnight on October 25–26, 2026.",
+        "The account relies on Ukrainian and Russian official statements.",
+        "The report does not independently verify the claimed targets."
+      ],
+      "reader_question": "What should happen before either side changes its attacks?",
+      "topic_tag": "War",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
+          "date": "2026-10-26",
+          "url": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "미하일로",
+          "roman": "mihail-lo",
+          "english": "Mykhailo",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "세미킨",
+          "roman": "semikin",
+          "english": "Semikin",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "주지사에",
+          "roman": "jujisa-e",
+          "english": "according to governor",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "따르면",
+          "roman": "ttareumyeon",
+          "english": "according to",
+          "particle": false,
+          "suffix": "면"
+        },
+        {
+          "korean": "자포리자에서",
+          "roman": "japorija-eseo",
+          "english": "in Zaporizhzhia",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "4명이",
+          "roman": "neomyeong-i",
+          "english": "four people",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "다쳤습니다",
+          "roman": "dachyeotseumnida",
+          "english": "were injured",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "context",
+          "english": "Russian forces carried out overnight strikes in Ukraine’s Zaporizhzhia and Chernihiv regions on October 26, 2026.",
+          "korean": "러시아군은 2026년 10월 26일 우크라이나 자포리자와 체르니히우를 밤새 공격했습니다.",
+          "glossary": [
+            {
+              "korean": "러시아군은",
+              "roman": "reosia-gun-eun",
+              "english": "Russian forces",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yungnyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "sipurwol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "26일",
+              "roman": "isibyugil",
+              "english": "26th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "우크라이나",
+              "roman": "ukeulaina",
+              "english": "Ukraine",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자포리자와",
+              "roman": "japorija-wa",
+              "english": "Zaporizhzhia and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "체르니히우를",
+              "roman": "chereunihiu-reul",
+              "english": "Chernihiv",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "밤새",
+              "roman": "bamsae",
+              "english": "overnight",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공격했습니다",
+              "roman": "gonggyeokhaetseumnida",
+              "english": "attacked",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "Four people were injured in Zaporizhzhia, according to regional Governor Mykhailo Semikin.",
+          "korean": "미하일로 세미킨 주지사에 따르면 자포리자에서 4명이 다쳤습니다.",
+          "glossary": [
+            {
+              "korean": "미하일로",
+              "roman": "mihail-lo",
+              "english": "Mykhailo",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세미킨",
+              "roman": "semikin",
+              "english": "Semikin",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주지사에",
+              "roman": "jujisa-e",
+              "english": "according to governor",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "따르면",
+              "roman": "ttareumyeon",
+              "english": "according to",
+              "particle": false,
+              "suffix": "면"
+            },
+            {
+              "korean": "자포리자에서",
+              "roman": "japorija-eseo",
+              "english": "in Zaporizhzhia",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "4명이",
+              "roman": "neomyeong-i",
+              "english": "four people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "다쳤습니다",
+              "roman": "dachyeotseumnida",
+              "english": "were injured",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "Ukraine’s emergency service said two more people were injured in the Chernihiv region.",
+          "korean": "우크라이나 응급기관은 체르니히우 지역에서 2명이 더 다쳤다고 밝혔습니다.",
+          "glossary": [
+            {
+              "korean": "우크라이나",
+              "roman": "ukeulaina",
+              "english": "Ukraine’s",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "응급기관은",
+              "roman": "eunggeupgigan-eun",
+              "english": "emergency service",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "체르니히우",
+              "roman": "chereunihiu",
+              "english": "Chernihiv",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역에서",
+              "roman": "jiyeok-eseo",
+              "english": "in the region",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "2명이",
+              "roman": "du-myeong-i",
+              "english": "two people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "더",
+              "roman": "deo",
+              "english": "more",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "다쳤다고",
+              "roman": "dachyeotda-go",
+              "english": "were injured",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔습니다",
+              "roman": "balhyeotseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "Russia said it struck power stations, a warehouse, port infrastructure, and a cargo vessel near Odesa.",
+          "korean": "러시아는 오데사 인근 전력소와 창고, 항구 시설, 화물선을 공격했다고 밝혔습니다.",
+          "glossary": [
+            {
+              "korean": "러시아는",
+              "roman": "reosia-neun",
+              "english": "Russia",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "오데사",
+              "roman": "odesa",
+              "english": "Odesa",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인근",
+              "roman": "ingeun",
+              "english": "near",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전력소와",
+              "roman": "jeonlyeokso-wa",
+              "english": "power stations and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "창고",
+              "roman": "changgo",
+              "english": "warehouse",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "항구",
+              "roman": "hanggu",
+              "english": "port",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시설",
+              "roman": "siseol",
+              "english": "infrastructure",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "화물선을",
+              "roman": "hwamul-seon-eul",
+              "english": "cargo vessel",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "공격했다고",
+              "roman": "gonggyeokhaetda-go",
+              "english": "struck",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔습니다",
+              "roman": "balhyeotseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "The United States has urged Ukraine to stop attacks on Russian oil refineries because of energy-price concerns.",
+          "korean": "미국은 에너지 가격 우려로 우크라이나에 러시아 정유소 공격 중단을 촉구했습니다.",
+          "glossary": [
+            {
+              "korean": "미국은",
+              "roman": "miguk-eun",
+              "english": "United States",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "에너지",
+              "roman": "eneoji",
+              "english": "energy",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "가격",
+              "roman": "gagyeok",
+              "english": "prices",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "우려로",
+              "roman": "uryeo-ro",
+              "english": "because of concern",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "우크라이나에",
+              "roman": "ukeulaina-e",
+              "english": "to Ukraine",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "러시아",
+              "roman": "reosia",
+              "english": "Russian",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정유소",
+              "roman": "jeong-yuso",
+              "english": "oil refineries",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공격",
+              "roman": "gonggyeok",
+              "english": "attacks",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중단을",
+              "roman": "jungdan-eul",
+              "english": "stopping",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "촉구했습니다",
+              "roman": "chokguhaetseumnida",
+              "english": "urged",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "Zelensky said Ukraine would stop those strikes only if Russia stopped hitting power infrastructure or received more U.S. support.",
+          "korean": "젤렌스키는 러시아가 전력 시설 공격을 멈추거나 미국 지원을 받아야 중단한다고 말했습니다.",
+          "glossary": [
+            {
+              "korean": "젤렌스키는",
+              "roman": "jellenseuki-neun",
+              "english": "Zelensky",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "러시아가",
+              "roman": "reosia-ga",
+              "english": "Russia",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "전력",
+              "roman": "jeonlyeok",
+              "english": "power",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시설",
+              "roman": "siseol",
+              "english": "infrastructure",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공격을",
+              "roman": "gonggyeok-eul",
+              "english": "attacks",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "멈추거나",
+              "roman": "meomchugeona",
+              "english": "stopped or",
+              "particle": false,
+              "suffix": "거나"
+            },
+            {
+              "korean": "미국",
+              "roman": "miguk",
+              "english": "U.S.",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지원을",
+              "roman": "jiwon-eul",
+              "english": "support",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "받아야",
+              "roman": "badaya",
+              "english": "must receive",
+              "particle": false,
+              "suffix": "아야"
+            },
+            {
+              "korean": "중단한다고",
+              "roman": "jungdanhanda-go",
+              "english": "would stop",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했습니다",
+              "roman": "malhaetseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece",
+      "short_english": "Four people were injured in Zaporizhzhia, according to regional Governor Mykhailo Semikin.",
+      "short_korean": "미하일로 세미킨 주지사에 따르면 자포리자에서 4명이 다쳤습니다.",
+      "date": "2026-10-26",
+      "images": [
+        "images/global/0c2630e50230/1.jpg",
+        "images/global/0c2630e50230/2.jpg",
+        "images/global/0c2630e50230/3.jpg",
+        "images/global/0c2630e50230/4.jpg",
+        "images/global/0c2630e50230/5.jpg",
+        "images/global/0c2630e50230/6.jpg",
+        "images/global/0c2630e50230/7.jpg",
+        "images/global/0c2630e50230/8.jpg",
+        "images/global/0c2630e50230/9.jpg",
+        "images/global/0c2630e50230/10.jpg"
+      ],
+      "images_v": 22,
+      "caption_file": "images/global/0c2630e50230/caption.txt"
+    },
     {
       "category": "World",
       "korean_title": "트럼프 “캐나다와 곧 합의”",
@@ -1696,552 +2801,6 @@
     },
     {
       "category": "World",
-      "korean_title": "러시아 공격으로 우크라이나 6명 부상",
-      "english_title": "Russian Strikes Injure Six in Ukraine",
-      "korean_desc": "러시아군은 2026년 10월 26일 우크라이나 자포리자와 체르니히우를 밤새 공격했습니다. 미하일로 세미킨 주지사에 따르면 자포리자에서 4명이 다쳤습니다. 우크라이나 응급기관은 체르니히우 지역에서 2명이 더 다쳤다고 밝혔습니다. 러시아는 오데사 인근 전력소와 창고, 항구 시설, 화물선을 공격했다고 밝혔습니다. 미국은 에너지 가격 우려로 우크라이나에 러시아 정유소 공격 중단을 촉구했습니다. 젤렌스키는 러시아가 전력 시설 공격을 멈추거나 미국 지원을 받아야 중단한다고 말했습니다.",
-      "english_desc": "Russian forces carried out overnight strikes in Ukraine’s Zaporizhzhia and Chernihiv regions on October 26, 2026. Four people were injured in Zaporizhzhia, according to regional Governor Mykhailo Semikin. Ukraine’s emergency service said two more people were injured in the Chernihiv region. Russia said it struck power stations, a warehouse, port infrastructure, and a cargo vessel near Odesa. The United States has urged Ukraine to stop attacks on Russian oil refineries because of energy-price concerns. Zelensky said Ukraine would stop those strikes only if Russia stopped hitting power infrastructure or received more U.S. support.",
-      "hook": "Russian strikes injured six people in Ukraine.",
-      "sticker": "전쟁 속 부상 소식",
-      "korean_hook": "러시아 공격으로 우크라이나에서 6명이 다쳤습니다.",
-      "takeaway_english": "The dispute over attacks on energy sites remains unresolved.",
-      "takeaway_korean": "에너지 시설 공격 논쟁은 아직 해결되지 않았습니다.",
-      "why_it_matters": [
-        {
-          "english": "The strikes injured people in two Ukrainian areas.",
-          "korean": "공격으로 우크라이나 두 지역에서 사람들이 다쳤습니다."
-        },
-        {
-          "english": "Power infrastructure remains central to the dispute over further attacks.",
-          "korean": "전력 시설이 추가 공격 논쟁의 중심에 있습니다."
-        },
-        {
-          "english": "The United States is also linking the issue to energy prices.",
-          "korean": "미국은 이 문제를 에너지 가격과도 연결하고 있습니다."
-        }
-      ],
-      "source_title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "The reported injuries occurred overnight on October 25–26, 2026.",
-        "The account relies on Ukrainian and Russian official statements.",
-        "The report does not independently verify the claimed targets."
-      ],
-      "reader_question": "What should happen before either side changes its attacks?",
-      "topic_tag": "War",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Six injured in Russian strikes on Ukraine’s Zaporizhzhia, Chernihiv, officials say",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "미하일로",
-          "roman": "mihail-lo",
-          "english": "Mykhailo",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "세미킨",
-          "roman": "semikin",
-          "english": "Semikin",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "주지사에",
-          "roman": "jujisa-e",
-          "english": "according to governor",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "따르면",
-          "roman": "ttareumyeon",
-          "english": "according to",
-          "particle": false,
-          "suffix": "면"
-        },
-        {
-          "korean": "자포리자에서",
-          "roman": "japorija-eseo",
-          "english": "in Zaporizhzhia",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "4명이",
-          "roman": "neomyeong-i",
-          "english": "four people",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "다쳤습니다",
-          "roman": "dachyeotseumnida",
-          "english": "were injured",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "Russian forces carried out overnight strikes in Ukraine’s Zaporizhzhia and Chernihiv regions on October 26, 2026.",
-          "korean": "러시아군은 2026년 10월 26일 우크라이나 자포리자와 체르니히우를 밤새 공격했습니다.",
-          "glossary": [
-            {
-              "korean": "러시아군은",
-              "roman": "reosia-gun-eun",
-              "english": "Russian forces",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yungnyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sipurwol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "26일",
-              "roman": "isibyugil",
-              "english": "26th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "우크라이나",
-              "roman": "ukeulaina",
-              "english": "Ukraine",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "자포리자와",
-              "roman": "japorija-wa",
-              "english": "Zaporizhzhia and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "체르니히우를",
-              "roman": "chereunihiu-reul",
-              "english": "Chernihiv",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "밤새",
-              "roman": "bamsae",
-              "english": "overnight",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공격했습니다",
-              "roman": "gonggyeokhaetseumnida",
-              "english": "attacked",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Four people were injured in Zaporizhzhia, according to regional Governor Mykhailo Semikin.",
-          "korean": "미하일로 세미킨 주지사에 따르면 자포리자에서 4명이 다쳤습니다.",
-          "glossary": [
-            {
-              "korean": "미하일로",
-              "roman": "mihail-lo",
-              "english": "Mykhailo",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "세미킨",
-              "roman": "semikin",
-              "english": "Semikin",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주지사에",
-              "roman": "jujisa-e",
-              "english": "according to governor",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "따르면",
-              "roman": "ttareumyeon",
-              "english": "according to",
-              "particle": false,
-              "suffix": "면"
-            },
-            {
-              "korean": "자포리자에서",
-              "roman": "japorija-eseo",
-              "english": "in Zaporizhzhia",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "4명이",
-              "roman": "neomyeong-i",
-              "english": "four people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "다쳤습니다",
-              "roman": "dachyeotseumnida",
-              "english": "were injured",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Ukraine’s emergency service said two more people were injured in the Chernihiv region.",
-          "korean": "우크라이나 응급기관은 체르니히우 지역에서 2명이 더 다쳤다고 밝혔습니다.",
-          "glossary": [
-            {
-              "korean": "우크라이나",
-              "roman": "ukeulaina",
-              "english": "Ukraine’s",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "응급기관은",
-              "roman": "eunggeupgigan-eun",
-              "english": "emergency service",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "체르니히우",
-              "roman": "chereunihiu",
-              "english": "Chernihiv",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지역에서",
-              "roman": "jiyeok-eseo",
-              "english": "in the region",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "2명이",
-              "roman": "du-myeong-i",
-              "english": "two people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "다쳤다고",
-              "roman": "dachyeotda-go",
-              "english": "were injured",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "밝혔습니다",
-              "roman": "balhyeotseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Russia said it struck power stations, a warehouse, port infrastructure, and a cargo vessel near Odesa.",
-          "korean": "러시아는 오데사 인근 전력소와 창고, 항구 시설, 화물선을 공격했다고 밝혔습니다.",
-          "glossary": [
-            {
-              "korean": "러시아는",
-              "roman": "reosia-neun",
-              "english": "Russia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "오데사",
-              "roman": "odesa",
-              "english": "Odesa",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "인근",
-              "roman": "ingeun",
-              "english": "near",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전력소와",
-              "roman": "jeonlyeokso-wa",
-              "english": "power stations and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "창고",
-              "roman": "changgo",
-              "english": "warehouse",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "항구",
-              "roman": "hanggu",
-              "english": "port",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시설",
-              "roman": "siseol",
-              "english": "infrastructure",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "화물선을",
-              "roman": "hwamul-seon-eul",
-              "english": "cargo vessel",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공격했다고",
-              "roman": "gonggyeokhaetda-go",
-              "english": "struck",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "밝혔습니다",
-              "roman": "balhyeotseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The United States has urged Ukraine to stop attacks on Russian oil refineries because of energy-price concerns.",
-          "korean": "미국은 에너지 가격 우려로 우크라이나에 러시아 정유소 공격 중단을 촉구했습니다.",
-          "glossary": [
-            {
-              "korean": "미국은",
-              "roman": "miguk-eun",
-              "english": "United States",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "에너지",
-              "roman": "eneoji",
-              "english": "energy",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "가격",
-              "roman": "gagyeok",
-              "english": "prices",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "우려로",
-              "roman": "uryeo-ro",
-              "english": "because of concern",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "우크라이나에",
-              "roman": "ukeulaina-e",
-              "english": "to Ukraine",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "러시아",
-              "roman": "reosia",
-              "english": "Russian",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정유소",
-              "roman": "jeong-yuso",
-              "english": "oil refineries",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공격",
-              "roman": "gonggyeok",
-              "english": "attacks",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중단을",
-              "roman": "jungdan-eul",
-              "english": "stopping",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "촉구했습니다",
-              "roman": "chokguhaetseumnida",
-              "english": "urged",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "Zelensky said Ukraine would stop those strikes only if Russia stopped hitting power infrastructure or received more U.S. support.",
-          "korean": "젤렌스키는 러시아가 전력 시설 공격을 멈추거나 미국 지원을 받아야 중단한다고 말했습니다.",
-          "glossary": [
-            {
-              "korean": "젤렌스키는",
-              "roman": "jellenseuki-neun",
-              "english": "Zelensky",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "러시아가",
-              "roman": "reosia-ga",
-              "english": "Russia",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "전력",
-              "roman": "jeonlyeok",
-              "english": "power",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시설",
-              "roman": "siseol",
-              "english": "infrastructure",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공격을",
-              "roman": "gonggyeok-eul",
-              "english": "attacks",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "멈추거나",
-              "roman": "meomchugeona",
-              "english": "stopped or",
-              "particle": false,
-              "suffix": "거나"
-            },
-            {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "U.S.",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지원을",
-              "roman": "jiwon-eul",
-              "english": "support",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "받아야",
-              "roman": "badaya",
-              "english": "must receive",
-              "particle": false,
-              "suffix": "아야"
-            },
-            {
-              "korean": "중단한다고",
-              "roman": "jungdanhanda-go",
-              "english": "would stop",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했습니다",
-              "roman": "malhaetseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece",
-      "short_english": "Four people were injured in Zaporizhzhia, according to regional Governor Mykhailo Semikin.",
-      "short_korean": "미하일로 세미킨 주지사에 따르면 자포리자에서 4명이 다쳤습니다.",
-      "date": "2026-10-26",
-      "images": [
-        "images/global/0c2630e50230/1.jpg",
-        "images/global/0c2630e50230/2.jpg",
-        "images/global/0c2630e50230/3.jpg",
-        "images/global/0c2630e50230/4.jpg",
-        "images/global/0c2630e50230/5.jpg",
-        "images/global/0c2630e50230/6.jpg",
-        "images/global/0c2630e50230/7.jpg",
-        "images/global/0c2630e50230/8.jpg",
-        "images/global/0c2630e50230/9.jpg",
-        "images/global/0c2630e50230/10.jpg"
-      ],
-      "images_v": 22,
-      "caption_file": "images/global/0c2630e50230/caption.txt"
-    },
-    {
-      "category": "World",
       "korean_title": "요르단 교회 공격 용의자 3명 체포",
       "english_title": "Jordan Arrests Three Suspects in Church Attack",
       "korean_desc": "무장 괴한들이 2026년 10월 23일 카라크 근처 하무드 마을 장례식에서 교회를 공격했습니다. 최신 보도에 따르면 공격으로 9명이 숨지고 20명 넘게 다쳤습니다. 10월 26일 요르단군은 카라크 새벽 총격 뒤 용의자 3명을 체포했습니다. 당국은 용의자 3명이 모두 다쳤고 보안요원은 다치지 않았다고 밝혔습니다. 마젠 알파라야 내무장관은 이들이 공격 책임자라고 밝혔습니다. 어떤 단체도 책임을 주장하지 않았고 당국은 동기를 공개하지 않았습니다.",
@@ -3789,51 +4348,44 @@
     },
     {
       "category": "World",
-      "korean_title": "이스라엘 시장, 선거 결과 주목",
-      "english_title": "Israeli Markets Watch the Election",
-      "korean_desc": "이스라엘 시장은 10월 27일 선거 전 3년 전쟁에도 올랐다. 일부 투자자는 야당이 베냐민 네타냐후를 이기면 더 오를 것으로 본다. 여론조사는 네타냐후와 가디 아이젠코트 어느 쪽도 61석을 못 얻는다고 본다. 10월 7일 공격 뒤 텔아비브 시장은 130%, 셰켈은 25% 올랐다. 분석가들은 상승을 기술 부문과 인공지능 붐, 국방비 증가와 연결한다. 투자자들은 불확실한 결과가 예산과 개혁, 투자를 늦출까 걱정한다.",
-      "english_desc": "Israel’s markets have risen during three years of war and political turmoil before the October 27 election. Some investors expect more gains if the opposition defeats Prime Minister Benjamin Netanyahu. Opinion polls suggest neither Netanyahu’s bloc nor Gadi Eisenkot’s alliance will reach the 61 seats needed to govern. Since the October 7 attacks, the Tel Aviv stock market has gained 130% and the shekel has gained 25%. Analysts link the rise to Israel’s technology sector, artificial-intelligence boom, and higher defense spending. Investors fear that an inconclusive result could delay budgets, reforms, and investment.",
-      "hook": "Markets may rise if Netanyahu loses.",
-      "sticker": "Markets await the vote",
-      "korean_hook": "네타냐후가 지면 시장이 오를 수 있다.",
-      "takeaway_english": "Investors are watching both the vote and the possibility of a coalition deadlock.",
-      "takeaway_korean": "투자자들은 선거와 연정 교착 가능성을 함께 지켜보고 있다.",
+      "korean_title": "네타냐후 패배에 이스라엘 시장 기대",
+      "english_title": "Israel markets see possible gains if Netanyahu loses",
+      "korean_desc": "이스라엘 시장은 3년 전쟁과 정치 혼란 속에서도 올랐다. 2026년 10월 27일 선거는 투자자들의 위험 판단을 바꿀 수 있다. 야권 지도자 가디 에이젠코트가 베냐민 네타냐후 총리를 이기면 투자자들은 상승을 기대한다. 그러나 여론조사상 어느 쪽도 집권에 필요한 61석을 얻기 어렵다. 그 결과 연정 협상, 재선거, 또는 단기 시장 변동이 생길 수 있다. 다른 투자자들은 어느 결과에서도 이스라엘 기업과 채권을 여전히 믿는다. 10월 26일 현재 선거 결과는 알려지지 않았다.",
+      "english_desc": "Israel’s markets have risen during three years of war and political turmoil. The October 27, 2026 election could change investors’ view of risk. Investors see possible gains if opposition leader Gadi Eisenkot defeats Prime Minister Benjamin Netanyahu. But polls show neither side likely to win the 61 seats needed to govern. That could bring coalition talks, another election, or short-term market swings. Other investors still trust Israeli companies and bonds under either result. As of October 26, the election result was not known.",
+      "hook": "Investors see upside if Netanyahu loses.",
+      "sticker": "선거와 시장의 갈림길",
+      "korean_hook": "네타냐후 패배에 시장은 상승을 기대한다.",
+      "takeaway_english": "The vote may change political risk, but investors still face an uncertain result.",
+      "takeaway_korean": "투표는 정치 위험을 바꿀 수 있지만 결과는 여전히 불확실하다.",
       "why_it_matters": [
         {
-          "english": "Election uncertainty can affect savings, investments, the currency, and government budgets.",
-          "korean": "선거 불확실성은 저축과 투자, 통화, 정부 예산에 영향을 줄 수 있다."
+          "english": "The election could move Israel’s currency by as much as 3 percent.",
+          "korean": "선거 결과에 따라 이스라엘 통화가 최대 3% 움직일 수 있다."
         },
         {
-          "english": "The result may also affect regional tensions and Israel’s international relationships.",
-          "korean": "결과는 지역 긴장과 이스라엘의 국제 관계에도 영향을 줄 수 있다."
+          "english": "A long coalition process could delay budgets, reforms, and investment.",
+          "korean": "긴 연정 협상은 예산과 개혁, 투자를 늦출 수 있다."
+        },
+        {
+          "english": "War costs and higher public debt remain economic concerns after the market rally.",
+          "korean": "시장 상승 뒤에도 전쟁 비용과 늘어난 국가 부채는 경제 걱정거리다."
         }
       ],
       "source_title": "Israel markets see upside in Netanyahu defeat after three-year rally",
-      "hook_format": "question-reveal",
-      "body_format": "two_views",
-      "question": "Could a Netanyahu defeat help Israeli markets?",
-      "korean_question": "네타냐후의 패배가 시장에 도움이 될까?",
-      "format_data": {
-        "views": [
-          {
-            "label": "Some investors",
-            "english": "An opposition victory could reduce political risk and improve relations with Western allies.",
-            "korean": "야당 승리는 정치적 위험을 줄이고 서방 동맹과의 관계를 개선할 수 있다."
-          },
-          {
-            "label": "Other investors",
-            "english": "Israeli companies and bonds may remain strong even if Netanyahu stays in power.",
-            "korean": "네타냐후가 집권해도 이스라엘 기업과 채권은 강할 수 있다."
-          }
-        ]
-      },
-      "serious": false,
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
       "caption_lines": [
         "Israel votes on October 27, 2026.",
-        "Neither main bloc is expected to reach 61 Knesset seats.",
-        "Markets rose strongly during the previous three years."
+        "A government needs 61 of 120 Knesset seats.",
+        "The election result was not yet known on October 26."
       ],
-      "reader_question": "Should investors trust market predictions about elections?",
+      "reader_question": "Should investors care more about election results or long-term economic strength?",
       "topic_tag": "Markets",
       "sources": [
         {
@@ -3845,72 +4397,72 @@
       ],
       "glossary": [
         {
-          "korean": "일부",
-          "roman": "il-bu",
-          "english": "some",
+          "korean": "2026년",
+          "roman": "icheon-isip-yuk-nyeon",
+          "english": "2026",
           "particle": false,
-          "suffix": ""
+          "suffix": "년"
         },
         {
-          "korean": "투자자는",
-          "roman": "tu-ja-ja-neun",
-          "english": "investors",
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "27일",
+          "roman": "isib-chil-il",
+          "english": "27th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "선거는",
+          "roman": "seon-geo-neun",
+          "english": "election",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "야당이",
-          "roman": "ya-dang-i",
-          "english": "opposition",
+          "korean": "투자자들의",
+          "roman": "tu-ja-ja-deul-ui",
+          "english": "investors’",
           "particle": false,
-          "suffix": "이"
+          "suffix": "의"
         },
         {
-          "korean": "베냐민",
-          "roman": "Be-nya-min",
-          "english": "Benjamin",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "네타냐후를",
-          "roman": "Ne-ta-nya-hu-reul",
-          "english": "Netanyahu",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "이기면",
-          "roman": "i-gi-myeon",
-          "english": "if defeats",
-          "particle": false,
-          "suffix": "면"
-        },
-        {
-          "korean": "더",
-          "roman": "deo",
-          "english": "more",
+          "korean": "위험",
+          "roman": "wi-heom",
+          "english": "risk",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "오를",
-          "roman": "o-reul",
-          "english": "rise",
+          "korean": "판단을",
+          "roman": "pan-dan-eul",
+          "english": "assessment",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "바꿀",
+          "roman": "ba-kkul",
+          "english": "change",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "것으로",
-          "roman": "geot-eu-ro",
-          "english": "as expected",
+          "korean": "수",
+          "roman": "su",
+          "english": "possibility",
           "particle": false,
-          "suffix": "으로"
+          "suffix": ""
         },
         {
-          "korean": "본다",
-          "roman": "bon-da",
-          "english": "believe",
+          "korean": "있다",
+          "roman": "it-da",
+          "english": "can",
           "particle": false,
           "suffix": "다"
         }
@@ -3918,265 +4470,13 @@
       "sentences": [
         {
           "stage": "context",
-          "english": "Israel’s markets have risen during three years of war and political turmoil before the October 27 election.",
-          "korean": "이스라엘 시장은 10월 27일 선거 전 3년 전쟁에도 올랐다.",
+          "english": "Israel’s markets have risen during three years of war and political turmoil.",
+          "korean": "이스라엘 시장은 3년 전쟁과 정치 혼란 속에서도 올랐다.",
           "glossary": [
             {
               "korean": "이스라엘",
-              "roman": "I-seu-ra-el",
+              "roman": "i-seu-ra-el",
               "english": "Israel",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시장은",
-              "roman": "si-jang-eun",
-              "english": "markets",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "10월",
-              "roman": "si-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "27일",
-              "roman": "i-sip-chil-il",
-              "english": "27th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "선거",
-              "roman": "seon-geo",
-              "english": "election",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전",
-              "roman": "jeon",
-              "english": "before",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "3년",
-              "roman": "sam-nyeon",
-              "english": "three years",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전쟁에도",
-              "roman": "jeon-jaeng-edo",
-              "english": "despite war",
-              "particle": false,
-              "suffix": "에도"
-            },
-            {
-              "korean": "올랐다",
-              "roman": "ol-lat-da",
-              "english": "rose",
-              "particle": false,
-              "suffix": "랐다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Some investors expect more gains if the opposition defeats Prime Minister Benjamin Netanyahu.",
-          "korean": "일부 투자자는 야당이 베냐민 네타냐후를 이기면 더 오를 것으로 본다.",
-          "glossary": [
-            {
-              "korean": "일부",
-              "roman": "il-bu",
-              "english": "some",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "투자자는",
-              "roman": "tu-ja-ja-neun",
-              "english": "investors",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "야당이",
-              "roman": "ya-dang-i",
-              "english": "opposition",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "베냐민",
-              "roman": "Be-nya-min",
-              "english": "Benjamin",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "네타냐후를",
-              "roman": "Ne-ta-nya-hu-reul",
-              "english": "Netanyahu",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "이기면",
-              "roman": "i-gi-myeon",
-              "english": "if defeats",
-              "particle": false,
-              "suffix": "면"
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오를",
-              "roman": "o-reul",
-              "english": "rise",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "것으로",
-              "roman": "geot-eu-ro",
-              "english": "as expected",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "본다",
-              "roman": "bon-da",
-              "english": "believe",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Opinion polls suggest neither Netanyahu’s bloc nor Gadi Eisenkot’s alliance will reach the 61 seats needed to govern.",
-          "korean": "여론조사는 네타냐후와 가디 아이젠코트 어느 쪽도 61석을 못 얻는다고 본다.",
-          "glossary": [
-            {
-              "korean": "여론조사는",
-              "roman": "yeo-ron-jo-sa-neun",
-              "english": "opinion polls",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "네타냐후와",
-              "roman": "Ne-ta-nya-hu-wa",
-              "english": "Netanyahu and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "가디",
-              "roman": "Ga-di",
-              "english": "Gadi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "아이젠코트",
-              "roman": "A-i-jen-ko-teu",
-              "english": "Eisenkot",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "어느",
-              "roman": "eo-neu",
-              "english": "either",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "쪽도",
-              "roman": "jjok-do",
-              "english": "side either",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "61석을",
-              "roman": "yug-sip-il-seog-eul",
-              "english": "61 seats",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "못",
-              "roman": "mot",
-              "english": "cannot",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "얻는다고",
-              "roman": "eot-neun-da-go",
-              "english": "will win",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "본다",
-              "roman": "bon-da",
-              "english": "suggest",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Since the October 7 attacks, the Tel Aviv stock market has gained 130% and the shekel has gained 25%.",
-          "korean": "10월 7일 공격 뒤 텔아비브 시장은 130%, 셰켈은 25% 올랐다.",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "si-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "7일",
-              "roman": "chil-il",
-              "english": "7th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "공격",
-              "roman": "gong-gyeok",
-              "english": "attack",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "텔아비브",
-              "roman": "Tel-a-bi-beu",
-              "english": "Tel Aviv",
               "particle": false,
               "suffix": ""
             },
@@ -4188,96 +4488,187 @@
               "suffix": "은"
             },
             {
-              "korean": "셰켈은",
-              "roman": "sye-kel-eun",
-              "english": "shekel",
+              "korean": "3년",
+              "roman": "sam-nyeon",
+              "english": "three years",
               "particle": false,
-              "suffix": "은"
+              "suffix": "년"
+            },
+            {
+              "korean": "전쟁과",
+              "roman": "jeon-jaeng-gwa",
+              "english": "war and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "정치",
+              "roman": "jeong-chi",
+              "english": "political",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "혼란",
+              "roman": "hon-ran",
+              "english": "turmoil",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "속에서도",
+              "roman": "sok-e-seo-do",
+              "english": "even amid",
+              "particle": false,
+              "suffix": "에서도"
             },
             {
               "korean": "올랐다",
               "roman": "ol-lat-da",
               "english": "rose",
               "particle": false,
-              "suffix": "랐다"
+              "suffix": ""
             }
           ]
         },
         {
           "stage": "summary",
-          "english": "Analysts link the rise to Israel’s technology sector, artificial-intelligence boom, and higher defense spending.",
-          "korean": "분석가들은 상승을 기술 부문과 인공지능 붐, 국방비 증가와 연결한다.",
+          "english": "The October 27, 2026 election could change investors’ view of risk.",
+          "korean": "2026년 10월 27일 선거는 투자자들의 위험 판단을 바꿀 수 있다.",
           "glossary": [
             {
-              "korean": "분석가들은",
-              "roman": "bun-seok-ga-deul-eun",
-              "english": "analysts",
+              "korean": "2026년",
+              "roman": "icheon-isip-yuk-nyeon",
+              "english": "2026",
               "particle": false,
-              "suffix": "은"
+              "suffix": "년"
             },
             {
-              "korean": "상승을",
-              "roman": "sang-seung-eul",
-              "english": "rise",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "27일",
+              "roman": "isib-chil-il",
+              "english": "27th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "선거는",
+              "roman": "seon-geo-neun",
+              "english": "election",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "투자자들의",
+              "roman": "tu-ja-ja-deul-ui",
+              "english": "investors’",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "위험",
+              "roman": "wi-heom",
+              "english": "risk",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "판단을",
+              "roman": "pan-dan-eul",
+              "english": "assessment",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "기술",
-              "roman": "gi-sul",
-              "english": "technology",
+              "korean": "바꿀",
+              "roman": "ba-kkul",
+              "english": "change",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "부문과",
-              "roman": "bu-mun-gwa",
-              "english": "sector and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "인공지능",
-              "roman": "in-gong-ji-neung",
-              "english": "artificial intelligence",
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "붐,",
-              "roman": "bum",
-              "english": "boom",
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "can",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "국방비",
-              "roman": "guk-bang-bi",
-              "english": "defense spending",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "증가와",
-              "roman": "jeung-ga-wa",
-              "english": "increase and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "연결한다",
-              "roman": "yeon-gyeol-han-da",
-              "english": "link",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "다"
             }
           ]
         },
         {
-          "stage": "outcome",
-          "english": "Investors fear that an inconclusive result could delay budgets, reforms, and investment.",
-          "korean": "투자자들은 불확실한 결과가 예산과 개혁, 투자를 늦출까 걱정한다.",
+          "stage": "summary",
+          "english": "Investors see possible gains if opposition leader Gadi Eisenkot defeats Prime Minister Benjamin Netanyahu.",
+          "korean": "야권 지도자 가디 에이젠코트가 베냐민 네타냐후 총리를 이기면 투자자들은 상승을 기대한다.",
           "glossary": [
+            {
+              "korean": "야권",
+              "roman": "ya-gwon",
+              "english": "opposition",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도자",
+              "roman": "ji-do-ja",
+              "english": "leader",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "가디",
+              "roman": "ga-di",
+              "english": "Gadi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "에이젠코트가",
+              "roman": "e-i-jen-ko-teu-ga",
+              "english": "Eisenkot",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "베냐민",
+              "roman": "be-nya-min",
+              "english": "Benjamin",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "네타냐후",
+              "roman": "ne-ta-nya-hu",
+              "english": "Netanyahu",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "총리를",
+              "roman": "chong-ri-reul",
+              "english": "prime minister",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "이기면",
+              "roman": "i-gi-myeon",
+              "english": "if defeats",
+              "particle": false,
+              "suffix": "면"
+            },
             {
               "korean": "투자자들은",
               "roman": "tu-ja-ja-deul-eun",
@@ -4286,60 +4677,312 @@
               "suffix": "은"
             },
             {
-              "korean": "불확실한",
-              "roman": "bul-hwak-sil-han",
-              "english": "uncertain",
+              "korean": "상승을",
+              "roman": "sang-seung-eul",
+              "english": "gains",
               "particle": false,
-              "suffix": "한"
+              "suffix": "을"
             },
             {
-              "korean": "결과가",
-              "roman": "gyeol-gwa-ga",
-              "english": "result",
+              "korean": "기대한다",
+              "roman": "gi-dae-han-da",
+              "english": "expect",
               "particle": false,
-              "suffix": "가"
-            },
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "But polls show neither side likely to win the 61 seats needed to govern.",
+          "korean": "그러나 여론조사상 어느 쪽도 집권에 필요한 61석을 얻기 어렵다.",
+          "glossary": [
             {
-              "korean": "예산과",
-              "roman": "ye-san-gwa",
-              "english": "budgets and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "개혁,",
-              "roman": "gae-hyeok",
-              "english": "reforms",
+              "korean": "그러나",
+              "roman": "geu-reo-na",
+              "english": "but",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "투자를",
-              "roman": "tu-ja-reul",
-              "english": "investment",
+              "korean": "여론조사상",
+              "roman": "yeo-ron-jo-sa-sang",
+              "english": "according to polls",
               "particle": false,
-              "suffix": "를"
+              "suffix": "상"
             },
             {
-              "korean": "늦출까",
-              "roman": "neut-chul-kka",
-              "english": "might delay",
+              "korean": "어느",
+              "roman": "eo-neu",
+              "english": "either",
               "particle": false,
-              "suffix": "까"
+              "suffix": ""
             },
             {
-              "korean": "걱정한다",
-              "roman": "geok-jeong-han-da",
-              "english": "worry",
+              "korean": "쪽도",
+              "roman": "jjok-do",
+              "english": "side",
               "particle": false,
-              "suffix": "한다"
+              "suffix": "도"
+            },
+            {
+              "korean": "집권에",
+              "roman": "jip-gwon-e",
+              "english": "to govern",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "필요한",
+              "roman": "pi-ryo-han",
+              "english": "needed",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "61석을",
+              "roman": "yuk-sip-il-seok-eul",
+              "english": "61 seats",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "얻기",
+              "roman": "eot-gi",
+              "english": "to win",
+              "particle": false,
+              "suffix": "기"
+            },
+            {
+              "korean": "어렵다",
+              "roman": "eo-ryeop-da",
+              "english": "is difficult",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "That could bring coalition talks, another election, or short-term market swings.",
+          "korean": "그 결과 연정 협상, 재선거, 또는 단기 시장 변동이 생길 수 있다.",
+          "glossary": [
+            {
+              "korean": "그",
+              "roman": "geu",
+              "english": "that",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결과",
+              "roman": "gyeol-gwa",
+              "english": "result",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "연정",
+              "roman": "yeon-jeong",
+              "english": "coalition",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "협상",
+              "roman": "hyeop-sang",
+              "english": "talks",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "재선거",
+              "roman": "jae-seon-geo",
+              "english": "another election",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "또는",
+              "roman": "tto-neun",
+              "english": "or",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "단기",
+              "roman": "dan-gi",
+              "english": "short-term",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시장",
+              "roman": "si-jang",
+              "english": "market",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "변동이",
+              "roman": "byeon-dong-i",
+              "english": "swings",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "생길",
+              "roman": "saeng-gil",
+              "english": "may arise",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "can",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "summary",
+          "english": "Other investors still trust Israeli companies and bonds under either result.",
+          "korean": "다른 투자자들은 어느 결과에서도 이스라엘 기업과 채권을 여전히 믿는다.",
+          "glossary": [
+            {
+              "korean": "다른",
+              "roman": "da-reun",
+              "english": "other",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "투자자들은",
+              "roman": "tu-ja-ja-deul-eun",
+              "english": "investors",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "어느",
+              "roman": "eo-neu",
+              "english": "either",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결과에서도",
+              "roman": "gyeol-gwa-e-seo-do",
+              "english": "under either result",
+              "particle": false,
+              "suffix": "에서도"
+            },
+            {
+              "korean": "이스라엘",
+              "roman": "i-seu-ra-el",
+              "english": "Israeli",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기업과",
+              "roman": "gi-eop-gwa",
+              "english": "companies and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "채권을",
+              "roman": "chae-gwon-eul",
+              "english": "bonds",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "여전히",
+              "roman": "yeo-jeon-hi",
+              "english": "still",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "믿는다",
+              "roman": "mit-neun-da",
+              "english": "trust",
+              "particle": false,
+              "suffix": "는다"
+            }
+          ]
+        },
+        {
+          "stage": "outcome",
+          "english": "As of October 26, the election result was not known.",
+          "korean": "10월 26일 현재 선거 결과는 알려지지 않았다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "26일",
+              "roman": "isib-yuk-il",
+              "english": "26th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "현재",
+              "roman": "hyeon-jae",
+              "english": "as of",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선거",
+              "roman": "seon-geo",
+              "english": "election",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결과는",
+              "roman": "gyeol-gwa-neun",
+              "english": "result",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "알려지지",
+              "roman": "al-lyeo-ji-ji",
+              "english": "was not known",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았다",
+              "roman": "a-naet-da",
+              "english": "was not",
+              "particle": false,
+              "suffix": "았다"
             }
           ]
         }
       ],
       "url": "https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece",
-      "short_english": "Some investors expect more gains if the opposition defeats Prime Minister Benjamin Netanyahu.",
-      "short_korean": "일부 투자자는 야당이 베냐민 네타냐후를 이기면 더 오를 것으로 본다.",
+      "short_english": "The October 27, 2026 election could change investors’ view of risk.",
+      "short_korean": "2026년 10월 27일 선거는 투자자들의 위험 판단을 바꿀 수 있다.",
       "date": "2026-10-26",
       "images": [
         "images/global/0018d88a0a82/1.jpg",
@@ -13066,572 +13709,6 @@
       ],
       "images_v": 22,
       "caption_file": "images/global/0d1473606a8a/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "국익만으로 세계정치 설명할까",
-      "english_title": "Can National Interest Explain World Politics?",
-      "korean_desc": "이 글은 세계정치를 국익만으로 이해할 수 있는지 묻는다. 주류 논쟁은 권력, 억지력, 안보, 전략적 자율성에 집중한다. 이 글은 이 언어가 서구 전통과 한스 모겐소의 전후 현실주의에서 왔다고 설명한다. 하지만 최근 위기는 윤리, 정체성, 여론, 감정도 정책을 만든다고 말한다. 2026년 후속 연구는 감정을 외교, 안보, 분쟁, 세계 거버넌스의 핵심으로 다뤘다. 논쟁은 계속된다: 국익은 중요하지만, 그것만으로는 부족하다는 주장이다.",
-      "english_desc": "The article asks whether world politics can be understood through national interest alone. Mainstream debate often centers on power, deterrence, security, and strategic autonomy. The article traces this language to Western traditions and postwar realism led by Hans Morgenthau. The article says recent geopolitical crises show ethics, identity, public opinion, and emotion shaping foreign policy. In 2026, new scholarship examined emotion across diplomacy, security, conflict, and global governance. The debate remains open: national interest still matters, but the article says it is incomplete alone.",
-      "hook": "Beyond national interest: ethics and emotions matter.",
-      "sticker": "Beyond national interest",
-      "korean_hook": "국익 너머, 윤리와 감정",
-      "takeaway_english": "Future analysis may need both power calculations and moral-emotional forces.",
-      "takeaway_korean": "앞으로는 힘의 계산과 도덕적 감정을 함께 봐야 할 수 있다.",
-      "why_it_matters": [
-        {
-          "english": "World politics includes strikes, sanctions, diplomacy, and partnerships, so its language shapes how people read crises.",
-          "korean": "세계정치에는 공격, 제재, 외교, 협력이 포함되어 위기를 보는 방식에 영향을 준다."
-        }
-      ],
-      "source_title": "Beyond national interest: role of ethics and emotions in world politics",
-      "hook_format": "headline",
-      "body_format": "two_views",
-      "question": "",
-      "korean_question": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "Realist view",
-            "english": "States operate in an anarchic system, so they are compelled to pursue national interests.",
-            "korean": "국가는 무정부적 체제에서 국익을 추구할 수밖에 없다."
-          },
-          {
-            "label": "Ethics-and-emotions view",
-            "english": "Recent crises and newer scholarship show that ethics, identity, public opinion, and emotion also shape policy.",
-            "korean": "최근 위기와 연구는 윤리, 정체성, 여론, 감정도 정책을 만든다고 본다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "The article was published on October 25, 2026.",
-        "Its argument is analytical, not a report of one new event.",
-        "The evidence points to an ongoing debate, not a final answer."
-      ],
-      "reader_question": "When should ethics limit a country's national interest?",
-      "topic_tag": "Politics",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Beyond national interest: role of ethics and emotions in world politics",
-          "date": "2026-10-25",
-          "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "주류",
-          "roman": "ju-ryu",
-          "english": "mainstream",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "논쟁은",
-          "roman": "non-jaeng-eun",
-          "english": "debate",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "권력",
-          "roman": "gwon-ryeok",
-          "english": "power",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "억지력",
-          "roman": "eok-ji-ryeok",
-          "english": "deterrence",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "안보",
-          "roman": "an-bo",
-          "english": "security",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "전략적",
-          "roman": "jeon-rak-jeok",
-          "english": "strategic",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "자율성에",
-          "roman": "ja-yul-seong-e",
-          "english": "autonomy",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "집중한다",
-          "roman": "jip-jung-han-da",
-          "english": "focuses",
-          "particle": false,
-          "suffix": "한다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "context",
-          "english": "The article asks whether world politics can be understood through national interest alone.",
-          "korean": "이 글은 세계정치를 국익만으로 이해할 수 있는지 묻는다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "글은",
-              "roman": "geul-eun",
-              "english": "article",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "세계정치를",
-              "roman": "segye-jeongchi-reul",
-              "english": "world politics",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "국익만으로",
-              "roman": "gung-ik-man-euro",
-              "english": "only through national interest",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "이해할",
-              "roman": "i-hae-hal",
-              "english": "understand",
-              "particle": false,
-              "suffix": "할"
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "can",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있는지",
-              "roman": "it-neun-ji",
-              "english": "whether possible",
-              "particle": false,
-              "suffix": "는지"
-            },
-            {
-              "korean": "묻는다",
-              "roman": "mut-neun-da",
-              "english": "asks",
-              "particle": false,
-              "suffix": "는다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "Mainstream debate often centers on power, deterrence, security, and strategic autonomy.",
-          "korean": "주류 논쟁은 권력, 억지력, 안보, 전략적 자율성에 집중한다.",
-          "glossary": [
-            {
-              "korean": "주류",
-              "roman": "ju-ryu",
-              "english": "mainstream",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "논쟁은",
-              "roman": "non-jaeng-eun",
-              "english": "debate",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "권력",
-              "roman": "gwon-ryeok",
-              "english": "power",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "억지력",
-              "roman": "eok-ji-ryeok",
-              "english": "deterrence",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안보",
-              "roman": "an-bo",
-              "english": "security",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전략적",
-              "roman": "jeon-rak-jeok",
-              "english": "strategic",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "자율성에",
-              "roman": "ja-yul-seong-e",
-              "english": "autonomy",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "집중한다",
-              "roman": "jip-jung-han-da",
-              "english": "focuses",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The article traces this language to Western traditions and postwar realism led by Hans Morgenthau.",
-          "korean": "이 글은 이 언어가 서구 전통과 한스 모겐소의 전후 현실주의에서 왔다고 설명한다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "글은",
-              "roman": "geul-eun",
-              "english": "article",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "언어가",
-              "roman": "eo-neo-ga",
-              "english": "language",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "서구",
-              "roman": "seo-gu",
-              "english": "Western",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전통과",
-              "roman": "jeon-tong-gwa",
-              "english": "traditions",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "한스",
-              "roman": "han-seu",
-              "english": "Hans",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "모겐소의",
-              "roman": "mo-gen-so-ui",
-              "english": "Morgenthau's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "전후",
-              "roman": "jeon-hu",
-              "english": "postwar",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "현실주의에서",
-              "roman": "hyeon-sil-ju-ui-e-seo",
-              "english": "from realism",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "왔다고",
-              "roman": "wat-da-go",
-              "english": "came from",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "설명한다",
-              "roman": "seol-myeong-han-da",
-              "english": "explains",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "The article says recent geopolitical crises show ethics, identity, public opinion, and emotion shaping foreign policy.",
-          "korean": "하지만 최근 위기는 윤리, 정체성, 여론, 감정도 정책을 만든다고 말한다.",
-          "glossary": [
-            {
-              "korean": "하지만",
-              "roman": "ha-ji-man",
-              "english": "however",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "최근",
-              "roman": "choe-geun",
-              "english": "recent",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "위기는",
-              "roman": "wi-gi-neun",
-              "english": "crises",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "윤리",
-              "roman": "yun-ri",
-              "english": "ethics",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정체성",
-              "roman": "jeong-che-seong",
-              "english": "identity",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여론",
-              "roman": "yeo-ron",
-              "english": "public opinion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "감정도",
-              "roman": "gam-jeong-do",
-              "english": "emotion too",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "정책을",
-              "roman": "jeong-chaek-eul",
-              "english": "policy",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "만든다고",
-              "roman": "man-deun-da-go",
-              "english": "makes",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말한다",
-              "roman": "mal-han-da",
-              "english": "says",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "summary",
-          "english": "In 2026, new scholarship examined emotion across diplomacy, security, conflict, and global governance.",
-          "korean": "2026년 후속 연구는 감정을 외교, 안보, 분쟁, 세계 거버넌스의 핵심으로 다뤘다.",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "후속",
-              "roman": "hu-sok",
-              "english": "follow-up",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "연구는",
-              "roman": "yeon-gu-neun",
-              "english": "research",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "감정을",
-              "roman": "gam-jeong-eul",
-              "english": "emotion",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "외교",
-              "roman": "oeg-yo",
-              "english": "diplomacy",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안보",
-              "roman": "an-bo",
-              "english": "security",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "분쟁",
-              "roman": "bun-jaeng",
-              "english": "conflict",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "세계",
-              "roman": "segye",
-              "english": "global",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "거버넌스의",
-              "roman": "geo-beo-neon-seu-ui",
-              "english": "governance's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "핵심으로",
-              "roman": "haek-sim-eu-ro",
-              "english": "as central",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "다뤘다",
-              "roman": "da-rwot-da",
-              "english": "examined",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "outcome",
-          "english": "The debate remains open: national interest still matters, but the article says it is incomplete alone.",
-          "korean": "논쟁은 계속된다: 국익은 중요하지만, 그것만으로는 부족하다는 주장이다.",
-          "glossary": [
-            {
-              "korean": "논쟁은",
-              "roman": "non-jaeng-eun",
-              "english": "debate",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "계속된다",
-              "roman": "gye-sok-doen-da",
-              "english": "continues",
-              "particle": false,
-              "suffix": "된다"
-            },
-            {
-              "korean": "국익은",
-              "roman": "gung-ik-eun",
-              "english": "national interest",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "중요하지만",
-              "roman": "jung-yo-ha-ji-man",
-              "english": "is important but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "그것만으로는",
-              "roman": "geu-geot-man-eu-ro-neun",
-              "english": "by itself",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "부족하다는",
-              "roman": "bu-jok-ha-da-neun",
-              "english": "is insufficient",
-              "particle": false,
-              "suffix": "다는"
-            },
-            {
-              "korean": "주장이다",
-              "roman": "ju-jang-i-da",
-              "english": "is the argument",
-              "particle": false,
-              "suffix": "이다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/beyond-national-interest-role-of-ethics-and-emotions-in-world-politics/article71278490.ece",
-      "short_english": "Mainstream debate often centers on power, deterrence, security, and strategic autonomy.",
-      "short_korean": "주류 논쟁은 권력, 억지력, 안보, 전략적 자율성에 집중한다.",
-      "date": "2026-10-26",
-      "images": [
-        "images/global/2a6d4322cbab/1.jpg",
-        "images/global/2a6d4322cbab/2.jpg",
-        "images/global/2a6d4322cbab/3.jpg",
-        "images/global/2a6d4322cbab/4.jpg",
-        "images/global/2a6d4322cbab/5.jpg",
-        "images/global/2a6d4322cbab/6.jpg",
-        "images/global/2a6d4322cbab/7.jpg",
-        "images/global/2a6d4322cbab/8.jpg",
-        "images/global/2a6d4322cbab/9.jpg",
-        "images/global/2a6d4322cbab/10.jpg",
-        "images/global/2a6d4322cbab/11.jpg"
-      ],
-      "images_v": 22,
-      "caption_file": "images/global/2a6d4322cbab/caption.txt"
     }
   ]
 }
