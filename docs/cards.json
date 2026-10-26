@@ -1,9 +1,394 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-10-27",
   "status": "ai",
-  "note": "24 new cards made, 0 kept. Cost this run about $0.0601",
-  "generated_at": "2026-10-26T12:06:13.076Z",
+  "note": "3 new cards made, 21 kept. Cost this run about $0.0093",
+  "generated_at": "2026-10-26T15:42:45.577Z",
   "cards": [
+    {
+      "category": "Culture",
+      "korean_title": "마블 영웅, 한강 밤하늘에",
+      "english_title": "Is Seoul’s Marvel drone show really the biggest yet?",
+      "korean_desc": "네, 이번 공연은 한강쇼에서 가장 많은 드론을 쓴다. 아이언맨과 영화 장면이 음악에 맞춰 15분 동안 나타난다. 일찍 온 방문객은 의상 행렬과 행사 부스, 닥터 둠 사진 구역을 즐긴다.",
+      "english_desc": "Yes, it will use the largest number of drones in the city’s Han River show series. Iron Man and movie scenes will appear for 15 minutes with music. Early visitors can join a costume parade, event booths and a Doctor Doom photo zone.",
+      "hook": "Is Seoul’s Marvel drone show really the biggest yet?",
+      "sticker": "Marvel over the Han River ✨",
+      "korean_hook": "서울 마블 드론쇼가 가장 클까?",
+      "takeaway_english": "The Marvel theme turns a regular city event into a pop-culture attraction.",
+      "takeaway_korean": "마블 주제는 평범한 도시 행사를 대중문화 명소로 바꾼다.",
+      "why_it_matters": [
+        {
+          "english": "The event gives visitors a free public entertainment option in Seoul.",
+          "korean": "이 행사는 서울 방문객에게 무료 공공 오락을 제공한다."
+        },
+        {
+          "english": "Marvel activities, food stalls and discounts create a wider evening outing.",
+          "korean": "마블 행사와 음식점, 할인은 더 큰 저녁 나들이를 만든다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Seoul Metropolitan Government",
+          "english": "It is staging a 15-minute Marvel-themed finale at Ttukseom Hangang Park.",
+          "korean": "뚝섬한강공원에서 15분짜리 마블 피날레를 연다."
+        },
+        {
+          "label": "Marvel fans",
+          "english": "They can see Iron Man, movie scenes and themed photo zones.",
+          "korean": "아이언맨과 영화 장면, 주제 사진 구역을 볼 수 있다."
+        },
+        {
+          "label": "Tourists",
+          "english": "They are part of the growing audience for Han River night events.",
+          "korean": "한강 야간 행사의 증가하는 관객에 포함된다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Seoul Metropolitan Government",
+          "english": "The finale combines entertainment, tourism and activities around the Han River.",
+          "korean": "피날레는 한강 주변의 오락과 관광, 체험을 결합한다."
+        },
+        {
+          "label": "Local-event perspective",
+          "english": "The Marvel theme may attract visitors, but crowding and weather remain practical concerns.",
+          "korean": "마블 주제는 방문객을 끌지만 혼잡과 날씨는 현실적인 문제다."
+        }
+      ],
+      "disagree": {
+        "english": "Others might prefer smaller events that are easier to access and manage.",
+        "korean": "다른 사람들은 더 작고 이용과 관리가 쉬운 행사를 선호할 수 있다."
+      },
+      "reader_question_korean": "강가에서 드론쇼를 보고 싶나요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Marvel heroes to light up Han River in Seoul’s final drone show of year",
+      "hook_format": "question-myth",
+      "body_format": "another_view",
+      "question": "Is Seoul’s Marvel drone show really the biggest yet?",
+      "korean_question": "서울 마블 드론쇼가 정말 가장 클까요?",
+      "answer_english": "Yes, it will use the largest number of drones in Seoul’s Han River show series.",
+      "answer_korean": "네, 서울 한강쇼 시리즈에서 가장 많은 드론을 사용합니다.",
+      "format_data": {
+        "view": {
+          "label": "A reasonable missing view",
+          "english": "The event is also a tourism project, not only a Marvel celebration.",
+          "korean": "이 행사는 마블 축제만이 아니라 관광 사업이기도 하다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The show runs from 8:30 to 8:45 p.m. on October 31, 2026.",
+        "The photo zone uses an Avengers: Doomsday theme."
+      ],
+      "reader_question": "Would you watch a drone show by the river?",
+      "topic_tag": "Culture",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Marvel heroes to light up Han River in Seoul’s final drone show of year",
+          "date": "2026-10-26",
+          "url": "https://www.koreaherald.com/article/10915395"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "네",
+          "roman": "ne",
+          "english": "yes",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "이번",
+          "roman": "i-beon",
+          "english": "this",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "공연은",
+          "roman": "gong-yeon-eun",
+          "english": "performance",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "한강쇼에서",
+          "roman": "Han-gang-syo-eseo",
+          "english": "in Han River shows",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "가장",
+          "roman": "ga-jang",
+          "english": "most",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "많은",
+          "roman": "man-eun",
+          "english": "many",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "드론을",
+          "roman": "deu-ron-eul",
+          "english": "drones",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "쓴다",
+          "roman": "sseun-da",
+          "english": "uses",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "truth",
+          "english": "Yes, it will use the largest number of drones in the city’s Han River show series.",
+          "korean": "네, 이번 공연은 한강쇼에서 가장 많은 드론을 쓴다.",
+          "glossary": [
+            {
+              "korean": "네",
+              "roman": "ne",
+              "english": "yes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이번",
+              "roman": "i-beon",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공연은",
+              "roman": "gong-yeon-eun",
+              "english": "performance",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "한강쇼에서",
+              "roman": "Han-gang-syo-eseo",
+              "english": "in Han River shows",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "가장",
+              "roman": "ga-jang",
+              "english": "most",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "많은",
+              "roman": "man-eun",
+              "english": "many",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "드론을",
+              "roman": "deu-ron-eul",
+              "english": "drones",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "쓴다",
+              "roman": "sseun-da",
+              "english": "uses",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Iron Man and movie scenes will appear for 15 minutes with music.",
+          "korean": "아이언맨과 영화 장면이 음악에 맞춰 15분 동안 나타난다.",
+          "glossary": [
+            {
+              "korean": "아이언맨과",
+              "roman": "A-i-eon-maen-gwa",
+              "english": "Iron Man and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "영화",
+              "roman": "yeong-hwa",
+              "english": "movie",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장면이",
+              "roman": "jang-myeon-i",
+              "english": "scenes",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "음악에",
+              "roman": "eum-ak-e",
+              "english": "to music",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "맞춰",
+              "roman": "mat-chwo",
+              "english": "in time",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "15분",
+              "roman": "sip-o-bun",
+              "english": "15 minutes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "동안",
+              "roman": "dong-an",
+              "english": "during",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나타난다",
+              "roman": "na-ta-nan-da",
+              "english": "appear",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Early visitors can join a costume parade, event booths and a Doctor Doom photo zone.",
+          "korean": "일찍 온 방문객은 의상 행렬과 행사 부스, 닥터 둠 사진 구역을 즐긴다.",
+          "glossary": [
+            {
+              "korean": "일찍",
+              "roman": "il-jjik",
+              "english": "early",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "온",
+              "roman": "on",
+              "english": "who came",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방문객은",
+              "roman": "bang-mun-gaek-eun",
+              "english": "visitors",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "의상",
+              "roman": "ui-sang",
+              "english": "costume",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행렬과",
+              "roman": "haeng-ryeol-gwa",
+              "english": "parade and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "행사",
+              "roman": "haeng-sa",
+              "english": "event",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "부스",
+              "roman": "bu-seu",
+              "english": "booths",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "닥터",
+              "roman": "Dak-teo",
+              "english": "Doctor",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "둠",
+              "roman": "Dum",
+              "english": "Doom",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사진",
+              "roman": "sa-jin",
+              "english": "photo",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구역을",
+              "roman": "gu-yeok-eul",
+              "english": "zone",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "즐긴다",
+              "roman": "jeul-gin-da",
+              "english": "enjoy",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10915395",
+      "short_english": "Yes, it will use the largest number of drones in the city’s Han River show series.",
+      "short_korean": "네, 이번 공연은 한강쇼에서 가장 많은 드론을 쓴다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/korean/b57f17410b5a/1.jpg",
+        "images/korean/b57f17410b5a/2.jpg",
+        "images/korean/b57f17410b5a/3.jpg",
+        "images/korean/b57f17410b5a/4.jpg",
+        "images/korean/b57f17410b5a/5.jpg",
+        "images/korean/b57f17410b5a/6.jpg",
+        "images/korean/b57f17410b5a/7.jpg",
+        "images/korean/b57f17410b5a/8.jpg",
+        "images/korean/b57f17410b5a/9.jpg",
+        "images/korean/b57f17410b5a/10.jpg"
+      ],
+      "images_v": 26,
+      "caption_file": "images/korean/b57f17410b5a/caption.txt"
+    },
     {
       "category": "Politics & Society",
       "korean_title": "서울 댕냥데이즈, 입양부터 이별까지",
@@ -342,7 +727,7 @@
       "url": "https://www.koreaherald.com/article/10915379",
       "short_english": "Seoul will hold its first Daengnyang Days festival at Oil Tank Culture Park on October 31.",
       "short_korean": "서울시는 10월 31일 마포구에서 첫 댕냥데이즈를 연다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/e7e6bc49a5a7/1.jpg",
         "images/korean/e7e6bc49a5a7/2.jpg",
@@ -353,7 +738,7 @@
         "images/korean/e7e6bc49a5a7/7.jpg",
         "images/korean/e7e6bc49a5a7/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/e7e6bc49a5a7/caption.txt"
     },
     {
@@ -705,7 +1090,7 @@
       "url": "https://www.koreaherald.com/article/10915315",
       "short_english": "South Korean applicants for U.S. visitor visas faced a 24.73% refusal rate in fiscal 2025.",
       "short_korean": "한국인의 미국 방문비자 거절률은 2025회계연도에 24.73%였다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/6b15fe4def2d/1.jpg",
         "images/korean/6b15fe4def2d/2.jpg",
@@ -717,7 +1102,7 @@
         "images/korean/6b15fe4def2d/8.jpg",
         "images/korean/6b15fe4def2d/9.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/6b15fe4def2d/caption.txt"
     },
     {
@@ -967,7 +1352,7 @@
       "url": "https://www.koreaherald.com/article/10915303",
       "short_english": "That was more than four times the national share of 7.7% and the highest proportion nationwide.",
       "short_korean": "이는 전국 7.7%보다 네 배 많고 전국 최고였다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/cb2413e60e0a/1.jpg",
         "images/korean/cb2413e60e0a/2.jpg",
@@ -976,381 +1361,8 @@
         "images/korean/cb2413e60e0a/5.jpg",
         "images/korean/cb2413e60e0a/6.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/cb2413e60e0a/caption.txt"
-    },
-    {
-      "category": "Politics & Society",
-      "korean_title": "김수현 사건, 유가족 측 검찰 송치",
-      "english_title": "Kim Sae-ron’s mother and lawyer referred to prosecutors",
-      "korean_desc": "10월 26일 김새론의 어머니와 가족 변호사가 불구속 송치됐다. 김수현의 소속사는 경찰이 배우와 소속사의 고소를 조사했다고 밝혔다. 분쟁은 2025년 3월 미성년 교제 주장으로 시작됐다. 소속사는 허위 정보와 불법 사진 배포, 조작 자료를 주장한다.",
-      "english_desc": "On October 26, Kim Sae-ron’s mother and family lawyer were referred to prosecutors without detention. Kim Soo-hyun’s agency said police investigated criminal complaints filed by the actor and the agency. The dispute began in March 2025 after claims that Kim Soo-hyun dated Kim Sae-ron while she was a minor. The agency alleges false online information, illegal image distribution, and fabricated messages and voices.",
-      "hook": "Kim Sae-ron’s mother and lawyer face prosecution referral.",
-      "sticker": "What prosecutors will examine",
-      "korean_hook": "김새론 어머니와 변호사 검찰 송치",
-      "takeaway_english": "Prosecutors must now examine competing claims about evidence and online accusations.",
-      "takeaway_korean": "검찰은 증거와 온라인 의혹을 이제 검토해야 한다.",
-      "why_it_matters": [
-        {
-          "english": "The case involves allegations about defamation, private images, and fabricated material.",
-          "korean": "사건에는 명예훼손, 사적 사진과 조작 자료 혐의가 포함됐다."
-        },
-        {
-          "english": "A referral is not a final court judgment, so the legal dispute continues.",
-          "korean": "송치는 최종 판결이 아니므로 법적 분쟁은 계속된다."
-        }
-      ],
-      "source_title": "Late Kim Sae-ron’s mother, family lawyer referred to prosecutors in Kim Soo-hyun case",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "The referrals were made without detention.",
-        "The dispute began in March 2025."
-      ],
-      "reader_question": "How should disputed online evidence be handled in court?",
-      "topic_tag": "Courts",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Late Kim Sae-ron’s mother, family lawyer referred to prosecutors in Kim Soo-hyun case",
-          "date": "2026-10-26",
-          "url": "https://www.koreaherald.com/article/10915264"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "si-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "26일",
-          "roman": "isipsam-il-il",
-          "english": "26th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "김새론의",
-          "roman": "Gim Sae-ron-ui",
-          "english": "Kim Sae-ron's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "어머니와",
-          "roman": "eomeoni-wa",
-          "english": "mother and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "가족",
-          "roman": "gajok",
-          "english": "family",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "변호사가",
-          "roman": "byeonhosa-ga",
-          "english": "lawyer",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "불구속",
-          "roman": "bulgusok",
-          "english": "without detention",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "송치됐다",
-          "roman": "songchi-dwaetda",
-          "english": "were referred",
-          "particle": false,
-          "suffix": "됐다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On October 26, Kim Sae-ron’s mother and family lawyer were referred to prosecutors without detention.",
-          "korean": "10월 26일 김새론의 어머니와 가족 변호사가 불구속 송치됐다.",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "si-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "26일",
-              "roman": "isipsam-il-il",
-              "english": "26th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "김새론의",
-              "roman": "Gim Sae-ron-ui",
-              "english": "Kim Sae-ron's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "어머니와",
-              "roman": "eomeoni-wa",
-              "english": "mother and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "가족",
-              "roman": "gajok",
-              "english": "family",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "변호사가",
-              "roman": "byeonhosa-ga",
-              "english": "lawyer",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "불구속",
-              "roman": "bulgusok",
-              "english": "without detention",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "송치됐다",
-              "roman": "songchi-dwaetda",
-              "english": "were referred",
-              "particle": false,
-              "suffix": "됐다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Kim Soo-hyun’s agency said police investigated criminal complaints filed by the actor and the agency.",
-          "korean": "김수현의 소속사는 경찰이 배우와 소속사의 고소를 조사했다고 밝혔다.",
-          "glossary": [
-            {
-              "korean": "김수현의",
-              "roman": "Gim Su-hyeon-ui",
-              "english": "Kim Soo-hyun's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "소속사는",
-              "roman": "soksoksa-neun",
-              "english": "agency",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "경찰이",
-              "roman": "gyeongchal-i",
-              "english": "police",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "배우와",
-              "roman": "baeu-wa",
-              "english": "actor and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "소속사의",
-              "roman": "soksoksa-ui",
-              "english": "agency's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "고소를",
-              "roman": "goso-reul",
-              "english": "complaints",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "조사했다고",
-              "roman": "josa-haetdago",
-              "english": "investigated",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "밝혔다",
-              "roman": "balhyeotda",
-              "english": "said",
-              "particle": false,
-              "suffix": "혔다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The dispute began in March 2025 after claims that Kim Soo-hyun dated Kim Sae-ron while she was a minor.",
-          "korean": "분쟁은 2025년 3월 미성년 교제 주장으로 시작됐다.",
-          "glossary": [
-            {
-              "korean": "분쟁은",
-              "roman": "bunjaeng-eun",
-              "english": "the dispute",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2025년",
-              "roman": "icheon-isip-o-nyeon",
-              "english": "in 2025",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "3월",
-              "roman": "sam-wol",
-              "english": "March",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "미성년",
-              "roman": "miseongnyeon",
-              "english": "minor",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "교제",
-              "roman": "gyoje",
-              "english": "dating",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주장으로",
-              "roman": "jujang-euro",
-              "english": "through claims",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "시작됐다",
-              "roman": "sijak-dwaetda",
-              "english": "began",
-              "particle": false,
-              "suffix": "됐다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The agency alleges false online information, illegal image distribution, and fabricated messages and voices.",
-          "korean": "소속사는 허위 정보와 불법 사진 배포, 조작 자료를 주장한다.",
-          "glossary": [
-            {
-              "korean": "소속사는",
-              "roman": "soksoksa-neun",
-              "english": "the agency",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "허위",
-              "roman": "heowi",
-              "english": "false",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정보와",
-              "roman": "jeongbo-wa",
-              "english": "information and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "불법",
-              "roman": "bulbeop",
-              "english": "illegal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사진",
-              "roman": "sajin",
-              "english": "images",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "배포,",
-              "roman": "baepo",
-              "english": "distribution",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "조작",
-              "roman": "jojag",
-              "english": "fabricated",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "자료를",
-              "roman": "jaryo-reul",
-              "english": "materials",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "주장한다",
-              "roman": "jujanghanda",
-              "english": "alleges",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10915264",
-      "short_english": "On October 26, Kim Sae-ron’s mother and family lawyer were referred to prosecutors without detention.",
-      "short_korean": "10월 26일 김새론의 어머니와 가족 변호사가 불구속 송치됐다.",
-      "date": "2026-10-26",
-      "images": [
-        "images/korean/777a991528ea/1.jpg",
-        "images/korean/777a991528ea/2.jpg",
-        "images/korean/777a991528ea/3.jpg",
-        "images/korean/777a991528ea/4.jpg",
-        "images/korean/777a991528ea/5.jpg",
-        "images/korean/777a991528ea/6.jpg",
-        "images/korean/777a991528ea/7.jpg",
-        "images/korean/777a991528ea/8.jpg"
-      ],
-      "images_v": 24,
-      "caption_file": "images/korean/777a991528ea/caption.txt"
     },
     {
       "category": "Business",
@@ -1678,7 +1690,7 @@
       "url": "https://www.koreaherald.com/article/10915178",
       "short_english": "Seoul’s KOSPI closed at 5,469.47 on October 26, down 1.46% from the previous session.",
       "short_korean": "코스피는 10월 26일 5,469.47로 1.46% 하락 마감했다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/4568d18c14fb/1.jpg",
         "images/korean/4568d18c14fb/2.jpg",
@@ -1690,7 +1702,7 @@
         "images/korean/4568d18c14fb/8.jpg",
         "images/korean/4568d18c14fb/9.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/4568d18c14fb/caption.txt"
     },
     {
@@ -2065,7 +2077,7 @@
       "url": "https://www.koreaherald.com/article/10915064",
       "short_english": "Hong Ra-hee received the Dongbaek Medal on October 26 for more than four decades of philanthropy.",
       "short_korean": "홍라희는 10월 26일 40년 넘는 나눔으로 동백장을 받았다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/4b5350e111ff/1.jpg",
         "images/korean/4b5350e111ff/2.jpg",
@@ -2077,7 +2089,7 @@
         "images/korean/4b5350e111ff/8.jpg",
         "images/korean/4b5350e111ff/9.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/4b5350e111ff/caption.txt"
     },
     {
@@ -2547,7 +2559,7 @@
       "url": "https://www.koreaherald.com/article/10915087",
       "short_english": "On October 26, 2026, Henkel was producing semiconductor adhesives at its Songdo factory in Incheon.",
       "short_korean": "2026년 10월 26일, 헨켈은 인천 송도 공장에서 반도체 접착제를 생산했다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/115587256f0c/1.jpg",
         "images/korean/115587256f0c/2.jpg",
@@ -2559,7 +2571,7 @@
         "images/korean/115587256f0c/8.jpg",
         "images/korean/115587256f0c/9.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/115587256f0c/caption.txt"
     },
     {
@@ -2937,7 +2949,7 @@
       "url": "https://www.koreaherald.com/article/10915073",
       "short_english": "The company credited growing BYD sales and better results from its subsidiaries.",
       "short_korean": "회사는 BYD 판매 증가와 자회사 실적 개선을 원인으로 꼽았다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/aabfac792503/1.jpg",
         "images/korean/aabfac792503/2.jpg",
@@ -2948,8 +2960,761 @@
         "images/korean/aabfac792503/7.jpg",
         "images/korean/aabfac792503/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/aabfac792503/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "마블 영웅, 한강 밤하늘에",
+      "english_title": "Is Seoul’s Marvel drone show really the biggest yet?",
+      "korean_desc": "네, 이번 공연은 한강쇼에서 가장 많은 드론을 쓴다. 아이언맨과 영화 장면이 음악에 맞춰 15분 동안 나타난다. 일찍 온 방문객은 의상 행렬과 행사 부스, 닥터 둠 사진 구역을 즐긴다.",
+      "english_desc": "Yes, it will use the largest number of drones in the city’s Han River show series. Iron Man and movie scenes will appear for 15 minutes with music. Early visitors can join a costume parade, event booths and a Doctor Doom photo zone.",
+      "hook": "Is Seoul’s Marvel drone show really the biggest yet?",
+      "sticker": "Marvel over the Han River ✨",
+      "korean_hook": "서울 마블 드론쇼가 가장 클까?",
+      "takeaway_english": "The Marvel theme turns a regular city event into a pop-culture attraction.",
+      "takeaway_korean": "마블 주제는 평범한 도시 행사를 대중문화 명소로 바꾼다.",
+      "why_it_matters": [
+        {
+          "english": "The event gives visitors a free public entertainment option in Seoul.",
+          "korean": "이 행사는 서울 방문객에게 무료 공공 오락을 제공한다."
+        },
+        {
+          "english": "Marvel activities, food stalls and discounts create a wider evening outing.",
+          "korean": "마블 행사와 음식점, 할인은 더 큰 저녁 나들이를 만든다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Seoul Metropolitan Government",
+          "english": "It is staging a 15-minute Marvel-themed finale at Ttukseom Hangang Park.",
+          "korean": "뚝섬한강공원에서 15분짜리 마블 피날레를 연다."
+        },
+        {
+          "label": "Marvel fans",
+          "english": "They can see Iron Man, movie scenes and themed photo zones.",
+          "korean": "아이언맨과 영화 장면, 주제 사진 구역을 볼 수 있다."
+        },
+        {
+          "label": "Tourists",
+          "english": "They are part of the growing audience for Han River night events.",
+          "korean": "한강 야간 행사의 증가하는 관객에 포함된다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Seoul Metropolitan Government",
+          "english": "The finale combines entertainment, tourism and activities around the Han River.",
+          "korean": "피날레는 한강 주변의 오락과 관광, 체험을 결합한다."
+        },
+        {
+          "label": "Local-event perspective",
+          "english": "The Marvel theme may attract visitors, but crowding and weather remain practical concerns.",
+          "korean": "마블 주제는 방문객을 끌지만 혼잡과 날씨는 현실적인 문제다."
+        }
+      ],
+      "disagree": {
+        "english": "Others might prefer smaller events that are easier to access and manage.",
+        "korean": "다른 사람들은 더 작고 이용과 관리가 쉬운 행사를 선호할 수 있다."
+      },
+      "reader_question_korean": "강가에서 드론쇼를 보고 싶나요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Marvel heroes to light up Han River in Seoul’s final drone show of year",
+      "hook_format": "question-myth",
+      "body_format": "another_view",
+      "question": "Is Seoul’s Marvel drone show really the biggest yet?",
+      "korean_question": "서울 마블 드론쇼가 정말 가장 클까요?",
+      "answer_english": "Yes, it will use the largest number of drones in Seoul’s Han River show series.",
+      "answer_korean": "네, 서울 한강쇼 시리즈에서 가장 많은 드론을 사용합니다.",
+      "format_data": {
+        "view": {
+          "label": "A reasonable missing view",
+          "english": "The event is also a tourism project, not only a Marvel celebration.",
+          "korean": "이 행사는 마블 축제만이 아니라 관광 사업이기도 하다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The show runs from 8:30 to 8:45 p.m. on October 31, 2026.",
+        "The photo zone uses an Avengers: Doomsday theme."
+      ],
+      "reader_question": "Would you watch a drone show by the river?",
+      "topic_tag": "Culture",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Marvel heroes to light up Han River in Seoul’s final drone show of year",
+          "date": "2026-10-26",
+          "url": "https://www.koreaherald.com/article/10915395"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "네",
+          "roman": "ne",
+          "english": "yes",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "이번",
+          "roman": "i-beon",
+          "english": "this",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "공연은",
+          "roman": "gong-yeon-eun",
+          "english": "performance",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "한강쇼에서",
+          "roman": "Han-gang-syo-eseo",
+          "english": "in Han River shows",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "가장",
+          "roman": "ga-jang",
+          "english": "most",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "많은",
+          "roman": "man-eun",
+          "english": "many",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "드론을",
+          "roman": "deu-ron-eul",
+          "english": "drones",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "쓴다",
+          "roman": "sseun-da",
+          "english": "uses",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "truth",
+          "english": "Yes, it will use the largest number of drones in the city’s Han River show series.",
+          "korean": "네, 이번 공연은 한강쇼에서 가장 많은 드론을 쓴다.",
+          "glossary": [
+            {
+              "korean": "네",
+              "roman": "ne",
+              "english": "yes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이번",
+              "roman": "i-beon",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공연은",
+              "roman": "gong-yeon-eun",
+              "english": "performance",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "한강쇼에서",
+              "roman": "Han-gang-syo-eseo",
+              "english": "in Han River shows",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "가장",
+              "roman": "ga-jang",
+              "english": "most",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "많은",
+              "roman": "man-eun",
+              "english": "many",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "드론을",
+              "roman": "deu-ron-eul",
+              "english": "drones",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "쓴다",
+              "roman": "sseun-da",
+              "english": "uses",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Iron Man and movie scenes will appear for 15 minutes with music.",
+          "korean": "아이언맨과 영화 장면이 음악에 맞춰 15분 동안 나타난다.",
+          "glossary": [
+            {
+              "korean": "아이언맨과",
+              "roman": "A-i-eon-maen-gwa",
+              "english": "Iron Man and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "영화",
+              "roman": "yeong-hwa",
+              "english": "movie",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장면이",
+              "roman": "jang-myeon-i",
+              "english": "scenes",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "음악에",
+              "roman": "eum-ak-e",
+              "english": "to music",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "맞춰",
+              "roman": "mat-chwo",
+              "english": "in time",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "15분",
+              "roman": "sip-o-bun",
+              "english": "15 minutes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "동안",
+              "roman": "dong-an",
+              "english": "during",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나타난다",
+              "roman": "na-ta-nan-da",
+              "english": "appear",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Early visitors can join a costume parade, event booths and a Doctor Doom photo zone.",
+          "korean": "일찍 온 방문객은 의상 행렬과 행사 부스, 닥터 둠 사진 구역을 즐긴다.",
+          "glossary": [
+            {
+              "korean": "일찍",
+              "roman": "il-jjik",
+              "english": "early",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "온",
+              "roman": "on",
+              "english": "who came",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방문객은",
+              "roman": "bang-mun-gaek-eun",
+              "english": "visitors",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "의상",
+              "roman": "ui-sang",
+              "english": "costume",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행렬과",
+              "roman": "haeng-ryeol-gwa",
+              "english": "parade and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "행사",
+              "roman": "haeng-sa",
+              "english": "event",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "부스",
+              "roman": "bu-seu",
+              "english": "booths",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "닥터",
+              "roman": "Dak-teo",
+              "english": "Doctor",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "둠",
+              "roman": "Dum",
+              "english": "Doom",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사진",
+              "roman": "sa-jin",
+              "english": "photo",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구역을",
+              "roman": "gu-yeok-eul",
+              "english": "zone",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "즐긴다",
+              "roman": "jeul-gin-da",
+              "english": "enjoy",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10915395",
+      "short_english": "Yes, it will use the largest number of drones in the city’s Han River show series.",
+      "short_korean": "네, 이번 공연은 한강쇼에서 가장 많은 드론을 쓴다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/korean/b57f17410b5a/1.jpg",
+        "images/korean/b57f17410b5a/2.jpg",
+        "images/korean/b57f17410b5a/3.jpg",
+        "images/korean/b57f17410b5a/4.jpg",
+        "images/korean/b57f17410b5a/5.jpg",
+        "images/korean/b57f17410b5a/6.jpg",
+        "images/korean/b57f17410b5a/7.jpg",
+        "images/korean/b57f17410b5a/8.jpg",
+        "images/korean/b57f17410b5a/9.jpg",
+        "images/korean/b57f17410b5a/10.jpg"
+      ],
+      "images_v": 26,
+      "caption_file": "images/korean/b57f17410b5a/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "KB국민은행 피해자 2,210명",
+      "english_title": "KB Kookmin Bank finds 2,091 more data-breach victims",
+      "korean_desc": "KB국민은행은 10월 26일 유출 피해자 2,091명을 추가 확인했다. 은행은 새 해킹이 아니라 기존 시스템 재검사에서 추가 피해를 찾았다고 밝혔다. 은행은 앞서 119명의 이름과 전화번호, 주소가 유출됐다고 밝혔다.",
+      "english_desc": "KB Kookmin Bank confirmed 2,091 additional people affected by a hacking incident on October 26. The bank said the additional cases came from rechecking the original system and related work processes, not a new attack. The bank had earlier said the leaked information included names, phone numbers and addresses of the first 119 people.",
+      "hook": "KB Kookmin Bank finds 2,091 more victims.",
+      "sticker": "What the bank confirmed",
+      "korean_hook": "KB국민은행 피해자 2,091명 추가",
+      "takeaway_english": "The main issue now is how the bank protects and informs everyone affected.",
+      "takeaway_korean": "이제 핵심은 은행이 모든 피해자를 어떻게 보호하고 알릴지다.",
+      "why_it_matters": [
+        {
+          "english": "More people may need warnings and advice about preventing secondary harm.",
+          "korean": "더 많은 사람이 2차 피해 예방 안내를 받을 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "KB Kookmin Bank",
+          "english": "It added 2,091 people to the confirmed group affected by the breach.",
+          "korean": "유출 피해 확인 대상에 2,091명을 추가했다."
+        },
+        {
+          "label": "Customers",
+          "english": "Another 1,631 customers were included in the newly confirmed group.",
+          "korean": "새로 확인된 대상에는 고객 1,631명이 포함됐다."
+        },
+        {
+          "label": "Employees and executives",
+          "english": "The newly confirmed group also included 460 company employees and executives.",
+          "korean": "새로 확인된 대상에는 임직원 460명도 포함됐다."
+        }
+      ],
+      "views": [
+        {
+          "label": "KB Kookmin Bank",
+          "english": "The larger figure came from examining the original affected system and related processes, not a new attack.",
+          "korean": "늘어난 숫자는 새 공격이 아니라 기존 시스템과 업무 과정을 조사해 나왔다."
+        },
+        {
+          "label": "Consumer-protection perspective",
+          "english": "The delayed count raises concern about how quickly affected people were identified and informed.",
+          "korean": "늦은 확인은 피해자 파악과 안내가 얼마나 빨랐는지에 대한 걱정을 낳는다."
+        }
+      ],
+      "disagree": {
+        "english": "The bank may say the investigation improved accuracy, while affected people may focus on the initial undercount.",
+        "korean": "은행은 조사가 정확도를 높였다고 말할 수 있지만 피해자는 처음의 축소 집계에 집중할 수 있다."
+      },
+      "reader_question_korean": "은행은 더 큰 유출을 발견하면 무엇을 해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "KB Kookmin Bank finds 2,091 more people affected by data leak",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "The additional cases were announced on October 26, 2026.",
+        "The earlier confirmed group contained 119 people on October 2."
+      ],
+      "reader_question": "What should banks do after discovering a larger breach?",
+      "topic_tag": "Privacy",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "KB Kookmin Bank finds 2,091 more people affected by data leak",
+          "date": "2026-10-26",
+          "url": "https://www.koreaherald.com/article/10915394"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "KB국민은행은",
+          "roman": "KB-gukmin-eunhaeng-eun",
+          "english": "KB Kookmin Bank",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "26일",
+          "roman": "i-sip-yuk-il",
+          "english": "26th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "유출",
+          "roman": "yu-chul",
+          "english": "leak",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "피해자",
+          "roman": "pi-hae-ja",
+          "english": "affected people",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "2,091명을",
+          "roman": "i-cheon-gu-sip-il-myeong-eul",
+          "english": "2,091 people",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "추가",
+          "roman": "chu-ga",
+          "english": "additional",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "확인했다",
+          "roman": "hwak-in-haet-da",
+          "english": "confirmed",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "KB Kookmin Bank confirmed 2,091 additional people affected by a hacking incident on October 26.",
+          "korean": "KB국민은행은 10월 26일 유출 피해자 2,091명을 추가 확인했다.",
+          "glossary": [
+            {
+              "korean": "KB국민은행은",
+              "roman": "KB-gukmin-eunhaeng-eun",
+              "english": "KB Kookmin Bank",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "26일",
+              "roman": "i-sip-yuk-il",
+              "english": "26th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "유출",
+              "roman": "yu-chul",
+              "english": "leak",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "피해자",
+              "roman": "pi-hae-ja",
+              "english": "affected people",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2,091명을",
+              "roman": "i-cheon-gu-sip-il-myeong-eul",
+              "english": "2,091 people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "추가",
+              "roman": "chu-ga",
+              "english": "additional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "확인했다",
+              "roman": "hwak-in-haet-da",
+              "english": "confirmed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The bank said the additional cases came from rechecking the original system and related work processes, not a new attack.",
+          "korean": "은행은 새 해킹이 아니라 기존 시스템 재검사에서 추가 피해를 찾았다고 밝혔다.",
+          "glossary": [
+            {
+              "korean": "은행은",
+              "roman": "eun-haeng-eun",
+              "english": "the bank",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "해킹이",
+              "roman": "hae-king-i",
+              "english": "hacking",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "아니라",
+              "roman": "a-ni-ra",
+              "english": "not but",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기존",
+              "roman": "gi-jon",
+              "english": "existing",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시스템",
+              "roman": "si-seu-tem",
+              "english": "system",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "재검사에서",
+              "roman": "jae-geom-sa-e-seo",
+              "english": "in a recheck",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "추가",
+              "roman": "chu-ga",
+              "english": "additional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "피해를",
+              "roman": "pi-hae-reul",
+              "english": "harm",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "찾았다고",
+              "roman": "chat-at-da-go",
+              "english": "found",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔다",
+              "roman": "bal-hyeot-da",
+              "english": "stated",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The bank had earlier said the leaked information included names, phone numbers and addresses of the first 119 people.",
+          "korean": "은행은 앞서 119명의 이름과 전화번호, 주소가 유출됐다고 밝혔다.",
+          "glossary": [
+            {
+              "korean": "은행은",
+              "roman": "eun-haeng-eun",
+              "english": "the bank",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "앞서",
+              "roman": "ap-seo",
+              "english": "earlier",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "119명의",
+              "roman": "baek-sip-gu-myeong-ui",
+              "english": "119 people's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "이름과",
+              "roman": "i-reum-gwa",
+              "english": "names and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "전화번호,",
+              "roman": "jeon-hwa-beon-ho",
+              "english": "phone numbers",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주소가",
+              "roman": "ju-so-ga",
+              "english": "addresses",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "유출됐다고",
+              "roman": "yu-chul-dwaet-da-go",
+              "english": "were leaked",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "밝혔다",
+              "roman": "bal-hyeot-da",
+              "english": "stated",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10915394",
+      "short_english": "KB Kookmin Bank confirmed 2,091 additional people affected by a hacking incident on October 26.",
+      "short_korean": "KB국민은행은 10월 26일 유출 피해자 2,091명을 추가 확인했다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/korean/f42752abcfb0/1.jpg",
+        "images/korean/f42752abcfb0/2.jpg",
+        "images/korean/f42752abcfb0/3.jpg",
+        "images/korean/f42752abcfb0/4.jpg",
+        "images/korean/f42752abcfb0/5.jpg",
+        "images/korean/f42752abcfb0/6.jpg",
+        "images/korean/f42752abcfb0/7.jpg",
+        "images/korean/f42752abcfb0/8.jpg",
+        "images/korean/f42752abcfb0/9.jpg",
+        "images/korean/f42752abcfb0/10.jpg"
+      ],
+      "images_v": 26,
+      "caption_file": "images/korean/f42752abcfb0/caption.txt"
     },
     {
       "category": "Culture",
@@ -3282,7 +4047,7 @@
       "url": "https://www.koreaherald.com/article/10915320",
       "short_english": "Reports said Signal 2 might premiere on December 7, 2026, but tvN said the date was not confirmed.",
       "short_korean": "보도는 시그널2가 2026년 12월 7일 시작한다고 했지만 tvN은 미정이라고 밝혔다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/747aa33008df/1.jpg",
         "images/korean/747aa33008df/2.jpg",
@@ -3292,7 +4057,7 @@
         "images/korean/747aa33008df/6.jpg",
         "images/korean/747aa33008df/7.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/747aa33008df/caption.txt"
     },
     {
@@ -3695,7 +4460,7 @@
       "url": "https://www.koreaherald.com/article/10915283",
       "short_english": "Kim Koo’s essay “My Wish” presents culture as a path to happiness and world peace.",
       "short_korean": "김구의 글 나의 소원은 문화를 행복과 세계 평화의 길로 제시한다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/d7687a338b36/1.jpg",
         "images/korean/d7687a338b36/2.jpg",
@@ -3707,715 +4472,8 @@
         "images/korean/d7687a338b36/8.jpg",
         "images/korean/d7687a338b36/9.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/d7687a338b36/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "윤동주·김남조, 최고 문화훈장",
-      "english_title": "Two poets receive Korea’s top cultural honor",
-      "korean_desc": "윤동주의 한국어 시는 식민지의 고통과 저항을 개인적으로 표현했다. 김남조는 약 70년 동안 시와 수필을 1,000편 넘게 썼다. 문화부는 이 상이 현재와 미래 예술가의 환경을 돕길 바란다고 말했다.",
-      "english_desc": "Yoon’s Korean-language poems reflected colonial suffering and resistance through personal and lyrical writing. Kim Nam-jo wrote more than 1,000 poems and essays during a career lasting about seven decades. The Culture Ministry said the honors should help artists work in better conditions today and in the future.",
-      "hook": "Two late poets receive Korea’s highest cultural honor.",
-      "sticker": "Poetry remembered",
-      "korean_hook": "두 시인이 한국 최고 문화훈장을 받았다",
-      "takeaway_english": "The medals recognize lasting literary influence, not only current popularity.",
-      "takeaway_korean": "훈장은 현재 인기가 아니라 오래된 문학적 영향력을 인정한다.",
-      "why_it_matters": [
-        {
-          "english": "The awards show how literature from different generations remains part of Korea’s cultural identity.",
-          "korean": "이 상은 여러 세대의 문학이 한국 문화 정체성의 일부임을 보여준다."
-        },
-        {
-          "english": "Readers can meet history through Yoon’s resistance poetry and Kim’s long literary career.",
-          "korean": "독자는 윤동주의 저항시와 김남조의 긴 문학 활동으로 역사를 만난다."
-        }
-      ],
-      "source_title": "Late poets Yoon Dong-ju, Kim Nam-jo receive Korea’s highest cultural honor",
-      "hook_format": "headline",
-      "body_format": "who_speaks",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "people": [
-          {
-            "label": "Culture Ministry",
-            "english": "It awarded the Geumgwan Order of Cultural Merit to Yoon Dong-ju and Kim Nam-jo posthumously.",
-            "korean": "문화부는 윤동주와 김남조에게 금관문화훈장을 추서했다."
-          },
-          {
-            "label": "Yoon Dong-ju",
-            "english": "His Korean-language poems expressed suffering and resistance under Japanese colonial rule.",
-            "korean": "그의 한국어 시는 일제강점기의 고통과 저항을 표현했다."
-          },
-          {
-            "label": "Kim Nam-jo",
-            "english": "She wrote more than 1,000 poems and essays across about seven decades.",
-            "korean": "그녀는 약 70년 동안 시와 수필을 1,000편 넘게 썼다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "The ceremony took place in Seoul on October 26, 2026.",
-        "Yoon died in 1945, and Kim died in 2023."
-      ],
-      "reader_question": "Which poem has stayed with you for years?",
-      "topic_tag": "Poetry",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Late poets Yoon Dong-ju, Kim Nam-jo receive Korea’s highest cultural honor",
-          "date": "2026-10-26",
-          "url": "https://www.koreaherald.com/article/10915281"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "윤동주의",
-          "roman": "yun-dongju-ui",
-          "english": "Yoon Dong-ju’s",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "한국어",
-          "roman": "hangugeo",
-          "english": "Korean language",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "시는",
-          "roman": "si-neun",
-          "english": "poetry",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "식민지의",
-          "roman": "singminji-ui",
-          "english": "of the colony",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "고통과",
-          "roman": "gotong-gwa",
-          "english": "suffering and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "저항을",
-          "roman": "jeohang-eul",
-          "english": "resistance",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "개인적으로",
-          "roman": "gae-injeogeuro",
-          "english": "personally",
-          "particle": false,
-          "suffix": "으로"
-        },
-        {
-          "korean": "표현했다",
-          "roman": "pyohyeonhaetda",
-          "english": "expressed",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "why",
-          "english": "Yoon’s Korean-language poems reflected colonial suffering and resistance through personal and lyrical writing.",
-          "korean": "윤동주의 한국어 시는 식민지의 고통과 저항을 개인적으로 표현했다.",
-          "glossary": [
-            {
-              "korean": "윤동주의",
-              "roman": "yun-dongju-ui",
-              "english": "Yoon Dong-ju’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "한국어",
-              "roman": "hangugeo",
-              "english": "Korean language",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시는",
-              "roman": "si-neun",
-              "english": "poetry",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "식민지의",
-              "roman": "singminji-ui",
-              "english": "of the colony",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "고통과",
-              "roman": "gotong-gwa",
-              "english": "suffering and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "저항을",
-              "roman": "jeohang-eul",
-              "english": "resistance",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "개인적으로",
-              "roman": "gae-injeogeuro",
-              "english": "personally",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "표현했다",
-              "roman": "pyohyeonhaetda",
-              "english": "expressed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Kim Nam-jo wrote more than 1,000 poems and essays during a career lasting about seven decades.",
-          "korean": "김남조는 약 70년 동안 시와 수필을 1,000편 넘게 썼다.",
-          "glossary": [
-            {
-              "korean": "김남조는",
-              "roman": "gim-namjo-neun",
-              "english": "Kim Nam-jo",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "70년",
-              "roman": "chil-sip-nyeon",
-              "english": "70 years",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "동안",
-              "roman": "dongan",
-              "english": "during",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시와",
-              "roman": "si-wa",
-              "english": "poems and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "수필을",
-              "roman": "supil-eul",
-              "english": "essays",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "1,000편",
-              "roman": "cheon-pyeon",
-              "english": "1,000 works",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "넘게",
-              "roman": "neomge",
-              "english": "more than",
-              "particle": false,
-              "suffix": "게"
-            },
-            {
-              "korean": "썼다",
-              "roman": "sseotda",
-              "english": "wrote",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The Culture Ministry said the honors should help artists work in better conditions today and in the future.",
-          "korean": "문화부는 이 상이 현재와 미래 예술가의 환경을 돕길 바란다고 말했다.",
-          "glossary": [
-            {
-              "korean": "문화부는",
-              "roman": "munhwa-bu-neun",
-              "english": "the Culture Ministry",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "these",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "상이",
-              "roman": "sang-i",
-              "english": "awards",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "현재와",
-              "roman": "hyeonjae-wa",
-              "english": "today and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "미래",
-              "roman": "mirae",
-              "english": "future",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "예술가의",
-              "roman": "yesulga-ui",
-              "english": "artists’",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "환경을",
-              "roman": "hwangyeong-eul",
-              "english": "conditions",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "돕길",
-              "roman": "dopgil",
-              "english": "help",
-              "particle": false,
-              "suffix": "길"
-            },
-            {
-              "korean": "바란다고",
-              "roman": "barandago",
-              "english": "hoped",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10915281",
-      "short_english": "Yoon’s Korean-language poems reflected colonial suffering and resistance through personal and lyrical writing.",
-      "short_korean": "윤동주의 한국어 시는 식민지의 고통과 저항을 개인적으로 표현했다.",
-      "date": "2026-10-26",
-      "images": [
-        "images/korean/65ee349d1c50/1.jpg",
-        "images/korean/65ee349d1c50/2.jpg",
-        "images/korean/65ee349d1c50/3.jpg",
-        "images/korean/65ee349d1c50/4.jpg",
-        "images/korean/65ee349d1c50/5.jpg",
-        "images/korean/65ee349d1c50/6.jpg",
-        "images/korean/65ee349d1c50/7.jpg",
-        "images/korean/65ee349d1c50/8.jpg"
-      ],
-      "images_v": 24,
-      "caption_file": "images/korean/65ee349d1c50/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "김구는 가족보다 나라를 택했나",
-      "english_title": "How Kim Koo is remembered",
-      "korean_desc": "2026년 김구는 문화와 평화를 강조하는 유네스코 기념해로 기억되고 있다. 가족은 그를 가족 돌봄보다 나라 일을 앞세운 지도자로도 기억한다. 증손자 김용만은 기념해가 독립운동보다 문화 평화의 꿈을 강조해야 한다고 말했다.",
-      "english_desc": "In 2026, Kim Koo is being remembered through a UNESCO-associated anniversary focused on culture and peace. His family also remembers him as a leader who often placed national work before caring for his family. His great-grandson says the anniversary should highlight Kim Koo’s dream of peace through culture, not only independence activism.",
-      "hook": "Is Kim Koo remembered only as an independence hero?",
-      "sticker": "A fuller portrait of Kim Koo",
-      "korean_hook": "김구는 독립운동가로만 기억될까?",
-      "takeaway_english": "Remembering Kim Koo now involves both national sacrifice and personal cost.",
-      "takeaway_korean": "오늘 김구를 기억하는 일에는 나라를 위한 희생과 개인적 대가가 함께 있다.",
-      "why_it_matters": [
-        {
-          "english": "Public heroes can have complicated family histories that official praise may leave out.",
-          "korean": "공적 영웅에게는 공식 찬양이 담지 못하는 복잡한 가족사가 있을 수 있다."
-        },
-        {
-          "english": "The anniversary changes attention from military resistance toward culture and peace.",
-          "korean": "이번 기념해는 군사 저항에서 문화와 평화로 관심을 넓힌다."
-        }
-      ],
-      "source_title": "How Kim Koo is remembered",
-      "hook_format": "question-myth",
-      "body_format": "who_speaks",
-      "question": "Is Kim Koo remembered only as an independence hero?",
-      "korean_question": "김구는 독립운동가로만 기억될까?",
-      "answer_english": "His family remembers both a national leader and a man whose political work often came before family care.",
-      "answer_korean": "가족은 그를 나라를 이끈 사람인 동시에 가족보다 일을 앞세운 사람으로 기억한다.",
-      "format_data": {
-        "people": [
-          {
-            "label": "Kim Yong-man",
-            "english": "His great-grandson says the family remembers Kim Koo as a cool-headed relative, not only a patriotic symbol.",
-            "korean": "증손자 김용만은 가족이 김구를 애국 상징만이 아닌 냉정한 친척으로 기억한다고 말했다."
-          },
-          {
-            "label": "UNESCO-associated commemoration",
-            "english": "The 2026 anniversary highlights Kim Koo’s vision of peace through culture, not only his independence activism.",
-            "korean": "2026년 기념해는 독립운동뿐 아니라 문화를 통한 평화 비전을 강조한다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Kim Yong-man is Kim Koo’s great-grandson.",
-        "UNESCO associated 2026 with the 150th anniversary of Kim Koo’s birth."
-      ],
-      "reader_question": "How should history balance public achievements and private costs?",
-      "topic_tag": "Memory",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "How Kim Koo is remembered",
-          "date": "2026-10-26",
-          "url": "https://www.koreaherald.com/article/10915273"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "김구는",
-          "roman": "gim-gu-neun",
-          "english": "Kim Koo",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "문화와",
-          "roman": "munhwa-wa",
-          "english": "culture and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "평화를",
-          "roman": "pyeonghwa-reul",
-          "english": "peace",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "강조하는",
-          "roman": "gangjohaneun",
-          "english": "emphasizing",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "유네스코",
-          "roman": "yuneseuko",
-          "english": "UNESCO",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "기념해로",
-          "roman": "ginyeomhae-ro",
-          "english": "as an anniversary",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "기억되고",
-          "roman": "gieokdoego",
-          "english": "being remembered",
-          "particle": false,
-          "suffix": "고"
-        },
-        {
-          "korean": "있다",
-          "roman": "itda",
-          "english": "is",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "In 2026, Kim Koo is being remembered through a UNESCO-associated anniversary focused on culture and peace.",
-          "korean": "2026년 김구는 문화와 평화를 강조하는 유네스코 기념해로 기억되고 있다.",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "김구는",
-              "roman": "gim-gu-neun",
-              "english": "Kim Koo",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "문화와",
-              "roman": "munhwa-wa",
-              "english": "culture and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "평화를",
-              "roman": "pyeonghwa-reul",
-              "english": "peace",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "강조하는",
-              "roman": "gangjohaneun",
-              "english": "emphasizing",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "유네스코",
-              "roman": "yuneseuko",
-              "english": "UNESCO",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "기념해로",
-              "roman": "ginyeomhae-ro",
-              "english": "as an anniversary",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "기억되고",
-              "roman": "gieokdoego",
-              "english": "being remembered",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "있다",
-              "roman": "itda",
-              "english": "is",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "truth",
-          "english": "His family also remembers him as a leader who often placed national work before caring for his family.",
-          "korean": "가족은 그를 가족 돌봄보다 나라 일을 앞세운 지도자로도 기억한다.",
-          "glossary": [
-            {
-              "korean": "가족은",
-              "roman": "gajok-eun",
-              "english": "the family",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "가족",
-              "roman": "gajok",
-              "english": "family",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "그를",
-              "roman": "geu-reul",
-              "english": "him",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "돌봄보다",
-              "roman": "dolbom-boda",
-              "english": "than caring",
-              "particle": false,
-              "suffix": "보다"
-            },
-            {
-              "korean": "나라",
-              "roman": "nara",
-              "english": "country",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일을",
-              "roman": "il-eul",
-              "english": "work",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "앞세운",
-              "roman": "aps-eun",
-              "english": "put first",
-              "particle": false,
-              "suffix": "운"
-            },
-            {
-              "korean": "지도자로도",
-              "roman": "jidoja-rodo",
-              "english": "also as a leader",
-              "particle": false,
-              "suffix": "로도"
-            },
-            {
-              "korean": "기억한다",
-              "roman": "gieokhanda",
-              "english": "remember",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "His great-grandson says the anniversary should highlight Kim Koo’s dream of peace through culture, not only independence activism.",
-          "korean": "증손자 김용만은 기념해가 독립운동보다 문화 평화의 꿈을 강조해야 한다고 말했다.",
-          "glossary": [
-            {
-              "korean": "증손자",
-              "roman": "jeungsonja",
-              "english": "great-grandson",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "김용만은",
-              "roman": "gim-yongman-eun",
-              "english": "Kim Yong-man",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "기념해가",
-              "roman": "ginyeomhae-ga",
-              "english": "the anniversary",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "독립운동보다",
-              "roman": "dongnip-undong-boda",
-              "english": "than independence activism",
-              "particle": false,
-              "suffix": "보다"
-            },
-            {
-              "korean": "문화",
-              "roman": "munhwa",
-              "english": "culture",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "평화의",
-              "roman": "pyeonghwa-ui",
-              "english": "of peace",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "꿈을",
-              "roman": "kkum-eul",
-              "english": "dream",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "강조해야",
-              "roman": "gangjohaya",
-              "english": "should emphasize",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다고",
-              "roman": "handago",
-              "english": "that it should",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10915273",
-      "short_english": "In 2026, Kim Koo is being remembered through a UNESCO-associated anniversary focused on culture and peace.",
-      "short_korean": "2026년 김구는 문화와 평화를 강조하는 유네스코 기념해로 기억되고 있다.",
-      "date": "2026-10-26",
-      "images": [
-        "images/korean/02f814513f5b/1.jpg",
-        "images/korean/02f814513f5b/2.jpg",
-        "images/korean/02f814513f5b/3.jpg",
-        "images/korean/02f814513f5b/4.jpg",
-        "images/korean/02f814513f5b/5.jpg",
-        "images/korean/02f814513f5b/6.jpg",
-        "images/korean/02f814513f5b/7.jpg",
-        "images/korean/02f814513f5b/8.jpg"
-      ],
-      "images_v": 24,
-      "caption_file": "images/korean/02f814513f5b/caption.txt"
     },
     {
       "category": "Sports",
@@ -4810,7 +4868,7 @@
       "url": "https://www.koreaherald.com/article/10915050",
       "short_english": "Harry Kane entered Monday’s Ballon d’Or ceremony in London as the favorite among 30 shortlisted players.",
       "short_korean": "해리 케인은 런던 시상식에서 30명 후보 중 선두였다",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/870820feebac/1.jpg",
         "images/korean/870820feebac/2.jpg",
@@ -4821,7 +4879,7 @@
         "images/korean/870820feebac/7.jpg",
         "images/korean/870820feebac/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/870820feebac/caption.txt"
     },
     {
@@ -5189,7 +5247,7 @@
       "url": "https://www.koreaherald.com/article/10915020",
       "short_english": "Real Madrid beat Barcelona 2-1 at Spotify Camp Nou on Sunday, ending Barcelona’s nine-game winning start.",
       "short_korean": "레알 마드리드는 일요일 캄프누에서 바르셀로나를 2대1로 이겼다",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/6dc2dd4cb8c8/1.jpg",
         "images/korean/6dc2dd4cb8c8/2.jpg",
@@ -5200,7 +5258,7 @@
         "images/korean/6dc2dd4cb8c8/7.jpg",
         "images/korean/6dc2dd4cb8c8/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/6dc2dd4cb8c8/caption.txt"
     },
     {
@@ -5517,7 +5575,7 @@
       "url": "https://www.koreaherald.com/article/10914997",
       "short_english": "Song Min-kyu made his first assist for Nacional in a 1-0 home win over Braga on Monday.",
       "short_korean": "송민규는 월요일 홈에서 브라가전 1대0 승리를 도왔다",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/0ffde56a6d6c/1.jpg",
         "images/korean/0ffde56a6d6c/2.jpg",
@@ -5527,7 +5585,7 @@
         "images/korean/0ffde56a6d6c/6.jpg",
         "images/korean/0ffde56a6d6c/7.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/0ffde56a6d6c/caption.txt"
     },
     {
@@ -5916,7 +5974,7 @@
       "url": "https://www.koreaherald.com/article/10914984",
       "short_english": "World No. 1 An Se-young won the French Open in Paris on Sunday, beating P.V. Sindhu in three games.",
       "short_korean": "세계 1위 안세영은 일요일 파리에서 신두를 꺾고 프랑스오픈을 우승했다",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/25fb462d84b5/1.jpg",
         "images/korean/25fb462d84b5/2.jpg",
@@ -5927,7 +5985,7 @@
         "images/korean/25fb462d84b5/7.jpg",
         "images/korean/25fb462d84b5/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/25fb462d84b5/caption.txt"
     },
     {
@@ -6324,7 +6382,7 @@
       "url": "https://www.koreaherald.com/article/10915318",
       "short_english": "ILLIT released its fifth EP, Break Even, in Seoul on Monday with four members promoting.",
       "short_korean": "아일릿은 월요일 서울에서 다섯 번째 EP를 네 명으로 발표했다",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/f197184eb5c5/1.jpg",
         "images/korean/f197184eb5c5/2.jpg",
@@ -6335,7 +6393,7 @@
         "images/korean/f197184eb5c5/7.jpg",
         "images/korean/f197184eb5c5/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/f197184eb5c5/caption.txt"
     },
     {
@@ -6753,7 +6811,7 @@
       "url": "https://www.koreaherald.com/article/10915232",
       "short_english": "Alpha Drive One member Geonwoo filed a lawsuit against WakeOne after staying on indefinite hiatus since April.",
       "short_korean": "알파드라이브원 건우는 4월부터 무기한 활동을 쉰 뒤 웨이크원을 상대로 소송했다",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/b3df7b24ae58/1.jpg",
         "images/korean/b3df7b24ae58/2.jpg",
@@ -6764,7 +6822,7 @@
         "images/korean/b3df7b24ae58/7.jpg",
         "images/korean/b3df7b24ae58/8.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/b3df7b24ae58/caption.txt"
     },
     {
@@ -7141,7 +7199,7 @@
       "url": "https://www.koreaherald.com/article/10914583",
       "short_english": "Virtual five-member K-pop group PLAVE released Hyperdrive in South Korea on October 13, 2026.",
       "short_korean": "가상 5인조 그룹 플레이브가 2026년 10월 13일 한국에서 하이퍼드라이브를 발매했다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/b0a0b40258c3/1.jpg",
         "images/korean/b0a0b40258c3/2.jpg",
@@ -7151,7 +7209,7 @@
         "images/korean/b0a0b40258c3/6.jpg",
         "images/korean/b0a0b40258c3/7.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/b0a0b40258c3/caption.txt"
     },
     {
@@ -7451,7 +7509,7 @@
       "url": "https://www.koreaherald.com/article/10914560",
       "short_english": "K-pop idols now make regular online variety shows on their own channels, beyond older behind-the-scenes videos.",
       "short_korean": "케이팝 아이돌은 이제 자체 채널에서 정기 예능을 만든다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/0e63fb5d0e3d/1.jpg",
         "images/korean/0e63fb5d0e3d/2.jpg",
@@ -7461,7 +7519,7 @@
         "images/korean/0e63fb5d0e3d/6.jpg",
         "images/korean/0e63fb5d0e3d/7.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/0e63fb5d0e3d/caption.txt"
     },
     {
@@ -7838,7 +7896,7 @@
       "url": "https://www.koreaherald.com/article/10915043",
       "short_english": "President Donald Trump attacked Democratic Senate candidate Abdul El-Sayed at a Michigan rally on October 25, 2026.",
       "short_korean": "도널드 트럼프 대통령은 2026년 10월 25일 미시간 집회에서 압둘 엘사예드를 공격했다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/9256aaa49f7c/1.jpg",
         "images/korean/9256aaa49f7c/2.jpg",
@@ -7848,7 +7906,7 @@
         "images/korean/9256aaa49f7c/6.jpg",
         "images/korean/9256aaa49f7c/7.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/9256aaa49f7c/caption.txt"
     },
     {
@@ -8148,7 +8206,7 @@
       "url": "https://www.koreaherald.com/article/10914953",
       "short_english": "Marine Le Pen launched her French presidential campaign in Orleans on October 25, 2026, before 8,500 supporters.",
       "short_korean": "마린 르펜은 2026년 10월 25일 오를레앙에서 대선운동을 시작했다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/84b693bf26dc/1.jpg",
         "images/korean/84b693bf26dc/2.jpg",
@@ -8158,7 +8216,7 @@
         "images/korean/84b693bf26dc/6.jpg",
         "images/korean/84b693bf26dc/7.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/84b693bf26dc/caption.txt"
     },
     {
@@ -8423,7 +8481,7 @@
       "url": "https://www.koreaherald.com/article/10914842",
       "short_english": "Brazilian President Luiz Inacio Lula da Silva defeated Flavio Bolsonaro in Sunday’s runoff election on October 25, 2026.",
       "short_korean": "브라질 대통령 룰라가 2026년 10월 25일 플라비우 보우소나루를 꺾었다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/7ac9a7f51000/1.jpg",
         "images/korean/7ac9a7f51000/2.jpg",
@@ -8432,7 +8490,7 @@
         "images/korean/7ac9a7f51000/5.jpg",
         "images/korean/7ac9a7f51000/6.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/7ac9a7f51000/caption.txt"
     },
     {
@@ -8697,7 +8755,7 @@
       "url": "https://www.koreaherald.com/article/10914838",
       "short_english": "The World Health Organization said repeated attacks are hampering efforts to slow Congo’s fastest-growing Ebola outbreak.",
       "short_korean": "세계보건기구는 반복된 공격이 콩고의 에볼라 대응을 방해한다고 밝혔다.",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "images": [
         "images/korean/a187229a9c17/1.jpg",
         "images/korean/a187229a9c17/2.jpg",
@@ -8706,7 +8764,7 @@
         "images/korean/a187229a9c17/5.jpg",
         "images/korean/a187229a9c17/6.jpg"
       ],
-      "images_v": 24,
+      "images_v": 26,
       "caption_file": "images/korean/a187229a9c17/caption.txt"
     }
   ]
