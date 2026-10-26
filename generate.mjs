@@ -34,8 +34,17 @@ const PLAN = {
   'Business': { hooks: ['number', 'question-clues', 'headline'], bodies: ['before_after', 'whats_missing', 'three_points', 'timeline'] },
   'Culture': { hooks: ['question-myth', 'vocab', 'headline'], bodies: ['who_speaks', 'another_view', 'map_place'] },
   'Sports': { hooks: ['number', 'question-clues', 'headline'], bodies: ['before_after', 'three_points', 'poll'] },
-  'K-pop': { hooks: ['question-chat', 'question-myth', 'vocab'], bodies: ['who_speaks', 'another_view', 'poll'] },
+  'Entertainment': { hooks: ['question-chat', 'question-myth', 'vocab'], bodies: ['who_speaks', 'another_view', 'poll'] },
   'World': { hooks: ['headline', 'question-reveal', 'number'], bodies: ['who_speaks', 'timeline', 'map_place', 'two_views'] }
+};
+// Story arcs (the order of the sentences). Full arc: news with a development. Short arc: culture and Entertainment, lighter stories.
+const ARCS = {
+  full: ['context', 'summary', 'why', 'how', 'now', 'next'],
+  short: ['context', 'why', 'next']
+};
+const ARC_OF = {
+  'Politics & Society': 'full', 'Business': 'full', 'Sports': 'full', 'World': 'full',
+  'Culture': 'short', 'Entertainment': 'short'
 };
 // Serious stories (crime, deaths, disasters, abuse, illness, war): headline hook only, and only these bodies
 const SERIOUS_HOOKS = ['headline'];
@@ -43,7 +52,7 @@ const SERIOUS_BODIES = ['timeline', 'two_views'];
 const HOOK_FORMATS = ['question-reveal', 'question-clues', 'question-chat', 'question-myth', 'number', 'vocab', 'headline'];
 const BODY_FORMATS = ['sentences', 'two_views', 'three_points', 'timeline', 'before_after', 'who_speaks', 'whats_missing', 'another_view', 'map_place', 'poll'];
 
-const CATEGORY_TAG = { 'Politics & Society': 'PoliticsAndSociety', Business: 'Business', Culture: 'Culture', Sports: 'Sports', 'K-pop': 'KPop', World: 'World' };
+const CATEGORY_TAG = { 'Politics & Society': 'PoliticsAndSociety', Business: 'Business', Culture: 'Culture', Sports: 'Sports', Entertainment: 'Entertainment', World: 'World' };
 const NEWS_TAG = { korean: 'KoreanNews', indian: 'IndianNews', global: 'WorldNews' };
 
 // Three news regions. Each writes its own file, so the widget can switch between them.
@@ -59,7 +68,7 @@ const REGIONS = {
       { category: 'Business', url: 'https://www.koreaherald.com/rss/kh_Business', file: 'business.xml' },
       { category: 'Culture', url: 'https://www.koreaherald.com/rss/kh_LifenCulture', file: 'culture.xml' },
       { category: 'Sports', url: 'https://www.koreaherald.com/rss/kh_Sports', file: 'sports.xml' },
-      { category: 'K-pop', url: 'https://www.koreaherald.com/rss/kh_Kpop', file: 'kpop.xml' },
+      { category: 'Entertainment', url: 'https://www.koreaherald.com/rss/kh_Kpop', file: 'kpop.xml' },
       { category: 'World', url: 'https://www.koreaherald.com/rss/kh_World', file: 'world.xml' }
     ]
   },
@@ -71,7 +80,7 @@ const REGIONS = {
       { category: 'Business', url: 'https://www.thehindu.com/business/feeder/default.rss', file: 'h-business.xml' },
       { category: 'Culture', url: 'https://www.thehindu.com/life-and-style/feeder/default.rss', file: 'h-culture.xml' },
       { category: 'Sports', url: 'https://www.thehindu.com/sport/feeder/default.rss', file: 'h-sport.xml' },
-      { category: 'K-pop', url: 'https://www.thehindu.com/entertainment/feeder/default.rss', file: 'h-entertainment.xml' },
+      { category: 'Entertainment', url: 'https://www.thehindu.com/entertainment/feeder/default.rss', file: 'h-entertainment.xml' },
       { category: 'World', url: 'https://www.thehindu.com/news/international/feeder/default.rss', file: 'h-international.xml' }
     ]
   },
@@ -123,6 +132,8 @@ async function main() {
           c.hook_format && Array.isArray(c.caption_lines) &&
           // question cards made before the answer field existed are made again
           (!String(c.hook_format).startsWith('question-') || c.answer_english)) {
+        // Older cards used the label K-pop; the category is now Entertainment
+        c.category = c.category === 'K-pop' ? 'Entertainment' : c.category;
         cached.set(c.url, c);
       }
     }
@@ -352,6 +363,7 @@ function buildPrompt(batch) {
       return `${i + 1}. [${a.category}] ${a.title} (published ${a.date || 'unknown'})
    Allowed hook_format: ${plan.hooks.join(', ')}
    Allowed body_format: sentences, ${plan.bodies.join(', ')}
+   Arc: ${ARC_BY_CATEGORY[a.category] === 'short' ? 'short (stages what, why, next; 3 or 4 sentences)' : 'full (stages what, truth (question hooks only), why, how, now, next; 4 to 6 sentences, skip a stage with nothing to say)'}
    ARTICLE TEXT:
 ${a.body.slice(0, MAX_BODY)}`;
     })
@@ -362,7 +374,7 @@ ${a.body.slice(0, MAX_BODY)}`;
   return `You make one learner card for each news article below, for a beginner to intermediate Korean learner.
 ${searchLine}
 
-Write about the topic itself, in plain, easy English that anyone can follow, the way you would explain it to a friend. Say what the topic is about, what happened, who is involved, and why it matters. Never write "this article", "the article", "this report", "this story", "the source", "the search" or "the web", and never say where a fact came from in the text: the sources are listed separately. Write in your own words. Do not copy sentences from the article.
+Write about the topic itself, in plain, easy English that anyone can follow. Write the whole card as ONE paragraph told by one storyteller, in one voice: every sentence picks up where the last one stopped, as if the card were a single paragraph cut into pieces. Use a lively, gossipy, curious tone for light stories, like a friend who has just heard the news and cannot wait to tell you, but every line must be a checked fact. Never guess about private lives, never mock anyone, and never use gossip for serious stories. Say what the topic is about, what happened, who is involved, and why it matters. Never write "this article", "the article", "this report", "this story", "the source", "the search" or "the web", and never say where a fact came from in the text: the sources are listed separately. Write in your own words. Do not copy sentences from the article.
 Keep every fact exactly as the article and the search results state it. Use only facts from the article text and the search results. If sources disagree, say so. If the evidence is thin, say so. Never add a fact, number, name or quote that is not in them. Write the hook and titles clearly and respectfully. Be playful only when the story is light (culture, sports, science, food). For serious news (crime, violence, war, disasters, deaths, illness, abuse, accidents, disputes over rights) use a calm, factual tone with no jokes, slang or teasing, and never make light of anyone who is hurt or affected. Use the standard Korean spelling of place and people names (for example Mumbai is 뭄바이).
 
 Write with a critical eye, not as a summary: say what the story leaves out, whose voice is heard and whose is not, and where the evidence is disputed. On a disputed or political question, give the strongest case on each side and never a verdict. Critical framing never targets victims of crime, disaster, abuse or illness.
@@ -371,6 +383,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "korean_title": a natural Korean headline, under 30 Korean characters
 - "english_title": a clear, short English headline
 - "hook": the headline hook. Plain words, under 10 words, that states the key point of the story clearly, in the form "Korea aimed for 21 golds. It won 29." Accurate, and it must not add any fact. Use a contrast only when the facts support it and the story is not serious.
+  For a question-* hook the question is the intriguing gossip-style question that makes the reader want the rest. It must not give the answer away and must not be an obvious yes-or-no question whose answer is in the question itself.
 - "korean_hook": the same hook in simple, natural Korean, under 30 characters, with the same tone
 - "serious": true for crime, violence, war, deaths, disasters, abuse, accidents or illness; otherwise false. For a serious story, hook_format must be "headline" and body_format must be "sentences", "timeline" or "two_views".
 - "hook_format": one of the Allowed hook_format values for that article:
@@ -382,7 +395,7 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
   vocab = opens with the key Korean word of the story;
   headline = the story's own headline.
 - "question" and "korean_question": the question for a question-* hook, under 15 words; otherwise "".
-- "answer": for a question-* hook, the direct answer to that question, {"english": "one sentence, under 25 words, that answers the question plainly", "korean": "the same answer in simple Korean"}. The sentences must lead to this answer: the outcome sentence states it. For other hooks, leave it as null.
+- "answer": for a question-* hook, the direct answer to that question, {"english": "one sentence, under 25 words, that answers the question plainly", "korean": "the same answer in simple Korean"}. The "truth" sentence states this answer, placed where the story reaches it, after the "what" sentence. For other hooks, leave it as null.
 - "body_format": one of the Allowed body_format values for that article. "sentences" means sentence cards only.
 - "format_data": an object with ONLY the keys for the chosen hook_format and body_format, in these shapes (leave the others out):
   "number": {"value": "the number exactly as in the story", "label": "what it counts, English, under 8 words", "korean_label": "the same in Korean"}
@@ -403,9 +416,16 @@ Return ONLY a JSON array with exactly ${batch.length} objects, in the same order
 - "reader_question": one question for the reader, different from the hook question.
 - "topic_tag": one word naming the topic, letters only (for example Election).
 - "sources": up to ${MAX_EXTRA_SOURCES} objects {"outlet": "...", "title": "...", "date": "YYYY-MM-DD", "url": "..."} for the pages you used from your search. Only URLs your web search returned.
-- "sentences": 6 or 7 objects, in reading order, that together tell ONE story. Read them in order and they must be one coherent account: each sentence follows on from the one before it, uses a plain link such as "Then", "As a result" or "Since then" where it fits, and no sentence repeats a fact, number or phrase that the hook or another sentence already gives. Plan the story before you write it: first the context (who, what, when and where), then the events in the order they happened, then the result or what it means. A cause is stated before its effect. Short, specific sentences beat long, repeated ones. Each object has:
-  - "stage": "context" (what the story is about, the first sentence), "summary" (what happened, the middle sentences) or "outcome" (the result or why it matters, the last sentence)
-  - "english": one clear English sentence, under 25 words. The "summary" sentence is the card's short description: 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result.
+- "sentences": objects, in reading order, that together tell ONE story about the topic itself, following the Arc line of the article. Read them in order and they must be one coherent account: each sentence follows on from the one before it, uses a plain link such as "Then", "As a result" or "Since then" where it fits, and no sentence repeats a fact, number or phrase that the hook or another sentence already gives. Every sentence must add a fact. Drop any line that only comments on the story. A cause is stated before its effect. Short, specific sentences beat long, repeated ones. Each object has:
+  - "stage": one of these, used in this order:
+    - "what": what happened or what the topic is, in plain facts: who, what, when and where. Always the first sentence.
+    - "truth": only for a question-* hook: the answer to the question, stated as the story reaches it. Never the first sentence, and never worded as a surprise or a trick.
+    - "why": why it happened or why people care.
+    - "how": how it happened or how it works, in order.
+    - "now": where it stands today, with the date of that update.
+    - "next": what is expected, and from whom.
+    A serious story (crime, disaster, illness, or anything involving victims) uses only "what", "how" and "now", in plain facts, and never uses "truth", "why" or "next" as blame or speculation. Use the stages the Arc line allows and no other stage name.
+  - "english": one clear English sentence, under 25 words. The "what" sentence is the card's short description: 12 to 18 words, complete and self-contained, naming who did what, where and when, with the key number or result.
   - "korean": the Korean translation of that sentence, simple and natural. It must carry every fact, number and detail of the English sentence. For example, "seven golds" must appear in Korean as 금메달 7개. Keep each Korean sentence to at most 12 words, so every word can be shown in the glossary.
   - "glossary": EVERY word of the Korean sentence, in order, one item per word, as {"korean": "the word exactly as written in the sentence", "roman": "its romanization, REQUIRED for every item, with a hyphen inside each word, e.g. joehoesu-neun", "english": "a short meaning", "particle": false, "suffix": "the particle or ending at the very end of the word (such as 의, 에는, 이다), or empty if none"}. A word and the particle attached to it are ONE item with the particle included, for example "BTS의" (roman "BTS-ui", english "BTS's") or "아리랑에는" (roman "Arirang-eneun", english "in Arirang"). Never split a word from its particle. Include names of people, teams, places and events too. Skip only punctuation and numbers written with digits (such as 14); a Korean word that contains a number (such as 14곡과) is kept. Always set "particle" to false.
 Do not write anything outside the JSON.
@@ -655,25 +675,30 @@ function normalizeWhy(list) {
     .map(w => ({ english: w.english.trim(), korean: w.korean.trim() }));
 }
 
-// Keeps the story in its arc: context first, then what happened, then the outcome
-const STAGE_ORDER = { context: 0, summary: 1, outcome: 2 };
+// Keeps the story in its arc: truth, what, why, how, now, next (short stories: what, why, next)
+const STAGES = ['what', 'truth', 'why', 'how', 'now', 'next'];
+const LEGACY_STAGE = { context: 'what', summary: 'how', outcome: 'next' };
+const ARC_BY_CATEGORY = { 'Culture': 'short', 'Entertainment': 'short' };
+function stageOf(s) {
+  if (STAGES.includes(s.stage)) return s.stage;
+  return LEGACY_STAGE[s.stage] || 'what';
+}
 function sortByStory(list) {
   return list
     .map((s, i) => ({ s, i }))
-    .sort((a, b) => (STAGE_ORDER[a.s.stage] - STAGE_ORDER[b.s.stage]) || (a.i - b.i))
+    .sort((a, b) => (STAGES.indexOf(a.s.stage) - STAGES.indexOf(b.s.stage)) || (a.i - b.i))
     .map(x => x.s);
 }
 
 // Keeps only well-formed sentence pairs, in story order
 function normalizeSentences(list) {
   if (!Array.isArray(list)) return [];
-  const stages = ['context', 'summary', 'outcome'];
   return sortByStory(list
     .filter(s => s && typeof s.english === 'string' && s.english.trim() && typeof s.korean === 'string' && s.korean.trim())
-    .map(s => ({ ...s, stage: stages.includes(s.stage) ? s.stage : 'summary' })))
+    .map(s => ({ ...s, stage: stageOf(s) })))
     .slice(0, MAX_SENTENCES)
     .map(s => ({
-      stage: stages.includes(s.stage) ? s.stage : 'summary',
+      stage: s.stage,
       english: s.english.trim(),
       korean: s.korean.trim(),
       glossary: cleanGlossary(s.glossary, s.korean.trim())
@@ -726,7 +751,7 @@ function fixGlossary(card) {
 function addShortText(card) {
   const list = Array.isArray(card.sentences) ? card.sentences : [];
   if (list.length === 0) return;
-  const pick = list.find(s => s.stage === 'summary') || list[0];
+  const pick = list.find(s => s.stage === 'what') || list.find(s => s.stage === 'summary') || list[0];
   card.short_english = pick.english;
   card.short_korean = pick.korean;
   // The widget's WORDS are the words of the short Korean line shown on the card, nothing else

@@ -19,7 +19,7 @@ import { createHash } from 'node:crypto';
 import path from 'node:path';
 
 // Bump this when the slide layouts or skins change: every card is then drawn again once.
-export const IMAGE_VERSION = 22;
+export const IMAGE_VERSION = 24;
 
 const W = 1080;
 const H = 1350;
@@ -105,7 +105,7 @@ const SKINS = {
   }
 };
 // K-pop cards use the Entertainment skin
-SKINS['K-pop'] = SKINS.Entertainment;
+SKINS['K-pop'] = SKINS.Entertainment; // older cards with the old label
 
 export function skinFor(category) {
   return { ...DEFAULT_SKIN, ...(SKINS[category] || {}) };
@@ -288,7 +288,11 @@ function glossaryChips(words, sk) {
 // Sentence slides. The story card is 945px tall (70% of the slide), tilted as in the Flow artboard.
 // The glossary of the sentence's words fills the rest, with the header and footer.
 function sentenceSlide(s, words, i, n, total, part, date, sk) {
-  const STAGES = { context: ['🧭', 'THE BACKSTORY'], summary: ['📰', 'WHAT HAPPENED'], outcome: ['💡', 'WHAT IT MEANS'] };
+  const STAGES = {
+    truth: ['✅', 'THE REAL ANSWER'], what: ['📰', 'WHAT HAPPENED'], why: ['🧭', 'WHY IT HAPPENED'],
+    how: ['⚙️', 'HOW IT HAPPENED'], now: ['📍', 'WHERE IT STANDS NOW'], next: ['🔜', 'WHAT IS EXPECTED'],
+    context: ['🧭', 'THE BACKSTORY'], summary: ['📰', 'WHAT HAPPENED'], outcome: ['💡', 'WHAT IT MEANS']
+  };
   const [emoji, label] = STAGES[s.stage] || (i === 0 ? ['🧭', 'THE BACKSTORY'] : i === n - 1 ? ['💡', 'WHAT IT MEANS'] : ['📰', 'WHAT HAPPENED']);
   // The sentence text shrinks if it does not fit the card; the glossary is scaled down if it does not fit its space
   const shrink = `(function(){var card=document.getElementById('card'),en=document.getElementById('en'),ko=document.getElementById('ko'),g=document.getElementById('gloss'),a=76,b=66,f=24;` +
@@ -509,6 +513,7 @@ function creditSlide(c, region, logo, photo, total, date, sk) {
         <div style="font-size: 34px; font-weight: 800">Written and published by</div>
         <div style="font-size: 50px; font-weight: 900">Deevena Angel Thirupathi</div>
         <div style="font-size: 30px; font-weight: 700">Maeil News</div>
+        <div style="font-size: 30px; font-weight: 700">Contact: maeil.news365@gmail.com</div>
       </div>
     </div>
   </div>
