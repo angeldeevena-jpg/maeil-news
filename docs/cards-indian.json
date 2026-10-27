@@ -1,1906 +1,70 @@
 {
   "date": "2026-10-27",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0160",
-  "generated_at": "2026-10-26T18:08:07.111Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0146",
+  "generated_at": "2026-10-27T06:20:54.680Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "코지코드 가상 부검, 아직 준비 중",
-      "english_title": "Kozhikode’s Virtual Autopsy Plan Still Needs Time",
-      "korean_desc": "코지코드 의대병원이 케랄라에서 가상 부검을 준비한다 이 방법은 CT와 MRI 영상으로 검사한다 법의학부 직원이 실롱에서 한 달 훈련을 마쳤다 2026년 10월 26일 장비와 인력 계획은 논의 중이었다",
-      "english_desc": "Kozhikode Medical College Hospital is preparing to launch virtual autopsy in Kerala. The method uses CT and MRI images instead of cutting the body open. A forensic department member completed month-long training in Shillong. On October 26, 2026, equipment and staffing plans were still under discussion.",
-      "hook": "The launch is planned, but facilities are not ready.",
-      "sticker": "What must happen first",
-      "korean_hook": "계획은 있지만 준비가 안 됐다",
-      "takeaway_english": "The promise is clear, but the timetable depends on funding, staff and equipment.",
-      "takeaway_korean": "장래성은 있지만 일정은 예산과 인력에 달려 있다",
+      "korean_title": "초강력 사이클론 아르나브 접근",
+      "english_title": "Cyclone Arnab heads toward Andhra’s coast",
+      "korean_desc": "10월 27일, 사이클론 아르나브가 안드라프라데시와 오디샤에 접근했다. 아르나브는 벵골만에서 초강력 폭풍으로 강해졌다. 기상청은 10월 28일 바팟라와 비사카파트남 사이 상륙을 예보했다. 당국은 37개 마을에 31,405명용 대피소 54곳을 준비했다.",
+      "english_desc": "On October 27, Cyclone Arnab approached Andhra Pradesh and Odisha. It strengthened into a very severe storm over the west-central Bay of Bengal. The IMD forecast landfall between Bapatla and Visakhapatnam on October 28. Officials prepared 54 camps for 31,405 people across 37 villages.",
+      "hook": "Arnab is heading toward Andhra’s coast.",
+      "sticker": "Storm warning",
+      "korean_hook": "아르나브가 안드라 해안으로 간다",
+      "takeaway_english": "The immediate priority is protecting people before the storm reaches land.",
+      "takeaway_korean": "폭풍이 상륙하기 전에 사람들을 보호하는 일이 가장 중요하다.",
       "why_it_matters": [
         {
-          "english": "Families may avoid some invasive procedures.",
-          "korean": "가족은 일부 침습 검사를 피할 수 있다"
+          "english": "Strong winds and heavy rain could affect homes, travel, schools, and fishing.",
+          "korean": "강풍과 폭우는 집, 교통, 학교, 어업에 영향을 줄 수 있다."
         },
         {
-          "english": "Digital images could support later appeals and reviews.",
-          "korean": "디지털 영상은 나중에 재검토를 도울 수 있다"
+          "english": "Thousands of households were identified as potentially affected.",
+          "korean": "수천 가구가 피해 가능 지역으로 확인됐다."
         }
       ],
       "parties": [
         {
-          "label": "Kozhikode Medical College Hospital",
-          "english": "It is preparing facilities, equipment and staff for the proposed system.",
-          "korean": "시설과 장비와 직원을 준비한다"
+          "label": "India Meteorological Department",
+          "english": "It forecasts very severe winds and landfall near Yanam.",
+          "korean": "인도 기상청은 야남 근처 상륙을 예보했다."
         },
         {
-          "label": "Kerala government",
-          "english": "It must approve the resources before the launch can happen.",
-          "korean": "출시에 필요한 자원을 승인해야 한다"
+          "label": "Andhra Pradesh",
+          "english": "It closed schools, warned residents, and prepared emergency shelters.",
+          "korean": "안드라프라데시는 학교를 닫고 대피소를 준비했다."
         },
         {
-          "label": "Families",
-          "english": "They could face less physical distress during some examinations.",
-          "korean": "일부 검사에서 고통이 줄 수 있다"
+          "label": "Visakhapatnam district",
+          "english": "It identified 37 villages and 54 camps for possible evacuation.",
+          "korean": "비사카파트남 지역은 37개 마을과 54개 대피소를 정했다."
         }
       ],
       "views": [
         {
-          "label": "Kerala health officials",
-          "english": "The technology could improve medico-legal services and preserve evidence digitally.",
-          "korean": "의료법률 서비스를 개선하고 증거를 보존할 수 있다"
+          "label": "India Meteorological Department",
+          "english": "Arnab could bring winds of 115–125 kmph, with gusts reaching 140 kmph.",
+          "korean": "아르나브는 시속 115~125킬로미터 바람을 가져올 수 있다."
         },
         {
-          "label": "Forensic experts",
-          "english": "Imaging cannot fully replace invasive examination in every suspicious death.",
-          "korean": "영상 검사가 모든 수상한 죽음을 대신할 수 없다"
+          "label": "Andhra Pradesh disaster officials",
+          "english": "Early closures and evacuations can reduce deaths and infrastructure damage.",
+          "korean": "조기 폐쇄와 대피는 사망과 시설 피해를 줄일 수 있다."
         }
       ],
       "disagree": {
-        "english": "Supporters stress dignity and records, while experts stress limits and legal requirements.",
-        "korean": "지지자는 존엄과 기록을 강조하고 전문가는 한계를 강조한다"
+        "english": "Forecast paths can change, and the article gives no final landfall result yet.",
+        "korean": "예보 경로는 바뀔 수 있고, 최종 상륙 결과는 아직 없다."
       },
-      "reader_question_korean": "케랄라는 이 기술에 먼저 투자해야 할까요?",
+      "reader_question_korean": "해안 도시는 무엇을 먼저 준비해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Virtual autopsy at Kozhikode Medical College Hospital: launch likely to take time",
-      "hook_format": "headline",
-      "body_format": "two_views",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "Kerala officials",
-            "english": "The system could reduce family distress and improve digital forensic records.",
-            "korean": "가족 고통을 줄이고 기록을 남길 수 있다"
-          },
-          {
-            "label": "Forensic experts",
-            "english": "Traditional autopsies remain mandatory in suspicious or unnatural deaths.",
-            "korean": "수상한 죽음에는 기존 부검이 필요하다"
-          }
-        ]
-      },
-      "serious": true,
-      "caption_lines": [
-        "An October 22, 2026 update still described the project as under examination.",
-        "Virtual autopsy uses CT and MRI images."
-      ],
-      "reader_question": "Should Kerala invest in this technology first?",
-      "topic_tag": "Forensics",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Virtual autopsy at Kozhikode Medical College Hospital: launch likely to take time",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/national/kerala/launch-of-virtual-autopsy-at-kozhikode-medical-college-hospital-likely-to-take-time/article71627140.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "코지코드",
-          "roman": "Koji-kodeu",
-          "english": "Kozhikode",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "의대병원이",
-          "roman": "ui-dae-byeong-won-i",
-          "english": "medical college hospital",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "케랄라에서",
-          "roman": "Keralla-eseo",
-          "english": "in Kerala",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "가상",
-          "roman": "gasang",
-          "english": "virtual",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "부검을",
-          "roman": "bu-geom-eul",
-          "english": "autopsy",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "준비한다",
-          "roman": "junbi-handa",
-          "english": "prepares",
-          "particle": false,
-          "suffix": "한다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Kozhikode Medical College Hospital is preparing to launch virtual autopsy in Kerala.",
-          "korean": "코지코드 의대병원이 케랄라에서 가상 부검을 준비한다",
-          "glossary": [
-            {
-              "korean": "코지코드",
-              "roman": "Koji-kodeu",
-              "english": "Kozhikode",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의대병원이",
-              "roman": "ui-dae-byeong-won-i",
-              "english": "medical college hospital",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "케랄라에서",
-              "roman": "Keralla-eseo",
-              "english": "in Kerala",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "가상",
-              "roman": "gasang",
-              "english": "virtual",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "부검을",
-              "roman": "bu-geom-eul",
-              "english": "autopsy",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "준비한다",
-              "roman": "junbi-handa",
-              "english": "prepares",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The method uses CT and MRI images instead of cutting the body open.",
-          "korean": "이 방법은 CT와 MRI 영상으로 검사한다",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "방법은",
-              "roman": "bangbeop-eun",
-              "english": "method",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "CT와",
-              "roman": "CT-wa",
-              "english": "CT and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "MRI",
-              "roman": "MRI",
-              "english": "MRI",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "영상으로",
-              "roman": "yeongsang-euro",
-              "english": "with images",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "검사한다",
-              "roman": "geomsa-handa",
-              "english": "examines",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "A forensic department member completed month-long training in Shillong.",
-          "korean": "법의학부 직원이 실롱에서 한 달 훈련을 마쳤다",
-          "glossary": [
-            {
-              "korean": "법의학부",
-              "roman": "beop-ui-hak-bu",
-              "english": "forensic department",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "직원이",
-              "roman": "jig-won-i",
-              "english": "staff member",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "실롱에서",
-              "roman": "Sillong-eseo",
-              "english": "in Shillong",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "달",
-              "roman": "dal",
-              "english": "month",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "훈련을",
-              "roman": "hun-ryeon-eul",
-              "english": "training",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "마쳤다",
-              "roman": "machyeotda",
-              "english": "completed",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On October 26, 2026, equipment and staffing plans were still under discussion.",
-          "korean": "2026년 10월 26일 장비와 인력 계획은 논의 중이었다",
-          "glossary": [
-            {
-              "korean": "년",
-              "roman": "nyeon",
-              "english": "year",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "월",
-              "roman": "wol",
-              "english": "month",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일",
-              "roman": "il",
-              "english": "day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "장비와",
-              "roman": "jangbi-wa",
-              "english": "equipment and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "인력",
-              "roman": "illyeok",
-              "english": "staffing",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "계획은",
-              "roman": "gyehoek-eun",
-              "english": "plans",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "논의",
-              "roman": "non-ui",
-              "english": "discussion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중이었다",
-              "roman": "jung-ieotda",
-              "english": "were ongoing",
-              "particle": false,
-              "suffix": "이었다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/kerala/launch-of-virtual-autopsy-at-kozhikode-medical-college-hospital-likely-to-take-time/article71627140.ece",
-      "short_english": "Kozhikode Medical College Hospital is preparing to launch virtual autopsy in Kerala.",
-      "short_korean": "코지코드 의대병원이 케랄라에서 가상 부검을 준비한다",
-      "date": "2026-10-27",
-      "images": [
-        "images/indian/8b7cb7178df2/1.jpg",
-        "images/indian/8b7cb7178df2/2.jpg",
-        "images/indian/8b7cb7178df2/3.jpg",
-        "images/indian/8b7cb7178df2/4.jpg",
-        "images/indian/8b7cb7178df2/5.jpg",
-        "images/indian/8b7cb7178df2/6.jpg",
-        "images/indian/8b7cb7178df2/7.jpg",
-        "images/indian/8b7cb7178df2/8.jpg",
-        "images/indian/8b7cb7178df2/9.jpg",
-        "images/indian/8b7cb7178df2/10.jpg",
-        "images/indian/8b7cb7178df2/11.jpg",
-        "images/indian/8b7cb7178df2/12.jpg",
-        "images/indian/8b7cb7178df2/13.jpg",
-        "images/indian/8b7cb7178df2/14.jpg",
-        "images/indian/8b7cb7178df2/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/8b7cb7178df2/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "브리타니아, 밀빵 광고로 벌금",
-      "english_title": "Britannia’s “100% Wheat” Claim Meets a 62% Reality",
-      "korean_desc": "CCPA는 2026년 10월 22일 브리타니아에 벌금을 부과했다 규제기관은 소비자가 빵 전체를 밀로 생각할 수 있다고 했다 광고는 100% 통밀이라 했지만 밀 함량은 62%였다 브리타니아는 광고를 멈추고 15일 안에 보고해야 한다",
-      "english_desc": "The CCPA fined Britannia ₹1 lakh on October 22, 2026, over its bread advertising. The regulator said the claim could make consumers think the entire loaf was wheat. The advertisement called the product 100% whole wheat, but wheat content was 62%. Britannia must stop the advertisements and report compliance within 15 days.",
-      "hook": "The CCPA imposed a ₹1 lakh fine.",
-      "sticker": "Read the small print",
-      "korean_hook": "CCPA가 10만 루피 벌금을 부과했다",
-      "takeaway_english": "The case shows how one word can change what shoppers think they are buying.",
-      "takeaway_korean": "이 사건은 한 단어가 구매 판단을 바꿀 수 있음을 보여준다",
-      "why_it_matters": [
-        {
-          "english": "Shoppers may rely on large claims when choosing food.",
-          "korean": "소비자는 큰 광고 문구를 믿고 식품을 고를 수 있다"
-        },
-        {
-          "english": "Accurate labels help people compare products.",
-          "korean": "정확한 라벨은 제품 비교를 돕는다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "CCPA",
-          "english": "It found the numerical claim misleading and ordered its removal.",
-          "korean": "숫자 광고가 오해를 부른다며 삭제를 명령했다"
-        },
-        {
-          "label": "Britannia",
-          "english": "It accepted that the bread contained 62% wheat flour.",
-          "korean": "빵에 밀가루가 62%라고 인정했다"
-        },
-        {
-          "label": "Consumers",
-          "english": "They were shown a claim suggesting the whole product was wheat.",
-          "korean": "제품 전체가 밀이라는 인상을 받았다"
-        }
-      ],
-      "views": [
-        {
-          "label": "CCPA",
-          "english": "The front claim could make ordinary buyers think the entire loaf was whole wheat.",
-          "korean": "앞면 광고는 소비자가 빵 전체를 통밀로 생각하게 할 수 있다"
-        },
-        {
-          "label": "Britannia’s explanation",
-          "english": "The wording was intended to communicate wholesomeness, not the entire composition.",
-          "korean": "표현은 전체 성분이 아니라 건강함을 뜻했다"
-        }
-      ],
-      "disagree": {
-        "english": "The regulator rejected that explanation, but the company’s full response is not detailed here.",
-        "korean": "규제기관은 거부했지만 회사의 전체 반응은 자세하지 않다"
-      },
-      "reader_question_korean": "식품 라벨에 ‘100%’를 써도 될까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "CCPA fines Britannia ₹1 lakh over '100% whole wheat bread' claim; product contains only 62% wheat",
-      "hook_format": "number",
-      "body_format": "before_after",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "₹1 lakh",
-          "label": "fine imposed",
-          "korean_label": "부과된 벌금"
-        },
-        "before": {
-          "label": "",
-          "english": "Britannia advertised the bread as 100% whole wheat.",
-          "korean": "브리타니아는 빵을 100% 통밀이라고 광고했다"
-        },
-        "after": {
-          "label": "",
-          "english": "The CCPA ordered the advertisements stopped immediately.",
-          "korean": "CCPA는 광고를 즉시 중단하라고 명령했다"
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "The CCPA order was dated October 22, 2026.",
-        "Britannia had 15 days to submit a compliance report."
-      ],
-      "reader_question": "Should food labels use absolute words like “100%”?",
-      "topic_tag": "Advertising",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "CCPA fines Britannia ₹1 lakh over '100% whole wheat bread' claim; product contains only 62% wheat",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "CCPA는",
-          "roman": "CCPA-neun",
-          "english": "CCPA",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "년",
-          "roman": "nyeon",
-          "english": "year",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "월",
-          "roman": "wol",
-          "english": "month",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "일",
-          "roman": "il",
-          "english": "day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "브리타니아에",
-          "roman": "Beu-ri-ta-ni-a-e",
-          "english": "to Britannia",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "벌금을",
-          "roman": "beol-geum-eul",
-          "english": "fine",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "부과했다",
-          "roman": "bugwahaetda",
-          "english": "imposed",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "The CCPA fined Britannia ₹1 lakh on October 22, 2026, over its bread advertising.",
-          "korean": "CCPA는 2026년 10월 22일 브리타니아에 벌금을 부과했다",
-          "glossary": [
-            {
-              "korean": "CCPA는",
-              "roman": "CCPA-neun",
-              "english": "CCPA",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "년",
-              "roman": "nyeon",
-              "english": "year",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "월",
-              "roman": "wol",
-              "english": "month",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일",
-              "roman": "il",
-              "english": "day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "브리타니아에",
-              "roman": "Beu-ri-ta-ni-a-e",
-              "english": "to Britannia",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "벌금을",
-              "roman": "beol-geum-eul",
-              "english": "fine",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "부과했다",
-              "roman": "bugwahaetda",
-              "english": "imposed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The regulator said the claim could make consumers think the entire loaf was wheat.",
-          "korean": "규제기관은 소비자가 빵 전체를 밀로 생각할 수 있다고 했다",
-          "glossary": [
-            {
-              "korean": "규제기관은",
-              "roman": "gyuje-gigwan-eun",
-              "english": "regulator",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "소비자가",
-              "roman": "sobi-ja-ga",
-              "english": "consumers",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "빵",
-              "roman": "ppang",
-              "english": "bread",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전체를",
-              "roman": "jeon-che-reul",
-              "english": "the whole",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "밀로",
-              "roman": "mil-lo",
-              "english": "as wheat",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "생각할",
-              "roman": "saenggak-hal",
-              "english": "think",
-              "particle": false,
-              "suffix": "할"
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "can",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있다고",
-              "roman": "itdago",
-              "english": "that it can",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "했다",
-              "roman": "haetda",
-              "english": "said",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The advertisement called the product 100% whole wheat, but wheat content was 62%.",
-          "korean": "광고는 100% 통밀이라 했지만 밀 함량은 62%였다",
-          "glossary": [
-            {
-              "korean": "광고는",
-              "roman": "gwang-go-neun",
-              "english": "advertisement",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "통밀이라",
-              "roman": "tongmil-ira",
-              "english": "as whole wheat",
-              "particle": false,
-              "suffix": "이라"
-            },
-            {
-              "korean": "밀",
-              "roman": "mil",
-              "english": "wheat",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "했지만",
-              "roman": "haetjiman",
-              "english": "said but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "함량은",
-              "roman": "hamnyang-eun",
-              "english": "content",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "였다",
-              "roman": "yeotda",
-              "english": "was",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Britannia must stop the advertisements and report compliance within 15 days.",
-          "korean": "브리타니아는 광고를 멈추고 15일 안에 보고해야 한다",
-          "glossary": [
-            {
-              "korean": "브리타니아는",
-              "roman": "Beu-ri-ta-ni-a-neun",
-              "english": "Britannia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "광고를",
-              "roman": "gwang-go-reul",
-              "english": "advertisements",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "멈추고",
-              "roman": "meomchugo",
-              "english": "stop and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "일",
-              "roman": "il",
-              "english": "days",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안에",
-              "roman": "an-e",
-              "english": "within",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "보고해야",
-              "roman": "bogohaeya",
-              "english": "must report",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다",
-              "roman": "handa",
-              "english": "must do",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/business/ccpa-fines-britannia-1-lakh-over-100-whole-wheat-bread-claim-productcontains-only-62-wheat/article71628554.ece",
-      "short_english": "The CCPA fined Britannia ₹1 lakh on October 22, 2026, over its bread advertising.",
-      "short_korean": "CCPA는 2026년 10월 22일 브리타니아에 벌금을 부과했다",
-      "date": "2026-10-27",
-      "images": [
-        "images/indian/450b1079254d/1.jpg",
-        "images/indian/450b1079254d/2.jpg",
-        "images/indian/450b1079254d/3.jpg",
-        "images/indian/450b1079254d/4.jpg",
-        "images/indian/450b1079254d/5.jpg",
-        "images/indian/450b1079254d/6.jpg",
-        "images/indian/450b1079254d/7.jpg",
-        "images/indian/450b1079254d/8.jpg",
-        "images/indian/450b1079254d/9.jpg",
-        "images/indian/450b1079254d/10.jpg",
-        "images/indian/450b1079254d/11.jpg",
-        "images/indian/450b1079254d/12.jpg",
-        "images/indian/450b1079254d/13.jpg",
-        "images/indian/450b1079254d/14.jpg",
-        "images/indian/450b1079254d/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/450b1079254d/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "셰프 다무가 남긴 타밀 음식 유산",
-      "english_title": "Chef Damu Made Tamil Food Feel Like Home",
-      "korean_desc": "셰프 다무로 알려진 K 다모다란이 2026년 10월 25일 첸나이에서 사망했다 그는 방송과 대회와 교육으로 타밀나두 요리를 알렸다 그의 학생과 동료들이 음식 전통을 이어갈 것이다",
-      "english_desc": "Chef K Damodaran, known as Chef Damu, died in Chennai on October 25, 2026. He made Tamil Nadu recipes familiar through television, competitions and teaching. His students and colleagues will carry those food traditions forward.",
-      "hook": "Chef Damu made Tamil cuisine widely loved.",
-      "sticker": "A life served with care",
-      "korean_hook": "셰프 다무는 타밀 음식을 사랑받게 했다",
-      "takeaway_english": "Damu’s legacy lives in recipes, students and the status of everyday cooks.",
-      "takeaway_korean": "다무의 유산은 요리와 학생과 요리사의 위상에 남았다",
-      "why_it_matters": [
-        {
-          "english": "Television helped regional recipes reach wider audiences.",
-          "korean": "텔레비전은 지역 요리를 더 많은 사람에게 알렸다"
-        },
-        {
-          "english": "Training helped school cooks prepare meals for children.",
-          "korean": "교육은 학교 요리사가 아이들 식사를 만들도록 도왔다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Chef Damu",
-          "english": "He shared Tamil Nadu food traditions through television, teaching and events.",
-          "korean": "텔레비전과 교육과 행사로 전통 음식을 알렸다"
-        },
-        {
-          "label": "Students and cooks",
-          "english": "They learned recipes, hygiene and professional skills from him.",
-          "korean": "그에게 요리와 위생과 기술을 배웠다"
-        },
-        {
-          "label": "Tamil households",
-          "english": "They knew him as a warm and familiar cooking figure.",
-          "korean": "그를 친근한 요리 인물로 기억한다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Chef Sheetharam Prasad",
-          "english": "Damu helped make the word “chef” more respected in the media.",
-          "korean": "다무는 미디어에서 셰프라는 말을 더 존중받게 했다"
-        },
-        {
-          "label": "Chef Deena Dhayalan",
-          "english": "Damu’s strongest legacy was his willingness to support working cooks and shows.",
-          "korean": "다무의 유산은 요리사와 방송을 도운 마음이다"
-        }
-      ],
-      "disagree": {
-        "english": "The tributes praise his influence, but they cannot measure how every household received it.",
-        "korean": "추모는 영향력을 칭찬하지만 모든 가정의 반응은 측정할 수 없다"
-      },
-      "reader_question_korean": "다음에는 어떤 음식 전통을 지켜야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "translation check: \"He trained school meal workers and mentored many h\" may be missing workers?"
-      ],
-      "source_title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "Chef Damu died in Chennai on October 25, 2026.",
-        "He was 72."
-      ],
-      "reader_question": "Which food tradition should television protect next?",
-      "topic_tag": "Culture",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Remembering Chef Damu: A life dedicated to Tamil Nadu’s culinary heritage",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "셰프",
-          "roman": "syepeu",
-          "english": "chef",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "다무로",
-          "roman": "Damu-ro",
-          "english": "as Damu",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "알려진",
-          "roman": "allyeojin",
-          "english": "known",
-          "particle": false,
-          "suffix": "진"
-        },
-        {
-          "korean": "다모다란이",
-          "roman": "Damodaran-i",
-          "english": "Damodaran",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "년",
-          "roman": "nyeon",
-          "english": "year",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "월",
-          "roman": "wol",
-          "english": "month",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "일",
-          "roman": "il",
-          "english": "day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "첸나이에서",
-          "roman": "Chennai-eseo",
-          "english": "in Chennai",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "사망했다",
-          "roman": "samanghaetda",
-          "english": "died",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Chef K Damodaran, known as Chef Damu, died in Chennai on October 25, 2026.",
-          "korean": "셰프 다무로 알려진 K 다모다란이 2026년 10월 25일 첸나이에서 사망했다",
-          "glossary": [
-            {
-              "korean": "셰프",
-              "roman": "syepeu",
-              "english": "chef",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "다무로",
-              "roman": "Damu-ro",
-              "english": "as Damu",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "알려진",
-              "roman": "allyeojin",
-              "english": "known",
-              "particle": false,
-              "suffix": "진"
-            },
-            {
-              "korean": "다모다란이",
-              "roman": "Damodaran-i",
-              "english": "Damodaran",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "년",
-              "roman": "nyeon",
-              "english": "year",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "월",
-              "roman": "wol",
-              "english": "month",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일",
-              "roman": "il",
-              "english": "day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "첸나이에서",
-              "roman": "Chennai-eseo",
-              "english": "in Chennai",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "사망했다",
-              "roman": "samanghaetda",
-              "english": "died",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "He made Tamil Nadu recipes familiar through television, competitions and teaching.",
-          "korean": "그는 방송과 대회와 교육으로 타밀나두 요리를 알렸다",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "방송과",
-              "roman": "bangsong-gwa",
-              "english": "television and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "대회와",
-              "roman": "daehoe-wa",
-              "english": "competitions and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "교육으로",
-              "roman": "gyoyug-euro",
-              "english": "through teaching",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "타밀나두",
-              "roman": "Tamilnadu",
-              "english": "Tamil Nadu",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "요리를",
-              "roman": "yori-reul",
-              "english": "cuisine",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "알렸다",
-              "roman": "allyeotda",
-              "english": "made known",
-              "particle": false,
-              "suffix": "렸다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "His students and colleagues will carry those food traditions forward.",
-          "korean": "그의 학생과 동료들이 음식 전통을 이어갈 것이다",
-          "glossary": [
-            {
-              "korean": "그의",
-              "roman": "geu-ui",
-              "english": "his",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "학생과",
-              "roman": "haksaeng-gwa",
-              "english": "students and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "동료들이",
-              "roman": "dongnyo-deul-i",
-              "english": "colleagues",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "음식",
-              "roman": "eumsik",
-              "english": "food",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전통을",
-              "roman": "jeontong-eul",
-              "english": "traditions",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "이어갈",
-              "roman": "ieogal",
-              "english": "carry forward",
-              "particle": false,
-              "suffix": "갈"
-            },
-            {
-              "korean": "것이다",
-              "roman": "geos-ida",
-              "english": "will",
-              "particle": false,
-              "suffix": "이다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/society/remembering-chef-damu-a-life-dedicated-to-tamil-nadus-culinary-heritage/article71626208.ece",
-      "short_english": "Chef K Damodaran, known as Chef Damu, died in Chennai on October 25, 2026.",
-      "short_korean": "셰프 다무로 알려진 K 다모다란이 2026년 10월 25일 첸나이에서 사망했다",
-      "date": "2026-10-27",
-      "images": [
-        "images/indian/75f6d62624c3/1.jpg",
-        "images/indian/75f6d62624c3/2.jpg",
-        "images/indian/75f6d62624c3/3.jpg",
-        "images/indian/75f6d62624c3/4.jpg",
-        "images/indian/75f6d62624c3/5.jpg",
-        "images/indian/75f6d62624c3/6.jpg",
-        "images/indian/75f6d62624c3/7.jpg",
-        "images/indian/75f6d62624c3/8.jpg",
-        "images/indian/75f6d62624c3/9.jpg",
-        "images/indian/75f6d62624c3/10.jpg",
-        "images/indian/75f6d62624c3/11.jpg",
-        "images/indian/75f6d62624c3/12.jpg",
-        "images/indian/75f6d62624c3/13.jpg",
-        "images/indian/75f6d62624c3/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/75f6d62624c3/caption.txt"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "고아, 84점 6실점에서 반격",
-      "english_title": "Goa Recovered After Falling to 84 for Six",
-      "korean_desc": "비다르바는 티타임 전에 고아를 84점 6실점으로 몰았다 카스반카르와 미살은 고아에 100점 협력을 더했다 경기가 끝날 때 카스반카르와 바수키 코우시크는 아웃되지 않았다",
-      "english_desc": "Vidarbha reduced Goa to 84 for six before tea. Kasvankar and Misal then added a century partnership for Goa. Kasvankar and Vasuki Koushik were unbeaten when play ended.",
-      "hook": "Goa reached 204 for eight after 84 for six.",
-      "sticker": "A rescue act at the crease 🏏",
-      "korean_hook": "고아는 84점 6실점 뒤 204점에 도달했다",
-      "takeaway_english": "Goa turned a collapse into resistance, but Vidarbha kept the first-day edge.",
-      "takeaway_korean": "고아는 붕괴를 저항으로 바꿨지만 비다르바가 첫날 우세를 지켰다",
-      "why_it_matters": [
-        {
-          "english": "A strong partnership kept Goa from being bowled out cheaply.",
-          "korean": "강한 협력은 고아가 쉽게 모두 아웃되지 않게 했다"
-        },
-        {
-          "english": "Vidarbha still has the chance to bat next.",
-          "korean": "비다르바는 다음에 타격할 기회를 얻었다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Goa",
-          "english": "It recovered from six wickets down but remained eight wickets down.",
-          "korean": "6실점에서 회복했지만 8실점 상태였다"
-        },
-        {
-          "label": "Yash Kasvankar",
-          "english": "He made 51 and remained unbeaten at the close.",
-          "korean": "51점을 만들고 경기 종료까지 살아남았다"
-        },
-        {
-          "label": "Nachiket Bhute",
-          "english": "He took four wickets for Vidarbha.",
-          "korean": "비다르바를 위해 위켓 4개를 잡았다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Goa’s batting effort",
-          "english": "Kasvankar and Misal’s partnership changed a collapse into a competitive total.",
-          "korean": "카스반카르와 미살의 협력은 붕괴를 경쟁력 있는 점수로 바꿨다"
-        },
-        {
-          "label": "Vidarbha’s position",
-          "english": "Early wickets and the remaining Goa batters kept Vidarbha ahead.",
-          "korean": "초반 위켓과 남은 타자들이 비다르바를 앞서게 했다"
-        }
-      ],
-      "disagree": {
-        "english": "Goa’s recovery was strong, but Vidarbha still controlled the opening day.",
-        "korean": "고아의 회복은 강했지만 비다르바가 첫날을 지배했다"
-      },
-      "reader_question_korean": "초반 위켓과 반격 협력 중 무엇이 더 중요했을까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Kasvankar, Misal rescue Goa after Vidarbha bowlers make early inroads",
-      "hook_format": "number",
-      "body_format": "three_points",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "204 for eight",
-          "label": "Goa's score",
-          "korean_label": "고아의 점수"
-        },
-        "points": [
-          {
-            "label": "",
-            "english": "Vidarbha’s bowlers took early wickets.",
-            "korean": "비다르바 투수들이 초반에 위켓을 잡았다"
-          },
-          {
-            "label": "",
-            "english": "Kasvankar and Misal built a century partnership.",
-            "korean": "카스반카르와 미살이 100점 동반자 관계를 만들었다"
-          },
-          {
-            "label": "",
-            "english": "Vidarbha still held the advantage at stumps.",
-            "korean": "비다르바는 경기 종료 때 여전히 유리했다"
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "The match began on October 26, 2026, at VCA Jamtha Stadium.",
-        "Vidarbha won the toss and chose to field."
-      ],
-      "reader_question": "Which mattered more: early wickets or the rescue partnership?",
-      "topic_tag": "Cricket",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Kasvankar, Misal rescue Goa after Vidarbha bowlers make early inroads",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/sport/kasvankar-misal-rescue-goa-after-vidarbha-bowlers-make-early-inroads/article71628560.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "비다르바는",
-          "roman": "Bidareuba-neun",
-          "english": "Vidarbha",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "티타임",
-          "roman": "ti-ta-im",
-          "english": "tea time",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "전에",
-          "roman": "jeon-e",
-          "english": "before",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "고아를",
-          "roman": "Goa-reul",
-          "english": "Goa",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "점",
-          "roman": "jeom",
-          "english": "runs",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "실점으로",
-          "roman": "siljeom-euro",
-          "english": "wickets down",
-          "particle": false,
-          "suffix": "으로"
-        },
-        {
-          "korean": "몰았다",
-          "roman": "molatda",
-          "english": "reduced",
-          "particle": false,
-          "suffix": "았다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "how",
-          "english": "Vidarbha reduced Goa to 84 for six before tea.",
-          "korean": "비다르바는 티타임 전에 고아를 84점 6실점으로 몰았다",
-          "glossary": [
-            {
-              "korean": "비다르바는",
-              "roman": "Bidareuba-neun",
-              "english": "Vidarbha",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "티타임",
-              "roman": "ti-ta-im",
-              "english": "tea time",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전에",
-              "roman": "jeon-e",
-              "english": "before",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "고아를",
-              "roman": "Goa-reul",
-              "english": "Goa",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "점",
-              "roman": "jeom",
-              "english": "runs",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "실점으로",
-              "roman": "siljeom-euro",
-              "english": "wickets down",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "몰았다",
-              "roman": "molatda",
-              "english": "reduced",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Kasvankar and Misal then added a century partnership for Goa.",
-          "korean": "카스반카르와 미살은 고아에 100점 협력을 더했다",
-          "glossary": [
-            {
-              "korean": "카스반카르와",
-              "roman": "Kaseubankareu-wa",
-              "english": "Kasvankar and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "미살은",
-              "roman": "Misal-eun",
-              "english": "Misal",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "고아에",
-              "roman": "Goa-e",
-              "english": "for Goa",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "점",
-              "roman": "jeom",
-              "english": "runs",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "협력을",
-              "roman": "hyeomnyeok-eul",
-              "english": "partnership",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "더했다",
-              "roman": "deohaetda",
-              "english": "added",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Kasvankar and Vasuki Koushik were unbeaten when play ended.",
-          "korean": "경기가 끝날 때 카스반카르와 바수키 코우시크는 아웃되지 않았다",
-          "glossary": [
-            {
-              "korean": "경기가",
-              "roman": "gyeonggi-ga",
-              "english": "play",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "끝날",
-              "roman": "kkeutnal",
-              "english": "ended",
-              "particle": false,
-              "suffix": "날"
-            },
-            {
-              "korean": "때",
-              "roman": "ttae",
-              "english": "when",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "카스반카르와",
-              "roman": "Kaseubankareu-wa",
-              "english": "Kasvankar and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "바수키",
-              "roman": "Basuki",
-              "english": "Vasuki",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "코우시크는",
-              "roman": "Kousikeu-neun",
-              "english": "Koushik",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "아웃되지",
-              "roman": "ausdoeji",
-              "english": "out",
-              "particle": false,
-              "suffix": "되지"
-            },
-            {
-              "korean": "않았다",
-              "roman": "anatda",
-              "english": "were not",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/kasvankar-misal-rescue-goa-after-vidarbha-bowlers-make-early-inroads/article71628560.ece",
-      "short_english": "Vidarbha reduced Goa to 84 for six before tea.",
-      "short_korean": "비다르바는 티타임 전에 고아를 84점 6실점으로 몰았다",
-      "date": "2026-10-27",
-      "images": [
-        "images/indian/ac81535110e0/1.jpg",
-        "images/indian/ac81535110e0/2.jpg",
-        "images/indian/ac81535110e0/3.jpg",
-        "images/indian/ac81535110e0/4.jpg",
-        "images/indian/ac81535110e0/5.jpg",
-        "images/indian/ac81535110e0/6.jpg",
-        "images/indian/ac81535110e0/7.jpg",
-        "images/indian/ac81535110e0/8.jpg",
-        "images/indian/ac81535110e0/9.jpg",
-        "images/indian/ac81535110e0/10.jpg",
-        "images/indian/ac81535110e0/11.jpg",
-        "images/indian/ac81535110e0/12.jpg",
-        "images/indian/ac81535110e0/13.jpg",
-        "images/indian/ac81535110e0/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/ac81535110e0/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "터미널 리스트 시즌2, 더 나아졌다",
-      "english_title": "The Terminal List Season 2 Finds a Better Rhythm",
-      "korean_desc": "터미널 리스트 시즌2가 크리스 프랫의 제임스 리스로 돌아왔다 리스는 바다에서 모잠비크로 가고 조사관은 무기를 추적한다 8편 시즌은 새 폭로와 함께 끝난다",
-      "english_desc": "The Terminal List Season 2 returns with Chris Pratt as James Reece. Reece travels from the sea to Mozambique while investigators follow a weapons trail. The eight-episode season ends with new revelations rather than a simple resolution.",
-      "hook": "Season 2 is bigger, faster and more polished.",
-      "sticker": "Round two gets sharper",
-      "korean_hook": "시즌2는 더 크고 빠르고 세련됐다",
-      "takeaway_english": "The sequel wins on movement and scope, while its politics remain open to debate.",
-      "takeaway_korean": "속도와 규모는 좋아졌지만 정치는 여전히 논쟁거리다",
-      "why_it_matters": [
-        {
-          "english": "The season changes the show’s pace and international scale.",
-          "korean": "시즌은 드라마의 속도와 국제적 규모를 바꿨다"
-        },
-        {
-          "english": "Graphic violence may affect who can comfortably watch it.",
-          "korean": "강한 폭력은 시청 가능한 사람을 제한할 수 있다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "James Reece",
-          "english": "Chris Pratt’s character is pulled into a new international conspiracy.",
-          "korean": "크리스 프랫의 인물은 새 국제 음모에 끌려간다"
-        },
-        {
-          "label": "Katie Buranek and Raife Hastings",
-          "english": "They investigate missing weapons and the attacks connected to them.",
-          "korean": "그들은 사라진 무기와 테러를 조사한다"
-        },
-        {
-          "label": "Viewers",
-          "english": "They get eight episodes with wider locations and graphic violence.",
-          "korean": "시청자는 넓은 장소와 강한 폭력의 8편을 본다"
-        }
-      ],
-      "views": [
-        {
-          "label": "The Hindu review",
-          "english": "Season 2 improves the pacing, locations and action while keeping a strong mystery.",
-          "korean": "시즌2는 속도와 장소와 액션과 미스터리를 개선했다"
-        },
-        {
-          "label": "The Daily Beast review",
-          "english": "The show remains conventional and does not fully resolve its story.",
-          "korean": "이 드라마는 여전히 진부하고 이야기를 완전히 끝내지 못한다"
-        }
-      ],
-      "disagree": {
-        "english": "Some viewers may value the action and realism more than critics value the political framing.",
-        "korean": "일부 시청자는 비평가보다 액션과 현실감을 더 중요하게 볼 수 있다"
-      },
-      "reader_question_korean": "더 큰 시즌이 이 스릴러를 더 좋게 만들까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "‘The Terminal List’ Season 2 review: Chris Pratt returns for a better Round 2",
-      "hook_format": "vocab",
-      "body_format": "another_view",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "view": {
-          "label": "A reasonable criticism",
-          "english": "The wider scale may add spectacle without solving the show’s conventional politics.",
-          "korean": "더 큰 규모가 진부한 정치관을 해결하지 못할 수 있다"
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "Season 2 premiered on October 21, 2026.",
-        "It adapts Jack Carr’s novel True Believer."
-      ],
-      "reader_question": "Does a bigger season make this thriller better?",
-      "topic_tag": "Television",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "‘The Terminal List’ Season 2 review: Chris Pratt returns for a better Round 2",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/entertainment/movies/the-terminal-list-season-2-review-chris-pratt-constance-wu-taylor-kitsch-tom-hopper/article71626842.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "터미널",
-          "roman": "teomineol",
-          "english": "Terminal",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "리스트",
-          "roman": "riseuteu",
-          "english": "List",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "시즌2가",
-          "roman": "sijeun-2-ga",
-          "english": "Season 2",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "크리스",
-          "roman": "Keuriseu",
-          "english": "Chris",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "프랫의",
-          "roman": "Peuraet-ui",
-          "english": "Pratt’s",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "제임스",
-          "roman": "Jeimseu",
-          "english": "James",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "리스로",
-          "roman": "Riseu-ro",
-          "english": "as Reece",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "돌아왔다",
-          "roman": "dora-watda",
-          "english": "returned",
-          "particle": false,
-          "suffix": "왔다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "The Terminal List Season 2 returns with Chris Pratt as James Reece.",
-          "korean": "터미널 리스트 시즌2가 크리스 프랫의 제임스 리스로 돌아왔다",
-          "glossary": [
-            {
-              "korean": "터미널",
-              "roman": "teomineol",
-              "english": "Terminal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "리스트",
-              "roman": "riseuteu",
-              "english": "List",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시즌2가",
-              "roman": "sijeun-2-ga",
-              "english": "Season 2",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "크리스",
-              "roman": "Keuriseu",
-              "english": "Chris",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "프랫의",
-              "roman": "Peuraet-ui",
-              "english": "Pratt’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "제임스",
-              "roman": "Jeimseu",
-              "english": "James",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "리스로",
-              "roman": "Riseu-ro",
-              "english": "as Reece",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "돌아왔다",
-              "roman": "dora-watda",
-              "english": "returned",
-              "particle": false,
-              "suffix": "왔다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Reece travels from the sea to Mozambique while investigators follow a weapons trail.",
-          "korean": "리스는 바다에서 모잠비크로 가고 조사관은 무기를 추적한다",
-          "glossary": [
-            {
-              "korean": "리스는",
-              "roman": "Riseu-neun",
-              "english": "Reece",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "바다에서",
-              "roman": "bada-eseo",
-              "english": "from the sea",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "모잠비크로",
-              "roman": "Mojambikeu-ro",
-              "english": "to Mozambique",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "가고",
-              "roman": "gago",
-              "english": "goes and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "조사관은",
-              "roman": "josagwan-eun",
-              "english": "investigators",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "무기를",
-              "roman": "mugi-reul",
-              "english": "weapons",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "추적한다",
-              "roman": "chujeokhanda",
-              "english": "trace",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The eight-episode season ends with new revelations rather than a simple resolution.",
-          "korean": "8편 시즌은 새 폭로와 함께 끝난다",
-          "glossary": [
-            {
-              "korean": "편",
-              "roman": "pyeon",
-              "english": "episodes",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시즌은",
-              "roman": "sijeun-eun",
-              "english": "season",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "새",
-              "roman": "sae",
-              "english": "new",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "폭로와",
-              "roman": "pokro-wa",
-              "english": "revelations and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "함께",
-              "roman": "hamkke",
-              "english": "with",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "끝난다",
-              "roman": "kkeunnanda",
-              "english": "ends",
-              "particle": false,
-              "suffix": "난다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/entertainment/movies/the-terminal-list-season-2-review-chris-pratt-constance-wu-taylor-kitsch-tom-hopper/article71626842.ece",
-      "short_english": "The Terminal List Season 2 returns with Chris Pratt as James Reece.",
-      "short_korean": "터미널 리스트 시즌2가 크리스 프랫의 제임스 리스로 돌아왔다",
-      "date": "2026-10-27",
-      "images": [
-        "images/indian/3c55dc58853d/1.jpg",
-        "images/indian/3c55dc58853d/2.jpg",
-        "images/indian/3c55dc58853d/3.jpg",
-        "images/indian/3c55dc58853d/4.jpg",
-        "images/indian/3c55dc58853d/5.jpg",
-        "images/indian/3c55dc58853d/6.jpg",
-        "images/indian/3c55dc58853d/7.jpg",
-        "images/indian/3c55dc58853d/8.jpg",
-        "images/indian/3c55dc58853d/9.jpg",
-        "images/indian/3c55dc58853d/10.jpg",
-        "images/indian/3c55dc58853d/11.jpg",
-        "images/indian/3c55dc58853d/12.jpg",
-        "images/indian/3c55dc58853d/13.jpg",
-        "images/indian/3c55dc58853d/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/3c55dc58853d/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "루비오, 애틀랜타 G20 회의 주최",
-      "english_title": "Rubio’s Atlanta Meeting Prepares the G20 Leaders’ Summit",
-      "korean_desc": "회의는 경제 충격과 에너지와 식량과 공급망 안보를 논의한다 인도 외교장관 S 자이샨카르가 참석할 예정이다 회담은 12월 마이애미 트럼프 대통령 정상회의를 준비한다",
-      "english_desc": "The meeting aims to discuss economic shocks, energy, food and supply-chain security. India’s External Affairs Minister S Jaishankar is scheduled to attend. The talks will prepare for President Trump’s leaders’ summit in Miami in December.",
-      "hook": "Rubio will host G20 ministers in Atlanta.",
-      "sticker": "Diplomacy moves to Atlanta",
-      "korean_hook": "루비오가 애틀랜타에서 G20 장관들을 맞는다",
-      "takeaway_english": "Atlanta is the working meeting; Miami is the leaders’ next major test.",
-      "takeaway_korean": "애틀랜타는 실무 회의이고 마이애미는 다음 정상 시험대다",
-      "why_it_matters": [
-        {
-          "english": "Supply-chain decisions can affect prices and availability.",
-          "korean": "공급망 결정은 가격과 물량에 영향을 줄 수 있다"
-        },
-        {
-          "english": "Energy and food security affect households worldwide.",
-          "korean": "에너지와 식량 안보는 전 세계 가정에 영향을 준다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Marco Rubio",
-          "english": "He will chair the foreign ministers’ meeting in Atlanta.",
-          "korean": "그는 애틀랜타 외교장관회의를 주재한다"
-        },
-        {
-          "label": "S Jaishankar",
-          "english": "India’s external affairs minister is scheduled to attend.",
-          "korean": "인도 외교장관이 참석할 예정이다"
-        },
-        {
-          "label": "G20 partners",
-          "english": "They will discuss economic shocks, security and supply chains.",
-          "korean": "경제 충격과 안보와 공급망을 논의한다"
-        }
-      ],
-      "views": [
-        {
-          "label": "U.S. State Department",
-          "english": "The meeting should return the G20 to practical economic cooperation and results.",
-          "korean": "회의는 G20을 실용적 경제 협력과 결과로 돌려야 한다"
-        },
-        {
-          "label": "India-focused coverage",
-          "english": "India sees the meeting as a chance to discuss energy, technology and wider strategic ties.",
-          "korean": "인도는 에너지와 기술과 전략 관계를 논의할 기회로 본다"
-        }
-      ],
-      "disagree": {
-        "english": "Economic cooperation may be difficult when geopolitical crises are already disturbing markets and supplies.",
-        "korean": "지정학적 위기가 시장과 공급을 흔들면 경제 협력은 어려울 수 있다"
-      },
-      "reader_question_korean": "G20 장관들은 어떤 문제를 먼저 다뤄야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
+      "source_title": "Cyclone ‘Arnab’ LIVE updates | ‘Arnab’ hurtling towards Andhra; Kakinada in the grip of fear",
       "hook_format": "headline",
       "body_format": "timeline",
       "question": "",
@@ -1911,158 +75,2131 @@
         "steps": [
           {
             "label": "",
-            "english": "October 30–31: Foreign ministers meet in Atlanta.",
-            "korean": "10월 30일부터 31일까지 외교장관들이 애틀랜타에서 만난다"
+            "english": "On October 27, Arnab moved westward over the Bay of Bengal.",
+            "korean": "10월 27일, 아르나브가 벵골만에서 서쪽으로 이동했다."
           },
           {
             "label": "",
-            "english": "December 14–15: Trump is scheduled to host the leaders’ summit in Miami.",
-            "korean": "12월 14일부터 15일까지 트럼프가 마이애미 정상회의를 주최할 예정이다"
+            "english": "The storm is expected to cross near Yanam on October 28.",
+            "korean": "폭풍은 10월 28일 야남 근처를 지날 예정이다."
+          },
+          {
+            "label": "",
+            "english": "Andhra Pradesh issued a red alert and prepared relief camps.",
+            "korean": "안드라프라데시는 적색경보를 내리고 대피소를 준비했다."
           }
         ]
       },
-      "serious": false,
+      "serious": true,
       "caption_lines": [
-        "The ministerial meeting is scheduled for October 30–31, 2026.",
-        "The leaders’ summit is scheduled for Miami on December 14–15."
+        "Landfall is expected on October 28, 2026.",
+        "The IMD is India’s official weather authority."
       ],
-      "reader_question": "Which G20 issue should ministers address first?",
-      "topic_tag": "Diplomacy",
+      "reader_question": "What should coastal towns prepare first?",
+      "topic_tag": "Cyclone",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece"
+          "title": "Cyclone ‘Arnab’ LIVE updates | ‘Arnab’ hurtling towards Andhra; Kakinada in the grip of fear",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "회의는",
-          "roman": "hoeui-neun",
-          "english": "meeting",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "경제",
-          "roman": "gyeongje",
-          "english": "economic",
+          "korean": "10월",
+          "roman": "10-wol",
+          "english": "October",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "충격과",
-          "roman": "chunggyeok-gwa",
-          "english": "shocks and",
+          "korean": "27일",
+          "roman": "27-il",
+          "english": "27th day",
           "particle": false,
-          "suffix": "과"
+          "suffix": ""
         },
         {
-          "korean": "에너지와",
-          "roman": "eneoji-wa",
-          "english": "energy and",
+          "korean": "사이클론",
+          "roman": "saikeullon",
+          "english": "cyclone",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "아르나브가",
+          "roman": "Areunabeuga",
+          "english": "Arnab",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "안드라프라데시와",
+          "roman": "Andeura-Pradesiwa",
+          "english": "Andhra Pradesh and",
           "particle": false,
           "suffix": "와"
         },
         {
-          "korean": "식량과",
-          "roman": "sikryang-gwa",
-          "english": "food and",
+          "korean": "오디샤에",
+          "roman": "Odisya-e",
+          "english": "to Odisha",
           "particle": false,
-          "suffix": "과"
+          "suffix": "에"
         },
         {
-          "korean": "공급망",
-          "roman": "gonggeupmang",
-          "english": "supply chain",
+          "korean": "접근했다",
+          "roman": "jeopgeonhaetda",
+          "english": "approached",
           "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "안보를",
-          "roman": "anbo-reul",
-          "english": "security",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "논의한다",
-          "roman": "nonuihanda",
-          "english": "discusses",
-          "particle": false,
-          "suffix": "한다"
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
-          "stage": "why",
-          "english": "The meeting aims to discuss economic shocks, energy, food and supply-chain security.",
-          "korean": "회의는 경제 충격과 에너지와 식량과 공급망 안보를 논의한다",
+          "stage": "what",
+          "english": "On October 27, Cyclone Arnab approached Andhra Pradesh and Odisha.",
+          "korean": "10월 27일, 사이클론 아르나브가 안드라프라데시와 오디샤에 접근했다.",
           "glossary": [
             {
-              "korean": "회의는",
-              "roman": "hoeui-neun",
-              "english": "meeting",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "경제",
-              "roman": "gyeongje",
-              "english": "economic",
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "충격과",
-              "roman": "chunggyeok-gwa",
-              "english": "shocks and",
+              "korean": "27일",
+              "roman": "27-il",
+              "english": "27th day",
               "particle": false,
-              "suffix": "과"
+              "suffix": ""
             },
             {
-              "korean": "에너지와",
-              "roman": "eneoji-wa",
-              "english": "energy and",
+              "korean": "사이클론",
+              "roman": "saikeullon",
+              "english": "cyclone",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아르나브가",
+              "roman": "Areunabeuga",
+              "english": "Arnab",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "안드라프라데시와",
+              "roman": "Andeura-Pradesiwa",
+              "english": "Andhra Pradesh and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "식량과",
-              "roman": "sikryang-gwa",
-              "english": "food and",
+              "korean": "오디샤에",
+              "roman": "Odisya-e",
+              "english": "to Odisha",
               "particle": false,
-              "suffix": "과"
+              "suffix": "에"
             },
             {
-              "korean": "공급망",
-              "roman": "gonggeupmang",
-              "english": "supply chain",
+              "korean": "접근했다",
+              "roman": "jeopgeonhaetda",
+              "english": "approached",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안보를",
-              "roman": "anbo-reul",
-              "english": "security",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "논의한다",
-              "roman": "nonuihanda",
-              "english": "discusses",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "India’s External Affairs Minister S Jaishankar is scheduled to attend.",
-          "korean": "인도 외교장관 S 자이샨카르가 참석할 예정이다",
+          "english": "It strengthened into a very severe storm over the west-central Bay of Bengal.",
+          "korean": "아르나브는 벵골만에서 초강력 폭풍으로 강해졌다.",
           "glossary": [
+            {
+              "korean": "아르나브는",
+              "roman": "Areunabeun",
+              "english": "Arnab",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "벵골만에서",
+              "roman": "Bengolman-eseo",
+              "english": "over the Bay of Bengal",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "초강력",
+              "roman": "chogangnyeok",
+              "english": "very severe",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "폭풍으로",
+              "roman": "pokpung-euro",
+              "english": "into a storm",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "강해졌다",
+              "roman": "ganghaejyeotda",
+              "english": "strengthened",
+              "particle": false,
+              "suffix": "졌다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The IMD forecast landfall between Bapatla and Visakhapatnam on October 28.",
+          "korean": "기상청은 10월 28일 바팟라와 비사카파트남 사이 상륙을 예보했다.",
+          "glossary": [
+            {
+              "korean": "기상청은",
+              "roman": "gisangcheong-eun",
+              "english": "weather department",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "28일",
+              "roman": "28-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "바팟라와",
+              "roman": "Bapatrawa",
+              "english": "Bapatla and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "비사카파트남",
+              "roman": "Bisakapatnam",
+              "english": "Visakhapatnam",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사이",
+              "roman": "sai",
+              "english": "between",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "상륙을",
+              "roman": "sangnyug-eul",
+              "english": "landfall",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "예보했다",
+              "roman": "yeboh aetda",
+              "english": "forecast",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Officials prepared 54 camps for 31,405 people across 37 villages.",
+          "korean": "당국은 37개 마을에 31,405명용 대피소 54곳을 준비했다.",
+          "glossary": [
+            {
+              "korean": "당국은",
+              "roman": "danggug-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "37개",
+              "roman": "sam-sip-chil-gae",
+              "english": "37",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마을에",
+              "roman": "maeul-e",
+              "english": "in villages",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "31,405명용",
+              "roman": "sam-man-il-cheon-sa-baek-o-myeong-yong",
+              "english": "for 31,405 people",
+              "particle": false,
+              "suffix": "용"
+            },
+            {
+              "korean": "대피소",
+              "roman": "daepis o",
+              "english": "shelters",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "54곳을",
+              "roman": "s isip-sa-goseul",
+              "english": "54 places",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "준비했다",
+              "roman": "junbihaetda",
+              "english": "prepared",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-27-2026/article71629599.ece",
+      "short_english": "On October 27, Cyclone Arnab approached Andhra Pradesh and Odisha.",
+      "short_korean": "10월 27일, 사이클론 아르나브가 안드라프라데시와 오디샤에 접근했다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/indian/04f7a440b4f6/1.jpg",
+        "images/indian/04f7a440b4f6/2.jpg",
+        "images/indian/04f7a440b4f6/3.jpg",
+        "images/indian/04f7a440b4f6/4.jpg",
+        "images/indian/04f7a440b4f6/5.jpg",
+        "images/indian/04f7a440b4f6/6.jpg",
+        "images/indian/04f7a440b4f6/7.jpg",
+        "images/indian/04f7a440b4f6/8.jpg",
+        "images/indian/04f7a440b4f6/9.jpg",
+        "images/indian/04f7a440b4f6/10.jpg",
+        "images/indian/04f7a440b4f6/11.jpg",
+        "images/indian/04f7a440b4f6/12.jpg",
+        "images/indian/04f7a440b4f6/13.jpg",
+        "images/indian/04f7a440b4f6/14.jpg",
+        "images/indian/04f7a440b4f6/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/04f7a440b4f6/caption.txt"
+    },
+    {
+      "category": "Business",
+      "korean_title": "루피화, 달러당 95.22루피",
+      "english_title": "The rupee slips as oil and outflows pressure India",
+      "korean_desc": "10월 27일, 루피화는 달러당 95.22루피에 거래됐다. 거래자들은 원유와 지정학적 불확실성을 원인으로 봤다. 외국인 투자자들은 10월 26일 인도 주식을 팔았다. 센섹스와 니프티도 오전 거래에서 하락했다.",
+      "english_desc": "On October 27, the rupee opened weaker and traded at 95.22 per dollar. Traders linked the pressure to oil prices, geopolitical uncertainty, and a stronger dollar. Foreign investors sold ₹1,462.49 crore in Indian shares on October 26. The Sensex and Nifty also fell in early trading.",
+      "hook": "The rupee fell seven paise to 95.22.",
+      "sticker": "Currency under pressure",
+      "korean_hook": "루피화가 7파이사 하락해 95.22루피",
+      "takeaway_english": "The rupee’s next move will depend on oil, capital flows, and Federal Reserve signals.",
+      "takeaway_korean": "루피화의 다음 움직임은 원유와 자금 흐름에 달렸다.",
+      "why_it_matters": [
+        {
+          "english": "A weaker rupee can make imported oil and other goods more expensive.",
+          "korean": "약한 루피화는 수입 원유와 상품을 비싸게 만들 수 있다."
+        },
+        {
+          "english": "Currency pressure can affect markets, businesses, and household costs.",
+          "korean": "환율 압력은 시장과 기업과 가계 비용에 영향을 준다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Indian rupee",
+          "english": "It weakened against the dollar for a third straight session.",
+          "korean": "루피화는 3거래일 연속 달러에 약해졌다."
+        },
+        {
+          "label": "Reserve Bank of India",
+          "english": "Traders believed it may have intervened to support the currency.",
+          "korean": "거래자들은 중앙은행이 루피화를 지원했다고 봤다."
+        },
+        {
+          "label": "Foreign institutional investors",
+          "english": "They sold ₹1,462.49 crore of Indian equities on October 26.",
+          "korean": "외국 기관은 10월 26일 인도 주식을 팔았다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Forex traders",
+          "english": "Oil prices, foreign outflows, and a stronger dollar are weighing on the rupee.",
+          "korean": "원유, 외국인 자금 유출, 강한 달러가 루피화를 누른다."
+        },
+        {
+          "label": "RBI-support view",
+          "english": "Possible central-bank intervention helped the rupee recover briefly during trading.",
+          "korean": "중앙은행 개입 가능성이 거래 중 루피화를 잠시 도왔다."
+        }
+      ],
+      "disagree": {
+        "english": "The article does not prove how much intervention occurred or how long support can last.",
+        "korean": "개입 규모와 지원 지속 기간은 확인되지 않았다."
+      },
+      "reader_question_korean": "여기서 무엇이 가장 중요할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 462, 49"
+      ],
+      "source_title": "Rupee falls 7 paise to 95.22 against U.S. dollar in early trade",
+      "hook_format": "headline",
+      "body_format": "three_points",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "points": [
+          {
+            "label": "",
+            "english": "Higher crude oil prices increased pressure on the rupee.",
+            "korean": "높은 원유 가격이 루피화에 압력을 높였다."
+          },
+          {
+            "label": "",
+            "english": "Foreign investors sold Indian shares, sending money abroad.",
+            "korean": "외국인 투자자들이 인도 주식을 팔았다."
+          },
+          {
+            "label": "",
+            "english": "The RBI may have supported the currency, but pressure remained.",
+            "korean": "인도 중앙은행이 지원했지만 압력은 남았다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Update: October 27, 2026.",
+        "The rupee had lost 77 paise in three sessions."
+      ],
+      "reader_question": "Which matters more here: oil, investors, or the dollar?",
+      "topic_tag": "Currency",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Rupee falls 7 paise to 95.22 against U.S. dollar in early trade",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/business/markets/rupee-falls-against-us-dollar-in-early-trade-on-october-27-2026/article71629928.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "10월",
+          "roman": "10-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "27일",
+          "roman": "27-il",
+          "english": "27th day",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "루피화는",
+          "roman": "rupihwaneun",
+          "english": "rupee",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "달러당",
+          "roman": "dalleodang",
+          "english": "per dollar",
+          "particle": false,
+          "suffix": "당"
+        },
+        {
+          "korean": "95.22루피에",
+          "roman": "95.22-rupie",
+          "english": "at 95.22 rupees",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "거래됐다",
+          "roman": "georaedwaetda",
+          "english": "traded",
+          "particle": false,
+          "suffix": "됐다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On October 27, the rupee opened weaker and traded at 95.22 per dollar.",
+          "korean": "10월 27일, 루피화는 달러당 95.22루피에 거래됐다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "27일",
+              "roman": "27-il",
+              "english": "27th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "루피화는",
+              "roman": "rupihwaneun",
+              "english": "rupee",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "달러당",
+              "roman": "dalleodang",
+              "english": "per dollar",
+              "particle": false,
+              "suffix": "당"
+            },
+            {
+              "korean": "95.22루피에",
+              "roman": "95.22-rupie",
+              "english": "at 95.22 rupees",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "거래됐다",
+              "roman": "georaedwaetda",
+              "english": "traded",
+              "particle": false,
+              "suffix": "됐다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Traders linked the pressure to oil prices, geopolitical uncertainty, and a stronger dollar.",
+          "korean": "거래자들은 원유와 지정학적 불확실성을 원인으로 봤다.",
+          "glossary": [
+            {
+              "korean": "거래자들은",
+              "roman": "georaejadeureun",
+              "english": "traders",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "원유와",
+              "roman": "won-yuwa",
+              "english": "oil and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "지정학적",
+              "roman": "jijeonghakjeok",
+              "english": "geopolitical",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "불확실성을",
+              "roman": "bulhwaksilseong-eul",
+              "english": "uncertainty",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "원인으로",
+              "roman": "won-in-euro",
+              "english": "as causes",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "봤다",
+              "roman": "bwatda",
+              "english": "saw",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Foreign investors sold ₹1,462.49 crore in Indian shares on October 26.",
+          "korean": "외국인 투자자들은 10월 26일 인도 주식을 팔았다.",
+          "glossary": [
+            {
+              "korean": "외국인",
+              "roman": "oegugin",
+              "english": "foreign",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "투자자들은",
+              "roman": "tujajadeureun",
+              "english": "investors",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "26일",
+              "roman": "26-il",
+              "english": "26th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인도",
+              "roman": "Indo",
+              "english": "Indian",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주식을",
+              "roman": "jusig-eul",
+              "english": "shares",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "팔았다",
+              "roman": "paratda",
+              "english": "sold",
+              "particle": false,
+              "suffix": "았다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The Sensex and Nifty also fell in early trading.",
+          "korean": "센섹스와 니프티도 오전 거래에서 하락했다.",
+          "glossary": [
+            {
+              "korean": "센섹스와",
+              "roman": "Senseक्स-wa",
+              "english": "Sensex and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "니프티도",
+              "roman": "Niputido",
+              "english": "Nifty also",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "오전",
+              "roman": "ojeon",
+              "english": "morning",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "거래에서",
+              "roman": "georae-eseo",
+              "english": "in trading",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "하락했다",
+              "roman": "harakhaetda",
+              "english": "fell",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/business/markets/rupee-falls-against-us-dollar-in-early-trade-on-october-27-2026/article71629928.ece",
+      "short_english": "On October 27, the rupee opened weaker and traded at 95.22 per dollar.",
+      "short_korean": "10월 27일, 루피화는 달러당 95.22루피에 거래됐다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/indian/a5d236af617a/1.jpg",
+        "images/indian/a5d236af617a/2.jpg",
+        "images/indian/a5d236af617a/3.jpg",
+        "images/indian/a5d236af617a/4.jpg",
+        "images/indian/a5d236af617a/5.jpg",
+        "images/indian/a5d236af617a/6.jpg",
+        "images/indian/a5d236af617a/7.jpg",
+        "images/indian/a5d236af617a/8.jpg",
+        "images/indian/a5d236af617a/9.jpg",
+        "images/indian/a5d236af617a/10.jpg",
+        "images/indian/a5d236af617a/11.jpg",
+        "images/indian/a5d236af617a/12.jpg",
+        "images/indian/a5d236af617a/13.jpg",
+        "images/indian/a5d236af617a/14.jpg",
+        "images/indian/a5d236af617a/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/a5d236af617a/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "남은 음식을 살리는 리플레이트",
+      "english_title": "Replate turns unsold food into surprise bags",
+      "korean_desc": "카란 싱 구즈랄과 아디티아 아리아가 리플레이트를 시작했다. 두 사람은 안전한 미판매 음식의 폐기를 막고 싶었다. 식당은 봉지를 올리고 손님은 결제 후 받는다. 창업자들은 안전 기간 안에서 사업을 키우려 한다.",
+      "english_desc": "Karan Singh Gujral and Aditya Arya launched Replate in Bengaluru and Hyderabad. They wanted to stop safe, unsold food from being thrown away. Restaurants list surprise bags, and nearby customers pay before collecting them. The founders aim to grow the model while keeping food within its safe consumption window.",
+      "hook": "Replate gives unsold food a second life.",
+      "sticker": "Food gets another chance 🍞",
+      "korean_hook": "리플레이트가 남은 음식에 새 생명을 준다",
+      "takeaway_english": "Replate is testing whether convenience and sustainability can share one dinner bag.",
+      "takeaway_korean": "리플레이트는 편리함과 지속가능성을 함께 시험한다.",
+      "why_it_matters": [
+        {
+          "english": "Customers can buy food at closing time instead of letting it enter the bin.",
+          "korean": "손님은 마감 음식이 쓰레기통에 들어가는 일을 줄일 수 있다."
+        },
+        {
+          "english": "Small businesses can recover money from unsold products.",
+          "korean": "소상공인은 팔리지 않은 제품에서 돈을 회수할 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Replate",
+          "english": "It connects customers with restaurants and bakeries in Bengaluru and Hyderabad.",
+          "korean": "리플레이트는 손님과 식당과 빵집을 연결한다."
+        },
+        {
+          "label": "Restaurants and bakeries",
+          "english": "They recover some money from food that might otherwise be discarded.",
+          "korean": "식당과 빵집은 버릴 음식으로 돈을 일부 회수한다."
+        },
+        {
+          "label": "Customers",
+          "english": "They pay first and receive surprise bags during a collection window.",
+          "korean": "손님은 먼저 결제하고 정해진 시간에 봉지를 받는다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Replate founders",
+          "english": "A small payment makes surplus-food rescue a business routine, not a favor.",
+          "korean": "작은 결제가 남은 음식 구제를 일상적인 사업으로 만든다."
+        },
+        {
+          "label": "Food-donation perspective",
+          "english": "Donation could help people directly, but the coverage gives little evidence about alternatives.",
+          "korean": "기부는 사람을 직접 도울 수 있지만 대안 자료는 적다."
+        }
+      ],
+      "disagree": {
+        "english": "The coverage does not independently verify safety, savings, or the amount of food ultimately avoided.",
+        "korean": "안전과 절약과 음식 절감량은 독립적으로 확인되지 않았다."
+      },
+      "reader_question_korean": "내용을 모르는 봉지를 사겠어요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Meet the duo giving unsold food a second life across Bengaluru and Hyderabad",
+      "hook_format": "vocab",
+      "body_format": "who_speaks",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "people": [
+          {
+            "label": "Karan Singh Gujral",
+            "english": "He says good food was being thrown away simply because it did not sell.",
+            "korean": "그는 팔리지 않은 좋은 음식이 버려졌다고 말했다."
+          },
+          {
+            "label": "Aditya Arya",
+            "english": "He explains that customers book mystery bags and collect them before closing.",
+            "korean": "그는 손님이 마감 전에 음식 봉지를 찾는다고 설명했다."
+          },
+          {
+            "label": "Customers",
+            "english": "Many are students or young workers who dislike food waste.",
+            "korean": "많은 손님은 음식 낭비를 싫어하는 학생과 직장인이다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The service operates in Bengaluru and Hyderabad.",
+        "Customers usually collect bags during the final hour."
+      ],
+      "reader_question": "Would you buy a bag without knowing its contents?",
+      "topic_tag": "Food",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Meet the duo giving unsold food a second life across Bengaluru and Hyderabad",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/food/features/meet-the-duo-giving-unsold-food-a-second-life-across-bengaluru-and-hyderabad/article71626255.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "카란",
+          "roman": "Karan",
+          "english": "Karan",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "싱",
+          "roman": "Sing",
+          "english": "Singh",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "구즈랄과",
+          "roman": "Gujeural-gwa",
+          "english": "Gujral and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "아디티아",
+          "roman": "Aditia",
+          "english": "Aditya",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "아리아가",
+          "roman": "Ariaga",
+          "english": "Arya",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "리플레이트를",
+          "roman": "Ripeulleiteureul",
+          "english": "Replate",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "시작했다",
+          "roman": "sijakhaetda",
+          "english": "launched",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Karan Singh Gujral and Aditya Arya launched Replate in Bengaluru and Hyderabad.",
+          "korean": "카란 싱 구즈랄과 아디티아 아리아가 리플레이트를 시작했다.",
+          "glossary": [
+            {
+              "korean": "카란",
+              "roman": "Karan",
+              "english": "Karan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "싱",
+              "roman": "Sing",
+              "english": "Singh",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구즈랄과",
+              "roman": "Gujeural-gwa",
+              "english": "Gujral and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "아디티아",
+              "roman": "Aditia",
+              "english": "Aditya",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아리아가",
+              "roman": "Ariaga",
+              "english": "Arya",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "리플레이트를",
+              "roman": "Ripeulleiteureul",
+              "english": "Replate",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "시작했다",
+              "roman": "sijakhaetda",
+              "english": "launched",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "They wanted to stop safe, unsold food from being thrown away.",
+          "korean": "두 사람은 안전한 미판매 음식의 폐기를 막고 싶었다.",
+          "glossary": [
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사람은",
+              "roman": "saram-eun",
+              "english": "people",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "안전한",
+              "roman": "anjeonhan",
+              "english": "safe",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "미판매",
+              "roman": "mip anmae",
+              "english": "unsold",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "음식의",
+              "roman": "eumsig-ui",
+              "english": "food's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "폐기를",
+              "roman": "pyegi-reul",
+              "english": "discarding",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "막고",
+              "roman": "makgo",
+              "english": "stop and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "싶었다",
+              "roman": "sipeotda",
+              "english": "wanted",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Restaurants list surprise bags, and nearby customers pay before collecting them.",
+          "korean": "식당은 봉지를 올리고 손님은 결제 후 받는다.",
+          "glossary": [
+            {
+              "korean": "식당은",
+              "roman": "sikdang-eun",
+              "english": "restaurants",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "봉지를",
+              "roman": "bongji-reul",
+              "english": "bags",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "올리고",
+              "roman": "olligo",
+              "english": "list and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "손님은",
+              "roman": "sonnim-eun",
+              "english": "customers",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "결제",
+              "roman": "gyeolje",
+              "english": "payment",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "후",
+              "roman": "hu",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "받는다",
+              "roman": "batneunda",
+              "english": "receive",
+              "particle": false,
+              "suffix": "는다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The founders aim to grow the model while keeping food within its safe consumption window.",
+          "korean": "창업자들은 안전 기간 안에서 사업을 키우려 한다.",
+          "glossary": [
+            {
+              "korean": "창업자들은",
+              "roman": "chang-eopjadeureun",
+              "english": "founders",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "안전",
+              "roman": "anjeon",
+              "english": "safe",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기간",
+              "roman": "gigan",
+              "english": "period",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "안에서",
+              "roman": "an-eseo",
+              "english": "within",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "사업을",
+              "roman": "sa-eob-eul",
+              "english": "business",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "키우려",
+              "roman": "kiuryeo",
+              "english": "to grow",
+              "particle": false,
+              "suffix": "려"
+            },
+            {
+              "korean": "한다",
+              "roman": "handa",
+              "english": "intend",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/food/features/meet-the-duo-giving-unsold-food-a-second-life-across-bengaluru-and-hyderabad/article71626255.ece",
+      "short_english": "Karan Singh Gujral and Aditya Arya launched Replate in Bengaluru and Hyderabad.",
+      "short_korean": "카란 싱 구즈랄과 아디티아 아리아가 리플레이트를 시작했다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/indian/a38050ba1b4a/1.jpg",
+        "images/indian/a38050ba1b4a/2.jpg",
+        "images/indian/a38050ba1b4a/3.jpg",
+        "images/indian/a38050ba1b4a/4.jpg",
+        "images/indian/a38050ba1b4a/5.jpg",
+        "images/indian/a38050ba1b4a/6.jpg",
+        "images/indian/a38050ba1b4a/7.jpg",
+        "images/indian/a38050ba1b4a/8.jpg",
+        "images/indian/a38050ba1b4a/9.jpg",
+        "images/indian/a38050ba1b4a/10.jpg",
+        "images/indian/a38050ba1b4a/11.jpg",
+        "images/indian/a38050ba1b4a/12.jpg",
+        "images/indian/a38050ba1b4a/13.jpg",
+        "images/indian/a38050ba1b4a/14.jpg",
+        "images/indian/a38050ba1b4a/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/a38050ba1b4a/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "바도니, 1등급 6번째 백점",
+      "english_title": "Badoni’s sixth hundred rescues Delhi from trouble",
+      "korean_desc": "10월 26일, 델리는 란치에서 자르칸드에 309점 5위켓을 기록했다. 델리는 스핀에 5위켓을 잃어 회복이 필요했다. 바도니는 111공을 치고 106점으로 남았다. 수밋 마투르는 바도니와 128점 무패 동반을 만들었다.",
+      "english_desc": "On October 26, Delhi reached 309 for five against Jharkhand in Ranchi. Delhi needed recovery after five wickets fell to spin bowling. Badoni remained unbeaten on 106 after facing spin for 111 deliveries. Sumit Mathur added 50 in an unbroken 128-run partnership with Badoni.",
+      "hook": "Badoni hit his sixth First Class hundred.",
+      "sticker": "A rescue act at the crease 🏏",
+      "korean_hook": "바도니가 1등급 6번째 백점을 쳤다",
+      "takeaway_english": "Delhi’s next task is turning Badoni’s platform into a commanding total.",
+      "takeaway_korean": "델리의 다음 과제는 좋은 출발을 큰 점수로 바꾸는 일이다.",
+      "why_it_matters": [
+        {
+          "english": "Delhi recovered after losing five wickets, keeping its match position competitive.",
+          "korean": "델리는 5위켓 뒤 회복해 경기 경쟁력을 지켰다."
+        },
+        {
+          "english": "Badoni’s form gives Delhi a dependable middle-order scorer.",
+          "korean": "바도니의 컨디션은 델리에 믿을 만한 득점원을 준다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Ayush Badoni",
+          "english": "He stayed unbeaten on 106 and led Delhi’s recovery.",
+          "korean": "그는 106점으로 남아 델리의 회복을 이끌었다."
+        },
+        {
+          "label": "Sumit Mathur",
+          "english": "He scored 50 in an unbeaten 128-run partnership.",
+          "korean": "그는 무패 128점 동반에서 50점을 냈다."
+        },
+        {
+          "label": "Jharkhand bowlers",
+          "english": "Their spin took five wickets before Badoni and Mathur rebuilt the innings.",
+          "korean": "그들의 스핀이 5위켓을 잡았지만 델리는 회복했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Delhi",
+          "english": "Badoni’s innings changed a difficult position into a strong first-day finish.",
+          "korean": "바도니의 타격은 어려운 상황을 강한 첫날 결과로 바꿨다."
+        },
+        {
+          "label": "Jharkhand",
+          "english": "Jharkhand created pressure early, but missed chances helped Delhi recover.",
+          "korean": "자르칸드는 초반 압박을 만들었지만 실수가 회복을 도왔다."
+        }
+      ],
+      "disagree": {
+        "english": "One strong day does not decide the match, because Jharkhand still has later innings.",
+        "korean": "좋은 하루만으로 경기는 끝나지 않는다."
+      },
+      "reader_question_korean": "빠른 시작과 회복 동반 중 무엇이 중요할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 50"
+      ],
+      "source_title": "Badoni notches up his sixth First Class hundred as Delhi dominates day one",
+      "hook_format": "headline",
+      "body_format": "before_after",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "before": {
+          "label": "",
+          "english": "Delhi had fallen to 181 for five.",
+          "korean": "델리는 181점에 5위켓을 잃었다."
+        },
+        "after": {
+          "label": "",
+          "english": "Badoni and Sumit Mathur took Delhi to 309 for five.",
+          "korean": "바도니와 수밋 마투르가 델리를 309점으로 이끌었다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The match is Delhi versus Jharkhand.",
+        "Day one ended with Delhi at 309 for five."
+      ],
+      "reader_question": "Which matters more: a fast start or a rescue partnership?",
+      "topic_tag": "Cricket",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Badoni notches up his sixth First Class hundred as Delhi dominates day one",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/sport/cricket/cricket/article71627385.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "10월",
+          "roman": "10-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "26일",
+          "roman": "26-il",
+          "english": "26th day",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "델리는",
+          "roman": "Dellineun",
+          "english": "Delhi",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "란치에서",
+          "roman": "Ranchi-eseo",
+          "english": "in Ranchi",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "자르칸드에",
+          "roman": "Jareukandeu-e",
+          "english": "against Jharkhand",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "309점",
+          "roman": "sam-baek-gu-jeom",
+          "english": "309 runs",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "5위켓을",
+          "roman": "o-wiket-eul",
+          "english": "five wickets",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "기록했다",
+          "roman": "girokhaetda",
+          "english": "recorded",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On October 26, Delhi reached 309 for five against Jharkhand in Ranchi.",
+          "korean": "10월 26일, 델리는 란치에서 자르칸드에 309점 5위켓을 기록했다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "26일",
+              "roman": "26-il",
+              "english": "26th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "델리는",
+              "roman": "Dellineun",
+              "english": "Delhi",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "란치에서",
+              "roman": "Ranchi-eseo",
+              "english": "in Ranchi",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "자르칸드에",
+              "roman": "Jareukandeu-e",
+              "english": "against Jharkhand",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "309점",
+              "roman": "sam-baek-gu-jeom",
+              "english": "309 runs",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5위켓을",
+              "roman": "o-wiket-eul",
+              "english": "five wickets",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "기록했다",
+              "roman": "girokhaetda",
+              "english": "recorded",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Delhi needed recovery after five wickets fell to spin bowling.",
+          "korean": "델리는 스핀에 5위켓을 잃어 회복이 필요했다.",
+          "glossary": [
+            {
+              "korean": "델리는",
+              "roman": "Dellineun",
+              "english": "Delhi",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "스핀에",
+              "roman": "seupin-e",
+              "english": "to spin",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "5위켓을",
+              "roman": "o-wiket-eul",
+              "english": "five wickets",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "잃어",
+              "roman": "ilhe o",
+              "english": "losing",
+              "particle": false,
+              "suffix": "어"
+            },
+            {
+              "korean": "회복이",
+              "roman": "hoebok-i",
+              "english": "recovery",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "필요했다",
+              "roman": "piry ohaetda",
+              "english": "was needed",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Badoni remained unbeaten on 106 after facing spin for 111 deliveries.",
+          "korean": "바도니는 111공을 치고 106점으로 남았다.",
+          "glossary": [
+            {
+              "korean": "바도니는",
+              "roman": "Badonineun",
+              "english": "Badoni",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "111공을",
+              "roman": "baek-sip-il-gong-eul",
+              "english": "111 deliveries",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "치고",
+              "roman": "chigo",
+              "english": "facing and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "106점으로",
+              "roman": "baek-yuk-jeom-euro",
+              "english": "on 106 runs",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "남았다",
+              "roman": "namatda",
+              "english": "remained",
+              "particle": false,
+              "suffix": "았다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Sumit Mathur added 50 in an unbroken 128-run partnership with Badoni.",
+          "korean": "수밋 마투르는 바도니와 128점 무패 동반을 만들었다.",
+          "glossary": [
+            {
+              "korean": "수밋",
+              "roman": "Sumit",
+              "english": "Sumit",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마투르는",
+              "roman": "Matureuneun",
+              "english": "Mathur",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "바도니와",
+              "roman": "Badoniwa",
+              "english": "with Badoni",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "128점",
+              "roman": "baek-isip-pal-jeom",
+              "english": "128 runs",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "무패",
+              "roman": "mupae",
+              "english": "unbeaten",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "동반을",
+              "roman": "dongban-eul",
+              "english": "partnership",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "만들었다",
+              "roman": "mandeureotda",
+              "english": "made",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/sport/cricket/cricket/article71627385.ece",
+      "short_english": "On October 26, Delhi reached 309 for five against Jharkhand in Ranchi.",
+      "short_korean": "10월 26일, 델리는 란치에서 자르칸드에 309점 5위켓을 기록했다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/indian/4e18874ed941/1.jpg",
+        "images/indian/4e18874ed941/2.jpg",
+        "images/indian/4e18874ed941/3.jpg",
+        "images/indian/4e18874ed941/4.jpg",
+        "images/indian/4e18874ed941/5.jpg",
+        "images/indian/4e18874ed941/6.jpg",
+        "images/indian/4e18874ed941/7.jpg",
+        "images/indian/4e18874ed941/8.jpg",
+        "images/indian/4e18874ed941/9.jpg",
+        "images/indian/4e18874ed941/10.jpg",
+        "images/indian/4e18874ed941/11.jpg",
+        "images/indian/4e18874ed941/12.jpg",
+        "images/indian/4e18874ed941/13.jpg",
+        "images/indian/4e18874ed941/14.jpg",
+        "images/indian/4e18874ed941/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/4e18874ed941/caption.txt"
+    },
+    {
+      "category": "Entertainment",
+      "korean_title": "샤룩 칸 영화 킹 새 포스터",
+      "english_title": "Shah Rukh Khan shows a fierce new look in King",
+      "korean_desc": "포스터에는 회색 머리, 총, 장미, 불꽃이 나온다. 이 영화는 둔키 이후 칸의 복귀작이라 중요하다. 킹은 12월 24일 여러 대작과 개봉한다.",
+      "english_desc": "The poster shows grey hair, a gun, a rose, and fire behind him. The film matters because it is Khan’s return after Dunki. King will open in theatres on December 24 alongside several major releases.",
+      "hook": "King’s new poster makes Shah Rukh Khan look dangerous.",
+      "sticker": "King enters the arena 🎬",
+      "korean_hook": "킹 새 포스터 속 샤룩 칸이 강렬하다",
+      "takeaway_english": "The poster reveals the mood, while the mystery around the film remains carefully protected.",
+      "takeaway_korean": "포스터는 분위기만 보여주고 영화의 비밀은 남겼다.",
+      "why_it_matters": [
+        {
+          "english": "King marks Shah Rukh Khan’s return to the big screen after Dunki.",
+          "korean": "킹은 둔키 이후 샤룩 칸의 영화 복귀작이다."
+        },
+        {
+          "english": "The film will compete with major Indian and Hollywood releases.",
+          "korean": "이 영화는 인도와 할리우드 대작들과 경쟁한다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Shah Rukh Khan",
+          "english": "He revealed the poster and returns to cinemas in King.",
+          "korean": "그는 포스터를 공개하고 킹으로 극장에 돌아온다."
+        },
+        {
+          "label": "Siddharth Anand",
+          "english": "He directs the action film.",
+          "korean": "그는 이 액션 영화를 연출한다."
+        },
+        {
+          "label": "Audiences",
+          "english": "They will see King in theatres from December 24, 2026.",
+          "korean": "관객은 2026년 12월 24일부터 킹을 본다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Film team",
+          "english": "The poster presents King as a stylised action film with a dramatic star image.",
+          "korean": "포스터는 킹을 극적인 스타 이미지의 액션 영화로 보여준다."
+        },
+        {
+          "label": "Audience perspective",
+          "english": "The poster creates interest, but the plot and character details remain hidden.",
+          "korean": "포스터는 관심을 만들지만 줄거리와 인물 정보는 숨겨져 있다."
+        }
+      ],
+      "disagree": {
+        "english": "A striking poster cannot show whether the finished film will satisfy viewers.",
+        "korean": "강렬한 포스터만으로 완성된 영화의 성공은 알 수 없다."
+      },
+      "reader_question_korean": "이 포스터가 킹을 궁금하게 하나요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "‘King’: Shah Rukh Khan exudes intensity in new poster from actioner",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "The poster was unveiled on October 27, 2026.",
+        "King releases on December 24, 2026."
+      ],
+      "reader_question": "Does the poster make you curious about King?",
+      "topic_tag": "Cinema",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "‘King’: Shah Rukh Khan exudes intensity in new poster from actioner",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/entertainment/movies/king-shah-rukh-khan-exudes-intensity-in-new-poster-from-actioner/article71629923.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "포스터에는",
+          "roman": "poseuteo-eneun",
+          "english": "in the poster",
+          "particle": false,
+          "suffix": "에는"
+        },
+        {
+          "korean": "회색",
+          "roman": "hoesaek",
+          "english": "grey",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "머리",
+          "roman": "meori",
+          "english": "hair",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "총",
+          "roman": "chong",
+          "english": "gun",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "장미",
+          "roman": "jangmi",
+          "english": "rose",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "불꽃이",
+          "roman": "bulkkot-i",
+          "english": "fire",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "나온다",
+          "roman": "naonda",
+          "english": "appears",
+          "particle": false,
+          "suffix": "온다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "truth",
+          "english": "The poster shows grey hair, a gun, a rose, and fire behind him.",
+          "korean": "포스터에는 회색 머리, 총, 장미, 불꽃이 나온다.",
+          "glossary": [
+            {
+              "korean": "포스터에는",
+              "roman": "poseuteo-eneun",
+              "english": "in the poster",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "회색",
+              "roman": "hoesaek",
+              "english": "grey",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "머리",
+              "roman": "meori",
+              "english": "hair",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "총",
+              "roman": "chong",
+              "english": "gun",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장미",
+              "roman": "jangmi",
+              "english": "rose",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "불꽃이",
+              "roman": "bulkkot-i",
+              "english": "fire",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "나온다",
+              "roman": "naonda",
+              "english": "appears",
+              "particle": false,
+              "suffix": "온다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The film matters because it is Khan’s return after Dunki.",
+          "korean": "이 영화는 둔키 이후 칸의 복귀작이라 중요하다.",
+          "glossary": [
+            {
+              "korean": "이",
+              "roman": "i",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "영화는",
+              "roman": "yeonghwa-neun",
+              "english": "film",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "둔키",
+              "roman": "Dunki",
+              "english": "Dunki",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이후",
+              "roman": "ihu",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "칸의",
+              "roman": "Khan-ui",
+              "english": "Khan's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "복귀작이라",
+              "roman": "bokgwijag-ira",
+              "english": "return film",
+              "particle": false,
+              "suffix": "이라"
+            },
+            {
+              "korean": "중요하다",
+              "roman": "jungyohada",
+              "english": "matters",
+              "particle": false,
+              "suffix": "하다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "King will open in theatres on December 24 alongside several major releases.",
+          "korean": "킹은 12월 24일 여러 대작과 개봉한다.",
+          "glossary": [
+            {
+              "korean": "킹은",
+              "roman": "King-eun",
+              "english": "King",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "12월",
+              "roman": "12-wol",
+              "english": "December",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "24일",
+              "roman": "24-il",
+              "english": "24th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여러",
+              "roman": "yeoreo",
+              "english": "several",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대작과",
+              "roman": "dae jak-gwa",
+              "english": "major films with",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "개봉한다",
+              "roman": "gaebonghanda",
+              "english": "opens",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/movies/king-shah-rukh-khan-exudes-intensity-in-new-poster-from-actioner/article71629923.ece",
+      "short_english": "The poster shows grey hair, a gun, a rose, and fire behind him.",
+      "short_korean": "포스터에는 회색 머리, 총, 장미, 불꽃이 나온다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/indian/5bedd1a471db/1.jpg",
+        "images/indian/5bedd1a471db/2.jpg",
+        "images/indian/5bedd1a471db/3.jpg",
+        "images/indian/5bedd1a471db/4.jpg",
+        "images/indian/5bedd1a471db/5.jpg",
+        "images/indian/5bedd1a471db/6.jpg",
+        "images/indian/5bedd1a471db/7.jpg",
+        "images/indian/5bedd1a471db/8.jpg",
+        "images/indian/5bedd1a471db/9.jpg",
+        "images/indian/5bedd1a471db/10.jpg",
+        "images/indian/5bedd1a471db/11.jpg",
+        "images/indian/5bedd1a471db/12.jpg",
+        "images/indian/5bedd1a471db/13.jpg",
+        "images/indian/5bedd1a471db/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/5bedd1a471db/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "마이크로소프트 6만 명 퇴직 제안",
+      "english_title": "Microsoft offers voluntary exits to 60,000 employees",
+      "korean_desc": "10월 26일, 마이크로소프트가 약 6만 명에게 자발적 퇴직을 제안했다. 회사는 인공지능에 크게 투자하며 비용을 줄인다. 대상 팀은 미국, 캐나다, 인도, 영국에 있다. 일부 데이터센터, 영업, 마케팅팀은 대상에서 제외됐다. 마이크로소프트는 이번 주 후반 분기 실적을 발표할 예정이다.",
+      "english_desc": "On October 26, Microsoft offered voluntary buyouts to about 60,000 employees. The company is cutting costs while spending heavily on artificial intelligence. Eligible teams are in the United States, Canada, India, and Britain. Some data-centre, sales, and marketing groups are excluded from the offer. Microsoft is expected to report quarterly earnings later this week.",
+      "hook": "Microsoft offered voluntary exits to 60,000 staff.",
+      "sticker": "Jobs meet the AI era",
+      "korean_hook": "마이크로소프트가 6만 명에게 퇴직을 제안했다",
+      "takeaway_english": "The next signal will be how many eligible workers accept the offer.",
+      "takeaway_korean": "다음 신호는 대상 직원 중 몇 명이 수락하는지다.",
+      "why_it_matters": [
+        {
+          "english": "The decision could affect thousands of technology workers in India and elsewhere.",
+          "korean": "이 결정은 인도와 다른 지역의 기술 노동자에게 영향을 준다."
+        },
+        {
+          "english": "Microsoft’s spending choices show how AI investment can reshape company budgets.",
+          "korean": "마이크로소프트의 선택은 인공지능 투자가 예산을 바꾸는 모습을 보여준다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Microsoft employees",
+          "english": "Eligible staff in the United States, Canada, India, and Britain may accept the package.",
+          "korean": "미국, 캐나다, 인도, 영국의 일부 직원이 대상이다."
+        },
+        {
+          "label": "Microsoft",
+          "english": "It is cutting costs while investing heavily in AI infrastructure.",
+          "korean": "마이크로소프트는 인공지능 시설에 투자하며 비용을 줄인다."
+        },
+        {
+          "label": "AI industry",
+          "english": "Large technology companies are spending heavily while job-loss concerns grow.",
+          "korean": "기술 기업들은 크게 투자하고 일자리 우려는 커진다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Microsoft",
+          "english": "The voluntary offer gives employees flexibility and more control over their next step.",
+          "korean": "자발적 제안은 직원에게 유연성과 다음 선택권을 준다."
+        },
+        {
+          "label": "Job-security critics",
+          "english": "The scale suggests AI investment and cost cutting may be changing technology work.",
+          "korean": "규모를 보면 인공지능과 비용 절감이 기술 일자리를 바꿀 수 있다."
+        }
+      ],
+      "disagree": {
+        "english": "Voluntary packages can offer choice, but workers may still feel pressure to leave.",
+        "korean": "자발적 제안이어도 직원은 떠나라는 압박을 느낄 수 있다."
+      },
+      "reader_question_korean": "자발적 퇴직금을 받겠어요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 60, 000"
+      ],
+      "source_title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Microsoft",
+            "english": "Voluntary exits give employees more choice while the company changes its approach.",
+            "korean": "자발적 퇴직은 직원에게 선택권을 더 준다."
+          },
+          {
+            "label": "Workers and industry observers",
+            "english": "The offer raises concerns about jobs as Microsoft increases artificial-intelligence spending.",
+            "korean": "인공지능 투자가 일자리를 줄일까 우려된다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The offer was announced on October 26, 2026.",
+        "Some data-centre, sales, and marketing groups are excluded."
+      ],
+      "reader_question": "Would you accept a voluntary exit package?",
+      "topic_tag": "Jobs",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Microsoft offers voluntary exit packages to 60,000 staff, with some Indian teams eligible",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "10월",
+          "roman": "10-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "26일",
+          "roman": "26-il",
+          "english": "26th day",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "마이크로소프트가",
+          "roman": "Maikeurosopeuteuga",
+          "english": "Microsoft",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "약",
+          "roman": "yak",
+          "english": "about",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "6만",
+          "roman": "yuk-man",
+          "english": "60,000",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "명에게",
+          "roman": "myeong-ege",
+          "english": "to employees",
+          "particle": false,
+          "suffix": "에게"
+        },
+        {
+          "korean": "자발적",
+          "roman": "jabaljeok",
+          "english": "voluntary",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "퇴직을",
+          "roman": "toejig-eul",
+          "english": "exit",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "제안했다",
+          "roman": "jeanhaetda",
+          "english": "offered",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On October 26, Microsoft offered voluntary buyouts to about 60,000 employees.",
+          "korean": "10월 26일, 마이크로소프트가 약 6만 명에게 자발적 퇴직을 제안했다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "10-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "26일",
+              "roman": "26-il",
+              "english": "26th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마이크로소프트가",
+              "roman": "Maikeurosopeuteuga",
+              "english": "Microsoft",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "약",
+              "roman": "yak",
+              "english": "about",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "6만",
+              "roman": "yuk-man",
+              "english": "60,000",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명에게",
+              "roman": "myeong-ege",
+              "english": "to employees",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "자발적",
+              "roman": "jabaljeok",
+              "english": "voluntary",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "퇴직을",
+              "roman": "toejig-eul",
+              "english": "exit",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "제안했다",
+              "roman": "jeanhaetda",
+              "english": "offered",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The company is cutting costs while spending heavily on artificial intelligence.",
+          "korean": "회사는 인공지능에 크게 투자하며 비용을 줄인다.",
+          "glossary": [
+            {
+              "korean": "회사는",
+              "roman": "hoesa-neun",
+              "english": "company",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "인공지능에",
+              "roman": "injingongjineung-e",
+              "english": "on artificial intelligence",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "크게",
+              "roman": "keuge",
+              "english": "heavily",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "투자하며",
+              "roman": "tujahamyeo",
+              "english": "investing and",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "비용을",
+              "roman": "biyong-eul",
+              "english": "costs",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "줄인다",
+              "roman": "jurinda",
+              "english": "cuts",
+              "particle": false,
+              "suffix": "인다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Eligible teams are in the United States, Canada, India, and Britain.",
+          "korean": "대상 팀은 미국, 캐나다, 인도, 영국에 있다.",
+          "glossary": [
+            {
+              "korean": "대상",
+              "roman": "daesang",
+              "english": "eligible",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "팀은",
+              "roman": "tim-eun",
+              "english": "teams",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "미국",
+              "roman": "Miguk",
+              "english": "United States",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "캐나다",
+              "roman": "Kaenada",
+              "english": "Canada",
+              "particle": false,
+              "suffix": ""
+            },
             {
               "korean": "인도",
               "roman": "Indo",
@@ -2071,121 +2208,158 @@
               "suffix": ""
             },
             {
-              "korean": "외교장관",
-              "roman": "oegyo-janggwan",
-              "english": "external affairs minister",
+              "korean": "영국에",
+              "roman": "Yeongguk-e",
+              "english": "in Britain",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "있다",
+              "roman": "itda",
+              "english": "are",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Some data-centre, sales, and marketing groups are excluded from the offer.",
+          "korean": "일부 데이터센터, 영업, 마케팅팀은 대상에서 제외됐다.",
+          "glossary": [
+            {
+              "korean": "일부",
+              "roman": "ilbu",
+              "english": "some",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "S",
-              "roman": "S",
-              "english": "S",
+              "korean": "데이터센터",
+              "roman": "deiteosenteo",
+              "english": "data-centre",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "자이샨카르가",
-              "roman": "Jaisyankar-ga",
-              "english": "Jaishankar",
+              "korean": "영업",
+              "roman": "yeong-eop",
+              "english": "sales",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
             },
             {
-              "korean": "참석할",
-              "roman": "chamseokhal",
-              "english": "attend",
+              "korean": "마케팅팀은",
+              "roman": "maketingtim-eun",
+              "english": "marketing teams",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "대상에서",
+              "roman": "daesang-eseo",
+              "english": "from eligibility",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "제외됐다",
+              "roman": "jeoedwaetda",
+              "english": "were excluded",
+              "particle": false,
+              "suffix": "됐다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Microsoft is expected to report quarterly earnings later this week.",
+          "korean": "마이크로소프트는 이번 주 후반 분기 실적을 발표할 예정이다.",
+          "glossary": [
+            {
+              "korean": "마이크로소프트는",
+              "roman": "Maikeurosopeuteuneun",
+              "english": "Microsoft",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "이번",
+              "roman": "ibeon",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주",
+              "roman": "ju",
+              "english": "week",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "후반",
+              "roman": "huban",
+              "english": "later",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "분기",
+              "roman": "b ungi",
+              "english": "quarterly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "실적을",
+              "roman": "siljeog-eul",
+              "english": "earnings",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "발표할",
+              "roman": "balpyohal",
+              "english": "will announce",
               "particle": false,
               "suffix": "할"
             },
             {
               "korean": "예정이다",
               "roman": "yejeong-ida",
-              "english": "is scheduled",
+              "english": "is expected",
               "particle": false,
               "suffix": "이다"
             }
           ]
-        },
-        {
-          "stage": "next",
-          "english": "The talks will prepare for President Trump’s leaders’ summit in Miami in December.",
-          "korean": "회담은 12월 마이애미 트럼프 대통령 정상회의를 준비한다",
-          "glossary": [
-            {
-              "korean": "회담은",
-              "roman": "hoedam-eun",
-              "english": "talks",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "월",
-              "roman": "wol",
-              "english": "December",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "마이애미",
-              "roman": "Mai-ae-mi",
-              "english": "Miami",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "트럼프",
-              "roman": "Teureompeu",
-              "english": "Trump",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대통령",
-              "roman": "daetongnyeong",
-              "english": "president",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정상회의를",
-              "roman": "jeongsanghoeui-reul",
-              "english": "leaders’ summit",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "준비한다",
-              "roman": "junbihanda",
-              "english": "prepares",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
-      "short_english": "The meeting aims to discuss economic shocks, energy, food and supply-chain security.",
-      "short_korean": "회의는 경제 충격과 에너지와 식량과 공급망 안보를 논의한다",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-offers-voluntary-exit-packages-to-60000-staff/article71629641.ece",
+      "short_english": "On October 26, Microsoft offered voluntary buyouts to about 60,000 employees.",
+      "short_korean": "10월 26일, 마이크로소프트가 약 6만 명에게 자발적 퇴직을 제안했다.",
       "date": "2026-10-27",
       "images": [
-        "images/indian/5f8bb1073552/1.jpg",
-        "images/indian/5f8bb1073552/2.jpg",
-        "images/indian/5f8bb1073552/3.jpg",
-        "images/indian/5f8bb1073552/4.jpg",
-        "images/indian/5f8bb1073552/5.jpg",
-        "images/indian/5f8bb1073552/6.jpg",
-        "images/indian/5f8bb1073552/7.jpg",
-        "images/indian/5f8bb1073552/8.jpg",
-        "images/indian/5f8bb1073552/9.jpg",
-        "images/indian/5f8bb1073552/10.jpg",
-        "images/indian/5f8bb1073552/11.jpg",
-        "images/indian/5f8bb1073552/12.jpg",
-        "images/indian/5f8bb1073552/13.jpg",
-        "images/indian/5f8bb1073552/14.jpg"
+        "images/indian/20b3bb981192/1.jpg",
+        "images/indian/20b3bb981192/2.jpg",
+        "images/indian/20b3bb981192/3.jpg",
+        "images/indian/20b3bb981192/4.jpg",
+        "images/indian/20b3bb981192/5.jpg",
+        "images/indian/20b3bb981192/6.jpg",
+        "images/indian/20b3bb981192/7.jpg",
+        "images/indian/20b3bb981192/8.jpg",
+        "images/indian/20b3bb981192/9.jpg",
+        "images/indian/20b3bb981192/10.jpg",
+        "images/indian/20b3bb981192/11.jpg",
+        "images/indian/20b3bb981192/12.jpg",
+        "images/indian/20b3bb981192/13.jpg",
+        "images/indian/20b3bb981192/14.jpg",
+        "images/indian/20b3bb981192/15.jpg",
+        "images/indian/20b3bb981192/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/5f8bb1073552/caption.txt"
+      "caption_file": "images/indian/20b3bb981192/caption.txt"
     }
   ]
 }

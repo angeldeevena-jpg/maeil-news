@@ -1,142 +1,459 @@
 {
   "date": "2026-10-27",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0143",
-  "generated_at": "2026-10-26T18:10:22.042Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0131",
+  "generated_at": "2026-10-27T06:22:43.724Z",
   "cards": [
     {
       "category": "World",
-      "korean_title": "앤트로픽, IPO 신청",
-      "english_title": "Anthropic Files for IPO as Revenue Soars",
-      "korean_desc": "앤트로픽은 2026년 10월 26일 미국 IPO를 신청했다 상반기 매출은 163억 달러였다 규제기관과 시장이 IPO 시기와 조건을 정한다",
-      "english_desc": "Anthropic filed for a U.S. IPO on October 26, 2026. Its first-half revenue reached $16.3 billion, up from $1.16 billion. Regulators and market conditions will decide the IPO timing and terms.",
-      "hook": "Anthropic filed for an IPO after revenue surged.",
-      "sticker": "AI goes public",
-      "korean_hook": "앤트로픽이 IPO를 신청했다",
-      "takeaway_english": "The IPO will test whether investors value AI growth above immediate profits.",
-      "takeaway_korean": "이번 IPO는 AI 성장 가치를 시험한다",
+      "korean_title": "이스라엘 총선, 과반이 안 보인다",
+      "english_title": "Israel Votes, but No Coalition Looks Secure",
+      "korean_desc": "이스라엘은 2026년 10월 27일 총선을 열었다. 유권자는 120석 정당 명부에 투표한다. 여론조사는 야샤르가 앞서도 과반은 불확실하다고 본다.",
+      "english_desc": "Israel held parliamentary elections on October 27, 2026, after three years of war. Voters choose party lists, not individual lawmakers, for 120 Knesset seats. Polls show Eisenkot's Yashar leading, but neither bloc is assured of 61 seats.",
+      "hook": "Israel votes as neither bloc has a clear majority.",
+      "sticker": "이스라엘의 선택",
+      "korean_hook": "이스라엘, 어느 진영도 과반 불확실",
+      "takeaway_english": "Election night may end the vote, but coalition bargaining will decide power.",
+      "takeaway_korean": "투표는 끝나도 연정 협상이 권력을 결정한다.",
       "why_it_matters": [
         {
-          "english": "The filing shows how expensive advanced AI can be to build and operate.",
-          "korean": "첨단 AI 운영에는 큰돈이 든다"
+          "english": "The result could change Israel's wartime leadership.",
+          "korean": "결과가 전시 지도부를 바꿀 수 있다."
         },
         {
-          "english": "Public investors may soon decide how much Anthropic is worth.",
-          "korean": "공모 투자자가 가치를 정할 수 있다"
+          "english": "Coalition talks will decide who actually governs.",
+          "korean": "연정 협상이 실제 집권자를 결정한다."
         }
       ],
       "parties": [
         {
-          "label": "Anthropic",
-          "english": "It wants to sell Class A shares publicly under ANT.",
-          "korean": "앤트로픽은 ANT로 주식을 판다"
+          "label": "Benjamin Netanyahu",
+          "english": "He seeks another term after wars, criticism, and corruption charges.",
+          "korean": "전쟁과 비판 속 재집권을 노린다."
         },
         {
-          "label": "Customers",
-          "english": "Large business customers helped drive the sharp revenue increase.",
-          "korean": "대형 고객이 매출을 크게 늘렸다"
+          "label": "Gadi Eisenkot",
+          "english": "His centrist Yashar party challenges Netanyahu on security and governance.",
+          "korean": "중도 야샤르당으로 네타냐후에 도전한다."
         },
         {
-          "label": "Ordinary shareholders",
-          "english": "They may have limited influence over company governance.",
-          "korean": "일반 주주는 영향력이 작을 수 있다"
+          "label": "Knesset",
+          "english": "A lawmaker needs support from at least 61 members to govern.",
+          "korean": "정부 구성에는 의원 61명 지지가 필요하다."
         }
       ],
       "views": [
         {
-          "label": "Growth-focused investors",
-          "english": "Rapid sales growth and thousands of large customers make Anthropic look unusually powerful.",
-          "korean": "빠른 매출과 대형 고객은 강점을 보인다"
+          "label": "Netanyahu's supporters",
+          "english": "They say his experience is needed during regional security threats.",
+          "korean": "지역 안보 위협에는 그의 경험이 필요하다고 말한다."
         },
         {
-          "label": "Risk-focused analysts",
-          "english": "Huge computing bills, competition, and the reported loss make the IPO risky.",
-          "korean": "큰 비용과 손실은 IPO를 위험하게 만든다"
+          "label": "Opposition parties",
+          "english": "They say Netanyahu failed to prevent the October 7 attack and manage the war.",
+          "korean": "네타냐후가 공격과 전쟁 대응에 실패했다고 말한다."
         }
       ],
       "disagree": {
-        "english": "Supporters may see current losses as investment in a fast-growing technology market.",
-        "korean": "지지자들은 손실을 성장 투자로 볼 수 있다"
+        "english": "Neither camp is guaranteed enough seats, and the opposition remains divided.",
+        "korean": "어느 진영도 의석을 보장받지 못했고 야권은 분열돼 있다."
       },
-      "reader_question_korean": "큰 손실 기업을 사겠습니까?",
+      "reader_question_korean": "안보와 정부 책임 중 무엇이 더 중요할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "number missing in Korean: 100, 000",
-        "translation check: \"More than 11,900 customers generated at least $100\" may be missing more than"
+        "number missing in Korean: 61",
+        "translation check: \"Voters choose party lists, not individual lawmaker\" may be missing not"
       ],
-      "source_title": "Anthropic files for IPO as revenue jumps 14-fold to $16.3 billion in H1",
+      "source_title": "Israel holds polls amid uncertainty over Netanyahu’s future, coalition numbers",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "two_views",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
-      "serious": false,
+      "format_data": {
+        "views": [
+          {
+            "label": "Netanyahu's camp",
+            "english": "Security threats make Netanyahu the safer choice.",
+            "korean": "안보 위협에는 네타냐후가 더 안전하다."
+          },
+          {
+            "label": "Eisenkot's camp",
+            "english": "Netanyahu failed on October 7 and prolonged the wars.",
+            "korean": "네타냐후는 10월 7일과 전쟁에 실패했다."
+          }
+        ]
+      },
+      "serious": true,
       "caption_lines": [
-        "Filed with the SEC on October 26, 2026.",
-        "The share count and price range remain undecided.",
-        "ANT would trade on Nasdaq."
+        "Election date: October 27, 2026",
+        "The Knesset has 120 seats.",
+        "A government needs 61 supporters."
       ],
-      "reader_question": "Would you buy a fast-growing company with huge losses?",
-      "topic_tag": "Technology",
+      "reader_question": "Should security or government accountability matter more?",
+      "topic_tag": "Election",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Anthropic files for IPO as revenue jumps 14-fold to $16.3 billion in H1",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece"
+          "title": "Israel holds polls amid uncertainty over Netanyahu’s future, coalition numbers",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "앤트로픽은",
-          "roman": "aen-teu-ro-pig-eun",
-          "english": "Anthropic",
+          "korean": "이스라엘은",
+          "roman": "iseurael-eun",
+          "english": "Israel",
           "particle": false,
           "suffix": "은"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
+          "roman": "icheon-isip-yug-nyeon",
           "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "si-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "26일",
-          "roman": "i-sip-yuk-il",
-          "english": "26th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "미국",
-          "roman": "mi-gug",
-          "english": "United States",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "IPO를",
-          "roman": "IPO-reul",
-          "english": "IPO",
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
           "particle": false,
-          "suffix": "를"
+          "suffix": ""
         },
         {
-          "korean": "신청했다",
-          "roman": "sin-cheong-haet-da",
-          "english": "filed",
+          "korean": "27일",
+          "roman": "isipchil-il",
+          "english": "27th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "총선을",
+          "roman": "chongseon-eul",
+          "english": "parliamentary election",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "열었다",
+          "roman": "yeoreotda",
+          "english": "held",
+          "particle": false,
+          "suffix": "었다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Israel held parliamentary elections on October 27, 2026, after three years of war.",
+          "korean": "이스라엘은 2026년 10월 27일 총선을 열었다.",
+          "glossary": [
+            {
+              "korean": "이스라엘은",
+              "roman": "iseurael-eun",
+              "english": "Israel",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "27일",
+              "roman": "isipchil-il",
+              "english": "27th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "총선을",
+              "roman": "chongseon-eul",
+              "english": "parliamentary election",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "열었다",
+              "roman": "yeoreotda",
+              "english": "held",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Voters choose party lists, not individual lawmakers, for 120 Knesset seats.",
+          "korean": "유권자는 120석 정당 명부에 투표한다.",
+          "glossary": [
+            {
+              "korean": "유권자는",
+              "roman": "yugwonja-neun",
+              "english": "voters",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "120석",
+              "roman": "baeg-isip-seok",
+              "english": "120 seats",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정당",
+              "roman": "jeongdang",
+              "english": "party",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명부에",
+              "roman": "myeongbu-e",
+              "english": "list",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "투표한다",
+              "roman": "tupyo-handa",
+              "english": "vote",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Polls show Eisenkot's Yashar leading, but neither bloc is assured of 61 seats.",
+          "korean": "여론조사는 야샤르가 앞서도 과반은 불확실하다고 본다.",
+          "glossary": [
+            {
+              "korean": "여론조사는",
+              "roman": "yeollonjosa-neun",
+              "english": "polls",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "야샤르가",
+              "roman": "yashara-ga",
+              "english": "Yashar",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "앞서도",
+              "roman": "apseodo",
+              "english": "even if leading",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "과반은",
+              "roman": "gwaban-eun",
+              "english": "majority",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "불확실하다고",
+              "roman": "bulhwaksilhago",
+              "english": "uncertain",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "본다",
+              "roman": "bonda",
+              "english": "consider",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/israel-holds-polls-amid-uncertainty-over-netanyahus-future-coalition-numbers/article71629859.ece",
+      "short_english": "Israel held parliamentary elections on October 27, 2026, after three years of war.",
+      "short_korean": "이스라엘은 2026년 10월 27일 총선을 열었다.",
+      "date": "2026-10-27",
+      "images": [
+        "images/global/aa2248164aa0/1.jpg",
+        "images/global/aa2248164aa0/2.jpg",
+        "images/global/aa2248164aa0/3.jpg",
+        "images/global/aa2248164aa0/4.jpg",
+        "images/global/aa2248164aa0/5.jpg",
+        "images/global/aa2248164aa0/6.jpg",
+        "images/global/aa2248164aa0/7.jpg",
+        "images/global/aa2248164aa0/8.jpg",
+        "images/global/aa2248164aa0/9.jpg",
+        "images/global/aa2248164aa0/10.jpg",
+        "images/global/aa2248164aa0/11.jpg",
+        "images/global/aa2248164aa0/12.jpg",
+        "images/global/aa2248164aa0/13.jpg",
+        "images/global/aa2248164aa0/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/aa2248164aa0/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "룰라 승리, 보우소나루당은 인정",
+      "english_title": "Lula Wins, While Bolsonaro’s Party Accepts the Result",
+      "korean_desc": "룰라가 10월 25일 브라질 결선에서 승리했다. 그는 경쟁자보다 약 440만 표를 더 얻었다. 10월 26일 자유당은 공식 결과를 인정했다.",
+      "english_desc": "Lula defeated Flávio Bolsonaro in Brazil's October 25 runoff. He won about 4.4 million more votes than his rival. On October 26, the Liberal Party recognised the official result.",
+      "hook": "Lula won; Bolsonaro’s party accepted the result.",
+      "sticker": "브라질의 극적인 반전",
+      "korean_hook": "룰라는 승리했고 당은 결과를 인정했다",
+      "takeaway_english": "Lula returns to office, but Brazil's political fight is far from settled.",
+      "takeaway_korean": "룰라는 돌아왔지만 브라질의 정치 갈등은 끝나지 않았다.",
+      "why_it_matters": [
+        {
+          "english": "The split could shape Brazil's opposition after the election.",
+          "korean": "분열이 선거 뒤 브라질 야권을 바꿀 수 있다."
+        },
+        {
+          "english": "Markets fell sharply as investors worried about fiscal policy.",
+          "korean": "재정 정책 우려로 시장이 크게 떨어졌다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Luiz Inácio Lula da Silva",
+          "english": "He won a fourth presidential term after trailing in the first round.",
+          "korean": "1차 투표 열세를 뒤집고 네 번째 임기를 얻었다."
+        },
+        {
+          "label": "Flávio Bolsonaro",
+          "english": "He questioned extended voting hours and continued challenging the result.",
+          "korean": "투표 연장에 이의를 제기하고 결과에 계속 도전했다."
+        },
+        {
+          "label": "Liberal Party",
+          "english": "It accepted the official result while asking for further debate about concerns.",
+          "korean": "우려에 대한 논의를 요구하며 공식 결과를 인정했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Lula supporters",
+          "english": "They say voter mobilisation defended democracy and produced a historic comeback.",
+          "korean": "유권자 결집이 민주주의를 지켰다고 말한다."
+        },
+        {
+          "label": "Flávio Bolsonaro",
+          "english": "He says extended voting was unacceptable and politically manipulated.",
+          "korean": "투표 연장이 부당한 정치적 조작이었다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Brazil's electoral court said the extension caused no changes to the result.",
+        "korean": "브라질 선거법원은 연장이 결과를 바꾸지 않았다고 말했다."
+      },
+      "reader_question_korean": "후보가 거부해도 당은 결과를 인정해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Bolsonaro’s party says it recognises Lula’s election win in Brazil",
+      "hook_format": "headline",
+      "body_format": "timeline",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "steps": [
+          {
+            "label": "",
+            "english": "October 25: Lula won the runoff by about 4.4 million votes.",
+            "korean": "10월 25일 룰라가 약 440만 표로 이겼다."
+          },
+          {
+            "label": "",
+            "english": "October 26: Flávio Bolsonaro's party recognised the official result.",
+            "korean": "10월 26일 보우소나루당이 공식 결과를 인정했다."
+          },
+          {
+            "label": "",
+            "english": "Afterward: Flávio Bolsonaro still called for an annulment.",
+            "korean": "그 뒤에도 플라비우는 무효화를 요구했다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Runoff date: October 25, 2026",
+        "Lula turns 81 on October 27.",
+        "Brazil's abstention rate fell from 21% to 19%."
+      ],
+      "reader_question": "Should a party accept results while its candidate rejects them?",
+      "topic_tag": "Election",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Bolsonaro’s party says it recognises Lula’s election win in Brazil",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "룰라가",
+          "roman": "rulla-ga",
+          "english": "Lula",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "25일",
+          "roman": "isip-o-il",
+          "english": "25th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "브라질",
+          "roman": "beurajil",
+          "english": "Brazil",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "결선에서",
+          "roman": "gyeolseon-eseo",
+          "english": "in runoff",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "승리했다",
+          "roman": "seungnihaetda",
+          "english": "won",
           "particle": false,
           "suffix": "했다"
         }
@@ -144,305 +461,346 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "Anthropic filed for a U.S. IPO on October 26, 2026.",
-          "korean": "앤트로픽은 2026년 10월 26일 미국 IPO를 신청했다",
+          "english": "Lula defeated Flávio Bolsonaro in Brazil's October 25 runoff.",
+          "korean": "룰라가 10월 25일 브라질 결선에서 승리했다.",
           "glossary": [
             {
-              "korean": "앤트로픽은",
-              "roman": "aen-teu-ro-pig-eun",
-              "english": "Anthropic",
+              "korean": "룰라가",
+              "roman": "rulla-ga",
+              "english": "Lula",
               "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
+              "suffix": "가"
             },
             {
               "korean": "10월",
-              "roman": "si-wol",
+              "roman": "sip-wol",
               "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "26일",
-              "roman": "i-sip-yuk-il",
-              "english": "26th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "미국",
-              "roman": "mi-gug",
-              "english": "United States",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "IPO를",
-              "roman": "IPO-reul",
-              "english": "IPO",
+              "korean": "25일",
+              "roman": "isip-o-il",
+              "english": "25th",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "신청했다",
-              "roman": "sin-cheong-haet-da",
-              "english": "filed",
+              "korean": "브라질",
+              "roman": "beurajil",
+              "english": "Brazil",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결선에서",
+              "roman": "gyeolseon-eseo",
+              "english": "in runoff",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "승리했다",
+              "roman": "seungnihaetda",
+              "english": "won",
               "particle": false,
               "suffix": "했다"
             }
           ]
         },
         {
-          "stage": "why",
-          "english": "Its first-half revenue reached $16.3 billion, up from $1.16 billion.",
-          "korean": "상반기 매출은 163억 달러였다",
+          "stage": "how",
+          "english": "He won about 4.4 million more votes than his rival.",
+          "korean": "그는 경쟁자보다 약 440만 표를 더 얻었다.",
           "glossary": [
             {
-              "korean": "상반기",
-              "roman": "sang-ban-gi",
-              "english": "first half",
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "경쟁자보다",
+              "roman": "gyeongja-boda",
+              "english": "than rival",
+              "particle": false,
+              "suffix": "보다"
+            },
+            {
+              "korean": "약",
+              "roman": "yak",
+              "english": "about",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "매출은",
-              "roman": "mae-chul-eun",
-              "english": "revenue",
+              "korean": "440만",
+              "roman": "sa-baek-sasim-man",
+              "english": "4.4 million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "표를",
+              "roman": "pyo-reul",
+              "english": "votes",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "더",
+              "roman": "deo",
+              "english": "more",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "얻었다",
+              "roman": "eodeotda",
+              "english": "got",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On October 26, the Liberal Party recognised the official result.",
+          "korean": "10월 26일 자유당은 공식 결과를 인정했다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "26일",
+              "roman": "isip-yug-il",
+              "english": "26th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자유당은",
+              "roman": "jayudang-eun",
+              "english": "Liberal Party",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "163억",
-              "roman": "baek-yuk-sip-sam-eog",
-              "english": "16.3 billion",
-              "particle": false,
-              "suffix": "억"
-            },
-            {
-              "korean": "달러였다",
-              "roman": "dal-leo-yeot-da",
-              "english": "was dollars",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Regulators and market conditions will decide the IPO timing and terms.",
-          "korean": "규제기관과 시장이 IPO 시기와 조건을 정한다",
-          "glossary": [
-            {
-              "korean": "규제기관과",
-              "roman": "gyu-je-gi-gwan-gwa",
-              "english": "regulators and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "시장이",
-              "roman": "si-jang-i",
-              "english": "market",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "IPO",
-              "roman": "IPO",
-              "english": "IPO",
+              "korean": "공식",
+              "roman": "gongsik",
+              "english": "official",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "시기와",
-              "roman": "si-gi-wa",
-              "english": "timing and",
+              "korean": "결과를",
+              "roman": "gyeolgwa-reul",
+              "english": "result",
               "particle": false,
-              "suffix": "와"
+              "suffix": "를"
             },
             {
-              "korean": "조건을",
-              "roman": "jo-geon-eul",
-              "english": "terms",
+              "korean": "인정했다",
+              "roman": "injeonghaetda",
+              "english": "recognised",
               "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "정한다",
-              "roman": "jeong-han-da",
-              "english": "decide",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "했다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/artificial-intelligence-giant-anthropic-files-papers-to-sell-shares-to-the-public-for-the-first-time/article71627679.ece",
-      "short_english": "Anthropic filed for a U.S. IPO on October 26, 2026.",
-      "short_korean": "앤트로픽은 2026년 10월 26일 미국 IPO를 신청했다",
+      "url": "https://www.thehindu.com/news/international/bolsonaros-party-says-it-recognises-lulas-election-win-in-brazil/article71629613.ece",
+      "short_english": "Lula defeated Flávio Bolsonaro in Brazil's October 25 runoff.",
+      "short_korean": "룰라가 10월 25일 브라질 결선에서 승리했다.",
       "date": "2026-10-27",
       "images": [
-        "images/global/80e7ca6c9772/1.jpg",
-        "images/global/80e7ca6c9772/2.jpg",
-        "images/global/80e7ca6c9772/3.jpg",
-        "images/global/80e7ca6c9772/4.jpg",
-        "images/global/80e7ca6c9772/5.jpg",
-        "images/global/80e7ca6c9772/6.jpg",
-        "images/global/80e7ca6c9772/7.jpg",
-        "images/global/80e7ca6c9772/8.jpg",
-        "images/global/80e7ca6c9772/9.jpg",
-        "images/global/80e7ca6c9772/10.jpg",
-        "images/global/80e7ca6c9772/11.jpg",
-        "images/global/80e7ca6c9772/12.jpg",
-        "images/global/80e7ca6c9772/13.jpg",
-        "images/global/80e7ca6c9772/14.jpg"
+        "images/global/e3bd0a412596/1.jpg",
+        "images/global/e3bd0a412596/2.jpg",
+        "images/global/e3bd0a412596/3.jpg",
+        "images/global/e3bd0a412596/4.jpg",
+        "images/global/e3bd0a412596/5.jpg",
+        "images/global/e3bd0a412596/6.jpg",
+        "images/global/e3bd0a412596/7.jpg",
+        "images/global/e3bd0a412596/8.jpg",
+        "images/global/e3bd0a412596/9.jpg",
+        "images/global/e3bd0a412596/10.jpg",
+        "images/global/e3bd0a412596/11.jpg",
+        "images/global/e3bd0a412596/12.jpg",
+        "images/global/e3bd0a412596/13.jpg",
+        "images/global/e3bd0a412596/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/80e7ca6c9772/caption.txt"
+      "caption_file": "images/global/e3bd0a412596/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "러시아, 우크라이나 국지 휴전 허용",
-      "english_title": "Russia Accepts Local Truces, Not a Wider Ukraine Ceasefire",
-      "korean_desc": "러시아는 2026년 10월 26일 우크라이나 공격을 계속한다고 말했다 크렘린은 전선에서 짧은 인도적 휴전이 가능하다고 말했다 러시아는 회담이 군사 작전을 제한하지 않는다고 말했다 양측은 2026년 11월 미국 중재 회담을 준비한다",
-      "english_desc": "Russia said on October 26, 2026, that Ukraine attacks would continue. The Kremlin said short humanitarian pauses could happen along the front. Russia also said talks would not restrict military operations. The sides are preparing U.S.-mediated talks for November 2026.",
-      "hook": "Russia may allow local truces but will continue fighting.",
-      "sticker": "What the pause means",
-      "korean_hook": "러시아는 국지 휴전만 허용한다",
-      "takeaway_english": "The next talks face the same gap: Russia wants concessions, while Ukraine wants security.",
-      "takeaway_korean": "다음 회담도 영토와 안전 문제로 막힐 수 있다",
+      "korean_title": "캐나다 협상에 다가오는 미국",
+      "english_title": "Trump Moves Closer to Canada Before Midterms",
+      "korean_desc": "마크 카니는 2026년 10월 26일 무역 협상이 조금 나아졌다고 말했다. 캐나다가 조건을 거절하자 미국은 50% 관세를 부과했다. 10월 23일 트럼프는 일부 관세를 풀었지만 최종 합의는 없었다.",
+      "english_desc": "Mark Carney said U.S.-Canada trade talks slightly intensified on October 26, 2026. The United States imposed 50% tariffs after Canada rejected earlier terms. On October 23, Trump lifted some tariffs, but no final deal existed.",
+      "hook": "Canada says Washington is moving toward its position.",
+      "sticker": "관세 협상의 줄다리기",
+      "korean_hook": "캐나다는 미국이 다가온다고 말했다",
+      "takeaway_english": "The talks are warmer, but the tariff fight still has political and economic costs.",
+      "takeaway_korean": "협상은 부드러워졌지만 관세 갈등의 비용은 남아 있다.",
       "why_it_matters": [
         {
-          "english": "Strikes on energy sites could leave millions without heating or electricity.",
-          "korean": "에너지 공격은 난방과 전기를 끊을 수 있다"
+          "english": "Tariffs affect farmers, businesses, manufacturers, and shoppers.",
+          "korean": "관세는 농민과 기업, 제조업체와 소비자에게 영향을 준다."
         },
         {
-          "english": "A local pause may offer relief without ending the conflict.",
-          "korean": "국지 휴전은 전쟁 없이도 잠시 돕는다"
+          "english": "The United States buys millions of barrels of Canadian oil daily.",
+          "korean": "미국은 매일 캐나다산 석유 수백만 배럴을 산다."
         }
       ],
       "parties": [
         {
-          "label": "Russia",
-          "english": "It says humanitarian pauses are possible, but military operations continue.",
-          "korean": "러시아는 인도적 휴전을 허용할 수 있다"
+          "label": "Mark Carney",
+          "english": "He says Canada's negotiating position has not changed.",
+          "korean": "캐나다의 협상 입장은 변하지 않았다고 말한다."
         },
         {
-          "label": "Ukraine",
-          "english": "It faces continued strikes and rejects demands seen as capitulation.",
-          "korean": "우크라이나는 계속 공격받고 항복 요구를 거부한다"
+          "label": "Donald Trump",
+          "english": "He lifted some tariffs while demanding better terms from Canada.",
+          "korean": "일부 관세를 풀면서 캐나다에 더 나은 조건을 요구했다."
         },
         {
-          "label": "United States",
-          "english": "U.S. mediation is expected at talks next month.",
-          "korean": "미국은 다음 달 회담을 중재한다"
+          "label": "U.S. Republicans",
+          "english": "Some candidates want tariff relief before closely watched midterm races.",
+          "korean": "일부 후보는 중간선거 전에 관세 완화를 원한다."
         }
       ],
       "views": [
         {
-          "label": "Kremlin",
-          "english": "Local humanitarian truces can protect civilians without limiting the wider offensive.",
-          "korean": "국지 인도적 휴전은 전쟁을 제한하지 않는다"
+          "label": "Canadian government",
+          "english": "Canada says progress depends on Washington accepting Canadian red lines.",
+          "korean": "진전은 미국이 캐나다의 금지선을 받아들이는 데 달렸다고 말한다."
         },
         {
-          "label": "Ukraine and allies",
-          "english": "Russia's territorial and military demands would leave Ukraine vulnerable.",
-          "korean": "러시아 요구는 우크라이나를 약하게 만든다"
+          "label": "Trump administration",
+          "english": "Washington says tariffs can pressure Canada toward a broader agreement.",
+          "korean": "관세가 캐나다를 더 큰 합의로 압박할 수 있다고 본다."
         }
       ],
       "disagree": {
-        "english": "Critics may say a local pause means little while attacks continue elsewhere.",
-        "korean": "비판자들은 국지 휴전이 부족하다고 말할 수 있다"
+        "english": "Businesses and voters may see the tariff fight as costly and unpredictable.",
+        "korean": "기업과 유권자는 관세 갈등을 비싸고 불안정하게 볼 수 있다."
       },
-      "reader_question_korean": "전쟁 중 국지 휴전이 도움이 될까요?",
+      "reader_question_korean": "선거가 무역 협상에 영향을 줘야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Russia says open to mini Ukraine ceasefires, but no letup in war",
+      "source_title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "two_views",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
-      "serious": true,
+      "format_data": {
+        "views": [
+          {
+            "label": "Canada",
+            "english": "Talks improve only because Washington is moving closer to Canadian demands.",
+            "korean": "미국이 캐나다 요구에 가까워져 협상이 나아진다."
+          },
+          {
+            "label": "Trump administration",
+            "english": "A deal may come soon, but tariffs remain a negotiating tool.",
+            "korean": "합의가 곧 올 수 있지만 관세는 협상 수단이다."
+          }
+        ]
+      },
+      "serious": false,
       "caption_lines": [
-        "Update: October 26, 2026.",
-        "A local ceasefire in 올레시키 was due to begin October 27.",
-        "The wider war remains active."
+        "The U.S. midterms are eight days away.",
+        "Trump imposed 50% tariffs on roughly $20 billion in Canadian goods.",
+        "Carney will host EU leaders in Montreal."
       ],
-      "reader_question": "Can local truces help people while the wider war continues?",
-      "topic_tag": "Ceasefire",
+      "reader_question": "Should elections influence trade negotiations?",
+      "topic_tag": "Trade",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Russia says open to mini Ukraine ceasefires, but no letup in war",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece"
+          "title": "Carney says Trump moving closer to Canada's trade demands as midterms loom",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/international/carney-says-trump-moving-closer-to-canadas-trade-demands-as-midterms-loom/article71629789.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "러시아는",
-          "roman": "reo-si-a-neun",
-          "english": "Russia",
+          "korean": "마크",
+          "roman": "makeu",
+          "english": "Mark",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "카니는",
+          "roman": "kani-neun",
+          "english": "Carney",
           "particle": false,
           "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
+          "roman": "icheon-isip-yug-nyeon",
           "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "si-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "26일",
-          "roman": "i-sip-yuk-il",
-          "english": "26th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "우크라이나",
-          "roman": "u-keu-ra-i-na",
-          "english": "Ukraine",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "공격을",
-          "roman": "gong-gyeog-eul",
-          "english": "attacks",
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
           "particle": false,
-          "suffix": "을"
+          "suffix": ""
         },
         {
-          "korean": "계속한다고",
-          "roman": "gye-sok-han-da-go",
-          "english": "will continue",
+          "korean": "26일",
+          "roman": "isip-yug-il",
+          "english": "26th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "무역",
+          "roman": "muyeok",
+          "english": "trade",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "협상이",
+          "roman": "hyeopsang-i",
+          "english": "talks",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "조금",
+          "roman": "jogeum",
+          "english": "slightly",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "나아졌다고",
+          "roman": "naajyeotdago",
+          "english": "improved",
           "particle": false,
           "suffix": "다고"
         },
         {
           "korean": "말했다",
-          "roman": "mal-haet-da",
+          "roman": "malhaetda",
           "english": "said",
           "particle": false,
           "suffix": "했다"
@@ -451,174 +809,125 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "Russia said on October 26, 2026, that Ukraine attacks would continue.",
-          "korean": "러시아는 2026년 10월 26일 우크라이나 공격을 계속한다고 말했다",
+          "english": "Mark Carney said U.S.-Canada trade talks slightly intensified on October 26, 2026.",
+          "korean": "마크 카니는 2026년 10월 26일 무역 협상이 조금 나아졌다고 말했다.",
           "glossary": [
             {
-              "korean": "러시아는",
-              "roman": "reo-si-a-neun",
-              "english": "Russia",
+              "korean": "마크",
+              "roman": "makeu",
+              "english": "Mark",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "카니는",
+              "roman": "kani-neun",
+              "english": "Carney",
               "particle": false,
               "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "roman": "icheon-isip-yug-nyeon",
               "english": "year 2026",
               "particle": false,
-              "suffix": "년"
+              "suffix": ""
             },
             {
               "korean": "10월",
-              "roman": "si-wol",
+              "roman": "sip-wol",
               "english": "October",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
               "korean": "26일",
-              "roman": "i-sip-yuk-il",
-              "english": "26th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "우크라이나",
-              "roman": "u-keu-ra-i-na",
-              "english": "Ukraine",
+              "roman": "isip-yug-il",
+              "english": "26th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "공격을",
-              "roman": "gong-gyeog-eul",
-              "english": "attacks",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "계속한다고",
-              "roman": "gye-sok-han-da-go",
-              "english": "will continue",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The Kremlin said short humanitarian pauses could happen along the front.",
-          "korean": "크렘린은 전선에서 짧은 인도적 휴전이 가능하다고 말했다",
-          "glossary": [
-            {
-              "korean": "크렘린은",
-              "roman": "keu-rem-lin-eun",
-              "english": "Kremlin",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "전선에서",
-              "roman": "jeon-seon-e-seo",
-              "english": "at the front",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "짧은",
-              "roman": "jjal-beun",
-              "english": "short",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "인도적",
-              "roman": "in-do-jeog",
-              "english": "humanitarian",
+              "korean": "무역",
+              "roman": "muyeok",
+              "english": "trade",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "휴전이",
-              "roman": "hyu-jeon-i",
-              "english": "ceasefire",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "가능하다고",
-              "roman": "ga-neung-ha-da-go",
-              "english": "is possible",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Russia also said talks would not restrict military operations.",
-          "korean": "러시아는 회담이 군사 작전을 제한하지 않는다고 말했다",
-          "glossary": [
-            {
-              "korean": "러시아는",
-              "roman": "reo-si-a-neun",
-              "english": "Russia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "회담이",
-              "roman": "hoe-dam-i",
+              "korean": "협상이",
+              "roman": "hyeopsang-i",
               "english": "talks",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "군사",
-              "roman": "gun-sa",
-              "english": "military",
+              "korean": "조금",
+              "roman": "jogeum",
+              "english": "slightly",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "작전을",
-              "roman": "jak-jeon-eul",
-              "english": "operations",
+              "korean": "나아졌다고",
+              "roman": "naajyeotdago",
+              "english": "improved",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The United States imposed 50% tariffs after Canada rejected earlier terms.",
+          "korean": "캐나다가 조건을 거절하자 미국은 50% 관세를 부과했다.",
+          "glossary": [
+            {
+              "korean": "캐나다가",
+              "roman": "kaenada-ga",
+              "english": "Canada",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "조건을",
+              "roman": "jogeon-eul",
+              "english": "terms",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "제한하지",
-              "roman": "je-han-ha-ji",
-              "english": "restrict",
+              "korean": "거절하자",
+              "roman": "geojeolhaja",
+              "english": "after rejecting",
               "particle": false,
-              "suffix": "지"
+              "suffix": "자"
             },
             {
-              "korean": "않는다고",
-              "roman": "an-neun-da-go",
-              "english": "does not",
+              "korean": "미국은",
+              "roman": "miguk-eun",
+              "english": "United States",
               "particle": false,
-              "suffix": "는다고"
+              "suffix": "은"
             },
             {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
+              "korean": "관세를",
+              "roman": "gwanse-reul",
+              "english": "tariffs",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "부과했다",
+              "roman": "bugwah aetda",
+              "english": "imposed",
               "particle": false,
               "suffix": "했다"
             }
@@ -626,146 +935,161 @@
         },
         {
           "stage": "now",
-          "english": "The sides are preparing U.S.-mediated talks for November 2026.",
-          "korean": "양측은 2026년 11월 미국 중재 회담을 준비한다",
+          "english": "On October 23, Trump lifted some tariffs, but no final deal existed.",
+          "korean": "10월 23일 트럼프는 일부 관세를 풀었지만 최종 합의는 없었다.",
           "glossary": [
             {
-              "korean": "양측은",
-              "roman": "yang-cheug-eun",
-              "english": "both sides",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "미국",
-              "roman": "mi-gug",
-              "english": "United States",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "중재",
-              "roman": "jung-jae",
-              "english": "mediation",
+              "korean": "23일",
+              "roman": "isip-sam-il",
+              "english": "23rd",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "회담을",
-              "roman": "hoe-dam-eul",
-              "english": "talks",
+              "korean": "트럼프는",
+              "roman": "teureompeu-neun",
+              "english": "Trump",
               "particle": false,
-              "suffix": "을"
+              "suffix": "는"
             },
             {
-              "korean": "준비한다",
-              "roman": "jun-bi-han-da",
-              "english": "prepare",
+              "korean": "일부",
+              "roman": "ilbu",
+              "english": "some",
               "particle": false,
-              "suffix": "한다"
+              "suffix": ""
+            },
+            {
+              "korean": "관세를",
+              "roman": "gwanse-reul",
+              "english": "tariffs",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "풀었지만",
+              "roman": "pureotjiman",
+              "english": "lifted but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "최종",
+              "roman": "choejong",
+              "english": "final",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "합의는",
+              "roman": "habui-neun",
+              "english": "agreement",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "없었다",
+              "roman": "eopseotda",
+              "english": "did not exist",
+              "particle": false,
+              "suffix": "었다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/russia-says-open-to-mini-ukraine-ceasefires-but-no-let-up-in-war/article71628518.ece",
-      "short_english": "Russia said on October 26, 2026, that Ukraine attacks would continue.",
-      "short_korean": "러시아는 2026년 10월 26일 우크라이나 공격을 계속한다고 말했다",
+      "url": "https://www.thehindu.com/news/international/carney-says-trump-moving-closer-to-canadas-trade-demands-as-midterms-loom/article71629789.ece",
+      "short_english": "Mark Carney said U.S.-Canada trade talks slightly intensified on October 26, 2026.",
+      "short_korean": "마크 카니는 2026년 10월 26일 무역 협상이 조금 나아졌다고 말했다.",
       "date": "2026-10-27",
       "images": [
-        "images/global/5944921c61a8/1.jpg",
-        "images/global/5944921c61a8/2.jpg",
-        "images/global/5944921c61a8/3.jpg",
-        "images/global/5944921c61a8/4.jpg",
-        "images/global/5944921c61a8/5.jpg",
-        "images/global/5944921c61a8/6.jpg",
-        "images/global/5944921c61a8/7.jpg",
-        "images/global/5944921c61a8/8.jpg",
-        "images/global/5944921c61a8/9.jpg",
-        "images/global/5944921c61a8/10.jpg",
-        "images/global/5944921c61a8/11.jpg",
-        "images/global/5944921c61a8/12.jpg",
-        "images/global/5944921c61a8/13.jpg",
-        "images/global/5944921c61a8/14.jpg",
-        "images/global/5944921c61a8/15.jpg"
+        "images/global/970b09bb9abf/1.jpg",
+        "images/global/970b09bb9abf/2.jpg",
+        "images/global/970b09bb9abf/3.jpg",
+        "images/global/970b09bb9abf/4.jpg",
+        "images/global/970b09bb9abf/5.jpg",
+        "images/global/970b09bb9abf/6.jpg",
+        "images/global/970b09bb9abf/7.jpg",
+        "images/global/970b09bb9abf/8.jpg",
+        "images/global/970b09bb9abf/9.jpg",
+        "images/global/970b09bb9abf/10.jpg",
+        "images/global/970b09bb9abf/11.jpg",
+        "images/global/970b09bb9abf/12.jpg",
+        "images/global/970b09bb9abf/13.jpg",
+        "images/global/970b09bb9abf/14.jpg",
+        "images/global/970b09bb9abf/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/5944921c61a8/caption.txt"
+      "caption_file": "images/global/970b09bb9abf/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "수단 발전소 5곳 드론 공격",
-      "english_title": "Five Sudanese Power Stations Hit, Causing Widespread Outages",
-      "korean_desc": "RSF 드론은 2026년 10월 26일 수단 발전소 5곳을 공격했다 공격은 알자지라와 게다레프와 백나일주 전기를 끊었다 주민들은 인슐린과 음식과 관개와 상점을 걱정했다 유엔은 전력 공격이 수백만 명의 보건을 위협한다고 말했다",
-      "english_desc": "RSF drones struck five Sudanese power stations on October 26, 2026. The attacks cut electricity across Al-Jazira, Gedaref, and White Nile states. Residents said outages threatened insulin, food stocks, irrigation, and shops. The United Nations says power attacks threaten health services for millions.",
-      "hook": "RSF drone strikes cut power across eastern Sudan.",
-      "sticker": "Power cut, lives at risk",
-      "korean_hook": "RSF 드론이 수단 전력을 끊었다",
-      "takeaway_english": "In Sudan's war, attacking electricity can quickly become a health and food crisis.",
-      "takeaway_korean": "수단 전쟁에서 정전은 곧 보건과 식량 위기다",
+      "korean_title": "올레시키에 임시 휴전 시작",
+      "english_title": "A Narrow Truce Opens a Humanitarian Route in Oleshky",
+      "korean_desc": "휴전은 구호품 전달과 주민 대피를 돕는다. 10월 27일 키이우 공격이 보고됐고 감시자는 정해지지 않았다.",
+      "english_desc": "The pause aims to bring aid and help civilians leave the city. On October 27, missile attacks were reported toward Kyiv, and monitors were not named.",
+      "hook": "A local truce began in Russian-occupied Oleshky.",
+      "sticker": "민간인을 위한 휴전",
+      "korean_hook": "러시아 점령 올레시키에 휴전이 시작됐다",
+      "takeaway_english": "The pause is limited, and its success depends on safe access to civilians.",
+      "takeaway_korean": "휴전은 제한적이며 민간인 접근이 성공의 열쇠다.",
       "why_it_matters": [
         {
-          "english": "Insulin and other medicines may spoil without refrigeration.",
-          "korean": "냉장고가 없으면 인슐린이 상할 수 있다"
+          "english": "Remaining residents reportedly lack food, medicine, and safe passage.",
+          "korean": "남은 주민들은 식량과 약, 안전한 통로가 부족하다."
         },
         {
-          "english": "Power loss can damage farms, shops, hospitals, and basic services.",
-          "korean": "정전은 농장과 병원과 상점을 해친다"
+          "english": "A local pause may create a route for evacuation and aid.",
+          "korean": "지역 휴전이 대피와 구호 통로를 만들 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "RSF",
-          "english": "The paramilitary force was blamed for coordinated drone attacks.",
-          "korean": "RSF는 조직적인 드론 공격을 받았다"
+          "label": "Residents of Oleshky",
+          "english": "They need food, medicine, and possible evacuation from the occupied city.",
+          "korean": "점령 도시에서 식량과 약, 대피가 필요하다."
         },
         {
-          "label": "Sudanese residents",
-          "english": "They lost electricity needed for medicine, food, and work.",
-          "korean": "수단 주민은 약과 음식에 전기가 필요하다"
+          "label": "Ukraine",
+          "english": "It says it is observing the ceasefire and preparing humanitarian assistance.",
+          "korean": "휴전을 지키며 인도적 지원을 준비한다고 말한다."
         },
         {
-          "label": "Sudanese army",
-          "english": "It controls the affected states and has fought RSF since April 2023.",
-          "korean": "수단군은 피해 지역을 통제한다"
+          "label": "Russia",
+          "english": "It says its forces stopped fire in the Kherson sector.",
+          "korean": "헤르손 지역에서 사격을 멈췄다고 말한다."
         }
       ],
       "views": [
         {
-          "label": "Sudanese officials",
-          "english": "The strikes damaged civilian infrastructure across three army-controlled states.",
-          "korean": "공격은 세 군 통제 주의 시설을 파괴했다"
+          "label": "Ukraine",
+          "english": "The pause should permit aid deliveries, road clearance, and civilian evacuations.",
+          "korean": "휴전이 구호품 전달과 도로 정리, 민간인 대피를 허용해야 한다고 본다."
         },
         {
-          "label": "Humanitarian groups",
-          "english": "Power attacks threaten hospitals, medicine storage, food systems, and millions of people.",
-          "korean": "전력 공격은 병원과 수백만 명을 위협한다"
+          "label": "Russia",
+          "english": "Russia says most residents wanting to leave already departed voluntarily.",
+          "korean": "떠나려던 주민 대부분은 자발적으로 떠났다고 말한다."
         }
       ],
       "disagree": {
-        "english": "The available accounts identify the RSF but provide limited independent detail about the attack's full damage.",
-        "korean": "공개 자료는 RSF를 지목하지만 피해를 모두 확인하지 못했다"
+        "english": "The truce's length, monitors, and humanitarian operation remain unclear.",
+        "korean": "휴전 기간과 감시자, 구호 작전은 아직 불분명하다."
       },
-      "reader_question_korean": "전기가 끊기면 어떤 서비스가 가장 약해질까요?",
+      "reader_question_korean": "인도적 휴전은 무엇을 먼저 보장해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "translation check: \"The pause aims to bring aid and help civilians lea\" may be missing cities"
       ],
-      "source_title": "Mass outages in Sudan after RSF drones hit five power stations",
+      "source_title": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -775,399 +1099,261 @@
       "format_data": {},
       "serious": true,
       "caption_lines": [
-        "Update: October 26, 2026.",
-        "The war between the army and RSF began in April 2023.",
-        "Power was reported out from 2 a.m. in parts of Al-Jazira and Gedaref."
+        "Oleshky is in Ukraine's Kherson region.",
+        "The city's population fell from about 24,000 to around 2,000.",
+        "The truce's end date was not announced."
       ],
-      "reader_question": "What services become most fragile when electricity disappears?",
-      "topic_tag": "Sudan",
+      "reader_question": "What should a humanitarian truce guarantee first?",
+      "topic_tag": "Truce",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Mass outages in Sudan after RSF drones hit five power stations",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/mass-outages-in-sudan-after-rsf-drones-hit-five-power-stations/article71628515.ece"
+          "title": "U.S.-brokered truce begins in Ukraine city occupied by Russia",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "RSF",
-          "roman": "RSF",
-          "english": "RSF",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "드론은",
-          "roman": "deu-ron-eun",
-          "english": "drones",
+          "korean": "휴전은",
+          "roman": "hyujeon-eun",
+          "english": "the truce",
           "particle": false,
           "suffix": "은"
         },
         {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "si-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "26일",
-          "roman": "i-sip-yuk-il",
-          "english": "26th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "수단",
-          "roman": "su-dan",
-          "english": "Sudan",
+          "korean": "구호품",
+          "roman": "guhopum",
+          "english": "aid supplies",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "발전소",
-          "roman": "bal-jeon-so",
-          "english": "power stations",
+          "korean": "전달과",
+          "roman": "jeondal-gwa",
+          "english": "delivery and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "주민",
+          "roman": "jumin",
+          "english": "residents",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "5곳을",
-          "roman": "da-seot-got-eul",
-          "english": "five places",
+          "korean": "대피를",
+          "roman": "daepi-reul",
+          "english": "evacuation",
           "particle": false,
-          "suffix": "을"
+          "suffix": "를"
         },
         {
-          "korean": "공격했다",
-          "roman": "gong-gyeog-haet-da",
-          "english": "struck",
+          "korean": "돕는다",
+          "roman": "domneunda",
+          "english": "helps",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "는다"
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "RSF drones struck five Sudanese power stations on October 26, 2026.",
-          "korean": "RSF 드론은 2026년 10월 26일 수단 발전소 5곳을 공격했다",
-          "glossary": [
-            {
-              "korean": "RSF",
-              "roman": "RSF",
-              "english": "RSF",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "드론은",
-              "roman": "deu-ron-eun",
-              "english": "drones",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "si-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "26일",
-              "roman": "i-sip-yuk-il",
-              "english": "26th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "수단",
-              "roman": "su-dan",
-              "english": "Sudan",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "발전소",
-              "roman": "bal-jeon-so",
-              "english": "power stations",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5곳을",
-              "roman": "da-seot-got-eul",
-              "english": "five places",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공격했다",
-              "roman": "gong-gyeog-haet-da",
-              "english": "struck",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
           "stage": "how",
-          "english": "The attacks cut electricity across Al-Jazira, Gedaref, and White Nile states.",
-          "korean": "공격은 알자지라와 게다레프와 백나일주 전기를 끊었다",
+          "english": "The pause aims to bring aid and help civilians leave the city.",
+          "korean": "휴전은 구호품 전달과 주민 대피를 돕는다.",
           "glossary": [
             {
-              "korean": "공격은",
-              "roman": "gong-gyeog-eun",
-              "english": "attacks",
+              "korean": "휴전은",
+              "roman": "hyujeon-eun",
+              "english": "the truce",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "알자지라와",
-              "roman": "al-ja-ji-ra-wa",
-              "english": "Al-Jazira and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "게다레프와",
-              "roman": "ge-da-re-peu-wa",
-              "english": "Gedaref and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "백나일주",
-              "roman": "baek-na-il-ju",
-              "english": "White Nile state",
+              "korean": "구호품",
+              "roman": "guhopum",
+              "english": "aid supplies",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "전기를",
-              "roman": "jeon-gi-reul",
-              "english": "electricity",
+              "korean": "전달과",
+              "roman": "jeondal-gwa",
+              "english": "delivery and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "주민",
+              "roman": "jumin",
+              "english": "residents",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대피를",
+              "roman": "daepi-reul",
+              "english": "evacuation",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "끊었다",
-              "roman": "kkeun-eot-da",
-              "english": "cut",
+              "korean": "돕는다",
+              "roman": "domneunda",
+              "english": "helps",
               "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Residents said outages threatened insulin, food stocks, irrigation, and shops.",
-          "korean": "주민들은 인슐린과 음식과 관개와 상점을 걱정했다",
-          "glossary": [
-            {
-              "korean": "주민들은",
-              "roman": "ju-min-deul-eun",
-              "english": "residents",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "인슐린과",
-              "roman": "in-syul-lin-gwa",
-              "english": "insulin and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "음식과",
-              "roman": "eum-sig-gwa",
-              "english": "food and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "관개와",
-              "roman": "gwan-gae-wa",
-              "english": "irrigation and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "상점을",
-              "roman": "sang-jeom-eul",
-              "english": "shops",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "걱정했다",
-              "roman": "geog-jeong-haet-da",
-              "english": "worried about",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "는다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The United Nations says power attacks threaten health services for millions.",
-          "korean": "유엔은 전력 공격이 수백만 명의 보건을 위협한다고 말했다",
+          "english": "On October 27, missile attacks were reported toward Kyiv, and monitors were not named.",
+          "korean": "10월 27일 키이우 공격이 보고됐고 감시자는 정해지지 않았다.",
           "glossary": [
             {
-              "korean": "유엔은",
-              "roman": "yu-en-eun",
-              "english": "United Nations",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
-              "suffix": "은"
+              "suffix": ""
             },
             {
-              "korean": "전력",
-              "roman": "jeon-ryeog",
-              "english": "power",
+              "korean": "27일",
+              "roman": "isipchil-il",
+              "english": "27th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "키이우",
+              "roman": "ki-i-u",
+              "english": "Kyiv",
               "particle": false,
               "suffix": ""
             },
             {
               "korean": "공격이",
-              "roman": "gong-gyeog-i",
-              "english": "attacks",
+              "roman": "gonggyeog-i",
+              "english": "attack",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "수백만",
-              "roman": "su-baeng-man",
-              "english": "millions",
+              "korean": "보고됐고",
+              "roman": "bogo-dwaetgo",
+              "english": "was reported and",
+              "particle": false,
+              "suffix": "됐고"
+            },
+            {
+              "korean": "감시자는",
+              "roman": "gamsija-neun",
+              "english": "monitors",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "정해지지",
+              "roman": "jeonghaeji",
+              "english": "not decided",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았다",
+              "roman": "anatda",
+              "english": "were not",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "명의",
-              "roman": "myeong-ui",
-              "english": "people's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "보건을",
-              "roman": "bo-geon-eul",
-              "english": "health",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "위협한다고",
-              "roman": "wi-hyeop-han-da-go",
-              "english": "threaten",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/mass-outages-in-sudan-after-rsf-drones-hit-five-power-stations/article71628515.ece",
-      "short_english": "RSF drones struck five Sudanese power stations on October 26, 2026.",
-      "short_korean": "RSF 드론은 2026년 10월 26일 수단 발전소 5곳을 공격했다",
+      "url": "https://www.thehindu.com/news/international/us-brokered-truce-begins-in-ukraine-city-occupied-by-russia/article71629729.ece",
+      "short_english": "The pause aims to bring aid and help civilians leave the city.",
+      "short_korean": "휴전은 구호품 전달과 주민 대피를 돕는다.",
       "date": "2026-10-27",
       "images": [
-        "images/global/30a4b5b97b84/1.jpg",
-        "images/global/30a4b5b97b84/2.jpg",
-        "images/global/30a4b5b97b84/3.jpg",
-        "images/global/30a4b5b97b84/4.jpg",
-        "images/global/30a4b5b97b84/5.jpg",
-        "images/global/30a4b5b97b84/6.jpg",
-        "images/global/30a4b5b97b84/7.jpg",
-        "images/global/30a4b5b97b84/8.jpg",
-        "images/global/30a4b5b97b84/9.jpg",
-        "images/global/30a4b5b97b84/10.jpg",
-        "images/global/30a4b5b97b84/11.jpg",
-        "images/global/30a4b5b97b84/12.jpg",
-        "images/global/30a4b5b97b84/13.jpg",
-        "images/global/30a4b5b97b84/14.jpg",
-        "images/global/30a4b5b97b84/15.jpg"
+        "images/global/dbcd4b8b6fa1/1.jpg",
+        "images/global/dbcd4b8b6fa1/2.jpg",
+        "images/global/dbcd4b8b6fa1/3.jpg",
+        "images/global/dbcd4b8b6fa1/4.jpg",
+        "images/global/dbcd4b8b6fa1/5.jpg",
+        "images/global/dbcd4b8b6fa1/6.jpg",
+        "images/global/dbcd4b8b6fa1/7.jpg",
+        "images/global/dbcd4b8b6fa1/8.jpg",
+        "images/global/dbcd4b8b6fa1/9.jpg",
+        "images/global/dbcd4b8b6fa1/10.jpg",
+        "images/global/dbcd4b8b6fa1/11.jpg",
+        "images/global/dbcd4b8b6fa1/12.jpg",
+        "images/global/dbcd4b8b6fa1/13.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/30a4b5b97b84/caption.txt"
+      "caption_file": "images/global/dbcd4b8b6fa1/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "이란과 메카 협약국, 대화 계속",
-      "english_title": "Iran and Mecca Pact States Agree to Keep Talking",
-      "korean_desc": "이란은 2026년 10월 26일 테헤란에서 사우디와 파키스탄과 튀르키예를 만났다 그들은 지역 평화와 안보 협력을 논의했다 회담에는 사우디와 파키스탄과 튀르키예 안보 관리들이 참석했다 국영 매체는 나라들이 논의를 계속하기로 했다고 말했다",
-      "english_desc": "Iran met Saudi Arabia, Pakistan, and Turkey in Tehran on October 26, 2026. They discussed cooperation on regional peace and security. The meeting included Saudi, Pakistani, and Turkish security officials. State media said the countries agreed to continue discussions.",
-      "hook": "Iran met Mecca pact countries for the first time.",
-      "sticker": "A new regional conversation",
-      "korean_hook": "이란이 메카 협약국과 처음 만났다",
-      "takeaway_english": "The next test is whether repeated talks produce practical cooperation.",
-      "takeaway_korean": "다음 시험은 실제 협력이 나오는지다",
+      "korean_title": "이스라엘 선거, 연정이 핵심",
+      "english_title": "Israel’s Election Is Really a Coalition Puzzle",
+      "korean_desc": "이스라엘은 2023년 10월 7일 공격 뒤 첫 총선을 열었다. 유권자는 전국 하나의 정당 명부에 투표한다. 정부 구성자는 의원 61명 이상의 지지가 필요하다.",
+      "english_desc": "Israel held its first general election since the October 7, 2023 Hamas attack. Voters choose closed party lists across one national constituency. The leader chosen to form a government needs support from at least 61 lawmakers.",
+      "hook": "Israel votes, but coalition talks decide the government.",
+      "sticker": "연정이 진짜 승부",
+      "korean_hook": "이스라엘은 투표하고 연정이 정부를 정한다",
+      "takeaway_english": "The biggest party may not be the party that forms Israel's next government.",
+      "takeaway_korean": "최대 정당이 다음 정부를 만들지는 않을 수 있다.",
       "why_it_matters": [
         {
-          "english": "Future talks could affect peace and security decisions.",
-          "korean": "다음 회담은 평화와 안보에 영향을 줄 수 있다"
+          "english": "Israel has never had a single party win 61 seats.",
+          "korean": "이스라엘에서 한 당이 61석을 얻은 적은 없다."
+        },
+        {
+          "english": "Small parties can decide the next government.",
+          "korean": "작은 정당들이 다음 정부를 결정할 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Iran",
-          "english": "It hosted the first meeting with the three pact countries.",
-          "korean": "이란은 세 협약국과 첫 회담을 열었다"
+          "label": "Likud",
+          "english": "Netanyahu's party leads the right-religious bloc.",
+          "korean": "네타냐후의 리쿠드당은 우파 종교 진영을 이끈다."
         },
         {
-          "label": "Saudi Arabia, Pakistan, and Turkey",
-          "english": "Their officials discussed cooperation with Iranian leaders.",
-          "korean": "세 나라 대표는 이란 지도자들과 협력했다"
+          "label": "Yashar",
+          "english": "Eisenkot's party is expected to win many seats but lacks easy partners.",
+          "korean": "아이젠코트의 당은 강하지만 쉬운 동맹이 부족하다."
         },
         {
-          "label": "Regional governments",
-          "english": "They may use the talks to reduce security tensions.",
-          "korean": "지역 정부는 긴장을 낮추려 할 수 있다"
+          "label": "Arab parties",
+          "english": "Ra'am could become important if neither main bloc reaches 61 seats.",
+          "korean": "라암은 어느 진영도 61석을 못 얻으면 중요해진다."
         }
       ],
       "views": [
         {
-          "label": "Iranian state media",
-          "english": "The meeting showed agreement to strengthen cooperation on peace and security.",
-          "korean": "회담은 평화와 안보 협력 합의를 보여줬다"
+          "label": "Netanyahu's bloc",
+          "english": "A more ideologically coherent coalition may govern more easily.",
+          "korean": "이념적으로 더 단결된 연정이 통치하기 쉽다고 본다."
         },
         {
-          "label": "Regional analysts",
-          "english": "The contact may be an effort to prevent wider conflict and protect pact members.",
-          "korean": "접촉은 더 큰 충돌을 막으려는 시도일 수 있다"
+          "label": "Opposition bloc",
+          "english": "Replacing Netanyahu could improve governance and Israel's international relations.",
+          "korean": "네타냐후 교체가 통치와 국제관계를 개선할 수 있다고 본다."
         }
       ],
       "disagree": {
-        "english": "Skeptics may say continued talks show contact, not a settled agreement.",
-        "korean": "회의론자들은 대화가 합의를 뜻하지 않는다고 말할 수 있다"
+        "english": "The opposition includes leaders with competing prime ministerial ambitions.",
+        "korean": "야권 지도자들은 서로 총리직을 원할 수 있다."
       },
-      "reader_question_korean": "첫 회담이 지역 안보를 바꿀까요?",
+      "reader_question_korean": "최다 의석이면 통치할 수 있을까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Iran, Mecca pact countries agree to continue talks after 'first' meeting: state media",
+      "source_title": "A guide to Israel’s elections",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -1175,579 +1361,132 @@
       "answer_english": "",
       "answer_korean": "",
       "format_data": {},
-      "serious": false,
+      "serious": true,
       "caption_lines": [
-        "Update: October 26, 2026.",
-        "The first meeting took place in Tehran.",
-        "The pact countries are Saudi Arabia, Pakistan, and Turkey."
+        "Election date: October 27, 2026",
+        "The Knesset has 120 members.",
+        "The coalition threshold is 61 seats."
       ],
-      "reader_question": "Can a first meeting change regional security?",
-      "topic_tag": "Diplomacy",
+      "reader_question": "Is winning the most seats enough to govern?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Iran, Mecca pact countries agree to continue talks after 'first' meeting: state media",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/iran-mecca-pact-countries-agree-to-continue-talks-after-first-meeting-state-media/article71628400.ece"
+          "title": "A guide to Israel’s elections",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-guide-to-israels-elections/article71627046.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "이란은",
-          "roman": "i-ran-eun",
-          "english": "Iran",
+          "korean": "이스라엘은",
+          "roman": "iseurael-eun",
+          "english": "Israel",
           "particle": false,
           "suffix": "은"
         },
         {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
+          "korean": "2023년",
+          "roman": "icheon-isipsam-nyeon",
+          "english": "year 2023",
           "particle": false,
-          "suffix": "년"
+          "suffix": ""
         },
         {
           "korean": "10월",
-          "roman": "si-wol",
+          "roman": "sip-wol",
           "english": "October",
           "particle": false,
-          "suffix": "월"
+          "suffix": ""
         },
         {
-          "korean": "26일",
-          "roman": "i-sip-yuk-il",
-          "english": "26th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "테헤란에서",
-          "roman": "te-he-ran-e-seo",
-          "english": "in Tehran",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "사우디와",
-          "roman": "sa-u-di-wa",
-          "english": "Saudi Arabia and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "파키스탄과",
-          "roman": "pa-ki-seu-tan-gwa",
-          "english": "Pakistan and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "튀르키예를",
-          "roman": "twi-reu-ki-ye-reul",
-          "english": "Turkey",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "만났다",
-          "roman": "man-nat-da",
-          "english": "met",
+          "korean": "7일",
+          "roman": "chil-il",
+          "english": "7th",
           "particle": false,
           "suffix": ""
+        },
+        {
+          "korean": "공격",
+          "roman": "gonggyeok",
+          "english": "attack",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "뒤",
+          "roman": "dwi",
+          "english": "after",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "첫",
+          "roman": "cheot",
+          "english": "first",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "총선을",
+          "roman": "chongseon-eul",
+          "english": "general election",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "열었다",
+          "roman": "yeoreotda",
+          "english": "held",
+          "particle": false,
+          "suffix": "었다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Iran met Saudi Arabia, Pakistan, and Turkey in Tehran on October 26, 2026.",
-          "korean": "이란은 2026년 10월 26일 테헤란에서 사우디와 파키스탄과 튀르키예를 만났다",
+          "english": "Israel held its first general election since the October 7, 2023 Hamas attack.",
+          "korean": "이스라엘은 2023년 10월 7일 공격 뒤 첫 총선을 열었다.",
           "glossary": [
             {
-              "korean": "이란은",
-              "roman": "i-ran-eun",
-              "english": "Iran",
+              "korean": "이스라엘은",
+              "roman": "iseurael-eun",
+              "english": "Israel",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
+              "korean": "2023년",
+              "roman": "icheon-isipsam-nyeon",
+              "english": "year 2023",
               "particle": false,
-              "suffix": "년"
+              "suffix": ""
             },
             {
               "korean": "10월",
-              "roman": "si-wol",
+              "roman": "sip-wol",
               "english": "October",
               "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "26일",
-              "roman": "i-sip-yuk-il",
-              "english": "26th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "테헤란에서",
-              "roman": "te-he-ran-e-seo",
-              "english": "in Tehran",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "사우디와",
-              "roman": "sa-u-di-wa",
-              "english": "Saudi Arabia and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "파키스탄과",
-              "roman": "pa-ki-seu-tan-gwa",
-              "english": "Pakistan and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "튀르키예를",
-              "roman": "twi-reu-ki-ye-reul",
-              "english": "Turkey",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "만났다",
-              "roman": "man-nat-da",
-              "english": "met",
-              "particle": false,
               "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "They discussed cooperation on regional peace and security.",
-          "korean": "그들은 지역 평화와 안보 협력을 논의했다",
-          "glossary": [
-            {
-              "korean": "그들은",
-              "roman": "geu-deul-eun",
-              "english": "they",
-              "particle": false,
-              "suffix": "은"
             },
             {
-              "korean": "지역",
-              "roman": "ji-yeog",
-              "english": "regional",
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "평화와",
-              "roman": "pyeong-hwa-wa",
-              "english": "peace and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "안보",
-              "roman": "an-bo",
-              "english": "security",
+              "korean": "공격",
+              "roman": "gonggyeok",
+              "english": "attack",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "협력을",
-              "roman": "hyeob-ryeog-eul",
-              "english": "cooperation",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "논의했다",
-              "roman": "non-ui-haet-da",
-              "english": "discussed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The meeting included Saudi, Pakistani, and Turkish security officials.",
-          "korean": "회담에는 사우디와 파키스탄과 튀르키예 안보 관리들이 참석했다",
-          "glossary": [
-            {
-              "korean": "회담에는",
-              "roman": "hoe-dam-eneun",
-              "english": "at the meeting",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "사우디와",
-              "roman": "sa-u-di-wa",
-              "english": "Saudi Arabia and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "파키스탄과",
-              "roman": "pa-ki-seu-tan-gwa",
-              "english": "Pakistan and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "튀르키예",
-              "roman": "twi-reu-ki-ye",
-              "english": "Turkey",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안보",
-              "roman": "an-bo",
-              "english": "security",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "관리들이",
-              "roman": "gwan-ri-deul-i",
-              "english": "officials",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "참석했다",
-              "roman": "cham-seog-haet-da",
-              "english": "attended",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "State media said the countries agreed to continue discussions.",
-          "korean": "국영 매체는 나라들이 논의를 계속하기로 했다고 말했다",
-          "glossary": [
-            {
-              "korean": "국영",
-              "roman": "gug-yeong",
-              "english": "state-run",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "매체는",
-              "roman": "mae-che-neun",
-              "english": "media",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "나라들이",
-              "roman": "na-ra-deul-i",
-              "english": "countries",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "논의를",
-              "roman": "non-ui-reul",
-              "english": "discussions",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "계속하기로",
-              "roman": "gye-sok-ha-gi-ro",
-              "english": "to continue",
-              "particle": false,
-              "suffix": "기로"
-            },
-            {
-              "korean": "했다고",
-              "roman": "haet-da-go",
-              "english": "agreed",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/iran-mecca-pact-countries-agree-to-continue-talks-after-first-meeting-state-media/article71628400.ece",
-      "short_english": "Iran met Saudi Arabia, Pakistan, and Turkey in Tehran on October 26, 2026.",
-      "short_korean": "이란은 2026년 10월 26일 테헤란에서 사우디와 파키스탄과 튀르키예를 만났다",
-      "date": "2026-10-27",
-      "images": [
-        "images/global/15e57643dddf/1.jpg",
-        "images/global/15e57643dddf/2.jpg",
-        "images/global/15e57643dddf/3.jpg",
-        "images/global/15e57643dddf/4.jpg",
-        "images/global/15e57643dddf/5.jpg",
-        "images/global/15e57643dddf/6.jpg",
-        "images/global/15e57643dddf/7.jpg",
-        "images/global/15e57643dddf/8.jpg",
-        "images/global/15e57643dddf/9.jpg",
-        "images/global/15e57643dddf/10.jpg",
-        "images/global/15e57643dddf/11.jpg",
-        "images/global/15e57643dddf/12.jpg",
-        "images/global/15e57643dddf/13.jpg",
-        "images/global/15e57643dddf/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/15e57643dddf/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "룰라, 브라질 네 번째 임기 승리",
-      "english_title": "Lula Wins a Fourth Term After Beating Bolsonaro",
-      "korean_desc": "룰라는 2026년 10월 25일 브라질 결선에서 플라비우를 이겼다 이번 승리로 룰라는 브라질 첫 네 번째 임기를 얻었다 룰라는 1차 투표 뒤 64,256,232표를 얻었다 룰라는 국민 참여와 디지털 소통을 늘리겠다고 약속했다",
-      "english_desc": "Lula defeated Flávio Bolsonaro in Brazil's runoff on October 25, 2026. The victory gave Lula Brazil's first fourth presidential term. He won 64,256,232 votes after trailing in the first round. Lula promised greater public participation and more digital communication.",
-      "hook": "Lula won Brazil’s presidency after trailing in round one.",
-      "sticker": "Brazil chooses Lula",
-      "korean_hook": "룰라는 1차 투표 뒤집고 승리했다",
-      "takeaway_english": "Lula returns with a mandate, but governing will require cooperation beyond his supporters.",
-      "takeaway_korean": "룰라는 지지자 밖의 협력이 필요하다",
-      "why_it_matters": [
-        {
-          "english": "Brazil's result may influence politics across Latin America.",
-          "korean": "브라질 결과는 라틴아메리카 정치에 영향을 준다"
-        },
-        {
-          "english": "Lula promised action on health, universities, technology, and digital regulation.",
-          "korean": "룰라는 보건과 대학과 기술을 약속했다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Luiz Inácio Lula da Silva",
-          "english": "He won a fourth, non-consecutive presidential term.",
-          "korean": "룰라는 네 번째 비연속 임기를 얻었다"
-        },
-        {
-          "label": "Flávio Bolsonaro",
-          "english": "He lost the runoff after leading the first round.",
-          "korean": "플라비우 보우소나루는 결선에서 졌다"
-        },
-        {
-          "label": "Brazilian voters",
-          "english": "Young people, women, and older voters helped shape the result.",
-          "korean": "젊은이와 여성과 노년층이 결과를 만들었다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Lula and supporters",
-          "english": "They see the result as a defense of democracy and public services.",
-          "korean": "그들은 결과를 민주주의와 공공서비스의 승리로 본다"
-        },
-        {
-          "label": "Bolsonaro's camp",
-          "english": "It disputes the result and says the election should be annulled.",
-          "korean": "보우소나루 진영은 결과를 다투며 무효를 요구한다"
-        }
-      ],
-      "disagree": {
-        "english": "Critics may argue that the result does not erase Brazil's political divide or rightward Congress.",
-        "korean": "비판자들은 의회와 사회의 분열이 남았다고 말할 수 있다"
-      },
-      "reader_question_korean": "룰라는 네 번째 임기에 무엇을 우선해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Watch: Lula defeats far-right Bolsonaro to secure a fourth presidential term | Above the Fold | Oct 26, 2026",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Runoff held October 25, 2026.",
-        "Lula received 64,256,232 votes.",
-        "He is expected to take office January 5, 2027."
-      ],
-      "reader_question": "What should Lula prioritize in his fourth term?",
-      "topic_tag": "Election",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Watch: Lula defeats far-right Bolsonaro to secure a fourth presidential term | Above the Fold | Oct 26, 2026",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "룰라는",
-          "roman": "rul-la-neun",
-          "english": "Lula",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "si-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "25일",
-          "roman": "i-sip-o-il",
-          "english": "25th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "브라질",
-          "roman": "beu-ra-jil",
-          "english": "Brazil",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "결선에서",
-          "roman": "gyeol-seon-e-seo",
-          "english": "in the runoff",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "플라비우를",
-          "roman": "peul-la-bi-u-reul",
-          "english": "Flávio",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "이겼다",
-          "roman": "i-gyeot-da",
-          "english": "defeated",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Lula defeated Flávio Bolsonaro in Brazil's runoff on October 25, 2026.",
-          "korean": "룰라는 2026년 10월 25일 브라질 결선에서 플라비우를 이겼다",
-          "glossary": [
-            {
-              "korean": "룰라는",
-              "roman": "rul-la-neun",
-              "english": "Lula",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "si-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "25일",
-              "roman": "i-sip-o-il",
-              "english": "25th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "브라질",
-              "roman": "beu-ra-jil",
-              "english": "Brazil",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "결선에서",
-              "roman": "gyeol-seon-e-seo",
-              "english": "in the runoff",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "플라비우를",
-              "roman": "peul-la-bi-u-reul",
-              "english": "Flávio",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "이겼다",
-              "roman": "i-gyeot-da",
-              "english": "defeated",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The victory gave Lula Brazil's first fourth presidential term.",
-          "korean": "이번 승리로 룰라는 브라질 첫 네 번째 임기를 얻었다",
-          "glossary": [
-            {
-              "korean": "이번",
-              "roman": "i-beon",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "승리로",
-              "roman": "seung-ri-ro",
-              "english": "through victory",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "룰라는",
-              "roman": "rul-la-neun",
-              "english": "Lula",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "브라질",
-              "roman": "beu-ra-jil",
-              "english": "Brazil",
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
               "particle": false,
               "suffix": ""
             },
@@ -1759,30 +1498,16 @@
               "suffix": ""
             },
             {
-              "korean": "네",
-              "roman": "ne",
-              "english": "fourth",
+              "korean": "총선을",
+              "roman": "chongseon-eul",
+              "english": "general election",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "번째",
-              "roman": "beon-jjae",
-              "english": "term number",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "임기를",
-              "roman": "im-gi-reul",
-              "english": "term",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "얻었다",
-              "roman": "eot-eot-da",
-              "english": "won",
+              "korean": "열었다",
+              "roman": "yeoreotda",
+              "english": "held",
               "particle": false,
               "suffix": "었다"
             }
@@ -1790,398 +1515,371 @@
         },
         {
           "stage": "how",
-          "english": "He won 64,256,232 votes after trailing in the first round.",
-          "korean": "룰라는 1차 투표 뒤 64,256,232표를 얻었다",
+          "english": "Voters choose closed party lists across one national constituency.",
+          "korean": "유권자는 전국 하나의 정당 명부에 투표한다.",
           "glossary": [
             {
-              "korean": "룰라는",
-              "roman": "rul-la-neun",
-              "english": "Lula",
+              "korean": "유권자는",
+              "roman": "yugwonja-neun",
+              "english": "voters",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "1차",
-              "roman": "il-cha",
-              "english": "first round",
+              "korean": "전국",
+              "roman": "jeonguk",
+              "english": "entire country",
               "particle": false,
-              "suffix": "차"
+              "suffix": ""
             },
             {
-              "korean": "투표",
-              "roman": "tu-pyo",
+              "korean": "하나의",
+              "roman": "hana-ui",
+              "english": "one",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "정당",
+              "roman": "jeongdang",
+              "english": "party",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명부에",
+              "roman": "myeongbu-e",
+              "english": "list",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "투표한다",
+              "roman": "tupyo-handa",
               "english": "vote",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "64,256,232표를",
-              "roman": "yuk-sip-sa-eok-i-cheon-o-baek-yuk-sip-i-man-i-cheon-sam-baek-sip-i-pyo-reul",
-              "english": "64,256,232 votes",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "얻었다",
-              "roman": "eot-eot-da",
-              "english": "won",
-              "particle": false,
-              "suffix": "었다"
+              "suffix": "한다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Lula promised greater public participation and more digital communication.",
-          "korean": "룰라는 국민 참여와 디지털 소통을 늘리겠다고 약속했다",
+          "english": "The leader chosen to form a government needs support from at least 61 lawmakers.",
+          "korean": "정부 구성자는 의원 61명 이상의 지지가 필요하다.",
           "glossary": [
             {
-              "korean": "룰라는",
-              "roman": "rul-la-neun",
-              "english": "Lula",
+              "korean": "정부",
+              "roman": "jeongbu",
+              "english": "government",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구성자는",
+              "roman": "guseongja-neun",
+              "english": "government-former",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "국민",
-              "roman": "gung-min",
-              "english": "public",
+              "korean": "의원",
+              "roman": "uiwon",
+              "english": "lawmakers",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "참여와",
-              "roman": "cham-yeo-wa",
-              "english": "participation and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "디지털",
-              "roman": "di-ji-teol",
-              "english": "digital",
+              "korean": "61명",
+              "roman": "yuksip-il-myeong",
+              "english": "61 people",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "소통을",
-              "roman": "so-tong-eul",
-              "english": "communication",
+              "korean": "이상의",
+              "roman": "isang-ui",
+              "english": "at least",
               "particle": false,
-              "suffix": "을"
+              "suffix": "의"
             },
             {
-              "korean": "늘리겠다고",
-              "roman": "neul-li-get-da-go",
-              "english": "will increase",
+              "korean": "지지가",
+              "roman": "jiji-ga",
+              "english": "support",
               "particle": false,
-              "suffix": "겠다고"
+              "suffix": "가"
             },
             {
-              "korean": "약속했다",
-              "roman": "yak-sok-haet-da",
-              "english": "promised",
+              "korean": "필요하다",
+              "roman": "piryo-hada",
+              "english": "is needed",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "하다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/videos/shows/watch-lula-defeats-far-right-bolsonaro-to-secure-a-fourth-presidential-term-above-the-fold-oct-26-2026/article71628339.ece",
-      "short_english": "Lula defeated Flávio Bolsonaro in Brazil's runoff on October 25, 2026.",
-      "short_korean": "룰라는 2026년 10월 25일 브라질 결선에서 플라비우를 이겼다",
+      "url": "https://www.thehindu.com/news/international/the-view-from-india-newsletter-a-guide-to-israels-elections/article71627046.ece",
+      "short_english": "Israel held its first general election since the October 7, 2023 Hamas attack.",
+      "short_korean": "이스라엘은 2023년 10월 7일 공격 뒤 첫 총선을 열었다.",
       "date": "2026-10-27",
       "images": [
-        "images/global/4c8b4a311334/1.jpg",
-        "images/global/4c8b4a311334/2.jpg",
-        "images/global/4c8b4a311334/3.jpg",
-        "images/global/4c8b4a311334/4.jpg",
-        "images/global/4c8b4a311334/5.jpg",
-        "images/global/4c8b4a311334/6.jpg",
-        "images/global/4c8b4a311334/7.jpg",
-        "images/global/4c8b4a311334/8.jpg",
-        "images/global/4c8b4a311334/9.jpg",
-        "images/global/4c8b4a311334/10.jpg",
-        "images/global/4c8b4a311334/11.jpg",
-        "images/global/4c8b4a311334/12.jpg",
-        "images/global/4c8b4a311334/13.jpg",
-        "images/global/4c8b4a311334/14.jpg",
-        "images/global/4c8b4a311334/15.jpg"
+        "images/global/7ff4fbe6d418/1.jpg",
+        "images/global/7ff4fbe6d418/2.jpg",
+        "images/global/7ff4fbe6d418/3.jpg",
+        "images/global/7ff4fbe6d418/4.jpg",
+        "images/global/7ff4fbe6d418/5.jpg",
+        "images/global/7ff4fbe6d418/6.jpg",
+        "images/global/7ff4fbe6d418/7.jpg",
+        "images/global/7ff4fbe6d418/8.jpg",
+        "images/global/7ff4fbe6d418/9.jpg",
+        "images/global/7ff4fbe6d418/10.jpg",
+        "images/global/7ff4fbe6d418/11.jpg",
+        "images/global/7ff4fbe6d418/12.jpg",
+        "images/global/7ff4fbe6d418/13.jpg",
+        "images/global/7ff4fbe6d418/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/4c8b4a311334/caption.txt"
+      "caption_file": "images/global/7ff4fbe6d418/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "룰라, 브라질 대선에서 극적인 역전",
-      "english_title": "Lula's Comeback Blocks Brazil's Far-Right Shift",
-      "korean_desc": "룰라는 2026년 10월 25일 플라비우를 꺾고 브라질 대통령이 됐다 룰라는 공공서비스와 기술 규제를 강화하겠다고 약속했다 룰라 진영은 1차에서 뒤진 뒤 약속 중심으로 바꿨다 메타는 10월 16일 룰라 지지 광고를 막았다고 인정했다",
-      "english_desc": "Lula won Brazil's presidency against Flávio Bolsonaro on October 25, 2026. He promised stronger public services and tighter technology regulation. His campaign shifted toward promises after he trailed in the first round. Meta admitted its AI blocked some advertising supporting Lula on October 16.",
-      "hook": "Lula came from behind to win Brazil's presidency.",
-      "sticker": "A dramatic comeback",
-      "korean_hook": "룰라가 뒤집어 브라질 대선에 이겼다",
-      "takeaway_english": "Lula won the vote, but the arguments over platforms and power are not finished.",
-      "takeaway_korean": "룰라는 이겼지만 플랫폼 논쟁은 끝나지 않았다",
+      "korean_title": "영국 정착권은 이제 벌어야 하나",
+      "english_title": "Britain Wants Permanent Residence to Be Earned",
+      "korean_desc": "앤디 번햄은 2026년 10월 26일 영국의 정착권 원칙을 지지했다. 제안은 5년 경로를 바꾸고 소득과 위반을 본다. 최종 정책은 2026년 후반 예정이지만 시행일은 없다.",
+      "english_desc": "Andy Burnham backed earned settlement in Britain on October 26, 2026. A proposal would change the usual five-year route and judge income, violations, and contribution. The final policy is expected later in 2026, but no exact start date exists.",
+      "hook": "Britain backs earned settlement, but final rules are pending.",
+      "sticker": "정착권의 새 기준",
+      "korean_hook": "영국은 정착권을 벌게 하지만 최종안은 미정",
+      "takeaway_english": "The principle is clear, but migrants still await the rules that will define it.",
+      "takeaway_korean": "원칙은 분명하지만 이민자들은 세부 규칙을 기다린다.",
       "why_it_matters": [
         {
-          "english": "Brazil is a major political force in Latin America.",
-          "korean": "브라질은 라틴아메리카의 큰 정치 세력이다"
+          "english": "People already living in Britain may face different settlement timelines.",
+          "korean": "영국에 이미 사는 사람들의 정착 시한이 달라질 수 있다."
         },
         {
-          "english": "The result tests the influence of Trump and technology platforms.",
-          "korean": "결과는 트럼프와 기술 플랫폼의 영향력을 시험한다"
+          "english": "Care services depend partly on overseas workers.",
+          "korean": "돌봄 서비스는 해외 노동자에게 일부 의존한다."
         }
       ],
       "parties": [
         {
-          "label": "Lula",
-          "english": "He won after changing campaign messages toward concrete promises.",
-          "korean": "룰라는 구체적 약속으로 선거 메시지를 바꿨다"
+          "label": "Andy Burnham",
+          "english": "He supports settlement being earned rather than automatic.",
+          "korean": "자동이 아닌 노력으로 얻는 정착권을 지지한다."
         },
         {
-          "label": "Flávio Bolsonaro",
-          "english": "He led round one but lost the runoff and rejected the result.",
-          "korean": "플라비우는 1차에서 앞섰지만 결선에서 졌다"
+          "label": "Indian migrants",
+          "english": "They may be strongly affected because Indians were the largest non-EU migrant group.",
+          "korean": "인도인은 가장 큰 비EU 이주 집단이라 큰 영향을 받을 수 있다."
         },
         {
-          "label": "Meta",
-          "english": "It admitted its AI blocked some Lula campaign advertising.",
-          "korean": "메타는 룰라 광고 일부를 막았다고 인정했다"
+          "label": "Social care workers",
+          "english": "The government is considering whether to soften the proposed rules for them.",
+          "korean": "정부는 이들에 대한 규칙 완화를 검토 중이다."
         }
       ],
       "views": [
         {
-          "label": "Lula's camp",
-          "english": "The campaign says voters defeated foreign interference and digital-platform pressure.",
-          "korean": "룰라 진영은 유권자가 외부 간섭을 이겼다고 말한다"
+          "label": "Government supporters",
+          "english": "Longer settlement routes could make immigration more controlled and contribution-based.",
+          "korean": "긴 정착 경로가 이민을 더 관리하고 기여 중심으로 만들 수 있다고 본다."
         },
         {
-          "label": "Opposition voices",
-          "english": "They say the result remains disputed and Brazil's Congress still leans right.",
-          "korean": "반대 세력은 결과와 우파 의회가 문제라고 말한다"
+          "label": "Care-sector concerns",
+          "english": "Stricter rules could make it harder to retain overseas care workers.",
+          "korean": "엄격한 규칙이 해외 돌봄 노동자 유지를 어렵게 할 수 있다."
         }
       ],
       "disagree": {
-        "english": "Supporters of Bolsonaro may say Lula's victory reflects a divided country, not a complete political shift.",
-        "korean": "보우소나루 지지자들은 나라가 여전히 분열됐다고 말할 수 있다"
+        "english": "The final policy, transitional rules, and exact start date have not been settled.",
+        "korean": "최종 정책과 과도 규칙, 시행일은 아직 정해지지 않았다."
       },
-      "reader_question_korean": "선거 역전이 나라의 방향을 바꿀까요?",
+      "reader_question_korean": "장기 거주를 소득과 일에 달리 정해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Lula wins a record fourth presidential term as Brazil defeats far-right, defies Trump and Meta",
+      "source_title": "U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "timeline",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
+      "format_data": {
+        "steps": [
+          {
+            "label": "",
+            "english": "Last year: The government proposed a longer settlement pathway.",
+            "korean": "지난해 정부는 더 긴 정착 경로를 제안했다."
+          },
+          {
+            "label": "",
+            "english": "Early 2026: A public consultation gathered responses.",
+            "korean": "2026년 초 공개 협의가 의견을 모았다."
+          },
+          {
+            "label": "",
+            "english": "October 26: Burnham backed the earned-settlement principle.",
+            "korean": "10월 26일 번햄은 정착권 원칙을 지지했다."
+          },
+          {
+            "label": "",
+            "english": "Later in 2026: Final policy is expected.",
+            "korean": "2026년 후반 최종 정책이 나올 예정이다."
+          }
+        ]
+      },
       "serious": false,
       "caption_lines": [
-        "Runoff: October 25, 2026.",
-        "First round: Bolsonaro 47.03%, Lula 45.16%.",
-        "Meta acknowledged an advertising-blocking problem on October 16."
+        "Burnham spoke on October 26, 2026.",
+        "The public consultation closed earlier in 2026.",
+        "An EU-UK summit is planned for November 20."
       ],
-      "reader_question": "Can a campaign comeback change a country's political direction?",
-      "topic_tag": "Politics",
+      "reader_question": "Should long-term residence depend on income and work?",
+      "topic_tag": "Immigration",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Lula wins a record fourth presidential term as Brazil defeats far-right, defies Trump and Meta",
-          "date": "2026-10-26",
-          "url": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece"
+          "title": "U.K. PM Burnham backs principle of ‘earned settlement’ in immigration rules",
+          "date": "2026-10-27",
+          "url": "https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "룰라는",
-          "roman": "rul-la-neun",
-          "english": "Lula",
+          "korean": "앤디",
+          "roman": "aendi",
+          "english": "Andy",
           "particle": false,
-          "suffix": "는"
+          "suffix": ""
+        },
+        {
+          "korean": "번햄은",
+          "roman": "beonhaem-eun",
+          "english": "Burnham",
+          "particle": false,
+          "suffix": "은"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
+          "roman": "icheon-isip-yug-nyeon",
           "english": "year 2026",
           "particle": false,
-          "suffix": "년"
+          "suffix": ""
         },
         {
           "korean": "10월",
-          "roman": "si-wol",
+          "roman": "sip-wol",
           "english": "October",
           "particle": false,
-          "suffix": "월"
+          "suffix": ""
         },
         {
-          "korean": "25일",
-          "roman": "i-sip-o-il",
-          "english": "25th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "플라비우를",
-          "roman": "peul-la-bi-u-reul",
-          "english": "Flávio",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "꺾고",
-          "roman": "kkeok-go",
-          "english": "defeating",
-          "particle": false,
-          "suffix": "고"
-        },
-        {
-          "korean": "브라질",
-          "roman": "beu-ra-jil",
-          "english": "Brazil",
+          "korean": "26일",
+          "roman": "isip-yug-il",
+          "english": "26th",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "대통령이",
-          "roman": "dae-tong-ryeong-i",
-          "english": "president",
+          "korean": "영국의",
+          "roman": "yeongguk-ui",
+          "english": "Britain's",
           "particle": false,
-          "suffix": "이"
+          "suffix": "의"
         },
         {
-          "korean": "됐다",
-          "roman": "dwaet-da",
-          "english": "became",
+          "korean": "정착권",
+          "roman": "jeongchakgwon",
+          "english": "settlement",
           "particle": false,
           "suffix": ""
+        },
+        {
+          "korean": "원칙을",
+          "roman": "wonchig-eul",
+          "english": "principle",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "지지했다",
+          "roman": "jijihaetda",
+          "english": "supported",
+          "particle": false,
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Lula won Brazil's presidency against Flávio Bolsonaro on October 25, 2026.",
-          "korean": "룰라는 2026년 10월 25일 플라비우를 꺾고 브라질 대통령이 됐다",
+          "english": "Andy Burnham backed earned settlement in Britain on October 26, 2026.",
+          "korean": "앤디 번햄은 2026년 10월 26일 영국의 정착권 원칙을 지지했다.",
           "glossary": [
             {
-              "korean": "룰라는",
-              "roman": "rul-la-neun",
-              "english": "Lula",
+              "korean": "앤디",
+              "roman": "aendi",
+              "english": "Andy",
               "particle": false,
-              "suffix": "는"
+              "suffix": ""
+            },
+            {
+              "korean": "번햄은",
+              "roman": "beonhaem-eun",
+              "english": "Burnham",
+              "particle": false,
+              "suffix": "은"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "roman": "icheon-isip-yug-nyeon",
               "english": "year 2026",
               "particle": false,
-              "suffix": "년"
+              "suffix": ""
             },
             {
               "korean": "10월",
-              "roman": "si-wol",
+              "roman": "sip-wol",
               "english": "October",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
-              "korean": "25일",
-              "roman": "i-sip-o-il",
-              "english": "25th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "플라비우를",
-              "roman": "peul-la-bi-u-reul",
-              "english": "Flávio",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "꺾고",
-              "roman": "kkeok-go",
-              "english": "defeating",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "브라질",
-              "roman": "beu-ra-jil",
-              "english": "Brazil",
+              "korean": "26일",
+              "roman": "isip-yug-il",
+              "english": "26th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "대통령이",
-              "roman": "dae-tong-ryeong-i",
-              "english": "president",
+              "korean": "영국의",
+              "roman": "yeongguk-ui",
+              "english": "Britain's",
               "particle": false,
-              "suffix": "이"
+              "suffix": "의"
             },
             {
-              "korean": "됐다",
-              "roman": "dwaet-da",
-              "english": "became",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "He promised stronger public services and tighter technology regulation.",
-          "korean": "룰라는 공공서비스와 기술 규제를 강화하겠다고 약속했다",
-          "glossary": [
-            {
-              "korean": "룰라는",
-              "roman": "rul-la-neun",
-              "english": "Lula",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "공공서비스와",
-              "roman": "gong-gong-seo-bi-seu-wa",
-              "english": "public services and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "기술",
-              "roman": "gi-sul",
-              "english": "technology",
+              "korean": "정착권",
+              "roman": "jeongchakgwon",
+              "english": "settlement",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "규제를",
-              "roman": "gyu-je-reul",
-              "english": "regulation",
+              "korean": "원칙을",
+              "roman": "wonchig-eul",
+              "english": "principle",
               "particle": false,
-              "suffix": "를"
+              "suffix": "을"
             },
             {
-              "korean": "강화하겠다고",
-              "roman": "gang-hwa-ha-get-da-go",
-              "english": "will strengthen",
-              "particle": false,
-              "suffix": "겠다고"
-            },
-            {
-              "korean": "약속했다",
-              "roman": "yak-sok-haet-da",
-              "english": "promised",
+              "korean": "지지했다",
+              "roman": "jijihaetda",
+              "english": "supported",
               "particle": false,
               "suffix": "했다"
             }
@@ -2189,154 +1887,139 @@
         },
         {
           "stage": "how",
-          "english": "His campaign shifted toward promises after he trailed in the first round.",
-          "korean": "룰라 진영은 1차에서 뒤진 뒤 약속 중심으로 바꿨다",
+          "english": "A proposal would change the usual five-year route and judge income, violations, and contribution.",
+          "korean": "제안은 5년 경로를 바꾸고 소득과 위반을 본다.",
           "glossary": [
             {
-              "korean": "룰라",
-              "roman": "rul-la",
-              "english": "Lula",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "진영은",
-              "roman": "jin-yeong-eun",
-              "english": "camp",
+              "korean": "제안은",
+              "roman": "jean-eun",
+              "english": "proposal",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "1차에서",
-              "roman": "il-cha-e-seo",
-              "english": "in the first round",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "뒤진",
-              "roman": "dwi-jin",
-              "english": "trailed",
+              "korean": "5년",
+              "roman": "o-nyeon",
+              "english": "five years",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
+              "korean": "경로를",
+              "roman": "gyeongno-reul",
+              "english": "route",
               "particle": false,
-              "suffix": ""
+              "suffix": "를"
             },
             {
-              "korean": "약속",
-              "roman": "yak-sok",
-              "english": "promises",
+              "korean": "바꾸고",
+              "roman": "bakkugo",
+              "english": "changes and",
               "particle": false,
-              "suffix": ""
+              "suffix": "고"
             },
             {
-              "korean": "중심으로",
-              "roman": "jung-sim-eu-ro",
-              "english": "toward the center",
+              "korean": "소득과",
+              "roman": "sodeuk-gwa",
+              "english": "income and",
               "particle": false,
-              "suffix": "으로"
+              "suffix": "과"
             },
             {
-              "korean": "바꿨다",
-              "roman": "ba-kkwot-da",
-              "english": "changed",
+              "korean": "위반을",
+              "roman": "wiban-eul",
+              "english": "violations",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
+            },
+            {
+              "korean": "본다",
+              "roman": "bonda",
+              "english": "considers",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Meta admitted its AI blocked some advertising supporting Lula on October 16.",
-          "korean": "메타는 10월 16일 룰라 지지 광고를 막았다고 인정했다",
+          "english": "The final policy is expected later in 2026, but no exact start date exists.",
+          "korean": "최종 정책은 2026년 후반 예정이지만 시행일은 없다.",
           "glossary": [
             {
-              "korean": "메타는",
-              "roman": "me-ta-neun",
-              "english": "Meta",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "10월",
-              "roman": "si-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "16일",
-              "roman": "sip-yuk-il",
-              "english": "16th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "룰라",
-              "roman": "rul-la",
-              "english": "Lula",
+              "korean": "최종",
+              "roman": "choejong",
+              "english": "final",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "지지",
-              "roman": "ji-ji",
-              "english": "supporting",
+              "korean": "정책은",
+              "roman": "jeongchaeg-eun",
+              "english": "policy",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "year 2026",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "광고를",
-              "roman": "gwang-go-reul",
-              "english": "advertising",
+              "korean": "후반",
+              "roman": "h uban",
+              "english": "later half",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "막았다고",
-              "roman": "mag-at-da-go",
-              "english": "blocked",
+              "korean": "예정이지만",
+              "roman": "yejeong-ijiman",
+              "english": "is expected but",
               "particle": false,
-              "suffix": "다고"
+              "suffix": "지만"
             },
             {
-              "korean": "인정했다",
-              "roman": "in-jeong-haet-da",
-              "english": "admitted",
+              "korean": "시행일은",
+              "roman": "sihaengil-eun",
+              "english": "start date",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "은"
+            },
+            {
+              "korean": "없다",
+              "roman": "eopda",
+              "english": "does not exist",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece",
-      "short_english": "Lula won Brazil's presidency against Flávio Bolsonaro on October 25, 2026.",
-      "short_korean": "룰라는 2026년 10월 25일 플라비우를 꺾고 브라질 대통령이 됐다",
+      "url": "https://www.thehindu.com/news/international/uk-pm-burnham-backs-principle-of-earned-settlement-in-immigration-rules/article71626989.ece",
+      "short_english": "Andy Burnham backed earned settlement in Britain on October 26, 2026.",
+      "short_korean": "앤디 번햄은 2026년 10월 26일 영국의 정착권 원칙을 지지했다.",
       "date": "2026-10-27",
       "images": [
-        "images/global/7a15643e5ad6/1.jpg",
-        "images/global/7a15643e5ad6/2.jpg",
-        "images/global/7a15643e5ad6/3.jpg",
-        "images/global/7a15643e5ad6/4.jpg",
-        "images/global/7a15643e5ad6/5.jpg",
-        "images/global/7a15643e5ad6/6.jpg",
-        "images/global/7a15643e5ad6/7.jpg",
-        "images/global/7a15643e5ad6/8.jpg",
-        "images/global/7a15643e5ad6/9.jpg",
-        "images/global/7a15643e5ad6/10.jpg",
-        "images/global/7a15643e5ad6/11.jpg",
-        "images/global/7a15643e5ad6/12.jpg",
-        "images/global/7a15643e5ad6/13.jpg",
-        "images/global/7a15643e5ad6/14.jpg",
-        "images/global/7a15643e5ad6/15.jpg"
+        "images/global/b593613c0ebe/1.jpg",
+        "images/global/b593613c0ebe/2.jpg",
+        "images/global/b593613c0ebe/3.jpg",
+        "images/global/b593613c0ebe/4.jpg",
+        "images/global/b593613c0ebe/5.jpg",
+        "images/global/b593613c0ebe/6.jpg",
+        "images/global/b593613c0ebe/7.jpg",
+        "images/global/b593613c0ebe/8.jpg",
+        "images/global/b593613c0ebe/9.jpg",
+        "images/global/b593613c0ebe/10.jpg",
+        "images/global/b593613c0ebe/11.jpg",
+        "images/global/b593613c0ebe/12.jpg",
+        "images/global/b593613c0ebe/13.jpg",
+        "images/global/b593613c0ebe/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/7a15643e5ad6/caption.txt"
+      "caption_file": "images/global/b593613c0ebe/caption.txt"
     }
   ]
 }
