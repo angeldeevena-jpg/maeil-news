@@ -1,71 +1,463 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0133",
-  "generated_at": "2026-10-28T06:58:51.499Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0155",
+  "generated_at": "2026-10-29T07:12:44.745Z",
   "cards": [
     {
       "category": "World",
-      "korean_title": "부상 입은 기장, UAE 훈장",
-      "english_title": "Wounded Captain Honored After Saving a Plane",
-      "korean_desc": "9월 30일 부기장이 기장을 공격했다 비행기는 30초 안에 약 14,000피트 떨어졌다 기장은 조종실 문을 열었다 10월 27일 UAE가 승무원에게 훈장을 줬다",
-      "english_desc": "On September 30, a co-pilot attacked Captain Smit Machchhar during flight FZ1073. The plane dropped nearly 14,000 feet in less than 30 seconds. Machchhar opened the cockpit door, allowing passengers to stop the attacker. On October 27, the UAE honored the crew with a high-level civil decoration.",
-      "hook": "A wounded captain helped save 170 passengers.",
-      "sticker": "What happened in the cockpit",
-      "korean_hook": "부상한 기장이 승객 170명을 구했다",
-      "takeaway_english": "The award recognizes bravery, but the attack’s cause remains unanswered.",
-      "takeaway_korean": "훈장은 용기를 기렸지만 원인은 남았다",
+      "korean_title": "판사, 캘리포니아 투표 개입 거부",
+      "english_title": "Judge Rejects Trump Bid to Hold California Ballots",
+      "korean_desc": "2026년 10월 28일 카터 판사가 캘리포니아 요청을 거부했다 정부는 앞서 의심 유권자 수를 19만 명에서 줄였다 10월 28일 카터는 불확실한 의혹이 유권자 권리를 빼앗을 수 있다고 말했다",
+      "english_desc": "On October 28, 2026, Judge David O. Carter rejected the request in California. The government had earlier revised its estimate from 190,000 possible illegal voters. On October 28, Carter said uncertain allegations could deprive registered voters of a core right.",
+      "hook": "A judge rejected the ballot seizure request.",
+      "sticker": "What the judge decided",
+      "korean_hook": "판사가 투표용지 압수를 거부했다",
+      "takeaway_english": "The ballots remain part of the election unless a later court changes the ruling.",
+      "takeaway_korean": "추가 판결이 없으면 투표용지는 선거에 포함된다",
       "why_it_matters": [
         {
-          "english": "Cockpit safety can affect everyone on a passenger flight.",
-          "korean": "조종실 안전은 모든 승객에게 중요하다"
+          "english": "The decision affects how California counts ballots in the November 3 midterm election.",
+          "korean": "이 결정은 11월 3일 선거 개표에 영향을 준다"
         },
         {
-          "english": "The attack raised questions about emergency training and security.",
-          "korean": "공격은 훈련과 보안 문제를 제기했다"
+          "english": "It also tests the balance between federal power and state election control.",
+          "korean": "연방 권력과 주 선거권의 균형도 시험한다"
         }
       ],
       "parties": [
         {
-          "label": "Smit Machchhar",
-          "english": "The injured captain helped passengers reach the cockpit and land safely.",
-          "korean": "부상한 기장은 안전 착륙을 도왔다"
+          "label": "David O. Carter",
+          "english": "The federal judge refused to order ballots held aside.",
+          "korean": "연방 판사는 투표용지 보류를 명령하지 않았다"
         },
         {
-          "label": "flydubai crew",
-          "english": "The crew helped overpower the co-pilot and protect passengers.",
-          "korean": "승무원들은 부기장을 제압했다"
+          "label": "Trump administration",
+          "english": "The administration sought action against more than 20,000 California ballots.",
+          "korean": "트럼프 행정부는 캘리포니아 투표용지를 문제 삼았다"
         },
         {
-          "label": "UAE President",
-          "english": "He awarded the crew the First Class Order of Zayed II.",
-          "korean": "대통령은 승무원에게 훈장을 수여했다"
+          "label": "California",
+          "english": "The state kept control of its election procedures.",
+          "korean": "캘리포니아는 선거 절차를 계속 맡았다"
         }
       ],
       "views": [
         {
-          "label": "UAE officials",
-          "english": "The crew showed courage, responsibility, and service during an extreme emergency.",
-          "korean": "승무원들은 위기에서 용기를 보였다"
+          "label": "Trump administration",
+          "english": "Officials argued that suspected noncitizen voting threatened election integrity.",
+          "korean": "정부는 비시민권자 투표가 선거를 위협한다고 말했다"
         },
         {
-          "label": "Investigators",
-          "english": "The attack’s motive remains unclear, and the co-pilot’s nationality was not officially confirmed by all authorities.",
-          "korean": "공격 동기와 국적은 아직 불확실하다"
+          "label": "California officials and voting groups",
+          "english": "They argued that removing ballots could disenfranchise eligible voters and disrupt counting.",
+          "korean": "그들은 투표용지 제외가 유권자 권리를 해친다고 말했다"
         }
       ],
       "disagree": {
-        "english": "People may want a fuller public explanation of the attack and the investigation.",
-        "korean": "사람들은 더 자세한 설명을 원할 수 있다"
+        "english": "The dispute centers on uncertain voter lists and whether federal officials can intervene so close to voting.",
+        "korean": "쟁점은 불확실한 명단과 연방 개입 권한이다"
       },
-      "reader_question_korean": "이 공격 뒤 항공사는 무엇을 개선해야 할까요?",
+      "reader_question_korean": "유효한 표를 막지 않고 어떻게 자격을 확인해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "number missing in Korean: 1073"
+        "number missing in Korean: 20, 000",
+        "number missing in Korean: 190, 000",
+        "translation check: \"The Justice Department wanted to set aside more th\" may be missing more than"
       ],
-      "source_title": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
+      "source_title": "U.S. judge rejects Trump administration’s interference in California midterm vote",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Trump administration",
+            "english": "Federal officials said more than 20,000 ballots might involve noncitizens.",
+            "korean": "연방 officials는 투표용지 2만 개 이상을 의심했다"
+          },
+          {
+            "label": "California officials",
+            "english": "California officials said the request could wrongly block eligible voters.",
+            "korean": "캘리포니아 officials는 유권자 권리를 걱정했다"
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Ruling dated October 28, 2026.",
+        "The midterm election is November 3, 2026."
+      ],
+      "reader_question": "How should officials check voter eligibility without blocking valid votes?",
+      "topic_tag": "Election",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "U.S. judge rejects Trump administration’s interference in California midterm vote",
+          "date": "2026-10-29",
+          "url": "https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "2026년",
+          "roman": "2026-nyeon",
+          "english": "year 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "28일",
+          "roman": "sembal-il",
+          "english": "28th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "카터",
+          "roman": "ka-teo",
+          "english": "Carter",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "판사가",
+          "roman": "pan-sa-ga",
+          "english": "judge",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "캘리포니아",
+          "roman": "kael-li-po-ni-a",
+          "english": "California",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "요청을",
+          "roman": "yo-cheong-eul",
+          "english": "request",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "거부했다",
+          "roman": "geo-bu-haet-da",
+          "english": "rejected",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On October 28, 2026, Judge David O. Carter rejected the request in California.",
+          "korean": "2026년 10월 28일 카터 판사가 캘리포니아 요청을 거부했다",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "카터",
+              "roman": "ka-teo",
+              "english": "Carter",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "판사가",
+              "roman": "pan-sa-ga",
+              "english": "judge",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "캘리포니아",
+              "roman": "kael-li-po-ni-a",
+              "english": "California",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "요청을",
+              "roman": "yo-cheong-eul",
+              "english": "request",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "거부했다",
+              "roman": "geo-bu-haet-da",
+              "english": "rejected",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The government had earlier revised its estimate from 190,000 possible illegal voters.",
+          "korean": "정부는 앞서 의심 유권자 수를 19만 명에서 줄였다",
+          "glossary": [
+            {
+              "korean": "정부는",
+              "roman": "jeong-bu-neun",
+              "english": "the government",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "앞서",
+              "roman": "ap-seo",
+              "english": "earlier",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "의심",
+              "roman": "ui-sim",
+              "english": "suspected",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "유권자",
+              "roman": "yu-gwon-ja",
+              "english": "voters",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수를",
+              "roman": "su-reul",
+              "english": "number",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "19만",
+              "roman": "sip-gu-man",
+              "english": "190,000",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명에서",
+              "roman": "myeong-eseo",
+              "english": "from people",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "줄였다",
+              "roman": "jul-yeot-da",
+              "english": "reduced",
+              "particle": false,
+              "suffix": "였다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On October 28, Carter said uncertain allegations could deprive registered voters of a core right.",
+          "korean": "10월 28일 카터는 불확실한 의혹이 유권자 권리를 빼앗을 수 있다고 말했다",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "카터는",
+              "roman": "ka-teo-neun",
+              "english": "Carter",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "불확실한",
+              "roman": "bul-hwak-sil-han",
+              "english": "uncertain",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "의혹이",
+              "roman": "ui-hok-i",
+              "english": "allegations",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "유권자",
+              "roman": "yu-gwon-ja",
+              "english": "voters",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "권리를",
+              "roman": "gwon-ri-reul",
+              "english": "rights",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "빼앗을",
+              "roman": "ppae-at-eul",
+              "english": "take away",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "ability",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다고",
+              "roman": "it-da-go",
+              "english": "could",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece",
+      "short_english": "On October 28, 2026, Judge David O. Carter rejected the request in California.",
+      "short_korean": "2026년 10월 28일 카터 판사가 캘리포니아 요청을 거부했다",
+      "date": "2026-10-29",
+      "images": [
+        "images/global/0fb880f125f2/1.jpg",
+        "images/global/0fb880f125f2/2.jpg",
+        "images/global/0fb880f125f2/3.jpg",
+        "images/global/0fb880f125f2/4.jpg",
+        "images/global/0fb880f125f2/5.jpg",
+        "images/global/0fb880f125f2/6.jpg",
+        "images/global/0fb880f125f2/7.jpg",
+        "images/global/0fb880f125f2/8.jpg",
+        "images/global/0fb880f125f2/9.jpg",
+        "images/global/0fb880f125f2/10.jpg",
+        "images/global/0fb880f125f2/11.jpg",
+        "images/global/0fb880f125f2/12.jpg",
+        "images/global/0fb880f125f2/13.jpg",
+        "images/global/0fb880f125f2/14.jpg",
+        "images/global/0fb880f125f2/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/0fb880f125f2/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "스페인 열차 충돌로 최소 68명 사망",
+      "english_title": "Spain Train Collision Kills at Least 68",
+      "korean_desc": "10월 28일 스페인 톨레도 근처에서 고속열차 두 대가 충돌했다 관계자들은 69킬로미터 선로에서 자동 관제가 고장 났다고 말했다 움직이던 열차는 25킬로미터 뒤 멈춘 이리오 열차를 들이받았다",
+      "english_desc": "On October 28, two high-speed trains collided near Toledo, Spain. Officials said a technical failure affected automatic control on 69 kilometres of track. The moving train traveled 25 kilometres before hitting the stationary Iryo train.",
+      "hook": "At least 68 people died in Spain.",
+      "sticker": "What happened on the tracks",
+      "korean_hook": "스페인에서 최소 68명이 숨졌다",
+      "takeaway_english": "Investigators must explain the control failure before Spain can rebuild trust in high-speed rail.",
+      "takeaway_korean": "조사관들은 고속철도 신뢰 회복 전에 관제 실패를 설명해야 한다",
+      "why_it_matters": [
+        {
+          "english": "The crash disrupted a major high-speed route between Madrid and southern Spain.",
+          "korean": "사고는 마드리드와 남부를 잇는 주요 노선을 멈췄다"
+        },
+        {
+          "english": "It renewed questions about railway safety after another deadly crash in January.",
+          "korean": "1월 사고 뒤 철도 안전 논란이 다시 커졌다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Passengers and families",
+          "english": "They suffered deaths, injuries and separation after the collision.",
+          "korean": "승객과 가족들은 사망과 부상을 겪었다"
+        },
+        {
+          "label": "Renfe and Iryo",
+          "english": "Their trains were involved in the collision.",
+          "korean": "두 회사의 열차가 충돌에 연루됐다"
+        },
+        {
+          "label": "Spanish government",
+          "english": "Officials suspended the line and began investigating the control decision.",
+          "korean": "정부는 노선을 중단하고 관제 결정을 조사했다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Transport Minister Óscar Puente",
+          "english": "He said a control centre allowed traffic to resume despite a technical failure.",
+          "korean": "푸엔테 장관은 관제센터가 고장 중 운행을 재개했다고 말했다"
+        },
+        {
+          "label": "Opposition leader Alberto Núñez Feijóo",
+          "english": "He said Spain deserved answers about the condition of its infrastructure.",
+          "korean": "페이후는 인프라 상태에 대한 답을 요구했다"
+        }
+      ],
+      "disagree": {
+        "english": "The cause remains under investigation, so responsibility has not been established.",
+        "korean": "원인은 조사 중이며 책임은 아직 정해지지 않았다"
+      },
+      "reader_question_korean": "올해 두 사고 뒤 스페인은 무엇을 바꿔야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "At least 68 dead after two trains collide in Spain’s Toledo Province",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -75,340 +467,17 @@
       "format_data": {},
       "serious": true,
       "caption_lines": [
-        "The attack happened on September 30, 2026.",
-        "Flight FZ1073 was traveling from Dubai to Tel Aviv.",
-        "The award ceremony took place on October 27, 2026."
+        "The collision happened on October 28, 2026.",
+        "The line connects Madrid with southern Spain."
       ],
-      "reader_question": "What should airlines improve after this attack?",
-      "topic_tag": "Aviation",
+      "reader_question": "What safety changes should Spain make after two crashes this year?",
+      "topic_tag": "Disaster",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Indian Captain Smit Machchhar, flydubai crew honoured by UAE President for bravery during mid-air attack",
-          "date": "2026-10-28",
-          "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "9월",
-          "roman": "9-wol",
-          "english": "September",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "30일",
-          "roman": "sam-sip-il",
-          "english": "30th day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "부기장이",
-          "roman": "bugi-jang-i",
-          "english": "co-pilot",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "기장을",
-          "roman": "gi-jang-eul",
-          "english": "captain",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "공격했다",
-          "roman": "gong-gyeok-haet-da",
-          "english": "attacked",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On September 30, a co-pilot attacked Captain Smit Machchhar during flight FZ1073.",
-          "korean": "9월 30일 부기장이 기장을 공격했다",
-          "glossary": [
-            {
-              "korean": "9월",
-              "roman": "9-wol",
-              "english": "September",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "30일",
-              "roman": "sam-sip-il",
-              "english": "30th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "부기장이",
-              "roman": "bugi-jang-i",
-              "english": "co-pilot",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "기장을",
-              "roman": "gi-jang-eul",
-              "english": "captain",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공격했다",
-              "roman": "gong-gyeok-haet-da",
-              "english": "attacked",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The plane dropped nearly 14,000 feet in less than 30 seconds.",
-          "korean": "비행기는 30초 안에 약 14,000피트 떨어졌다",
-          "glossary": [
-            {
-              "korean": "비행기는",
-              "roman": "bi-haeng-gi-neun",
-              "english": "the plane",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "30초",
-              "roman": "sam-sip-cho",
-              "english": "30 seconds",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안에",
-              "roman": "an-e",
-              "english": "within",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "nearly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "14,000피트",
-              "roman": "man-sa-cheon-pi-teu",
-              "english": "14,000 feet",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "떨어졌다",
-              "roman": "tteol-eo-jyeot-da",
-              "english": "dropped",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Machchhar opened the cockpit door, allowing passengers to stop the attacker.",
-          "korean": "기장은 조종실 문을 열었다",
-          "glossary": [
-            {
-              "korean": "기장은",
-              "roman": "gi-jang-eun",
-              "english": "the captain",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "조종실",
-              "roman": "jo-jong-sil",
-              "english": "cockpit",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "문을",
-              "roman": "mun-eul",
-              "english": "door",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "열었다",
-              "roman": "yeol-eot-da",
-              "english": "opened",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On October 27, the UAE honored the crew with a high-level civil decoration.",
-          "korean": "10월 27일 UAE가 승무원에게 훈장을 줬다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "27일",
-              "roman": "i-sip-chil-il",
-              "english": "27th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "UAE가",
-              "roman": "UAE-ga",
-              "english": "UAE",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "승무원에게",
-              "roman": "seung-mu-won-e-ge",
-              "english": "to the crew",
-              "particle": false,
-              "suffix": "에게"
-            },
-            {
-              "korean": "훈장을",
-              "roman": "hun-jang-eul",
-              "english": "medal",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "줬다",
-              "roman": "jwot-da",
-              "english": "gave",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/indian-captain-smit-machchhar-flydubai-crew-honoured-by-uae-president-for-bravery-during-mid-air-attack/article71634465.ece",
-      "short_english": "On September 30, a co-pilot attacked Captain Smit Machchhar during flight FZ1073.",
-      "short_korean": "9월 30일 부기장이 기장을 공격했다",
-      "date": "2026-10-28",
-      "images": [
-        "images/global/6aff626cede0/1.jpg",
-        "images/global/6aff626cede0/2.jpg",
-        "images/global/6aff626cede0/3.jpg",
-        "images/global/6aff626cede0/4.jpg",
-        "images/global/6aff626cede0/5.jpg",
-        "images/global/6aff626cede0/6.jpg",
-        "images/global/6aff626cede0/7.jpg",
-        "images/global/6aff626cede0/8.jpg",
-        "images/global/6aff626cede0/9.jpg",
-        "images/global/6aff626cede0/10.jpg",
-        "images/global/6aff626cede0/11.jpg",
-        "images/global/6aff626cede0/12.jpg",
-        "images/global/6aff626cede0/13.jpg",
-        "images/global/6aff626cede0/14.jpg",
-        "images/global/6aff626cede0/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/6aff626cede0/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "트럼프, 플라비우스 입국 승인",
-      "english_title": "Trump Welcomes Bolsonaro After Brazil Election Loss",
-      "korean_desc": "10월 25일 룰라가 플라비우스를 이겼다 결과는 보우소나루 가족의 복귀를 막았다 패배 뒤 플라비우스는 미국으로 떠났다 10월 28일 트럼프는 입국을 승인했다",
-      "english_desc": "On October 25, Luiz Inácio Lula da Silva defeated Flávio Bolsonaro in Brazil’s election. The result stopped a possible return of Jair Bolsonaro’s family to national power. After losing, Flávio Bolsonaro left Brazil for the United States. On October 28, Trump said he approved his entry, and visas were expected for his family.",
-      "hook": "Trump said Flávio Bolsonaro could enter America.",
-      "sticker": "A political welcome",
-      "korean_hook": "트럼프가 플라비우스 입국을 허용했다",
-      "takeaway_english": "The visa decision gives Bolsonaro a U.S. refuge while Brazil’s political dispute continues.",
-      "takeaway_korean": "비자 결정 뒤 브라질의 정치 논쟁은 계속된다",
-      "why_it_matters": [
-        {
-          "english": "The move links immigration decisions with international political relationships.",
-          "korean": "이 결정은 이민과 국제정치를 연결한다"
-        },
-        {
-          "english": "Brazil’s result may shape relations between Lula’s government and Trump.",
-          "korean": "브라질 결과는 룰라와 트럼프의 관계에 영향을 준다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Donald Trump",
-          "english": "He said he approved Flávio Bolsonaro coming to the United States.",
-          "korean": "트럼프는 플라비우스의 미국행을 찬성했다"
-        },
-        {
-          "label": "Flávio Bolsonaro",
-          "english": "He left Brazil after losing the presidential election.",
-          "korean": "플라비우스는 대선 패배 뒤 브라질을 떠났다"
-        },
-        {
-          "label": "Luiz Inácio Lula da Silva",
-          "english": "He defeated Bolsonaro in Brazil’s presidential runoff.",
-          "korean": "룰라는 결선에서 보우소나루를 이겼다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Trump",
-          "english": "Trump called the election very strange and criticized its result.",
-          "korean": "트럼프는 선거가 매우 이상하다고 비판했다"
-        },
-        {
-          "label": "Brazilian election authorities",
-          "english": "The election result gave Lula another term after the runoff vote.",
-          "korean": "선거 결과 룰라가 다시 임기를 얻었다"
-        }
-      ],
-      "disagree": {
-        "english": "Critics may say Trump questioned the result without presenting evidence of wrongdoing.",
-        "korean": "비판자들은 트럼프가 근거 없이 결과를 의심했다고 말할 수 있다"
-      },
-      "reader_question_korean": "선거 패배 뒤 정치 동맹은 특별 대우를 받아야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Trump would approve Flavio Bolsonaro coming to U.S.; says Brazil election was ‘very strange’",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The runoff election was held on October 25, 2026.",
-        "Flávio Bolsonaro is a Brazilian senator.",
-        "The U.S. State Department said his family would receive visas."
-      ],
-      "reader_question": "Should political allies receive special treatment after losing elections?",
-      "topic_tag": "Politics",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Trump would approve Flavio Bolsonaro coming to U.S.; says Brazil election was ‘very strange’",
-          "date": "2026-10-28",
-          "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-us-trump-brazil-elections/article71634540.ece"
+          "title": "At least 68 dead after two trains collide in Spain’s Toledo Province",
+          "date": "2026-10-29",
+          "url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece"
         }
       ],
       "glossary": [
@@ -417,786 +486,112 @@
           "roman": "sip-wol",
           "english": "October",
           "particle": false,
-          "suffix": ""
+          "suffix": "월"
         },
         {
-          "korean": "25일",
-          "roman": "i-sip-o-il",
-          "english": "25th day",
+          "korean": "28일",
+          "roman": "sembal-il",
+          "english": "28th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "스페인",
+          "roman": "seu-pe-in",
+          "english": "Spain",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "룰라가",
-          "roman": "rul-la-ga",
-          "english": "Lula",
+          "korean": "톨레도",
+          "roman": "tol-le-do",
+          "english": "Toledo",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "근처에서",
+          "roman": "geun-cheo-eseo",
+          "english": "near",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "고속열차",
+          "roman": "go-sok-yeol-cha",
+          "english": "high-speed trains",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "두",
+          "roman": "du",
+          "english": "two",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "대가",
+          "roman": "dae-ga",
+          "english": "vehicles",
           "particle": false,
           "suffix": "가"
         },
         {
-          "korean": "플라비우스를",
-          "roman": "peul-la-bi-u-seu-reul",
-          "english": "Flávio",
+          "korean": "충돌했다",
+          "roman": "chung-dol-haet-da",
+          "english": "collided",
           "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "이겼다",
-          "roman": "i-gyeot-da",
-          "english": "defeated",
-          "particle": false,
-          "suffix": "다"
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "On October 25, Luiz Inácio Lula da Silva defeated Flávio Bolsonaro in Brazil’s election.",
-          "korean": "10월 25일 룰라가 플라비우스를 이겼다",
+          "english": "On October 28, two high-speed trains collided near Toledo, Spain.",
+          "korean": "10월 28일 스페인 톨레도 근처에서 고속열차 두 대가 충돌했다",
           "glossary": [
             {
               "korean": "10월",
               "roman": "sip-wol",
               "english": "October",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "25일",
-              "roman": "i-sip-o-il",
-              "english": "25th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "룰라가",
-              "roman": "rul-la-ga",
-              "english": "Lula",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "플라비우스를",
-              "roman": "peul-la-bi-u-seu-reul",
-              "english": "Flávio",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "이겼다",
-              "roman": "i-gyeot-da",
-              "english": "defeated",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The result stopped a possible return of Jair Bolsonaro’s family to national power.",
-          "korean": "결과는 보우소나루 가족의 복귀를 막았다",
-          "glossary": [
-            {
-              "korean": "결과는",
-              "roman": "gyeol-gwa-neun",
-              "english": "the result",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "보우소나루",
-              "roman": "bo-u-so-na-ru",
-              "english": "Bolsonaro",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "가족의",
-              "roman": "ga-jok-ui",
-              "english": "family’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "복귀를",
-              "roman": "bok-gwi-reul",
-              "english": "return",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "막았다",
-              "roman": "mak-at-da",
-              "english": "stopped",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "After losing, Flávio Bolsonaro left Brazil for the United States.",
-          "korean": "패배 뒤 플라비우스는 미국으로 떠났다",
-          "glossary": [
-            {
-              "korean": "패배",
-              "roman": "pae-bae",
-              "english": "loss",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "플라비우스는",
-              "roman": "peul-la-bi-u-seu-neun",
-              "english": "Flávio",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "미국으로",
-              "roman": "mi-guk-eu-ro",
-              "english": "to America",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "떠났다",
-              "roman": "tteon-at-da",
-              "english": "left",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On October 28, Trump said he approved his entry, and visas were expected for his family.",
-          "korean": "10월 28일 트럼프는 입국을 승인했다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
+              "suffix": "월"
             },
             {
               "korean": "28일",
-              "roman": "i-sip-pal-il",
+              "roman": "sembal-il",
               "english": "28th day",
               "particle": false,
-              "suffix": ""
+              "suffix": "일"
             },
             {
-              "korean": "트럼프는",
-              "roman": "teu-reom-peu-neun",
-              "english": "Trump",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "입국을",
-              "roman": "ip-guk-eul",
-              "english": "entry",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "승인했다",
-              "roman": "seung-in-haet-da",
-              "english": "approved",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-us-trump-brazil-elections/article71634540.ece",
-      "short_english": "On October 25, Luiz Inácio Lula da Silva defeated Flávio Bolsonaro in Brazil’s election.",
-      "short_korean": "10월 25일 룰라가 플라비우스를 이겼다",
-      "date": "2026-10-28",
-      "images": [
-        "images/global/bbf2b1958b9e/1.jpg",
-        "images/global/bbf2b1958b9e/2.jpg",
-        "images/global/bbf2b1958b9e/3.jpg",
-        "images/global/bbf2b1958b9e/4.jpg",
-        "images/global/bbf2b1958b9e/5.jpg",
-        "images/global/bbf2b1958b9e/6.jpg",
-        "images/global/bbf2b1958b9e/7.jpg",
-        "images/global/bbf2b1958b9e/8.jpg",
-        "images/global/bbf2b1958b9e/9.jpg",
-        "images/global/bbf2b1958b9e/10.jpg",
-        "images/global/bbf2b1958b9e/11.jpg",
-        "images/global/bbf2b1958b9e/12.jpg",
-        "images/global/bbf2b1958b9e/13.jpg",
-        "images/global/bbf2b1958b9e/14.jpg",
-        "images/global/bbf2b1958b9e/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/bbf2b1958b9e/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "연준, 물가 속 금리 동결 전망",
-      "english_title": "Fed May Pause Despite Rising Inflation",
-      "korean_desc": "10월 28일 연준은 금리를 유지할 전망이었다 이란 전쟁 뒤 기름값과 가스값이 올랐다 연준은 지난달 기준금리를 3.6%에서 3.9%로 올렸다 9월 소비자물가는 전년보다 3.7% 올랐다",
-      "english_desc": "On October 28, the Federal Reserve was expected to leave interest rates unchanged. Inflation accelerated after the Iran war pushed oil and gas prices higher. The Fed raised its key rate from about 3.6% to 3.9% last month. September consumer prices rose 3.7% from a year earlier, far above the target.",
-      "hook": "Inflation rose, but the Fed may pause.",
-      "sticker": "The rate decision",
-      "korean_hook": "물가는 올랐지만 연준은 멈출 수 있다",
-      "takeaway_english": "The pause may be temporary, with investors already expecting a possible December increase.",
-      "takeaway_korean": "이번 동결은 일시적일 수 있다",
-      "why_it_matters": [
-        {
-          "english": "Interest rates affect mortgages, car loans, credit cards, and business spending.",
-          "korean": "금리는 주택대출과 자동차대출에 영향을 준다"
-        },
-        {
-          "english": "Inflation changes the cost of gas, groceries, clothing, and housing.",
-          "korean": "물가는 기름과 식료품 가격을 바꾼다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Federal Reserve",
-          "english": "The central bank is expected to keep rates unchanged on October 28.",
-          "korean": "연준은 10월 28일 금리를 유지할 전망이다"
-        },
-        {
-          "label": "Kevin Warsh",
-          "english": "The chair must explain why rates rose in September but may not rise now.",
-          "korean": "워시는 금리 결정을 설명해야 한다"
-        },
-        {
-          "label": "American consumers",
-          "english": "Higher prices and borrowing costs are making daily life more expensive.",
-          "korean": "미국 소비자들은 높은 비용을 겪고 있다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Federal Reserve officials",
-          "english": "Holding rates could avoid adding pressure while inflation is partly driven by energy costs.",
-          "korean": "금리 유지는 에너지 부담을 피할 수 있다"
-        },
-        {
-          "label": "Aditya Bhave, Bank of America",
-          "english": "He says policymakers have been too relaxed about inflation above the target.",
-          "korean": "그는 연준이 높은 물가에 너무 느긋했다고 말한다"
-        }
-      ],
-      "disagree": {
-        "english": "Others may say stronger rate increases are needed because inflation is far above the Fed’s target.",
-        "korean": "다른 사람들은 물가가 목표보다 높아 금리 인상이 필요하다고 말할 수 있다"
-      },
-      "reader_question_korean": "연준은 물가와 대출자 중 누구를 먼저 보호해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Federal Reserve likely to skip rate hike despite elevated inflation",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The Fed’s meeting ends on October 28, 2026.",
-        "The Fed’s inflation target is 2%.",
-        "A separate PCE inflation measure was due October 29, 2026."
-      ],
-      "reader_question": "Should the Fed fight inflation or protect borrowers first?",
-      "topic_tag": "Economy",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Federal Reserve likely to skip rate hike despite elevated inflation",
-          "date": "2026-10-28",
-          "url": "https://www.thehindu.com/news/international/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "28일",
-          "roman": "i-sip-pal-il",
-          "english": "28th day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "연준은",
-          "roman": "yeon-jun-eun",
-          "english": "the Fed",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "금리를",
-          "roman": "geum-ri-reul",
-          "english": "interest rates",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "유지할",
-          "roman": "yu-ji-hal",
-          "english": "keep",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "전망이었다",
-          "roman": "jeon-mang-i-eot-da",
-          "english": "was expected",
-          "particle": false,
-          "suffix": "었다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On October 28, the Federal Reserve was expected to leave interest rates unchanged.",
-          "korean": "10월 28일 연준은 금리를 유지할 전망이었다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
+              "korean": "스페인",
+              "roman": "seu-pe-in",
+              "english": "Spain",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "28일",
-              "roman": "i-sip-pal-il",
-              "english": "28th day",
+              "korean": "톨레도",
+              "roman": "tol-le-do",
+              "english": "Toledo",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "연준은",
-              "roman": "yeon-jun-eun",
-              "english": "the Fed",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "금리를",
-              "roman": "geum-ri-reul",
-              "english": "interest rates",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "유지할",
-              "roman": "yu-ji-hal",
-              "english": "keep",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전망이었다",
-              "roman": "jeon-mang-i-eot-da",
-              "english": "was expected",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Inflation accelerated after the Iran war pushed oil and gas prices higher.",
-          "korean": "이란 전쟁 뒤 기름값과 가스값이 올랐다",
-          "glossary": [
-            {
-              "korean": "이란",
-              "roman": "i-ran",
-              "english": "Iran",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전쟁",
-              "roman": "jeon-jaeng",
-              "english": "war",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "기름값과",
-              "roman": "gi-reum-gap-gwa",
-              "english": "oil prices and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "가스값이",
-              "roman": "ga-seu-gap-i",
-              "english": "gas prices",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "올랐다",
-              "roman": "ol-lat-da",
-              "english": "rose",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The Fed raised its key rate from about 3.6% to 3.9% last month.",
-          "korean": "연준은 지난달 기준금리를 3.6%에서 3.9%로 올렸다",
-          "glossary": [
-            {
-              "korean": "연준은",
-              "roman": "yeon-jun-eun",
-              "english": "the Fed",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지난달",
-              "roman": "ji-nan-dal",
-              "english": "last month",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "기준금리를",
-              "roman": "gi-jun-geum-ri-reul",
-              "english": "key rate",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "3.6%에서",
-              "roman": "sam-jeom-yuk-pae-sen-teu-e-seo",
-              "english": "from 3.6%",
+              "korean": "근처에서",
+              "roman": "geun-cheo-eseo",
+              "english": "near",
               "particle": false,
               "suffix": "에서"
             },
             {
-              "korean": "3.9%로",
-              "roman": "sam-jeom-gu-pae-sen-teu-ro",
-              "english": "to 3.9%",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "올렸다",
-              "roman": "ol-lyeot-da",
-              "english": "raised",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "September consumer prices rose 3.7% from a year earlier, far above the target.",
-          "korean": "9월 소비자물가는 전년보다 3.7% 올랐다",
-          "glossary": [
-            {
-              "korean": "9월",
-              "roman": "gu-wol",
-              "english": "September",
+              "korean": "고속열차",
+              "roman": "go-sok-yeol-cha",
+              "english": "high-speed trains",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "소비자물가는",
-              "roman": "so-bi-ja-mul-ga-neun",
-              "english": "consumer prices",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "전년보다",
-              "roman": "jeon-nyeon-bo-da",
-              "english": "than a year earlier",
-              "particle": false,
-              "suffix": "보다"
-            },
-            {
-              "korean": "올랐다",
-              "roman": "ol-lat-da",
-              "english": "rose",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
-      "short_english": "On October 28, the Federal Reserve was expected to leave interest rates unchanged.",
-      "short_korean": "10월 28일 연준은 금리를 유지할 전망이었다",
-      "date": "2026-10-28",
-      "images": [
-        "images/global/8d0f3871e953/1.jpg",
-        "images/global/8d0f3871e953/2.jpg",
-        "images/global/8d0f3871e953/3.jpg",
-        "images/global/8d0f3871e953/4.jpg",
-        "images/global/8d0f3871e953/5.jpg",
-        "images/global/8d0f3871e953/6.jpg",
-        "images/global/8d0f3871e953/7.jpg",
-        "images/global/8d0f3871e953/8.jpg",
-        "images/global/8d0f3871e953/9.jpg",
-        "images/global/8d0f3871e953/10.jpg",
-        "images/global/8d0f3871e953/11.jpg",
-        "images/global/8d0f3871e953/12.jpg",
-        "images/global/8d0f3871e953/13.jpg",
-        "images/global/8d0f3871e953/14.jpg",
-        "images/global/8d0f3871e953/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/8d0f3871e953/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "이스라엘 선거, 양쪽 모두 승리 주장",
-      "english_title": "Netanyahu and Rival Both Claim Israel’s Mandate",
-      "korean_desc": "10월 27일 이스라엘은 총선을 열었다 이번 투표는 네타냐후 통치를 평가했다 출구조사는 두 진영을 약 51석으로 봤다 10월 28일 두 사람 모두 정부 구성을 주장했다",
-      "english_desc": "On October 27, Israel held its first election since the October 7, 2023 attack. The vote was widely seen as a judgment on Netanyahu’s divisive rule. Exit polls put both major blocs near 51 seats, below the 61-seat majority. On October 28, Netanyahu and Eisenkot both claimed they could form the next government.",
-      "hook": "Both blocs claimed victory without enough seats.",
-      "sticker": "Israel’s uncertain next move",
-      "korean_hook": "두 진영 모두 의석 부족에도 승리를 주장했다",
-      "takeaway_english": "Israel’s next government depends on coalition talks, not just the first vote count.",
-      "takeaway_korean": "다음 정부는 연정 협상에 달려 있다",
-      "why_it_matters": [
-        {
-          "english": "The result may change Israel’s leadership and coalition policies.",
-          "korean": "결과는 이스라엘 지도부와 정책을 바꿀 수 있다"
-        },
-        {
-          "english": "The election follows wars, political division, and the October 7 attack.",
-          "korean": "선거는 전쟁과 분열 뒤에 열렸다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Benjamin Netanyahu",
-          "english": "He called for a strong right-wing government.",
-          "korean": "네타냐후는 강한 우파 정부를 요구했다"
-        },
-        {
-          "label": "Gadi Eisenkot",
-          "english": "He said voters had rejected Netanyahu and promised to form a government quickly.",
-          "korean": "아이젠코트는 변화를 약속했다"
-        },
-        {
-          "label": "Israeli Arab parties",
-          "english": "Their gains could influence coalition or minority-government talks.",
-          "korean": "아랍 정당의 약진은 연정에 영향을 준다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Netanyahu’s camp",
-          "english": "It argues that a Jewish and Zionist majority should lead the next government.",
-          "korean": "네타냐후 진영은 유대 시온주의 다수를 강조한다"
-        },
-        {
-          "label": "Eisenkot’s camp",
-          "english": "It says the vote showed public rejection of Netanyahu’s leadership.",
-          "korean": "아이젠코트 진영은 국민이 네타냐후를 거부했다고 말한다"
-        }
-      ],
-      "disagree": {
-        "english": "Neither bloc reached 61 seats, so neither side can yet prove it has a governing majority.",
-        "korean": "어느 진영도 61석을 얻지 못해 승리를 확정할 수 없다"
-      },
-      "reader_question_korean": "아랍 의원들은 다음 이스라엘 정부를 도와야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 2023",
-        "number missing in Korean: 61"
-      ],
-      "source_title": "Netanyahu and rival each claim mandate after tight Israel election",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Voting took place on October 27, 2026.",
-        "A majority requires 61 of 120 Knesset seats.",
-        "Turnout was nearly 78%, the highest since 1999."
-      ],
-      "reader_question": "Should Arab lawmakers help form Israel’s next government?",
-      "topic_tag": "Election",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Netanyahu and rival each claim mandate after tight Israel election",
-          "date": "2026-10-28",
-          "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "27일",
-          "roman": "i-sip-chil-il",
-          "english": "27th day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "이스라엘은",
-          "roman": "i-seu-ra-el-eun",
-          "english": "Israel",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "총선을",
-          "roman": "chong-seon-eul",
-          "english": "general election",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "열었다",
-          "roman": "yeol-eot-da",
-          "english": "held",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On October 27, Israel held its first election since the October 7, 2023 attack.",
-          "korean": "10월 27일 이스라엘은 총선을 열었다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "27일",
-              "roman": "i-sip-chil-il",
-              "english": "27th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이스라엘은",
-              "roman": "i-seu-ra-el-eun",
-              "english": "Israel",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "총선을",
-              "roman": "chong-seon-eul",
-              "english": "general election",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "열었다",
-              "roman": "yeol-eot-da",
-              "english": "held",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The vote was widely seen as a judgment on Netanyahu’s divisive rule.",
-          "korean": "이번 투표는 네타냐후 통치를 평가했다",
-          "glossary": [
-            {
-              "korean": "이번",
-              "roman": "i-beon",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "투표는",
-              "roman": "tu-pyo-neun",
-              "english": "the vote",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "네타냐후",
-              "roman": "ne-ta-nya-hu",
-              "english": "Netanyahu",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "통치를",
-              "roman": "tong-chi-reul",
-              "english": "rule",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "평가했다",
-              "roman": "pyeong-ga-haet-da",
-              "english": "judged",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Exit polls put both major blocs near 51 seats, below the 61-seat majority.",
-          "korean": "출구조사는 두 진영을 약 51석으로 봤다",
-          "glossary": [
-            {
-              "korean": "출구조사는",
-              "roman": "chul-gu-jo-sa-neun",
-              "english": "exit polls",
-              "particle": false,
-              "suffix": "는"
             },
             {
               "korean": "두",
@@ -1206,11 +601,1867 @@
               "suffix": ""
             },
             {
-              "korean": "진영을",
-              "roman": "jin-yeong-eul",
-              "english": "blocs",
+              "korean": "대가",
+              "roman": "dae-ga",
+              "english": "vehicles",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "충돌했다",
+              "roman": "chung-dol-haet-da",
+              "english": "collided",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Officials said a technical failure affected automatic control on 69 kilometres of track.",
+          "korean": "관계자들은 69킬로미터 선로에서 자동 관제가 고장 났다고 말했다",
+          "glossary": [
+            {
+              "korean": "관계자들은",
+              "roman": "gwan-gye-ja-deul-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "69킬로미터",
+              "roman": "yuk-sip-gu-kil-lo-mi-teo",
+              "english": "69 kilometres",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선로에서",
+              "roman": "seon-ro-eseo",
+              "english": "on the track",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "자동",
+              "roman": "ja-dong",
+              "english": "automatic",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "관제가",
+              "roman": "gwan-je-ga",
+              "english": "control",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "고장",
+              "roman": "go-jang",
+              "english": "failure",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "났다고",
+              "roman": "nat-da-go",
+              "english": "had happened",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The moving train traveled 25 kilometres before hitting the stationary Iryo train.",
+          "korean": "움직이던 열차는 25킬로미터 뒤 멈춘 이리오 열차를 들이받았다",
+          "glossary": [
+            {
+              "korean": "움직이던",
+              "roman": "um-jig-i-deon",
+              "english": "moving",
+              "particle": false,
+              "suffix": "던"
+            },
+            {
+              "korean": "열차는",
+              "roman": "yeol-cha-neun",
+              "english": "train",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "25킬로미터",
+              "roman": "i-sip-o-kil-lo-mi-teo",
+              "english": "25 kilometres",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "later",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "멈춘",
+              "roman": "meom-chun",
+              "english": "stopped",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이리오",
+              "roman": "i-ri-o",
+              "english": "Iryo",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "열차를",
+              "roman": "yeol-cha-reul",
+              "english": "train",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "들이받았다",
+              "roman": "deul-i-bat-at-da",
+              "english": "hit",
+              "particle": false,
+              "suffix": "았다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece",
+      "short_english": "On October 28, two high-speed trains collided near Toledo, Spain.",
+      "short_korean": "10월 28일 스페인 톨레도 근처에서 고속열차 두 대가 충돌했다",
+      "date": "2026-10-29",
+      "images": [
+        "images/global/b74ccf3e0154/1.jpg",
+        "images/global/b74ccf3e0154/2.jpg",
+        "images/global/b74ccf3e0154/3.jpg",
+        "images/global/b74ccf3e0154/4.jpg",
+        "images/global/b74ccf3e0154/5.jpg",
+        "images/global/b74ccf3e0154/6.jpg",
+        "images/global/b74ccf3e0154/7.jpg",
+        "images/global/b74ccf3e0154/8.jpg",
+        "images/global/b74ccf3e0154/9.jpg",
+        "images/global/b74ccf3e0154/10.jpg",
+        "images/global/b74ccf3e0154/11.jpg",
+        "images/global/b74ccf3e0154/12.jpg",
+        "images/global/b74ccf3e0154/13.jpg",
+        "images/global/b74ccf3e0154/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/b74ccf3e0154/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "플라비우 보우소나루, 미국 망명 뒤 지도자 주장",
+      "english_title": "Defeated Bolsonaro Claims Leadership From U.S.",
+      "korean_desc": "10월 28일 플라비우 보우소나루가 브라질 결선 패배 뒤 플로리다에 도착했다 그는 자신을 당선 대통령이라 했다가 야당 지도자로 바꿔 말했다 룰라는 51.8%를 얻었고 보우소나루는 증거 없이 부정을 주장했다 10월 28일 브라질 경찰은 그를 도망자로 보지 않는다고 말했다",
+      "english_desc": "On October 28, Flávio Bolsonaro arrived in Florida after losing Brazil’s runoff election. He said he was Brazil’s elected president, then changed the claim to opposition leader. Lula won 51.8%, while Bolsonaro alleged fraud without evidence. On October 28, Brazil police said he was not considered a fugitive.",
+      "hook": "Flávio Bolsonaro fled Brazil and claimed leadership.",
+      "sticker": "Brazil’s political dispute",
+      "korean_hook": "플라비우 보우소나루가 떠나 지도자를 주장했다",
+      "takeaway_english": "Brazil’s political conflict continues abroad while questions remain about the election claims and investigation.",
+      "takeaway_korean": "선거 주장과 수사 의문 속에 브라질 갈등은 해외에서도 계속된다",
+      "why_it_matters": [
+        {
+          "english": "The dispute challenges acceptance of Brazil’s election result after Lula’s victory.",
+          "korean": "이 분쟁은 룰라 승리 뒤 선거 결과 수용을 흔든다"
+        },
+        {
+          "english": "His departure also affects an investigation into alleged corruption and money laundering.",
+          "korean": "그의 출국은 부패와 자금세탁 수사에도 영향을 준다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Flávio Bolsonaro",
+          "english": "He lost the runoff, left Brazil and claimed to lead the opposition.",
+          "korean": "플라비우는 결선에서 패하고 브라질을 떠났다"
+        },
+        {
+          "label": "Luiz Inácio Lula da Silva",
+          "english": "Lula won 51.8% and became the declared election winner.",
+          "korean": "룰라는 51.8%를 얻어 선거에서 승리했다"
+        },
+        {
+          "label": "Brazilian Supreme Court",
+          "english": "Justice Alexandre de Moraes had ordered Bolsonaro to surrender his passports.",
+          "korean": "모라이스 판사는 여권을 내라고 명령했다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Flávio Bolsonaro",
+          "english": "He alleged election fraud and called Brazil’s government a tyranny.",
+          "korean": "그는 선거 부정을 주장하며 브라질 정부를 독재라고 불렀다"
+        },
+        {
+          "label": "Rogério Marinho",
+          "english": "He said Bolsonaro was a right-wing leader but that fraud claims lacked evidence.",
+          "korean": "마리뉴는 그가 우파 지도자지만 부정 주장은 증거가 없다고 말했다"
+        }
+      ],
+      "disagree": {
+        "english": "Supporters may see his departure as political exile, while critics see an attempt to avoid Brazilian scrutiny.",
+        "korean": "지지자는 망명으로 보고 비판자는 조사를 피한 행동으로 본다"
+      },
+      "reader_question_korean": "패배한 후보가 다른 나라에서 야당을 이끌 수 있을까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Flávio Bolsonaro",
+            "english": "He said he was Brazil’s elected leader and would lead opposition from the United States.",
+            "korean": "그는 자신이 브라질 지도자이며 미국에서 야당을 이끌겠다고 말했다"
+          },
+          {
+            "label": "Rogério Marinho",
+            "english": "The Liberal Party leader supported him personally but said there was no evidence of fraud.",
+            "korean": "마리뉴는 그를 지지했지만 부정 증거는 없다고 말했다"
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Lula won the October 25 runoff with 51.8%.",
+        "Bolsonaro arrived near Miami on October 28, 2026."
+      ],
+      "reader_question": "Can a defeated candidate lead an opposition from another country?",
+      "topic_tag": "Politics",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Flavio Bolsonaro claims he is Brazil’s true leader after fleeing to U.S.",
+          "date": "2026-10-29",
+          "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "28일",
+          "roman": "sembal-il",
+          "english": "28th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "플라비우",
+          "roman": "peul-la-bi-u",
+          "english": "Flávio",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "보우소나루가",
+          "roman": "bo-u-so-na-ru-ga",
+          "english": "Bolsonaro",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "브라질",
+          "roman": "beu-ra-jil",
+          "english": "Brazil",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "결선",
+          "roman": "gyeol-seon",
+          "english": "runoff",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "패배",
+          "roman": "pae-bae",
+          "english": "defeat",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "뒤",
+          "roman": "dwi",
+          "english": "after",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "플로리다에",
+          "roman": "peul-lo-ri-da-e",
+          "english": "in Florida",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "도착했다",
+          "roman": "do-chak-haet-da",
+          "english": "arrived",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On October 28, Flávio Bolsonaro arrived in Florida after losing Brazil’s runoff election.",
+          "korean": "10월 28일 플라비우 보우소나루가 브라질 결선 패배 뒤 플로리다에 도착했다",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "플라비우",
+              "roman": "peul-la-bi-u",
+              "english": "Flávio",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "보우소나루가",
+              "roman": "bo-u-so-na-ru-ga",
+              "english": "Bolsonaro",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "브라질",
+              "roman": "beu-ra-jil",
+              "english": "Brazil",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결선",
+              "roman": "gyeol-seon",
+              "english": "runoff",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "패배",
+              "roman": "pae-bae",
+              "english": "defeat",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "플로리다에",
+              "roman": "peul-lo-ri-da-e",
+              "english": "in Florida",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "도착했다",
+              "roman": "do-chak-haet-da",
+              "english": "arrived",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "He said he was Brazil’s elected president, then changed the claim to opposition leader.",
+          "korean": "그는 자신을 당선 대통령이라 했다가 야당 지도자로 바꿔 말했다",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "자신을",
+              "roman": "ja-sin-eul",
+              "english": "himself",
               "particle": false,
               "suffix": "을"
+            },
+            {
+              "korean": "당선",
+              "roman": "dang-seon",
+              "english": "elected",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대통령이라",
+              "roman": "dae-tong-nyeong-i-ra",
+              "english": "president",
+              "particle": false,
+              "suffix": "이라"
+            },
+            {
+              "korean": "했다가",
+              "roman": "haet-da-ga",
+              "english": "said, then",
+              "particle": false,
+              "suffix": "다가"
+            },
+            {
+              "korean": "야당",
+              "roman": "ya-dang",
+              "english": "opposition",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도자로",
+              "roman": "ji-do-ja-ro",
+              "english": "as leader",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "바꿔",
+              "roman": "ba-kkwo",
+              "english": "changed",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Lula won 51.8%, while Bolsonaro alleged fraud without evidence.",
+          "korean": "룰라는 51.8%를 얻었고 보우소나루는 증거 없이 부정을 주장했다",
+          "glossary": [
+            {
+              "korean": "룰라는",
+              "roman": "rul-la-neun",
+              "english": "Lula",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "51.8%를",
+              "roman": "o-sip-il-jeom-pal-peo-sen-teu-reul",
+              "english": "51.8 percent",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "얻었고",
+              "roman": "eot-eot-go",
+              "english": "won and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "보우소나루는",
+              "roman": "bo-u-so-na-ru-neun",
+              "english": "Bolsonaro",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "증거",
+              "roman": "jeung-geo",
+              "english": "evidence",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "없이",
+              "roman": "eop-si",
+              "english": "without",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "부정을",
+              "roman": "bu-jeong-eul",
+              "english": "fraud",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "주장했다",
+              "roman": "ju-jang-haet-da",
+              "english": "alleged",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On October 28, Brazil police said he was not considered a fugitive.",
+          "korean": "10월 28일 브라질 경찰은 그를 도망자로 보지 않는다고 말했다",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "브라질",
+              "roman": "beu-ra-jil",
+              "english": "Brazil",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "경찰은",
+              "roman": "gyeong-chal-eun",
+              "english": "police",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "그를",
+              "roman": "geu-reul",
+              "english": "him",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "도망자로",
+              "roman": "do-mang-ja-ro",
+              "english": "as a fugitive",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "보지",
+              "roman": "bo-ji",
+              "english": "consider",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "않는다고",
+              "roman": "an-neun-da-go",
+              "english": "do not",
+              "particle": false,
+              "suffix": "는다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece",
+      "short_english": "On October 28, Flávio Bolsonaro arrived in Florida after losing Brazil’s runoff election.",
+      "short_korean": "10월 28일 플라비우 보우소나루가 브라질 결선 패배 뒤 플로리다에 도착했다",
+      "date": "2026-10-29",
+      "images": [
+        "images/global/4b512f253636/1.jpg",
+        "images/global/4b512f253636/2.jpg",
+        "images/global/4b512f253636/3.jpg",
+        "images/global/4b512f253636/4.jpg",
+        "images/global/4b512f253636/5.jpg",
+        "images/global/4b512f253636/6.jpg",
+        "images/global/4b512f253636/7.jpg",
+        "images/global/4b512f253636/8.jpg",
+        "images/global/4b512f253636/9.jpg",
+        "images/global/4b512f253636/10.jpg",
+        "images/global/4b512f253636/11.jpg",
+        "images/global/4b512f253636/12.jpg",
+        "images/global/4b512f253636/13.jpg",
+        "images/global/4b512f253636/14.jpg",
+        "images/global/4b512f253636/15.jpg",
+        "images/global/4b512f253636/16.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/4b512f253636/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "미 연준, 물가 상승에도 금리 동결",
+      "english_title": "Fed Holds Rates Steady Despite Rising Inflation",
+      "korean_desc": "10월 28일 연준은 금리를 3.75%에서 4%로 유지했다 9월 물가는 3.7%였고 실업률은 4.2%에 가까웠다 위원회는 9월 회의 뒤 10대 2로 동결을 결정했다 10월 28일 두 위원은 즉시 0.25%포인트 인상을 원했다",
+      "english_desc": "On October 28, the Federal Reserve kept rates at 3.75% to 4.00%. September consumer inflation reached 3.7%, while unemployment stayed near 4.2%. The committee voted 10-2, after raising rates at its September meeting. On October 28, two officials wanted an immediate 0.25-point hike.",
+      "hook": "The Fed held rates despite 3.7% inflation.",
+      "sticker": "Rates stay put",
+      "korean_hook": "연준은 3.7% 물가에도 금리를 동결했다",
+      "takeaway_english": "The Fed is waiting, but September inflation leaves another rate increase possible later.",
+      "takeaway_korean": "연준은 기다리지만 9월 물가로 추가 인상 가능성은 남았다",
+      "why_it_matters": [
+        {
+          "english": "Interest rates influence borrowing costs, spending and business decisions.",
+          "korean": "금리는 대출 비용과 소비와 기업 결정을 바꾼다"
+        },
+        {
+          "english": "The decision came just days before an election focused on household costs.",
+          "korean": "결정은 가계 비용이 쟁점인 선거 직전에 나왔다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Federal Reserve",
+          "english": "The central bank kept its target range at 3.75% to 4.00%.",
+          "korean": "연준은 목표 금리를 3.75%에서 4%로 유지했다"
+        },
+        {
+          "label": "Households and businesses",
+          "english": "They continue facing price increases after inflation stayed above target.",
+          "korean": "가계와 기업은 계속 물가 상승을 겪는다"
+        },
+        {
+          "label": "Donald Trump",
+          "english": "His administration has repeatedly challenged the Fed’s independence.",
+          "korean": "트럼프 행정부는 연준 독립성을 계속 압박했다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Federal Reserve majority",
+          "english": "Officials said waiting would provide more data for returning inflation to 2%.",
+          "korean": "연준은 2% 물가 목표를 위해 자료를 더 기다린다고 말했다"
+        },
+        {
+          "label": "Wendy Edelberg",
+          "english": "The Brookings economist said another hike made economic sense after September’s increase.",
+          "korean": "에델버그는 9월 인상 뒤 추가 인상이 합리적이라고 말했다"
+        }
+      ],
+      "disagree": {
+        "english": "Higher rates may reduce inflation but can also weaken jobs and economic activity.",
+        "korean": "금리 인상은 물가를 낮추지만 일자리와 경제를 약화할 수 있다"
+      },
+      "reader_question_korean": "물가가 높을 때 중앙은행은 금리를 올려야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 00"
+      ],
+      "source_title": "U.S. Fed holds interest rates steady despite surging inflation",
+      "hook_format": "number",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "number": {
+          "value": "3.7%",
+          "label": "September inflation",
+          "korean_label": "9월 물가상승률"
+        },
+        "views": [
+          {
+            "label": "Federal Reserve majority",
+            "english": "Most officials wanted more information before changing rates again.",
+            "korean": "대부분의 연준 위원은 추가 정보를 기다리길 원했다"
+          },
+          {
+            "label": "Lisa Cook and Beth Hammack",
+            "english": "The two dissenting officials wanted an immediate quarter-point increase.",
+            "korean": "두 반대 위원은 즉시 0.25%포인트 인상을 원했다"
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The decision was announced October 28, 2026.",
+        "The Fed’s long-term inflation goal is 2%."
+      ],
+      "reader_question": "Should central banks raise rates when prices stay high?",
+      "topic_tag": "Economy",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "U.S. Fed holds interest rates steady despite surging inflation",
+          "date": "2026-10-29",
+          "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "28일",
+          "roman": "sembal-il",
+          "english": "28th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "연준은",
+          "roman": "yeon-jun-eun",
+          "english": "Federal Reserve",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "금리를",
+          "roman": "geum-ri-reul",
+          "english": "interest rates",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "3.75%에서",
+          "roman": "sam-jeom-chil-o-peo-sen-teu-eseo",
+          "english": "from 3.75%",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "4%로",
+          "roman": "sa-peo-sen-teu-ro",
+          "english": "to 4%",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "유지했다",
+          "roman": "yu-ji-haet-da",
+          "english": "kept",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On October 28, the Federal Reserve kept rates at 3.75% to 4.00%.",
+          "korean": "10월 28일 연준은 금리를 3.75%에서 4%로 유지했다",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "연준은",
+              "roman": "yeon-jun-eun",
+              "english": "Federal Reserve",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "금리를",
+              "roman": "geum-ri-reul",
+              "english": "interest rates",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "3.75%에서",
+              "roman": "sam-jeom-chil-o-peo-sen-teu-eseo",
+              "english": "from 3.75%",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "4%로",
+              "roman": "sa-peo-sen-teu-ro",
+              "english": "to 4%",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "유지했다",
+              "roman": "yu-ji-haet-da",
+              "english": "kept",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "September consumer inflation reached 3.7%, while unemployment stayed near 4.2%.",
+          "korean": "9월 물가는 3.7%였고 실업률은 4.2%에 가까웠다",
+          "glossary": [
+            {
+              "korean": "9월",
+              "roman": "gu-wol",
+              "english": "September",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "물가는",
+              "roman": "mul-ga-neun",
+              "english": "prices",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "3.7%였고",
+              "roman": "sam-jeom-chil-peo-sen-teu-yeot-go",
+              "english": "was 3.7 percent",
+              "particle": false,
+              "suffix": "였고"
+            },
+            {
+              "korean": "실업률은",
+              "roman": "sil-eop-ryul-eun",
+              "english": "unemployment rate",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "4.2%에",
+              "roman": "sa-jeom-i-peo-sen-teu-e",
+              "english": "at 4.2%",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "가까웠다",
+              "roman": "ga-kka-wot-da",
+              "english": "was near",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The committee voted 10-2, after raising rates at its September meeting.",
+          "korean": "위원회는 9월 회의 뒤 10대 2로 동결을 결정했다",
+          "glossary": [
+            {
+              "korean": "위원회는",
+              "roman": "wi-won-hoe-neun",
+              "english": "committee",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "9월",
+              "roman": "gu-wol",
+              "english": "September",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "회의",
+              "roman": "hoe-ui",
+              "english": "meeting",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10대",
+              "roman": "sip-dae",
+              "english": "10 to",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2로",
+              "roman": "i-ro",
+              "english": "2 vote margin",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "동결을",
+              "roman": "dong-gyeol-eul",
+              "english": "holding",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "결정했다",
+              "roman": "gyeol-jeong-haet-da",
+              "english": "decided",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On October 28, two officials wanted an immediate 0.25-point hike.",
+          "korean": "10월 28일 두 위원은 즉시 0.25%포인트 인상을 원했다",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "위원은",
+              "roman": "wi-won-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "즉시",
+              "roman": "jeuk-si",
+              "english": "immediately",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "0.25%포인트",
+              "roman": "yeong-jeom-i-o-peo-sen-teu-po-in-teu",
+              "english": "0.25 percentage point",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인상을",
+              "roman": "in-sang-eul",
+              "english": "increase",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "원했다",
+              "roman": "won-haet-da",
+              "english": "wanted",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece",
+      "short_english": "On October 28, the Federal Reserve kept rates at 3.75% to 4.00%.",
+      "short_korean": "10월 28일 연준은 금리를 3.75%에서 4%로 유지했다",
+      "date": "2026-10-29",
+      "images": [
+        "images/global/2556f533cb0c/1.jpg",
+        "images/global/2556f533cb0c/2.jpg",
+        "images/global/2556f533cb0c/3.jpg",
+        "images/global/2556f533cb0c/4.jpg",
+        "images/global/2556f533cb0c/5.jpg",
+        "images/global/2556f533cb0c/6.jpg",
+        "images/global/2556f533cb0c/7.jpg",
+        "images/global/2556f533cb0c/8.jpg",
+        "images/global/2556f533cb0c/9.jpg",
+        "images/global/2556f533cb0c/10.jpg",
+        "images/global/2556f533cb0c/11.jpg",
+        "images/global/2556f533cb0c/12.jpg",
+        "images/global/2556f533cb0c/13.jpg",
+        "images/global/2556f533cb0c/14.jpg",
+        "images/global/2556f533cb0c/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/2556f533cb0c/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "돌로레스 우에르타, 96세로 별세",
+      "english_title": "Dolores Huerta, Farmworker Leader, Dies at 96",
+      "korean_desc": "돌로레스 우에르타는 10월 28일 캘리포니아 베이커스필드에서 암으로 96세에 숨졌다 그녀는 세사르 차베스와 농장노동자연합을 세우고 파업을 조직했다 노조는 농장 노동자에게 더 나은 환경과 물과 휴식과 농약 보호를 얻었다 10월 29일 캘리포니아 지도자들과 전직 대통령들이 그녀를 추모했다",
+      "english_desc": "Dolores Huerta died of cancer in Bakersfield, California, on October 28, aged 96. She co-founded United Farm Workers with César Chávez and organized strikes. The union won better conditions, water, rest periods and pesticide protections for farmworkers. On October 29, California leaders and former presidents paid tribute to her work.",
+      "hook": "Dolores Huerta died at 96 after a lifetime of organizing.",
+      "sticker": "Remembering Dolores Huerta",
+      "korean_hook": "돌로레스 우에르타가 96세로 별세했다",
+      "takeaway_english": "Her organizing legacy remains influential, while the movement’s painful history is being reconsidered.",
+      "takeaway_korean": "그녀의 유산은 남았지만 운동의 아픈 역사도 다시 평가받고 있다",
+      "why_it_matters": [
+        {
+          "english": "Her organizing changed protections for people who work in American fields.",
+          "korean": "그녀의 조직 활동은 미국 농장 노동자의 보호를 바꿨다"
+        },
+        {
+          "english": "Her life connects worker rights, immigration, women’s equality and civil rights.",
+          "korean": "그녀의 삶은 노동권과 이민과 여성 평등을 잇는다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Dolores Huerta",
+          "english": "She spent decades organizing farmworkers and supporting civil rights.",
+          "korean": "우에르타는 수십 년간 농장 노동자를 조직했다"
+        },
+        {
+          "label": "United Farm Workers",
+          "english": "The union won better conditions for many agricultural workers.",
+          "korean": "노조는 많은 농장 노동자의 환경을 개선했다"
+        },
+        {
+          "label": "Family and supporters",
+          "english": "They are mourning her death and honoring her legacy.",
+          "korean": "가족과 지지자들은 그녀를 추모하고 있다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Reuters",
+          "english": "Her union work brought protections including rest periods, water and pesticide safeguards.",
+          "korean": "로이터는 그녀의 노조 활동이 휴식과 물과 농약 보호를 가져왔다고 전했다"
+        },
+        {
+          "label": "The New York Times",
+          "english": "Coverage also examined her disclosure of sexual abuse by César Chávez.",
+          "korean": "뉴욕타임스는 차베스의 성적 학대 고백도 다뤘다"
+        }
+      ],
+      "disagree": {
+        "english": "Some may focus on her labor achievements, while others say her full legacy must include the abuse disclosure.",
+        "korean": "일부는 노동 업적을 보고 다른 사람은 학대 고백도 봐야 한다고 말한다"
+      },
+      "reader_question_korean": "해악과 업적이 함께 있는 지도자를 어떻게 기억해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Pioneering U.S. labour leader Dolores Huerta dies at 96",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "Huerta died on October 28, 2026.",
+        "She received the Presidential Medal of Freedom from Barack Obama."
+      ],
+      "reader_question": "How should movements remember leaders whose legacies include harm and achievement?",
+      "topic_tag": "Labor",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Pioneering U.S. labour leader Dolores Huerta dies at 96",
+          "date": "2026-10-29",
+          "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "돌로레스",
+          "roman": "dol-lo-re-seu",
+          "english": "Dolores",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "우에르타는",
+          "roman": "u-e-reu-ta-neun",
+          "english": "Huerta",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "28일",
+          "roman": "sembal-il",
+          "english": "28th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "캘리포니아",
+          "roman": "kael-li-po-ni-a",
+          "english": "California",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "베이커스필드에서",
+          "roman": "be-i-keo-seu-pil-deu-eseo",
+          "english": "in Bakersfield",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "암으로",
+          "roman": "am-eu-ro",
+          "english": "from cancer",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "96세에",
+          "roman": "gu-sip-yuk-se-e",
+          "english": "at age 96",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "숨졌다",
+          "roman": "sum-jyeot-da",
+          "english": "died",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Dolores Huerta died of cancer in Bakersfield, California, on October 28, aged 96.",
+          "korean": "돌로레스 우에르타는 10월 28일 캘리포니아 베이커스필드에서 암으로 96세에 숨졌다",
+          "glossary": [
+            {
+              "korean": "돌로레스",
+              "roman": "dol-lo-re-seu",
+              "english": "Dolores",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "우에르타는",
+              "roman": "u-e-reu-ta-neun",
+              "english": "Huerta",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "28일",
+              "roman": "sembal-il",
+              "english": "28th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "캘리포니아",
+              "roman": "kael-li-po-ni-a",
+              "english": "California",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "베이커스필드에서",
+              "roman": "be-i-keo-seu-pil-deu-eseo",
+              "english": "in Bakersfield",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "암으로",
+              "roman": "am-eu-ro",
+              "english": "from cancer",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "96세에",
+              "roman": "gu-sip-yuk-se-e",
+              "english": "at age 96",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "숨졌다",
+              "roman": "sum-jyeot-da",
+              "english": "died",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "She co-founded United Farm Workers with César Chávez and organized strikes.",
+          "korean": "그녀는 세사르 차베스와 농장노동자연합을 세우고 파업을 조직했다",
+          "glossary": [
+            {
+              "korean": "그녀는",
+              "roman": "geu-nyeo-neun",
+              "english": "she",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "세사르",
+              "roman": "se-sa-reu",
+              "english": "César",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "차베스와",
+              "roman": "cha-be-seu-wa",
+              "english": "with Chávez",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "농장노동자연합을",
+              "roman": "nong-jang-no-dong-ja-yeon-hap-eul",
+              "english": "United Farm Workers",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "세우고",
+              "roman": "se-u-go",
+              "english": "founded and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "파업을",
+              "roman": "pa-eop-eul",
+              "english": "strikes",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "조직했다",
+              "roman": "jo-jik-haet-da",
+              "english": "organized",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The union won better conditions, water, rest periods and pesticide protections for farmworkers.",
+          "korean": "노조는 농장 노동자에게 더 나은 환경과 물과 휴식과 농약 보호를 얻었다",
+          "glossary": [
+            {
+              "korean": "노조는",
+              "roman": "no-jo-neun",
+              "english": "the union",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "농장",
+              "roman": "nong-jang",
+              "english": "farm",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "노동자에게",
+              "roman": "no-dong-ja-e-ge",
+              "english": "for workers",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "더",
+              "roman": "deo",
+              "english": "more",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나은",
+              "roman": "na-eun",
+              "english": "better",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "환경과",
+              "roman": "hwan-gyeong-gwa",
+              "english": "conditions and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "물과",
+              "roman": "mul-gwa",
+              "english": "water and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "휴식과",
+              "roman": "hyu-sik-gwa",
+              "english": "rest and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "농약",
+              "roman": "nong-yak",
+              "english": "pesticide",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "보호를",
+              "roman": "bo-ho-reul",
+              "english": "protections",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "얻었다",
+              "roman": "eot-eot-da",
+              "english": "won",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On October 29, California leaders and former presidents paid tribute to her work.",
+          "korean": "10월 29일 캘리포니아 지도자들과 전직 대통령들이 그녀를 추모했다",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "29일",
+              "roman": "i-sip-gu-il",
+              "english": "29th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "캘리포니아",
+              "roman": "kael-li-po-ni-a",
+              "english": "California",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지도자들과",
+              "roman": "ji-do-ja-deul-gwa",
+              "english": "leaders and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "전직",
+              "roman": "jeon-jik",
+              "english": "former",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대통령들이",
+              "roman": "dae-tong-nyeong-deul-i",
+              "english": "presidents",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "그녀를",
+              "roman": "geu-nyeo-reul",
+              "english": "her",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "추모했다",
+              "roman": "chu-mo-haet-da",
+              "english": "paid tribute",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece",
+      "short_english": "Dolores Huerta died of cancer in Bakersfield, California, on October 28, aged 96.",
+      "short_korean": "돌로레스 우에르타는 10월 28일 캘리포니아 베이커스필드에서 암으로 96세에 숨졌다",
+      "date": "2026-10-29",
+      "images": [
+        "images/global/9ddd05ecb2c0/1.jpg",
+        "images/global/9ddd05ecb2c0/2.jpg",
+        "images/global/9ddd05ecb2c0/3.jpg",
+        "images/global/9ddd05ecb2c0/4.jpg",
+        "images/global/9ddd05ecb2c0/5.jpg",
+        "images/global/9ddd05ecb2c0/6.jpg",
+        "images/global/9ddd05ecb2c0/7.jpg",
+        "images/global/9ddd05ecb2c0/8.jpg",
+        "images/global/9ddd05ecb2c0/9.jpg",
+        "images/global/9ddd05ecb2c0/10.jpg",
+        "images/global/9ddd05ecb2c0/11.jpg",
+        "images/global/9ddd05ecb2c0/12.jpg",
+        "images/global/9ddd05ecb2c0/13.jpg",
+        "images/global/9ddd05ecb2c0/14.jpg",
+        "images/global/9ddd05ecb2c0/15.jpg",
+        "images/global/9ddd05ecb2c0/16.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/9ddd05ecb2c0/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "베네이 메나셰, 히브리어로 새 삶 준비",
+      "english_title": "Bnei Menashe Learn Hebrew for New Lives in Israel",
+      "korean_desc": "2026년 4월 17세 제시카는 마니푸르에서 이스라엘에 와서 히브리어를 배웠다 베네이 메나셰 청소년에게 히브리어는 학교와 일과 소통에 중요하다 히브리어는 22글자를 쓰고 오른쪽에서 왼쪽으로 읽는다 2030년까지 이스라엘은 베네이 메나셰 약 5,800명을 데려올 계획이다",
+      "english_desc": "In April 2026, 17-year-old Jessica arrived in Israel from Manipur and began Hebrew lessons. For Bnei Menashe teenagers, Hebrew affects school, work and daily communication. Hebrew uses 22 letters, reads right to left and usually omits vowels in printed text. By 2030, Israel plans to bring about 5,800 remaining Bnei Menashe members.",
+      "hook": "Hebrew is becoming the key to Israel’s next chapter.",
+      "sticker": "A new language, a new life",
+      "korean_hook": "히브리어가 이스라엘 새 삶의 열쇠가 됐다",
+      "takeaway_english": "The migration plan’s success will depend on language teaching and support after arrival.",
+      "takeaway_korean": "이주 계획의 성공은 도착 뒤 언어 교육과 지원에 달렸다",
+      "why_it_matters": [
+        {
+          "english": "Language ability affects access to education, work and everyday life.",
+          "korean": "언어 능력은 교육과 일과 일상생활에 영향을 준다"
+        },
+        {
+          "english": "Thousands of people may move from northeastern India to Israel by 2030.",
+          "korean": "수천 명이 2030년까지 인도 북동부에서 이스라엘로 갈 수 있다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Bnei Menashe",
+          "english": "Members from Manipur and Mizoram are moving to Israel through religious recognition and conversion.",
+          "korean": "베네이 메나셰 사람들은 종교 인정과 개종을 거쳐 이스라엘로 간다"
+        },
+        {
+          "label": "Jessica",
+          "english": "The 17-year-old is learning Hebrew after arriving from Manipur in April 2026.",
+          "korean": "17세 제시카는 2026년 4월 도착 뒤 히브리어를 배운다"
+        },
+        {
+          "label": "Israeli government",
+          "english": "It approved bringing about 5,800 remaining community members by 2030.",
+          "korean": "이스라엘 정부는 2030년까지 약 5,800명을 데려올 계획이다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Bnei Menashe members",
+          "english": "Hebrew classes can help newcomers study, work and become independent in Israel.",
+          "korean": "히브리어 수업은 공부와 일과 자립을 도울 수 있다"
+        },
+        {
+          "label": "Critical perspective in the coverage",
+          "english": "Migration alone does not guarantee better education because students need institutional support.",
+          "korean": "이주만으로는 부족하고 학생들은 제도적 지원도 필요하다"
+        }
+      ],
+      "disagree": {
+        "english": "Some may see language training as opportunity, while others may worry that interrupted schooling creates unequal results.",
+        "korean": "일부는 기회로 보고 다른 사람은 교육 중단이 격차를 만든다고 걱정한다"
+      },
+      "reader_question_korean": "새 학교에 가기 전 젊은 이주민은 어떤 지원을 받아야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Learning Hebrew to be Israeli: How education is shaping the Bnei Menashe community’s journey",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "Israel approved the migration plan in November 2025.",
+        "Hebrew is written from right to left."
+      ],
+      "reader_question": "What support should young migrants receive before entering a new school system?",
+      "topic_tag": "Migration",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Learning Hebrew to be Israeli: How education is shaping the Bnei Menashe community’s journey",
+          "date": "2026-10-29",
+          "url": "https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "2026년",
+          "roman": "2026-nyeon",
+          "english": "year 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "4월",
+          "roman": "sa-wol",
+          "english": "April",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "17세",
+          "roman": "sip-chil-se",
+          "english": "17 years old",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "제시카는",
+          "roman": "je-si-ka-neun",
+          "english": "Jessica",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "마니푸르에서",
+          "roman": "ma-ni-pu-reu-eseo",
+          "english": "from Manipur",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "이스라엘에",
+          "roman": "i-seu-ra-el-e",
+          "english": "to Israel",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "와서",
+          "roman": "wa-seo",
+          "english": "came and",
+          "particle": false,
+          "suffix": "서"
+        },
+        {
+          "korean": "히브리어를",
+          "roman": "hi-beu-ri-eo-reul",
+          "english": "Hebrew",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "배웠다",
+          "roman": "bae-wot-da",
+          "english": "learned",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "In April 2026, 17-year-old Jessica arrived in Israel from Manipur and began Hebrew lessons.",
+          "korean": "2026년 4월 17세 제시카는 마니푸르에서 이스라엘에 와서 히브리어를 배웠다",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "2026-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "4월",
+              "roman": "sa-wol",
+              "english": "April",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "17세",
+              "roman": "sip-chil-se",
+              "english": "17 years old",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "제시카는",
+              "roman": "je-si-ka-neun",
+              "english": "Jessica",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "마니푸르에서",
+              "roman": "ma-ni-pu-reu-eseo",
+              "english": "from Manipur",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "이스라엘에",
+              "roman": "i-seu-ra-el-e",
+              "english": "to Israel",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "와서",
+              "roman": "wa-seo",
+              "english": "came and",
+              "particle": false,
+              "suffix": "서"
+            },
+            {
+              "korean": "히브리어를",
+              "roman": "hi-beu-ri-eo-reul",
+              "english": "Hebrew",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "배웠다",
+              "roman": "bae-wot-da",
+              "english": "learned",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "For Bnei Menashe teenagers, Hebrew affects school, work and daily communication.",
+          "korean": "베네이 메나셰 청소년에게 히브리어는 학교와 일과 소통에 중요하다",
+          "glossary": [
+            {
+              "korean": "베네이",
+              "roman": "be-ne-i",
+              "english": "Bnei",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "메나셰",
+              "roman": "me-na-sye",
+              "english": "Menashe",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "청소년에게",
+              "roman": "cheong-so-nyeon-e-ge",
+              "english": "for teenagers",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "히브리어는",
+              "roman": "hi-beu-ri-eo-neun",
+              "english": "Hebrew",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "학교와",
+              "roman": "hak-gyo-wa",
+              "english": "school and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "일과",
+              "roman": "il-gwa",
+              "english": "work and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "소통에",
+              "roman": "so-tong-e",
+              "english": "communication",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "중요하다",
+              "roman": "jung-yo-ha-da",
+              "english": "is important",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Hebrew uses 22 letters, reads right to left and usually omits vowels in printed text.",
+          "korean": "히브리어는 22글자를 쓰고 오른쪽에서 왼쪽으로 읽는다",
+          "glossary": [
+            {
+              "korean": "히브리어는",
+              "roman": "hi-beu-ri-eo-neun",
+              "english": "Hebrew",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "22글자를",
+              "roman": "i-sip-i-geul-ja-reul",
+              "english": "22 letters",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "쓰고",
+              "roman": "sseu-go",
+              "english": "uses and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "오른쪽에서",
+              "roman": "o-reun-jjok-eseo",
+              "english": "from the right",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "왼쪽으로",
+              "roman": "oen-jjok-eu-ro",
+              "english": "to the left",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "읽는다",
+              "roman": "ing-neun-da",
+              "english": "reads",
+              "particle": false,
+              "suffix": "는다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "By 2030, Israel plans to bring about 5,800 remaining Bnei Menashe members.",
+          "korean": "2030년까지 이스라엘은 베네이 메나셰 약 5,800명을 데려올 계획이다",
+          "glossary": [
+            {
+              "korean": "2030년까지",
+              "roman": "2030-nyeon-kkaji",
+              "english": "by 2030",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "이스라엘은",
+              "roman": "i-seu-ra-el-eun",
+              "english": "Israel",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "베네이",
+              "roman": "be-ne-i",
+              "english": "Bnei",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "메나셰",
+              "roman": "me-na-sye",
+              "english": "Menashe",
+              "particle": false,
+              "suffix": ""
             },
             {
               "korean": "약",
@@ -1220,843 +2471,52 @@
               "suffix": ""
             },
             {
-              "korean": "51석으로",
-              "roman": "o-sip-il-seok-eu-ro",
-              "english": "as 51 seats",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "봤다",
-              "roman": "bwat-da",
-              "english": "estimated",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On October 28, Netanyahu and Eisenkot both claimed they could form the next government.",
-          "korean": "10월 28일 두 사람 모두 정부 구성을 주장했다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "28일",
-              "roman": "i-sip-pal-il",
-              "english": "28th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "both",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사람",
-              "roman": "sa-ram",
-              "english": "people",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "모두",
-              "roman": "mo-du",
-              "english": "both",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정부",
-              "roman": "jeong-bu",
-              "english": "government",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "구성을",
-              "roman": "gu-seong-eul",
-              "english": "formation",
+              "korean": "5,800명을",
+              "roman": "o-cheon-pal-baek-myeong-eul",
+              "english": "5,800 people",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "주장했다",
-              "roman": "ju-jang-haet-da",
-              "english": "claimed",
+              "korean": "데려올",
+              "roman": "de-ryeo-ol",
+              "english": "bring",
               "particle": false,
-              "suffix": "다"
+              "suffix": "올"
+            },
+            {
+              "korean": "계획이다",
+              "roman": "gye-hoeg-i-da",
+              "english": "plans",
+              "particle": false,
+              "suffix": "이다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece",
-      "short_english": "On October 27, Israel held its first election since the October 7, 2023 attack.",
-      "short_korean": "10월 27일 이스라엘은 총선을 열었다",
-      "date": "2026-10-28",
+      "url": "https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece",
+      "short_english": "In April 2026, 17-year-old Jessica arrived in Israel from Manipur and began Hebrew lessons.",
+      "short_korean": "2026년 4월 17세 제시카는 마니푸르에서 이스라엘에 와서 히브리어를 배웠다",
+      "date": "2026-10-29",
       "images": [
-        "images/global/ac7681a907dc/1.jpg",
-        "images/global/ac7681a907dc/2.jpg",
-        "images/global/ac7681a907dc/3.jpg",
-        "images/global/ac7681a907dc/4.jpg",
-        "images/global/ac7681a907dc/5.jpg",
-        "images/global/ac7681a907dc/6.jpg",
-        "images/global/ac7681a907dc/7.jpg",
-        "images/global/ac7681a907dc/8.jpg",
-        "images/global/ac7681a907dc/9.jpg",
-        "images/global/ac7681a907dc/10.jpg",
-        "images/global/ac7681a907dc/11.jpg",
-        "images/global/ac7681a907dc/12.jpg",
-        "images/global/ac7681a907dc/13.jpg",
-        "images/global/ac7681a907dc/14.jpg",
-        "images/global/ac7681a907dc/15.jpg"
+        "images/global/da143b65702b/1.jpg",
+        "images/global/da143b65702b/2.jpg",
+        "images/global/da143b65702b/3.jpg",
+        "images/global/da143b65702b/4.jpg",
+        "images/global/da143b65702b/5.jpg",
+        "images/global/da143b65702b/6.jpg",
+        "images/global/da143b65702b/7.jpg",
+        "images/global/da143b65702b/8.jpg",
+        "images/global/da143b65702b/9.jpg",
+        "images/global/da143b65702b/10.jpg",
+        "images/global/da143b65702b/11.jpg",
+        "images/global/da143b65702b/12.jpg",
+        "images/global/da143b65702b/13.jpg",
+        "images/global/da143b65702b/14.jpg",
+        "images/global/da143b65702b/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/ac7681a907dc/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "이스라엘 출구조사, 야당 근소 우세",
-      "english_title": "Israel’s Opposition Leads, But Cannot Govern Alone",
-      "korean_desc": "10월 27일 이스라엘 출구조사에서 야당이 앞섰다 야당은 120석 의회를 장악할 의석이 부족했다 리쿠드는 24석이나 25석으로 가장 컸다 아랍계 정당들은 17석이나 18석을 얻을 전망이었다",
-      "english_desc": "Israel’s first exit polls on October 27 gave the opposition a slight lead. The opposition still lacked enough seats to control the 120-seat Knesset. Likud remained the largest party, with a projected 24 or 25 seats. Arab-majority parties were projected to win 17 or 18 seats after high turnout.",
-      "hook": "The opposition led, but neither bloc had 61 seats.",
-      "sticker": "A very close vote",
-      "korean_hook": "야당이 앞섰지만 어느 쪽도 61석이 없다",
-      "takeaway_english": "The first numbers showed direction, but coalition arithmetic will decide power.",
-      "takeaway_korean": "첫 숫자보다 연정 계산이 권력을 결정한다",
-      "why_it_matters": [
-        {
-          "english": "The Knesset result will decide who controls Israel’s next government.",
-          "korean": "크네세트 결과가 다음 정부를 결정한다"
-        },
-        {
-          "english": "Arab lawmakers may become important in coalition negotiations.",
-          "korean": "아랍 의원들이 연정 협상에서 중요해질 수 있다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Opposition bloc",
-          "english": "It held a slight exit-poll lead over Netanyahu’s bloc.",
-          "korean": "야당 진영은 출구조사에서 근소하게 앞섰다"
-        },
-        {
-          "label": "Likud",
-          "english": "Netanyahu’s party remained the largest single party.",
-          "korean": "리쿠드는 가장 큰 단일 정당이었다"
-        },
-        {
-          "label": "Raam and Joint List",
-          "english": "The Arab-majority groups gained seats after high turnout.",
-          "korean": "아랍계 정당들은 높은 투표율로 의석을 늘렸다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Gadi Eisenkot",
-          "english": "He read the first polls as a rejection of Netanyahu’s government.",
-          "korean": "아이젠코트는 출구조사를 정부 거부로 해석했다"
-        },
-        {
-          "label": "Election analysts",
-          "english": "They warned that a small lead did not create a governing majority.",
-          "korean": "분석가들은 근소한 우세가 과반은 아니라고 경고했다"
-        }
-      ],
-      "disagree": {
-        "english": "Later counting or coalition deals could change who actually forms the government.",
-        "korean": "개표와 연정 협상이 실제 정부를 바꿀 수 있다"
-      },
-      "reader_question_korean": "근소한 출구조사 우세는 정치적 승리일까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "First Israeli election exit polls show narrow edge for Opposition",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The Knesset has 120 seats.",
-        "A government needs 61 seats.",
-        "The exit polls were released after voting ended on October 27, 2026."
-      ],
-      "reader_question": "Does a narrow exit-poll lead count as a political victory?",
-      "topic_tag": "Election",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "First Israeli election exit polls show narrow edge for Opposition",
-          "date": "2026-10-28",
-          "url": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "27일",
-          "roman": "i-sip-chil-il",
-          "english": "27th day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "이스라엘",
-          "roman": "i-seu-ra-el",
-          "english": "Israel",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "출구조사에서",
-          "roman": "chul-gu-jo-sa-e-seo",
-          "english": "in exit polls",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "야당이",
-          "roman": "ya-dang-i",
-          "english": "opposition",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "앞섰다",
-          "roman": "ap-seot-da",
-          "english": "led",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Israel’s first exit polls on October 27 gave the opposition a slight lead.",
-          "korean": "10월 27일 이스라엘 출구조사에서 야당이 앞섰다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "27일",
-              "roman": "i-sip-chil-il",
-              "english": "27th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이스라엘",
-              "roman": "i-seu-ra-el",
-              "english": "Israel",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "출구조사에서",
-              "roman": "chul-gu-jo-sa-e-seo",
-              "english": "in exit polls",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "야당이",
-              "roman": "ya-dang-i",
-              "english": "opposition",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "앞섰다",
-              "roman": "ap-seot-da",
-              "english": "led",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The opposition still lacked enough seats to control the 120-seat Knesset.",
-          "korean": "야당은 120석 의회를 장악할 의석이 부족했다",
-          "glossary": [
-            {
-              "korean": "야당은",
-              "roman": "ya-dang-eun",
-              "english": "the opposition",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "120석",
-              "roman": "baek-i-sip-seok",
-              "english": "120 seats",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의회를",
-              "roman": "ui-hoe-reul",
-              "english": "parliament",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "장악할",
-              "roman": "jang-ak-hal",
-              "english": "control",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의석이",
-              "roman": "ui-seok-i",
-              "english": "seats",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "부족했다",
-              "roman": "bu-jok-haet-da",
-              "english": "were lacking",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Likud remained the largest party, with a projected 24 or 25 seats.",
-          "korean": "리쿠드는 24석이나 25석으로 가장 컸다",
-          "glossary": [
-            {
-              "korean": "리쿠드는",
-              "roman": "ri-ku-deu-neun",
-              "english": "Likud",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "24석이나",
-              "roman": "i-sip-sa-seok-i-na",
-              "english": "24 seats or",
-              "particle": false,
-              "suffix": "이나"
-            },
-            {
-              "korean": "25석으로",
-              "roman": "i-sip-o-seok-eu-ro",
-              "english": "with 25 seats",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "가장",
-              "roman": "ga-jang",
-              "english": "most",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "컸다",
-              "roman": "keot-da",
-              "english": "was largest",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Arab-majority parties were projected to win 17 or 18 seats after high turnout.",
-          "korean": "아랍계 정당들은 17석이나 18석을 얻을 전망이었다",
-          "glossary": [
-            {
-              "korean": "아랍계",
-              "roman": "a-rab-gye",
-              "english": "Arab-majority",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정당들은",
-              "roman": "jeong-dang-deul-eun",
-              "english": "parties",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "17석이나",
-              "roman": "sip-chil-seok-i-na",
-              "english": "17 seats or",
-              "particle": false,
-              "suffix": "이나"
-            },
-            {
-              "korean": "18석을",
-              "roman": "sip-pal-seok-eul",
-              "english": "18 seats",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "얻을",
-              "roman": "eot-eul",
-              "english": "win",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전망이었다",
-              "roman": "jeon-mang-i-eot-da",
-              "english": "were projected",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/israeli-exit-polls-indicate-deadlock-in-election/article71633257.ece",
-      "short_english": "Israel’s first exit polls on October 27 gave the opposition a slight lead.",
-      "short_korean": "10월 27일 이스라엘 출구조사에서 야당이 앞섰다",
-      "date": "2026-10-28",
-      "images": [
-        "images/global/973cb2e0af74/1.jpg",
-        "images/global/973cb2e0af74/2.jpg",
-        "images/global/973cb2e0af74/3.jpg",
-        "images/global/973cb2e0af74/4.jpg",
-        "images/global/973cb2e0af74/5.jpg",
-        "images/global/973cb2e0af74/6.jpg",
-        "images/global/973cb2e0af74/7.jpg",
-        "images/global/973cb2e0af74/8.jpg",
-        "images/global/973cb2e0af74/9.jpg",
-        "images/global/973cb2e0af74/10.jpg",
-        "images/global/973cb2e0af74/11.jpg",
-        "images/global/973cb2e0af74/12.jpg",
-        "images/global/973cb2e0af74/13.jpg",
-        "images/global/973cb2e0af74/14.jpg",
-        "images/global/973cb2e0af74/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/973cb2e0af74/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "트럼프, 메탄 규제 대폭 완화",
-      "english_title": "Trump Rolls Back Rules on Methane Leaks",
-      "korean_desc": "10월 27일 트럼프는 미국 메탄 규제 완화를 발표했다 정부는 변화가 450억 달러를 절약한다고 말했다 변화는 누출 신고와 소규모 유정 규제를 약화한다 환경단체들은 메탄 오염과 건강 위험 증가를 경고했다",
-      "english_desc": "On October 27, Trump announced a broad rollback of U.S. oil and gas methane rules. His administration said the change would save consumers and producers $45 billion. The changes would weaken leak reporting, marginal-well rules, and associated-gas flaring limits. Environmental groups say weaker controls could increase methane pollution and health risks.",
-      "hook": "Trump loosened rules targeting oil and gas methane.",
-      "sticker": "A major climate rollback",
-      "korean_hook": "트럼프가 석유와 가스 메탄 규제를 풀었다",
-      "takeaway_english": "The rollback could lower industry burdens while increasing debate over climate and health risks.",
-      "takeaway_korean": "완화는 비용을 낮추지만 기후 논쟁을 키울 수 있다",
-      "why_it_matters": [
-        {
-          "english": "Methane traps much more heat than carbon dioxide over a shorter period.",
-          "korean": "메탄은 짧은 기간 더 많은 열을 가둔다"
-        },
-        {
-          "english": "Rules affect energy producers and communities near oil and gas operations.",
-          "korean": "규제는 생산자와 주변 지역에 영향을 준다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Donald Trump",
-          "english": "He announced a broad rollback of methane rules on October 27.",
-          "korean": "트럼프는 10월 27일 메탄 규제 완화를 발표했다"
-        },
-        {
-          "label": "Environmental Protection Agency",
-          "english": "The EPA says the change could save consumers and producers $45 billion.",
-          "korean": "EPA는 450억 달러 절약을 주장한다"
-        },
-        {
-          "label": "Environmental groups",
-          "english": "They warn weaker rules could mean more leaks, pollution, and health risks.",
-          "korean": "환경단체들은 누출과 위험 증가를 경고한다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Trump administration",
-          "english": "Officials say weaker rules will reduce costs and unlock more Texas natural gas.",
-          "korean": "정부는 규제 완화가 비용을 줄인다고 말한다"
-        },
-        {
-          "label": "Fieldnotes and environmental advocates",
-          "english": "They say the rollback would leave dangerous methane leaks less controlled.",
-          "korean": "환경 advocates는 메탄 누출 통제가 약해진다고 말한다"
-        }
-      ],
-      "disagree": {
-        "english": "Supporters may argue that industry costs and energy prices matter more than stricter federal oversight.",
-        "korean": "지지자들은 산업 비용과 에너지가 더 중요하다고 말할 수 있다"
-      },
-      "reader_question_korean": "저렴한 에너지가 강한 메탄 규제보다 먼저일까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Trump drastically loosens oil and gas methane rules",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The announcement came at a rally in Lubbock, Texas.",
-        "Methane is the main component of natural gas.",
-        "The proposed changes target super emitters, marginal wells, and routine flaring."
-      ],
-      "reader_question": "Should cheaper energy come before stronger methane controls?",
-      "topic_tag": "Climate",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Trump drastically loosens oil and gas methane rules",
-          "date": "2026-10-28",
-          "url": "https://www.thehindu.com/sci-tech/energy-and-environment/trump-drastically-loosens-oil-and-gas-methane-rules/article71634215.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "27일",
-          "roman": "i-sip-chil-il",
-          "english": "27th day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "트럼프는",
-          "roman": "teu-reom-peu-neun",
-          "english": "Trump",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "미국",
-          "roman": "mi-guk",
-          "english": "U.S.",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "메탄",
-          "roman": "me-tan",
-          "english": "methane",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "규제",
-          "roman": "gyu-je",
-          "english": "rules",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "완화를",
-          "roman": "wan-hwa-reul",
-          "english": "rollback",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "발표했다",
-          "roman": "bal-pyo-haet-da",
-          "english": "announced",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On October 27, Trump announced a broad rollback of U.S. oil and gas methane rules.",
-          "korean": "10월 27일 트럼프는 미국 메탄 규제 완화를 발표했다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "27일",
-              "roman": "i-sip-chil-il",
-              "english": "27th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "트럼프는",
-              "roman": "teu-reom-peu-neun",
-              "english": "Trump",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "미국",
-              "roman": "mi-guk",
-              "english": "U.S.",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "메탄",
-              "roman": "me-tan",
-              "english": "methane",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "규제",
-              "roman": "gyu-je",
-              "english": "rules",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "완화를",
-              "roman": "wan-hwa-reul",
-              "english": "rollback",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "발표했다",
-              "roman": "bal-pyo-haet-da",
-              "english": "announced",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "His administration said the change would save consumers and producers $45 billion.",
-          "korean": "정부는 변화가 450억 달러를 절약한다고 말했다",
-          "glossary": [
-            {
-              "korean": "정부는",
-              "roman": "jeong-bu-neun",
-              "english": "the administration",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "변화가",
-              "roman": "byeon-hwa-ga",
-              "english": "the change",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "450억",
-              "roman": "sa-baek-o-sip-eok",
-              "english": "$45 billion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "달러를",
-              "roman": "dal-leo-reul",
-              "english": "dollars",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "절약한다고",
-              "roman": "jeol-yak-han-da-go",
-              "english": "would save",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The changes would weaken leak reporting, marginal-well rules, and associated-gas flaring limits.",
-          "korean": "변화는 누출 신고와 소규모 유정 규제를 약화한다",
-          "glossary": [
-            {
-              "korean": "변화는",
-              "roman": "byeon-hwa-neun",
-              "english": "the changes",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "누출",
-              "roman": "nu-chul",
-              "english": "leak",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "신고와",
-              "roman": "sin-go-wa",
-              "english": "reporting and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "소규모",
-              "roman": "so-gyu-mo",
-              "english": "small-scale",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "유정",
-              "roman": "yu-jeong",
-              "english": "oil wells",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "규제를",
-              "roman": "gyu-je-reul",
-              "english": "rules",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "약화한다",
-              "roman": "yak-hwa-han-da",
-              "english": "weaken",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Environmental groups say weaker controls could increase methane pollution and health risks.",
-          "korean": "환경단체들은 메탄 오염과 건강 위험 증가를 경고했다",
-          "glossary": [
-            {
-              "korean": "환경단체들은",
-              "roman": "hwan-gyeong-dan-che-deul-eun",
-              "english": "environmental groups",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "메탄",
-              "roman": "me-tan",
-              "english": "methane",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오염과",
-              "roman": "o-yeom-gwa",
-              "english": "pollution and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "건강",
-              "roman": "geon-gang",
-              "english": "health",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "위험",
-              "roman": "wi-heom",
-              "english": "risk",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "증가를",
-              "roman": "jeung-ga-reul",
-              "english": "increase",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "경고했다",
-              "roman": "gyeong-go-haet-da",
-              "english": "warned",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sci-tech/energy-and-environment/trump-drastically-loosens-oil-and-gas-methane-rules/article71634215.ece",
-      "short_english": "On October 27, Trump announced a broad rollback of U.S. oil and gas methane rules.",
-      "short_korean": "10월 27일 트럼프는 미국 메탄 규제 완화를 발표했다",
-      "date": "2026-10-28",
-      "images": [
-        "images/global/21f0d05744eb/1.jpg",
-        "images/global/21f0d05744eb/2.jpg",
-        "images/global/21f0d05744eb/3.jpg",
-        "images/global/21f0d05744eb/4.jpg",
-        "images/global/21f0d05744eb/5.jpg",
-        "images/global/21f0d05744eb/6.jpg",
-        "images/global/21f0d05744eb/7.jpg",
-        "images/global/21f0d05744eb/8.jpg",
-        "images/global/21f0d05744eb/9.jpg",
-        "images/global/21f0d05744eb/10.jpg",
-        "images/global/21f0d05744eb/11.jpg",
-        "images/global/21f0d05744eb/12.jpg",
-        "images/global/21f0d05744eb/13.jpg",
-        "images/global/21f0d05744eb/14.jpg",
-        "images/global/21f0d05744eb/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/21f0d05744eb/caption.txt"
+      "caption_file": "images/global/da143b65702b/caption.txt"
     }
   ]
 }
