@@ -1,71 +1,72 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0157",
-  "generated_at": "2026-10-29T07:09:54.084Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0153",
+  "generated_at": "2026-10-30T07:11:05.280Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "첸나이시, 가로등 관리 제안",
-      "english_title": "Chennai proposes one-year streetlight care across 12 zones",
-      "korean_desc": "첸나이는 2026년 10월 29일 12개 구역 가로등 2,33,267개 관리를 제안했다. 업체는 매일 점검하고 신고된 고장을 24시간 안에 수리해야 한다. 9월 16일 점검에서 가로등 2,079개가 꺼져 있었다.",
-      "english_desc": "Chennai proposed one-year maintenance for 2,33,267 streetlights across 12 zones on October 29, 2026. The contractor must check lights daily and repair reported faults within 24 hours. A September 16 inspection found 2,079 of the city’s lights not working.",
-      "hook": "Chennai proposed one year of streetlight care.",
-      "sticker": "What the city proposed",
-      "korean_hook": "첸나이가 1년 관리를 제안했다",
-      "takeaway_english": "The proposal now needs approval, a contractor, and proof that repairs happen on time.",
-      "takeaway_korean": "이제 승인과 업체 선정, 제때 수리가 필요하다.",
+      "korean_title": "라다크 주류 시위 잠정 중단",
+      "english_title": "Ladakh’s liquor protest pauses after officials accept demands",
+      "korean_desc": "여성 단체들이 10월 29일 시위를 멈췄다. 행정부는 요구를 받아들이고 일주일을 요청했다. 행정부는 10월 29일 서면 약속을 냈다.",
+      "english_desc": "Women’s organisations paused Ladakh’s liquor protest on October 29, 2026. The administration accepted all demands in principle and requested one week. The administration gave written assurance on October 29, 2026.",
+      "hook": "Ladakh’s liquor protest paused after officials accepted demands.",
+      "sticker": "What officials promised",
+      "korean_hook": "라다크 주류 시위가 잠시 멈췄다",
+      "takeaway_english": "The protest has paused, but the promised agreement still needs formal completion.",
+      "takeaway_korean": "시위는 멈췄지만 공식 합의가 남았다.",
       "why_it_matters": [
         {
-          "english": "Working streetlights affect how people move through Chennai after dark.",
-          "korean": "작동하는 가로등은 밤길 이동에 영향을 준다."
+          "english": "The decision affects alcohol access and community concerns across Ladakh.",
+          "korean": "결정은 라다크의 주류 접근에 영향을 준다."
         },
         {
-          "english": "The plan covers equipment, workers, vehicles, complaints, and repair deadlines.",
-          "korean": "계획은 장비와 인력, 차량, 신고와 기한을 다룬다."
+          "english": "The promise now depends on formal written action.",
+          "korean": "이제 약속은 공식 문서에 달렸다."
         }
       ],
       "parties": [
         {
-          "label": "Greater Chennai Corporation",
-          "english": "It proposed maintenance for 2,33,267 streetlights and 443 high-mast lights.",
-          "korean": "시는 가로등 2,33,267개와 고공등 443개 관리를 제안했다."
+          "label": "Women’s organisations",
+          "english": "They paused the sit-in while waiting for written final agreements.",
+          "korean": "서면 합의를 기다리며 농성을 멈췄다."
         },
         {
-          "label": "Contractor",
-          "english": "The contractor must provide workers, vehicles, repairs, and regular reports.",
-          "korean": "업체는 인력과 차량, 수리와 보고를 제공해야 한다."
+          "label": "Ladakh administration",
+          "english": "It must turn its written assurance into a final agreement.",
+          "korean": "서면 약속을 최종 합의로 바꿔야 한다."
         },
         {
-          "label": "Chennai residents",
-          "english": "Residents can report faulty lights, but the resolution does not show later results.",
-          "korean": "주민은 고장 난 등을 신고할 수 있다."
+          "label": "Sonam Wangchuk",
+          "english": "He said the protest was suspended after all demands were accepted.",
+          "korean": "모든 요구가 받아들여져 시위가 멈췄다고 말했다."
         }
       ],
       "views": [
         {
-          "label": "Corporation officials",
-          "english": "The proposal gives the city a system for monitoring repairs and punishing delays.",
-          "korean": "시 관계자는 점검과 지연 처벌 체계를 제시했다."
+          "label": "Protesting organisations",
+          "english": "They say alcohol expansion threatens youth, community life, and Ladakh’s cultural and spiritual values.",
+          "korean": "주류 확대가 청년과 문화를 해친다고 말한다."
         },
         {
-          "label": "Resident perspective",
-          "english": "A recent inspection found 2,079 lights not working, so promises still need testing.",
-          "korean": "최근 점검에서 등 2,079개가 꺼져 있었다."
+          "label": "Ladakh administration",
+          "english": "Officials say the policy had already been revoked on August 6 after public feedback.",
+          "korean": "행정부는 정책이 8월 6일 이미 철회됐다고 말한다."
         }
       ],
       "disagree": {
-        "english": "Supporters see stronger accountability; critics may ask whether penalties will actually improve service.",
-        "korean": "지지자는 책임 강화를 보지만, 비판자는 처벌 효과를 묻는다."
+        "english": "The two sides differ over whether the policy was already cancelled or still needed formal agreement.",
+        "korean": "정책이 이미 취소됐는지를 두고 의견이 다르다."
       },
-      "reader_question_korean": "시는 신고된 등을 모두 공개해야 할까요?",
+      "reader_question_korean": "라다크는 금주 지역이어야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "translation check: \"A September 16 inspection found 2,079 of the city’\" may be missing not, cities"
+        "number missing in Korean: 2026",
+        "number missing in Korean: 2026"
       ],
-      "source_title": "Chennai Corporation council meeting: streetlight maintenance across 12 zones proposed",
+      "source_title": "Protest against liquor policy suspended after Ladakh admin agrees to all demands: Sonam Wangchuk",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -75,574 +76,509 @@
       "format_data": {
         "views": [
           {
-            "label": "Greater Chennai Corporation",
-            "english": "The corporation wants daily checks, repairs within 24 hours, reports, equipment, workers, and penalties.",
-            "korean": "시는 매일 점검과 24시간 수리를 원한다."
+            "label": "Women’s organisations",
+            "english": "They want Ladakh to become a dry Union territory and oppose wider alcohol sales.",
+            "korean": "여성 단체들은 라다크 금주를 원한다."
           },
           {
-            "label": "Residents",
-            "english": "Residents need working lights, but the proposal leaves the future contractor’s performance untested.",
-            "korean": "주민은 불빛을 원하지만 업체 성과는 아직 모른다."
+            "label": "Ladakh administration",
+            "english": "Officials accepted the groups’ recommendations in principle and requested one week to formalise them.",
+            "korean": "행정부는 요구를 원칙적으로 받아들였다."
           }
         ]
       },
-      "serious": false,
+      "serious": true,
       "caption_lines": [
-        "Council meeting: October 29, 2026",
-        "Ambattur’s proposed cost: ₹5.01 crore for one year"
+        "Update: October 29, 2026",
+        "Four women’s organisations joined the protest."
       ],
-      "reader_question": "Should cities publish repair results for every reported light?",
-      "topic_tag": "Streetlights",
+      "reader_question": "Should Ladakh become a dry Union territory?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Chennai Corporation council meeting: streetlight maintenance across 12 zones proposed",
-          "date": "2026-10-29",
-          "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-council-meeting-streetlight-maintenance-across-12-zones-proposed/article71639177.ece"
+          "title": "Protest against liquor policy suspended after Ladakh admin agrees to all demands: Sonam Wangchuk",
+          "date": "2026-10-30",
+          "url": "https://www.thehindu.com/news/national/ladakh/protest-against-liquor-policy-suspended-after-ladakh-admin-agrees-to-all-demands-sonam-wangchuk/article71643951.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "첸나이는",
-          "roman": "Chennai-neun",
-          "english": "Chennai",
+          "korean": "여성",
+          "roman": "yeo-seong",
+          "english": "women",
           "particle": false,
-          "suffix": "는"
+          "suffix": ""
         },
         {
-          "korean": "2026년",
-          "roman": "2026-nyeon",
-          "english": "year 2026",
+          "korean": "단체들이",
+          "roman": "dan-che-deul-i",
+          "english": "organisations",
           "particle": false,
-          "suffix": "년"
+          "suffix": "이"
         },
         {
           "korean": "10월",
-          "roman": "10-wol",
+          "roman": "sip-wol",
           "english": "October",
           "particle": false,
           "suffix": ""
         },
         {
           "korean": "29일",
-          "roman": "29-il",
+          "roman": "i-sip-gu-il",
           "english": "29th",
           "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "12개",
-          "roman": "12-gae",
-          "english": "12",
-          "particle": false,
-          "suffix": "개"
-        },
-        {
-          "korean": "구역",
-          "roman": "gu-yeok",
-          "english": "zones",
-          "particle": false,
           "suffix": ""
         },
         {
-          "korean": "가로등",
-          "roman": "ga-ro-deung",
-          "english": "streetlights",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "2,33,267개",
-          "roman": "2,33,267-gae",
-          "english": "2,33,267",
-          "particle": false,
-          "suffix": "개"
-        },
-        {
-          "korean": "관리를",
-          "roman": "gwan-ri-reul",
-          "english": "maintenance",
+          "korean": "시위를",
+          "roman": "si-wi-reul",
+          "english": "protest",
           "particle": false,
           "suffix": "를"
         },
         {
-          "korean": "제안했다",
-          "roman": "je-an-haet-da",
-          "english": "proposed",
+          "korean": "멈췄다",
+          "roman": "meom-chwot-da",
+          "english": "paused",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Chennai proposed one-year maintenance for 2,33,267 streetlights across 12 zones on October 29, 2026.",
-          "korean": "첸나이는 2026년 10월 29일 12개 구역 가로등 2,33,267개 관리를 제안했다.",
+          "english": "Women’s organisations paused Ladakh’s liquor protest on October 29, 2026.",
+          "korean": "여성 단체들이 10월 29일 시위를 멈췄다.",
           "glossary": [
             {
-              "korean": "첸나이는",
-              "roman": "Chennai-neun",
-              "english": "Chennai",
+              "korean": "여성",
+              "roman": "yeo-seong",
+              "english": "women",
               "particle": false,
-              "suffix": "는"
+              "suffix": ""
             },
             {
-              "korean": "2026년",
-              "roman": "2026-nyeon",
-              "english": "year 2026",
+              "korean": "단체들이",
+              "roman": "dan-che-deul-i",
+              "english": "organisations",
               "particle": false,
-              "suffix": "년"
+              "suffix": "이"
             },
             {
               "korean": "10월",
-              "roman": "10-wol",
+              "roman": "sip-wol",
               "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
               "korean": "29일",
-              "roman": "29-il",
+              "roman": "i-sip-gu-il",
               "english": "29th",
               "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "12개",
-              "roman": "12-gae",
-              "english": "12",
-              "particle": false,
-              "suffix": "개"
-            },
-            {
-              "korean": "구역",
-              "roman": "gu-yeok",
-              "english": "zones",
-              "particle": false,
               "suffix": ""
             },
             {
-              "korean": "가로등",
-              "roman": "ga-ro-deung",
-              "english": "streetlights",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "2,33,267개",
-              "roman": "2,33,267-gae",
-              "english": "2,33,267",
-              "particle": false,
-              "suffix": "개"
-            },
-            {
-              "korean": "관리를",
-              "roman": "gwan-ri-reul",
-              "english": "maintenance",
+              "korean": "시위를",
+              "roman": "si-wi-reul",
+              "english": "protest",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "제안했다",
-              "roman": "je-an-haet-da",
-              "english": "proposed",
+              "korean": "멈췄다",
+              "roman": "meom-chwot-da",
+              "english": "paused",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The contractor must check lights daily and repair reported faults within 24 hours.",
-          "korean": "업체는 매일 점검하고 신고된 고장을 24시간 안에 수리해야 한다.",
+          "english": "The administration accepted all demands in principle and requested one week.",
+          "korean": "행정부는 요구를 받아들이고 일주일을 요청했다.",
           "glossary": [
             {
-              "korean": "업체는",
-              "roman": "eop-che-neun",
-              "english": "contractor",
+              "korean": "행정부는",
+              "roman": "haeng-jeong-bu-neun",
+              "english": "the administration",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "매일",
-              "roman": "mae-il",
-              "english": "daily",
+              "korean": "요구를",
+              "roman": "yo-gu-reul",
+              "english": "demands",
               "particle": false,
-              "suffix": ""
+              "suffix": "를"
             },
             {
-              "korean": "점검하고",
-              "roman": "jeom-geom-ha-go",
-              "english": "check and",
+              "korean": "받아들이고",
+              "roman": "ba-da-deu-ri-go",
+              "english": "accepted",
               "particle": false,
               "suffix": "고"
             },
             {
-              "korean": "신고된",
-              "roman": "sin-go-doen",
-              "english": "reported",
-              "particle": false,
-              "suffix": "된"
-            },
-            {
-              "korean": "고장을",
-              "roman": "go-jang-eul",
-              "english": "faults",
+              "korean": "일주일을",
+              "roman": "il-ju-i-reul",
+              "english": "one week",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "24시간",
-              "roman": "24-si-gan",
-              "english": "24 hours",
+              "korean": "요청했다",
+              "roman": "yo-cheong-haet-da",
+              "english": "requested",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "안에",
-              "roman": "an-e",
-              "english": "within",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "수리해야",
-              "roman": "su-ri-hae-ya",
-              "english": "must repair",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다",
-              "roman": "han-da",
-              "english": "must do",
-              "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "A September 16 inspection found 2,079 of the city’s lights not working.",
-          "korean": "9월 16일 점검에서 가로등 2,079개가 꺼져 있었다.",
+          "english": "The administration gave written assurance on October 29, 2026.",
+          "korean": "행정부는 10월 29일 서면 약속을 냈다.",
           "glossary": [
             {
-              "korean": "9월",
-              "roman": "9-wol",
-              "english": "September",
+              "korean": "행정부는",
+              "roman": "haeng-jeong-bu-neun",
+              "english": "the administration",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "16일",
-              "roman": "16-il",
-              "english": "16th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "점검에서",
-              "roman": "jeom-geom-eseo",
-              "english": "in inspection",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "가로등",
-              "roman": "ga-ro-deung",
-              "english": "streetlights",
+              "korean": "29일",
+              "roman": "i-sip-gu-il",
+              "english": "29th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "2,079개가",
-              "roman": "2,079-gae-ga",
-              "english": "2,079",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "꺼져",
-              "roman": "kkeo-jyeo",
-              "english": "turned off",
+              "korean": "서면",
+              "roman": "seo-myeon",
+              "english": "written",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "있었다",
-              "roman": "it-eot-da",
-              "english": "were",
+              "korean": "약속을",
+              "roman": "yak-sok-eul",
+              "english": "assurance",
               "particle": false,
-              "suffix": "었다"
+              "suffix": "을"
+            },
+            {
+              "korean": "냈다",
+              "roman": "naet-da",
+              "english": "gave",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/cities/chennai/chennai-corporation-council-meeting-streetlight-maintenance-across-12-zones-proposed/article71639177.ece",
-      "short_english": "Chennai proposed one-year maintenance for 2,33,267 streetlights across 12 zones on October 29, 2026.",
-      "short_korean": "첸나이는 2026년 10월 29일 12개 구역 가로등 2,33,267개 관리를 제안했다.",
-      "date": "2026-10-29",
+      "url": "https://www.thehindu.com/news/national/ladakh/protest-against-liquor-policy-suspended-after-ladakh-admin-agrees-to-all-demands-sonam-wangchuk/article71643951.ece",
+      "short_english": "Women’s organisations paused Ladakh’s liquor protest on October 29, 2026.",
+      "short_korean": "여성 단체들이 10월 29일 시위를 멈췄다.",
+      "date": "2026-10-30",
       "images": [
-        "images/indian/41e4066c0abc/1.jpg",
-        "images/indian/41e4066c0abc/2.jpg",
-        "images/indian/41e4066c0abc/3.jpg",
-        "images/indian/41e4066c0abc/4.jpg",
-        "images/indian/41e4066c0abc/5.jpg",
-        "images/indian/41e4066c0abc/6.jpg",
-        "images/indian/41e4066c0abc/7.jpg",
-        "images/indian/41e4066c0abc/8.jpg",
-        "images/indian/41e4066c0abc/9.jpg",
-        "images/indian/41e4066c0abc/10.jpg",
-        "images/indian/41e4066c0abc/11.jpg",
-        "images/indian/41e4066c0abc/12.jpg",
-        "images/indian/41e4066c0abc/13.jpg",
-        "images/indian/41e4066c0abc/14.jpg",
-        "images/indian/41e4066c0abc/15.jpg"
+        "images/indian/cde5ab36e9e7/1.jpg",
+        "images/indian/cde5ab36e9e7/2.jpg",
+        "images/indian/cde5ab36e9e7/3.jpg",
+        "images/indian/cde5ab36e9e7/4.jpg",
+        "images/indian/cde5ab36e9e7/5.jpg",
+        "images/indian/cde5ab36e9e7/6.jpg",
+        "images/indian/cde5ab36e9e7/7.jpg",
+        "images/indian/cde5ab36e9e7/8.jpg",
+        "images/indian/cde5ab36e9e7/9.jpg",
+        "images/indian/cde5ab36e9e7/10.jpg",
+        "images/indian/cde5ab36e9e7/11.jpg",
+        "images/indian/cde5ab36e9e7/12.jpg",
+        "images/indian/cde5ab36e9e7/13.jpg",
+        "images/indian/cde5ab36e9e7/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/41e4066c0abc/caption.txt"
+      "caption_file": "images/indian/cde5ab36e9e7/caption.txt"
     },
     {
       "category": "Business",
-      "korean_title": "센섹스와 니프티, 장 초반 상승",
-      "english_title": "Sensex and Nifty rise as Reliance and foreign funds support markets",
-      "korean_desc": "릴라이언스 매수와 외국 자금 유입이 지수를 올렸다. 아다니 포트는 분기 순이익 18% 증가 뒤 3% 올랐다. 분석가들은 높은 유가와 금리, 물가와 약한 몬순을 경고했다.",
-      "english_desc": "Buying in Reliance Industries and foreign fund inflows helped lift the indexes. Adani Ports gained 3% after reporting an 18% rise in quarterly net profit. Analysts still warned about high crude prices, bond yields, inflation, and weak monsoon conditions.",
-      "hook": "Sensex rose 245.43 points early.",
-      "sticker": "Markets open higher",
-      "korean_hook": "센섹스가 장 초반 245.43포인트 올랐다",
-      "takeaway_english": "The morning rise looked positive, but global and domestic pressures remained.",
-      "takeaway_korean": "오전 상승에도 국내외 부담은 남았다.",
+      "korean_title": "지오 상장 뒤의 다음 승부",
+      "english_title": "Jio’s huge IPO wins early, but growth is next",
+      "korean_desc": "지오 플랫폼스는 10월 28일 인도에 상장했다. 10년 확장이 인도 통신시장을 바꿨다. 주가는 첫날 26%, 10월 29일 5% 올랐다. 투자자들은 이제 다음 성장 동력을 찾는다.",
+      "english_desc": "Jio Platforms debuted on India’s NSE and BSE on October 28, 2026. Its decade-long expansion changed India’s telecom and digital services market. The stock ended 26% higher on day one, then rose another 5% on October 29. Investors now look beyond subscribers for Jio’s next growth engine.",
+      "hook": "Jio rose 26% on its first trading day.",
+      "sticker": "Jio enters the market",
+      "korean_hook": "지오 주가가 첫날 26% 올랐다",
+      "takeaway_english": "The IPO celebration is over; investors now need evidence of durable growth.",
+      "takeaway_korean": "공모 잔치는 끝났고 지속 성장이 시험대다.",
       "why_it_matters": [
         {
-          "english": "Market moves can affect savings, investments, and business confidence.",
-          "korean": "시장 움직임은 저축과 투자, 기업 심리에 영향을 준다."
+          "english": "Jio’s public price now gives investors a new way to value India’s digital economy.",
+          "korean": "지오 주가는 인도 디지털 경제의 새 기준이 된다."
         },
         {
-          "english": "Oil prices and inflation can raise costs beyond the stock market.",
-          "korean": "유가와 물가는 주식시장 밖의 비용도 올릴 수 있다."
+          "english": "Future prices may depend on services, tariffs, and earnings.",
+          "korean": "미래 주가는 서비스와 요금, 수익에 달릴 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Sensex",
-          "english": "It rose 245.43 points to 73,491.46 in morning trading.",
-          "korean": "센섹스는 오전 거래에서 245.43포인트 올랐다."
+          "label": "Jio Platforms",
+          "english": "It completed a record Indian IPO and began trading publicly.",
+          "korean": "기록적인 인도 공모 뒤 공개 거래를 시작했다."
         },
         {
-          "label": "Foreign institutional investors",
-          "english": "They bought ₹871.83 crore of equities on October 28, 2026.",
-          "korean": "외국 기관은 2026년 10월 28일 주식을 샀다."
+          "label": "Investors",
+          "english": "They must judge whether future growth justifies the strong debut.",
+          "korean": "강한 상장이 미래 성장을 정당화하는지 판단해야 한다."
         },
         {
-          "label": "Indian investors",
-          "english": "They faced high crude prices, bond yields, inflation, and a weak monsoon.",
-          "korean": "인도 투자자는 유가와 물가 상승을 마주했다."
+          "label": "Indian telecom sector",
+          "english": "Jio’s listing highlights the sector’s growing technology ambitions.",
+          "korean": "지오 상장은 통신업의 기술 야망을 보여준다."
         }
       ],
       "views": [
         {
-          "label": "Sachin Gupta",
-          "english": "Institutional buying gave the market broad support.",
-          "korean": "기관 매수가 시장을 넓게 지지했다고 말했다."
+          "label": "Jio’s supporters",
+          "english": "They see its network, digital services, and large user base as growth strengths.",
+          "korean": "네트워크와 디지털 서비스가 강점이라고 본다."
         },
         {
-          "label": "V. K. Vijayakumar",
-          "english": "High crude prices, bond yields, and inflation still create strong headwinds for India.",
-          "korean": "높은 유가와 금리, 물가가 인도에 부담이라고 말했다."
+          "label": "Market analysts",
+          "english": "They say tariff increases may matter more because easy subscriber gains could slow.",
+          "korean": "가입자 증가가 둔화돼 요금 인상이 중요하다고 말한다."
         }
       ],
       "disagree": {
-        "english": "Some investors may focus on the early rise, while others may fear the larger economic risks.",
-        "korean": "일부 투자자는 상승을 보고, 다른 투자자는 경제 위험을 본다."
+        "english": "A strong debut does not prove that future earnings will match the market’s expectations.",
+        "korean": "강한 상장이 미래 수익을 보장하지는 않는다."
       },
-      "reader_question_korean": "이런 위험 속에서도 투자하시겠어요?",
+      "reader_question_korean": "첫날 급등 뒤 지오를 사겠어요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 2026"
       ],
-      "source_title": "Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",
-      "hook_format": "number",
-      "body_format": "sentences",
+      "source_title": "What's next for Jio after India’s biggest-ever IPO? | Explained",
+      "hook_format": "headline",
+      "body_format": "three_points",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "245.43",
-          "label": "Sensex points gained",
-          "korean_label": "센섹스 상승 포인트"
-        }
+        "points": [
+          {
+            "label": "",
+            "english": "Jio listed on India’s NSE and BSE on October 28, 2026.",
+            "korean": "지오는 2026년 10월 28일 상장했다."
+          },
+          {
+            "label": "",
+            "english": "The stock opened 21% above its issue price.",
+            "korean": "주식은 공모가보다 21% 높게 시작했다."
+          },
+          {
+            "label": "",
+            "english": "Investors now want growth beyond subscriber numbers.",
+            "korean": "투자자들은 가입자 외 성장을 원한다."
+          }
+        ]
       },
       "serious": false,
       "caption_lines": [
-        "Update: October 29, 2026",
-        "The Fed kept its key rate near 3.9% on October 28"
+        "Listed: October 28, 2026",
+        "Second-day update: October 29, 2026"
       ],
-      "reader_question": "Would you invest during a market rise with these risks?",
-      "topic_tag": "Markets",
+      "reader_question": "Would you buy Jio after its first-day jump?",
+      "topic_tag": "Business",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Sensex, Nifty rise in early trade on Reliance buying, foreign inflows",
-          "date": "2026-10-29",
-          "url": "https://www.thehindu.com/business/markets/sensex-nifty-rise-in-early-trade-on-reliance-buying-foreign-inflows/article71639074.ece"
+          "title": "What's next for Jio after India’s biggest-ever IPO? | Explained",
+          "date": "2026-10-30",
+          "url": "https://www.thehindu.com/business/Industry/jio-biggest-ever-ipo-what-next-plans-telecom-explained/article71643739.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "릴라이언스",
-          "roman": "ril-lai-eon-seu",
-          "english": "Reliance",
+          "korean": "지오",
+          "roman": "ji-o",
+          "english": "Jio",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "매수와",
-          "roman": "mae-su-wa",
-          "english": "buying and",
+          "korean": "플랫폼스는",
+          "roman": "peul-raet-pom-seu-neun",
+          "english": "Platforms",
           "particle": false,
-          "suffix": "와"
+          "suffix": "는"
         },
         {
-          "korean": "외국",
-          "roman": "oe-guk",
-          "english": "foreign",
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "자금",
-          "roman": "ja-geum",
-          "english": "funds",
+          "korean": "28일",
+          "roman": "i-sip-pal-il",
+          "english": "28th",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "유입이",
-          "roman": "yu-ip-i",
-          "english": "inflow",
+          "korean": "인도에",
+          "roman": "in-do-e",
+          "english": "in India",
           "particle": false,
-          "suffix": "이"
+          "suffix": "에"
         },
         {
-          "korean": "지수를",
-          "roman": "ji-su-reul",
-          "english": "indexes",
+          "korean": "상장했다",
+          "roman": "sang-jang-haet-da",
+          "english": "listed",
           "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "올렸다",
-          "roman": "ol-lyeot-da",
-          "english": "lifted",
-          "particle": false,
-          "suffix": "렸다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "why",
-          "english": "Buying in Reliance Industries and foreign fund inflows helped lift the indexes.",
-          "korean": "릴라이언스 매수와 외국 자금 유입이 지수를 올렸다.",
+          "stage": "what",
+          "english": "Jio Platforms debuted on India’s NSE and BSE on October 28, 2026.",
+          "korean": "지오 플랫폼스는 10월 28일 인도에 상장했다.",
           "glossary": [
             {
-              "korean": "릴라이언스",
-              "roman": "ril-lai-eon-seu",
-              "english": "Reliance",
+              "korean": "지오",
+              "roman": "ji-o",
+              "english": "Jio",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "매수와",
-              "roman": "mae-su-wa",
-              "english": "buying and",
+              "korean": "플랫폼스는",
+              "roman": "peul-raet-pom-seu-neun",
+              "english": "Platforms",
               "particle": false,
-              "suffix": "와"
+              "suffix": "는"
             },
             {
-              "korean": "외국",
-              "roman": "oe-guk",
-              "english": "foreign",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "자금",
-              "roman": "ja-geum",
-              "english": "funds",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "유입이",
-              "roman": "yu-ip-i",
-              "english": "inflow",
+              "korean": "28일",
+              "roman": "i-sip-pal-il",
+              "english": "28th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인도에",
+              "roman": "in-do-e",
+              "english": "in India",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "상장했다",
+              "roman": "sang-jang-haet-da",
+              "english": "listed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Its decade-long expansion changed India’s telecom and digital services market.",
+          "korean": "10년 확장이 인도 통신시장을 바꿨다.",
+          "glossary": [
+            {
+              "korean": "10년",
+              "roman": "sip-nyeon",
+              "english": "ten years",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "확장이",
+              "roman": "hwak-jang-i",
+              "english": "expansion",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "지수를",
-              "roman": "ji-su-reul",
-              "english": "indexes",
+              "korean": "인도",
+              "roman": "in-do",
+              "english": "India",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "올렸다",
-              "roman": "ol-lyeot-da",
-              "english": "lifted",
+              "korean": "통신시장을",
+              "roman": "tong-sin-si-jang-eul",
+              "english": "telecom market",
               "particle": false,
-              "suffix": "렸다"
+              "suffix": "을"
+            },
+            {
+              "korean": "바꿨다",
+              "roman": "ba-kkwot-da",
+              "english": "changed",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Adani Ports gained 3% after reporting an 18% rise in quarterly net profit.",
-          "korean": "아다니 포트는 분기 순이익 18% 증가 뒤 3% 올랐다.",
+          "english": "The stock ended 26% higher on day one, then rose another 5% on October 29.",
+          "korean": "주가는 첫날 26%, 10월 29일 5% 올랐다.",
           "glossary": [
             {
-              "korean": "아다니",
-              "roman": "a-da-ni",
-              "english": "Adani",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "포트는",
-              "roman": "po-teu-neun",
-              "english": "Ports",
+              "korean": "주가는",
+              "roman": "ju-ga-neun",
+              "english": "the stock",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "분기",
-              "roman": "bun-gi",
-              "english": "quarterly",
+              "korean": "첫날",
+              "roman": "cheot-nal",
+              "english": "first day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "순이익",
-              "roman": "sun-i-ik",
-              "english": "net profit",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "증가",
-              "roman": "jeung-ga",
-              "english": "rise",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
+              "korean": "29일",
+              "roman": "i-sip-gu-il",
+              "english": "29th",
               "particle": false,
               "suffix": ""
             },
@@ -651,729 +587,904 @@
               "roman": "ol-lat-da",
               "english": "rose",
               "particle": false,
-              "suffix": "랐다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Analysts still warned about high crude prices, bond yields, inflation, and weak monsoon conditions.",
-          "korean": "분석가들은 높은 유가와 금리, 물가와 약한 몬순을 경고했다.",
+          "english": "Investors now look beyond subscribers for Jio’s next growth engine.",
+          "korean": "투자자들은 이제 다음 성장 동력을 찾는다.",
           "glossary": [
             {
-              "korean": "분석가들은",
-              "roman": "bun-seok-ga-deu-reun",
-              "english": "analysts",
-              "particle": false,
-              "suffix": "들은"
-            },
-            {
-              "korean": "높은",
-              "roman": "nop-eun",
-              "english": "high",
+              "korean": "투자자들은",
+              "roman": "tu-ja-ja-deul-eun",
+              "english": "investors",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "유가와",
-              "roman": "yu-ga-wa",
-              "english": "oil prices and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "금리",
-              "roman": "geum-ri",
-              "english": "rates",
+              "korean": "이제",
+              "roman": "i-je",
+              "english": "now",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "물가와",
-              "roman": "mul-ga-wa",
-              "english": "inflation and",
+              "korean": "다음",
+              "roman": "da-eum",
+              "english": "next",
               "particle": false,
-              "suffix": "와"
+              "suffix": ""
             },
             {
-              "korean": "약한",
-              "roman": "yak-han",
-              "english": "weak",
+              "korean": "성장",
+              "roman": "seong-jang",
+              "english": "growth",
               "particle": false,
-              "suffix": "한"
+              "suffix": ""
             },
             {
-              "korean": "몬순을",
-              "roman": "mon-sun-eul",
-              "english": "monsoon",
+              "korean": "동력을",
+              "roman": "dong-nyeo-geul",
+              "english": "engine",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "경고했다",
-              "roman": "gyeong-go-haet-da",
-              "english": "warned",
+              "korean": "찾는다",
+              "roman": "chat-neun-da",
+              "english": "look for",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/business/markets/sensex-nifty-rise-in-early-trade-on-reliance-buying-foreign-inflows/article71639074.ece",
-      "short_english": "Buying in Reliance Industries and foreign fund inflows helped lift the indexes.",
-      "short_korean": "릴라이언스 매수와 외국 자금 유입이 지수를 올렸다.",
-      "date": "2026-10-29",
+      "url": "https://www.thehindu.com/business/Industry/jio-biggest-ever-ipo-what-next-plans-telecom-explained/article71643739.ece",
+      "short_english": "Jio Platforms debuted on India’s NSE and BSE on October 28, 2026.",
+      "short_korean": "지오 플랫폼스는 10월 28일 인도에 상장했다.",
+      "date": "2026-10-30",
       "images": [
-        "images/indian/32283c18b7f7/1.jpg",
-        "images/indian/32283c18b7f7/2.jpg",
-        "images/indian/32283c18b7f7/3.jpg",
-        "images/indian/32283c18b7f7/4.jpg",
-        "images/indian/32283c18b7f7/5.jpg",
-        "images/indian/32283c18b7f7/6.jpg",
-        "images/indian/32283c18b7f7/7.jpg",
-        "images/indian/32283c18b7f7/8.jpg",
-        "images/indian/32283c18b7f7/9.jpg",
-        "images/indian/32283c18b7f7/10.jpg",
-        "images/indian/32283c18b7f7/11.jpg",
-        "images/indian/32283c18b7f7/12.jpg",
-        "images/indian/32283c18b7f7/13.jpg",
-        "images/indian/32283c18b7f7/14.jpg"
+        "images/indian/0c8c31f2611a/1.jpg",
+        "images/indian/0c8c31f2611a/2.jpg",
+        "images/indian/0c8c31f2611a/3.jpg",
+        "images/indian/0c8c31f2611a/4.jpg",
+        "images/indian/0c8c31f2611a/5.jpg",
+        "images/indian/0c8c31f2611a/6.jpg",
+        "images/indian/0c8c31f2611a/7.jpg",
+        "images/indian/0c8c31f2611a/8.jpg",
+        "images/indian/0c8c31f2611a/9.jpg",
+        "images/indian/0c8c31f2611a/10.jpg",
+        "images/indian/0c8c31f2611a/11.jpg",
+        "images/indian/0c8c31f2611a/12.jpg",
+        "images/indian/0c8c31f2611a/13.jpg",
+        "images/indian/0c8c31f2611a/14.jpg",
+        "images/indian/0c8c31f2611a/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/32283c18b7f7/caption.txt"
+      "caption_file": "images/indian/0c8c31f2611a/caption.txt"
     },
     {
       "category": "Culture",
-      "korean_title": "콜카타 레스토랑 위크 재개",
-      "english_title": "Restaurant Week returns to Kolkata with seven varied dining choices",
-      "korean_desc": "레스토랑 위크 인도가 콜카타에서 2026년 11월 1일까지 열린다. 일곱 메뉴는 티베트, 중국, 일본, 이탈리아, 지중해 음식이다. 점심은 ₹1,300부터 저녁은 ₹1,600부터 시작한다.",
-      "english_desc": "Restaurant Week India returned to Kolkata with seven restaurants until November 1, 2026. The seven menus range from Tibetan and Chinese to Japanese, Italian, and Mediterranean food. Lunch menus start at ₹1,300 and dinner menus start at ₹1,600.",
-      "hook": "확실성 makes restaurant exploring easier.",
-      "sticker": "A table for discovery 🍽️",
-      "korean_hook": "확실성이 식당 탐방을 쉽게 한다",
-      "takeaway_english": "Restaurant Week ends November 1, while organisers hope to add more Kolkata restaurants later.",
-      "takeaway_korean": "레스토랑 위크는 11월 1일 끝나고 더 확대될 수 있다.",
+      "korean_title": "스튜디오 타라의 조용한 대담함",
+      "english_title": "Studio Tara makes bold jewellery quietly playful",
+      "korean_desc": "스튜디오 타라는 10월 31일 벵갈루루에서 전시한다. 디자이너는 대담한 형태와 천연 보석을 선호한다. 고추 펜던트는 여러 에나멜층으로 만들어진다. 전시는 방문객에게 작품을 만지고 입어보게 한다.",
+      "english_desc": "Studio Tara is a Chennai jewellery brand presenting an exhibition in Bengaluru on October 31, 2026. Designer Bharathi Ramamurthy prefers bold shapes, colour, and natural untreated gemstones. Her chilli pendant uses many enamel layers, each carefully applied and fired. The exhibition invites visitors to touch, try, and discuss bespoke pieces.",
+      "hook": "Studio Tara makes bold jewellery with restraint.",
+      "sticker": "Jewellery with a wink",
+      "korean_hook": "스튜디오 타라는 절제된 보석을 만든다",
+      "takeaway_english": "Studio Tara treats playfulness as a design choice, not a lack of discipline.",
+      "takeaway_korean": "스튜디오 타라는 재미도 정교하게 만든다.",
       "why_it_matters": [
         {
-          "english": "The festival gives diners a simple way to compare different restaurant experiences.",
-          "korean": "축제는 여러 식당 경험을 쉽게 비교하게 한다."
+          "english": "The brand shows how luxury jewellery can be colourful without becoming loud.",
+          "korean": "고급 보석도 화려하지만 시끄럽지 않을 수 있다."
         },
         {
-          "english": "Restaurants may gain new visitors and possible returning customers.",
-          "korean": "식당은 새 손님과 재방문 손님을 얻을 수 있다."
+          "english": "Customers can learn how untreated stones differ from treated ones.",
+          "korean": "고객은 처리되지 않은 돌을 배울 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Restaurant Week India",
-          "english": "It returned in April 2026 and held a second edition six months later.",
-          "korean": "레스토랑 위크 인도는 2026년 4월 돌아왔다."
+          "label": "Bharathi Ramamurthy",
+          "english": "She designs jewellery that combines bold shapes, colour, and restraint.",
+          "korean": "대담한 형태와 색, 절제를 결합해 디자인한다."
         },
         {
-          "label": "Kolkata restaurants",
-          "english": "Seven restaurants offer Tibetan, Chinese, Japanese, Italian, and Mediterranean menus.",
-          "korean": "콜카타 일곱 식당이 여러 요리를 선보인다."
+          "label": "Studio Tara",
+          "english": "The brand is bringing fine jewellery to Bengaluru on October 31.",
+          "korean": "브랜드는 10월 31일 벵갈루루에 간다."
         },
         {
-          "label": "Diners",
-          "english": "They can choose fixed three-course lunch and dinner menus.",
-          "korean": "손님은 정해진 세 코스 메뉴를 고른다."
+          "label": "Younger customers",
+          "english": "They are seeking design-led pieces that can be worn often.",
+          "korean": "젊은 고객은 자주 입을 디자인을 찾는다."
         }
       ],
       "views": [
         {
-          "label": "Organisers",
-          "english": "They say fixed menus and prices encourage diners to try unfamiliar cuisines.",
-          "korean": "주최자는 정해진 가격이 모험을 돕는다고 말한다."
+          "label": "Bharathi Ramamurthy",
+          "english": "She says luxury can be playful, while real luxury also depends on restraint.",
+          "korean": "고급품은 재미있고 절제돼야 한다고 말한다."
         },
         {
-          "label": "Price-conscious diners",
-          "english": "They may welcome certainty, but taxes and charges can make final prices higher.",
-          "korean": "손님은 확실성을 좋아하지만 최종 가격은 더 높을 수 있다."
+          "label": "A more traditional view",
+          "english": "Traditional jewellery often places more emphasis on heritage and bridal use.",
+          "korean": "전통 보석은 유산과 신부 장식을 더 중시한다."
         }
       ],
       "disagree": {
-        "english": "The organisers avoid calling it a sale because comparable menu prices differ between restaurants.",
-        "korean": "식당마다 비교 가격이 달라 할인 행사라는 말에는 이견이 있다."
+        "english": "Some customers may prefer heritage jewellery or treated stones over contemporary, untreated designs.",
+        "korean": "일부 고객은 전통 보석이나 처리된 돌을 선호할 수 있다."
       },
-      "reader_question_korean": "정해진 메뉴면 낯선 요리를 먹겠어요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Restaurant Week India 2026: Participating Kolkata restaurants, menus and prices",
-      "hook_format": "vocab",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Kolkata edition: seven restaurants",
-        "Lunch starts at ₹1,300; dinner starts at ₹1,600"
-      ],
-      "reader_question": "Would a fixed menu make you try an unfamiliar cuisine?",
-      "topic_tag": "Dining",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Restaurant Week India 2026: Participating Kolkata restaurants, menus and prices",
-          "date": "2026-10-29",
-          "url": "https://www.thehindu.com/life-and-style/restaurant-week-india-2026-participating-kolkata-restaurants-menus-and-prices/article71629656.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "레스토랑",
-          "roman": "re-seu-to-rang",
-          "english": "restaurant",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "위크",
-          "roman": "wi-keu",
-          "english": "week",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "인도가",
-          "roman": "in-do-ga",
-          "english": "India",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "콜카타에서",
-          "roman": "kol-ka-ta-eseo",
-          "english": "in Kolkata",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "2026년",
-          "roman": "2026-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "11-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "1일까지",
-          "roman": "1-il-kka-ji",
-          "english": "until the 1st",
-          "particle": false,
-          "suffix": "까지"
-        },
-        {
-          "korean": "열린다",
-          "roman": "yeol-lin-da",
-          "english": "is held",
-          "particle": false,
-          "suffix": "린다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Restaurant Week India returned to Kolkata with seven restaurants until November 1, 2026.",
-          "korean": "레스토랑 위크 인도가 콜카타에서 2026년 11월 1일까지 열린다.",
-          "glossary": [
-            {
-              "korean": "레스토랑",
-              "roman": "re-seu-to-rang",
-              "english": "restaurant",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "위크",
-              "roman": "wi-keu",
-              "english": "week",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "인도가",
-              "roman": "in-do-ga",
-              "english": "India",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "콜카타에서",
-              "roman": "kol-ka-ta-eseo",
-              "english": "in Kolkata",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "2026년",
-              "roman": "2026-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "1일까지",
-              "roman": "1-il-kka-ji",
-              "english": "until the 1st",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "열린다",
-              "roman": "yeol-lin-da",
-              "english": "is held",
-              "particle": false,
-              "suffix": "린다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The seven menus range from Tibetan and Chinese to Japanese, Italian, and Mediterranean food.",
-          "korean": "일곱 메뉴는 티베트, 중국, 일본, 이탈리아, 지중해 음식이다.",
-          "glossary": [
-            {
-              "korean": "일곱",
-              "roman": "il-gop",
-              "english": "seven",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "메뉴는",
-              "roman": "me-nyu-neun",
-              "english": "menus",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "티베트",
-              "roman": "ti-be-teu",
-              "english": "Tibetan",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중국",
-              "roman": "jung-guk",
-              "english": "Chinese",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일본",
-              "roman": "il-bon",
-              "english": "Japanese",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이탈리아",
-              "roman": "i-tal-li-a",
-              "english": "Italian",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지중해",
-              "roman": "ji-jung-hae",
-              "english": "Mediterranean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "음식이다",
-              "roman": "eum-sik-i-da",
-              "english": "are food",
-              "particle": false,
-              "suffix": "이다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Lunch menus start at ₹1,300 and dinner menus start at ₹1,600.",
-          "korean": "점심은 ₹1,300부터 저녁은 ₹1,600부터 시작한다.",
-          "glossary": [
-            {
-              "korean": "점심은",
-              "roman": "jeom-sim-eun",
-              "english": "lunch",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "₹1,300부터",
-              "roman": "₹1,300-bu-teo",
-              "english": "from ₹1,300",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "저녁은",
-              "roman": "jeo-nyeok-eun",
-              "english": "dinner",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "₹1,600부터",
-              "roman": "₹1,600-bu-teo",
-              "english": "from ₹1,600",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "시작한다",
-              "roman": "si-jak-han-da",
-              "english": "start",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/life-and-style/restaurant-week-india-2026-participating-kolkata-restaurants-menus-and-prices/article71629656.ece",
-      "short_english": "Restaurant Week India returned to Kolkata with seven restaurants until November 1, 2026.",
-      "short_korean": "레스토랑 위크 인도가 콜카타에서 2026년 11월 1일까지 열린다.",
-      "date": "2026-10-29",
-      "images": [
-        "images/indian/39461eef0a39/1.jpg",
-        "images/indian/39461eef0a39/2.jpg",
-        "images/indian/39461eef0a39/3.jpg",
-        "images/indian/39461eef0a39/4.jpg",
-        "images/indian/39461eef0a39/5.jpg",
-        "images/indian/39461eef0a39/6.jpg",
-        "images/indian/39461eef0a39/7.jpg",
-        "images/indian/39461eef0a39/8.jpg",
-        "images/indian/39461eef0a39/9.jpg",
-        "images/indian/39461eef0a39/10.jpg",
-        "images/indian/39461eef0a39/11.jpg",
-        "images/indian/39461eef0a39/12.jpg",
-        "images/indian/39461eef0a39/13.jpg",
-        "images/indian/39461eef0a39/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/39461eef0a39/caption.txt"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "리버풀, 승부차기로 첼시 제압",
-      "english_title": "Liverpool reaches quarterfinals after Chelsea penalty drama",
-      "korean_desc": "모건 로저스가 앞서고 코디 각포가 전반에 동점골을 넣었다. 첼시의 발렌틴 바르코는 골대를 맞혔고 마마르다슈빌리는 슛을 막았다. 맨체스터시티도 브라이턴과 2-2 뒤 승부차기로 8강에 갔다.",
-      "english_desc": "Cody Gakpo equalised before halftime after Morgan Rogers gave Chelsea the lead. Chelsea’s Valentin Barco hit the post, while Liverpool’s Giorgi Mamardashvili saved a kick. Manchester City also reached the last eight after drawing 2-2 with Brighton and winning penalties.",
-      "hook": "Liverpool won after a 1-1 draw.",
-      "sticker": "Penalty-night drama ⚽",
-      "korean_hook": "리버풀이 1-1 뒤 승부차기로 이겼다",
-      "takeaway_english": "Liverpool face Bournemouth next, while Manchester City meet Bradford for a semifinal place.",
-      "takeaway_korean": "리버풀은 본머스와, 시티는 브래드퍼드와 만난다.",
-      "why_it_matters": [
-        {
-          "english": "Both major matches reached penalties, making the quarterfinal race unusually tense.",
-          "korean": "두 큰 경기가 승부차기까지 가며 8강 경쟁이 팽팽해졌다."
-        },
-        {
-          "english": "The results set the next quarterfinal opponents for Liverpool and City.",
-          "korean": "결과는 리버풀과 시티의 다음 상대를 정했다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Liverpool",
-          "english": "Liverpool reached the League Cup quarterfinals after winning the shootout.",
-          "korean": "리버풀은 승부차기로 리그컵 8강에 갔다."
-        },
-        {
-          "label": "Chelsea",
-          "english": "Chelsea lost after a 1-1 draw at Anfield.",
-          "korean": "첼시는 안필드에서 1-1 뒤 탈락했다."
-        },
-        {
-          "label": "Manchester City",
-          "english": "City also reached the quarterfinals after beating Brighton on penalties.",
-          "korean": "맨체스터시티도 브라이턴을 꺾고 8강에 갔다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Liverpool manager Andoni Iraola",
-          "english": "He valued three straight home wins and looked ahead to Arsenal on Sunday.",
-          "korean": "이라올라는 홈 3연승을 반기며 아스널전을 봤다."
-        },
-        {
-          "label": "Chelsea manager Xabi Alonso",
-          "english": "He said penalty shootouts can feel harsh after a team shows a good level.",
-          "korean": "알론소는 좋은 경기 뒤 승부차기가 가혹하다고 말했다."
-        }
-      ],
-      "disagree": {
-        "english": "Liverpool celebrate progress, while Chelsea can point to a close match decided by small moments.",
-        "korean": "리버풀은 진전을 기뻐하지만 첼시는 작은 순간을 아쉬워할 수 있다."
-      },
-      "reader_question_korean": "어느 승부차기가 더 보기 힘들었을까요?",
+      "reader_question_korean": "장난스러운 고추 펜던트를 차겠어요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "translation check: \"Manchester City also reached the last eight after \" may be missing cities"
+        "number missing in Korean: 2026"
       ],
-      "source_title": "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
-      "hook_format": "number",
-      "body_format": "sentences",
+      "source_title": "Playful luxury: Studio Tara’s jewellery celebrates bold contemporary shapes with restraint",
+      "hook_format": "vocab",
+      "body_format": "who_speaks",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "1-1",
-          "label": "normal-time score",
-          "korean_label": "정규시간 점수"
-        }
+        "people": [
+          {
+            "label": "Bharathi Ramamurthy",
+            "english": "She begins with natural, untreated stones and prefers strong contemporary shapes.",
+            "korean": "천연 보석과 현대적 형태를 선호한다."
+          },
+          {
+            "label": "Studio Tara",
+            "english": "The Chennai atelier has created statement jewellery for 26 years.",
+            "korean": "첸나이 공방은 26년간 보석을 만들었다."
+          },
+          {
+            "label": "Visitors",
+            "english": "They can see, touch, and try pieces at the Bengaluru exhibition.",
+            "korean": "방문객은 벵갈루루 전시에서 직접 착용할 수 있다."
+          }
+        ]
       },
       "serious": false,
       "caption_lines": [
-        "Fourth round: October 28, 2026",
-        "Liverpool won the shootout 6-5"
+        "Exhibition: October 31, 2026",
+        "Venue: The Living Room, JW Marriott, Bengaluru"
       ],
-      "reader_question": "Which penalty shootout would you have found harder to watch?",
-      "topic_tag": "Football",
+      "reader_question": "Would you wear a playful chilli pendant?",
+      "topic_tag": "Culture",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Carabao Cup: Liverpool beats Chelsea on penalties, Man City survives Brighton scare",
-          "date": "2026-10-29",
-          "url": "https://www.thehindu.com/sport/football/carabao-cup-liverpool-beats-chelsea-on-penalties-man-city-survives-brighton-scare/article71639070.ece"
+          "title": "Playful luxury: Studio Tara’s jewellery celebrates bold contemporary shapes with restraint",
+          "date": "2026-10-30",
+          "url": "https://www.thehindu.com/news/cities/bangalore/playful-luxury-studio-taras-jewellery-celebrates-bold-contemporary-shapes-with-restraint/article71635426.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "모건",
-          "roman": "mo-geon",
-          "english": "Morgan",
+          "korean": "스튜디오",
+          "roman": "seu-tu-di-o",
+          "english": "Studio",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "로저스가",
-          "roman": "ro-jeo-seu-ga",
-          "english": "Rogers",
+          "korean": "타라는",
+          "roman": "ta-ra-neun",
+          "english": "Tara",
           "particle": false,
-          "suffix": "가"
+          "suffix": "는"
         },
         {
-          "korean": "앞서고",
-          "roman": "ap-seo-go",
-          "english": "led and",
-          "particle": false,
-          "suffix": "고"
-        },
-        {
-          "korean": "코디",
-          "roman": "ko-di",
-          "english": "Cody",
+          "korean": "10월",
+          "roman": "sip-wol",
+          "english": "October",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "각포가",
-          "roman": "gak-po-ga",
-          "english": "Gakpo",
+          "korean": "31일",
+          "roman": "sam-sip-il",
+          "english": "31st",
           "particle": false,
-          "suffix": "가"
+          "suffix": ""
         },
         {
-          "korean": "전반에",
-          "roman": "jeon-ban-e",
-          "english": "before halftime",
+          "korean": "벵갈루루에서",
+          "roman": "beng-gal-ru-ru-e-seo",
+          "english": "in Bengaluru",
           "particle": false,
-          "suffix": "에"
+          "suffix": "에서"
         },
         {
-          "korean": "동점골을",
-          "roman": "dong-jeom-gol-eul",
-          "english": "equaliser",
+          "korean": "전시한다",
+          "roman": "jeon-si-han-da",
+          "english": "exhibits",
           "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "넣었다",
-          "roman": "neot-eot-da",
-          "english": "scored",
-          "particle": false,
-          "suffix": "었다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "how",
-          "english": "Cody Gakpo equalised before halftime after Morgan Rogers gave Chelsea the lead.",
-          "korean": "모건 로저스가 앞서고 코디 각포가 전반에 동점골을 넣었다.",
+          "stage": "what",
+          "english": "Studio Tara is a Chennai jewellery brand presenting an exhibition in Bengaluru on October 31, 2026.",
+          "korean": "스튜디오 타라는 10월 31일 벵갈루루에서 전시한다.",
           "glossary": [
             {
-              "korean": "모건",
-              "roman": "mo-geon",
-              "english": "Morgan",
+              "korean": "스튜디오",
+              "roman": "seu-tu-di-o",
+              "english": "Studio",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "로저스가",
-              "roman": "ro-jeo-seu-ga",
-              "english": "Rogers",
+              "korean": "타라는",
+              "roman": "ta-ra-neun",
+              "english": "Tara",
               "particle": false,
-              "suffix": "가"
+              "suffix": "는"
             },
             {
-              "korean": "앞서고",
-              "roman": "ap-seo-go",
-              "english": "led and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "코디",
-              "roman": "ko-di",
-              "english": "Cody",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "각포가",
-              "roman": "gak-po-ga",
-              "english": "Gakpo",
+              "korean": "31일",
+              "roman": "sam-sip-il",
+              "english": "31st",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
             },
             {
-              "korean": "전반에",
-              "roman": "jeon-ban-e",
-              "english": "before halftime",
+              "korean": "벵갈루루에서",
+              "roman": "beng-gal-ru-ru-e-seo",
+              "english": "in Bengaluru",
               "particle": false,
-              "suffix": "에"
+              "suffix": "에서"
             },
             {
-              "korean": "동점골을",
-              "roman": "dong-jeom-gol-eul",
-              "english": "equaliser",
+              "korean": "전시한다",
+              "roman": "jeon-si-han-da",
+              "english": "exhibits",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Designer Bharathi Ramamurthy prefers bold shapes, colour, and natural untreated gemstones.",
+          "korean": "디자이너는 대담한 형태와 천연 보석을 선호한다.",
+          "glossary": [
+            {
+              "korean": "디자이너는",
+              "roman": "di-ja-i-neo-neun",
+              "english": "the designer",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "대담한",
+              "roman": "dae-dam-han",
+              "english": "bold",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "형태와",
+              "roman": "hyeong-tae-wa",
+              "english": "shapes and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "천연",
+              "roman": "cheon-yeon",
+              "english": "natural",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "보석을",
+              "roman": "bo-seok-eul",
+              "english": "gemstones",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "넣었다",
-              "roman": "neot-eot-da",
-              "english": "scored",
+              "korean": "선호한다",
+              "roman": "seon-ho-han-da",
+              "english": "prefers",
               "particle": false,
-              "suffix": "었다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Chelsea’s Valentin Barco hit the post, while Liverpool’s Giorgi Mamardashvili saved a kick.",
-          "korean": "첼시의 발렌틴 바르코는 골대를 맞혔고 마마르다슈빌리는 슛을 막았다.",
+          "english": "Her chilli pendant uses many enamel layers, each carefully applied and fired.",
+          "korean": "고추 펜던트는 여러 에나멜층으로 만들어진다.",
           "glossary": [
             {
-              "korean": "첼시의",
-              "roman": "chel-si-ui",
-              "english": "Chelsea's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "발렌틴",
-              "roman": "bal-len-tin",
-              "english": "Valentin",
+              "korean": "고추",
+              "roman": "go-chu",
+              "english": "chilli",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "바르코는",
-              "roman": "ba-reu-ko-neun",
-              "english": "Barco",
+              "korean": "펜던트는",
+              "roman": "pen-deon-teu-neun",
+              "english": "pendant",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "골대를",
-              "roman": "gol-dae-reul",
-              "english": "post",
+              "korean": "여러",
+              "roman": "yeo-reo",
+              "english": "many",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "맞혔고",
-              "roman": "mat-hyeot-go",
-              "english": "hit and",
+              "korean": "에나멜층으로",
+              "roman": "e-na-mel-cheung-eu-ro",
+              "english": "with enamel layers",
               "particle": false,
-              "suffix": "고"
+              "suffix": "으로"
             },
             {
-              "korean": "마마르다슈빌리는",
-              "roman": "ma-ma-reu-da-syu-bil-li-neun",
-              "english": "Mamardashvili",
+              "korean": "만들어진다",
+              "roman": "man-deu-reo-jin-da",
+              "english": "is made",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The exhibition invites visitors to touch, try, and discuss bespoke pieces.",
+          "korean": "전시는 방문객에게 작품을 만지고 입어보게 한다.",
+          "glossary": [
+            {
+              "korean": "전시는",
+              "roman": "jeon-si-neun",
+              "english": "the exhibition",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "슛을",
-              "roman": "syus-eul",
-              "english": "kick",
+              "korean": "방문객에게",
+              "roman": "bang-mun-gaek-e-ge",
+              "english": "visitors",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "작품을",
+              "roman": "jak-pum-eul",
+              "english": "pieces",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "막았다",
-              "roman": "mak-at-da",
-              "english": "saved",
+              "korean": "만지고",
+              "roman": "man-ji-go",
+              "english": "touch",
               "particle": false,
-              "suffix": "았다"
+              "suffix": "고"
+            },
+            {
+              "korean": "입어보게",
+              "roman": "i-beo-bo-ge",
+              "english": "try on",
+              "particle": false,
+              "suffix": "게"
+            },
+            {
+              "korean": "한다",
+              "roman": "han-da",
+              "english": "lets",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/cities/bangalore/playful-luxury-studio-taras-jewellery-celebrates-bold-contemporary-shapes-with-restraint/article71635426.ece",
+      "short_english": "Studio Tara is a Chennai jewellery brand presenting an exhibition in Bengaluru on October 31, 2026.",
+      "short_korean": "스튜디오 타라는 10월 31일 벵갈루루에서 전시한다.",
+      "date": "2026-10-30",
+      "images": [
+        "images/indian/25b11baa3b5f/1.jpg",
+        "images/indian/25b11baa3b5f/2.jpg",
+        "images/indian/25b11baa3b5f/3.jpg",
+        "images/indian/25b11baa3b5f/4.jpg",
+        "images/indian/25b11baa3b5f/5.jpg",
+        "images/indian/25b11baa3b5f/6.jpg",
+        "images/indian/25b11baa3b5f/7.jpg",
+        "images/indian/25b11baa3b5f/8.jpg",
+        "images/indian/25b11baa3b5f/9.jpg",
+        "images/indian/25b11baa3b5f/10.jpg",
+        "images/indian/25b11baa3b5f/11.jpg",
+        "images/indian/25b11baa3b5f/12.jpg",
+        "images/indian/25b11baa3b5f/13.jpg",
+        "images/indian/25b11baa3b5f/14.jpg",
+        "images/indian/25b11baa3b5f/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/25b11baa3b5f/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "인도, 뉴질랜드에 먼저 공격 맡겨",
+      "english_title": "India chooses to bowl first in Auckland",
+      "korean_desc": "인도는 5경기 시리즈를 3대 0으로 확정했다. 이샨 키샨이 돌아오고 마얀크 야다브가 교체됐다. 뉴질랜드는 카일 제이미슨을 네이선 스미스로 바꿨다.",
+      "english_desc": "India had already sealed the five-match series 3–0. Ishan Kishan returned, while Mayank Yadav replaced Bhuvneshwar Kumar. New Zealand replaced Kyle Jamieson with Nathan Smith.",
+      "hook": "India won the toss and sent New Zealand in.",
+      "sticker": "Auckland toss drama 🏏",
+      "korean_hook": "인도가 토스 승리 뒤 뉴질랜드를 보냈다",
+      "takeaway_english": "The toss shaped the opening plan, but the team changes may matter longer.",
+      "takeaway_korean": "토스보다 선수 교체가 더 오래 중요할 수 있다.",
+      "why_it_matters": [
+        {
+          "english": "New Zealand is playing to avoid a clean sweep.",
+          "korean": "뉴질랜드는 전패를 피하려고 경기한다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "India",
+          "english": "India chose to field first after winning the toss.",
+          "korean": "인도는 토스 뒤 먼저 수비를 선택했다."
+        },
+        {
+          "label": "Ishan Kishan",
+          "english": "He returned after recovering from a right adductor strain.",
+          "korean": "오른쪽 내전근 부상 뒤 돌아왔다."
+        },
+        {
+          "label": "New Zealand",
+          "english": "New Zealand replaced Kyle Jamieson with Nathan Smith.",
+          "korean": "뉴질랜드는 카일 제이미슨을 바꿨다."
+        }
+      ],
+      "views": [
+        {
+          "label": "India",
+          "english": "With the series already won, the match offers another chance to test players.",
+          "korean": "시리즈 승리 뒤 선수들을 시험할 기회다."
+        },
+        {
+          "label": "New Zealand",
+          "english": "The hosts still have a chance to avoid a 4–0 series score.",
+          "korean": "뉴질랜드는 4대 0을 피할 기회가 있다."
+        }
+      ],
+      "disagree": {
+        "english": "A series already decided may reveal less than a close contest under pressure.",
+        "korean": "이미 결정된 시리즈는 긴장된 경기보다 덜 보여줄 수 있다."
+      },
+      "reader_question_korean": "에덴 파크에서 먼저 칠 건가요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "IND vs NZ fourth T20I: India asks New Zealand to bat first",
+      "hook_format": "headline",
+      "body_format": "before_after",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "before": {
+          "label": "",
+          "english": "India had already won the five-match series 3–0.",
+          "korean": "인도는 5경기 시리즈를 3대 0으로 이겼다."
+        },
+        "after": {
+          "label": "",
+          "english": "India made two changes before the fourth match in Auckland.",
+          "korean": "인도는 오클랜드 네 번째 경기에서 두 명을 바꿨다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "Match date: October 30, 2026",
+        "Venue: Eden Park, Auckland"
+      ],
+      "reader_question": "Would you bat first at Eden Park?",
+      "topic_tag": "Sports",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "IND vs NZ fourth T20I: India asks New Zealand to bat first",
+          "date": "2026-10-30",
+          "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "인도는",
+          "roman": "in-do-neun",
+          "english": "India",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "5경기",
+          "roman": "o-gyeong-gi",
+          "english": "five-match",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "시리즈를",
+          "roman": "si-ri-jeu-reul",
+          "english": "series",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "3대",
+          "roman": "sam-dae",
+          "english": "3 to",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "0으로",
+          "roman": "yeong-eu-ro",
+          "english": "0",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "확정했다",
+          "roman": "hwak-jeong-haet-da",
+          "english": "sealed",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "India had already sealed the five-match series 3–0.",
+          "korean": "인도는 5경기 시리즈를 3대 0으로 확정했다.",
+          "glossary": [
+            {
+              "korean": "인도는",
+              "roman": "in-do-neun",
+              "english": "India",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "5경기",
+              "roman": "o-gyeong-gi",
+              "english": "five-match",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시리즈를",
+              "roman": "si-ri-jeu-reul",
+              "english": "series",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "3대",
+              "roman": "sam-dae",
+              "english": "3 to",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "0으로",
+              "roman": "yeong-eu-ro",
+              "english": "0",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "확정했다",
+              "roman": "hwak-jeong-haet-da",
+              "english": "sealed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Ishan Kishan returned, while Mayank Yadav replaced Bhuvneshwar Kumar.",
+          "korean": "이샨 키샨이 돌아오고 마얀크 야다브가 교체됐다.",
+          "glossary": [
+            {
+              "korean": "이샨",
+              "roman": "i-syan",
+              "english": "Ishan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "키샨이",
+              "roman": "ki-syan-i",
+              "english": "Kishan",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "돌아오고",
+              "roman": "dol-a-o-go",
+              "english": "returned",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "마얀크",
+              "roman": "ma-yan-keu",
+              "english": "Mayank",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "야다브가",
+              "roman": "ya-da-beu-ga",
+              "english": "Yadav",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "교체됐다",
+              "roman": "gyo-che-doet-da",
+              "english": "was replaced",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Manchester City also reached the last eight after drawing 2-2 with Brighton and winning penalties.",
-          "korean": "맨체스터시티도 브라이턴과 2-2 뒤 승부차기로 8강에 갔다.",
+          "english": "New Zealand replaced Kyle Jamieson with Nathan Smith.",
+          "korean": "뉴질랜드는 카일 제이미슨을 네이선 스미스로 바꿨다.",
           "glossary": [
             {
-              "korean": "맨체스터시티도",
-              "roman": "maen-che-seu-teo-si-ti-do",
-              "english": "Manchester City also",
+              "korean": "뉴질랜드는",
+              "roman": "nyu-jil-laen-deu-neun",
+              "english": "New Zealand",
               "particle": false,
-              "suffix": "도"
+              "suffix": "는"
             },
             {
-              "korean": "브라이턴과",
-              "roman": "beu-ra-i-teon-gwa",
-              "english": "with Brighton",
+              "korean": "카일",
+              "roman": "ka-il",
+              "english": "Kyle",
               "particle": false,
-              "suffix": "과"
+              "suffix": ""
             },
             {
-              "korean": "2-2",
-              "roman": "i-i",
-              "english": "2-2",
+              "korean": "제이미슨을",
+              "roman": "je-i-mi-seun-eul",
+              "english": "Jamieson",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "네이선",
+              "roman": "ne-i-seon",
+              "english": "Nathan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "스미스로",
+              "roman": "seu-mi-seu-ro",
+              "english": "with Smith",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "바꿨다",
+              "roman": "ba-kkwot-da",
+              "english": "replaced",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-fourth-t20-international-in-auckland-on-october-30-2026/article71643999.ece",
+      "short_english": "India had already sealed the five-match series 3–0.",
+      "short_korean": "인도는 5경기 시리즈를 3대 0으로 확정했다.",
+      "date": "2026-10-30",
+      "images": [
+        "images/indian/e3592847ff34/1.jpg",
+        "images/indian/e3592847ff34/2.jpg",
+        "images/indian/e3592847ff34/3.jpg",
+        "images/indian/e3592847ff34/4.jpg",
+        "images/indian/e3592847ff34/5.jpg",
+        "images/indian/e3592847ff34/6.jpg",
+        "images/indian/e3592847ff34/7.jpg",
+        "images/indian/e3592847ff34/8.jpg",
+        "images/indian/e3592847ff34/9.jpg",
+        "images/indian/e3592847ff34/10.jpg",
+        "images/indian/e3592847ff34/11.jpg",
+        "images/indian/e3592847ff34/12.jpg",
+        "images/indian/e3592847ff34/13.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/e3592847ff34/caption.txt"
+    },
+    {
+      "category": "Entertainment",
+      "korean_title": "영화 파이어가 그린 사랑의 버팀",
+      "english_title": "Pyre turns an empty village into a love story",
+      "korean_desc": "아들은 28년 뒤 돌아온다지만 계속 오지 않는다. 희망이 무너지고 부부는 장작더미를 만든다. 영화는 2026년 10월 30일 인도에서 개봉했다.",
+      "english_desc": "Their son promises to return after 28 years, but his arrival repeatedly fails. Hope breaks down, and the couple builds their own funeral pyres. The film reached Indian cinemas on October 30, 2026.",
+      "hook": "Pyre follows an elderly couple awaiting their son.",
+      "sticker": "Love in the mountains",
+      "korean_hook": "파이어는 아들을 기다리는 노부부를 따른다",
+      "takeaway_english": "Pyre asks whether love can hold people together as their world disappears.",
+      "takeaway_korean": "파이어는 세상이 사라져도 사랑이 남는지 묻는다.",
+      "why_it_matters": [
+        {
+          "english": "The film connects one couple’s loneliness with villages emptied by migration.",
+          "korean": "영화는 한 부부의 외로움과 이주를 연결한다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Padam Singh and Tulsi",
+          "english": "The elderly couple struggles in a Himalayan village losing its young people.",
+          "korean": "노부부는 젊은이가 떠난 산골에서 버틴다."
+        },
+        {
+          "label": "Vinod Kapri",
+          "english": "The director uses quiet images to explore love, ageing, and migration.",
+          "korean": "감독은 조용한 장면으로 사랑과 이주를 다룬다."
+        },
+        {
+          "label": "Padam Singh and Hira Devi",
+          "english": "The non-professional actors give the couple’s relationship a natural feeling.",
+          "korean": "비전문 배우들이 자연스러운 관계를 보여준다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Supportive reviewers",
+          "english": "They praise the film’s tenderness, landscapes, and natural performances.",
+          "korean": "영화의 다정함과 풍경, 연기를 칭찬한다."
+        },
+        {
+          "label": "Critical reviewers",
+          "english": "They note that its stillness and festival-oriented style can create distance.",
+          "korean": "느린 흐름과 축제식 연출을 비판한다."
+        }
+      ],
+      "disagree": {
+        "english": "Some viewers may value the quiet pace, while others may find the story too slow.",
+        "korean": "어떤 관객은 느림을 좋아하고 다른 관객은 지루해할 수 있다."
+      },
+      "reader_question_korean": "노화와 사랑을 다룬 느린 영화를 보겠어요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"Their son promises to return after 28 years, but h\" may be missing promis"
+      ],
+      "source_title": "‘Pyre’ movie review: An ode to the resilience of love",
+      "hook_format": "vocab",
+      "body_format": "another_view",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "view": {
+          "label": "A reasonable alternative view",
+          "english": "The film’s slow pace may feel tedious to viewers who prefer fast-moving stories.",
+          "korean": "빠른 이야기를 좋아하면 영화가 지루할 수 있다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "Director: Vinod Kapri",
+        "Released in Indian cinemas: October 30, 2026"
+      ],
+      "reader_question": "Would you watch a slow film about ageing and love?",
+      "topic_tag": "Cinema",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "‘Pyre’ movie review: An ode to the resilience of love",
+          "date": "2026-10-30",
+          "url": "https://www.thehindu.com/entertainment/movies/pyre-movie-review-an-ode-to-the-resilience-of-love/article71643904.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "아들은",
+          "roman": "a-deul-eun",
+          "english": "the son",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "28년",
+          "roman": "i-sip-pal-nyeon",
+          "english": "28 years",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "뒤",
+          "roman": "dwi",
+          "english": "after",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "돌아온다지만",
+          "roman": "dol-a-on-da-ji-man",
+          "english": "says he will return, but",
+          "particle": false,
+          "suffix": "지만"
+        },
+        {
+          "korean": "계속",
+          "roman": "gye-sok",
+          "english": "repeatedly",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "오지",
+          "roman": "o-ji",
+          "english": "does not come",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "않는다",
+          "roman": "an-neun-da",
+          "english": "does not",
+          "particle": false,
+          "suffix": "는다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "Their son promises to return after 28 years, but his arrival repeatedly fails.",
+          "korean": "아들은 28년 뒤 돌아온다지만 계속 오지 않는다.",
+          "glossary": [
+            {
+              "korean": "아들은",
+              "roman": "a-deul-eun",
+              "english": "the son",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "28년",
+              "roman": "i-sip-pal-nyeon",
+              "english": "28 years",
               "particle": false,
               "suffix": ""
             },
@@ -1385,530 +1496,211 @@
               "suffix": ""
             },
             {
-              "korean": "승부차기로",
-              "roman": "seung-bu-cha-gi-ro",
-              "english": "on penalties",
+              "korean": "돌아온다지만",
+              "roman": "dol-a-on-da-ji-man",
+              "english": "says he will return, but",
               "particle": false,
-              "suffix": "로"
+              "suffix": "지만"
             },
             {
-              "korean": "8강에",
-              "roman": "pal-gang-e",
-              "english": "to quarterfinals",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "갔다",
-              "roman": "gat-da",
-              "english": "went",
+              "korean": "계속",
+              "roman": "gye-sok",
+              "english": "repeatedly",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "오지",
+              "roman": "o-ji",
+              "english": "does not come",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "않는다",
+              "roman": "an-neun-da",
+              "english": "does not",
+              "particle": false,
+              "suffix": "는다"
             }
           ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/football/carabao-cup-liverpool-beats-chelsea-on-penalties-man-city-survives-brighton-scare/article71639070.ece",
-      "short_english": "Cody Gakpo equalised before halftime after Morgan Rogers gave Chelsea the lead.",
-      "short_korean": "모건 로저스가 앞서고 코디 각포가 전반에 동점골을 넣었다.",
-      "date": "2026-10-29",
-      "images": [
-        "images/indian/461f7630e5a7/1.jpg",
-        "images/indian/461f7630e5a7/2.jpg",
-        "images/indian/461f7630e5a7/3.jpg",
-        "images/indian/461f7630e5a7/4.jpg",
-        "images/indian/461f7630e5a7/5.jpg",
-        "images/indian/461f7630e5a7/6.jpg",
-        "images/indian/461f7630e5a7/7.jpg",
-        "images/indian/461f7630e5a7/8.jpg",
-        "images/indian/461f7630e5a7/9.jpg",
-        "images/indian/461f7630e5a7/10.jpg",
-        "images/indian/461f7630e5a7/11.jpg",
-        "images/indian/461f7630e5a7/12.jpg",
-        "images/indian/461f7630e5a7/13.jpg",
-        "images/indian/461f7630e5a7/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/461f7630e5a7/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "새 공연, 새를 따라 진리를 찾다",
-      "english_title": "Delhi play turns bird puppets into a journey toward truth",
-      "korean_desc": "《갓 갓 바제 나드》는 새 인형과 춤, 음악을 쓰는 델리 공연이다. 새들은 인형극과 춤, 음악, 여러 전통의 성스러운 글로 영적 여정을 전한다. 새들은 상징적인 곳을 지나 친절과 자비, 초연함을 배운다.",
-      "english_desc": "Ghat Ghat Baje Naad is a Delhi performance using bird puppets, dance, and music. They carry a spiritual journey through puppetry, dance, music, and sacred texts from several traditions. The birds travel through symbolic places while learning kindness, compassion, and detachment.",
-      "hook": "What makes these birds more than puppets?",
-      "sticker": "Birds searching for truth",
-      "korean_hook": "이 새들은 왜 인형 이상일까?",
-      "takeaway_english": "The production’s next journey may be beyond Delhi, if it reaches more schools and colleges.",
-      "takeaway_korean": "더 많은 학교와 대학으로 공연이 이어질 수 있다.",
-      "why_it_matters": [
-        {
-          "english": "The play uses several traditions to explore kindness, compassion, and detachment.",
-          "korean": "공연은 여러 전통으로 친절과 자비, 초연함을 탐구한다."
         },
         {
-          "english": "Students may meet spiritual ideas through music, puppetry, and movement.",
-          "korean": "학생들은 음악과 인형극, 움직임으로 영성을 만날 수 있다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "MK Raina",
-          "english": "He directed and designed the performance.",
-          "korean": "MK 라이나가 공연을 연출하고 디자인했다."
-        },
-        {
-          "label": "Hud Hud",
-          "english": "The hoopoe leads the birds toward truth.",
-          "korean": "후드후드가 새들을 진리로 이끈다."
-        },
-        {
-          "label": "Dara Shikoh Centre",
-          "english": "It produced the play with the Temple of Understanding Foundation of India.",
-          "korean": "다라 시코 센터가 인도 이해의 사원 재단과 제작했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Reviewer",
-          "english": "The performance is absorbing and should travel to schools and colleges.",
-          "korean": "평론자는 공연이 몰입감 있고 학교에 필요하다고 봤다."
-        },
-        {
-          "label": "The play’s message",
-          "english": "Different sacred traditions are presented as seeking the same ultimate truth.",
-          "korean": "여러 성스러운 전통이 같은 진리를 찾는다고 말한다."
-        }
-      ],
-      "disagree": {
-        "english": "The review praises the cultural mixture, but the evidence is one critic’s response rather than a wider audience study.",
-        "korean": "평가는 긍정적이지만 넓은 관객 조사는 아니어서 증거가 얇다."
-      },
-      "reader_question_korean": "예술은 다른 종교 전통을 연결할 수 있을까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Delhi | A spiritual journey through music, faith, and identity",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Performance: Ghat Ghat Baje Naad",
-        "Directed and designed by MK Raina"
-      ],
-      "reader_question": "Can art connect different religious traditions without flattening them?",
-      "topic_tag": "Theatre",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Delhi | A spiritual journey through music, faith, and identity",
-          "date": "2026-10-29",
-          "url": "https://www.thehindu.com/news/cities/Delhi/delhi-a-spiritual-journey-through-music-faith-and-identity/article71634586.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "《갓",
-          "roman": "gat",
-          "english": "Ghat",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "갓",
-          "roman": "gat",
-          "english": "Ghat",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "바제",
-          "roman": "ba-je",
-          "english": "Baje",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "나드》는",
-          "roman": "nad-neun",
-          "english": "Naad",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "새",
-          "roman": "sae",
-          "english": "bird",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "인형과",
-          "roman": "in-hyeong-gwa",
-          "english": "puppets and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "춤",
-          "roman": "chum",
-          "english": "dance",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "음악을",
-          "roman": "eum-ak-eul",
-          "english": "music",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "쓰는",
-          "roman": "sseu-neun",
-          "english": "using",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "델리",
-          "roman": "del-li",
-          "english": "Delhi",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "공연이다",
-          "roman": "gong-yeon-i-da",
-          "english": "is a performance",
-          "particle": false,
-          "suffix": "이다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Ghat Ghat Baje Naad is a Delhi performance using bird puppets, dance, and music.",
-          "korean": "《갓 갓 바제 나드》는 새 인형과 춤, 음악을 쓰는 델리 공연이다.",
+          "stage": "how",
+          "english": "Hope breaks down, and the couple builds their own funeral pyres.",
+          "korean": "희망이 무너지고 부부는 장작더미를 만든다.",
           "glossary": [
             {
-              "korean": "《갓",
-              "roman": "gat",
-              "english": "Ghat",
+              "korean": "희망이",
+              "roman": "hui-mang-i",
+              "english": "hope",
               "particle": false,
-              "suffix": ""
+              "suffix": "이"
             },
             {
-              "korean": "갓",
-              "roman": "gat",
-              "english": "Ghat",
+              "korean": "무너지고",
+              "roman": "mu-neo-ji-go",
+              "english": "breaks down",
               "particle": false,
-              "suffix": ""
+              "suffix": "고"
             },
             {
-              "korean": "바제",
-              "roman": "ba-je",
-              "english": "Baje",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "나드》는",
-              "roman": "nad-neun",
-              "english": "Naad",
+              "korean": "부부는",
+              "roman": "bu-bu-neun",
+              "english": "the couple",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "새",
-              "roman": "sae",
-              "english": "bird",
+              "korean": "장작더미를",
+              "roman": "jang-jak-deo-mi-reul",
+              "english": "wood piles",
               "particle": false,
-              "suffix": ""
+              "suffix": "를"
             },
             {
-              "korean": "인형과",
-              "roman": "in-hyeong-gwa",
-              "english": "puppets and",
+              "korean": "만든다",
+              "roman": "man-deun-da",
+              "english": "builds",
               "particle": false,
-              "suffix": "과"
-            },
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The film reached Indian cinemas on October 30, 2026.",
+          "korean": "영화는 2026년 10월 30일 인도에서 개봉했다.",
+          "glossary": [
             {
-              "korean": "춤",
-              "roman": "chum",
-              "english": "dance",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "음악을",
-              "roman": "eum-ak-eul",
-              "english": "music",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "쓰는",
-              "roman": "sseu-neun",
-              "english": "using",
+              "korean": "영화는",
+              "roman": "yeong-hwa-neun",
+              "english": "the film",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "델리",
-              "roman": "del-li",
-              "english": "Delhi",
+              "korean": "2026년",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "english": "2026",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "공연이다",
-              "roman": "gong-yeon-i-da",
-              "english": "is a performance",
-              "particle": false,
-              "suffix": "이다"
-            }
-          ]
-        },
-        {
-          "stage": "truth",
-          "english": "They carry a spiritual journey through puppetry, dance, music, and sacred texts from several traditions.",
-          "korean": "새들은 인형극과 춤, 음악, 여러 전통의 성스러운 글로 영적 여정을 전한다.",
-          "glossary": [
-            {
-              "korean": "새들은",
-              "roman": "sae-deul-eun",
-              "english": "the birds",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "인형극과",
-              "roman": "in-hyeong-geuk-gwa",
-              "english": "puppetry and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "춤",
-              "roman": "chum",
-              "english": "dance",
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "음악",
-              "roman": "eum-ak",
-              "english": "music",
+              "korean": "30일",
+              "roman": "sam-sip-il",
+              "english": "30th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "여러",
-              "roman": "yeo-reo",
-              "english": "several",
+              "korean": "인도에서",
+              "roman": "in-do-e-seo",
+              "english": "in India",
               "particle": false,
-              "suffix": ""
+              "suffix": "에서"
             },
             {
-              "korean": "전통의",
-              "roman": "jeon-tong-ui",
-              "english": "of traditions",
+              "korean": "개봉했다",
+              "roman": "gae-bong-haet-da",
+              "english": "was released",
               "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "성스러운",
-              "roman": "seong-seu-reo-un",
-              "english": "sacred",
-              "particle": false,
-              "suffix": "운"
-            },
-            {
-              "korean": "글로",
-              "roman": "geul-lo",
-              "english": "through texts",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "영적",
-              "roman": "yeong-jeok",
-              "english": "spiritual",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여정을",
-              "roman": "yeo-jeong-eul",
-              "english": "journey",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "전한다",
-              "roman": "jeon-han-da",
-              "english": "carry",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The birds travel through symbolic places while learning kindness, compassion, and detachment.",
-          "korean": "새들은 상징적인 곳을 지나 친절과 자비, 초연함을 배운다.",
-          "glossary": [
-            {
-              "korean": "새들은",
-              "roman": "sae-deul-eun",
-              "english": "the birds",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "상징적인",
-              "roman": "sang-jing-jeok-in",
-              "english": "symbolic",
-              "particle": false,
-              "suffix": "인"
-            },
-            {
-              "korean": "곳을",
-              "roman": "got-eul",
-              "english": "places",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "지나",
-              "roman": "ji-na",
-              "english": "through",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "친절과",
-              "roman": "chin-jeol-gwa",
-              "english": "kindness and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "자비",
-              "roman": "ja-bi",
-              "english": "compassion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "초연함을",
-              "roman": "cho-yeon-ham-eul",
-              "english": "detachment",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "배운다",
-              "roman": "bae-un-da",
-              "english": "learn",
-              "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/cities/Delhi/delhi-a-spiritual-journey-through-music-faith-and-identity/article71634586.ece",
-      "short_english": "Ghat Ghat Baje Naad is a Delhi performance using bird puppets, dance, and music.",
-      "short_korean": "《갓 갓 바제 나드》는 새 인형과 춤, 음악을 쓰는 델리 공연이다.",
-      "date": "2026-10-29",
+      "url": "https://www.thehindu.com/entertainment/movies/pyre-movie-review-an-ode-to-the-resilience-of-love/article71643904.ece",
+      "short_english": "Their son promises to return after 28 years, but his arrival repeatedly fails.",
+      "short_korean": "아들은 28년 뒤 돌아온다지만 계속 오지 않는다.",
+      "date": "2026-10-30",
       "images": [
-        "images/indian/cdd2d291d623/1.jpg",
-        "images/indian/cdd2d291d623/2.jpg",
-        "images/indian/cdd2d291d623/3.jpg",
-        "images/indian/cdd2d291d623/4.jpg",
-        "images/indian/cdd2d291d623/5.jpg",
-        "images/indian/cdd2d291d623/6.jpg",
-        "images/indian/cdd2d291d623/7.jpg",
-        "images/indian/cdd2d291d623/8.jpg",
-        "images/indian/cdd2d291d623/9.jpg",
-        "images/indian/cdd2d291d623/10.jpg",
-        "images/indian/cdd2d291d623/11.jpg",
-        "images/indian/cdd2d291d623/12.jpg",
-        "images/indian/cdd2d291d623/13.jpg",
-        "images/indian/cdd2d291d623/14.jpg",
-        "images/indian/cdd2d291d623/15.jpg",
-        "images/indian/cdd2d291d623/16.jpg"
+        "images/indian/8fa448f5248f/1.jpg",
+        "images/indian/8fa448f5248f/2.jpg",
+        "images/indian/8fa448f5248f/3.jpg",
+        "images/indian/8fa448f5248f/4.jpg",
+        "images/indian/8fa448f5248f/5.jpg",
+        "images/indian/8fa448f5248f/6.jpg",
+        "images/indian/8fa448f5248f/7.jpg",
+        "images/indian/8fa448f5248f/8.jpg",
+        "images/indian/8fa448f5248f/9.jpg",
+        "images/indian/8fa448f5248f/10.jpg",
+        "images/indian/8fa448f5248f/11.jpg",
+        "images/indian/8fa448f5248f/12.jpg",
+        "images/indian/8fa448f5248f/13.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/cdd2d291d623/caption.txt"
+      "caption_file": "images/indian/8fa448f5248f/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "인도, 아세안에 대테러 협력 제안",
-      "english_title": "India offers ASEAN its battle-tested counter-terror expertise",
-      "korean_desc": "그는 공동훈련과 역량 강화, 정보 공유를 제안했다. 싱은 작전 신두르를 국가 지원 테러 대응 사례로 들었다. 그는 해양 안보를 무역과 평화, 번영, 유엔해양법과 연결했다.",
-      "english_desc": "He proposed joint exercises, capacity-building programmes, and stronger intelligence sharing. Singh cited Operation Sindoor as India’s approach against state-sponsored terrorism. He also linked maritime security with trade, peace, prosperity, UNCLOS, and freedom of navigation.",
-      "hook": "India offered ASEAN counter-terror expertise.",
-      "sticker": "What India offered",
-      "korean_hook": "인도가 아세안에 대테러 지식을 제안했다",
-      "takeaway_english": "The offer now depends on what ASEAN partners accept and how cooperation is organized.",
-      "takeaway_korean": "이제 아세안의 수용과 협력 방식이 중요하다.",
+      "korean_title": "전 공군 장교 시신 발견",
+      "english_title": "Former Bangladesh officer found dead in Dhaka river",
+      "korean_desc": "휴대전화와 손목시계가 신원 확인을 도왔다. 시신은 부검됐지만 사망 원인은 아직 모른다. 10월 30일 수사관들은 지인을 조사했다.",
+      "english_desc": "A phone and wristwatch helped police identify him before the autopsy. The body was sent for autopsy, but the cause of death remains unknown. On October 30, investigators took an associate into custody for questioning.",
+      "hook": "Police recovered a former Air Force officer’s body.",
+      "sticker": "What investigators know",
+      "korean_hook": "경찰이 전 공군 장교 시신을 찾았다",
+      "takeaway_english": "The investigation must establish the cause of death before wider claims can be tested.",
+      "takeaway_korean": "더 큰 주장은 사망 원인 확인 뒤 시험돼야 한다.",
       "why_it_matters": [
         {
-          "english": "Counter-terror cooperation can affect intelligence sharing, military exercises, and regional security.",
-          "korean": "대테러 협력은 정보 공유와 군사훈련, 지역 안보에 영향을 준다."
+          "english": "The case involves a former officer connected to a widely reported political event.",
+          "korean": "사건은 정치적 사건과 연결된 전직 장교와 관련된다."
+        },
+        {
+          "english": "The cause of death remains unresolved while an investigation continues.",
+          "korean": "수사가 계속되는 동안 사망 원인은 미해결이다."
         }
       ],
       "parties": [
         {
-          "label": "Rajnath Singh",
-          "english": "India’s defence minister offered counter-terrorism expertise at the ADMM-Plus meeting in Cebu.",
-          "korean": "라지나트 싱은 세부 회의에서 대테러 지식을 제안했다."
+          "label": "K.M. Tahsif Souri",
+          "english": "The former Air Force officer disappeared on October 27, 2026.",
+          "korean": "전 공군 장교는 10월 27일 사라졌다."
         },
         {
-          "label": "ASEAN partners",
-          "english": "They could receive exercises, capacity-building programmes, and intelligence cooperation.",
-          "korean": "아세안 파트너는 훈련과 역량 강화, 정보 협력을 받을 수 있다."
+          "label": "Bangladesh police",
+          "english": "Police recovered his body from the Turag River in Dhaka.",
+          "korean": "경찰은 다카의 투라그강에서 시신을 찾았다."
         },
         {
-          "label": "India",
-          "english": "India also presented itself as a trusted security provider in the Indian Ocean.",
-          "korean": "인도는 인도양의 신뢰받는 안보 제공자라고 밝혔다."
+          "label": "Police Bureau of Investigation",
+          "english": "The PBI took an associate into custody for questioning on October 30.",
+          "korean": "PBI는 10월 30일 지인을 조사했다."
         }
       ],
       "views": [
         {
-          "label": "India’s position",
-          "english": "Singh described Operation Sindoor as evidence of India’s clear approach to state-sponsored terrorism.",
-          "korean": "싱은 작전 신두르가 국가 지원 테러에 대한 인도의 입장이라고 말했다."
+          "label": "Police and home minister",
+          "english": "They say the death requires a preliminary investigation and autopsy before conclusions.",
+          "korean": "예비 조사와 부검 전에는 결론을 낼 수 없다고 말한다."
         },
         {
-          "label": "Regional perspective",
-          "english": "Regional partners may value cooperation while also focusing on UNCLOS and freedom of navigation.",
-          "korean": "지역 파트너는 협력과 함께 유엔해양법과 항행의 자유를 중시할 수 있다."
+          "label": "Souri’s family",
+          "english": "His father expressed suspicion and raised the possibility of murder.",
+          "korean": "아버지는 의심을 말하며 살해 가능성을 제기했다."
         }
       ],
       "disagree": {
-        "english": "India stresses proven operations; partners may still seek details about rules, oversight, and the results of cooperation.",
-        "korean": "인도는 작전을 강조하지만 파트너는 규칙과 감독, 결과를 물을 수 있다."
+        "english": "The reported facts do not yet establish whether the death was accidental, natural, or criminal.",
+        "korean": "현재 사실만으로 사고인지 범죄인지 알 수 없다."
       },
-      "reader_question_korean": "국가는 신뢰를 지키며 안보 지식을 어떻게 나눠야 할까요?",
+      "reader_question_korean": "수사관들은 어떤 증거부터 밝혀야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "translation check: \"He proposed joint exercises, capacity-building pro\" may be missing buildings?"
+        "translation check: \"A phone and wristwatch helped police identify him \" may be missing police"
       ],
-      "source_title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
+      "source_title": "Bangladesh police recovers body of ex-Air Force officer from river in Dhaka",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -1918,295 +1710,226 @@
       "format_data": {
         "views": [
           {
-            "label": "India",
-            "english": "India says joint exercises, training, and intelligence sharing can strengthen regional counter-terrorism.",
-            "korean": "인도는 훈련과 정보 공유가 대테러 능력을 높인다고 말한다."
+            "label": "Police",
+            "english": "Police recovered the body and sent it for an autopsy.",
+            "korean": "경찰은 시신을 찾아 부검에 보냈다."
           },
           {
-            "label": "ASEAN and partners",
-            "english": "Partners must balance counter-terror cooperation with maritime security and international law.",
-            "korean": "파트너들은 대테러 협력과 해양 안보, 국제법을 함께 봐야 한다."
+            "label": "Family and investigators",
+            "english": "The cause of death remains unclear, and investigators are questioning an associate.",
+            "korean": "사망 원인은 불명확하고 지인이 조사받고 있다."
           }
         ]
       },
       "serious": true,
       "caption_lines": [
-        "Meeting: ADMM-Plus in Cebu, Philippines",
-        "Update: October 29, 2026"
+        "Body recovered: October 28, 2026",
+        "Investigation update: October 30, 2026"
       ],
-      "reader_question": "How should countries share security expertise while protecting regional trust?",
-      "topic_tag": "Security",
+      "reader_question": "What evidence should investigators clarify first?",
+      "topic_tag": "Bangladesh",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh",
-          "date": "2026-10-29",
-          "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece"
+          "title": "Bangladesh police recovers body of ex-Air Force officer from river in Dhaka",
+          "date": "2026-10-30",
+          "url": "https://www.thehindu.com/news/international/bangladesh-police-recovers-body-of-ex-air-force-officer-from-river-in-dhaka-investigation-underway-into-his-disappearance-and-ties-to-a-video-of-sheikh-hasina/article71643828.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "그는",
-          "roman": "geu-neun",
-          "english": "he",
+          "korean": "휴대전화와",
+          "roman": "hyu-dae-jeon-hwa-wa",
+          "english": "phone and",
           "particle": false,
-          "suffix": "는"
+          "suffix": "와"
         },
         {
-          "korean": "공동훈련과",
-          "roman": "gong-dong-hun-ryeon-gwa",
-          "english": "joint exercises and",
+          "korean": "손목시계가",
+          "roman": "son-mok-si-gye-ga",
+          "english": "wristwatch",
           "particle": false,
-          "suffix": "과"
+          "suffix": "가"
         },
         {
-          "korean": "역량",
-          "roman": "yeok-ryang",
-          "english": "capacity",
+          "korean": "신원",
+          "roman": "sin-won",
+          "english": "identity",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "강화",
-          "roman": "gang-hwa",
-          "english": "building",
+          "korean": "확인을",
+          "roman": "hwak-in-eul",
+          "english": "identification",
           "particle": false,
-          "suffix": ""
+          "suffix": "을"
         },
         {
-          "korean": "정보",
-          "roman": "jeong-bo",
-          "english": "intelligence",
+          "korean": "도왔다",
+          "roman": "do-wat-da",
+          "english": "helped",
           "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "공유를",
-          "roman": "gong-yu-reul",
-          "english": "sharing",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "제안했다",
-          "roman": "je-an-haet-da",
-          "english": "proposed",
-          "particle": false,
-          "suffix": "했다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "how",
-          "english": "He proposed joint exercises, capacity-building programmes, and stronger intelligence sharing.",
-          "korean": "그는 공동훈련과 역량 강화, 정보 공유를 제안했다.",
+          "english": "A phone and wristwatch helped police identify him before the autopsy.",
+          "korean": "휴대전화와 손목시계가 신원 확인을 도왔다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
+              "korean": "휴대전화와",
+              "roman": "hyu-dae-jeon-hwa-wa",
+              "english": "phone and",
               "particle": false,
-              "suffix": "는"
+              "suffix": "와"
             },
             {
-              "korean": "공동훈련과",
-              "roman": "gong-dong-hun-ryeon-gwa",
-              "english": "joint exercises and",
+              "korean": "손목시계가",
+              "roman": "son-mok-si-gye-ga",
+              "english": "wristwatch",
               "particle": false,
-              "suffix": "과"
+              "suffix": "가"
             },
             {
-              "korean": "역량",
-              "roman": "yeok-ryang",
-              "english": "capacity",
+              "korean": "신원",
+              "roman": "sin-won",
+              "english": "identity",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "강화",
-              "roman": "gang-hwa",
-              "english": "building",
+              "korean": "확인을",
+              "roman": "hwak-in-eul",
+              "english": "identification",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "정보",
-              "roman": "jeong-bo",
-              "english": "intelligence",
+              "korean": "도왔다",
+              "roman": "do-wat-da",
+              "english": "helped",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공유를",
-              "roman": "gong-yu-reul",
-              "english": "sharing",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "제안했다",
-              "roman": "je-an-haet-da",
-              "english": "proposed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Singh cited Operation Sindoor as India’s approach against state-sponsored terrorism.",
-          "korean": "싱은 작전 신두르를 국가 지원 테러 대응 사례로 들었다.",
-          "glossary": [
-            {
-              "korean": "싱은",
-              "roman": "sing-eun",
-              "english": "Singh",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "작전",
-              "roman": "jak-jeon",
-              "english": "operation",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "신두르를",
-              "roman": "sin-du-reu-reul",
-              "english": "Sindoor",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "국가",
-              "roman": "guk-ga",
-              "english": "state",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지원",
-              "roman": "ji-won",
-              "english": "sponsored",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "테러",
-              "roman": "te-reo",
-              "english": "terrorism",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대응",
-              "roman": "dae-eung",
-              "english": "response",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사례로",
-              "roman": "sa-rye-ro",
-              "english": "as an example",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "들었다",
-              "roman": "deu-reot-da",
-              "english": "cited",
-              "particle": false,
-              "suffix": "었다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "He also linked maritime security with trade, peace, prosperity, UNCLOS, and freedom of navigation.",
-          "korean": "그는 해양 안보를 무역과 평화, 번영, 유엔해양법과 연결했다.",
+          "english": "The body was sent for autopsy, but the cause of death remains unknown.",
+          "korean": "시신은 부검됐지만 사망 원인은 아직 모른다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
+              "korean": "시신은",
+              "roman": "si-sin-eun",
+              "english": "the body",
               "particle": false,
-              "suffix": "는"
+              "suffix": "은"
             },
             {
-              "korean": "해양",
-              "roman": "hae-yang",
-              "english": "maritime",
+              "korean": "부검됐지만",
+              "roman": "bu-geom-doet-ji-man",
+              "english": "was autopsied, but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "사망",
+              "roman": "sa-mang",
+              "english": "death",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "안보를",
-              "roman": "an-bo-reul",
-              "english": "security",
+              "korean": "원인은",
+              "roman": "won-in-eun",
+              "english": "cause",
               "particle": false,
-              "suffix": "를"
+              "suffix": "은"
             },
             {
-              "korean": "무역과",
-              "roman": "mu-yeok-gwa",
-              "english": "trade and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "평화",
-              "roman": "pyeong-hwa",
-              "english": "peace",
+              "korean": "아직",
+              "roman": "a-jik",
+              "english": "still",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "번영",
-              "roman": "beon-yeong",
-              "english": "prosperity",
+              "korean": "모른다",
+              "roman": "mo-reun-da",
+              "english": "is unknown",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On October 30, investigators took an associate into custody for questioning.",
+          "korean": "10월 30일 수사관들은 지인을 조사했다.",
+          "glossary": [
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "유엔해양법과",
-              "roman": "yu-en-hae-yang-beop-gwa",
-              "english": "UNCLOS and",
+              "korean": "30일",
+              "roman": "sam-sip-il",
+              "english": "30th",
               "particle": false,
-              "suffix": "과"
+              "suffix": ""
             },
             {
-              "korean": "연결했다",
-              "roman": "yeon-gyeol-haet-da",
-              "english": "linked",
+              "korean": "수사관들은",
+              "roman": "su-sa-gwan-deul-eun",
+              "english": "investigators",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "은"
+            },
+            {
+              "korean": "지인을",
+              "roman": "ji-in-eul",
+              "english": "an associate",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "조사했다",
+              "roman": "jo-sa-haet-da",
+              "english": "questioned",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece",
-      "short_english": "He proposed joint exercises, capacity-building programmes, and stronger intelligence sharing.",
-      "short_korean": "그는 공동훈련과 역량 강화, 정보 공유를 제안했다.",
-      "date": "2026-10-29",
+      "url": "https://www.thehindu.com/news/international/bangladesh-police-recovers-body-of-ex-air-force-officer-from-river-in-dhaka-investigation-underway-into-his-disappearance-and-ties-to-a-video-of-sheikh-hasina/article71643828.ece",
+      "short_english": "A phone and wristwatch helped police identify him before the autopsy.",
+      "short_korean": "휴대전화와 손목시계가 신원 확인을 도왔다.",
+      "date": "2026-10-30",
       "images": [
-        "images/indian/9a87bfeb70b2/1.jpg",
-        "images/indian/9a87bfeb70b2/2.jpg",
-        "images/indian/9a87bfeb70b2/3.jpg",
-        "images/indian/9a87bfeb70b2/4.jpg",
-        "images/indian/9a87bfeb70b2/5.jpg",
-        "images/indian/9a87bfeb70b2/6.jpg",
-        "images/indian/9a87bfeb70b2/7.jpg",
-        "images/indian/9a87bfeb70b2/8.jpg",
-        "images/indian/9a87bfeb70b2/9.jpg",
-        "images/indian/9a87bfeb70b2/10.jpg",
-        "images/indian/9a87bfeb70b2/11.jpg",
-        "images/indian/9a87bfeb70b2/12.jpg",
-        "images/indian/9a87bfeb70b2/13.jpg"
+        "images/indian/2c0ea7b13c1e/1.jpg",
+        "images/indian/2c0ea7b13c1e/2.jpg",
+        "images/indian/2c0ea7b13c1e/3.jpg",
+        "images/indian/2c0ea7b13c1e/4.jpg",
+        "images/indian/2c0ea7b13c1e/5.jpg",
+        "images/indian/2c0ea7b13c1e/6.jpg",
+        "images/indian/2c0ea7b13c1e/7.jpg",
+        "images/indian/2c0ea7b13c1e/8.jpg",
+        "images/indian/2c0ea7b13c1e/9.jpg",
+        "images/indian/2c0ea7b13c1e/10.jpg",
+        "images/indian/2c0ea7b13c1e/11.jpg",
+        "images/indian/2c0ea7b13c1e/12.jpg",
+        "images/indian/2c0ea7b13c1e/13.jpg",
+        "images/indian/2c0ea7b13c1e/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/9a87bfeb70b2/caption.txt"
+      "caption_file": "images/indian/2c0ea7b13c1e/caption.txt"
     }
   ]
 }
