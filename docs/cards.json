@@ -1,70 +1,71 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "status": "ai",
-  "note": "5 new cards made, 1 kept. Cost this run about $0.0144",
-  "generated_at": "2026-10-30T07:07:59.855Z",
+  "note": "4 new cards made, 2 kept. Cost this run about $0.0133",
+  "generated_at": "2026-10-31T07:02:00.788Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "인천공항 체크인 장애",
-      "english_title": "A Network Glitch Delayed Check-In at Incheon",
-      "korean_desc": "10월 30일 인천공항 체크인이 지연됐다. 공항은 ARINC 항공망 불안정을 원인으로 봤다. 1터미널 8곳과 2터미널 5곳에서 통신이 끊겼다. 오후에는 중국 항공사 세 곳이 발권을 멈췄다.",
-      "english_desc": "On October 30, a network disruption delayed check-in at Incheon Airport. The airport connected the problem to instability in the ARINC airline network. Communication outages affected eight airlines in Terminal 1 and five in Terminal 2. By afternoon, three Chinese carriers had effectively stopped normal ticketing.",
-      "hook": "Thirteen airlines faced check-in disruption.",
-      "sticker": "Airport delays today",
-      "korean_hook": "항공사 13곳이 체크인 장애를 겪었다",
-      "takeaway_english": "The next question is whether ARINC and airlines can prevent another disruption.",
-      "takeaway_korean": "다음 과제는 ARINC와 항공사의 재발 방지다.",
+      "korean_title": "이재명, 농촌 기본소득 점검",
+      "english_title": "Lee Inspects South Korea’s Rural Basic Income Test",
+      "korean_desc": "이재명 대통령은 10월 31일 경북 시범사업을 점검했다. 농촌 주민은 매달 15만 원 상품권을 받는다. 인구감소 지역 69곳 중 17곳이 시행 중이다. 이재명은 SNS에서 영양과 청송 주민에게 인사했다.",
+      "english_desc": "President Lee Jae Myung inspected a rural pilot program in North Gyeongsang Province on October 31. The program gives rural residents 150,000 won monthly through local gift vouchers. Of 69 population-declining counties, 17 are currently running the pilot. Lee also greeted residents of Yeongyang and Cheongsong counties in a social media post.",
+      "hook": "Lee inspected a rural basic income pilot.",
+      "sticker": "Rural policy in action",
+      "korean_hook": "이재명, 농촌 기본소득 점검",
+      "takeaway_english": "The next question is whether temporary vouchers create lasting reasons to stay.",
+      "takeaway_korean": "다음 과제는 주민이 계속 머물 이유다.",
       "why_it_matters": [
         {
-          "english": "A check-in failure can quickly create long airport lines.",
-          "korean": "체크인 장애는 공항에 긴 줄을 만든다."
+          "english": "The pilot tests a direct response to shrinking rural populations.",
+          "korean": "이 시범사업은 농촌 인구 감소에 대응한다."
         },
         {
-          "english": "Passengers with connections may face extra travel problems.",
-          "korean": "환승 승객은 추가 여행 문제를 겪을 수 있다."
+          "english": "Gift vouchers may send more spending to local businesses.",
+          "korean": "상품권은 지역 상점 소비를 늘릴 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Incheon Airport",
-          "english": "It faced passenger-processing delays and investigated the network problem.",
-          "korean": "여객 수속 지연을 겪고 장애를 조사했다."
+          "label": "Lee Jae Myung",
+          "english": "He visited North Gyeongsang Province and inspected the pilot program.",
+          "korean": "이재명은 경북에서 시범사업을 점검했다."
         },
         {
-          "label": "Three Chinese airlines",
-          "english": "China Southern, China Eastern and Air China stopped normal ticketing by afternoon.",
-          "korean": "중국 항공사 세 곳은 발권을 멈췄다."
+          "label": "Rural residents",
+          "english": "Residents in selected counties receive monthly local gift vouchers.",
+          "korean": "선정 지역 주민은 매달 상품권을 받는다."
         },
         {
-          "label": "Passengers",
-          "english": "They waited in long lines and some feared missed connections.",
-          "korean": "승객들은 긴 줄에서 기다렸다."
+          "label": "The government",
+          "english": "It is testing whether local spending can support shrinking rural communities.",
+          "korean": "정부는 농촌 회복 가능성을 시험한다."
         }
       ],
       "views": [
         {
-          "label": "Incheon Airport officials",
-          "english": "They linked the disruption to instability in the US-based ARINC network.",
-          "korean": "공항은 미국 ARINC망 불안정을 원인으로 봤다."
+          "label": "The Lee government",
+          "english": "The program is meant to support rural areas facing population decline.",
+          "korean": "이 정부는 인구 감소 농촌을 돕는다고 본다."
         },
         {
-          "label": "Some passenger reports",
-          "english": "Passengers described severe queues and possible effects on connecting travel.",
-          "korean": "승객들은 긴 줄과 환승 차질을 말했다."
+          "label": "Critical perspective",
+          "english": "Available coverage gives few detailed objections, so the program’s long-term results remain unclear.",
+          "korean": "비판 의견은 적어 장기 결과가 불분명하다."
         }
       ],
       "disagree": {
-        "english": "The airport had not completed a detailed investigation, so the cause and flight effects remained unsettled.",
-        "korean": "조사가 끝나지 않아 원인과 운항 영향은 확정되지 않았다."
+        "english": "Some may question whether vouchers alone can reverse population decline, but the available coverage gives no firm answer.",
+        "korean": "상품권만으로 인구 감소를 막을지 의문이다."
       },
-      "reader_question_korean": "공항은 공동망 장애에 어떻게 대비해야 할까요?",
+      "reader_question_korean": "지역 상품권이 농촌을 살릴까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 150, 000"
       ],
-      "source_title": "13 airlines hit by check-in disruption at Incheon Airport",
+      "source_title": "Lee visits southeastern province to inspect pilot basic income scheme",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -72,975 +73,208 @@
       "answer_english": "",
       "answer_korean": "",
       "format_data": {},
-      "serious": true,
+      "serious": false,
       "caption_lines": [
-        "The disruption began around 4:30 a.m. on October 30, 2026.",
-        "The airport said it would assess the situation in detail."
+        "Update: October 31, 2026",
+        "North Gyeongsang Province includes Yeongyang and Cheongsong counties."
       ],
-      "reader_question": "How should airports prepare for failures in shared networks?",
-      "topic_tag": "Airport",
+      "reader_question": "Can local vouchers keep rural towns alive?",
+      "topic_tag": "Policy",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "13 airlines hit by check-in disruption at Incheon Airport",
-          "date": "2026-10-30",
-          "url": "https://www.koreaherald.com/article/10920732"
+          "title": "Lee visits southeastern province to inspect pilot basic income scheme",
+          "date": "2026-10-31",
+          "url": "https://www.koreaherald.com/article/10921315"
         }
       ],
       "glossary": [
         {
+          "korean": "이재명",
+          "roman": "I-jae-myeong",
+          "english": "Lee Jae Myung",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "대통령은",
+          "roman": "daetongnyeong-eun",
+          "english": "president",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
           "korean": "10월",
-          "roman": "10-wol",
+          "roman": "sibi-wol",
           "english": "October",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "30일",
-          "roman": "30-il",
-          "english": "30th day",
+          "korean": "31일",
+          "roman": "samsip-il",
+          "english": "31st",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "인천공항",
-          "roman": "Incheon-gonghang",
-          "english": "Incheon Airport",
+          "korean": "경북",
+          "roman": "gyeongbuk",
+          "english": "North Gyeongsang",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "체크인이",
-          "roman": "chekeu-in-i",
-          "english": "check-in",
+          "korean": "시범사업을",
+          "roman": "sibeom-saeop-eul",
+          "english": "pilot program",
           "particle": false,
-          "suffix": "이"
+          "suffix": "을"
         },
         {
-          "korean": "지연됐다",
-          "roman": "jiyeon-dwaetda",
-          "english": "was delayed",
+          "korean": "점검했다",
+          "roman": "jeomgeom-haetda",
+          "english": "inspected",
           "particle": false,
-          "suffix": "됐다"
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "On October 30, a network disruption delayed check-in at Incheon Airport.",
-          "korean": "10월 30일 인천공항 체크인이 지연됐다.",
+          "english": "President Lee Jae Myung inspected a rural pilot program in North Gyeongsang Province on October 31.",
+          "korean": "이재명 대통령은 10월 31일 경북 시범사업을 점검했다.",
           "glossary": [
             {
+              "korean": "이재명",
+              "roman": "I-jae-myeong",
+              "english": "Lee Jae Myung",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대통령은",
+              "roman": "daetongnyeong-eun",
+              "english": "president",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
               "korean": "10월",
-              "roman": "10-wol",
+              "roman": "sibi-wol",
               "english": "October",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "30일",
-              "roman": "30-il",
-              "english": "30th day",
+              "korean": "31일",
+              "roman": "samsip-il",
+              "english": "31st",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "인천공항",
-              "roman": "Incheon-gonghang",
-              "english": "Incheon Airport",
+              "korean": "경북",
+              "roman": "gyeongbuk",
+              "english": "North Gyeongsang",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "체크인이",
-              "roman": "chekeu-in-i",
-              "english": "check-in",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "지연됐다",
-              "roman": "jiyeon-dwaetda",
-              "english": "was delayed",
-              "particle": false,
-              "suffix": "됐다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The airport connected the problem to instability in the ARINC airline network.",
-          "korean": "공항은 ARINC 항공망 불안정을 원인으로 봤다.",
-          "glossary": [
-            {
-              "korean": "공항은",
-              "roman": "gonghang-eun",
-              "english": "the airport",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "ARINC",
-              "roman": "ARINC",
-              "english": "ARINC",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "항공망",
-              "roman": "hang-gong-mang",
-              "english": "airline network",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "불안정을",
-              "roman": "bur-an-jeong-eul",
-              "english": "instability",
+              "korean": "시범사업을",
+              "roman": "sibeom-saeop-eul",
+              "english": "pilot program",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "원인으로",
-              "roman": "won-in-eu-ro",
-              "english": "as the cause",
+              "korean": "점검했다",
+              "roman": "jeomgeom-haetda",
+              "english": "inspected",
               "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "봤다",
-              "roman": "bwat-da",
-              "english": "saw",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Communication outages affected eight airlines in Terminal 1 and five in Terminal 2.",
-          "korean": "1터미널 8곳과 2터미널 5곳에서 통신이 끊겼다.",
-          "glossary": [
-            {
-              "korean": "1터미널",
-              "roman": "1-teomineol",
-              "english": "Terminal 1",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "8곳과",
-              "roman": "8-got-gwa",
-              "english": "eight places and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "2터미널",
-              "roman": "2-teomineol",
-              "english": "Terminal 2",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5곳에서",
-              "roman": "5-got-eseo",
-              "english": "in five places",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "통신이",
-              "roman": "tongsin-i",
-              "english": "communication",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "끊겼다",
-              "roman": "kkeun-gyeot-da",
-              "english": "was cut off",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "By afternoon, three Chinese carriers had effectively stopped normal ticketing.",
-          "korean": "오후에는 중국 항공사 세 곳이 발권을 멈췄다.",
-          "glossary": [
-            {
-              "korean": "오후에는",
-              "roman": "ohu-eneun",
-              "english": "by afternoon",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "중국",
-              "roman": "Jungguk",
-              "english": "China",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "항공사",
-              "roman": "hang-gong-sa",
-              "english": "airline",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "세",
-              "roman": "se",
-              "english": "three",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "곳이",
-              "roman": "got-i",
-              "english": "places or companies",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "발권을",
-              "roman": "bal-gwon-eul",
-              "english": "ticketing",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "멈췄다",
-              "roman": "meom-chwot-da",
-              "english": "stopped",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10920732",
-      "short_english": "On October 30, a network disruption delayed check-in at Incheon Airport.",
-      "short_korean": "10월 30일 인천공항 체크인이 지연됐다.",
-      "date": "2026-10-30",
-      "images": [
-        "images/korean/dcbe86e51ddf/1.jpg",
-        "images/korean/dcbe86e51ddf/2.jpg",
-        "images/korean/dcbe86e51ddf/3.jpg",
-        "images/korean/dcbe86e51ddf/4.jpg",
-        "images/korean/dcbe86e51ddf/5.jpg",
-        "images/korean/dcbe86e51ddf/6.jpg",
-        "images/korean/dcbe86e51ddf/7.jpg",
-        "images/korean/dcbe86e51ddf/8.jpg",
-        "images/korean/dcbe86e51ddf/9.jpg",
-        "images/korean/dcbe86e51ddf/10.jpg",
-        "images/korean/dcbe86e51ddf/11.jpg",
-        "images/korean/dcbe86e51ddf/12.jpg",
-        "images/korean/dcbe86e51ddf/13.jpg",
-        "images/korean/dcbe86e51ddf/14.jpg",
-        "images/korean/dcbe86e51ddf/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/dcbe86e51ddf/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "골프존카운티 매각 갈등",
-      "english_title": "Golfzon County Sale Sparks a Fight Over Contract Rights",
-      "korean_desc": "MBK는 골프존카운티를 약 1조 8천억 원에 팔기로 했다. 컨소시엄은 MBK의 지배 지분을 사게 된다. MBK는 2018년 동반매도 조항을 근거로 들었다. 골프존홀딩스는 IPO와 경영권 보호를 기대했다고 말했다.",
-      "english_desc": "MBK agreed to sell Golfzon County for a valuation of about 1.8 trillion won. The buyer would acquire MBK’s controlling stake through a consortium. MBK says a 2018 drag-along clause allows it to include Golfzon Holdings’ shares. Golfzon Holdings says the investment was meant to pursue an IPO and protect its control.",
-      "hook": "A 1.8 trillion-won sale sparked a dispute.",
-      "sticker": "Who gets the golf business?",
-      "korean_hook": "1조 8천억 원 매각이 갈등을 낳았다",
-      "takeaway_english": "The dispute may move toward legal action over ownership and lease terms.",
-      "takeaway_korean": "갈등은 소유권과 임대 조건의 법적 다툼으로 갈 수 있다.",
-      "why_it_matters": [
-        {
-          "english": "A forced sale could change who controls a major golf-course business.",
-          "korean": "강제 매각은 골프장 기업의 지배자를 바꿀 수 있다."
-        },
-        {
-          "english": "Lease terms may affect Golfzon County’s operating costs.",
-          "korean": "임대 조건은 골프존카운티 비용에 영향을 줄 수 있다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "MBK Partners",
-          "english": "It agreed to sell its controlling stake and says the contract permits a forced joint sale.",
-          "korean": "지배 지분 매각을 추진하며 동반매도권을 주장한다."
-        },
-        {
-          "label": "Golfzon Holdings",
-          "english": "It says the sale conflicts with the original IPO and management-control understanding.",
-          "korean": "매각이 원래 IPO 약속과 다르다고 주장한다."
-        },
-        {
-          "label": "Sienna Group and Ciel Asset Management",
-          "english": "Their consortium agreed to buy the controlling stake in Golfzon County.",
-          "korean": "두 회사 컨소시엄은 지배 지분을 사기로 했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "MBK Partners",
-          "english": "MBK says Golfzon Holdings signed the drag-along clause and knew control depended on a successful IPO.",
-          "korean": "MBK는 골프존홀딩스가 동반매도 조항에 동의했다고 말한다."
-        },
-        {
-          "label": "Golfzon Holdings",
-          "english": "Golfzon Holdings says it invested expecting an IPO and protected management control.",
-          "korean": "골프존홀딩스는 IPO와 경영권 보호를 기대했다고 말한다."
-        }
-      ],
-      "disagree": {
-        "english": "The disagreement concerns both the contract wording and whether the original investment purpose still controls the sale.",
-        "korean": "갈등은 계약 문구와 투자 목적의 해석에서 생겼다."
-      },
-      "reader_question_korean": "계약에 대한 어느 쪽 주장이 더 강할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "MBK's planned Golfzon County sale triggers dispute over deal terms",
-      "hook_format": "number",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "1.8 trillion won",
-          "label": "company valuation",
-          "korean_label": "기업 평가액"
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "MBK invested in Golfzon County in 2018.",
-        "The failed IPO is central to both sides’ arguments."
-      ],
-      "reader_question": "Which side has the stronger claim about the contract?",
-      "topic_tag": "Business",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "MBK's planned Golfzon County sale triggers dispute over deal terms",
-          "date": "2026-10-30",
-          "url": "https://www.koreaherald.com/article/10920780"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "MBK는",
-          "roman": "MBK-neun",
-          "english": "MBK",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "골프존카운티를",
-          "roman": "Golpeujon-kaunti-reul",
-          "english": "Golfzon County",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "약",
-          "roman": "yak",
-          "english": "about",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "1조",
-          "roman": "il-jo",
-          "english": "one trillion",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "8천억",
-          "roman": "pal-cheon-eok",
-          "english": "800 billion",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "원에",
-          "roman": "won-e",
-          "english": "won at",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "팔기로",
-          "roman": "pal-gi-ro",
-          "english": "to sell",
-          "particle": false,
-          "suffix": "기로"
-        },
-        {
-          "korean": "했다",
-          "roman": "haet-da",
-          "english": "agreed",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "MBK agreed to sell Golfzon County for a valuation of about 1.8 trillion won.",
-          "korean": "MBK는 골프존카운티를 약 1조 8천억 원에 팔기로 했다.",
-          "glossary": [
-            {
-              "korean": "MBK는",
-              "roman": "MBK-neun",
-              "english": "MBK",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "골프존카운티를",
-              "roman": "Golpeujon-kaunti-reul",
-              "english": "Golfzon County",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "1조",
-              "roman": "il-jo",
-              "english": "one trillion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "8천억",
-              "roman": "pal-cheon-eok",
-              "english": "800 billion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "원에",
-              "roman": "won-e",
-              "english": "won at",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "팔기로",
-              "roman": "pal-gi-ro",
-              "english": "to sell",
-              "particle": false,
-              "suffix": "기로"
-            },
-            {
-              "korean": "했다",
-              "roman": "haet-da",
-              "english": "agreed",
-              "particle": false,
-              "suffix": ""
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The buyer would acquire MBK’s controlling stake through a consortium.",
-          "korean": "컨소시엄은 MBK의 지배 지분을 사게 된다.",
+          "english": "The program gives rural residents 150,000 won monthly through local gift vouchers.",
+          "korean": "농촌 주민은 매달 15만 원 상품권을 받는다.",
           "glossary": [
             {
-              "korean": "컨소시엄은",
-              "roman": "keon-so-si-eom-eun",
-              "english": "the consortium",
+              "korean": "농촌",
+              "roman": "nongchon",
+              "english": "rural area",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주민은",
+              "roman": "jumin-eun",
+              "english": "residents",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "MBK의",
-              "roman": "MBK-ui",
-              "english": "MBK's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "지배",
-              "roman": "jibae",
-              "english": "control",
+              "korean": "매달",
+              "roman": "maedal",
+              "english": "monthly",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "지분을",
-              "roman": "jibun-eul",
-              "english": "stake",
+              "korean": "15만",
+              "roman": "sibo-man",
+              "english": "150,000",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원",
+              "roman": "won",
+              "english": "won",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "상품권을",
+              "roman": "sangpumgwon-eul",
+              "english": "gift vouchers",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "사게",
-              "roman": "sa-ge",
-              "english": "will buy",
+              "korean": "받는다",
+              "roman": "batneunda",
+              "english": "receive",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "된다",
-              "roman": "doen-da",
-              "english": "becomes",
-              "particle": false,
-              "suffix": ""
+              "suffix": "는다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "MBK says a 2018 drag-along clause allows it to include Golfzon Holdings’ shares.",
-          "korean": "MBK는 2018년 동반매도 조항을 근거로 들었다.",
+          "english": "Of 69 population-declining counties, 17 are currently running the pilot.",
+          "korean": "인구감소 지역 69곳 중 17곳이 시행 중이다.",
           "glossary": [
             {
-              "korean": "MBK는",
-              "roman": "MBK-neun",
-              "english": "MBK",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2018년",
-              "roman": "2018-nyeon",
-              "english": "2018",
+              "korean": "인구감소",
+              "roman": "ingu-gamso",
+              "english": "population decline",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "동반매도",
-              "roman": "dongban-maedo",
-              "english": "drag-along sale",
+              "korean": "지역",
+              "roman": "jiyeok",
+              "english": "regions",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "조항을",
-              "roman": "johang-eul",
-              "english": "clause",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "근거로",
-              "roman": "geun-geo-ro",
-              "english": "as grounds",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "들었다",
-              "roman": "deu-reot-da",
-              "english": "cited",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Golfzon Holdings says the investment was meant to pursue an IPO and protect its control.",
-          "korean": "골프존홀딩스는 IPO와 경영권 보호를 기대했다고 말했다.",
-          "glossary": [
-            {
-              "korean": "골프존홀딩스는",
-              "roman": "Golpeujon-holdingseu-neun",
-              "english": "Golfzon Holdings",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "IPO와",
-              "roman": "IPO-wa",
-              "english": "IPO and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "경영권",
-              "roman": "gyeong-yeong-gwon",
-              "english": "management control",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "보호를",
-              "roman": "bo-ho-reul",
-              "english": "protection",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "기대했다고",
-              "roman": "gidae-haet-dago",
-              "english": "expected",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10920780",
-      "short_english": "MBK agreed to sell Golfzon County for a valuation of about 1.8 trillion won.",
-      "short_korean": "MBK는 골프존카운티를 약 1조 8천억 원에 팔기로 했다.",
-      "date": "2026-10-30",
-      "images": [
-        "images/korean/233b63bd2ac2/1.jpg",
-        "images/korean/233b63bd2ac2/2.jpg",
-        "images/korean/233b63bd2ac2/3.jpg",
-        "images/korean/233b63bd2ac2/4.jpg",
-        "images/korean/233b63bd2ac2/5.jpg",
-        "images/korean/233b63bd2ac2/6.jpg",
-        "images/korean/233b63bd2ac2/7.jpg",
-        "images/korean/233b63bd2ac2/8.jpg",
-        "images/korean/233b63bd2ac2/9.jpg",
-        "images/korean/233b63bd2ac2/10.jpg",
-        "images/korean/233b63bd2ac2/11.jpg",
-        "images/korean/233b63bd2ac2/12.jpg",
-        "images/korean/233b63bd2ac2/13.jpg",
-        "images/korean/233b63bd2ac2/14.jpg",
-        "images/korean/233b63bd2ac2/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/233b63bd2ac2/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "죽은 언니를 되살린 소설",
-      "english_title": "A Novel Turns Grief Into a Water Ghost Story",
-      "korean_desc": "윤지현 소설은 수진과 되살아난 미래를 따른다. 수진은 미래를 잃은 현실을 받아들이지 못한다. 미래가 돌아온 뒤 이상한 죽음과 폭우가 마을을 위협한다. 수진은 미래와 마을 중 하나를 선택해야 한다.",
-      "english_desc": "Yun Ji-hyun’s novel follows Soojin, who revives her drowned sister Mirae. Soojin breaks ancestral magic rules because she cannot accept losing Mirae. After Mirae returns, strange deaths and destructive rain threaten their town. Soojin must decide whether to keep Mirae or protect the community.",
-      "hook": "A girl brings her drowned sister back.",
-      "sticker": "A ghost story about grief 👻",
-      "korean_hook": "소녀가 죽은 언니를 되살린다",
-      "takeaway_english": "The ghosts are frightening, but the deepest subject is the wish to undo death.",
-      "takeaway_korean": "귀신보다 더 깊은 주제는 죽음을 되돌리고 싶은 마음이다.",
-      "why_it_matters": [
-        {
-          "english": "The novel connects Korean folklore with Korean American family experience.",
-          "korean": "소설은 한국 설화와 한국계 미국인 가족을 연결한다."
-        },
-        {
-          "english": "It treats grief as a long process rather than one dramatic moment.",
-          "korean": "작품은 슬픔을 긴 과정으로 다룬다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Yun Ji-hyun",
-          "english": "The Korean American writer shaped grief into a young-adult horror novel.",
-          "korean": "한국계 미국인 작가는 슬픔을 청소년 소설로 만들었다."
-        },
-        {
-          "label": "Soojin",
-          "english": "The younger sister breaks family magic rules to revive Mirae.",
-          "korean": "동생 수진은 마법 규칙을 깨고 미래를 살린다."
-        },
-        {
-          "label": "Readers",
-          "english": "They can face frightening emotions at their own pace through fiction.",
-          "korean": "독자는 소설로 무서운 감정을 천천히 마주한다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Yun Ji-hyun",
-          "english": "She says horror gives internal fears a physical shape and offers an emotional toolkit.",
-          "korean": "윤지현은 공포가 내면의 두려움을 보여준다고 말한다."
-        },
-        {
-          "label": "Kirkus Reviews",
-          "english": "The review calls the novel both creepy and deeply focused on grief and sisterhood.",
-          "korean": "커커스는 작품이 무섭고 슬픔과 자매애를 다룬다고 평했다."
-        }
-      ],
-      "disagree": {
-        "english": "Some readers may focus on the supernatural plot, while the writer emphasizes grief beneath it.",
-        "korean": "독자는 초자연 이야기와 슬픔 중 다르게 볼 수 있다."
-      },
-      "reader_question_korean": "공포물은 상실을 생각하게 도울까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Water ghost, two sisters and the long work of grief",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The novel was published on October 7, 2025.",
-        "It reimagines the Korean folktale Janghwa Hongryeon."
-      ],
-      "reader_question": "Can horror help people think about loss?",
-      "topic_tag": "Books",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Water ghost, two sisters and the long work of grief",
-          "date": "2026-10-30",
-          "url": "https://www.koreaherald.com/article/10919251"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "윤지현",
-          "roman": "Yun-ji-hyeon",
-          "english": "Yun Ji-hyun",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "소설은",
-          "roman": "soseol-eun",
-          "english": "the novel",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "수진과",
-          "roman": "Sujin-gwa",
-          "english": "Soojin and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "되살아난",
-          "roman": "doe-sal-a-nan",
-          "english": "revived",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "미래를",
-          "roman": "Mirae-reul",
-          "english": "Mirae",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "따른다",
-          "roman": "tta-reun-da",
-          "english": "follows",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Yun Ji-hyun’s novel follows Soojin, who revives her drowned sister Mirae.",
-          "korean": "윤지현 소설은 수진과 되살아난 미래를 따른다.",
-          "glossary": [
-            {
-              "korean": "윤지현",
-              "roman": "Yun-ji-hyeon",
-              "english": "Yun Ji-hyun",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "소설은",
-              "roman": "soseol-eun",
-              "english": "the novel",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "수진과",
-              "roman": "Sujin-gwa",
-              "english": "Soojin and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "되살아난",
-              "roman": "doe-sal-a-nan",
-              "english": "revived",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "미래를",
-              "roman": "Mirae-reul",
-              "english": "Mirae",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "따른다",
-              "roman": "tta-reun-da",
-              "english": "follows",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Soojin breaks ancestral magic rules because she cannot accept losing Mirae.",
-          "korean": "수진은 미래를 잃은 현실을 받아들이지 못한다.",
-          "glossary": [
-            {
-              "korean": "수진은",
-              "roman": "Sujin-eun",
-              "english": "Soojin",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "미래를",
-              "roman": "Mirae-reul",
-              "english": "Mirae",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "잃은",
-              "roman": "il-eun",
-              "english": "lost",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "현실을",
-              "roman": "hyeon-sil-eul",
-              "english": "reality",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "받아들이지",
-              "roman": "bad-a-deu-ri-ji",
-              "english": "accept",
-              "particle": false,
-              "suffix": "지"
-            },
-            {
-              "korean": "못한다",
-              "roman": "mot-han-da",
-              "english": "cannot",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "After Mirae returns, strange deaths and destructive rain threaten their town.",
-          "korean": "미래가 돌아온 뒤 이상한 죽음과 폭우가 마을을 위협한다.",
-          "glossary": [
-            {
-              "korean": "미래가",
-              "roman": "Mirae-ga",
-              "english": "Mirae",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "돌아온",
-              "roman": "dol-a-on",
-              "english": "returned",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이상한",
-              "roman": "i-sang-han",
-              "english": "strange",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "죽음과",
-              "roman": "jug-eum-gwa",
-              "english": "deaths and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "폭우가",
-              "roman": "pog-u-ga",
-              "english": "heavy rain",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "마을을",
-              "roman": "ma-eul-eul",
-              "english": "town",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "위협한다",
-              "roman": "wi-hyeop-han-da",
-              "english": "threatens",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Soojin must decide whether to keep Mirae or protect the community.",
-          "korean": "수진은 미래와 마을 중 하나를 선택해야 한다.",
-          "glossary": [
-            {
-              "korean": "수진은",
-              "roman": "Sujin-eun",
-              "english": "Soojin",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "미래와",
-              "roman": "Mirae-wa",
-              "english": "Mirae and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "마을",
-              "roman": "ma-eul",
-              "english": "community",
+              "korean": "69곳",
+              "roman": "yuksipgu-got",
+              "english": "69 places",
               "particle": false,
               "suffix": ""
             },
@@ -1052,114 +286,163 @@
               "suffix": ""
             },
             {
-              "korean": "하나를",
-              "roman": "ha-na-reul",
-              "english": "one",
+              "korean": "17곳이",
+              "roman": "sipchil-gosi",
+              "english": "17 places",
               "particle": false,
-              "suffix": "를"
+              "suffix": "이"
             },
             {
-              "korean": "선택해야",
-              "roman": "seon-taek-hae-ya",
-              "english": "must choose",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다",
-              "roman": "han-da",
-              "english": "does",
+              "korean": "시행",
+              "roman": "sihaeng",
+              "english": "implementation",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "중이다",
+              "roman": "jung-ida",
+              "english": "are underway",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Lee also greeted residents of Yeongyang and Cheongsong counties in a social media post.",
+          "korean": "이재명은 SNS에서 영양과 청송 주민에게 인사했다.",
+          "glossary": [
+            {
+              "korean": "이재명은",
+              "roman": "I-jae-myeong-eun",
+              "english": "Lee Jae Myung",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "SNS에서",
+              "roman": "SNS-eseo",
+              "english": "on social media",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "영양과",
+              "roman": "yeongyang-gwa",
+              "english": "Yeongyang and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "청송",
+              "roman": "cheongsong",
+              "english": "Cheongsong",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주민에게",
+              "roman": "jumin-ege",
+              "english": "to residents",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "인사했다",
+              "roman": "insa-haetda",
+              "english": "greeted",
+              "particle": false,
+              "suffix": "했다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10919251",
-      "short_english": "Yun Ji-hyun’s novel follows Soojin, who revives her drowned sister Mirae.",
-      "short_korean": "윤지현 소설은 수진과 되살아난 미래를 따른다.",
-      "date": "2026-10-30",
+      "url": "https://www.koreaherald.com/article/10921315",
+      "short_english": "President Lee Jae Myung inspected a rural pilot program in North Gyeongsang Province on October 31.",
+      "short_korean": "이재명 대통령은 10월 31일 경북 시범사업을 점검했다.",
+      "date": "2026-10-31",
       "images": [
-        "images/korean/2e23942c9de6/1.jpg",
-        "images/korean/2e23942c9de6/2.jpg",
-        "images/korean/2e23942c9de6/3.jpg",
-        "images/korean/2e23942c9de6/4.jpg",
-        "images/korean/2e23942c9de6/5.jpg",
-        "images/korean/2e23942c9de6/6.jpg",
-        "images/korean/2e23942c9de6/7.jpg",
-        "images/korean/2e23942c9de6/8.jpg",
-        "images/korean/2e23942c9de6/9.jpg",
-        "images/korean/2e23942c9de6/10.jpg",
-        "images/korean/2e23942c9de6/11.jpg",
-        "images/korean/2e23942c9de6/12.jpg",
-        "images/korean/2e23942c9de6/13.jpg",
-        "images/korean/2e23942c9de6/14.jpg",
-        "images/korean/2e23942c9de6/15.jpg"
+        "images/korean/67623a89782f/1.jpg",
+        "images/korean/67623a89782f/2.jpg",
+        "images/korean/67623a89782f/3.jpg",
+        "images/korean/67623a89782f/4.jpg",
+        "images/korean/67623a89782f/5.jpg",
+        "images/korean/67623a89782f/6.jpg",
+        "images/korean/67623a89782f/7.jpg",
+        "images/korean/67623a89782f/8.jpg",
+        "images/korean/67623a89782f/9.jpg",
+        "images/korean/67623a89782f/10.jpg",
+        "images/korean/67623a89782f/11.jpg",
+        "images/korean/67623a89782f/12.jpg",
+        "images/korean/67623a89782f/13.jpg",
+        "images/korean/67623a89782f/14.jpg",
+        "images/korean/67623a89782f/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/2e23942c9de6/caption.txt"
+      "caption_file": "images/korean/67623a89782f/caption.txt"
     },
     {
-      "category": "Sports",
-      "korean_title": "류지혁의 첫 포스트시즌 홈런",
-      "english_title": "Ryu Ji-hyuk Finally Hits His First Postseason Homer",
-      "korean_desc": "10월 29일 류지혁이 KIA전 3차전에서 투런포를 쳤다. 그 홈런으로 삼성은 5회 4대3으로 앞섰다. KIA가 동점으로 만들었지만 삼성은 7회 두 점을 냈다. 삼성은 6대4로 이겨 시리즈를 2대1로 앞섰다.",
-      "english_desc": "On October 29, Ryu Ji-hyuk hit a two-run homer against Kia in Game 3. The homer gave Samsung a 4-3 lead in the fifth inning. Kia tied the game, but Samsung scored twice in the seventh. Samsung won 6-4 and took a 2-1 series lead over Kia.",
-      "hook": "Ryu Ji-hyuk hit his first postseason homer.",
-      "sticker": "A big swing in October ⚾",
-      "korean_hook": "류지혁이 첫 포스트시즌 홈런을 쳤다",
-      "takeaway_english": "Ryu’s rare power arrived when Samsung needed a playoff turning point.",
-      "takeaway_korean": "류지혁의 드문 장타가 삼성에 전환점을 안겼다.",
+      "category": "Business",
+      "korean_title": "삼성, 오픈AI와 AI 전략 논의",
+      "english_title": "Samsung and OpenAI Plan Their Next AI Move",
+      "korean_desc": "양측은 AI와 경영, 새 사업 기회를 논의했다. 협력은 이제 칩, 인프라, 업무 서비스로 넓어졌다. 삼성은 2027년 2월까지 전 직원 교육을 끝낼 계획이다.",
+      "english_desc": "They discussed AI’s future, management decisions, and new business opportunities. The partnership now covers chips, infrastructure, and workplace services. Samsung aims to finish AI training for all employees by February 2027.",
+      "hook": "Samsung executives met Sam Altman about AI.",
+      "sticker": "AI’s next boardroom",
+      "korean_hook": "삼성 임원들이 샘 올트먼을 만났다",
+      "takeaway_english": "The partnership is moving from chips toward everyday workplace systems.",
+      "takeaway_korean": "두 회사의 협력은 일상 업무로 넓어지고 있다.",
       "why_it_matters": [
         {
-          "english": "One swing changed the lead in a playoff game.",
-          "korean": "한 번의 스윙이 플레이오프 리드를 바꿨다."
+          "english": "Samsung plans to train every employee by February 2027.",
+          "korean": "삼성은 2027년 2월까지 전 직원 교육을 계획한다."
         },
         {
-          "english": "The win put Samsung one victory from the Korean Series.",
-          "korean": "승리로 삼성은 한국시리즈까지 1승만 남겼다."
+          "english": "Workplace AI may change how employees manage data and make decisions.",
+          "korean": "업무용 AI는 데이터 관리와 결정을 바꿀 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Ryu Ji-hyuk",
-          "english": "He hit a go-ahead two-run homer against his former team.",
-          "korean": "그는 친정팀을 상대로 역전 투런포를 쳤다."
+          "label": "Samsung Group",
+          "english": "It is training executives and expanding AI across its businesses.",
+          "korean": "삼성은 임원 교육과 AI 확대를 추진한다."
         },
         {
-          "label": "Samsung Lions",
-          "english": "The Lions won Game 3 and moved ahead 2-1 in the series.",
-          "korean": "삼성은 3차전 승리로 시리즈를 앞섰다."
+          "label": "OpenAI",
+          "english": "OpenAI is supplying enterprise tools and discussing wider infrastructure cooperation.",
+          "korean": "오픈AI는 기업용 도구와 인프라를 협력한다."
         },
         {
-          "label": "Kia Tigers",
-          "english": "The Tigers lost despite tying the game in the sixth inning.",
-          "korean": "KIA는 6회 동점을 만들고도 졌다."
+          "label": "Samsung employees",
+          "english": "Employees are expected to receive broader access to workplace AI tools.",
+          "korean": "삼성 직원은 업무용 AI를 더 사용한다."
         }
       ],
       "views": [
         {
-          "label": "Ryu Ji-hyuk",
-          "english": "He said he treated Kia as another opponent instead of chasing revenge.",
-          "korean": "류지혁은 KIA를 복수 대상이 아닌 상대라고 했다."
+          "label": "Samsung",
+          "english": "AI could reshape management decisions, organization, and new business creation.",
+          "korean": "AI가 경영과 새 사업을 바꿀 수 있다."
         },
         {
-          "label": "Samsung-focused coverage",
-          "english": "The homer was presented as a key momentum shift in Samsung’s 6-4 victory.",
-          "korean": "삼성 중심 보도는 홈런을 승리의 전환점으로 봤다."
+          "label": "OpenAI",
+          "english": "Enterprise deployment can improve productivity across technical and non-technical work.",
+          "korean": "기업용 AI는 여러 업무의 생산성을 높일 수 있다."
         }
       ],
       "disagree": {
-        "english": "The game also depended on later scoring and pitching, so one homer did not decide everything alone.",
-        "korean": "후속 득점과 투구도 중요해 홈런만으로 결정되지는 않았다."
+        "english": "The meeting shows plans and training, but it does not prove that AI has already improved Samsung’s results.",
+        "korean": "회의와 교육만으로 성과를 증명할 수 없다."
       },
-      "reader_question_korean": "선수는 과거 패배를 동기로 삼아야 할까요?",
+      "reader_question_korean": "기업은 AI를 얼마나 믿어야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Lions infielder Ryu Ji-hyuk savors 1st postseason homer vs. ex-team: 'It was incredible'",
+      "source_title": "Samsung executives meet OpenAI's Altman to discuss AI strategy",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -1169,66 +452,398 @@
       "format_data": {},
       "serious": false,
       "caption_lines": [
-        "The game was played on October 29, 2026.",
-        "Ryu played for Kia from 2020 to 2022."
+        "Update: October 31, 2026",
+        "Samsung says all employees should complete AI training by February 2027."
       ],
-      "reader_question": "Should players use past losses as motivation?",
-      "topic_tag": "Baseball",
+      "reader_question": "How much should companies trust AI with decisions?",
+      "topic_tag": "Technology",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "Lions infielder Ryu Ji-hyuk savors 1st postseason homer vs. ex-team: 'It was incredible'",
-          "date": "2026-10-30",
-          "url": "https://www.koreaherald.com/article/10920219"
+          "title": "Samsung executives meet OpenAI's Altman to discuss AI strategy",
+          "date": "2026-10-31",
+          "url": "https://www.koreaherald.com/article/10921312"
         }
       ],
       "glossary": [
         {
-          "korean": "10월",
-          "roman": "10-wol",
-          "english": "October",
+          "korean": "양측은",
+          "roman": "yangcheug-eun",
+          "english": "both sides",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "AI와",
+          "roman": "AI-wa",
+          "english": "AI and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "경영",
+          "roman": "gyeongyeong",
+          "english": "management",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "29일",
-          "roman": "29-il",
-          "english": "29th day",
+          "korean": "새",
+          "roman": "sae",
+          "english": "new",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "류지혁이",
-          "roman": "Ryu-ji-hyeok-i",
-          "english": "Ryu Ji-hyuk",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "KIA전",
-          "roman": "KIA-jeon",
-          "english": "against Kia",
+          "korean": "사업",
+          "roman": "saeop",
+          "english": "business",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "3차전에서",
-          "roman": "sam-cha-jeon-eseo",
-          "english": "in Game 3",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "투런포를",
-          "roman": "tu-reon-po-reul",
-          "english": "two-run homer",
+          "korean": "기회를",
+          "roman": "gihoe-reul",
+          "english": "opportunities",
           "particle": false,
           "suffix": "를"
         },
         {
-          "korean": "쳤다",
-          "roman": "chyeot-da",
-          "english": "hit",
+          "korean": "논의했다",
+          "roman": "nonui-haetda",
+          "english": "discussed",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "They discussed AI’s future, management decisions, and new business opportunities.",
+          "korean": "양측은 AI와 경영, 새 사업 기회를 논의했다.",
+          "glossary": [
+            {
+              "korean": "양측은",
+              "roman": "yangcheug-eun",
+              "english": "both sides",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "AI와",
+              "roman": "AI-wa",
+              "english": "AI and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "경영",
+              "roman": "gyeongyeong",
+              "english": "management",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사업",
+              "roman": "saeop",
+              "english": "business",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기회를",
+              "roman": "gihoe-reul",
+              "english": "opportunities",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "논의했다",
+              "roman": "nonui-haetda",
+              "english": "discussed",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The partnership now covers chips, infrastructure, and workplace services.",
+          "korean": "협력은 이제 칩, 인프라, 업무 서비스로 넓어졌다.",
+          "glossary": [
+            {
+              "korean": "협력은",
+              "roman": "hyeomnyeok-eun",
+              "english": "partnership",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "이제",
+              "roman": "ije",
+              "english": "now",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "칩",
+              "roman": "chip",
+              "english": "chips",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인프라",
+              "roman": "inpeura",
+              "english": "infrastructure",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "업무",
+              "roman": "eopmu",
+              "english": "workplace",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "서비스로",
+              "roman": "seobiseuro",
+              "english": "into services",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "넓어졌다",
+              "roman": "neolbeojyeotda",
+              "english": "expanded",
+              "particle": false,
+              "suffix": "어졌다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Samsung aims to finish AI training for all employees by February 2027.",
+          "korean": "삼성은 2027년 2월까지 전 직원 교육을 끝낼 계획이다.",
+          "glossary": [
+            {
+              "korean": "삼성은",
+              "roman": "samseong-eun",
+              "english": "Samsung",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2027년",
+              "roman": "icheon-isipchil-nyeon",
+              "english": "2027",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2월까지",
+              "roman": "i-wolkkaji",
+              "english": "by February",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "전",
+              "roman": "jeon",
+              "english": "all",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "직원",
+              "roman": "jigwon",
+              "english": "employees",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "교육을",
+              "roman": "gyoyug-eul",
+              "english": "training",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "끝낼",
+              "roman": "kkeutnael",
+              "english": "finish",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계획이다",
+              "roman": "gyehoek-ida",
+              "english": "plans",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10921312",
+      "short_english": "They discussed AI’s future, management decisions, and new business opportunities.",
+      "short_korean": "양측은 AI와 경영, 새 사업 기회를 논의했다.",
+      "date": "2026-10-31",
+      "images": [
+        "images/korean/4912d11cb2ad/1.jpg",
+        "images/korean/4912d11cb2ad/2.jpg",
+        "images/korean/4912d11cb2ad/3.jpg",
+        "images/korean/4912d11cb2ad/4.jpg",
+        "images/korean/4912d11cb2ad/5.jpg",
+        "images/korean/4912d11cb2ad/6.jpg",
+        "images/korean/4912d11cb2ad/7.jpg",
+        "images/korean/4912d11cb2ad/8.jpg",
+        "images/korean/4912d11cb2ad/9.jpg",
+        "images/korean/4912d11cb2ad/10.jpg",
+        "images/korean/4912d11cb2ad/11.jpg",
+        "images/korean/4912d11cb2ad/12.jpg",
+        "images/korean/4912d11cb2ad/13.jpg",
+        "images/korean/4912d11cb2ad/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/4912d11cb2ad/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "부자들의 침실도 명품이 됐다",
+      "english_title": "Why Sleep Now Comes With a Luxury Price Tag",
+      "korean_desc": "명품 침구와 잠옷이 취침을 고가 생활시장으로 바꾼다. 아이더다운은 아이슬란드 둥지에서 새끼가 떠난 뒤 손으로 모은다. 크라운구스 침구는 약 3천만 원이며 특별판은 3억 2천만 원이다. 고급 잠옷 시장은 2024년 137억 달러에서 2032년 222억 달러로 커질 전망이다.",
+      "english_desc": "Luxury bedding and sleepwear are turning bedtime into a high-priced lifestyle market. Eiderdown is scarce because it is gathered by hand after ducklings leave Icelandic nests. Crown Goose sells bedding for about 30 million won, including a 320 million won edition. The luxury sleepwear market is projected to grow from 13.7 billion dollars in 2024 to 22.2 billion by 2032.",
+      "hook": "Luxury sleep now includes million-won bedding.",
+      "sticker": "Bedtime, but make it luxury",
+      "korean_hook": "잠에도 수천만 원 명품이 등장했다",
+      "takeaway_english": "Luxury brands are selling sleep as both comfort and identity.",
+      "takeaway_korean": "명품 브랜드는 잠을 편안함과 정체성으로 판다.",
+      "why_it_matters": [
+        {
+          "english": "Sleep products are becoming another place where luxury brands compete.",
+          "korean": "수면용품도 명품 브랜드의 경쟁장이 되고 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Crown Goose",
+          "english": "The bedding brand sells eiderdown sets costing about 30 million won.",
+          "korean": "크라운구스는 약 3천만 원 침구를 판다."
+        },
+        {
+          "label": "Luxury fashion brands",
+          "english": "Dior and The Row sell silk or satin sleepwear at luxury prices.",
+          "korean": "디올과 더 로우는 고가 잠옷을 판다."
+        },
+        {
+          "label": "Wealthy consumers",
+          "english": "They are the customers able to buy expensive bedding and sleepwear.",
+          "korean": "부유한 소비자가 비싼 침구와 잠옷을 산다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Luxury brands",
+          "english": "Rare materials and craftsmanship make high prices part of the product’s appeal.",
+          "korean": "희귀 소재와 장인 기술이 가격을 높인다."
+        },
+        {
+          "label": "Practical sleep view",
+          "english": "Silk and breathable fabrics can help regulate body temperature during sleep.",
+          "korean": "실크와 통기성 소재는 체온 조절을 돕는다."
+        }
+      ],
+      "disagree": {
+        "english": "The evidence describes luxury products and brand claims, not proof that expensive bedding guarantees better sleep.",
+        "korean": "비싼 침구가 더 좋은 잠을 보장한다는 증거는 없다."
+      },
+      "reader_question_korean": "더 잘 자려고 돈을 더 쓸까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 30, 320",
+        "long sentence: \"The luxury sleepwear market is projected to grow f\""
+      ],
+      "source_title": "Good sleep is a luxury",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "Update: October 31, 2026",
+        "Eiderdown is collected from nests after ducklings leave."
+      ],
+      "reader_question": "Would you spend more for better sleep?",
+      "topic_tag": "Luxury",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Good sleep is a luxury",
+          "date": "2026-10-31",
+          "url": "https://www.koreaherald.com/article/10918863"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "명품",
+          "roman": "myeongpum",
+          "english": "luxury",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "침구와",
+          "roman": "chim-gu-wa",
+          "english": "bedding and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "잠옷이",
+          "roman": "jamo-si",
+          "english": "sleepwear",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "취침을",
+          "roman": "chwichim-eul",
+          "english": "bedtime",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "고가",
+          "roman": "goga",
+          "english": "high-priced",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "생활시장으로",
+          "roman": "saenghwal-sijang-euro",
+          "english": "lifestyle market",
+          "particle": false,
+          "suffix": "으로"
+        },
+        {
+          "korean": "바꾼다",
+          "roman": "bakkunda",
+          "english": "turn",
           "particle": false,
           "suffix": ""
         }
@@ -1236,55 +851,55 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "On October 29, Ryu Ji-hyuk hit a two-run homer against Kia in Game 3.",
-          "korean": "10월 29일 류지혁이 KIA전 3차전에서 투런포를 쳤다.",
+          "english": "Luxury bedding and sleepwear are turning bedtime into a high-priced lifestyle market.",
+          "korean": "명품 침구와 잠옷이 취침을 고가 생활시장으로 바꾼다.",
           "glossary": [
             {
-              "korean": "10월",
-              "roman": "10-wol",
-              "english": "October",
+              "korean": "명품",
+              "roman": "myeongpum",
+              "english": "luxury",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "29일",
-              "roman": "29-il",
-              "english": "29th day",
+              "korean": "침구와",
+              "roman": "chim-gu-wa",
+              "english": "bedding and",
               "particle": false,
-              "suffix": ""
+              "suffix": "와"
             },
             {
-              "korean": "류지혁이",
-              "roman": "Ryu-ji-hyeok-i",
-              "english": "Ryu Ji-hyuk",
+              "korean": "잠옷이",
+              "roman": "jamo-si",
+              "english": "sleepwear",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "KIA전",
-              "roman": "KIA-jeon",
-              "english": "against Kia",
+              "korean": "취침을",
+              "roman": "chwichim-eul",
+              "english": "bedtime",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "고가",
+              "roman": "goga",
+              "english": "high-priced",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "3차전에서",
-              "roman": "sam-cha-jeon-eseo",
-              "english": "in Game 3",
+              "korean": "생활시장으로",
+              "roman": "saenghwal-sijang-euro",
+              "english": "lifestyle market",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "으로"
             },
             {
-              "korean": "투런포를",
-              "roman": "tu-reon-po-reul",
-              "english": "two-run homer",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "쳤다",
-              "roman": "chyeot-da",
-              "english": "hit",
+              "korean": "바꾼다",
+              "roman": "bakkunda",
+              "english": "turn",
               "particle": false,
               "suffix": ""
             }
@@ -1292,48 +907,62 @@
         },
         {
           "stage": "why",
-          "english": "The homer gave Samsung a 4-3 lead in the fifth inning.",
-          "korean": "그 홈런으로 삼성은 5회 4대3으로 앞섰다.",
+          "english": "Eiderdown is scarce because it is gathered by hand after ducklings leave Icelandic nests.",
+          "korean": "아이더다운은 아이슬란드 둥지에서 새끼가 떠난 뒤 손으로 모은다.",
           "glossary": [
             {
-              "korean": "그",
-              "roman": "geu",
-              "english": "that",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "홈런으로",
-              "roman": "hom-reon-eu-ro",
-              "english": "with the homer",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "삼성은",
-              "roman": "Samseong-eun",
-              "english": "Samsung",
+              "korean": "아이더다운은",
+              "roman": "aideodaun-eun",
+              "english": "eiderdown",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "5회",
-              "roman": "o-hoe",
-              "english": "fifth inning",
+              "korean": "아이슬란드",
+              "roman": "aiseullando",
+              "english": "Iceland",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "4대3으로",
-              "roman": "sa-dae-sam-eu-ro",
-              "english": "4-3",
+              "korean": "둥지에서",
+              "roman": "dungji-eseo",
+              "english": "from nests",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "새끼가",
+              "roman": "saekki-ga",
+              "english": "ducklings",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "떠난",
+              "roman": "tteonan",
+              "english": "left",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "손으로",
+              "roman": "son-euro",
+              "english": "by hand",
               "particle": false,
               "suffix": "으로"
             },
             {
-              "korean": "앞섰다",
-              "roman": "ap-seot-da",
-              "english": "led",
+              "korean": "모은다",
+              "roman": "moeunda",
+              "english": "gather",
               "particle": false,
               "suffix": ""
             }
@@ -1341,36 +970,463 @@
         },
         {
           "stage": "how",
-          "english": "Kia tied the game, but Samsung scored twice in the seventh.",
-          "korean": "KIA가 동점으로 만들었지만 삼성은 7회 두 점을 냈다.",
+          "english": "Crown Goose sells bedding for about 30 million won, including a 320 million won edition.",
+          "korean": "크라운구스 침구는 약 3천만 원이며 특별판은 3억 2천만 원이다.",
           "glossary": [
             {
-              "korean": "KIA가",
-              "roman": "KIA-ga",
-              "english": "Kia",
+              "korean": "크라운구스",
+              "roman": "keuraun-guseu",
+              "english": "Crown Goose",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
             },
             {
-              "korean": "동점으로",
-              "roman": "dong-jeom-eu-ro",
-              "english": "into a tie",
+              "korean": "침구는",
+              "roman": "chim-gu-neun",
+              "english": "bedding",
               "particle": false,
-              "suffix": "으로"
+              "suffix": "는"
             },
             {
-              "korean": "만들었지만",
-              "roman": "man-deu-reot-jiman",
-              "english": "made but",
+              "korean": "약",
+              "roman": "yak",
+              "english": "about",
               "particle": false,
-              "suffix": "지만"
+              "suffix": ""
             },
             {
-              "korean": "삼성은",
-              "roman": "Samseong-eun",
-              "english": "Samsung",
+              "korean": "3천만",
+              "roman": "samcheon-man",
+              "english": "30 million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원이며",
+              "roman": "won-imyeo",
+              "english": "won and",
+              "particle": false,
+              "suffix": "이며"
+            },
+            {
+              "korean": "특별판은",
+              "roman": "teugbyeolpan-eun",
+              "english": "special edition",
               "particle": false,
               "suffix": "은"
+            },
+            {
+              "korean": "3억",
+              "roman": "sam-eok",
+              "english": "300 million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2천만",
+              "roman": "icheon-man",
+              "english": "20 million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원이다",
+              "roman": "won-ida",
+              "english": "won",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The luxury sleepwear market is projected to grow from 13.7 billion dollars in 2024 to 22.2 billion by 2032.",
+          "korean": "고급 잠옷 시장은 2024년 137억 달러에서 2032년 222억 달러로 커질 전망이다.",
+          "glossary": [
+            {
+              "korean": "고급",
+              "roman": "gogeup",
+              "english": "luxury",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "잠옷",
+              "roman": "jamo",
+              "english": "sleepwear",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시장은",
+              "roman": "sijang-eun",
+              "english": "market",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2024년",
+              "roman": "icheon-isipsa-nyeon",
+              "english": "2024",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "137억",
+              "roman": "baeksamsipchil-eok",
+              "english": "13.7 billion",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "달러에서",
+              "roman": "dalleo-eseo",
+              "english": "from dollars",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "2032년",
+              "roman": "icheon-samsip-i-nyeon",
+              "english": "2032",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "222억",
+              "roman": "ibaeksisip-i-eok",
+              "english": "22.2 billion",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "달러로",
+              "roman": "dalleo-ro",
+              "english": "to dollars",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "커질",
+              "roman": "keojil",
+              "english": "grow",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전망이다",
+              "roman": "jeonmang-ida",
+              "english": "is projected",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10918863",
+      "short_english": "Luxury bedding and sleepwear are turning bedtime into a high-priced lifestyle market.",
+      "short_korean": "명품 침구와 잠옷이 취침을 고가 생활시장으로 바꾼다.",
+      "date": "2026-10-31",
+      "images": [
+        "images/korean/e5d9fa39cb3e/1.jpg",
+        "images/korean/e5d9fa39cb3e/2.jpg",
+        "images/korean/e5d9fa39cb3e/3.jpg",
+        "images/korean/e5d9fa39cb3e/4.jpg",
+        "images/korean/e5d9fa39cb3e/5.jpg",
+        "images/korean/e5d9fa39cb3e/6.jpg",
+        "images/korean/e5d9fa39cb3e/7.jpg",
+        "images/korean/e5d9fa39cb3e/8.jpg",
+        "images/korean/e5d9fa39cb3e/9.jpg",
+        "images/korean/e5d9fa39cb3e/10.jpg",
+        "images/korean/e5d9fa39cb3e/11.jpg",
+        "images/korean/e5d9fa39cb3e/12.jpg",
+        "images/korean/e5d9fa39cb3e/13.jpg",
+        "images/korean/e5d9fa39cb3e/14.jpg",
+        "images/korean/e5d9fa39cb3e/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/e5d9fa39cb3e/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "KIA, 타선을 올려 5차전 만든다",
+      "english_title": "Kia’s Lineup Gamble Forces a Decisive Game Five",
+      "korean_desc": "KIA 타이거즈는 10월 30일 4차전에서 삼성을 4-2로 이겼다. 이범호 감독은 김도영, 해럴드 카스트로, 나성범을 앞에 배치했다. KIA는 7회 세 점을 내 11월 1일 5차전을 만들었다. 승자는 11월 3일 한국시리즈 1차전에 진출한다.",
+      "english_desc": "The Kia Tigers beat the Samsung Lions 4-2 in Game 4 on October 30. Manager Lee Bum-ho moved Kim Do-yeong, Harold Castro, and Na Sung-bum higher in the lineup. Kia scored three seventh-inning runs, forcing a deciding Game 5 on November 1. The winner will advance to the Korean Series, whose first game is scheduled for November 3.",
+      "hook": "Kia changed its lineup, then forced Game Five.",
+      "sticker": "One game to go ⚾",
+      "korean_hook": "KIA는 타선을 바꿔 5차전을 만들었다",
+      "takeaway_english": "Kia survived one elimination threat, but Samsung still has the series lead.",
+      "takeaway_korean": "KIA는 살아났지만 삼성은 아직 앞선다.",
+      "why_it_matters": [
+        {
+          "english": "One game now decides which team reaches the Korean Series.",
+          "korean": "한 경기로 한국시리즈 진출팀이 결정된다."
+        },
+        {
+          "english": "The game shows how postseason managers react under pressure.",
+          "korean": "이 경기는 감독의 압박 대응을 보여준다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Kia Tigers",
+          "english": "Kia moved its sluggers up and won Game 4 by 4-2.",
+          "korean": "KIA는 강타자를 올리고 4차전을 4-2로 이겼다."
+        },
+        {
+          "label": "Samsung Lions",
+          "english": "Samsung still leads the best-of-five series 3-2 after Game 4.",
+          "korean": "삼성은 4차전 뒤 시리즈에서 2-3으로 뒤졌다."
+        },
+        {
+          "label": "Chris Paddack",
+          "english": "He started Game 4 on three days’ rest after losing Game 1.",
+          "korean": "패닥은 1차전 패배 뒤 사흘 휴식으로 선발했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Kia manager Lee Bum-ho",
+          "english": "The Tigers could not wait for the No. 2 spot to improve.",
+          "korean": "KIA는 2번 타순의 회복을 기다릴 수 없었다."
+        },
+        {
+          "label": "Samsung manager Park Jin-man",
+          "english": "Samsung believed its pitchers could keep runners from reaching Kim Do-yeong.",
+          "korean": "삼성은 투수들이 김도영 앞 주자를 막는다고 봤다."
+        }
+      ],
+      "disagree": {
+        "english": "Lineup changes can create chances, but the final result also depends on pitching and timely hits.",
+        "korean": "타선 변화만으로 승리를 설명할 수는 없다."
+      },
+      "reader_question_korean": "강타자를 올린 선택은 옳았을까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"Before that game, Kia trailed 2-1 and had a 1-for-\" may be missing not"
+      ],
+      "source_title": "Facing KBO postseason elimination, Tigers move up sluggers in new-look lineup",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "Update: October 30, 2026",
+        "Game 5 is scheduled for November 1 at Daegu Samsung Lions Park."
+      ],
+      "reader_question": "Was moving the sluggers up the right call?",
+      "topic_tag": "Baseball",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Facing KBO postseason elimination, Tigers move up sluggers in new-look lineup",
+          "date": "2026-10-30",
+          "url": "https://www.koreaherald.com/article/10920971"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "KIA",
+          "roman": "KIA",
+          "english": "Kia",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "타이거즈는",
+          "roman": "taigeojeu-neun",
+          "english": "Tigers",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "10월",
+          "roman": "sibi-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "30일",
+          "roman": "samsip-il",
+          "english": "30th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "4차전에서",
+          "roman": "sa-chajeon-eseo",
+          "english": "in Game 4",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "삼성을",
+          "roman": "samseong-eul",
+          "english": "Samsung",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "4-2로",
+          "roman": "sa-i-ro",
+          "english": "by 4-2",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "이겼다",
+          "roman": "igyeotda",
+          "english": "beat",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "The Kia Tigers beat the Samsung Lions 4-2 in Game 4 on October 30.",
+          "korean": "KIA 타이거즈는 10월 30일 4차전에서 삼성을 4-2로 이겼다.",
+          "glossary": [
+            {
+              "korean": "KIA",
+              "roman": "KIA",
+              "english": "Kia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "타이거즈는",
+              "roman": "taigeojeu-neun",
+              "english": "Tigers",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "10월",
+              "roman": "sibi-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "30일",
+              "roman": "samsip-il",
+              "english": "30th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "4차전에서",
+              "roman": "sa-chajeon-eseo",
+              "english": "in Game 4",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "삼성을",
+              "roman": "samseong-eul",
+              "english": "Samsung",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "4-2로",
+              "roman": "sa-i-ro",
+              "english": "by 4-2",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "이겼다",
+              "roman": "igyeotda",
+              "english": "beat",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Manager Lee Bum-ho moved Kim Do-yeong, Harold Castro, and Na Sung-bum higher in the lineup.",
+          "korean": "이범호 감독은 김도영, 해럴드 카스트로, 나성범을 앞에 배치했다.",
+          "glossary": [
+            {
+              "korean": "이범호",
+              "roman": "I-beom-ho",
+              "english": "Lee Bum-ho",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "감독은",
+              "roman": "gamdok-eun",
+              "english": "manager",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "김도영",
+              "roman": "Gim-do-yeong",
+              "english": "Kim Do-yeong",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "해럴드",
+              "roman": "haereoldeu",
+              "english": "Harold",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "카스트로",
+              "roman": "kaseuteuro",
+              "english": "Castro",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나성범을",
+              "roman": "Na-seong-beom-eul",
+              "english": "Na Sung-bum",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "앞에",
+              "roman": "ape",
+              "english": "higher",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "배치했다",
+              "roman": "baechi-haetda",
+              "english": "placed",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Kia scored three seventh-inning runs, forcing a deciding Game 5 on November 1.",
+          "korean": "KIA는 7회 세 점을 내 11월 1일 5차전을 만들었다.",
+          "glossary": [
+            {
+              "korean": "KIA는",
+              "roman": "KIA-neun",
+              "english": "Kia",
+              "particle": false,
+              "suffix": "는"
             },
             {
               "korean": "7회",
@@ -1380,9 +1436,9 @@
               "suffix": ""
             },
             {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
               "particle": false,
               "suffix": ""
             },
@@ -1394,87 +1450,115 @@
               "suffix": "을"
             },
             {
-              "korean": "냈다",
-              "roman": "naet-da",
-              "english": "scored",
+              "korean": "내",
+              "roman": "nae",
+              "english": "scoring",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "11월",
+              "roman": "sibir-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1일",
+              "roman": "il-il",
+              "english": "1st",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5차전을",
+              "roman": "o-chajeon-eul",
+              "english": "Game 5",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "만들었다",
+              "roman": "mandeureotda",
+              "english": "forced",
+              "particle": false,
+              "suffix": "었다"
             }
           ]
         },
         {
-          "stage": "now",
-          "english": "Samsung won 6-4 and took a 2-1 series lead over Kia.",
-          "korean": "삼성은 6대4로 이겨 시리즈를 2대1로 앞섰다.",
+          "stage": "next",
+          "english": "The winner will advance to the Korean Series, whose first game is scheduled for November 3.",
+          "korean": "승자는 11월 3일 한국시리즈 1차전에 진출한다.",
           "glossary": [
             {
-              "korean": "삼성은",
-              "roman": "Samseong-eun",
-              "english": "Samsung",
+              "korean": "승자는",
+              "roman": "seungja-neun",
+              "english": "winner",
               "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
-              "korean": "6대4로",
-              "roman": "yuk-dae-sa-ro",
-              "english": "6-4",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "이겨",
-              "roman": "i-gyeo",
-              "english": "won",
+              "korean": "11월",
+              "roman": "sibir-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "시리즈를",
-              "roman": "si-ri-jeu-reul",
-              "english": "series",
+              "korean": "3일",
+              "roman": "sam-il",
+              "english": "3rd",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "2대1로",
-              "roman": "i-dae-il-ro",
-              "english": "2-1",
+              "korean": "한국시리즈",
+              "roman": "hanguk-sirijeu",
+              "english": "Korean Series",
               "particle": false,
-              "suffix": "로"
+              "suffix": ""
             },
             {
-              "korean": "앞섰다",
-              "roman": "ap-seot-da",
-              "english": "led",
+              "korean": "1차전에",
+              "roman": "il-chajeon-e",
+              "english": "to Game 1",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "진출한다",
+              "roman": "jinchulhanda",
+              "english": "advances",
               "particle": false,
               "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10920219",
-      "short_english": "On October 29, Ryu Ji-hyuk hit a two-run homer against Kia in Game 3.",
-      "short_korean": "10월 29일 류지혁이 KIA전 3차전에서 투런포를 쳤다.",
-      "date": "2026-10-30",
+      "url": "https://www.koreaherald.com/article/10920971",
+      "short_english": "The Kia Tigers beat the Samsung Lions 4-2 in Game 4 on October 30.",
+      "short_korean": "KIA 타이거즈는 10월 30일 4차전에서 삼성을 4-2로 이겼다.",
+      "date": "2026-10-31",
       "images": [
-        "images/korean/143ed2282076/1.jpg",
-        "images/korean/143ed2282076/2.jpg",
-        "images/korean/143ed2282076/3.jpg",
-        "images/korean/143ed2282076/4.jpg",
-        "images/korean/143ed2282076/5.jpg",
-        "images/korean/143ed2282076/6.jpg",
-        "images/korean/143ed2282076/7.jpg",
-        "images/korean/143ed2282076/8.jpg",
-        "images/korean/143ed2282076/9.jpg",
-        "images/korean/143ed2282076/10.jpg",
-        "images/korean/143ed2282076/11.jpg",
-        "images/korean/143ed2282076/12.jpg",
-        "images/korean/143ed2282076/13.jpg",
-        "images/korean/143ed2282076/14.jpg",
-        "images/korean/143ed2282076/15.jpg"
+        "images/korean/979eae8c7aec/1.jpg",
+        "images/korean/979eae8c7aec/2.jpg",
+        "images/korean/979eae8c7aec/3.jpg",
+        "images/korean/979eae8c7aec/4.jpg",
+        "images/korean/979eae8c7aec/5.jpg",
+        "images/korean/979eae8c7aec/6.jpg",
+        "images/korean/979eae8c7aec/7.jpg",
+        "images/korean/979eae8c7aec/8.jpg",
+        "images/korean/979eae8c7aec/9.jpg",
+        "images/korean/979eae8c7aec/10.jpg",
+        "images/korean/979eae8c7aec/11.jpg",
+        "images/korean/979eae8c7aec/12.jpg",
+        "images/korean/979eae8c7aec/13.jpg",
+        "images/korean/979eae8c7aec/14.jpg",
+        "images/korean/979eae8c7aec/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/143ed2282076/caption.txt"
+      "caption_file": "images/korean/979eae8c7aec/caption.txt"
     },
     {
       "category": "Entertainment",
@@ -1776,7 +1860,7 @@
       "url": "https://www.koreaherald.com/article/10920708",
       "short_english": "The six-member group will perform across the United States, Canada and Mexico.",
       "short_korean": "6인조 그룹은 미국, 캐나다, 멕시코에서 공연한다.",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "images": [
         "images/korean/61257f7573f9/1.jpg",
         "images/korean/61257f7573f9/2.jpg",
@@ -2125,7 +2209,7 @@
       "url": "https://www.koreaherald.com/article/10919271",
       "short_english": "Russia said no date was fixed, while Zelenskyy hoped for November 6 to 10 in Abu Dhabi.",
       "short_korean": "러시아는 날짜가 없다고 했고 젤렌스키는 아부다비를 바랐다.",
-      "date": "2026-10-30",
+      "date": "2026-10-31",
       "images": [
         "images/korean/1d0465a03d56/1.jpg",
         "images/korean/1d0465a03d56/2.jpg",
