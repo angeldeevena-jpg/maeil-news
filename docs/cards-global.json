@@ -1,419 +1,428 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0142",
-  "generated_at": "2026-11-01T07:37:06.601Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0148",
+  "generated_at": "2026-11-02T07:50:41.354Z",
   "cards": [
     {
       "category": "World",
-      "korean_title": "파키스탄, 아프간에 테러 경고",
-      "english_title": "Pakistan Draws a Red Line for Afghanistan",
-      "korean_desc": "파키스탄은 2026년 10월 31일 경고했다 아프간 탈레반은 그 주장을 부인한다 반복된 충돌 뒤 관계는 여전히 긴장됐다",
-      "english_desc": "Pakistan warned Afghanistan on October 31, 2026, over alleged cross-border militant attacks. The Afghan Taliban denies the accusation and says Afghanistan is not used against others. Relations remain strained after repeated border clashes and mutual accusations.",
-      "hook": "Pakistan called terrorism a red line.",
-      "sticker": "A border warning",
-      "korean_hook": "파키스탄은 테러를 선으로 정했다",
-      "takeaway_english": "The warning raises pressure, but it does not show whether wider action will follow.",
-      "takeaway_korean": "경고는 압박을 높였지만 추가 행동은 아직 모른다",
+      "korean_title": "방글라데시 공장 재개, 임금 갈등 계속",
+      "english_title": "Bangladesh Factories Reopen as Wage Conflict Continues",
+      "korean_desc": "노동자들은 길을 막았고 경찰은 다카에서 최루탄을 썼다. 정부는 11월 1일 6인 임금위원회를 만들었다. 위원회는 노동자 요구와 높은 생산비를 함께 검토해야 한다.",
+      "english_desc": "Workers blocked roads while police used tear gas and water cannons in Dhaka. The government formed a six-member wage board on November 1. The board must weigh workers’ demands against higher production costs.",
+      "hook": "Factories reopened, but wage protests continued.",
+      "sticker": "What workers are asking",
+      "korean_hook": "공장은 다시 열렸지만 시위는 계속됐다.",
+      "takeaway_english": "The wage board may decide whether factories face calm negotiations or renewed unrest.",
+      "takeaway_korean": "임금위원회가 협상과 재시위 중 다음 장면을 결정할 수 있다.",
       "why_it_matters": [
         {
-          "english": "Cross-border attacks can endanger civilians and deepen regional instability.",
-          "korean": "국경 공격은 민간인과 지역 안정을 위협한다"
+          "english": "The garment sector employs about four million workers.",
+          "korean": "의류 산업은 약 400만 명을 고용한다."
         },
         {
-          "english": "More clashes could make already strained relations harder to repair.",
-          "korean": "충돌은 이미 나쁜 관계를 더 어렵게 만든다"
+          "english": "It provides more than 80% of Bangladesh’s export earnings.",
+          "korean": "의류 산업은 수출 수입의 80% 이상을 만든다."
+        },
+        {
+          "english": "Factory closures could delay shipments and affect workers’ pay.",
+          "korean": "공장 폐쇄는 선적과 노동자 임금에 영향을 줄 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Pakistan",
-          "english": "It says national security cannot depend on Taliban action.",
-          "korean": "국가 안보를 탈레반에 맡길 수 없다고 말한다"
+          "label": "Garment workers",
+          "english": "They want the monthly minimum wage raised to 30,000 taka.",
+          "korean": "노동자들은 최저임금 3만 타카를 원한다."
         },
         {
-          "label": "Afghan Taliban",
-          "english": "It faces pressure to act against militants accused of operating from Afghanistan.",
-          "korean": "아프간에서 활동하는 무장세력에 압박을 받는다"
+          "label": "Factory owners",
+          "english": "They warn that higher wages and energy costs could weaken exports.",
+          "korean": "공장주들은 임금과 에너지 비용을 걱정한다."
         },
         {
-          "label": "TTP",
-          "english": "The group is accused by Pakistan of launching attacks from Afghan territory.",
-          "korean": "파키스탄은 이 단체가 공격한다고 비난한다"
+          "label": "Bangladesh government",
+          "english": "It formed a six-member wage board on November 1.",
+          "korean": "정부는 11월 1일 임금위원회를 만들었다."
         }
       ],
       "views": [
         {
-          "label": "Pakistan",
-          "english": "Islamabad says Kabul must stop militant sanctuaries and protect people in Pakistan.",
-          "korean": "이슬라마바드는 카불이 은신처를 막아야 한다고 말한다"
+          "label": "Workers and unions",
+          "english": "Workers say low pay cannot keep up with inflation and living costs.",
+          "korean": "노동자들은 낮은 임금이 물가를 못 따라간다고 말한다."
         },
         {
-          "label": "Afghan Taliban",
-          "english": "Kabul says Pakistan is blaming Afghanistan instead of choosing dialogue.",
-          "korean": "카불은 파키스탄이 대화 대신 책임을 돌린다고 말한다"
+          "label": "Manufacturers and economists",
+          "english": "They say a large increase could raise costs and reduce Bangladesh’s competitiveness.",
+          "korean": "제조업자와 경제학자는 큰 인상이 경쟁력을 낮출 수 있다고 말한다."
         }
       ],
       "disagree": {
-        "english": "The accusation remains disputed because the Taliban denies allowing attacks against other countries.",
-        "korean": "탈레반이 부인해 주장은 아직 논쟁 중이다"
+        "english": "Critics may say workers should not bear the cost of low prices demanded by international buyers.",
+        "korean": "비판자들은 국제 바이어의 낮은 가격 부담을 노동자가 져서는 안 된다고 말할 수 있다."
       },
-      "reader_question_korean": "파키스탄은 협상해야 할까요?",
+      "reader_question_korean": "방글라데시는 임금과 수출 경쟁을 어떻게 맞출까?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "translation check: \"The Afghan Taliban denies the accusation and says \" may be missing not"
+        "translation check: \"Bangladesh garment factories reopened on November \" may be missing protest"
       ],
-      "source_title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
+      "source_title": "Bangladesh garment factories reopen as wage protests keep industry on edge",
       "hook_format": "headline",
-      "body_format": "two_views",
+      "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "Pakistan",
-            "english": "Pakistan says Afghan territory is being used by militants attacking Pakistan.",
-            "korean": "파키스탄은 아프간 영토가 공격에 쓰인다고 말한다"
-          },
-          {
-            "label": "Afghan Taliban",
-            "english": "The Afghan Taliban rejects the accusation and says Afghanistan is not used against other countries.",
-            "korean": "아프간 탈레반은 그 주장을 부인한다"
-          }
-        ]
-      },
+      "format_data": {},
       "serious": true,
       "caption_lines": [
-        "Update: October 31, 2026",
-        "The dispute centers on alleged TTP activity."
+        "The wage demand is 30,000 taka monthly.",
+        "The board was formed on November 1, 2026.",
+        "Factories reopened on November 2, 2026."
       ],
-      "reader_question": "Should Pakistan negotiate or act across the border?",
-      "topic_tag": "Security",
+      "reader_question": "How should Bangladesh balance wages and export competition?",
+      "topic_tag": "Labor",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats",
-          "date": "2026-11-01",
-          "url": "https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece"
+          "title": "Bangladesh garment factories reopen as wage protests keep industry on edge",
+          "date": "2026-11-02",
+          "url": "https://www.thehindu.com/news/international/bangladesh-garment-factories-reopen-as-wage-protests-keep-industry-on-edge/article71655556.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "파키스탄은",
-          "roman": "pakiseutan-eun",
-          "english": "Pakistan",
+          "korean": "노동자들은",
+          "roman": "no-dong-ja-deu-reun",
+          "english": "workers",
           "particle": false,
           "suffix": "은"
         },
         {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "2026",
+          "korean": "길을",
+          "roman": "gil-eul",
+          "english": "roads",
           "particle": false,
-          "suffix": "년"
+          "suffix": "을"
         },
         {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
+          "korean": "막았고",
+          "roman": "mag-at-go",
+          "english": "blocked",
           "particle": false,
-          "suffix": "월"
+          "suffix": "았고"
         },
         {
-          "korean": "31일",
-          "roman": "sam-sip-il-il",
-          "english": "31st",
+          "korean": "경찰은",
+          "roman": "gyeong-chal-eun",
+          "english": "police",
           "particle": false,
-          "suffix": "일"
+          "suffix": "은"
         },
         {
-          "korean": "경고했다",
-          "roman": "gyeong-go-haet-da",
-          "english": "warned",
+          "korean": "다카에서",
+          "roman": "Da-ka-e-seo",
+          "english": "in Dhaka",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "에서"
+        },
+        {
+          "korean": "최루탄을",
+          "roman": "coe-ru-tan-eul",
+          "english": "tear gas",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "썼다",
+          "roman": "sseot-da",
+          "english": "used",
+          "particle": false,
+          "suffix": ""
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "Pakistan warned Afghanistan on October 31, 2026, over alleged cross-border militant attacks.",
-          "korean": "파키스탄은 2026년 10월 31일 경고했다",
+          "stage": "how",
+          "english": "Workers blocked roads while police used tear gas and water cannons in Dhaka.",
+          "korean": "노동자들은 길을 막았고 경찰은 다카에서 최루탄을 썼다.",
           "glossary": [
             {
-              "korean": "파키스탄은",
-              "roman": "pakiseutan-eun",
-              "english": "Pakistan",
+              "korean": "노동자들은",
+              "roman": "no-dong-ja-deu-reun",
+              "english": "workers",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "31일",
-              "roman": "sam-sip-il-il",
-              "english": "31st",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "경고했다",
-              "roman": "gyeong-go-haet-da",
-              "english": "warned",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The Afghan Taliban denies the accusation and says Afghanistan is not used against others.",
-          "korean": "아프간 탈레반은 그 주장을 부인한다",
-          "glossary": [
-            {
-              "korean": "아프간",
-              "roman": "apeugan",
-              "english": "Afghan",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "탈레반은",
-              "roman": "talleban-eun",
-              "english": "Taliban",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "the",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주장을",
-              "roman": "jujang-eul",
-              "english": "accusation",
+              "korean": "길을",
+              "roman": "gil-eul",
+              "english": "roads",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "부인한다",
-              "roman": "bu-in-handa",
-              "english": "denies",
+              "korean": "막았고",
+              "roman": "mag-at-go",
+              "english": "blocked",
               "particle": false,
-              "suffix": "한다"
+              "suffix": "았고"
+            },
+            {
+              "korean": "경찰은",
+              "roman": "gyeong-chal-eun",
+              "english": "police",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "다카에서",
+              "roman": "Da-ka-e-seo",
+              "english": "in Dhaka",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "최루탄을",
+              "roman": "coe-ru-tan-eul",
+              "english": "tear gas",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "썼다",
+              "roman": "sseot-da",
+              "english": "used",
+              "particle": false,
+              "suffix": ""
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Relations remain strained after repeated border clashes and mutual accusations.",
-          "korean": "반복된 충돌 뒤 관계는 여전히 긴장됐다",
+          "english": "The government formed a six-member wage board on November 1.",
+          "korean": "정부는 11월 1일 6인 임금위원회를 만들었다.",
           "glossary": [
             {
-              "korean": "반복된",
-              "roman": "banbok-doen",
-              "english": "repeated",
-              "particle": false,
-              "suffix": "된"
-            },
-            {
-              "korean": "충돌",
-              "roman": "chung-dol",
-              "english": "clashes",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "관계는",
-              "roman": "gwan-gye-neun",
-              "english": "relations",
+              "korean": "정부는",
+              "roman": "jeong-bu-neun",
+              "english": "government",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "여전히",
-              "roman": "yeo-jeon-hi",
-              "english": "still",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "긴장됐다",
-              "roman": "gin-jang-dwaet-da",
-              "english": "were tense",
+              "korean": "1일",
+              "roman": "il-il",
+              "english": "1st",
               "particle": false,
-              "suffix": "됐다"
+              "suffix": ""
+            },
+            {
+              "korean": "6인",
+              "roman": "yuk-in",
+              "english": "six-member",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "임금위원회를",
+              "roman": "im-geum-wi-weon-hoe-reul",
+              "english": "wage board",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "만들었다",
+              "roman": "man-deu-reot-da",
+              "english": "formed",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The board must weigh workers’ demands against higher production costs.",
+          "korean": "위원회는 노동자 요구와 높은 생산비를 함께 검토해야 한다.",
+          "glossary": [
+            {
+              "korean": "위원회는",
+              "roman": "wi-weon-hoe-neun",
+              "english": "board",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "노동자",
+              "roman": "no-dong-ja",
+              "english": "workers",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "요구와",
+              "roman": "yo-gu-wa",
+              "english": "demands and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "높은",
+              "roman": "nop-eun",
+              "english": "high",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "생산비를",
+              "roman": "saeng-san-bi-reul",
+              "english": "production costs",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "함께",
+              "roman": "ham-kke",
+              "english": "together",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "검토해야",
+              "roman": "geom-to-hae-ya",
+              "english": "must review",
+              "particle": false,
+              "suffix": "해야"
+            },
+            {
+              "korean": "한다",
+              "roman": "han-da",
+              "english": "do",
+              "particle": false,
+              "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece",
-      "short_english": "Pakistan warned Afghanistan on October 31, 2026, over alleged cross-border militant attacks.",
-      "short_korean": "파키스탄은 2026년 10월 31일 경고했다",
-      "date": "2026-11-01",
+      "url": "https://www.thehindu.com/news/international/bangladesh-garment-factories-reopen-as-wage-protests-keep-industry-on-edge/article71655556.ece",
+      "short_english": "Workers blocked roads while police used tear gas and water cannons in Dhaka.",
+      "short_korean": "노동자들은 길을 막았고 경찰은 다카에서 최루탄을 썼다.",
+      "date": "2026-11-02",
       "images": [
-        "images/global/714f5761a0ad/1.jpg",
-        "images/global/714f5761a0ad/2.jpg",
-        "images/global/714f5761a0ad/3.jpg",
-        "images/global/714f5761a0ad/4.jpg",
-        "images/global/714f5761a0ad/5.jpg",
-        "images/global/714f5761a0ad/6.jpg",
-        "images/global/714f5761a0ad/7.jpg",
-        "images/global/714f5761a0ad/8.jpg",
-        "images/global/714f5761a0ad/9.jpg",
-        "images/global/714f5761a0ad/10.jpg",
-        "images/global/714f5761a0ad/11.jpg",
-        "images/global/714f5761a0ad/12.jpg",
-        "images/global/714f5761a0ad/13.jpg",
-        "images/global/714f5761a0ad/14.jpg"
+        "images/global/d3907e32bc63/1.jpg",
+        "images/global/d3907e32bc63/2.jpg",
+        "images/global/d3907e32bc63/3.jpg",
+        "images/global/d3907e32bc63/4.jpg",
+        "images/global/d3907e32bc63/5.jpg",
+        "images/global/d3907e32bc63/6.jpg",
+        "images/global/d3907e32bc63/7.jpg",
+        "images/global/d3907e32bc63/8.jpg",
+        "images/global/d3907e32bc63/9.jpg",
+        "images/global/d3907e32bc63/10.jpg",
+        "images/global/d3907e32bc63/11.jpg",
+        "images/global/d3907e32bc63/12.jpg",
+        "images/global/d3907e32bc63/13.jpg",
+        "images/global/d3907e32bc63/14.jpg",
+        "images/global/d3907e32bc63/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/714f5761a0ad/caption.txt"
+      "caption_file": "images/global/d3907e32bc63/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "트럼프, 플라비우의 미국 체류 허용",
-      "english_title": "Trump Says Flavio Bolsonaro Can Stay in America",
-      "korean_desc": "브라질 당국은 그를 두 건 수사한다 볼소나루는 선거 패배 뒤 인도적 입국을 했다 10월 31일 루비오는 미국 개입을 부인했다",
-      "english_desc": "Brazilian authorities are investigating him in two federal money-laundering cases. Bolsonaro entered under humanitarian parole after losing Brazil’s election. On October 31, Rubio denied direct U.S. involvement, while reports said Jason Miller helped arrange travel.",
-      "hook": "Trump says Flavio Bolsonaro can stay indefinitely.",
-      "sticker": "A political guest",
-      "korean_hook": "트럼프는 플라비우의 무기한 체류를 허용했다",
-      "takeaway_english": "Trump’s welcome is clear, but Washington’s role in Bolsonaro’s departure remains disputed.",
-      "takeaway_korean": "트럼프의 환영은 분명하지만 출국 과정은 논쟁 중이다",
+      "korean_title": "베네트, 아이젠코트 지지 선언",
+      "english_title": "Bennett Backs Eisenkot Amid Israel’s Political Deadlock",
+      "korean_desc": "두 주요 진영 모두 120석 의회 과반을 얻지 못했다. 헤르초그는 지도자들에게 결과 수용과 유연한 연정을 촉구했다. 헤르초그는 11월 4일 정당 협의를 시작할 예정이다.",
+      "english_desc": "The decision came after neither main bloc won a majority in the 120-seat Knesset. Herzog urged leaders to accept the result and find a flexible coalition. Herzog is expected to begin party consultations on November 4.",
+      "hook": "Bennett backed Eisenkot to form Israel’s government.",
+      "sticker": "A new coalition puzzle",
+      "korean_hook": "베네트가 아이젠코트를 정부 구성자로 지지했다.",
+      "takeaway_english": "The endorsement starts coalition talks, but it does not settle who can govern.",
+      "takeaway_korean": "지지는 협상을 시작하지만 통치자를 확정하지는 않는다.",
       "why_it_matters": [
         {
-          "english": "The decision may affect relations between two large democracies.",
-          "korean": "결정은 두 민주국가의 관계에 영향을 줄 수 있다"
+          "english": "The opposition has 67 seats against the coalition’s 53.",
+          "korean": "야권은 67석, 연립정부는 53석이다."
         },
         {
-          "english": "Bolsonaro’s immigration status may become a diplomatic issue.",
-          "korean": "볼소나루의 체류 자격이 외교 문제가 될 수 있다"
+          "english": "Another election is possible if parties cannot agree.",
+          "korean": "정당들이 합의하지 못하면 재선거가 가능하다."
         }
       ],
       "parties": [
         {
-          "label": "Flavio Bolsonaro",
-          "english": "He left Brazil after losing the election and faces two money-laundering probes.",
-          "korean": "그는 선거 뒤 브라질을 떠났고 수사를 받는다"
+          "label": "Naftali Bennett",
+          "english": "He said B’Yachad would recommend Gadi Eisenkot to President Isaac Herzog.",
+          "korean": "베네트는 아이젠코트를 헤르초그에게 추천한다고 말했다."
         },
         {
-          "label": "Donald Trump",
-          "english": "Trump offers public permission to remain, while saying he will not meet Bolsonaro.",
-          "korean": "트럼프는 체류를 허용하지만 만나지는 않겠다고 말했다"
+          "label": "Gadi Eisenkot",
+          "english": "He thanked Bennett and said they would bring Israel back to the right path.",
+          "korean": "아이젠코트는 베네트에게 감사하며 이스라엘을 바꾸겠다고 말했다."
         },
         {
-          "label": "Brazil",
-          "english": "Brazil faces strained relations with Washington after Bolsonaro’s arrival.",
-          "korean": "브라질은 워싱턴과 긴장된 관계를 맞았다"
+          "label": "Isaac Herzog",
+          "english": "The president must consult parties after receiving official results on November 4.",
+          "korean": "대통령은 11월 4일 공식 결과를 받은 뒤 협의한다."
         }
       ],
       "views": [
         {
-          "label": "Trump",
-          "english": "Trump says Bolsonaro may stay indefinitely and calls Brazil’s election a disgrace.",
-          "korean": "트럼프는 무기한 체류와 선거 비판을 말했다"
+          "label": "Opposition supporters",
+          "english": "They see Eisenkot’s support as a possible route to a new government.",
+          "korean": "야권 지지자들은 지지가 새 정부로 가는 길이라고 본다."
         },
         {
-          "label": "Election observers",
-          "english": "Outside observers described the Brazilian election as free and fair.",
-          "korean": "외부 관찰자들은 선거가 공정했다고 말했다"
+          "label": "Political analysts",
+          "english": "They note that Arab and Zionist factions make coalition-building difficult.",
+          "korean": "분석가들은 아랍계와 시온주의 계파가 연정을 어렵게 한다고 말한다."
         }
       ],
       "disagree": {
-        "english": "Critics may say presidential hospitality cannot settle Brazil’s legal investigations or election dispute.",
-        "korean": "비판자들은 체류 허용이 수사와 선거 논쟁을 해결하지 못한다고 말할 수 있다"
+        "english": "Others may argue that endorsements alone cannot create a majority in the 120-seat Knesset.",
+        "korean": "다른 사람들은 지지만으로 120석 의회 과반을 만들 수 없다고 말할 수 있다."
       },
-      "reader_question_korean": "수사 중인 정치인을 받아야 할까요?",
+      "reader_question_korean": "어떤 연정이 이스라엘 교착을 끝낼까?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Donald Trump says Flavio Bolsonaro can stay in U.S. as long as he wants amid Brazilian probes",
+      "source_title": "Naftali Bennett’s ‘B’Yachad’ faction throws support behind Gadi Eisenkot to form next Israeli government",
       "hook_format": "headline",
-      "body_format": "two_views",
+      "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "Donald Trump",
-            "english": "Trump says Flavio Bolsonaro can remain in the United States as long as he wants.",
-            "korean": "트럼프는 플라비우가 원하는 만큼 머물 수 있다고 말했다"
-          },
-          {
-            "label": "Marco Rubio",
-            "english": "Rubio says the U.S. government did not directly arrange Bolsonaro’s departure.",
-            "korean": "루비오는 미국 정부가 출국을 직접 돕지 않았다고 말했다"
-          }
-        ]
-      },
+      "format_data": {},
       "serious": false,
       "caption_lines": [
-        "Update: October 31, 2026",
-        "Humanitarian parole typically lasts one year."
+        "Herzog will receive official results on November 4, 2026.",
+        "The Knesset is scheduled to be sworn in on November 10.",
+        "The Knesset has 120 seats."
       ],
-      "reader_question": "Should political leaders offer refuge during legal investigations?",
+      "reader_question": "What kind of coalition could end Israel’s deadlock?",
       "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Donald Trump says Flavio Bolsonaro can stay in U.S. as long as he wants amid Brazilian probes",
-          "date": "2026-11-01",
-          "url": "https://www.thehindu.com/news/international/donald-trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-amid-brazilian-probes/article71652154.ece"
+          "title": "Naftali Bennett’s ‘B’Yachad’ faction throws support behind Gadi Eisenkot to form next Israeli government",
+          "date": "2026-11-02",
+          "url": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece"
         }
       ],
       "glossary": [
-        {
-          "korean": "브라질",
-          "roman": "beurajil",
-          "english": "Brazil",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "당국은",
-          "roman": "dangguk-eun",
-          "english": "authorities",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "그를",
-          "roman": "geu-reul",
-          "english": "him",
-          "particle": false,
-          "suffix": "를"
-        },
         {
           "korean": "두",
           "roman": "du",
@@ -422,47 +431,68 @@
           "suffix": ""
         },
         {
-          "korean": "건",
-          "roman": "geon",
-          "english": "cases",
+          "korean": "주요",
+          "roman": "ju-yo",
+          "english": "main",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "수사한다",
-          "roman": "susa-handa",
-          "english": "investigate",
+          "korean": "진영",
+          "roman": "jin-yeong",
+          "english": "blocs",
           "particle": false,
-          "suffix": "한다"
+          "suffix": ""
+        },
+        {
+          "korean": "모두",
+          "roman": "mo-du",
+          "english": "both",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "120석",
+          "roman": "baek-isip-seok",
+          "english": "120-seat",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "의회",
+          "roman": "ui-hoe",
+          "english": "parliament",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "과반을",
+          "roman": "gwa-ban-eul",
+          "english": "majority",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "얻지",
+          "roman": "eot-ji",
+          "english": "win",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "못했다",
+          "roman": "mot-haet-da",
+          "english": "did not",
+          "particle": false,
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "why",
-          "english": "Brazilian authorities are investigating him in two federal money-laundering cases.",
-          "korean": "브라질 당국은 그를 두 건 수사한다",
+          "english": "The decision came after neither main bloc won a majority in the 120-seat Knesset.",
+          "korean": "두 주요 진영 모두 120석 의회 과반을 얻지 못했다.",
           "glossary": [
-            {
-              "korean": "브라질",
-              "roman": "beurajil",
-              "english": "Brazil",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "당국은",
-              "roman": "dangguk-eun",
-              "english": "authorities",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그를",
-              "roman": "geu-reul",
-              "english": "him",
-              "particle": false,
-              "suffix": "를"
-            },
             {
               "korean": "두",
               "roman": "du",
@@ -471,46 +501,423 @@
               "suffix": ""
             },
             {
-              "korean": "건",
-              "roman": "geon",
-              "english": "cases",
+              "korean": "주요",
+              "roman": "ju-yo",
+              "english": "main",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "수사한다",
-              "roman": "susa-handa",
-              "english": "investigate",
+              "korean": "진영",
+              "roman": "jin-yeong",
+              "english": "blocs",
               "particle": false,
-              "suffix": "한다"
+              "suffix": ""
+            },
+            {
+              "korean": "모두",
+              "roman": "mo-du",
+              "english": "both",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "120석",
+              "roman": "baek-isip-seok",
+              "english": "120-seat",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "의회",
+              "roman": "ui-hoe",
+              "english": "parliament",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "과반을",
+              "roman": "gwa-ban-eul",
+              "english": "majority",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "얻지",
+              "roman": "eot-ji",
+              "english": "win",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "못했다",
+              "roman": "mot-haet-da",
+              "english": "did not",
+              "particle": false,
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Bolsonaro entered under humanitarian parole after losing Brazil’s election.",
-          "korean": "볼소나루는 선거 패배 뒤 인도적 입국을 했다",
+          "english": "Herzog urged leaders to accept the result and find a flexible coalition.",
+          "korean": "헤르초그는 지도자들에게 결과 수용과 유연한 연정을 촉구했다.",
           "glossary": [
             {
-              "korean": "볼소나루는",
-              "roman": "bolsonaru-neun",
-              "english": "Bolsonaro",
+              "korean": "헤르초그는",
+              "roman": "He-reu-cho-geu-neun",
+              "english": "Herzog",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "선거",
-              "roman": "seon-geo",
-              "english": "election",
+              "korean": "지도자들에게",
+              "roman": "ji-do-ja-deul-e-ge",
+              "english": "to leaders",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "결과",
+              "roman": "gyeol-gwa",
+              "english": "result",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "패배",
-              "roman": "pae-bae",
-              "english": "loss",
+              "korean": "수용과",
+              "roman": "su-yong-gwa",
+              "english": "acceptance and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "유연한",
+              "roman": "yu-yeon-han",
+              "english": "flexible",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "연정을",
+              "roman": "yeon-jeong-eul",
+              "english": "coalition",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "촉구했다",
+              "roman": "cok-gu-haet-da",
+              "english": "urged",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Herzog is expected to begin party consultations on November 4.",
+          "korean": "헤르초그는 11월 4일 정당 협의를 시작할 예정이다.",
+          "glossary": [
+            {
+              "korean": "헤르초그는",
+              "roman": "He-reu-cho-geu-neun",
+              "english": "Herzog",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "4일",
+              "roman": "sa-il",
+              "english": "4th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정당",
+              "roman": "jeong-dang",
+              "english": "party",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "협의를",
+              "roman": "hyeob-ui-reul",
+              "english": "consultations",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "시작할",
+              "roman": "si-jak-hal",
+              "english": "will begin",
+              "particle": false,
+              "suffix": "할"
+            },
+            {
+              "korean": "예정이다",
+              "roman": "ye-jeong-i-da",
+              "english": "is expected",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/naftali-bennetts-byachad-faction-throws-support-behind-gadi-eisenkot-to-form-next-israeli-government/article71655792.ece",
+      "short_english": "The decision came after neither main bloc won a majority in the 120-seat Knesset.",
+      "short_korean": "두 주요 진영 모두 120석 의회 과반을 얻지 못했다.",
+      "date": "2026-11-02",
+      "images": [
+        "images/global/9705b6b39364/1.jpg",
+        "images/global/9705b6b39364/2.jpg",
+        "images/global/9705b6b39364/3.jpg",
+        "images/global/9705b6b39364/4.jpg",
+        "images/global/9705b6b39364/5.jpg",
+        "images/global/9705b6b39364/6.jpg",
+        "images/global/9705b6b39364/7.jpg",
+        "images/global/9705b6b39364/8.jpg",
+        "images/global/9705b6b39364/9.jpg",
+        "images/global/9705b6b39364/10.jpg",
+        "images/global/9705b6b39364/11.jpg",
+        "images/global/9705b6b39364/12.jpg",
+        "images/global/9705b6b39364/13.jpg",
+        "images/global/9705b6b39364/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/9705b6b39364/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "폴란드 헌법재판소 사법 위기",
+      "english_title": "Poland’s Court Crisis Pits Government Against President",
+      "korean_desc": "폴란드 정부와 대통령이 바르샤바 헌법재판소를 두고 다툰다. 재판관들이 소장과 부소장을 정직시킨 뒤 위기는 커졌다. 지지자와 반대자들이 모였고 경찰이 법원을 지켰다. 나브로츠키 대통령은 10월 31일 충돌 중 재판소에 들어갔다.",
+      "english_desc": "Poland’s government and president are fighting over the Constitutional Tribunal in Warsaw. The crisis worsened after judges suspended the tribunal’s chief and deputy. Supporters and opponents gathered as riot police protected the court. President Nawrocki entered the tribunal during the October 31 confrontation.",
+      "hook": "Poland’s court crisis has put government against president.",
+      "sticker": "Who controls the court?",
+      "korean_hook": "폴란드 법원 위기가 정부와 대통령을 맞붙였다.",
+      "takeaway_english": "Poland’s legal crisis will continue until institutions agree who has legitimate authority.",
+      "takeaway_korean": "정당한 권한을 정할 때까지 폴란드 법적 위기는 계속된다.",
+      "why_it_matters": [
+        {
+          "english": "The dispute affects whether courts are seen as independent.",
+          "korean": "분쟁은 법원이 독립적으로 보이는지에 영향을 준다."
+        },
+        {
+          "english": "The crisis may affect Poland’s relationship with the European Union.",
+          "korean": "위기는 폴란드와 유럽연합 관계에 영향을 줄 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Polish government",
+          "english": "It supports changes intended to repair the Constitutional Tribunal.",
+          "korean": "정부는 헌법재판소를 고치려는 변화를 지지한다."
+        },
+        {
+          "label": "President Karol Nawrocki",
+          "english": "He supports the court’s current leadership and entered the tribunal during the dispute.",
+          "korean": "나브로츠키 대통령은 현 지도부를 지지한다."
+        },
+        {
+          "label": "Constitutional Tribunal judges",
+          "english": "Some judges suspended the chief judge and deputy, deepening the standoff.",
+          "korean": "일부 재판관은 소장과 부소장을 정직시켰다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Government and EU critics",
+          "english": "They say earlier governments weakened judicial independence and need reform.",
+          "korean": "정부와 EU 비판자들은 사법 독립이 약해져 개혁이 필요하다고 말한다."
+        },
+        {
+          "label": "President’s supporters",
+          "english": "They say defending the tribunal protects the constitution from government overreach.",
+          "korean": "대통령 지지자들은 재판소 방어가 헌법을 지킨다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Each side accuses the other of using legal institutions for political control.",
+        "korean": "양쪽은 서로 법률기관을 정치적으로 통제한다고 비난한다."
+      },
+      "reader_question_korean": "폴란드 사법 개혁은 누가 통제해야 할까?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Why is Poland witnessing a judicial crisis? Explained",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "The latest confrontation intensified on October 31, 2026.",
+        "The court at the center is Poland’s Constitutional Tribunal.",
+        "Both government supporters and opposition parties are involved."
+      ],
+      "reader_question": "Who should control judicial reform in Poland?",
+      "topic_tag": "Judiciary",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Why is Poland witnessing a judicial crisis? Explained",
+          "date": "2026-11-02",
+          "url": "https://www.thehindu.com/news/international/why-is-poland-witnessing-a-judicial-crisis-explained/article71655400.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "폴란드",
+          "roman": "Pol-lan-deu",
+          "english": "Poland",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "정부와",
+          "roman": "jeong-bu-wa",
+          "english": "government and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "대통령이",
+          "roman": "dae-tong-ryeong-i",
+          "english": "president",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "바르샤바",
+          "roman": "Ba-reu-sya-ba",
+          "english": "Warsaw",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "헌법재판소를",
+          "roman": "heon-beop-jae-pan-so-reul",
+          "english": "Constitutional Tribunal",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "두고",
+          "roman": "du-go",
+          "english": "over",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "다툰다",
+          "roman": "da-tun-da",
+          "english": "fight",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Poland’s government and president are fighting over the Constitutional Tribunal in Warsaw.",
+          "korean": "폴란드 정부와 대통령이 바르샤바 헌법재판소를 두고 다툰다.",
+          "glossary": [
+            {
+              "korean": "폴란드",
+              "roman": "Pol-lan-deu",
+              "english": "Poland",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정부와",
+              "roman": "jeong-bu-wa",
+              "english": "government and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "대통령이",
+              "roman": "dae-tong-ryeong-i",
+              "english": "president",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "바르샤바",
+              "roman": "Ba-reu-sya-ba",
+              "english": "Warsaw",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "헌법재판소를",
+              "roman": "heon-beop-jae-pan-so-reul",
+              "english": "Constitutional Tribunal",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "두고",
+              "roman": "du-go",
+              "english": "over",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "다툰다",
+              "roman": "da-tun-da",
+              "english": "fight",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The crisis worsened after judges suspended the tribunal’s chief and deputy.",
+          "korean": "재판관들이 소장과 부소장을 정직시킨 뒤 위기는 커졌다.",
+          "glossary": [
+            {
+              "korean": "재판관들이",
+              "roman": "jae-pan-gwan-deu-ri",
+              "english": "judges",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "소장과",
+              "roman": "so-jang-gwa",
+              "english": "chief and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "부소장을",
+              "roman": "bu-so-jang-eul",
+              "english": "deputy",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "정직시킨",
+              "roman": "jeong-jik-si-kin",
+              "english": "suspended",
+              "particle": false,
+              "suffix": "킨"
             },
             {
               "korean": "뒤",
@@ -520,23 +927,65 @@
               "suffix": ""
             },
             {
-              "korean": "인도적",
-              "roman": "indo-jeok",
-              "english": "humanitarian",
+              "korean": "위기는",
+              "roman": "wi-gi-neun",
+              "english": "crisis",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "커졌다",
+              "roman": "keo-jyeot-da",
+              "english": "worsened",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Supporters and opponents gathered as riot police protected the court.",
+          "korean": "지지자와 반대자들이 모였고 경찰이 법원을 지켰다.",
+          "glossary": [
+            {
+              "korean": "지지자와",
+              "roman": "ji-ji-ja-wa",
+              "english": "supporters and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "반대자들이",
+              "roman": "ban-dae-ja-deu-ri",
+              "english": "opponents",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "모였고",
+              "roman": "mo-yeot-go",
+              "english": "gathered",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "입국을",
-              "roman": "ip-gug-eul",
-              "english": "entry",
+              "korean": "경찰이",
+              "roman": "gyeong-cha-ri",
+              "english": "police",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "법원을",
+              "roman": "beob-won-eul",
+              "english": "court",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "했다",
-              "roman": "haet-da",
-              "english": "made",
+              "korean": "지켰다",
+              "roman": "ji-kyeot-da",
+              "english": "protected",
               "particle": false,
               "suffix": ""
             }
@@ -544,206 +993,241 @@
         },
         {
           "stage": "now",
-          "english": "On October 31, Rubio denied direct U.S. involvement, while reports said Jason Miller helped arrange travel.",
-          "korean": "10월 31일 루비오는 미국 개입을 부인했다",
+          "english": "President Nawrocki entered the tribunal during the October 31 confrontation.",
+          "korean": "나브로츠키 대통령은 10월 31일 충돌 중 재판소에 들어갔다.",
           "glossary": [
             {
+              "korean": "나브로츠키",
+              "roman": "Na-beu-ro-cheu-ki",
+              "english": "Nawrocki",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대통령은",
+              "roman": "dae-tong-ryeong-eun",
+              "english": "president",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
               "korean": "10월",
-              "roman": "sip-wol",
+              "roman": "si-wol",
               "english": "October",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
               "korean": "31일",
               "roman": "sam-sip-il-il",
               "english": "31st",
               "particle": false,
-              "suffix": "일"
+              "suffix": ""
             },
             {
-              "korean": "루비오는",
-              "roman": "rubio-neun",
-              "english": "Rubio",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "U.S.",
+              "korean": "충돌",
+              "roman": "cung-dol",
+              "english": "confrontation",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "개입을",
-              "roman": "gaeip-eul",
-              "english": "involvement",
+              "korean": "중",
+              "roman": "jung",
+              "english": "during",
               "particle": false,
-              "suffix": "을"
+              "suffix": ""
             },
             {
-              "korean": "부인했다",
-              "roman": "bu-in-haet-da",
-              "english": "denied",
+              "korean": "재판소에",
+              "roman": "jae-pan-so-e",
+              "english": "to tribunal",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "에"
+            },
+            {
+              "korean": "들어갔다",
+              "roman": "deu-reo-gat-da",
+              "english": "entered",
+              "particle": false,
+              "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/donald-trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-amid-brazilian-probes/article71652154.ece",
-      "short_english": "Brazilian authorities are investigating him in two federal money-laundering cases.",
-      "short_korean": "브라질 당국은 그를 두 건 수사한다",
-      "date": "2026-11-01",
+      "url": "https://www.thehindu.com/news/international/why-is-poland-witnessing-a-judicial-crisis-explained/article71655400.ece",
+      "short_english": "Poland’s government and president are fighting over the Constitutional Tribunal in Warsaw.",
+      "short_korean": "폴란드 정부와 대통령이 바르샤바 헌법재판소를 두고 다툰다.",
+      "date": "2026-11-02",
       "images": [
-        "images/global/436efe4b15fc/1.jpg",
-        "images/global/436efe4b15fc/2.jpg",
-        "images/global/436efe4b15fc/3.jpg",
-        "images/global/436efe4b15fc/4.jpg",
-        "images/global/436efe4b15fc/5.jpg",
-        "images/global/436efe4b15fc/6.jpg",
-        "images/global/436efe4b15fc/7.jpg",
-        "images/global/436efe4b15fc/8.jpg",
-        "images/global/436efe4b15fc/9.jpg",
-        "images/global/436efe4b15fc/10.jpg",
-        "images/global/436efe4b15fc/11.jpg",
-        "images/global/436efe4b15fc/12.jpg",
-        "images/global/436efe4b15fc/13.jpg",
-        "images/global/436efe4b15fc/14.jpg"
+        "images/global/e39865869a5f/1.jpg",
+        "images/global/e39865869a5f/2.jpg",
+        "images/global/e39865869a5f/3.jpg",
+        "images/global/e39865869a5f/4.jpg",
+        "images/global/e39865869a5f/5.jpg",
+        "images/global/e39865869a5f/6.jpg",
+        "images/global/e39865869a5f/7.jpg",
+        "images/global/e39865869a5f/8.jpg",
+        "images/global/e39865869a5f/9.jpg",
+        "images/global/e39865869a5f/10.jpg",
+        "images/global/e39865869a5f/11.jpg",
+        "images/global/e39865869a5f/12.jpg",
+        "images/global/e39865869a5f/13.jpg",
+        "images/global/e39865869a5f/14.jpg",
+        "images/global/e39865869a5f/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/436efe4b15fc/caption.txt"
+      "caption_file": "images/global/e39865869a5f/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "트럼프의 엡스타인 소송 기각",
-      "english_title": "Judge Ends Trump’s Lawsuit Over Epstein Report",
-      "korean_desc": "게일스 판사는 트럼프가 악의를 입증하지 못했다고 말했다 트럼프는 엡스타인 편지 보도로 100억 달러를 청구했다 기각은 확정적이어서 트럼프는 소송을 고칠 수 없다",
-      "english_desc": "Judge Darrin Gayles said Trump failed to show actual malice by the defendants. Trump sought $10 billion over a report about an alleged birthday letter to Jeffrey Epstein. The dismissal was with prejudice, so Trump cannot amend this lawsuit.",
-      "hook": "A judge dismissed Trump’s $10 billion lawsuit.",
-      "sticker": "What the judge decided",
-      "korean_hook": "판사가 트럼프의 100억 달러 소송을 기각했다",
-      "takeaway_english": "The case is over in this court, but the wider political argument continues.",
-      "takeaway_korean": "이 법정 소송은 끝났지만 정치 논쟁은 계속된다",
+      "korean_title": "아일랜드 서점, 루니 책 수요 돕다",
+      "english_title": "Irish Bookshops Keep Sally Rooney Books Moving",
+      "korean_desc": "페이버는 루니가 영국 수익을 기부하려 해 송금할 수 없다고 말했다. 런던데리의 리틀 애콘스는 아일랜드 공급자에게 책을 주문한다. 영국의 기존 재고는 합법이고 새 공급은 다른 경로를 이용한다.",
+      "english_desc": "Faber said it could not transfer UK earnings because Rooney planned to donate them. Londonderry’s Little Acorns orders stock through distributors in the Republic of Ireland. Existing British stock remains legal, while new supplies use alternative routes.",
+      "hook": "Irish bookshops supplied Rooney novels after UK distribution stopped.",
+      "sticker": "A bookshop supply twist 📚",
+      "korean_hook": "영국 공급 중단 뒤 아일랜드 서점이 루니 책을 공급했다.",
+      "takeaway_english": "The books remain available, but the route from publisher to reader has become political.",
+      "takeaway_korean": "책은 남았지만 출판사와 독자 사이의 길이 정치화됐다.",
       "why_it_matters": [
         {
-          "english": "The ruling limits one legal route for challenging media coverage.",
-          "korean": "판결은 언론 보도에 맞서는 법적 길을 제한한다"
+          "english": "Readers in Britain can still obtain the books through Irish suppliers.",
+          "korean": "영국 독자들은 아일랜드 공급자를 통해 책을 살 수 있다."
         },
         {
-          "english": "The case keeps attention on the release of Epstein-related records.",
-          "korean": "사건은 엡스타인 기록 공개에 관심을 모은다"
+          "english": "The dispute connects publishing, royalties, free speech and terrorism law.",
+          "korean": "분쟁은 출판, 로열티, 표현의 자유, 테러법을 연결한다."
+        },
+        {
+          "english": "Kenny’s Bookshop reported sales ten times higher after the decision.",
+          "korean": "케니스 서점은 결정 뒤 판매가 10배 늘었다고 말했다."
         }
       ],
       "parties": [
         {
-          "label": "Donald Trump",
-          "english": "He sued over reporting about an alleged birthday letter to Jeffrey Epstein.",
-          "korean": "그는 엡스타인에게 보낸 편지 보도로 소송했다"
+          "label": "Faber",
+          "english": "It stopped normal UK distribution after Rooney planned to donate earnings to Palestine Action.",
+          "korean": "페이버는 루니의 팔레스타인 액션 기부 계획 뒤 영국 공급을 멈췄다."
         },
         {
-          "label": "Wall Street Journal",
-          "english": "The newspaper defended its reporting and won dismissal of the lawsuit.",
-          "korean": "신문사는 보도를 지켰고 소송 기각을 얻었다"
+          "label": "Little Acorns Bookstore",
+          "english": "The Londonderry shop orders Rooney books through suppliers in the Republic of Ireland.",
+          "korean": "리틀 애콘스 서점은 아일랜드에서 루니 책을 주문한다."
         },
         {
-          "label": "Judge Darrin Gayles",
-          "english": "The judge said Trump failed to show actual malice.",
-          "korean": "판사는 트럼프가 실제 악의를 입증하지 못했다고 말했다"
+          "label": "British booksellers",
+          "english": "Some are seeking alternative suppliers while existing stock remains legal to sell.",
+          "korean": "영국 서점들은 대체 공급처를 찾고 있다."
         }
       ],
       "views": [
         {
-          "label": "Trump’s side",
-          "english": "Trump denies wrongdoing connected to Epstein and challenged the report in court.",
-          "korean": "트럼프 측은 잘못을 부인하고 법정에서 보도에 맞섰다"
+          "label": "Faber and some booksellers",
+          "english": "They say selling books without passing royalties to Rooney would be unacceptable.",
+          "korean": "페이버와 일부 서점은 로열티를 못 주면 판매가 부당하다고 말한다."
         },
         {
-          "label": "Court and media outlets",
-          "english": "The court found the lawsuit did not establish the required actual malice.",
-          "korean": "법원은 소송이 필요한 악의를 입증하지 못했다고 봤다"
+          "label": "Other booksellers and readers",
+          "english": "They see the supply restriction as silencing and say readers should choose for themselves.",
+          "korean": "다른 서점과 독자들은 공급 제한을 침묵시키기로 본다."
         }
       ],
       "disagree": {
-        "english": "Supporters may argue the ruling leaves unanswered questions about the reported letter.",
-        "korean": "지지자들은 편지에 대한 질문이 남았다고 주장할 수 있다"
+        "english": "Others may say the restriction follows British law because Palestine Action is prohibited there.",
+        "korean": "다른 사람들은 팔레스타인 액션이 영국에서 금지돼 법을 따른 것이라고 말할 수 있다."
       },
-      "reader_question_korean": "공인은 논쟁적 보도로 소송해야 할까요?",
+      "reader_question_korean": "정치적 분쟁 중에도 서점은 책을 팔아야 할까?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
-      "hook_format": "number",
+      "source_title": "Irish bookshops help meet U.K. demand for Sally Rooney novels",
+      "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "$10 billion",
-          "label": "lawsuit damages sought",
-          "korean_label": "청구한 손해배상액"
-        }
-      },
+      "format_data": {},
       "serious": false,
       "caption_lines": [
-        "Update: October 31, 2026",
-        "Dismissal with prejudice blocks an amended lawsuit."
+        "Faber announced its decision in mid-October 2026.",
+        "Palestine Action is banned in Britain but not Ireland.",
+        "The UK Supreme Court was due to hear an appeal in early November."
       ],
-      "reader_question": "Should public figures be able to sue over disputed reporting?",
-      "topic_tag": "Justice",
+      "reader_question": "Should bookshops keep selling books during a political dispute?",
+      "topic_tag": "Books",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal",
-          "date": "2026-11-01",
-          "url": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece"
+          "title": "Irish bookshops help meet U.K. demand for Sally Rooney novels",
+          "date": "2026-11-02",
+          "url": "https://www.thehindu.com/news/international/irish-bookshops-help-meet-uk-demand-for-sally-rooney-novels/article71655233.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "게일스",
-          "roman": "geilseu",
-          "english": "Gayles",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "판사는",
-          "roman": "pansa-neun",
-          "english": "judge",
+          "korean": "페이버는",
+          "roman": "Pe-i-beo-neun",
+          "english": "Faber",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "트럼프가",
-          "roman": "teureompeu-ga",
-          "english": "Trump",
+          "korean": "루니가",
+          "roman": "Ru-ni-ga",
+          "english": "Rooney",
           "particle": false,
           "suffix": "가"
         },
         {
-          "korean": "악의를",
-          "roman": "ag-ui-reul",
-          "english": "malice",
+          "korean": "영국",
+          "roman": "Yeong-guk",
+          "english": "UK",
           "particle": false,
-          "suffix": "를"
+          "suffix": ""
         },
         {
-          "korean": "입증하지",
-          "roman": "ipjeung-haji",
-          "english": "prove",
+          "korean": "수익을",
+          "roman": "su-ig-eul",
+          "english": "earnings",
           "particle": false,
-          "suffix": "하지"
+          "suffix": "을"
         },
         {
-          "korean": "못했다고",
-          "roman": "mot-haetdago",
-          "english": "failed to",
+          "korean": "수",
+          "roman": "su",
+          "english": "ability",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "기부하려",
+          "roman": "gi-bu-ha-ryeo",
+          "english": "planned to donate",
+          "particle": false,
+          "suffix": "려"
+        },
+        {
+          "korean": "해",
+          "roman": "hae",
+          "english": "because",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "송금할",
+          "roman": "song-geum-hal",
+          "english": "transfer",
+          "particle": false,
+          "suffix": "할"
+        },
+        {
+          "korean": "없다고",
+          "roman": "eop-da-go",
+          "english": "cannot",
           "particle": false,
           "suffix": "다고"
         },
@@ -758,48 +1242,69 @@
       "sentences": [
         {
           "stage": "why",
-          "english": "Judge Darrin Gayles said Trump failed to show actual malice by the defendants.",
-          "korean": "게일스 판사는 트럼프가 악의를 입증하지 못했다고 말했다",
+          "english": "Faber said it could not transfer UK earnings because Rooney planned to donate them.",
+          "korean": "페이버는 루니가 영국 수익을 기부하려 해 송금할 수 없다고 말했다.",
           "glossary": [
             {
-              "korean": "게일스",
-              "roman": "geilseu",
-              "english": "Gayles",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판사는",
-              "roman": "pansa-neun",
-              "english": "judge",
+              "korean": "페이버는",
+              "roman": "Pe-i-beo-neun",
+              "english": "Faber",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "트럼프가",
-              "roman": "teureompeu-ga",
-              "english": "Trump",
+              "korean": "루니가",
+              "roman": "Ru-ni-ga",
+              "english": "Rooney",
               "particle": false,
               "suffix": "가"
             },
             {
-              "korean": "악의를",
-              "roman": "ag-ui-reul",
-              "english": "malice",
+              "korean": "영국",
+              "roman": "Yeong-guk",
+              "english": "UK",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "입증하지",
-              "roman": "ipjeung-haji",
-              "english": "prove",
+              "korean": "수익을",
+              "roman": "su-ig-eul",
+              "english": "earnings",
               "particle": false,
-              "suffix": "하지"
+              "suffix": "을"
             },
             {
-              "korean": "못했다고",
-              "roman": "mot-haetdago",
-              "english": "failed to",
+              "korean": "수",
+              "roman": "su",
+              "english": "ability",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기부하려",
+              "roman": "gi-bu-ha-ryeo",
+              "english": "planned to donate",
+              "particle": false,
+              "suffix": "려"
+            },
+            {
+              "korean": "해",
+              "roman": "hae",
+              "english": "because",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "송금할",
+              "roman": "song-geum-hal",
+              "english": "transfer",
+              "particle": false,
+              "suffix": "할"
+            },
+            {
+              "korean": "없다고",
+              "roman": "eop-da-go",
+              "english": "cannot",
               "particle": false,
               "suffix": "다고"
             },
@@ -814,201 +1319,223 @@
         },
         {
           "stage": "how",
-          "english": "Trump sought $10 billion over a report about an alleged birthday letter to Jeffrey Epstein.",
-          "korean": "트럼프는 엡스타인 편지 보도로 100억 달러를 청구했다",
+          "english": "Londonderry’s Little Acorns orders stock through distributors in the Republic of Ireland.",
+          "korean": "런던데리의 리틀 애콘스는 아일랜드 공급자에게 책을 주문한다.",
           "glossary": [
             {
-              "korean": "트럼프는",
-              "roman": "teureompeu-neun",
-              "english": "Trump",
+              "korean": "런던데리의",
+              "roman": "Reon-deon-de-ri-ui",
+              "english": "Londonderry's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "리틀",
+              "roman": "Ri-teul",
+              "english": "Little",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "애콘스는",
+              "roman": "Ae-kon-seu-neun",
+              "english": "Acorns",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "엡스타인",
-              "roman": "epseutain",
-              "english": "Epstein",
+              "korean": "아일랜드",
+              "roman": "A-il-laen-deu",
+              "english": "Ireland",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "편지",
-              "roman": "pyeon-ji",
-              "english": "letter",
+              "korean": "공급자에게",
+              "roman": "gong-geub-ja-e-ge",
+              "english": "to suppliers",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "책을",
+              "roman": "chae-geul",
+              "english": "books",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "주문한다",
+              "roman": "ju-mun-han-da",
+              "english": "orders",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "보도로",
-              "roman": "bodo-ro",
-              "english": "over reporting",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "100억",
-              "roman": "baek-eok",
-              "english": "10 billion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "달러를",
-              "roman": "dalleo-reul",
-              "english": "dollars",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "청구했다",
-              "roman": "cheong-gu-haet-da",
-              "english": "sought",
-              "particle": false,
-              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The dismissal was with prejudice, so Trump cannot amend this lawsuit.",
-          "korean": "기각은 확정적이어서 트럼프는 소송을 고칠 수 없다",
+          "english": "Existing British stock remains legal, while new supplies use alternative routes.",
+          "korean": "영국의 기존 재고는 합법이고 새 공급은 다른 경로를 이용한다.",
           "glossary": [
             {
-              "korean": "기각은",
-              "roman": "gigak-eun",
-              "english": "dismissal",
+              "korean": "영국의",
+              "roman": "Yeong-gug-ui",
+              "english": "British",
               "particle": false,
-              "suffix": "은"
+              "suffix": "의"
             },
             {
-              "korean": "확정적이어서",
-              "roman": "hwakjeong-jeog-ieoseo",
-              "english": "because final",
+              "korean": "기존",
+              "roman": "gi-jon",
+              "english": "existing",
               "particle": false,
-              "suffix": "어서"
+              "suffix": ""
             },
             {
-              "korean": "트럼프는",
-              "roman": "teureompeu-neun",
-              "english": "Trump",
+              "korean": "재고는",
+              "roman": "jae-go-neun",
+              "english": "stock",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "소송을",
-              "roman": "sosong-eul",
-              "english": "lawsuit",
+              "korean": "합법이고",
+              "roman": "hap-beop-i-go",
+              "english": "is legal",
               "particle": false,
-              "suffix": "을"
+              "suffix": "이고"
             },
             {
-              "korean": "고칠",
-              "roman": "gochil",
-              "english": "amend",
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "수",
-              "roman": "su",
-              "english": "ability",
+              "korean": "공급은",
+              "roman": "gong-geub-eun",
+              "english": "supply",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "다른",
+              "roman": "da-reun",
+              "english": "different",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "없다",
-              "roman": "eopda",
-              "english": "cannot",
+              "korean": "경로를",
+              "roman": "gyeong-ro-reul",
+              "english": "routes",
               "particle": false,
-              "suffix": "다"
+              "suffix": "를"
+            },
+            {
+              "korean": "이용한다",
+              "roman": "i-yong-han-da",
+              "english": "uses",
+              "particle": false,
+              "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece",
-      "short_english": "Judge Darrin Gayles said Trump failed to show actual malice by the defendants.",
-      "short_korean": "게일스 판사는 트럼프가 악의를 입증하지 못했다고 말했다",
-      "date": "2026-11-01",
+      "url": "https://www.thehindu.com/news/international/irish-bookshops-help-meet-uk-demand-for-sally-rooney-novels/article71655233.ece",
+      "short_english": "Faber said it could not transfer UK earnings because Rooney planned to donate them.",
+      "short_korean": "페이버는 루니가 영국 수익을 기부하려 해 송금할 수 없다고 말했다.",
+      "date": "2026-11-02",
       "images": [
-        "images/global/4b6540b5f5ec/1.jpg",
-        "images/global/4b6540b5f5ec/2.jpg",
-        "images/global/4b6540b5f5ec/3.jpg",
-        "images/global/4b6540b5f5ec/4.jpg",
-        "images/global/4b6540b5f5ec/5.jpg",
-        "images/global/4b6540b5f5ec/6.jpg",
-        "images/global/4b6540b5f5ec/7.jpg",
-        "images/global/4b6540b5f5ec/8.jpg",
-        "images/global/4b6540b5f5ec/9.jpg",
-        "images/global/4b6540b5f5ec/10.jpg",
-        "images/global/4b6540b5f5ec/11.jpg",
-        "images/global/4b6540b5f5ec/12.jpg",
-        "images/global/4b6540b5f5ec/13.jpg",
-        "images/global/4b6540b5f5ec/14.jpg"
+        "images/global/9742a3ed6c54/1.jpg",
+        "images/global/9742a3ed6c54/2.jpg",
+        "images/global/9742a3ed6c54/3.jpg",
+        "images/global/9742a3ed6c54/4.jpg",
+        "images/global/9742a3ed6c54/5.jpg",
+        "images/global/9742a3ed6c54/6.jpg",
+        "images/global/9742a3ed6c54/7.jpg",
+        "images/global/9742a3ed6c54/8.jpg",
+        "images/global/9742a3ed6c54/9.jpg",
+        "images/global/9742a3ed6c54/10.jpg",
+        "images/global/9742a3ed6c54/11.jpg",
+        "images/global/9742a3ed6c54/12.jpg",
+        "images/global/9742a3ed6c54/13.jpg",
+        "images/global/9742a3ed6c54/14.jpg",
+        "images/global/9742a3ed6c54/15.jpg",
+        "images/global/9742a3ed6c54/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/4b6540b5f5ec/caption.txt"
+      "caption_file": "images/global/9742a3ed6c54/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "트럼프, 이란 표적 한두 곳 언급",
-      "english_title": "Trump Says One or Two Iranian Targets Remain",
-      "korean_desc": "트럼프는 2026년 10월 31일 표적 한두 곳을 말했다 그는 픽액스 산을 말했고 이란은 부인했다 10월 31일 이란은 즉각 대응을 경고했다 카타르와 파키스탄이 중재하지만 합의는 없다",
-      "english_desc": "Trump said on October 31, 2026, that one or two Iranian targets remained. He named Pickaxe Mountain, while Iran denies nuclear work occurs there. On October 31, Iran threatened an immediate response without geographic limits. Qatar and Pakistan are mediating, but talks have not produced a lasting agreement.",
-      "hook": "Trump says one or two targets remain.",
-      "sticker": "War and diplomacy",
-      "korean_hook": "트럼프는 표적 한두 곳이 남았다고 말했다",
-      "takeaway_english": "Talks continue, but threats around Iran and Hormuz keep the risk of escalation high.",
-      "takeaway_korean": "대화는 계속되지만 이란과 해협의 긴장은 높다",
+      "korean_title": "트럼프 공화당, 중간선거 방어 총력",
+      "english_title": "Trump’s Republicans Fight to Stop a Democratic Wave",
+      "korean_desc": "공화당은 11월 1일 민주당의 의회 승리를 막으려 총력전을 벌였다. 여론조사는 하원에서 민주당을 앞세웠고 상원 가능성도 보였다. 트럼프는 아이오와와 캔자스에서 유세하며 민주당을 극단적이라고 공격했다.",
+      "english_desc": "Republicans made a final push on November 1 to stop Democrats winning Congress. Polls strongly favored Democrats in the House and gave them a real Senate chance. Trump rallied in Iowa and Kansas and attacked Democrats as extreme.",
+      "hook": "Republicans scrambled as Democrats chased Congress.",
+      "sticker": "The power fight reaches Election Day",
+      "korean_hook": "민주당이 의회를 노리자 공화당이 총력전을 벌였다.",
+      "takeaway_english": "The November 3 vote will decide whether Trump faces a divided government or continued Republican control.",
+      "takeaway_korean": "11월 3일 투표가 분열 정부와 공화당 지배 중 하나를 정한다.",
       "why_it_matters": [
         {
-          "english": "The Strait of Hormuz carries about one-fifth of global oil consumption.",
-          "korean": "호르무즈 해협은 세계 석유 소비의 약 5분의 1을 운반한다"
+          "english": "Congress controls budgets, investigations and many presidential appointments.",
+          "korean": "의회는 예산, 조사, 대통령 인사를 통제한다."
         },
         {
-          "english": "The blockade has already pushed global energy prices higher.",
-          "korean": "봉쇄는 이미 세계 에너지 가격을 올렸다"
+          "english": "More than 54 million people had already voted before Election Day.",
+          "korean": "선거일 전 이미 5,400만 명 이상이 투표했다."
+        },
+        {
+          "english": "The election could shape the final two years of Trump’s term.",
+          "korean": "선거는 트럼프 임기 마지막 2년을 바꿀 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "United States",
-          "english": "The United States says much of Iran’s military and nuclear program has been destroyed.",
-          "korean": "미국은 이란 군사력과 핵시설을 크게 파괴했다고 말한다"
+          "label": "Donald Trump",
+          "english": "He held final rallies and promised voters $5,000 payments if Republicans won.",
+          "korean": "트럼프는 공화당 승리 때 5천 달러 지급을 약속했다."
         },
         {
-          "label": "Iran",
-          "english": "Iran threatens a broad response and keeps conditions for reopening Hormuz.",
-          "korean": "이란은 광범위한 대응과 호르무즈 조건을 말한다"
+          "label": "Democrats",
+          "english": "They were expected to win the House and had a real chance in the Senate.",
+          "korean": "민주당은 하원 승리와 상원 역전 가능성을 보였다."
         },
         {
-          "label": "Mediators",
-          "english": "Qatar and Pakistan are trying to mediate, but no lasting agreement exists.",
-          "korean": "카타르와 파키스탄이 중재하지만 합의는 없다"
+          "label": "Republicans",
+          "english": "They feared losing Congress and facing investigations of Trump’s administration.",
+          "korean": "공화당은 의회와 행정부 조사 권한을 잃을까 걱정했다."
         }
       ],
       "views": [
         {
-          "label": "U.S. officials",
-          "english": "Marco Rubio says the United States has not decided on new strikes and remains open to diplomacy.",
-          "korean": "루비오는 새 공격을 결정하지 않았고 외교에 열려 있다고 말했다"
+          "label": "Democratic analysts",
+          "english": "They see Trump’s low approval and high prices creating a strong Democratic environment.",
+          "korean": "민주당 분석가들은 낮은 지지율과 물가가 민주당에 유리하다고 본다."
         },
         {
-          "label": "Iranian officials",
-          "english": "Iran says any attack would receive an immediate response without geographic limits.",
-          "korean": "이란은 어떤 공격에도 즉각 대응한다고 말했다"
+          "label": "Trump and Republicans",
+          "english": "They say Democrats are extreme and voters will reject their policies.",
+          "korean": "트럼프와 공화당은 민주당이 극단적이라고 말한다."
         }
       ],
       "disagree": {
-        "english": "Military claims and diplomatic messages point in different directions, so the next move remains uncertain.",
-        "korean": "군사 발언과 외교 메시지가 달라 다음 행동은 불확실하다"
+        "english": "Polls can miss late changes, and Republicans still held advantages in some Senate races.",
+        "korean": "여론조사는 막판 변화를 놓칠 수 있고 공화당은 일부 상원 선거에서 앞섰다."
       },
-      "reader_question_korean": "외교가 전쟁 확대를 막을까요?",
+      "reader_question_korean": "민주당 의회가 트럼프의 2기를 바꿀까?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 54",
+        "translation check: \"The final AP update on November 1 said more than 5\" may be missing more than"
       ],
-      "source_title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
+      "source_title": "Trump's Republicans scramble to stop Democratic midterms wave",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -1016,75 +1543,438 @@
       "answer_english": "",
       "answer_korean": "",
       "format_data": {},
-      "serious": true,
+      "serious": false,
       "caption_lines": [
-        "Update: October 31, 2026",
-        "Qatar and Pakistan are mediating."
+        "Election Day is November 3, 2026.",
+        "Republicans held a 53–47 Senate majority before voting.",
+        "The House majority was also at stake."
       ],
-      "reader_question": "Can diplomacy stop the fighting from expanding?",
-      "topic_tag": "War",
+      "reader_question": "Would a Democratic Congress change Trump’s second term?",
+      "topic_tag": "Election",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "President Trump says U.S. still has ‘one or two targets’ in Iran",
-          "date": "2026-11-01",
-          "url": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece"
+          "title": "Trump's Republicans scramble to stop Democratic midterms wave",
+          "date": "2026-11-02",
+          "url": "https://www.thehindu.com/news/international/trumps-republicans-scramble-to-stop-democratic-midterms-wave/article71655246.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "트럼프는",
-          "roman": "teureompeu-neun",
-          "english": "Trump",
+          "korean": "공화당은",
+          "roman": "gong-hwa-dang-eun",
+          "english": "Republicans",
           "particle": false,
-          "suffix": "는"
+          "suffix": "은"
         },
         {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "31일",
-          "roman": "sam-sip-il-il",
-          "english": "31st",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "표적",
-          "roman": "pyojeok",
-          "english": "targets",
+          "korean": "11월",
+          "roman": "sip-il-wol",
+          "english": "November",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "한두",
-          "roman": "handu",
-          "english": "one or two",
+          "korean": "1일",
+          "roman": "il-il",
+          "english": "1st",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "곳을",
-          "roman": "got-eul",
-          "english": "places",
+          "korean": "민주당의",
+          "roman": "min-ju-dang-ui",
+          "english": "Democratic",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "의회",
+          "roman": "ui-hoe",
+          "english": "Congress",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "승리를",
+          "roman": "seung-ri-reul",
+          "english": "victory",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "막으려",
+          "roman": "mag-eu-ryeo",
+          "english": "to stop",
+          "particle": false,
+          "suffix": "려"
+        },
+        {
+          "korean": "총력전을",
+          "roman": "cong-ryeok-jeon-eul",
+          "english": "full push",
           "particle": false,
           "suffix": "을"
         },
         {
-          "korean": "말했다",
-          "roman": "mal-haet-da",
-          "english": "said",
+          "korean": "벌였다",
+          "roman": "beol-yeot-da",
+          "english": "made",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Republicans made a final push on November 1 to stop Democrats winning Congress.",
+          "korean": "공화당은 11월 1일 민주당의 의회 승리를 막으려 총력전을 벌였다.",
+          "glossary": [
+            {
+              "korean": "공화당은",
+              "roman": "gong-hwa-dang-eun",
+              "english": "Republicans",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1일",
+              "roman": "il-il",
+              "english": "1st",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "민주당의",
+              "roman": "min-ju-dang-ui",
+              "english": "Democratic",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "의회",
+              "roman": "ui-hoe",
+              "english": "Congress",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "승리를",
+              "roman": "seung-ri-reul",
+              "english": "victory",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "막으려",
+              "roman": "mag-eu-ryeo",
+              "english": "to stop",
+              "particle": false,
+              "suffix": "려"
+            },
+            {
+              "korean": "총력전을",
+              "roman": "cong-ryeok-jeon-eul",
+              "english": "full push",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "벌였다",
+              "roman": "beol-yeot-da",
+              "english": "made",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Polls strongly favored Democrats in the House and gave them a real Senate chance.",
+          "korean": "여론조사는 하원에서 민주당을 앞세웠고 상원 가능성도 보였다.",
+          "glossary": [
+            {
+              "korean": "여론조사는",
+              "roman": "yeo-ron-jo-sa-neun",
+              "english": "polls",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "하원에서",
+              "roman": "ha-won-e-seo",
+              "english": "in the House",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "민주당을",
+              "roman": "min-ju-dang-eul",
+              "english": "Democrats",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "앞세웠고",
+              "roman": "ap-se-wot-go",
+              "english": "favored",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "상원",
+              "roman": "sang-won",
+              "english": "Senate",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "가능성도",
+              "roman": "ga-neung-seong-do",
+              "english": "chance too",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "보였다",
+              "roman": "bo-yeot-da",
+              "english": "showed",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Trump rallied in Iowa and Kansas and attacked Democrats as extreme.",
+          "korean": "트럼프는 아이오와와 캔자스에서 유세하며 민주당을 극단적이라고 공격했다.",
+          "glossary": [
+            {
+              "korean": "트럼프는",
+              "roman": "Teu-reom-peu-neun",
+              "english": "Trump",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "아이오와와",
+              "roman": "A-i-o-wa-wa",
+              "english": "Iowa and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "캔자스에서",
+              "roman": "Kaen-ja-seu-e-seo",
+              "english": "in Kansas",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "유세하며",
+              "roman": "yu-se-ha-myeo",
+              "english": "campaigning",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "민주당을",
+              "roman": "min-ju-dang-eul",
+              "english": "Democrats",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "극단적이라고",
+              "roman": "geuk-dan-jeog-i-ra-go",
+              "english": "as extreme",
+              "particle": false,
+              "suffix": "이라고"
+            },
+            {
+              "korean": "공격했다",
+              "roman": "gong-gyeok-haet-da",
+              "english": "attacked",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/trumps-republicans-scramble-to-stop-democratic-midterms-wave/article71655246.ece",
+      "short_english": "Republicans made a final push on November 1 to stop Democrats winning Congress.",
+      "short_korean": "공화당은 11월 1일 민주당의 의회 승리를 막으려 총력전을 벌였다.",
+      "date": "2026-11-02",
+      "images": [
+        "images/global/6922370682e4/1.jpg",
+        "images/global/6922370682e4/2.jpg",
+        "images/global/6922370682e4/3.jpg",
+        "images/global/6922370682e4/4.jpg",
+        "images/global/6922370682e4/5.jpg",
+        "images/global/6922370682e4/6.jpg",
+        "images/global/6922370682e4/7.jpg",
+        "images/global/6922370682e4/8.jpg",
+        "images/global/6922370682e4/9.jpg",
+        "images/global/6922370682e4/10.jpg",
+        "images/global/6922370682e4/11.jpg",
+        "images/global/6922370682e4/12.jpg",
+        "images/global/6922370682e4/13.jpg",
+        "images/global/6922370682e4/14.jpg",
+        "images/global/6922370682e4/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/6922370682e4/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "쿠바 금수 해제 지지, 유엔 표 급감",
+      "english_title": "UN Support for Ending Cuba Embargo Falls Sharply",
+      "korean_desc": "유엔총회는 10월 30일 미국의 쿠바 금수 종료를 표결했다. 결의안은 찬성 130표, 반대 17표, 기권 25표로 통과됐다. 인도는 금수 종료를 지지하고 대화와 외교를 촉구했다.",
+      "english_desc": "The UN General Assembly voted on October 30 to end the US embargo on Cuba. The resolution passed with 130 votes for, 17 against and 25 abstentions. India supported ending the embargo and urged dialogue and diplomacy.",
+      "hook": "UN support for ending Cuba’s embargo fell to 130 votes.",
+      "sticker": "A changing UN vote",
+      "korean_hook": "쿠바 금수 해제 지지가 130표로 줄었다.",
+      "takeaway_english": "The resolution still passed, but the shrinking margin signals a more divided diplomatic fight.",
+      "takeaway_korean": "결의안은 통과됐지만 줄어든 표 차이가 외교 갈등을 보여준다.",
+      "why_it_matters": [
+        {
+          "english": "The vote shows changing diplomatic positions toward Cuba.",
+          "korean": "투표는 쿠바에 대한 외교 입장 변화를 보여준다."
+        },
+        {
+          "english": "The embargo debate includes humanitarian concerns for Cuban people.",
+          "korean": "금수 논쟁에는 쿠바 국민의 인도적 문제가 포함된다."
+        },
+        {
+          "english": "India’s vote matters to debates about smaller countries’ sovereignty.",
+          "korean": "인도의 투표는 작은 나라의 주권 논쟁에 중요하다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Cuba",
+          "english": "It continues to seek an end to the United States economic embargo.",
+          "korean": "쿠바는 미국 경제 금수 해제를 계속 요구한다."
+        },
+        {
+          "label": "United States",
+          "english": "It opposed the resolution and argued that Cuba’s Russia ties mattered.",
+          "korean": "미국은 결의안에 반대하며 쿠바와 러시아 관계를 문제 삼았다."
+        },
+        {
+          "label": "India",
+          "english": "It voted against the embargo and called for dialogue and diplomacy.",
+          "korean": "인도는 금수에 반대하고 대화와 외교를 촉구했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Cuba and supporters",
+          "english": "They say the embargo harms Cuba’s people and violates the sovereignty of smaller states.",
+          "korean": "쿠바와 지지국은 금수가 국민을 해치고 주권을 침해한다고 말한다."
+        },
+        {
+          "label": "United States and some allies",
+          "english": "They link Cuba’s international relationships to security concerns, especially Russia’s war in Ukraine.",
+          "korean": "미국과 일부 동맹국은 쿠바의 국제관계를 안보 문제와 연결한다."
+        }
+      ],
+      "disagree": {
+        "english": "Critics may say the non-binding vote reflects political pressure more than a change in the embargo’s effects.",
+        "korean": "비판자들은 이번 비구속 투표가 금수 효과보다 정치 압력을 반영한다고 말할 수 있다."
+      },
+      "reader_question_korean": "국가들은 쿠바에 경제 압력을 써야 할까?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"Support fell sharply from more than 180 countries \" may be missing more than"
+      ],
+      "source_title": "Dwindling support: On the U.S. and the Cuban embargo",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "The vote took place on October 30, 2026.",
+        "The result was 130 in favor, 17 against and 25 abstentions.",
+        "The resolution is not legally binding."
+      ],
+      "reader_question": "Should countries use economic pressure against Cuba?",
+      "topic_tag": "Diplomacy",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Dwindling support: On the U.S. and the Cuban embargo",
+          "date": "2026-11-02",
+          "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "유엔총회는",
+          "roman": "Yu-en-cong-hoe-neun",
+          "english": "UN General Assembly",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "10월",
+          "roman": "si-wol",
+          "english": "October",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "30일",
+          "roman": "sam-sip-il",
+          "english": "30th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "미국의",
+          "roman": "Mi-gug-ui",
+          "english": "US",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "쿠바",
+          "roman": "Ku-ba",
+          "english": "Cuba",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "금수",
+          "roman": "geum-su",
+          "english": "embargo",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "종료를",
+          "roman": "jong-ryo-reul",
+          "english": "ending",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "표결했다",
+          "roman": "pyo-gyeol-haet-da",
+          "english": "voted",
           "particle": false,
           "suffix": "했다"
         }
@@ -1092,834 +1982,210 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "Trump said on October 31, 2026, that one or two Iranian targets remained.",
-          "korean": "트럼프는 2026년 10월 31일 표적 한두 곳을 말했다",
+          "english": "The UN General Assembly voted on October 30 to end the US embargo on Cuba.",
+          "korean": "유엔총회는 10월 30일 미국의 쿠바 금수 종료를 표결했다.",
           "glossary": [
             {
-              "korean": "트럼프는",
-              "roman": "teureompeu-neun",
-              "english": "Trump",
+              "korean": "유엔총회는",
+              "roman": "Yu-en-cong-hoe-neun",
+              "english": "UN General Assembly",
               "particle": false,
               "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
             },
             {
               "korean": "10월",
-              "roman": "sip-wol",
+              "roman": "si-wol",
               "english": "October",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
-              "korean": "31일",
-              "roman": "sam-sip-il-il",
-              "english": "31st",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "표적",
-              "roman": "pyojeok",
-              "english": "targets",
+              "korean": "30일",
+              "roman": "sam-sip-il",
+              "english": "30th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "한두",
-              "roman": "handu",
-              "english": "one or two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "곳을",
-              "roman": "got-eul",
-              "english": "places",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "He named Pickaxe Mountain, while Iran denies nuclear work occurs there.",
-          "korean": "그는 픽액스 산을 말했고 이란은 부인했다",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "픽액스",
-              "roman": "pigaekseu",
-              "english": "Pickaxe",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "산을",
-              "roman": "san-eul",
-              "english": "mountain",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "말했고",
-              "roman": "mal-haet-go",
-              "english": "mentioned",
-              "particle": false,
-              "suffix": "했고"
-            },
-            {
-              "korean": "이란은",
-              "roman": "iran-eun",
-              "english": "Iran",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "부인했다",
-              "roman": "bu-in-haet-da",
-              "english": "denied",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On October 31, Iran threatened an immediate response without geographic limits.",
-          "korean": "10월 31일 이란은 즉각 대응을 경고했다",
-          "glossary": [
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "31일",
-              "roman": "sam-sip-il-il",
-              "english": "31st",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "이란은",
-              "roman": "iran-eun",
-              "english": "Iran",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "즉각",
-              "roman": "jeukgak",
-              "english": "immediate",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대응을",
-              "roman": "dae-eung-eul",
-              "english": "response",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "경고했다",
-              "roman": "gyeong-go-haet-da",
-              "english": "threatened",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Qatar and Pakistan are mediating, but talks have not produced a lasting agreement.",
-          "korean": "카타르와 파키스탄이 중재하지만 합의는 없다",
-          "glossary": [
-            {
-              "korean": "카타르와",
-              "roman": "katareu-wa",
-              "english": "Qatar and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "파키스탄이",
-              "roman": "pakiseutan-i",
-              "english": "Pakistan",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "중재하지만",
-              "roman": "jungjae-hajiman",
-              "english": "mediate but",
-              "particle": false,
-              "suffix": "하지만"
-            },
-            {
-              "korean": "합의는",
-              "roman": "hab-ui-neun",
-              "english": "agreement",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "없다",
-              "roman": "eopda",
-              "english": "does not exist",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece",
-      "short_english": "Trump said on October 31, 2026, that one or two Iranian targets remained.",
-      "short_korean": "트럼프는 2026년 10월 31일 표적 한두 곳을 말했다",
-      "date": "2026-11-01",
-      "images": [
-        "images/global/1460849b2fb4/1.jpg",
-        "images/global/1460849b2fb4/2.jpg",
-        "images/global/1460849b2fb4/3.jpg",
-        "images/global/1460849b2fb4/4.jpg",
-        "images/global/1460849b2fb4/5.jpg",
-        "images/global/1460849b2fb4/6.jpg",
-        "images/global/1460849b2fb4/7.jpg",
-        "images/global/1460849b2fb4/8.jpg",
-        "images/global/1460849b2fb4/9.jpg",
-        "images/global/1460849b2fb4/10.jpg",
-        "images/global/1460849b2fb4/11.jpg",
-        "images/global/1460849b2fb4/12.jpg",
-        "images/global/1460849b2fb4/13.jpg",
-        "images/global/1460849b2fb4/14.jpg",
-        "images/global/1460849b2fb4/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/1460849b2fb4/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "교황 레오, 미국 중간선거에 투표",
-      "english_title": "Pope Leo Votes in America While Leading Vatican City",
-      "korean_desc": "바티칸은 그가 미국 시민으로 투표한다고 말했다 그의 시민권과 바티칸시국 주권은 다르다 바티칸은 레오가 페루에서도 투표했다고 말했다",
-      "english_desc": "The Vatican says he votes whenever he is eligible as a United States citizen. His citizenship remains separate from his sovereignty over Vatican City. The Vatican also said Leo voted while eligible during his earlier residence in Peru.",
-      "hook": "Pope Leo voted by mail in Chicago.",
-      "sticker": "A pope casts a ballot",
-      "korean_hook": "교황 레오는 시카고에서 우편투표했다",
-      "takeaway_english": "Leo’s vote is unusual, but the Vatican presents it as ordinary civic participation.",
-      "takeaway_korean": "레오의 투표는 이례적이지만 바티칸은 시민 참여라고 설명한다",
-      "why_it_matters": [
-        {
-          "english": "The case separates citizenship rights from leadership of a sovereign state.",
-          "korean": "사례는 시민권과 국가 지도자의 역할을 구분하게 한다"
-        },
-        {
-          "english": "It shows how voting rights can continue after a major public appointment.",
-          "korean": "큰 공직 뒤에도 투표권이 계속될 수 있음을 보여준다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Pope Leo XIV",
-          "english": "He remains a U.S. citizen and has voted whenever eligible.",
-          "korean": "그는 미국 시민이며 자격이 있을 때 투표했다"
-        },
-        {
-          "label": "The Vatican",
-          "english": "The Holy See confirmed his mail-in ballot as civic participation.",
-          "korean": "교황청은 그의 우편투표를 시민 참여로 확인했다"
-        },
-        {
-          "label": "U.S. voters",
-          "english": "They are choosing Congress in the November 3 midterm elections.",
-          "korean": "미국 유권자들은 11월 3일 의회를 뽑는다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Vatican",
-          "english": "The Vatican says citizenship and civic participation allow Leo to vote.",
-          "korean": "바티칸은 시민권과 참여가 투표를 허용한다고 말한다"
-        },
-        {
-          "label": "Political observers",
-          "english": "Observers may see the vote as unusual because the pope leads another sovereign state.",
-          "korean": "관찰자들은 다른 국가 지도자의 투표를 이례적으로 볼 수 있다"
-        }
-      ],
-      "disagree": {
-        "english": "Some people may question whether a pope’s political participation fits his international religious role.",
-        "korean": "일부는 교황의 정치 참여가 종교 역할과 맞는지 묻는다"
-      },
-      "reader_question_korean": "종교 지도자도 선거에 투표해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "translation check: \"His citizenship remains separate from his sovereig\" may be missing cities"
-      ],
-      "source_title": "How can Pope Leo vote in U.S. elections while serving as the sovereign of Vatican City? | Explained",
-      "hook_format": "headline",
-      "body_format": "map_place",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "places": [
-          {
-            "label": "Chicago",
-            "english": "Leo submitted his U.S. mail-in ballot there.",
-            "korean": "레오는 그곳에서 미국 우편투표를 보냈다"
-          },
-          {
-            "label": "Vatican City",
-            "english": "Leo is the sovereign of Vatican City while serving as pope.",
-            "korean": "레오는 교황으로 바티칸시국의 주권자다"
-          },
-          {
-            "label": "Peru",
-            "english": "The Vatican said he voted when eligible during earlier residence there.",
-            "korean": "바티칸은 그가 페루에서도 투표했다고 말했다"
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Update: October 30, 2026",
-        "The U.S. midterms are scheduled for November 3."
-      ],
-      "reader_question": "Should religious leaders vote in elections?",
-      "topic_tag": "Voting",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "How can Pope Leo vote in U.S. elections while serving as the sovereign of Vatican City? | Explained",
-          "date": "2026-11-01",
-          "url": "https://www.thehindu.com/news/international/how-can-pope-leo-vote-in-us-elections-while-serving-as-the-sovereign-of-vatican-city-explained/article71648983.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "바티칸은",
-          "roman": "batikan-eun",
-          "english": "Vatican",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "그가",
-          "roman": "geu-ga",
-          "english": "he",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "미국",
-          "roman": "miguk",
-          "english": "United States",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "시민으로",
-          "roman": "simin-euro",
-          "english": "as citizen",
-          "particle": false,
-          "suffix": "으로"
-        },
-        {
-          "korean": "투표한다고",
-          "roman": "tupyo-handago",
-          "english": "votes",
-          "particle": false,
-          "suffix": "한다고"
-        },
-        {
-          "korean": "말했다",
-          "roman": "mal-haet-da",
-          "english": "said",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "why",
-          "english": "The Vatican says he votes whenever he is eligible as a United States citizen.",
-          "korean": "바티칸은 그가 미국 시민으로 투표한다고 말했다",
-          "glossary": [
-            {
-              "korean": "바티칸은",
-              "roman": "batikan-eun",
-              "english": "Vatican",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그가",
-              "roman": "geu-ga",
-              "english": "he",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "United States",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시민으로",
-              "roman": "simin-euro",
-              "english": "as citizen",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "투표한다고",
-              "roman": "tupyo-handago",
-              "english": "votes",
-              "particle": false,
-              "suffix": "한다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "His citizenship remains separate from his sovereignty over Vatican City.",
-          "korean": "그의 시민권과 바티칸시국 주권은 다르다",
-          "glossary": [
-            {
-              "korean": "그의",
-              "roman": "geu-ui",
-              "english": "his",
+              "korean": "미국의",
+              "roman": "Mi-gug-ui",
+              "english": "US",
               "particle": false,
               "suffix": "의"
             },
             {
-              "korean": "시민권과",
-              "roman": "simingwon-gwa",
-              "english": "citizenship and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "바티칸시국",
-              "roman": "batikan-siguk",
-              "english": "Vatican City",
+              "korean": "쿠바",
+              "roman": "Ku-ba",
+              "english": "Cuba",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "주권은",
-              "roman": "jugwon-eun",
-              "english": "sovereignty",
+              "korean": "금수",
+              "roman": "geum-su",
+              "english": "embargo",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "종료를",
+              "roman": "jong-ryo-reul",
+              "english": "ending",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "표결했다",
+              "roman": "pyo-gyeol-haet-da",
+              "english": "voted",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The resolution passed with 130 votes for, 17 against and 25 abstentions.",
+          "korean": "결의안은 찬성 130표, 반대 17표, 기권 25표로 통과됐다.",
+          "glossary": [
+            {
+              "korean": "결의안은",
+              "roman": "gyeol-ui-an-eun",
+              "english": "resolution",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "다르다",
-              "roman": "dareuda",
-              "english": "are different",
+              "korean": "찬성",
+              "roman": "can-seong",
+              "english": "for",
               "particle": false,
-              "suffix": "다"
+              "suffix": ""
+            },
+            {
+              "korean": "130표",
+              "roman": "baek-sam-sip-pyo",
+              "english": "130 votes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "반대",
+              "roman": "ban-dae",
+              "english": "against",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "17표",
+              "roman": "sip-chil-pyo",
+              "english": "17 votes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기권",
+              "roman": "gi-gwon",
+              "english": "abstentions",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "25표로",
+              "roman": "i-sip-o-pyo-ro",
+              "english": "with 25 votes",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "통과됐다",
+              "roman": "tong-gwa-dwaet-da",
+              "english": "passed",
+              "particle": false,
+              "suffix": "됐다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The Vatican also said Leo voted while eligible during his earlier residence in Peru.",
-          "korean": "바티칸은 레오가 페루에서도 투표했다고 말했다",
+          "english": "India supported ending the embargo and urged dialogue and diplomacy.",
+          "korean": "인도는 금수 종료를 지지하고 대화와 외교를 촉구했다.",
           "glossary": [
             {
-              "korean": "바티칸은",
-              "roman": "batikan-eun",
-              "english": "Vatican",
+              "korean": "인도는",
+              "roman": "In-do-neun",
+              "english": "India",
               "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
-              "korean": "레오가",
-              "roman": "reo-ga",
-              "english": "Leo",
+              "korean": "금수",
+              "roman": "geum-su",
+              "english": "embargo",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
             },
             {
-              "korean": "페루에서도",
-              "roman": "peru-eseodo",
-              "english": "also in Peru",
+              "korean": "종료를",
+              "roman": "jong-ryo-reul",
+              "english": "ending",
               "particle": false,
-              "suffix": "에서도"
+              "suffix": "를"
             },
             {
-              "korean": "투표했다고",
-              "roman": "tupyo-haetdago",
-              "english": "voted",
+              "korean": "지지하고",
+              "roman": "ji-ji-ha-go",
+              "english": "supported and",
               "particle": false,
-              "suffix": "다고"
+              "suffix": "고"
             },
             {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
+              "korean": "대화와",
+              "roman": "dae-hwa-wa",
+              "english": "dialogue and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "외교를",
+              "roman": "oe-gyo-reul",
+              "english": "diplomacy",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "촉구했다",
+              "roman": "cok-gu-haet-da",
+              "english": "urged",
               "particle": false,
               "suffix": "했다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/how-can-pope-leo-vote-in-us-elections-while-serving-as-the-sovereign-of-vatican-city-explained/article71648983.ece",
-      "short_english": "The Vatican says he votes whenever he is eligible as a United States citizen.",
-      "short_korean": "바티칸은 그가 미국 시민으로 투표한다고 말했다",
-      "date": "2026-11-01",
+      "url": "https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece",
+      "short_english": "The UN General Assembly voted on October 30 to end the US embargo on Cuba.",
+      "short_korean": "유엔총회는 10월 30일 미국의 쿠바 금수 종료를 표결했다.",
+      "date": "2026-11-02",
       "images": [
-        "images/global/7b490d630e35/1.jpg",
-        "images/global/7b490d630e35/2.jpg",
-        "images/global/7b490d630e35/3.jpg",
-        "images/global/7b490d630e35/4.jpg",
-        "images/global/7b490d630e35/5.jpg",
-        "images/global/7b490d630e35/6.jpg",
-        "images/global/7b490d630e35/7.jpg",
-        "images/global/7b490d630e35/8.jpg",
-        "images/global/7b490d630e35/9.jpg",
-        "images/global/7b490d630e35/10.jpg",
-        "images/global/7b490d630e35/11.jpg",
-        "images/global/7b490d630e35/12.jpg",
-        "images/global/7b490d630e35/13.jpg",
-        "images/global/7b490d630e35/14.jpg"
+        "images/global/73b04d67ffd4/1.jpg",
+        "images/global/73b04d67ffd4/2.jpg",
+        "images/global/73b04d67ffd4/3.jpg",
+        "images/global/73b04d67ffd4/4.jpg",
+        "images/global/73b04d67ffd4/5.jpg",
+        "images/global/73b04d67ffd4/6.jpg",
+        "images/global/73b04d67ffd4/7.jpg",
+        "images/global/73b04d67ffd4/8.jpg",
+        "images/global/73b04d67ffd4/9.jpg",
+        "images/global/73b04d67ffd4/10.jpg",
+        "images/global/73b04d67ffd4/11.jpg",
+        "images/global/73b04d67ffd4/12.jpg",
+        "images/global/73b04d67ffd4/13.jpg",
+        "images/global/73b04d67ffd4/14.jpg",
+        "images/global/73b04d67ffd4/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/7b490d630e35/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "이스라엘 아랍 정당, 의석 급증",
-      "english_title": "Arab Parties Surge and Could Shape Israel’s Next Government",
-      "korean_desc": "투표율은 77.7퍼센트로 1999년 이후 최고였다 공동명부는 11석, 라암은 8석을 얻었다 아랍 진영은 연정에 영향력을 줄 수 있다",
-      "english_desc": "Turnout reached 77.7 percent, the highest since 1999, according to exit-poll reporting. The Joint List won 11 seats, while Ra’am won eight. The Arab bloc could influence coalition talks, but no side has welcomed it into government.",
-      "hook": "Arab parties won 19 of 120 seats.",
-      "sticker": "A surprise bloc",
-      "korean_hook": "아랍 정당은 120석 중 19석을 얻었다",
-      "takeaway_english": "The surge gives Arab parties more seats, but seats alone do not guarantee power.",
-      "takeaway_korean": "의석은 늘었지만 의석만으로 권력이 보장되지는 않는다",
-      "why_it_matters": [
-        {
-          "english": "Coalition talks may determine whether Arab voters gain influence over policy.",
-          "korean": "연정 협상은 아랍 유권자의 정책 영향력을 결정할 수 있다"
-        },
-        {
-          "english": "Crime and public safety were important issues for Arab voters.",
-          "korean": "범죄와 치안은 아랍 유권자에게 중요한 문제였다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Joint List",
-          "english": "It won 11 seats and supports ending occupation and creating a Palestinian state.",
-          "korean": "공동명부는 11석과 팔레스타인 국가를 지지한다"
-        },
-        {
-          "label": "Ra’am",
-          "english": "It won eight seats and emphasizes practical resources for Arab towns.",
-          "korean": "라암은 8석과 아랍 도시 지원을 중시한다"
-        },
-        {
-          "label": "Netanyahu bloc",
-          "english": "The bloc won 53 seats but lacks a parliamentary majority.",
-          "korean": "네타냐후 진영은 53석으로 과반이 없다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Arab-party supporters",
-          "english": "High turnout shows Arab citizens want meaningful political representation.",
-          "korean": "높은 투표율은 아랍 시민의 대표성 요구를 보여준다"
-        },
-        {
-          "label": "Arab-party opponents",
-          "english": "Many Jewish parties oppose relying on Arab lawmakers to form a government.",
-          "korean": "많은 유대 정당은 아랍 의원 의존을 반대한다"
-        }
-      ],
-      "disagree": {
-        "english": "The parties may hold leverage, but neither side has shown willingness to form a government with them.",
-        "korean": "정당들은 영향력이 있지만 함께 정부를 만들지는 않을 수 있다"
-      },
-      "reader_question_korean": "아랍 정당은 연정에 참여해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "translation check: \"The Arab bloc could influence coalition talks, but\" may be missing not, government"
-      ],
-      "source_title": "Ra’am and Joint List | The surge of the other",
-      "hook_format": "headline",
-      "body_format": "two_views",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "Arab parties",
-            "english": "The Joint List and Ra’am say representation and practical change matter.",
-            "korean": "아랍 정당들은 대표성과 실질적 변화를 중시한다"
-          },
-          {
-            "label": "Netanyahu’s bloc",
-            "english": "Netanyahu’s camp says Arab parties should stay outside government.",
-            "korean": "네타냐후 진영은 아랍 정당을 배제하려 한다"
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Election date: October 27, 2026",
-        "The Knesset has 120 seats."
-      ],
-      "reader_question": "Should Arab parties join a coalition to gain practical power?",
-      "topic_tag": "Election",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Ra’am and Joint List | The surge of the other",
-          "date": "2026-11-01",
-          "url": "https://www.thehindu.com/news/international/raam-and-joint-list-the-surge-of-the-other/article71650610.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "투표율은",
-          "roman": "tupyo-yul-eun",
-          "english": "turnout",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "77.7퍼센트로",
-          "roman": "chilchil-jeom-chil-peosenteuro",
-          "english": "77.7 percent",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "1999년",
-          "roman": "cheongubaekgusipgu-nyeon",
-          "english": "1999",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "이후",
-          "roman": "ihu",
-          "english": "since",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "최고였다",
-          "roman": "choego-yeot-da",
-          "english": "was highest",
-          "particle": false,
-          "suffix": "였다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "why",
-          "english": "Turnout reached 77.7 percent, the highest since 1999, according to exit-poll reporting.",
-          "korean": "투표율은 77.7퍼센트로 1999년 이후 최고였다",
-          "glossary": [
-            {
-              "korean": "투표율은",
-              "roman": "tupyo-yul-eun",
-              "english": "turnout",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "77.7퍼센트로",
-              "roman": "chilchil-jeom-chil-peosenteuro",
-              "english": "77.7 percent",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "1999년",
-              "roman": "cheongubaekgusipgu-nyeon",
-              "english": "1999",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "이후",
-              "roman": "ihu",
-              "english": "since",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "최고였다",
-              "roman": "choego-yeot-da",
-              "english": "was highest",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The Joint List won 11 seats, while Ra’am won eight.",
-          "korean": "공동명부는 11석, 라암은 8석을 얻었다",
-          "glossary": [
-            {
-              "korean": "공동명부는",
-              "roman": "gongdong-myeongbu-neun",
-              "english": "Joint List",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "11석",
-              "roman": "sibil-seok",
-              "english": "11 seats",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "라암은",
-              "roman": "raam-eun",
-              "english": "Ra’am",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "8석을",
-              "roman": "pal-seog-eul",
-              "english": "8 seats",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "얻었다",
-              "roman": "eot-eot-da",
-              "english": "won",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The Arab bloc could influence coalition talks, but no side has welcomed it into government.",
-          "korean": "아랍 진영은 연정에 영향력을 줄 수 있다",
-          "glossary": [
-            {
-              "korean": "아랍",
-              "roman": "arab",
-              "english": "Arab",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "진영은",
-              "roman": "jinyeong-eun",
-              "english": "bloc",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "연정에",
-              "roman": "yeonjeong-e",
-              "english": "in coalition",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "영향력을",
-              "roman": "yeonghyangnyeog-eul",
-              "english": "influence",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "줄",
-              "roman": "jul",
-              "english": "give",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "ability",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있다",
-              "roman": "itda",
-              "english": "can",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/raam-and-joint-list-the-surge-of-the-other/article71650610.ece",
-      "short_english": "Turnout reached 77.7 percent, the highest since 1999, according to exit-poll reporting.",
-      "short_korean": "투표율은 77.7퍼센트로 1999년 이후 최고였다",
-      "date": "2026-11-01",
-      "images": [
-        "images/global/2c0d39d07cbd/1.jpg",
-        "images/global/2c0d39d07cbd/2.jpg",
-        "images/global/2c0d39d07cbd/3.jpg",
-        "images/global/2c0d39d07cbd/4.jpg",
-        "images/global/2c0d39d07cbd/5.jpg",
-        "images/global/2c0d39d07cbd/6.jpg",
-        "images/global/2c0d39d07cbd/7.jpg",
-        "images/global/2c0d39d07cbd/8.jpg",
-        "images/global/2c0d39d07cbd/9.jpg",
-        "images/global/2c0d39d07cbd/10.jpg",
-        "images/global/2c0d39d07cbd/11.jpg",
-        "images/global/2c0d39d07cbd/12.jpg",
-        "images/global/2c0d39d07cbd/13.jpg",
-        "images/global/2c0d39d07cbd/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/2c0d39d07cbd/caption.txt"
+      "caption_file": "images/global/73b04d67ffd4/caption.txt"
     }
   ]
 }
