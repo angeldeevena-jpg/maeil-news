@@ -1,71 +1,70 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-03",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0143",
-  "generated_at": "2026-11-02T07:47:38.009Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0162",
+  "generated_at": "2026-11-03T08:04:45.854Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "사이클론 무라수가 남부 인도로",
-      "english_title": "Cyclone Murasu heads toward Andhra Pradesh",
-      "korean_desc": "사이클론 무라수는 2026년 11월 1일 강해졌습니다. 폭풍은 11월 2일 넬로르에서 160킬로미터 떨어졌습니다. 무라수는 11월 2일 밤 넬로르와 나라사푸르 사이를 지날 수 있습니다.",
-      "english_desc": "Cyclone Murasu intensified over the Bay of Bengal on November 1, 2026. The storm was about 160 kilometers from Nellore on November 2. It may cross between Nellore and Narsapur late November 2 or early November 3.",
-      "hook": "Cyclone Murasu is heading toward Andhra Pradesh.",
-      "sticker": "Storm warning",
-      "korean_hook": "무라수가 안드라프라데시로 갑니다",
-      "takeaway_english": "Officials are watching the landfall window while residents prepare for heavy rain and strong winds.",
-      "takeaway_korean": "당국은 상륙 시간을 지켜보며 주민들은 폭우와 강풍에 대비합니다.",
+      "korean_title": "디아 미르자 디왈리 영상 철거 논란",
+      "english_title": "BJP objected, and Mumbai removed Dia Mirza’s Diwali video",
+      "korean_desc": "영상은 폭죽과 소음과 대기오염을 피하자고 했다. BJP 지도자 아밋 사탐은 디왈리 전통에 조언이 필요 없다고 반대했다. 디아 미르자와 야당 지도자들은 철거가 정치적으로 분열적이라고 말했다.",
+      "english_desc": "The clip asked people to avoid firecrackers, noise, and air pollution. BJP leader Ameet Satam objected, saying Diwali traditions needed no lessons. Dia Mirza and opposition leaders called the removal politically divisive.",
+      "hook": "BJP objected, and Mumbai removed Dia Mirza’s video.",
+      "sticker": "Who gets the microphone?",
+      "korean_hook": "BJP 반발 뒤 영상이 사라졌다",
+      "takeaway_english": "The dispute now concerns both pollution advice and who may deliver it.",
+      "takeaway_korean": "논쟁은 이제 오염 조언과 전달자 모두를 둘러싼다.",
       "why_it_matters": [
         {
-          "english": "Storm warnings can affect schools, flights, fishing, travel, and emergency services.",
-          "korean": "폭풍 경보는 학교, 항공, 어업과 여행에 영향을 줍니다."
+          "english": "Mumbai residents saw a pollution campaign become a dispute over political identity.",
+          "korean": "뭄바이 시민들은 오염 캠페인이 정치 정체성 논쟁이 되는 것을 봤다."
         },
         {
-          "english": "Evacuation timing can reduce danger in low-lying and vulnerable areas.",
-          "korean": "빠른 대피는 위험 지역의 피해를 줄일 수 있습니다."
+          "english": "The decision raises questions about how civic offices choose public voices.",
+          "korean": "이번 결정은 공공기관의 발언자 선택을 묻게 한다."
         }
       ],
       "parties": [
         {
-          "label": "Odisha government",
-          "english": "It is speeding up evacuations from vulnerable areas.",
-          "korean": "오디샤 정부는 대피를 서두릅니다."
+          "label": "BMC",
+          "english": "It removed Dia Mirza’s video but kept other campaign videos online.",
+          "korean": "BMC는 디아의 영상만 내리고 다른 영상은 남겼다."
         },
         {
-          "label": "Andhra Pradesh",
-          "english": "The coast is expected to receive the storm.",
-          "korean": "안드라프라데시 해안이 폭풍을 맞습니다."
+          "label": "BJP",
+          "english": "It objected to Mirza’s participation, citing her earlier political positions.",
+          "korean": "BJP는 디아의 과거 정치 입장을 이유로 반대했다."
         },
         {
-          "label": "Passengers",
-          "english": "Cancelled flights are disrupting travel through Chennai and Vijayawada.",
-          "korean": "취소된 항공편이 여행객을 불편하게 합니다."
+          "label": "Dia Mirza",
+          "english": "She said reducing air pollution serves the public interest.",
+          "korean": "디아는 대기오염 감소가 공익이라고 말했다."
         }
       ],
       "views": [
         {
-          "label": "India Meteorological Department",
-          "english": "The storm may cross between Nellore and Narsapur from late November 2 to early November 3.",
-          "korean": "기상청은 11월 2일 밤부터 3일 새벽을 예상합니다."
+          "label": "BJP leaders",
+          "english": "The problem was the celebrity chosen, not the pollution message itself.",
+          "korean": "문제는 오염 메시지가 아니라 선택된 유명인이라고 했다."
         },
         {
-          "label": "AP disaster officials",
-          "english": "Official alerts and preparedness measures show a focus on reducing risk before landfall.",
-          "korean": "재난 당국은 상륙 전 위험을 줄이려 합니다."
+          "label": "Opposition leaders",
+          "english": "Removing one video looked like communal and divisive politics.",
+          "korean": "영상 하나를 내린 것은 분열 정치처럼 보였다고 했다."
         }
       ],
       "disagree": {
-        "english": "Forecast paths and rainfall can change, so the final impact remains uncertain.",
-        "korean": "진로와 강우량은 바뀔 수 있어 영향은 아직 불확실합니다."
+        "english": "Critics may say a public campaign should judge the message, while supporters may prioritize political neutrality.",
+        "korean": "비판자들은 메시지를 봐야 한다고 하고, 지지자들은 정치적 중립을 중시할 수 있다."
       },
-      "reader_question_korean": "큰 폭풍 전에 도시는 어떻게 준비해야 할까요?",
+      "reader_question_korean": "공공 캠페인은 메시지와 정치 이미지 중 무엇을 봐야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 3"
+        "fewer than 2 outlets"
       ],
-      "source_title": "Cyclone Murasu LIVE updates: Odisha expedites evacuation from vulnerable areas as storm intensifies",
+      "source_title": "BJP forces BMC to pull down Dia Mirza’s video on eco-friendly Deepavali",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -75,339 +74,352 @@
       "format_data": {
         "views": [
           {
-            "label": "Forecast officials",
-            "english": "Murasu may cross the coast with winds reaching 120 kmph.",
-            "korean": "무라수는 시속 120킬로미터 바람을 낼 수 있습니다."
+            "label": "BJP leaders",
+            "english": "They said the city should not use Dia Mirza for a Diwali message.",
+            "korean": "BJP는 디아 미르자를 쓰면 안 된다고 했다."
           },
           {
-            "label": "Emergency officials",
-            "english": "Authorities are evacuating vulnerable people and placing response teams nearby.",
-            "korean": "당국은 위험 지역 주민을 대피시키고 있습니다."
+            "label": "Opposition and Dia Mirza",
+            "english": "They said the video addressed public health and pollution, not religion.",
+            "korean": "야당과 디아는 영상이 종교가 아닌 건강과 오염을 다룬다고 했다."
           }
         ]
       },
-      "serious": true,
+      "serious": false,
       "caption_lines": [
-        "Update: November 2, 2026",
-        "Expected landfall: early November 3",
-        "Emergency numbers include 112 and 1070"
+        "The video was removed on November 1, 2026.",
+        "Mayor Ritu Tawde said future celebrity campaigns should seek her clearance."
       ],
-      "reader_question": "How should cities prepare before a major storm arrives?",
-      "topic_tag": "Cyclone",
+      "reader_question": "Should public campaigns choose speakers by message or political image?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Cyclone Murasu LIVE updates: Odisha expedites evacuation from vulnerable areas as storm intensifies",
-          "date": "2026-11-02",
-          "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece"
+          "title": "BJP forces BMC to pull down Dia Mirza’s video on eco-friendly Deepavali",
+          "date": "2026-11-03",
+          "url": "https://www.thehindu.com/news/national/maharashtra/bmc-takes-down-actor-dia-mirzas-pollution-free-diwali-video-after-bjp-leaders-objection/article71655835.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "사이클론",
-          "roman": "sa-i-keul-lon",
-          "english": "cyclone",
+          "korean": "영상은",
+          "roman": "yeongsang-eun",
+          "english": "the video",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "폭죽과",
+          "roman": "pokjuk-gwa",
+          "english": "firecrackers and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "소음과",
+          "roman": "so-eum-gwa",
+          "english": "noise and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "대기오염을",
+          "roman": "daegi-oyeom-eul",
+          "english": "air pollution",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "피하자고",
+          "roman": "pihajago",
+          "english": "to avoid",
+          "particle": false,
+          "suffix": "자고"
+        },
+        {
+          "korean": "했다",
+          "roman": "haetda",
+          "english": "said",
           "particle": false,
           "suffix": ""
-        },
-        {
-          "korean": "무라수는",
-          "roman": "mu-ra-su-neun",
-          "english": "Murasu",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sib-il-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "1일",
-          "roman": "il-il",
-          "english": "first day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "강해졌습니다",
-          "roman": "gang-hae-jyeot-seum-ni-da",
-          "english": "intensified",
-          "particle": false,
-          "suffix": "습니다"
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "Cyclone Murasu intensified over the Bay of Bengal on November 1, 2026.",
-          "korean": "사이클론 무라수는 2026년 11월 1일 강해졌습니다.",
+          "stage": "why",
+          "english": "The clip asked people to avoid firecrackers, noise, and air pollution.",
+          "korean": "영상은 폭죽과 소음과 대기오염을 피하자고 했다.",
           "glossary": [
             {
-              "korean": "사이클론",
-              "roman": "sa-i-keul-lon",
-              "english": "cyclone",
+              "korean": "영상은",
+              "roman": "yeongsang-eun",
+              "english": "the video",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "폭죽과",
+              "roman": "pokjuk-gwa",
+              "english": "firecrackers and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "소음과",
+              "roman": "so-eum-gwa",
+              "english": "noise and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "대기오염을",
+              "roman": "daegi-oyeom-eul",
+              "english": "air pollution",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "피하자고",
+              "roman": "pihajago",
+              "english": "to avoid",
+              "particle": false,
+              "suffix": "자고"
+            },
+            {
+              "korean": "했다",
+              "roman": "haetda",
+              "english": "said",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "무라수는",
-              "roman": "mu-ra-su-neun",
-              "english": "Murasu",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "1일",
-              "roman": "il-il",
-              "english": "first day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "강해졌습니다",
-              "roman": "gang-hae-jyeot-seum-ni-da",
-              "english": "intensified",
-              "particle": false,
-              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The storm was about 160 kilometers from Nellore on November 2.",
-          "korean": "폭풍은 11월 2일 넬로르에서 160킬로미터 떨어졌습니다.",
+          "english": "BJP leader Ameet Satam objected, saying Diwali traditions needed no lessons.",
+          "korean": "BJP 지도자 아밋 사탐은 디왈리 전통에 조언이 필요 없다고 반대했다.",
           "glossary": [
             {
-              "korean": "폭풍은",
-              "roman": "pok-pung-eun",
-              "english": "the storm",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "2일",
-              "roman": "i-il",
-              "english": "second day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "넬로르에서",
-              "roman": "nel-lo-reu-eseo",
-              "english": "from Nellore",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "160킬로미터",
-              "roman": "baek-yuk-sip-kil-lo-mi-teo",
-              "english": "160 kilometers",
+              "korean": "BJP",
+              "roman": "BJP",
+              "english": "BJP",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "떨어졌습니다",
-              "roman": "tteol-eo-jyeot-seum-ni-da",
-              "english": "was away",
+              "korean": "지도자",
+              "roman": "jidoja",
+              "english": "leader",
               "particle": false,
-              "suffix": "습니다"
+              "suffix": ""
+            },
+            {
+              "korean": "아밋",
+              "roman": "Amit",
+              "english": "Ameet",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사탐은",
+              "roman": "Satam-eun",
+              "english": "Satam",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "디왈리",
+              "roman": "Diwali",
+              "english": "Diwali",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전통에",
+              "roman": "jeontong-e",
+              "english": "traditions",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "조언이",
+              "roman": "joeon-i",
+              "english": "advice",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "필요",
+              "roman": "piryo",
+              "english": "need",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "없다고",
+              "roman": "eopdago",
+              "english": "not needed",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "반대했다",
+              "roman": "bandaehaetda",
+              "english": "objected",
+              "particle": false,
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "It may cross between Nellore and Narsapur late November 2 or early November 3.",
-          "korean": "무라수는 11월 2일 밤 넬로르와 나라사푸르 사이를 지날 수 있습니다.",
+          "english": "Dia Mirza and opposition leaders called the removal politically divisive.",
+          "korean": "디아 미르자와 야당 지도자들은 철거가 정치적으로 분열적이라고 말했다.",
           "glossary": [
             {
-              "korean": "무라수는",
-              "roman": "mu-ra-su-neun",
-              "english": "Murasu",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "can",
+              "korean": "디아",
+              "roman": "Dia",
+              "english": "Dia",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "2일",
-              "roman": "i-il",
-              "english": "second day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "밤",
-              "roman": "bam",
-              "english": "night",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "넬로르와",
-              "roman": "nel-lo-reu-wa",
-              "english": "Nellore and",
+              "korean": "미르자와",
+              "roman": "Mirja-wa",
+              "english": "Mirza and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "나라사푸르",
-              "roman": "na-ra-sa-pu-reu",
-              "english": "Narsapur",
+              "korean": "야당",
+              "roman": "yadang",
+              "english": "opposition",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "사이를",
-              "roman": "sa-i-reul",
-              "english": "between",
+              "korean": "지도자들은",
+              "roman": "jidojadeul-eun",
+              "english": "leaders",
               "particle": false,
-              "suffix": "를"
+              "suffix": "은"
             },
             {
-              "korean": "지날",
-              "roman": "ji-nal",
-              "english": "cross",
+              "korean": "철거가",
+              "roman": "cheolgeoga",
+              "english": "removal",
               "particle": false,
-              "suffix": ""
+              "suffix": "가"
             },
             {
-              "korean": "있습니다",
-              "roman": "it-seum-ni-da",
-              "english": "there is possibility",
+              "korean": "정치적으로",
+              "roman": "jeongchijeok-euro",
+              "english": "politically",
               "particle": false,
-              "suffix": "습니다"
+              "suffix": "으로"
+            },
+            {
+              "korean": "분열적이라고",
+              "roman": "bun-yeoljeogirago",
+              "english": "divisive",
+              "particle": false,
+              "suffix": "라고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/national/murasu-cyclone-live-updates-on-november-2-2026-tamil-nadu-telangana-andhra-pradesh-odisha/article71654226.ece",
-      "short_english": "Cyclone Murasu intensified over the Bay of Bengal on November 1, 2026.",
-      "short_korean": "사이클론 무라수는 2026년 11월 1일 강해졌습니다.",
-      "date": "2026-11-02",
+      "url": "https://www.thehindu.com/news/national/maharashtra/bmc-takes-down-actor-dia-mirzas-pollution-free-diwali-video-after-bjp-leaders-objection/article71655835.ece",
+      "short_english": "The clip asked people to avoid firecrackers, noise, and air pollution.",
+      "short_korean": "영상은 폭죽과 소음과 대기오염을 피하자고 했다.",
+      "date": "2026-11-03",
       "images": [
-        "images/indian/1fd8bb30afde/1.jpg",
-        "images/indian/1fd8bb30afde/2.jpg",
-        "images/indian/1fd8bb30afde/3.jpg",
-        "images/indian/1fd8bb30afde/4.jpg",
-        "images/indian/1fd8bb30afde/5.jpg",
-        "images/indian/1fd8bb30afde/6.jpg",
-        "images/indian/1fd8bb30afde/7.jpg",
-        "images/indian/1fd8bb30afde/8.jpg",
-        "images/indian/1fd8bb30afde/9.jpg",
-        "images/indian/1fd8bb30afde/10.jpg",
-        "images/indian/1fd8bb30afde/11.jpg",
-        "images/indian/1fd8bb30afde/12.jpg",
-        "images/indian/1fd8bb30afde/13.jpg",
-        "images/indian/1fd8bb30afde/14.jpg",
-        "images/indian/1fd8bb30afde/15.jpg"
+        "images/indian/bb4dd2951f7b/1.jpg",
+        "images/indian/bb4dd2951f7b/2.jpg",
+        "images/indian/bb4dd2951f7b/3.jpg",
+        "images/indian/bb4dd2951f7b/4.jpg",
+        "images/indian/bb4dd2951f7b/5.jpg",
+        "images/indian/bb4dd2951f7b/6.jpg",
+        "images/indian/bb4dd2951f7b/7.jpg",
+        "images/indian/bb4dd2951f7b/8.jpg",
+        "images/indian/bb4dd2951f7b/9.jpg",
+        "images/indian/bb4dd2951f7b/10.jpg",
+        "images/indian/bb4dd2951f7b/11.jpg",
+        "images/indian/bb4dd2951f7b/12.jpg",
+        "images/indian/bb4dd2951f7b/13.jpg",
+        "images/indian/bb4dd2951f7b/14.jpg",
+        "images/indian/bb4dd2951f7b/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/1fd8bb30afde/caption.txt"
+      "caption_file": "images/indian/bb4dd2951f7b/caption.txt"
     },
     {
       "category": "Business",
-      "korean_title": "인도 제조업 성장세가 둔화",
-      "english_title": "India’s factory growth cools, but remains strong",
-      "korean_desc": "인도 제조업 PMI가 55.1에서 54.7로 떨어졌습니다. 생산과 신규 주문은 늘었지만 속도는 느려졌습니다. 강한 해외 수요가 수출 주문 증가를 6개월 최고로 올렸습니다. 10월 수치는 50을 넘어 계속 성장했습니다.",
-      "english_desc": "India’s manufacturing PMI fell from 55.1 in September to 54.7 in October. Output and new orders still rose, but both increased more slowly. Strong overseas demand lifted export-order growth to a six-month high. The October reading stayed above 50, showing continued expansion.",
-      "hook": "India’s factory growth eased to 54.7.",
-      "sticker": "Factories still growing",
-      "korean_hook": "인도 공장 성장이 54.7로 둔화됐습니다",
-      "takeaway_english": "India’s factories are still expanding, but confidence and hiring need closer attention.",
-      "takeaway_korean": "인도 공장은 성장하지만 자신감과 채용은 지켜봐야 합니다.",
+      "korean_title": "인도 금 수요 29% 감소",
+      "english_title": "India bought less gold, but spent more",
+      "korean_desc": "높은 가격과 수입 관세가 구매자를 조심스럽게 만들었다. 보석 수요는 20% 줄었지만 가치는 16% 올랐다. 세계금협회는 올해 수요를 625~675톤으로 예상한다.",
+      "english_desc": "Higher prices and import duty made buyers more careful. Jewellery demand dropped 20%, while its value rose 16%. The World Gold Council expects 625 to 675 tonnes for the full year.",
+      "hook": "India’s gold demand fell 29%, but its value rose.",
+      "sticker": "Less gold, bigger bill",
+      "korean_hook": "금 수요는 29% 줄고 값은 올랐다",
+      "takeaway_english": "Gold remains culturally important, but shoppers are learning to stretch each rupee.",
+      "takeaway_korean": "금은 여전히 중요하지만 구매자들은 돈을 더 아껴 쓴다.",
       "why_it_matters": [
         {
-          "english": "Factory activity can affect jobs, export income, prices, and supply chains.",
-          "korean": "공장 활동은 일자리와 수출, 가격에 영향을 줍니다."
+          "english": "Jewellery shoppers may need lighter designs or exchanges to manage higher prices.",
+          "korean": "보석 구매자는 높은 가격 때문에 가벼운 디자인이나 교환을 택할 수 있다."
         },
         {
-          "english": "Lower cost pressure may reduce some pressure on producers and buyers.",
-          "korean": "비용 압력 완화는 생산자와 구매자를 도울 수 있습니다."
+          "english": "Festive and wedding buying could change the final yearly demand.",
+          "korean": "축제와 결혼 구매가 연간 최종 수요를 바꿀 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Indian manufacturers",
-          "english": "They increased output, orders, jobs, and inventories, but more slowly.",
-          "korean": "인도 제조업체들은 생산과 주문을 늘렸습니다."
+          "label": "Indian consumers",
+          "english": "They bought less gold by weight while paying more because prices rose.",
+          "korean": "인도 소비자들은 가격 상승으로 덜 사고 더 지불했다."
         },
         {
-          "label": "Export businesses",
-          "english": "Strong international demand pushed export-order growth to a six-month high.",
-          "korean": "강한 해외 수요가 수출 주문을 높였습니다."
+          "label": "World Gold Council",
+          "english": "It expects full-year Indian demand of 625 to 675 tonnes.",
+          "korean": "세계금협회는 연간 수요를 625~675톤으로 예상한다."
         },
         {
-          "label": "Workers",
-          "english": "Factory employment rose for a second month, though hiring slowed.",
-          "korean": "공장 고용은 늘었지만 채용은 느려졌습니다."
+          "label": "Jewellers",
+          "english": "They may rely on lighter jewellery and exchange purchases during the festive season.",
+          "korean": "보석상들은 축제철에 가벼운 장신구와 교환 구매를 기대한다."
         }
       ],
       "views": [
         {
-          "label": "HSBC economist Pranjul Bhandari",
-          "english": "The sector remains firmly in expansion, supported by exports and rising production.",
-          "korean": "제조업은 수출과 생산 증가로 계속 성장 중입니다."
+          "label": "World Gold Council",
+          "english": "High prices changed buying habits, but consumers still value gold for the long term.",
+          "korean": "높은 가격이 구매 습관을 바꿨지만 소비자들은 여전히 금을 중시한다고 했다."
         },
         {
-          "label": "The Financial Economy analysis",
-          "english": "Large inventories could become a problem if demand weakens after the festive season.",
-          "korean": "수요가 줄면 많은 재고가 문제가 될 수 있습니다."
+          "label": "Market analysts",
+          "english": "The volume decline may point toward weaker jewellery and investment demand.",
+          "korean": "물량 감소는 보석과 투자 수요 약화를 뜻할 수 있다고 봤다."
         }
       ],
       "disagree": {
-        "english": "A reading above 50 shows growth, but it does not prove every factory or worker is doing better.",
-        "korean": "50을 넘었다고 모든 공장과 노동자가 좋아진 것은 아닙니다."
+        "english": "Others may see the higher value as evidence that gold remains strong despite fewer purchases.",
+        "korean": "다른 사람들은 구매 감소에도 금의 힘이 여전하다고 볼 수 있다."
       },
-      "reader_question_korean": "성장 둔화가 걱정되나요, 안심되나요?",
+      "reader_question_korean": "가격이 계속 오르면 금을 덜 사겠어요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "India's manufacturing sector activity growth eases in October on softer rise in output, new orders",
+      "source_title": "India's gold demand down 29% in July-September at 162.5 tonnes: World Gold Council",
       "hook_format": "number",
       "body_format": "before_after",
       "question": "",
@@ -416,893 +428,512 @@
       "answer_korean": "",
       "format_data": {
         "number": {
-          "value": "54.7",
-          "label": "October PMI reading",
-          "korean_label": "10월 PMI 수치"
+          "value": "29%",
+          "label": "gold demand decline",
+          "korean_label": "금 수요 감소"
         },
         "before": {
           "label": "",
-          "english": "September’s PMI was 55.1.",
-          "korean": "9월 PMI는 55.1이었습니다."
+          "english": "India bought 229.8 tonnes during July-September 2025.",
+          "korean": "인도는 2025년 7월부터 9월까지 229.8톤을 샀다."
         },
         "after": {
           "label": "",
-          "english": "October still showed expansion above 50.",
-          "korean": "10월에도 50을 넘어 성장했습니다."
+          "english": "It bought 162.5 tonnes during the same period in 2026.",
+          "korean": "인도는 2026년 같은 기간 162.5톤을 샀다."
         }
       },
       "serious": false,
       "caption_lines": [
-        "Update: November 2, 2026",
-        "PMI above 50 means expansion",
-        "The survey covered around 400 manufacturers"
+        "The figures cover July through September 2026.",
+        "The average price reached ₹1,48,891 per 10 grams before import duty and GST."
       ],
-      "reader_question": "Does slower growth worry you or reassure you?",
-      "topic_tag": "Manufacturing",
+      "reader_question": "Would you buy less gold if prices kept rising?",
+      "topic_tag": "Business",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "India's manufacturing sector activity growth eases in October on softer rise in output, new orders",
-          "date": "2026-11-02",
-          "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece"
+          "title": "India's gold demand down 29% in July-September at 162.5 tonnes: World Gold Council",
+          "date": "2026-11-03",
+          "url": "https://www.thehindu.com/business/markets/indias-gold-demand-down-29-in-july-september-at-1625-tonnes-world-gold-council/article71659966.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "인도",
-          "roman": "in-do",
-          "english": "India",
+          "korean": "높은",
+          "roman": "nopeun",
+          "english": "high",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "가격과",
+          "roman": "gagyeok-gwa",
+          "english": "prices and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "수입",
+          "roman": "suip",
+          "english": "import",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "제조업",
-          "roman": "je-jo-eop",
-          "english": "manufacturing",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "PMI가",
-          "roman": "PMI-ga",
-          "english": "PMI",
+          "korean": "관세가",
+          "roman": "gwanse-ga",
+          "english": "duty",
           "particle": false,
           "suffix": "가"
         },
         {
-          "korean": "55.1에서",
-          "roman": "o-sip-o-jeom-il-eseo",
-          "english": "from 55.1",
+          "korean": "구매자를",
+          "roman": "gumaeja-reul",
+          "english": "buyers",
           "particle": false,
-          "suffix": "에서"
+          "suffix": "를"
         },
         {
-          "korean": "54.7로",
-          "roman": "o-sip-sa-jeom-chil-ro",
-          "english": "to 54.7",
+          "korean": "조심스럽게",
+          "roman": "josimseureopge",
+          "english": "carefully",
           "particle": false,
-          "suffix": "로"
+          "suffix": "게"
         },
         {
-          "korean": "떨어졌습니다",
-          "roman": "tteol-eo-jyeot-seum-ni-da",
-          "english": "fell",
+          "korean": "만들었다",
+          "roman": "mandeureotda",
+          "english": "made",
           "particle": false,
-          "suffix": "습니다"
+          "suffix": "었다"
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "India’s manufacturing PMI fell from 55.1 in September to 54.7 in October.",
-          "korean": "인도 제조업 PMI가 55.1에서 54.7로 떨어졌습니다.",
-          "glossary": [
-            {
-              "korean": "인도",
-              "roman": "in-do",
-              "english": "India",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "제조업",
-              "roman": "je-jo-eop",
-              "english": "manufacturing",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "PMI가",
-              "roman": "PMI-ga",
-              "english": "PMI",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "55.1에서",
-              "roman": "o-sip-o-jeom-il-eseo",
-              "english": "from 55.1",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "54.7로",
-              "roman": "o-sip-sa-jeom-chil-ro",
-              "english": "to 54.7",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "떨어졌습니다",
-              "roman": "tteol-eo-jyeot-seum-ni-da",
-              "english": "fell",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
           "stage": "why",
-          "english": "Output and new orders still rose, but both increased more slowly.",
-          "korean": "생산과 신규 주문은 늘었지만 속도는 느려졌습니다.",
+          "english": "Higher prices and import duty made buyers more careful.",
+          "korean": "높은 가격과 수입 관세가 구매자를 조심스럽게 만들었다.",
           "glossary": [
             {
-              "korean": "생산과",
-              "roman": "saeng-san-gwa",
-              "english": "production and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "신규",
-              "roman": "sin-gyu",
-              "english": "new",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주문은",
-              "roman": "ju-mun-eun",
-              "english": "orders",
+              "korean": "높은",
+              "roman": "nopeun",
+              "english": "high",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "늘었지만",
-              "roman": "neul-eot-jiman",
-              "english": "rose but",
+              "korean": "가격과",
+              "roman": "gagyeok-gwa",
+              "english": "prices and",
               "particle": false,
-              "suffix": "지만"
+              "suffix": "과"
             },
             {
-              "korean": "속도는",
-              "roman": "sok-do-neun",
-              "english": "the pace",
+              "korean": "수입",
+              "roman": "suip",
+              "english": "import",
               "particle": false,
-              "suffix": "는"
+              "suffix": ""
             },
             {
-              "korean": "느려졌습니다",
-              "roman": "neu-ryeo-jyeot-seum-ni-da",
-              "english": "slowed",
+              "korean": "관세가",
+              "roman": "gwanse-ga",
+              "english": "duty",
               "particle": false,
-              "suffix": "습니다"
+              "suffix": "가"
+            },
+            {
+              "korean": "구매자를",
+              "roman": "gumaeja-reul",
+              "english": "buyers",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "조심스럽게",
+              "roman": "josimseureopge",
+              "english": "carefully",
+              "particle": false,
+              "suffix": "게"
+            },
+            {
+              "korean": "만들었다",
+              "roman": "mandeureotda",
+              "english": "made",
+              "particle": false,
+              "suffix": "었다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Strong overseas demand lifted export-order growth to a six-month high.",
-          "korean": "강한 해외 수요가 수출 주문 증가를 6개월 최고로 올렸습니다.",
+          "english": "Jewellery demand dropped 20%, while its value rose 16%.",
+          "korean": "보석 수요는 20% 줄었지만 가치는 16% 올랐다.",
           "glossary": [
             {
-              "korean": "강한",
-              "roman": "gang-han",
-              "english": "strong",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "해외",
-              "roman": "hae-oe",
-              "english": "overseas",
+              "korean": "보석",
+              "roman": "boseok",
+              "english": "jewellery",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "수요가",
-              "roman": "su-yo-ga",
+              "korean": "수요는",
+              "roman": "suyo-neun",
               "english": "demand",
               "particle": false,
-              "suffix": "가"
+              "suffix": "는"
             },
             {
-              "korean": "수출",
-              "roman": "su-chul",
-              "english": "export",
+              "korean": "줄었지만",
+              "roman": "jureotjiman",
+              "english": "fell but",
               "particle": false,
-              "suffix": ""
+              "suffix": "지만"
             },
             {
-              "korean": "주문",
-              "roman": "ju-mun",
-              "english": "orders",
+              "korean": "가치는",
+              "roman": "gachi-neun",
+              "english": "value",
               "particle": false,
-              "suffix": ""
+              "suffix": "는"
             },
             {
-              "korean": "증가를",
-              "roman": "jeung-ga-reul",
-              "english": "increase",
+              "korean": "올랐다",
+              "roman": "ollatda",
+              "english": "rose",
               "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "6개월",
-              "roman": "yuk-gae-wol",
-              "english": "six-month",
-              "particle": false,
-              "suffix": "개월"
-            },
-            {
-              "korean": "최고로",
-              "roman": "choe-go-ro",
-              "english": "to a high",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "올렸습니다",
-              "roman": "ol-lyeot-seum-ni-da",
-              "english": "lifted",
-              "particle": false,
-              "suffix": "습니다"
+              "suffix": "랐다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The October reading stayed above 50, showing continued expansion.",
-          "korean": "10월 수치는 50을 넘어 계속 성장했습니다.",
+          "english": "The World Gold Council expects 625 to 675 tonnes for the full year.",
+          "korean": "세계금협회는 올해 수요를 625~675톤으로 예상한다.",
           "glossary": [
             {
-              "korean": "10월",
-              "roman": "sib-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "수치는",
-              "roman": "su-chi-neun",
-              "english": "reading",
+              "korean": "세계금협회는",
+              "roman": "segye-geum-hyeophoe-neun",
+              "english": "World Gold Council",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "50을",
-              "roman": "o-sip-eul",
-              "english": "50",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "넘어",
-              "roman": "neom-eo",
-              "english": "above",
+              "korean": "올해",
+              "roman": "olhae",
+              "english": "this year",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "계속",
-              "roman": "gye-sok",
-              "english": "continuously",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "성장했습니다",
-              "roman": "seong-jang-haet-seum-ni-da",
-              "english": "expanded",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/business/Industry/indias-manufacturing-sector-activity-growth-eases-in-october-on-softer-rise-in-output-new-orders/article71655680.ece",
-      "short_english": "India’s manufacturing PMI fell from 55.1 in September to 54.7 in October.",
-      "short_korean": "인도 제조업 PMI가 55.1에서 54.7로 떨어졌습니다.",
-      "date": "2026-11-02",
-      "images": [
-        "images/indian/b08138a01d8b/1.jpg",
-        "images/indian/b08138a01d8b/2.jpg",
-        "images/indian/b08138a01d8b/3.jpg",
-        "images/indian/b08138a01d8b/4.jpg",
-        "images/indian/b08138a01d8b/5.jpg",
-        "images/indian/b08138a01d8b/6.jpg",
-        "images/indian/b08138a01d8b/7.jpg",
-        "images/indian/b08138a01d8b/8.jpg",
-        "images/indian/b08138a01d8b/9.jpg",
-        "images/indian/b08138a01d8b/10.jpg",
-        "images/indian/b08138a01d8b/11.jpg",
-        "images/indian/b08138a01d8b/12.jpg",
-        "images/indian/b08138a01d8b/13.jpg",
-        "images/indian/b08138a01d8b/14.jpg",
-        "images/indian/b08138a01d8b/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/b08138a01d8b/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "울트라바이올렛 X-47 베놈 공개",
-      "english_title": "The X-47 Venom goes faster and lighter",
-      "korean_desc": "울트라바이올렛이 개선된 X-47 베놈을 공개했습니다. 새 플랫폼은 무게 없이 출력과 충전을 개선합니다. 모터는 30킬로와트를 내고 100킬로미터까지 5.9초입니다. 주행거리는 343킬로미터지만 실제 거리는 조건에 달렸습니다.",
-      "english_desc": "Ultraviolette introduced the upgraded X-47 Venom electric motorcycle. The new platform aims to improve power delivery, charging, and efficiency without adding weight. Its motor produces 30kW, while claimed 0–100km/h acceleration takes 5.9 seconds. The claimed range is 343 kilometers, but real distance depends on riding conditions.",
-      "hook": "The X-47 Venom adds speed, technology, and range.",
-      "sticker": "Electric speed machine ⚡",
-      "korean_hook": "X-47 베놈이 더 빨라졌습니다",
-      "takeaway_english": "The Venom looks ambitious, but everyday riding will test the claims.",
-      "takeaway_korean": "베놈은 야심 차지만 실제 주행이 주장을 시험합니다.",
-      "why_it_matters": [
-        {
-          "english": "A lighter electric motorcycle may be easier to use in traffic and corners.",
-          "korean": "가벼운 전기 오토바이는 도로와 코너에서 더 쉬울 수 있습니다."
-        },
-        {
-          "english": "Battery cooling and safety systems matter during demanding rides.",
-          "korean": "배터리 냉각과 안전 장치는 힘든 주행에 중요합니다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Ultraviolette",
-          "english": "It claims stronger performance, improved cooling, and a lighter motorcycle.",
-          "korean": "울트라바이올렛은 더 강한 성능을 말합니다."
-        },
-        {
-          "label": "Riders",
-          "english": "They may get easier handling and faster acceleration from the lighter design.",
-          "korean": "라이더는 더 쉬운 조작과 빠른 가속을 얻을 수 있습니다."
-        },
-        {
-          "label": "Electric motorcycle buyers",
-          "english": "They must treat the claimed range as a laboratory figure, not a promise.",
-          "korean": "구매자는 주행거리를 실험실 수치로 봐야 합니다."
-        }
-      ],
-      "views": [
-        {
-          "label": "The Hindu review",
-          "english": "The Venom looks distinctive and combines performance with useful technology upgrades.",
-          "korean": "베놈은 독특하고 성능과 기술을 함께 높였습니다."
-        },
-        {
-          "label": "Official specification sheet",
-          "english": "Ultraviolette lists 30kW power, 2.7-second 0–60km/h acceleration, and a 145km/h top speed.",
-          "korean": "공식 자료는 30킬로와트와 최고속도 145를 적었습니다."
-        }
-      ],
-      "disagree": {
-        "english": "Real range, handling, and performance can differ from company claims in daily riding.",
-        "korean": "실제 주행거리와 성능은 회사 주장과 다를 수 있습니다."
-      },
-      "reader_question_korean": "속도, 주행거리, 쉬운 조작 중 무엇이 더 중요한가요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Ultraviolette X-47 Venom Review: More performance, more technology and a more complete electric motorcycle",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Review published: November 2, 2026",
-        "Claimed IDC range: 343 kilometers",
-        "Claimed weight: 180 kilograms"
-      ],
-      "reader_question": "Which matters more to you: speed, range, or easy handling?",
-      "topic_tag": "Motorcycle",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Ultraviolette X-47 Venom Review: More performance, more technology and a more complete electric motorcycle",
-          "date": "2026-11-02",
-          "url": "https://www.thehindu.com/life-and-style/motoring/ultraviolette-x-47-venom-review-more-performance-more-technology-and-a-more-complete-electric-motorcycle/article71652333.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "울트라바이올렛이",
-          "roman": "ul-teu-ra-ba-i-ol-let-i",
-          "english": "Ultraviolette",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "개선된",
-          "roman": "gae-seon-doen",
-          "english": "upgraded",
-          "particle": false,
-          "suffix": "된"
-        },
-        {
-          "korean": "X-47",
-          "roman": "eks-sa-sip-chil",
-          "english": "X-47",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "베놈을",
-          "roman": "be-nom-eul",
-          "english": "Venom",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "공개했습니다",
-          "roman": "gong-gae-haet-seum-ni-da",
-          "english": "introduced",
-          "particle": false,
-          "suffix": "습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Ultraviolette introduced the upgraded X-47 Venom electric motorcycle.",
-          "korean": "울트라바이올렛이 개선된 X-47 베놈을 공개했습니다.",
-          "glossary": [
-            {
-              "korean": "울트라바이올렛이",
-              "roman": "ul-teu-ra-ba-i-ol-let-i",
-              "english": "Ultraviolette",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "개선된",
-              "roman": "gae-seon-doen",
-              "english": "upgraded",
-              "particle": false,
-              "suffix": "된"
-            },
-            {
-              "korean": "X-47",
-              "roman": "eks-sa-sip-chil",
-              "english": "X-47",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "베놈을",
-              "roman": "be-nom-eul",
-              "english": "Venom",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공개했습니다",
-              "roman": "gong-gae-haet-seum-ni-da",
-              "english": "introduced",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The new platform aims to improve power delivery, charging, and efficiency without adding weight.",
-          "korean": "새 플랫폼은 무게 없이 출력과 충전을 개선합니다.",
-          "glossary": [
-            {
-              "korean": "새",
-              "roman": "sae",
-              "english": "new",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "플랫폼은",
-              "roman": "peul-laet-pom-eun",
-              "english": "platform",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "무게",
-              "roman": "mu-ge",
-              "english": "weight",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "없이",
-              "roman": "eop-si",
-              "english": "without",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "출력과",
-              "roman": "chul-lyeok-gwa",
-              "english": "power and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "충전을",
-              "roman": "chung-jeon-eul",
-              "english": "charging",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "개선합니다",
-              "roman": "gae-seon-ham-ni-da",
-              "english": "improves",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Its motor produces 30kW, while claimed 0–100km/h acceleration takes 5.9 seconds.",
-          "korean": "모터는 30킬로와트를 내고 100킬로미터까지 5.9초입니다.",
-          "glossary": [
-            {
-              "korean": "모터는",
-              "roman": "mo-teo-neun",
-              "english": "motor",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "30킬로와트를",
-              "roman": "sam-sip-kil-lo-wa-teu-reul",
-              "english": "30 kilowatts",
+              "korean": "수요를",
+              "roman": "suyo-reul",
+              "english": "demand",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "내고",
-              "roman": "nae-go",
-              "english": "produces and",
+              "korean": "625~675톤으로",
+              "roman": "yukbaek-isip-o~yukbaek-chilsip-o-ton-euro",
+              "english": "625 to 675 tonnes",
               "particle": false,
-              "suffix": "고"
+              "suffix": "으로"
             },
             {
-              "korean": "100킬로미터까지",
-              "roman": "baek-kil-lo-mi-teo-kka-ji",
-              "english": "to 100 kilometers",
+              "korean": "예상한다",
+              "roman": "yesanghanda",
+              "english": "expects",
               "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "5.9초입니다",
-              "roman": "o-jeom-gu-cho-im-ni-da",
-              "english": "is 5.9 seconds",
-              "particle": false,
-              "suffix": "입니다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The claimed range is 343 kilometers, but real distance depends on riding conditions.",
-          "korean": "주행거리는 343킬로미터지만 실제 거리는 조건에 달렸습니다.",
-          "glossary": [
-            {
-              "korean": "주행거리는",
-              "roman": "ju-haeng-geo-ri-neun",
-              "english": "range",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "거리는",
-              "roman": "geo-ri-neun",
-              "english": "distance",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "343킬로미터지만",
-              "roman": "sam-baek-sa-sip-sam-kil-lo-mi-teo-ji-man",
-              "english": "343 kilometers but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "실제",
-              "roman": "sil-je",
-              "english": "actual",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "조건에",
-              "roman": "jo-geon-e",
-              "english": "on conditions",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "달렸습니다",
-              "roman": "dal-lyeot-seum-ni-da",
-              "english": "depends",
-              "particle": false,
-              "suffix": "습니다"
+              "suffix": "한다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/life-and-style/motoring/ultraviolette-x-47-venom-review-more-performance-more-technology-and-a-more-complete-electric-motorcycle/article71652333.ece",
-      "short_english": "Ultraviolette introduced the upgraded X-47 Venom electric motorcycle.",
-      "short_korean": "울트라바이올렛이 개선된 X-47 베놈을 공개했습니다.",
-      "date": "2026-11-02",
+      "url": "https://www.thehindu.com/business/markets/indias-gold-demand-down-29-in-july-september-at-1625-tonnes-world-gold-council/article71659966.ece",
+      "short_english": "Higher prices and import duty made buyers more careful.",
+      "short_korean": "높은 가격과 수입 관세가 구매자를 조심스럽게 만들었다.",
+      "date": "2026-11-03",
       "images": [
-        "images/indian/ea58b1e2f797/1.jpg",
-        "images/indian/ea58b1e2f797/2.jpg",
-        "images/indian/ea58b1e2f797/3.jpg",
-        "images/indian/ea58b1e2f797/4.jpg",
-        "images/indian/ea58b1e2f797/5.jpg",
-        "images/indian/ea58b1e2f797/6.jpg",
-        "images/indian/ea58b1e2f797/7.jpg",
-        "images/indian/ea58b1e2f797/8.jpg",
-        "images/indian/ea58b1e2f797/9.jpg",
-        "images/indian/ea58b1e2f797/10.jpg",
-        "images/indian/ea58b1e2f797/11.jpg",
-        "images/indian/ea58b1e2f797/12.jpg",
-        "images/indian/ea58b1e2f797/13.jpg",
-        "images/indian/ea58b1e2f797/14.jpg",
-        "images/indian/ea58b1e2f797/15.jpg"
+        "images/indian/d9ceb11d0f8c/1.jpg",
+        "images/indian/d9ceb11d0f8c/2.jpg",
+        "images/indian/d9ceb11d0f8c/3.jpg",
+        "images/indian/d9ceb11d0f8c/4.jpg",
+        "images/indian/d9ceb11d0f8c/5.jpg",
+        "images/indian/d9ceb11d0f8c/6.jpg",
+        "images/indian/d9ceb11d0f8c/7.jpg",
+        "images/indian/d9ceb11d0f8c/8.jpg",
+        "images/indian/d9ceb11d0f8c/9.jpg",
+        "images/indian/d9ceb11d0f8c/10.jpg",
+        "images/indian/d9ceb11d0f8c/11.jpg",
+        "images/indian/d9ceb11d0f8c/12.jpg",
+        "images/indian/d9ceb11d0f8c/13.jpg",
+        "images/indian/d9ceb11d0f8c/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/ea58b1e2f797/caption.txt"
+      "caption_file": "images/indian/d9ceb11d0f8c/caption.txt"
     },
     {
-      "category": "Sports",
-      "korean_title": "나미비아, 아일랜드에 역사적 승리",
-      "english_title": "Namibia wins its first ODI series against a Full Member",
-      "korean_desc": "나미비아가 2026년 11월 1일 빈트후크에서 이겼습니다. 이번 승리는 정회원국 상대 첫 ODI 시리즈 승리였습니다. 나미비아는 아일랜드를 129점에 잡고 131점을 냈습니다. 나미비아는 남아공과 짐바브웨와 내년 월드컵을 공동 개최합니다.",
-      "english_desc": "Namibia defeated Ireland by five wickets in Windhoek on November 1, 2026. The result gave Namibia its first bilateral ODI series win over a Full Member nation. Namibia bowled Ireland out for 129 before reaching 131 for five. Namibia will co-host next year’s World Cup with South Africa and Zimbabwe.",
-      "hook": "Namibia beat Ireland 3–2 in a historic ODI series.",
-      "sticker": "History at the crease 🏏",
-      "korean_hook": "나미비아가 아일랜드를 3대 2로 이겼습니다",
-      "takeaway_english": "Namibia has made history, but the next challenge is qualifying and competing at the World Cup.",
-      "takeaway_korean": "나미비아는 역사를 썼지만 월드컵 진출과 경쟁이 다음 과제입니다.",
+      "category": "Culture",
+      "korean_title": "개츠비 컬렉션의 새 축제 패션",
+      "english_title": "Gatsby mixes sharp tailoring with festive Indian details",
+      "korean_desc": "첸나이 브랜드 개츠비 컬렉션은 2026년 콰이어트 어트랙션과 보로우드 라이트를 선보였다. 콰이어트 어트랙션은 첫 끌림에서 균형까지 따른다. 축제 컬렉션은 손자수와 실크와 컷워크 재킷과 도티 바지를 더했다. 두 컬렉션은 첸나이와 온라인에서 3만 루피부터 판매된다.",
+      "english_desc": "Chennai label Gatsby Collection launched Quiet Attraction and Borrowed Light for 2026. Quiet Attraction follows attraction from first pull toward balance. The festive edit adds hand embroidery, silk, cutwork jackets, and dhoti-inspired trousers. Both collections are available in Chennai and online from ₹30,000.",
+      "hook": "Gatsby gives modern tailoring a festive Indian twist.",
+      "sticker": "Tailoring gets festive ✨",
+      "korean_hook": "개츠비가 현대 재단에 축제 감각을 더했다",
+      "takeaway_english": "Gatsby’s message is simple: tradition need not sit still.",
+      "takeaway_korean": "개츠비의 메시지는 전통도 움직일 수 있다는 것이다.",
       "why_it_matters": [
         {
-          "english": "The result gives Namibia confidence before a major home-region World Cup.",
-          "korean": "이번 결과는 큰 월드컵을 앞두고 나미비아에 자신감을 줍니다."
+          "english": "The collections show how formal and festive clothing can share one wardrobe.",
+          "korean": "두 컬렉션은 정장과 축제 옷이 한 옷장에 공존하는 모습을 보여준다."
         },
         {
-          "english": "Ireland’s batting collapse shows how quickly a match can turn.",
-          "korean": "아일랜드의 타격 붕괴는 경기 흐름이 빨리 바뀜을 보여줍니다."
+          "english": "Traditional Indian shapes appear inside contemporary tailoring.",
+          "korean": "전통 인도 형태가 현대 재단 안에 들어갔다."
         }
       ],
       "parties": [
         {
-          "label": "Namibia",
-          "english": "It won its first bilateral ODI series against a Full Member nation.",
-          "korean": "나미비아는 처음으로 정회원국과 ODI 시리즈를 이겼습니다."
+          "label": "Heeba Sait",
+          "english": "She leads the creative direction and blends tailoring with softer silhouettes.",
+          "korean": "히바 사이드는 재단과 부드러운 실루엣을 섞었다."
         },
         {
-          "label": "Ireland",
-          "english": "It struggled with the bat in the deciding match.",
-          "korean": "아일랜드는 결정전에서 타격에 고전했습니다."
-        },
-        {
-          "label": "Gerhard Erasmus",
-          "english": "He made 263 runs and took four wickets across the series.",
-          "korean": "에라스무스는 시리즈에서 263점과 4위켓을 기록했습니다."
+          "label": "Gatsby Collection",
+          "english": "It sells the collections in Chennai and online, starting at ₹30,000.",
+          "korean": "개츠비 컬렉션은 첸나이와 온라인에서 3만 루피부터 판매한다."
         }
       ],
       "views": [
         {
-          "label": "Namibia",
-          "english": "The victory is a major boost before the 2027 World Cup, which Namibia will co-host.",
-          "korean": "이번 승리는 2027년 공동 개최 월드컵을 앞둔 큰 힘입니다."
+          "label": "Heeba Sait",
+          "english": "Modern clothing can combine a skirt and trousers while keeping a tailoring identity.",
+          "korean": "현대 옷은 재단 정체성을 지키며 치마와 바지를 합칠 수 있다."
         },
         {
-          "label": "Ireland captain Lorcan Tucker",
-          "english": "Ireland lacked the necessary skills for long periods and must reflect.",
-          "korean": "아일랜드는 오랫동안 필요한 기술을 보여주지 못했습니다."
+          "label": "Gatsby’s established identity",
+          "english": "The brand’s long tailoring tradition remains central to the new designs.",
+          "korean": "브랜드의 오랜 재단 전통은 새 디자인에서도 중심이다."
         }
       ],
       "disagree": {
-        "english": "One series shows Namibia’s progress, but it does not settle the teams’ long-term ranking.",
-        "korean": "한 시리즈만으로 두 팀의 장기 순위를 정할 수 없습니다."
+        "english": "Some shoppers may prefer simpler festive clothes over experimental shapes and premium prices.",
+        "korean": "일부 구매자는 실험적인 모양과 높은 가격보다 단순한 축제 옷을 좋아할 수 있다."
       },
-      "reader_question_korean": "크리켓 승리를 정말 역사적으로 만드는 것은 무엇인가요?",
+      "reader_question_korean": "새롭게 만든 도티 바지를 입겠어요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 30, 000"
       ],
-      "source_title": "Namibia scripts history with maiden bilateral ODI series win; stuns Ireland 3-2",
-      "hook_format": "number",
-      "body_format": "three_points",
+      "source_title": "Gatsby Collection’s festive edits explore contemporary menswear and womenswear",
+      "hook_format": "vocab",
+      "body_format": "who_speaks",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "3–2",
-          "label": "series result",
-          "korean_label": "시리즈 결과"
-        },
-        "points": [
+        "people": [
           {
-            "label": "",
-            "english": "Namibia won the deciding match by five wickets.",
-            "korean": "나미비아는 결정전에서 5위켓 차로 이겼습니다."
+            "label": "Heeba Sait",
+            "english": "She designed Quiet Attraction around attraction, movement, and balance.",
+            "korean": "히바 사이드는 끌림과 움직임과 균형을 중심으로 디자인했다."
           },
           {
-            "label": "",
-            "english": "Ireland was bowled out for 129.",
-            "korean": "아일랜드는 129점으로 모두 아웃됐습니다."
-          },
-          {
-            "label": "",
-            "english": "The win helps Namibia prepare for the 2027 World Cup.",
-            "korean": "이번 승리는 나미비아의 2027년 월드컵 준비를 돕습니다."
+            "label": "Gatsby Collection",
+            "english": "The label offers formalwear and festive clothing for modern dressing.",
+            "korean": "개츠비 컬렉션은 현대적인 정장과 축제 옷을 선보인다."
           }
         ]
       },
       "serious": false,
       "caption_lines": [
-        "Decider played: November 1, 2026",
-        "Venue: Windhoek, Namibia",
-        "Namibia will co-host the 2027 World Cup"
+        "Quiet Attraction is the Autumn/Winter 2026 collection.",
+        "Borrowed Light is the festive edit."
       ],
-      "reader_question": "What makes a cricket victory truly historic?",
-      "topic_tag": "Cricket",
+      "reader_question": "Would you wear the reimagined dhoti trousers?",
+      "topic_tag": "Fashion",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Namibia scripts history with maiden bilateral ODI series win; stuns Ireland 3-2",
-          "date": "2026-11-02",
-          "url": "https://www.thehindu.com/sport/cricket/namibia-scripts-history-with-maiden-bilateral-odi-series-win-stuns-ireland-3-2/article71655307.ece"
+          "title": "Gatsby Collection’s festive edits explore contemporary menswear and womenswear",
+          "date": "2026-11-03",
+          "url": "https://www.thehindu.com/life-and-style/fashion/gatsby-collections-festive-edits-explore-contemporary-menswear-and-womenswear/article71635144.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "나미비아가",
-          "roman": "na-mi-bi-a-ga",
-          "english": "Namibia",
+          "korean": "첸나이",
+          "roman": "Chennai",
+          "english": "Chennai",
           "particle": false,
-          "suffix": "가"
+          "suffix": ""
+        },
+        {
+          "korean": "브랜드",
+          "roman": "beuraendeu",
+          "english": "label",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "개츠비",
+          "roman": "Gaet-sbi",
+          "english": "Gatsby",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "컬렉션은",
+          "roman": "keol렉syeon-eun",
+          "english": "collection",
+          "particle": false,
+          "suffix": "은"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
+          "roman": "icheon-isipsi-yuk-nyeon",
+          "english": "2026",
           "particle": false,
           "suffix": "년"
         },
         {
-          "korean": "11월",
-          "roman": "sib-il-wol",
-          "english": "November",
+          "korean": "콰이어트",
+          "roman": "Kwaieoteu",
+          "english": "Quiet",
           "particle": false,
-          "suffix": "월"
+          "suffix": ""
         },
         {
-          "korean": "1일",
-          "roman": "il-il",
-          "english": "first day",
+          "korean": "어트랙션과",
+          "roman": "eoteuraeksyeon-gwa",
+          "english": "Attraction and",
           "particle": false,
-          "suffix": "일"
+          "suffix": "과"
         },
         {
-          "korean": "빈트후크에서",
-          "roman": "bin-teu-hu-keu-eseo",
-          "english": "in Windhoek",
+          "korean": "보로우드",
+          "roman": "Borou-deu",
+          "english": "Borrowed",
           "particle": false,
-          "suffix": "에서"
+          "suffix": ""
         },
         {
-          "korean": "이겼습니다",
-          "roman": "i-gyeot-seum-ni-da",
-          "english": "won",
+          "korean": "라이트를",
+          "roman": "raiteu-reul",
+          "english": "Light",
           "particle": false,
-          "suffix": "습니다"
+          "suffix": "를"
+        },
+        {
+          "korean": "선보였다",
+          "roman": "seonboyeotda",
+          "english": "launched",
+          "particle": false,
+          "suffix": "였다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Namibia defeated Ireland by five wickets in Windhoek on November 1, 2026.",
-          "korean": "나미비아가 2026년 11월 1일 빈트후크에서 이겼습니다.",
+          "english": "Chennai label Gatsby Collection launched Quiet Attraction and Borrowed Light for 2026.",
+          "korean": "첸나이 브랜드 개츠비 컬렉션은 2026년 콰이어트 어트랙션과 보로우드 라이트를 선보였다.",
           "glossary": [
             {
-              "korean": "나미비아가",
-              "roman": "na-mi-bi-a-ga",
-              "english": "Namibia",
+              "korean": "첸나이",
+              "roman": "Chennai",
+              "english": "Chennai",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
+            },
+            {
+              "korean": "브랜드",
+              "roman": "beuraendeu",
+              "english": "label",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "개츠비",
+              "roman": "Gaet-sbi",
+              "english": "Gatsby",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "컬렉션은",
+              "roman": "keol렉syeon-eun",
+              "english": "collection",
+              "particle": false,
+              "suffix": "은"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
+              "roman": "icheon-isipsi-yuk-nyeon",
+              "english": "2026",
               "particle": false,
               "suffix": "년"
             },
             {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
+              "korean": "콰이어트",
+              "roman": "Kwaieoteu",
+              "english": "Quiet",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
-              "korean": "1일",
-              "roman": "il-il",
-              "english": "first day",
+              "korean": "어트랙션과",
+              "roman": "eoteuraeksyeon-gwa",
+              "english": "Attraction and",
               "particle": false,
-              "suffix": "일"
+              "suffix": "과"
             },
             {
-              "korean": "빈트후크에서",
-              "roman": "bin-teu-hu-keu-eseo",
-              "english": "in Windhoek",
+              "korean": "보로우드",
+              "roman": "Borou-deu",
+              "english": "Borrowed",
               "particle": false,
-              "suffix": "에서"
+              "suffix": ""
             },
             {
-              "korean": "이겼습니다",
-              "roman": "i-gyeot-seum-ni-da",
-              "english": "won",
+              "korean": "라이트를",
+              "roman": "raiteu-reul",
+              "english": "Light",
               "particle": false,
-              "suffix": "습니다"
+              "suffix": "를"
+            },
+            {
+              "korean": "선보였다",
+              "roman": "seonboyeotda",
+              "english": "launched",
+              "particle": false,
+              "suffix": "였다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The result gave Namibia its first bilateral ODI series win over a Full Member nation.",
-          "korean": "이번 승리는 정회원국 상대 첫 ODI 시리즈 승리였습니다.",
+          "english": "Quiet Attraction follows attraction from first pull toward balance.",
+          "korean": "콰이어트 어트랙션은 첫 끌림에서 균형까지 따른다.",
           "glossary": [
             {
-              "korean": "이번",
-              "roman": "i-beon",
-              "english": "this",
+              "korean": "콰이어트",
+              "roman": "Kwaieoteu",
+              "english": "Quiet",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "승리는",
-              "roman": "seung-ri-neun",
-              "english": "victory",
+              "korean": "어트랙션은",
+              "roman": "eoteuraeksyeon-eun",
+              "english": "Attraction",
               "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "정회원국",
-              "roman": "jeong-hoe-won-guk",
-              "english": "Full Member nation",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "상대",
-              "roman": "sang-dae",
-              "english": "against",
-              "particle": false,
-              "suffix": ""
+              "suffix": "은"
             },
             {
               "korean": "첫",
@@ -1312,404 +943,23 @@
               "suffix": ""
             },
             {
-              "korean": "ODI",
-              "roman": "O-D-I",
-              "english": "ODI",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시리즈",
-              "roman": "si-ri-jeu",
-              "english": "series",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "승리였습니다",
-              "roman": "seung-ri-yeot-seum-ni-da",
-              "english": "was a victory",
-              "particle": false,
-              "suffix": "였습니다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Namibia bowled Ireland out for 129 before reaching 131 for five.",
-          "korean": "나미비아는 아일랜드를 129점에 잡고 131점을 냈습니다.",
-          "glossary": [
-            {
-              "korean": "나미비아는",
-              "roman": "na-mi-bi-a-neun",
-              "english": "Namibia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "아일랜드를",
-              "roman": "a-il-laen-deu-reul",
-              "english": "Ireland",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "129점에",
-              "roman": "baek-i-sip-gu-jeom-e",
-              "english": "at 129 runs",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "잡고",
-              "roman": "jap-go",
-              "english": "dismissed and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "131점을",
-              "roman": "baek-sam-sip-il-jeom-eul",
-              "english": "131 runs",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "냈습니다",
-              "roman": "naet-seum-ni-da",
-              "english": "scored",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Namibia will co-host next year’s World Cup with South Africa and Zimbabwe.",
-          "korean": "나미비아는 남아공과 짐바브웨와 내년 월드컵을 공동 개최합니다.",
-          "glossary": [
-            {
-              "korean": "나미비아는",
-              "roman": "na-mi-bi-a-neun",
-              "english": "Namibia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "남아공과",
-              "roman": "nam-a-gong-gwa",
-              "english": "South Africa and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "짐바브웨와",
-              "roman": "jim-ba-beu-we-wa",
-              "english": "Zimbabwe and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "내년",
-              "roman": "nae-nyeon",
-              "english": "next year’s",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "월드컵을",
-              "roman": "wol-deu-keop-eul",
-              "english": "World Cup",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공동",
-              "roman": "gong-dong",
-              "english": "jointly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "개최합니다",
-              "roman": "gae-choe-ham-ni-da",
-              "english": "co-hosts",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/cricket/namibia-scripts-history-with-maiden-bilateral-odi-series-win-stuns-ireland-3-2/article71655307.ece",
-      "short_english": "Namibia defeated Ireland by five wickets in Windhoek on November 1, 2026.",
-      "short_korean": "나미비아가 2026년 11월 1일 빈트후크에서 이겼습니다.",
-      "date": "2026-11-02",
-      "images": [
-        "images/indian/fe9e9ab16298/1.jpg",
-        "images/indian/fe9e9ab16298/2.jpg",
-        "images/indian/fe9e9ab16298/3.jpg",
-        "images/indian/fe9e9ab16298/4.jpg",
-        "images/indian/fe9e9ab16298/5.jpg",
-        "images/indian/fe9e9ab16298/6.jpg",
-        "images/indian/fe9e9ab16298/7.jpg",
-        "images/indian/fe9e9ab16298/8.jpg",
-        "images/indian/fe9e9ab16298/9.jpg",
-        "images/indian/fe9e9ab16298/10.jpg",
-        "images/indian/fe9e9ab16298/11.jpg",
-        "images/indian/fe9e9ab16298/12.jpg",
-        "images/indian/fe9e9ab16298/13.jpg",
-        "images/indian/fe9e9ab16298/14.jpg",
-        "images/indian/fe9e9ab16298/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/fe9e9ab16298/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "비틀매니아, 인도 투어 시작",
-      "english_title": "Beatlemania brings Beatles songs across India",
-      "korean_desc": "비틀매니아는 2026년 11월 11일 첸나이에서 공연합니다. 유럽 헌정 밴드는 비틀스의 모습과 소리를 재현합니다. 밴드는 벵갈루루와 고아, 하이데라바드를 거쳐 영국으로 돌아갑니다.",
-      "english_desc": "Beatlemania will perform in Chennai on November 11, 2026. The European tribute band recreates the look, sound, and excitement of The Beatles. It will continue to Bengaluru, Goa, and Hyderabad before returning to Britain.",
-      "hook": "Beatlemania will tour India in November.",
-      "sticker": "Beatles night in India 🎸",
-      "korean_hook": "비틀매니아가 11월 인도를 돕니다",
-      "takeaway_english": "The tour turns Beatles nostalgia into a live November event across India.",
-      "takeaway_korean": "이번 투어는 비틀스 향수를 인도의 11월 공연으로 만듭니다.",
-      "why_it_matters": [
-        {
-          "english": "The tour brings a live Beatles-style show to cities beyond corporate events.",
-          "korean": "이번 투어는 기업 행사를 넘어 도시 관객에게 공연을 선물합니다."
-        },
-        {
-          "english": "Music fans can hear many famous songs in one continuous performance.",
-          "korean": "팬들은 한 공연에서 유명한 노래를 많이 들을 수 있습니다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Beatlemania",
-          "english": "The European tribute band will perform across Indian cities in November.",
-          "korean": "유럽 헌정 밴드가 11월 인도 도시에서 공연합니다."
-        },
-        {
-          "label": "Dave Peterson",
-          "english": "He started the band in 1992 and says the current cast formed about five years ago.",
-          "korean": "데이브 피터슨은 1992년에 밴드를 시작했습니다."
-        },
-        {
-          "label": "Indian audiences",
-          "english": "They are expected to know many of the Beatles’ songs.",
-          "korean": "인도 관객은 비틀스 노래를 많이 압니다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Beatlemania",
-          "english": "The band says Indian audiences know the songs and bring strong energy.",
-          "korean": "밴드는 인도 관객이 노래를 알고 열정적이라고 말합니다."
-        },
-        {
-          "label": "Tribute-band perspective",
-          "english": "A tribute show recreates the sound and look, but it is not the original Beatles.",
-          "korean": "헌정 공연은 원조 비틀스가 아니라 음악을 재현합니다."
-        }
-      ],
-      "disagree": {
-        "english": "Some listeners may prefer original recordings, while others enjoy the live spectacle.",
-        "korean": "어떤 사람은 원곡을 좋아하고 다른 사람은 라이브를 좋아합니다."
-      },
-      "reader_question_korean": "헌정 공연과 원곡 중 무엇을 고르겠어요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Beatlemania hits India on tour, plays Chennai, Bengaluru and other cities in November",
-      "hook_format": "vocab",
-      "body_format": "poll",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "poll": {
-          "question": "Would you see a Beatles tribute band live?",
-          "question_korean": "비틀스 헌정 밴드를 직접 보겠어요?",
-          "options": [
-            {
-              "label": "",
-              "english": "Yes, for the music",
-              "korean": "네, 음악 때문에요"
-            },
-            {
-              "label": "",
-              "english": "Maybe, for the show",
-              "korean": "아마요, 공연 때문에요"
-            }
-          ]
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "Chennai: November 11",
-        "Bengaluru: November 12",
-        "Goa: November 13 and 14; Hyderabad: November 15"
-      ],
-      "reader_question": "Would you choose a tribute show or original Beatles recordings?",
-      "topic_tag": "Music",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Beatlemania hits India on tour, plays Chennai, Bengaluru and other cities in November",
-          "date": "2026-11-02",
-          "url": "https://www.thehindu.com/entertainment/music/beatlemania-hits-india-on-tour-plays-chennai-bengaluru-and-other-cities-in-november/article71643833.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "비틀매니아는",
-          "roman": "bi-teul-mae-ni-a-neun",
-          "english": "Beatlemania",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sib-il-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "11일",
-          "roman": "sib-il-il",
-          "english": "11th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "첸나이에서",
-          "roman": "chen-na-i-eseo",
-          "english": "in Chennai",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "공연합니다",
-          "roman": "gong-yeon-ham-ni-da",
-          "english": "performs",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Beatlemania will perform in Chennai on November 11, 2026.",
-          "korean": "비틀매니아는 2026년 11월 11일 첸나이에서 공연합니다.",
-          "glossary": [
-            {
-              "korean": "비틀매니아는",
-              "roman": "bi-teul-mae-ni-a-neun",
-              "english": "Beatlemania",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "11일",
-              "roman": "sib-il-il",
-              "english": "11th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "첸나이에서",
-              "roman": "chen-na-i-eseo",
-              "english": "in Chennai",
+              "korean": "끌림에서",
+              "roman": "kkeullim-eseo",
+              "english": "from attraction",
               "particle": false,
               "suffix": "에서"
             },
             {
-              "korean": "공연합니다",
-              "roman": "gong-yeon-ham-ni-da",
-              "english": "performs",
+              "korean": "균형까지",
+              "roman": "gyunhyeong-kkaji",
+              "english": "to balance",
               "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The European tribute band recreates the look, sound, and excitement of The Beatles.",
-          "korean": "유럽 헌정 밴드는 비틀스의 모습과 소리를 재현합니다.",
-          "glossary": [
-            {
-              "korean": "유럽",
-              "roman": "yu-reop",
-              "english": "Europe",
-              "particle": false,
-              "suffix": ""
+              "suffix": "까지"
             },
             {
-              "korean": "헌정",
-              "roman": "heon-jeong",
-              "english": "tribute",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "밴드는",
-              "roman": "baen-deu-neun",
-              "english": "band",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "비틀스의",
-              "roman": "bi-teul-seu-ui",
-              "english": "The Beatles’",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "모습과",
-              "roman": "mo-seup-gwa",
-              "english": "appearance and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "소리를",
-              "roman": "so-ri-reul",
-              "english": "sound",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "재현합니다",
-              "roman": "jae-hyeon-ham-ni-da",
-              "english": "recreates",
+              "korean": "따른다",
+              "roman": "ttareunda",
+              "english": "follows",
               "particle": false,
               "suffix": ""
             }
@@ -1717,145 +967,1063 @@
         },
         {
           "stage": "next",
-          "english": "It will continue to Bengaluru, Goa, and Hyderabad before returning to Britain.",
-          "korean": "밴드는 벵갈루루와 고아, 하이데라바드를 거쳐 영국으로 돌아갑니다.",
+          "english": "The festive edit adds hand embroidery, silk, cutwork jackets, and dhoti-inspired trousers.",
+          "korean": "축제 컬렉션은 손자수와 실크와 컷워크 재킷과 도티 바지를 더했다.",
           "glossary": [
             {
-              "korean": "밴드는",
-              "roman": "baen-deu-neun",
-              "english": "the band",
+              "korean": "축제",
+              "roman": "chukje",
+              "english": "festive",
               "particle": false,
-              "suffix": "는"
+              "suffix": ""
             },
             {
-              "korean": "벵갈루루와",
-              "roman": "beng-gal-lu-ru-wa",
-              "english": "Bengaluru and",
+              "korean": "컬렉션은",
+              "roman": "keol렉syeon-eun",
+              "english": "collection",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "손자수와",
+              "roman": "sonjasu-wa",
+              "english": "hand embroidery and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "고아",
-              "roman": "go-a",
-              "english": "Goa",
+              "korean": "실크와",
+              "roman": "silkeu-wa",
+              "english": "silk and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "컷워크",
+              "roman": "keotwokeu",
+              "english": "cutwork",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "하이데라바드를",
-              "roman": "ha-i-de-ra-ba-deu-reul",
-              "english": "Hyderabad",
+              "korean": "재킷과",
+              "roman": "jaekit-gwa",
+              "english": "jackets and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "도티",
+              "roman": "Doti",
+              "english": "dhoti",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "바지를",
+              "roman": "baji-reul",
+              "english": "trousers",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "거쳐",
-              "roman": "geo-chyeo",
-              "english": "through",
+              "korean": "더했다",
+              "roman": "deotda",
+              "english": "added",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Both collections are available in Chennai and online from ₹30,000.",
+          "korean": "두 컬렉션은 첸나이와 온라인에서 3만 루피부터 판매된다.",
+          "glossary": [
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "both",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "영국으로",
-              "roman": "yeong-guk-eu-ro",
-              "english": "to Britain",
+              "korean": "컬렉션은",
+              "roman": "keol렉syeon-eun",
+              "english": "collections",
               "particle": false,
-              "suffix": "으로"
+              "suffix": "은"
             },
             {
-              "korean": "돌아갑니다",
-              "roman": "dol-a-gam-ni-da",
-              "english": "returns",
+              "korean": "첸나이와",
+              "roman": "Chennai-wa",
+              "english": "Chennai and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "온라인에서",
+              "roman": "onrain-eseo",
+              "english": "online",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "3만",
+              "roman": "samman",
+              "english": "30,000",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "루피부터",
+              "roman": "rupi-buteo",
+              "english": "rupees and up",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "판매된다",
+              "roman": "panmaedoenda",
+              "english": "are sold",
+              "particle": false,
+              "suffix": "된다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/entertainment/music/beatlemania-hits-india-on-tour-plays-chennai-bengaluru-and-other-cities-in-november/article71643833.ece",
-      "short_english": "Beatlemania will perform in Chennai on November 11, 2026.",
-      "short_korean": "비틀매니아는 2026년 11월 11일 첸나이에서 공연합니다.",
-      "date": "2026-11-02",
+      "url": "https://www.thehindu.com/life-and-style/fashion/gatsby-collections-festive-edits-explore-contemporary-menswear-and-womenswear/article71635144.ece",
+      "short_english": "Chennai label Gatsby Collection launched Quiet Attraction and Borrowed Light for 2026.",
+      "short_korean": "첸나이 브랜드 개츠비 컬렉션은 2026년 콰이어트 어트랙션과 보로우드 라이트를 선보였다.",
+      "date": "2026-11-03",
       "images": [
-        "images/indian/438c08b1e9da/1.jpg",
-        "images/indian/438c08b1e9da/2.jpg",
-        "images/indian/438c08b1e9da/3.jpg",
-        "images/indian/438c08b1e9da/4.jpg",
-        "images/indian/438c08b1e9da/5.jpg",
-        "images/indian/438c08b1e9da/6.jpg",
-        "images/indian/438c08b1e9da/7.jpg",
-        "images/indian/438c08b1e9da/8.jpg",
-        "images/indian/438c08b1e9da/9.jpg",
-        "images/indian/438c08b1e9da/10.jpg",
-        "images/indian/438c08b1e9da/11.jpg",
-        "images/indian/438c08b1e9da/12.jpg",
-        "images/indian/438c08b1e9da/13.jpg",
-        "images/indian/438c08b1e9da/14.jpg"
+        "images/indian/36c33c745fce/1.jpg",
+        "images/indian/36c33c745fce/2.jpg",
+        "images/indian/36c33c745fce/3.jpg",
+        "images/indian/36c33c745fce/4.jpg",
+        "images/indian/36c33c745fce/5.jpg",
+        "images/indian/36c33c745fce/6.jpg",
+        "images/indian/36c33c745fce/7.jpg",
+        "images/indian/36c33c745fce/8.jpg",
+        "images/indian/36c33c745fce/9.jpg",
+        "images/indian/36c33c745fce/10.jpg",
+        "images/indian/36c33c745fce/11.jpg",
+        "images/indian/36c33c745fce/12.jpg",
+        "images/indian/36c33c745fce/13.jpg",
+        "images/indian/36c33c745fce/14.jpg",
+        "images/indian/36c33c745fce/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/438c08b1e9da/caption.txt"
+      "caption_file": "images/indian/36c33c745fce/caption.txt"
     },
     {
-      "category": "World",
-      "korean_title": "시진핑의 중국 숙청은 계속된다",
-      "english_title": "China’s anti-corruption purge shows no clear ending",
-      "korean_desc": "중국 공산당은 2026년 10월 29일 베이징 회의를 끝냈습니다. 회의는 더 강한 당 규율과 반부패 활동을 요구했습니다. 고위 인사 33명이 쫓겨났고 장성민은 정치국에 들어갔습니다. 분석가들은 숙청의 주된 목적을 두고 의견이 갈립니다.",
-      "english_desc": "China’s Communist Party ended a four-day meeting in Beijing on October 29, 2026. The meeting called for stronger party discipline and continued anti-corruption work. Thirty-three officials were expelled, while Zhang Shengmin entered the Politburo. Analysts disagree over whether the purge mainly fights corruption or strengthens Xi’s control.",
-      "hook": "China’s ruling party is extending its anti-corruption campaign.",
-      "sticker": "China’s power shift",
-      "korean_hook": "중국의 반부패 숙청이 계속됩니다",
-      "takeaway_english": "The latest meeting suggests discipline and personnel changes will remain central to Xi’s rule.",
-      "takeaway_korean": "최근 회의는 규율과 인사 변화가 계속 중요하다는 뜻입니다.",
+      "category": "Sports",
+      "korean_title": "안전 우려로 아시안컵 연기",
+      "english_title": "Asian Cup moves from January 2027 to December",
+      "korean_desc": "AFC는 사우디 아시안컵을 2027년 1월에서 12월로 연기했다. 연맹은 지역 위험과 여행 차질과 물류 문제를 이유로 들었다. 새 대회는 2027년 12월 23일부터 2028년 1월 21일까지 열린다. 새 일정은 FIFA 승인이 필요하고 사우디 조직위는 준비를 계속한다.",
+      "english_desc": "The AFC postponed Saudi Arabia’s Asian Cup from January 2027 to December 2027. The confederation cited regional danger, travel disruption, and logistical problems. The new tournament dates are December 23, 2027, through January 21, 2028. The dates still need FIFA approval, while Saudi organisers continue preparations.",
+      "hook": "The Asian Cup moved almost a year for safety.",
+      "sticker": "What changed",
+      "korean_hook": "안전을 위해 아시안컵이 거의 1년 연기됐다",
+      "takeaway_english": "The tournament is still planned, but safety now sets the timetable.",
+      "takeaway_korean": "대회는 계속 예정됐지만 이제 안전이 일정을 정한다.",
       "why_it_matters": [
         {
-          "english": "Leadership purges can affect China’s military decisions and relations with other countries.",
-          "korean": "지도부 숙청은 중국의 군사 결정과 외교에 영향을 줄 수 있습니다."
-        },
-        {
-          "english": "Repeated investigations can change who holds power inside one of the world’s strongest states.",
-          "korean": "반복되는 조사는 강대국 중국의 권력 구조를 바꿀 수 있습니다."
+          "english": "The decision shows how regional conflict can reshape major sports events.",
+          "korean": "이번 결정은 지역 분쟁이 큰 스포츠 행사를 바꿀 수 있음을 보여준다."
         }
       ],
       "parties": [
         {
-          "label": "Xi Jinping",
-          "english": "He is continuing an anti-corruption drive across political and military institutions.",
-          "korean": "시진핑은 정치와 군대에서 반부패 운동을 계속합니다."
+          "label": "AFC",
+          "english": "It moved the tournament because of regional security and travel problems.",
+          "korean": "AFC는 지역 안보와 여행 문제 때문에 대회를 옮겼다."
         },
         {
-          "label": "Chinese Communist Party",
-          "english": "It approved stronger self-governance and discipline after the October plenum.",
-          "korean": "중국 공산당은 더 강한 당 규율을 승인했습니다."
+          "label": "Players and fans",
+          "english": "They will wait longer, but the change is intended to reduce safety risks.",
+          "korean": "선수와 팬들은 더 기다리지만 안전 위험은 줄어들 수 있다."
         },
         {
-          "label": "Zhang Shengmin",
-          "english": "The military anti-corruption official was promoted to the Politburo.",
-          "korean": "장성민은 정치국으로 승진했습니다."
+          "label": "Saudi organisers",
+          "english": "They said preparations will continue for the new dates.",
+          "korean": "사우디 조직위는 새 일정 준비를 계속한다고 했다."
         }
       ],
       "views": [
         {
-          "label": "Chinese officials",
-          "english": "They describe the campaign as necessary to remove corruption and strengthen party rule.",
-          "korean": "중국 당국은 숙청이 부패를 없애고 통치를 강화한다고 말합니다."
+          "label": "AFC",
+          "english": "Postponement protects teams, officials, spectators, and other participants.",
+          "korean": "연기는 팀과 관계자와 관중과 참가자를 보호한다고 했다."
         },
         {
-          "label": "Outside analysts",
-          "english": "They argue the campaign may also remove rivals and prepare Xi for continued rule.",
-          "korean": "외부 분석가들은 숙청이 경쟁자를 없애고 시진핑의 장기 집권을 준비한다고 봅니다."
+          "label": "Saudi organisers",
+          "english": "Saudi Arabia remains fully ready and preparations can continue.",
+          "korean": "사우디는 준비가 충분하며 준비를 계속할 수 있다고 했다."
         }
       ],
       "disagree": {
-        "english": "The public record cannot fully show whether each case is corruption, political conflict, or both.",
-        "korean": "공개 자료만으로 각 사건의 성격을 모두 알 수는 없습니다."
+        "english": "Some may worry that another delay could disrupt teams, travel plans, and the tournament calendar.",
+        "korean": "다른 사람들은 추가 연기가 팀과 여행 계획과 일정을 흔들 수 있다고 걱정할 수 있다."
       },
-      "reader_question_korean": "반부패 운동이 정치적 통제도 키울 수 있을까요?",
+      "reader_question_korean": "선수와 팬에게 연기가 옳은 선택이었을까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "The unending purge in Xi’s China",
+      "source_title": "2027 Asian Cup football tournament in Saudi Arabia postponed over safety",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "New dates: December 23, 2027 to January 21, 2028.",
+        "FIFA still needs to approve the new dates."
+      ],
+      "reader_question": "Was postponement the right choice for players and fans?",
+      "topic_tag": "Sports",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "2027 Asian Cup football tournament in Saudi Arabia postponed over safety",
+          "date": "2026-11-03",
+          "url": "https://www.thehindu.com/sport/football/2027-asian-cup-football-tournament-in-saudi-arabia-postponed-over-safety/article71659986.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "AFC는",
+          "roman": "AFC-neun",
+          "english": "AFC",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "사우디",
+          "roman": "Saudi",
+          "english": "Saudi",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "아시안컵을",
+          "roman": "as-ian-keop-eul",
+          "english": "Asian Cup",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "2027년",
+          "roman": "icheon-isipsi-chil-nyeon",
+          "english": "2027",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "1월에서",
+          "roman": "irwol-eseo",
+          "english": "from January",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "12월로",
+          "roman": "sibiwol-lo",
+          "english": "to December",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "연기했다",
+          "roman": "yeongihaetda",
+          "english": "postponed",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "The AFC postponed Saudi Arabia’s Asian Cup from January 2027 to December 2027.",
+          "korean": "AFC는 사우디 아시안컵을 2027년 1월에서 12월로 연기했다.",
+          "glossary": [
+            {
+              "korean": "AFC는",
+              "roman": "AFC-neun",
+              "english": "AFC",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "사우디",
+              "roman": "Saudi",
+              "english": "Saudi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아시안컵을",
+              "roman": "as-ian-keop-eul",
+              "english": "Asian Cup",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "2027년",
+              "roman": "icheon-isipsi-chil-nyeon",
+              "english": "2027",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "1월에서",
+              "roman": "irwol-eseo",
+              "english": "from January",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "12월로",
+              "roman": "sibiwol-lo",
+              "english": "to December",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "연기했다",
+              "roman": "yeongihaetda",
+              "english": "postponed",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The confederation cited regional danger, travel disruption, and logistical problems.",
+          "korean": "연맹은 지역 위험과 여행 차질과 물류 문제를 이유로 들었다.",
+          "glossary": [
+            {
+              "korean": "연맹은",
+              "roman": "yeonmaeng-eun",
+              "english": "confederation",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "지역",
+              "roman": "jiyeok",
+              "english": "regional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "위험과",
+              "roman": "wiheom-gwa",
+              "english": "danger and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "여행",
+              "roman": "yeohaeng",
+              "english": "travel",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "차질과",
+              "roman": "chajil-gwa",
+              "english": "disruption and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "물류",
+              "roman": "mulryu",
+              "english": "logistics",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "문제를",
+              "roman": "munje-reul",
+              "english": "problems",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "이유로",
+              "roman": "iyu-ro",
+              "english": "as reasons",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "들었다",
+              "roman": "deureotda",
+              "english": "cited",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The new tournament dates are December 23, 2027, through January 21, 2028.",
+          "korean": "새 대회는 2027년 12월 23일부터 2028년 1월 21일까지 열린다.",
+          "glossary": [
+            {
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대회는",
+              "roman": "daehoe-neun",
+              "english": "tournament",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2027년",
+              "roman": "icheon-isipsi-chil-nyeon",
+              "english": "2027",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "12월",
+              "roman": "sibiwol",
+              "english": "December",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "23일부터",
+              "roman": "isipsam-ilbuteo",
+              "english": "from 23",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "2028년",
+              "roman": "icheon-isipsipal-nyeon",
+              "english": "2028",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "1월",
+              "roman": "irwol",
+              "english": "January",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "21일까지",
+              "roman": "isibil-kkaji",
+              "english": "through 21",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "열린다",
+              "roman": "yeollinda",
+              "english": "will be held",
+              "particle": false,
+              "suffix": "린다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The dates still need FIFA approval, while Saudi organisers continue preparations.",
+          "korean": "새 일정은 FIFA 승인이 필요하고 사우디 조직위는 준비를 계속한다.",
+          "glossary": [
+            {
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "일정은",
+              "roman": "iljeong-eun",
+              "english": "dates",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "FIFA",
+              "roman": "FIFA",
+              "english": "FIFA",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "승인이",
+              "roman": "seung-in-i",
+              "english": "approval",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "필요하고",
+              "roman": "piryo-hago",
+              "english": "is needed and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "사우디",
+              "roman": "Saudi",
+              "english": "Saudi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "조직위는",
+              "roman": "jojigwi-neun",
+              "english": "organisers",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "준비를",
+              "roman": "junbi-reul",
+              "english": "preparations",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "계속한다",
+              "roman": "gyesokhanda",
+              "english": "continue",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/sport/football/2027-asian-cup-football-tournament-in-saudi-arabia-postponed-over-safety/article71659986.ece",
+      "short_english": "The AFC postponed Saudi Arabia’s Asian Cup from January 2027 to December 2027.",
+      "short_korean": "AFC는 사우디 아시안컵을 2027년 1월에서 12월로 연기했다.",
+      "date": "2026-11-03",
+      "images": [
+        "images/indian/f6c02b837d4e/1.jpg",
+        "images/indian/f6c02b837d4e/2.jpg",
+        "images/indian/f6c02b837d4e/3.jpg",
+        "images/indian/f6c02b837d4e/4.jpg",
+        "images/indian/f6c02b837d4e/5.jpg",
+        "images/indian/f6c02b837d4e/6.jpg",
+        "images/indian/f6c02b837d4e/7.jpg",
+        "images/indian/f6c02b837d4e/8.jpg",
+        "images/indian/f6c02b837d4e/9.jpg",
+        "images/indian/f6c02b837d4e/10.jpg",
+        "images/indian/f6c02b837d4e/11.jpg",
+        "images/indian/f6c02b837d4e/12.jpg",
+        "images/indian/f6c02b837d4e/13.jpg",
+        "images/indian/f6c02b837d4e/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/f6c02b837d4e/caption.txt"
+    },
+    {
+      "category": "Entertainment",
+      "korean_title": "퍼시 잭슨 시즌 3 새 예고편",
+      "english_title": "Percy’s new quest puts Annabeth in danger",
+      "korean_desc": "디즈니+는 2026년 11월 20일 공개 전 시즌 3 예고편을 내놓았다. 퍼시는 그로버와 함께 크로노스의 군대에서 애너베스를 구한다. 모험에는 갇힌 여신과 올림포스를 위협하는 예언도 나온다. 디즈니+는 처음 두 편 뒤 매주 두 편을 공개한다.",
+      "english_desc": "Disney+ released the Season 3 trailer before its November 20, 2026 premiere. Percy travels with Grover to rescue Annabeth from Kronos’s forces. The quest also involves a captive goddess and a prophecy threatening Olympus. Disney+ will release two opening episodes, then two new episodes weekly.",
+      "hook": "Percy must rescue Annabeth before Olympus faces danger.",
+      "sticker": "A quest begins",
+      "korean_hook": "퍼시는 위험에 빠진 애너베스를 구해야 한다",
+      "takeaway_english": "Season 3 turns a rescue mission into a larger fight over Olympus’s future.",
+      "takeaway_korean": "시즌 3은 구조 임무를 올림포스의 미래를 건 싸움으로 키운다.",
+      "why_it_matters": [
+        {
+          "english": "Fans can see the third Percy Jackson book receive its first screen adaptation.",
+          "korean": "팬들은 퍼시 잭슨 세 번째 책의 첫 영상화를 볼 수 있다."
+        },
+        {
+          "english": "Weekly releases give viewers a continuing mystery instead of one large drop.",
+          "korean": "매주 공개되어 시청자는 한 번에 몰아보지 않고 계속 추리한다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Percy Jackson",
+          "english": "He begins a dangerous quest to rescue Annabeth.",
+          "korean": "퍼시는 애너베스를 구하려고 위험한 모험을 시작한다."
+        },
+        {
+          "label": "Disney+",
+          "english": "It releases Season 3 on November 20 with two opening episodes.",
+          "korean": "디즈니+는 11월 20일 두 에피소드로 시즌 3을 공개한다."
+        },
+        {
+          "label": "New characters",
+          "english": "Nico, Bianca, Artemis, and other figures join the season.",
+          "korean": "니코와 비앙카와 아르테미스 등이 시즌에 합류한다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Disney",
+          "english": "The season expands the world with more gods, enemies, and allies.",
+          "korean": "이번 시즌은 더 많은 신과 적과 동료로 세계를 넓힌다."
+        },
+        {
+          "label": "Book readers",
+          "english": "The season matters because it is the first screen version of The Titan’s Curse.",
+          "korean": "팬들에게는 타이탄의 저주가 처음 영상화되어 중요하다."
+        }
+      ],
+      "disagree": {
+        "english": "Viewers may prefer the book’s version because adaptation choices can change familiar characters and events.",
+        "korean": "시청자들은 각색이 익숙한 인물과 사건을 바꿀 수 있어 원작을 더 좋아할 수 있다."
+      },
+      "reader_question_korean": "어떤 새 인물이 가장 궁금한가요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "‘Percy Jackson and the Olympians’ Season 3 trailer: Percy embarks on a dangerous quest to save Annabeth",
+      "hook_format": "vocab",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "Season 3 premieres November 20, 2026.",
+        "It adapts Rick Riordan’s The Titan’s Curse."
+      ],
+      "reader_question": "Which new character are you most curious to meet?",
+      "topic_tag": "Entertainment",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "‘Percy Jackson and the Olympians’ Season 3 trailer: Percy embarks on a dangerous quest to save Annabeth",
+          "date": "2026-11-03",
+          "url": "https://www.thehindu.com/entertainment/movies/percy-jackson-and-the-olympians-season-3-trailer-percy-embarks-on-a-dangerous-quest-to-save-annabeth/article71659692.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "디즈니+는",
+          "roman": "Dijeuni-peulleoseu-neun",
+          "english": "Disney+",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isipsi-yuk-nyeon",
+          "english": "2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibirwol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "20일",
+          "roman": "isibil",
+          "english": "20",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "공개",
+          "roman": "gonggae",
+          "english": "premiere",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "전",
+          "roman": "jeon",
+          "english": "before",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "시즌",
+          "roman": "sijeun",
+          "english": "season",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "예고편을",
+          "roman": "yegopyeon-eul",
+          "english": "trailer",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "내놓았다",
+          "roman": "naenohatda",
+          "english": "released",
+          "particle": false,
+          "suffix": "았다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Disney+ released the Season 3 trailer before its November 20, 2026 premiere.",
+          "korean": "디즈니+는 2026년 11월 20일 공개 전 시즌 3 예고편을 내놓았다.",
+          "glossary": [
+            {
+              "korean": "디즈니+는",
+              "roman": "Dijeuni-peulleoseu-neun",
+              "english": "Disney+",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isipsi-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibirwol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "20일",
+              "roman": "isibil",
+              "english": "20",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공개",
+              "roman": "gonggae",
+              "english": "premiere",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전",
+              "roman": "jeon",
+              "english": "before",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시즌",
+              "roman": "sijeun",
+              "english": "season",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "예고편을",
+              "roman": "yegopyeon-eul",
+              "english": "trailer",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "내놓았다",
+              "roman": "naenohatda",
+              "english": "released",
+              "particle": false,
+              "suffix": "았다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Percy travels with Grover to rescue Annabeth from Kronos’s forces.",
+          "korean": "퍼시는 그로버와 함께 크로노스의 군대에서 애너베스를 구한다.",
+          "glossary": [
+            {
+              "korean": "퍼시는",
+              "roman": "Peosi-neun",
+              "english": "Percy",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "그로버와",
+              "roman": "Geurobeo-wa",
+              "english": "with Grover",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "함께",
+              "roman": "hamkke",
+              "english": "together",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "크로노스의",
+              "roman": "Keuronoseu-ui",
+              "english": "Kronos’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "군대에서",
+              "roman": "gundae-eseo",
+              "english": "from forces",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "애너베스를",
+              "roman": "Aneobeseu-reul",
+              "english": "Annabeth",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "구한다",
+              "roman": "guhanda",
+              "english": "rescues",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The quest also involves a captive goddess and a prophecy threatening Olympus.",
+          "korean": "모험에는 갇힌 여신과 올림포스를 위협하는 예언도 나온다.",
+          "glossary": [
+            {
+              "korean": "모험에는",
+              "roman": "moheom-eneun",
+              "english": "in the quest",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "갇힌",
+              "roman": "gathin",
+              "english": "captive",
+              "particle": false,
+              "suffix": "힌"
+            },
+            {
+              "korean": "여신과",
+              "roman": "yeosin-gwa",
+              "english": "goddess and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "올림포스를",
+              "roman": "Ollimposeu-reul",
+              "english": "Olympus",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "위협하는",
+              "roman": "wiheomhaneun",
+              "english": "threatening",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "예언도",
+              "roman": "ye-eondo",
+              "english": "prophecy too",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "나온다",
+              "roman": "naonda",
+              "english": "appears",
+              "particle": false,
+              "suffix": "온다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Disney+ will release two opening episodes, then two new episodes weekly.",
+          "korean": "디즈니+는 처음 두 편 뒤 매주 두 편을 공개한다.",
+          "glossary": [
+            {
+              "korean": "디즈니+는",
+              "roman": "Dijeuni-peulleoseu-neun",
+              "english": "Disney+",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "처음",
+              "roman": "cheoeum",
+              "english": "opening",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "편",
+              "roman": "pyeon",
+              "english": "episodes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "매주",
+              "roman": "maeju",
+              "english": "weekly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "편을",
+              "roman": "pyeon-eul",
+              "english": "episodes",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "공개한다",
+              "roman": "gonggaehanda",
+              "english": "releases",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/movies/percy-jackson-and-the-olympians-season-3-trailer-percy-embarks-on-a-dangerous-quest-to-save-annabeth/article71659692.ece",
+      "short_english": "Disney+ released the Season 3 trailer before its November 20, 2026 premiere.",
+      "short_korean": "디즈니+는 2026년 11월 20일 공개 전 시즌 3 예고편을 내놓았다.",
+      "date": "2026-11-03",
+      "images": [
+        "images/indian/9db06d1c1ce8/1.jpg",
+        "images/indian/9db06d1c1ce8/2.jpg",
+        "images/indian/9db06d1c1ce8/3.jpg",
+        "images/indian/9db06d1c1ce8/4.jpg",
+        "images/indian/9db06d1c1ce8/5.jpg",
+        "images/indian/9db06d1c1ce8/6.jpg",
+        "images/indian/9db06d1c1ce8/7.jpg",
+        "images/indian/9db06d1c1ce8/8.jpg",
+        "images/indian/9db06d1c1ce8/9.jpg",
+        "images/indian/9db06d1c1ce8/10.jpg",
+        "images/indian/9db06d1c1ce8/11.jpg",
+        "images/indian/9db06d1c1ce8/12.jpg",
+        "images/indian/9db06d1c1ce8/13.jpg",
+        "images/indian/9db06d1c1ce8/14.jpg",
+        "images/indian/9db06d1c1ce8/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/9db06d1c1ce8/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "이란·사우디 대화와 예멘 전투",
+      "english_title": "Iran and Saudi Arabia talk as Yemen fighting worsens",
+      "korean_desc": "이란 외무장관 압바스 아라그치는 2026년 11월 3일 이란과 사우디 대화가 계속된다고 말했다. 대화 전 테헤란에서 사우디와 튀르키예와 파키스탄 관리들이 만났다. 그동안 후티의 사우디 공항과 석유 시설 공격은 심해졌다. 사우디의 예멘 공습이 이어졌고 내전도 계속됐다.",
+      "english_desc": "Iranian Foreign Minister Abbas Araqchi said Iran-Saudi talks continued on November 3, 2026. The talks followed a Tehran meeting with Saudi, Turkish, and Pakistani officials. Meanwhile, Houthi attacks on Saudi airports and oil facilities intensified. Saudi airstrikes on Yemen followed, while the civil war continued.",
+      "hook": "Iran and Saudi Arabia are talking while Yemen’s war intensifies.",
+      "sticker": "Talks amid fighting",
+      "korean_hook": "이란과 사우디는 대화하고 예멘 전투는 격화된다",
+      "takeaway_english": "Diplomacy is active, but the violence shows how fragile the region remains.",
+      "takeaway_korean": "외교는 진행 중이지만 폭력은 지역이 여전히 불안정함을 보여준다.",
+      "why_it_matters": [
+        {
+          "english": "Attacks have affected airports, oil facilities, flights, and oil exports.",
+          "korean": "공격은 공항과 석유 시설과 항공편과 석유 수출에 영향을 줬다."
+        },
+        {
+          "english": "Fighting near major shipping chokepoints can affect movement beyond Yemen.",
+          "korean": "주요 해상 요충지 주변 전투는 예멘 밖의 이동에도 영향을 줄 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Iran",
+          "english": "It says talks with Saudi Arabia are continuing.",
+          "korean": "이란은 사우디와 대화를 계속한다고 말한다."
+        },
+        {
+          "label": "Saudi Arabia",
+          "english": "It faces Houthi attacks on infrastructure, airports, and oil facilities.",
+          "korean": "사우디는 인프라와 공항과 석유 시설 공격을 받는다."
+        },
+        {
+          "label": "Yemen",
+          "english": "The country remains caught in a civil war involving the Houthis and a Saudi-backed government.",
+          "korean": "예멘은 후티와 사우디 지원 정부가 싸우는 내전에 갇혀 있다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Iranian Foreign Minister Abbas Araqchi",
+          "english": "Regional countries should create security arrangements without foreign military involvement.",
+          "korean": "지역 국가들이 외국군 없이 안보 협정을 만들어야 한다고 했다."
+        },
+        {
+          "label": "Saudi officials",
+          "english": "Negotiating channels are needed to prevent another military escalation.",
+          "korean": "또 다른 군사 확산을 막으려면 협상 통로가 필요하다고 했다."
+        }
+      ],
+      "disagree": {
+        "english": "Critics may doubt whether talks can progress while attacks and airstrikes continue in Yemen and Saudi Arabia.",
+        "korean": "비판자들은 예멘과 사우디 공격이 계속되는 동안 대화가 진전될지 의심할 수 있다."
+      },
+      "reader_question_korean": "전투가 계속돼도 지역 대화가 성공할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -1865,354 +2033,410 @@
       "format_data": {
         "views": [
           {
-            "label": "Chinese Communist Party",
-            "english": "Tighter discipline is presented as a way to strengthen party governance.",
-            "korean": "중국 공산당은 강한 규율이 통치를 강화한다고 말합니다."
+            "label": "Iran",
+            "english": "Tehran wants regional security arrangements without foreign military involvement.",
+            "korean": "이란은 외국군 없이 지역 안보 협정을 원한다."
           },
           {
-            "label": "Outside analysts",
-            "english": "Some analysts see the purges as also strengthening Xi Jinping’s political control.",
-            "korean": "일부 분석가는 숙청이 시진핑의 통제도 강화한다고 봅니다."
+            "label": "Saudi Arabia",
+            "english": "Riyadh says talks should prevent military escalation from returning.",
+            "korean": "사우디는 대화가 군사 확산을 막아야 한다고 말한다."
           }
         ]
       },
-      "serious": false,
+      "serious": true,
       "caption_lines": [
-        "Plenum ended: October 29, 2026",
-        "The next Party Congress is expected in the second half of 2027",
-        "Zhang Shengmin joined the Politburo"
+        "The latest update came on November 3, 2026.",
+        "The Bab el-Mandeb and Hormuz are key shipping chokepoints."
       ],
-      "reader_question": "Can an anti-corruption campaign also increase political control?",
-      "topic_tag": "Politics",
+      "reader_question": "Can regional talks work while fighting continues?",
+      "topic_tag": "Conflict",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "The unending purge in Xi’s China",
-          "date": "2026-11-02",
-          "url": "https://www.thehindu.com/news/international/the-unending-purge-in-xis-china/article71653156.ece"
+          "title": "Iran's Foreign Minister says talks with Saudi Arabia are ongoing; Yemen fighting intensifies",
+          "date": "2026-11-03",
+          "url": "https://www.thehindu.com/news/international/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies/article71659845.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "중국",
-          "roman": "jung-guk",
-          "english": "China",
+          "korean": "이란",
+          "roman": "Iran",
+          "english": "Iranian",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "공산당은",
-          "roman": "gong-san-dang-eun",
-          "english": "Communist Party",
+          "korean": "외무장관",
+          "roman": "oemujangwan",
+          "english": "foreign minister",
           "particle": false,
-          "suffix": "은"
+          "suffix": ""
+        },
+        {
+          "korean": "압바스",
+          "roman": "Abbaseu",
+          "english": "Abbas",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "아라그치는",
+          "roman": "Arageuchineun",
+          "english": "Araqchi",
+          "particle": false,
+          "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "year 2026",
+          "roman": "icheon-isipsi-yuk-nyeon",
+          "english": "2026",
           "particle": false,
           "suffix": "년"
         },
         {
-          "korean": "10월",
-          "roman": "sib-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "29일",
-          "roman": "i-sip-gu-il",
-          "english": "29th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "베이징",
-          "roman": "be-i-jing",
-          "english": "Beijing",
+          "korean": "11월",
+          "roman": "sibirwol",
+          "english": "November",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "회의를",
-          "roman": "hoe-ui-reul",
-          "english": "meeting",
+          "korean": "3일",
+          "roman": "sam-il",
+          "english": "3",
           "particle": false,
-          "suffix": "를"
+          "suffix": ""
         },
         {
-          "korean": "끝냈습니다",
-          "roman": "kkeut-naet-seum-ni-da",
-          "english": "ended",
+          "korean": "이란과",
+          "roman": "Iran-gwa",
+          "english": "Iran and",
           "particle": false,
-          "suffix": "습니다"
+          "suffix": "과"
+        },
+        {
+          "korean": "사우디",
+          "roman": "Saudi",
+          "english": "Saudi",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "대화가",
+          "roman": "daehwa-ga",
+          "english": "talks",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "계속된다고",
+          "roman": "gyesokdoendago",
+          "english": "continued",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "말했다",
+          "roman": "malhaetda",
+          "english": "said",
+          "particle": false,
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "China’s Communist Party ended a four-day meeting in Beijing on October 29, 2026.",
-          "korean": "중국 공산당은 2026년 10월 29일 베이징 회의를 끝냈습니다.",
+          "english": "Iranian Foreign Minister Abbas Araqchi said Iran-Saudi talks continued on November 3, 2026.",
+          "korean": "이란 외무장관 압바스 아라그치는 2026년 11월 3일 이란과 사우디 대화가 계속된다고 말했다.",
           "glossary": [
             {
-              "korean": "중국",
-              "roman": "jung-guk",
-              "english": "China",
+              "korean": "이란",
+              "roman": "Iran",
+              "english": "Iranian",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "공산당은",
-              "roman": "gong-san-dang-eun",
-              "english": "Communist Party",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sib-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "29일",
-              "roman": "i-sip-gu-il",
-              "english": "29th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "베이징",
-              "roman": "be-i-jing",
-              "english": "Beijing",
+              "korean": "외무장관",
+              "roman": "oemujangwan",
+              "english": "foreign minister",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "회의를",
-              "roman": "hoe-ui-reul",
-              "english": "meeting",
+              "korean": "압바스",
+              "roman": "Abbaseu",
+              "english": "Abbas",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "끝냈습니다",
-              "roman": "kkeut-naet-seum-ni-da",
-              "english": "ended",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The meeting called for stronger party discipline and continued anti-corruption work.",
-          "korean": "회의는 더 강한 당 규율과 반부패 활동을 요구했습니다.",
-          "glossary": [
-            {
-              "korean": "회의는",
-              "roman": "hoe-ui-neun",
-              "english": "the meeting",
+              "korean": "아라그치는",
+              "roman": "Arageuchineun",
+              "english": "Araqchi",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
+              "korean": "2026년",
+              "roman": "icheon-isipsi-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibirwol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "강한",
-              "roman": "gang-han",
-              "english": "stronger",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "당",
-              "roman": "dang",
-              "english": "party",
+              "korean": "3일",
+              "roman": "sam-il",
+              "english": "3",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "규율과",
-              "roman": "gyu-yul-gwa",
-              "english": "discipline and",
+              "korean": "이란과",
+              "roman": "Iran-gwa",
+              "english": "Iran and",
               "particle": false,
               "suffix": "과"
             },
             {
-              "korean": "반부패",
-              "roman": "ban-bu-pae",
-              "english": "anti-corruption",
+              "korean": "사우디",
+              "roman": "Saudi",
+              "english": "Saudi",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "활동을",
-              "roman": "hwal-dong-eul",
-              "english": "work",
+              "korean": "대화가",
+              "roman": "daehwa-ga",
+              "english": "talks",
               "particle": false,
-              "suffix": "을"
+              "suffix": "가"
             },
             {
-              "korean": "요구했습니다",
-              "roman": "yo-gu-haet-seum-ni-da",
-              "english": "called for",
+              "korean": "계속된다고",
+              "roman": "gyesokdoendago",
+              "english": "continued",
               "particle": false,
-              "suffix": "습니다"
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Thirty-three officials were expelled, while Zhang Shengmin entered the Politburo.",
-          "korean": "고위 인사 33명이 쫓겨났고 장성민은 정치국에 들어갔습니다.",
+          "english": "The talks followed a Tehran meeting with Saudi, Turkish, and Pakistani officials.",
+          "korean": "대화 전 테헤란에서 사우디와 튀르키예와 파키스탄 관리들이 만났다.",
           "glossary": [
             {
-              "korean": "고위",
-              "roman": "go-wi",
-              "english": "senior",
+              "korean": "대화",
+              "roman": "daehwa",
+              "english": "talks",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "인사",
-              "roman": "in-sa",
+              "korean": "전",
+              "roman": "jeon",
+              "english": "before",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "테헤란에서",
+              "roman": "Teheran-eseo",
+              "english": "in Tehran",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "사우디와",
+              "roman": "Saudi-wa",
+              "english": "Saudi and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "튀르키예와",
+              "roman": "Twireukiyye-wa",
+              "english": "Türkiye and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "파키스탄",
+              "roman": "Pakistan",
+              "english": "Pakistan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "관리들이",
+              "roman": "gwanrideul-i",
               "english": "officials",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "33명이",
-              "roman": "sam-sip-sam-myeong-i",
-              "english": "33 people",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "쫓겨났고",
-              "roman": "jjot-gyeo-nat-go",
-              "english": "were expelled and",
+              "korean": "만났다",
+              "roman": "mannatda",
+              "english": "met",
               "particle": false,
-              "suffix": "고"
+              "suffix": "났다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Meanwhile, Houthi attacks on Saudi airports and oil facilities intensified.",
+          "korean": "그동안 후티의 사우디 공항과 석유 시설 공격은 심해졌다.",
+          "glossary": [
+            {
+              "korean": "그동안",
+              "roman": "geudongan",
+              "english": "meanwhile",
+              "particle": false,
+              "suffix": ""
             },
             {
-              "korean": "장성민은",
-              "roman": "jang-seong-min-eun",
-              "english": "Zhang Shengmin",
+              "korean": "후티의",
+              "roman": "Huti-ui",
+              "english": "Houthi’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "사우디",
+              "roman": "Saudi",
+              "english": "Saudi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공항과",
+              "roman": "gonghang-gwa",
+              "english": "airports and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "석유",
+              "roman": "seogyu",
+              "english": "oil",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시설",
+              "roman": "siseol",
+              "english": "facilities",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공격은",
+              "roman": "gonggyeok-eun",
+              "english": "attacks",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "정치국에",
-              "roman": "jeong-chi-guk-e",
-              "english": "to the Politburo",
+              "korean": "심해졌다",
+              "roman": "simhaejyeotda",
+              "english": "intensified",
               "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "들어갔습니다",
-              "roman": "deul-eo-gat-seum-ni-da",
-              "english": "entered",
-              "particle": false,
-              "suffix": "습니다"
+              "suffix": "졌다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Analysts disagree over whether the purge mainly fights corruption or strengthens Xi’s control.",
-          "korean": "분석가들은 숙청의 주된 목적을 두고 의견이 갈립니다.",
+          "english": "Saudi airstrikes on Yemen followed, while the civil war continued.",
+          "korean": "사우디의 예멘 공습이 이어졌고 내전도 계속됐다.",
           "glossary": [
             {
-              "korean": "분석가들은",
-              "roman": "bun-seok-ga-deul-eun",
-              "english": "analysts",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "숙청의",
-              "roman": "suk-cheong-ui",
-              "english": "of the purge",
+              "korean": "사우디의",
+              "roman": "Saudi-ui",
+              "english": "Saudi’s",
               "particle": false,
               "suffix": "의"
             },
             {
-              "korean": "주된",
-              "roman": "ju-doen",
-              "english": "main",
+              "korean": "예멘",
+              "roman": "Yemen",
+              "english": "Yemen",
               "particle": false,
-              "suffix": "된"
+              "suffix": ""
             },
             {
-              "korean": "목적을",
-              "roman": "mok-jeok-eul",
-              "english": "purpose",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "두고",
-              "roman": "du-go",
-              "english": "about",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "의견이",
-              "roman": "ui-gyeon-i",
-              "english": "opinions",
+              "korean": "공습이",
+              "roman": "gongseub-i",
+              "english": "airstrikes",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "갈립니다",
-              "roman": "gal-lim-ni-da",
-              "english": "are divided",
+              "korean": "이어졌고",
+              "roman": "ieojyeotgo",
+              "english": "continued and",
               "particle": false,
-              "suffix": ""
+              "suffix": "고"
+            },
+            {
+              "korean": "내전도",
+              "roman": "naejeondo",
+              "english": "civil war too",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "계속됐다",
+              "roman": "gyesokdwaetda",
+              "english": "continued",
+              "particle": false,
+              "suffix": "됐다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/the-unending-purge-in-xis-china/article71653156.ece",
-      "short_english": "China’s Communist Party ended a four-day meeting in Beijing on October 29, 2026.",
-      "short_korean": "중국 공산당은 2026년 10월 29일 베이징 회의를 끝냈습니다.",
-      "date": "2026-11-02",
+      "url": "https://www.thehindu.com/news/international/irans-foreign-minister-says-talks-with-saudi-arabia-are-ongoing-yemen-fighting-intensifies/article71659845.ece",
+      "short_english": "Iranian Foreign Minister Abbas Araqchi said Iran-Saudi talks continued on November 3, 2026.",
+      "short_korean": "이란 외무장관 압바스 아라그치는 2026년 11월 3일 이란과 사우디 대화가 계속된다고 말했다.",
+      "date": "2026-11-03",
       "images": [
-        "images/indian/a974c298fbd7/1.jpg",
-        "images/indian/a974c298fbd7/2.jpg",
-        "images/indian/a974c298fbd7/3.jpg",
-        "images/indian/a974c298fbd7/4.jpg",
-        "images/indian/a974c298fbd7/5.jpg",
-        "images/indian/a974c298fbd7/6.jpg",
-        "images/indian/a974c298fbd7/7.jpg",
-        "images/indian/a974c298fbd7/8.jpg",
-        "images/indian/a974c298fbd7/9.jpg",
-        "images/indian/a974c298fbd7/10.jpg",
-        "images/indian/a974c298fbd7/11.jpg",
-        "images/indian/a974c298fbd7/12.jpg",
-        "images/indian/a974c298fbd7/13.jpg",
-        "images/indian/a974c298fbd7/14.jpg",
-        "images/indian/a974c298fbd7/15.jpg"
+        "images/indian/7f918264f7f1/1.jpg",
+        "images/indian/7f918264f7f1/2.jpg",
+        "images/indian/7f918264f7f1/3.jpg",
+        "images/indian/7f918264f7f1/4.jpg",
+        "images/indian/7f918264f7f1/5.jpg",
+        "images/indian/7f918264f7f1/6.jpg",
+        "images/indian/7f918264f7f1/7.jpg",
+        "images/indian/7f918264f7f1/8.jpg",
+        "images/indian/7f918264f7f1/9.jpg",
+        "images/indian/7f918264f7f1/10.jpg",
+        "images/indian/7f918264f7f1/11.jpg",
+        "images/indian/7f918264f7f1/12.jpg",
+        "images/indian/7f918264f7f1/13.jpg",
+        "images/indian/7f918264f7f1/14.jpg",
+        "images/indian/7f918264f7f1/15.jpg",
+        "images/indian/7f918264f7f1/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/a974c298fbd7/caption.txt"
+      "caption_file": "images/indian/7f918264f7f1/caption.txt"
     }
   ]
 }
