@@ -1,471 +1,70 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0154",
-  "generated_at": "2026-11-04T07:34:24.386Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0157",
+  "generated_at": "2026-11-05T08:00:19.554Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "오디샤 투자 사기 수색",
-      "english_title": "ED Searches Ten Sites in ₹120 Crore Fraud Probe",
-      "korean_desc": "2026년 11월 4일 ED가 두 주 10곳을 수색했습니다 FIR은 거래 수익과 고정 월수익을 약속했다고 했습니다 당국은 운영자들이 약 120억 루피를 모았다고 했습니다 수사는 계속되지만 유죄와 상환의 최종 결과는 없습니다",
-      "english_desc": "On November 4, 2026, India’s ED searched ten premises in Odisha and West Bengal. The FIR says Kalpana Financial Services promised trading profits and fixed monthly returns. Officials say promoters collected about ₹120 crore from the public. The investigation continues, but no final finding about guilt or repayment is reported.",
-      "hook": "ED searched ten sites over alleged ₹120 crore fraud.",
-      "sticker": "수사 진행 상황",
-      "korean_hook": "ED가 10곳을 수색했습니다",
-      "takeaway_english": "The investigation has begun, but the money’s final destination remains unclear.",
-      "takeaway_korean": "수사는 시작됐지만 돈의 행방은 아직 불분명합니다",
+      "korean_title": "타밀나두, 100루피 채소 꾸러미",
+      "english_title": "Tamil Nadu sells ten vegetables for ₹100",
+      "korean_desc": "11월 5일 타밀나두가 첸나이에서 100루피 꾸러미를 시작했습니다. 디파발리 전에 신선한 채소를 시세보다 싸게 줍니다. 각 꾸러미에는 양파, 토마토, 가지, 감자 등이 들어갑니다. 판매는 11월 7일까지이며 한 사람당 한 개입니다.",
+      "english_desc": "On November 5, Tamil Nadu launched a ₹100 pack in Chennai. It aims to offer fresh cooking vegetables below prevailing market prices before Deepavali. Each pack contains onions, tomatoes, brinjal, potatoes, carrots, beans, chillies, lemons, ginger and coconut. The sale runs through November 7, with one pack allowed per person.",
+      "hook": "Ten vegetables cost ₹100 for three days.",
+      "sticker": "A cheaper festival basket",
+      "korean_hook": "채소 10종을 100루피에 사요",
+      "takeaway_english": "The real test is whether shoppers can find enough fresh packs before November 7.",
+      "takeaway_korean": "진짜 시험은 11월 7일까지 신선한 꾸러미가 충분한지입니다.",
       "why_it_matters": [
         {
-          "english": "The alleged scheme involved money from ordinary people in two states.",
-          "korean": "이 혐의는 두 주 일반인의 돈과 관련됐습니다"
+          "english": "Festival cooking can become cheaper for shoppers who find the packs.",
+          "korean": "꾸러미를 찾은 사람은 명절 요리비를 줄일 수 있습니다."
         },
         {
-          "english": "Promises of fixed returns can influence everyday saving decisions.",
-          "korean": "고정 수익 약속은 사람들의 저축 결정에 영향을 줍니다"
+          "english": "The one-pack limit spreads the offer among more buyers.",
+          "korean": "한 사람 한 꾸러미 제한은 더 많은 사람에게 기회를 줍니다."
         }
       ],
       "parties": [
         {
-          "label": "Enforcement Directorate",
-          "english": "It searched ten premises under India’s money-laundering law.",
-          "korean": "ED는 자금세탁법에 따라 10곳을 수색했습니다"
+          "label": "Tamil Nadu government",
+          "english": "It offers a fixed-price vegetable pack before Deepavali.",
+          "korean": "타밀나두 정부는 디파발리 전에 채소 꾸러미를 팝니다."
         },
         {
-          "label": "Kalpana Financial Services",
-          "english": "The firm is linked to the alleged investment scheme.",
-          "korean": "이 회사는 투자 계획과 관련됐습니다"
+          "label": "Consumers",
+          "english": "They can buy one pack during the three-day sale.",
+          "korean": "소비자는 사흘 동안 한 꾸러미를 살 수 있습니다."
         },
         {
-          "label": "Depositors",
-          "english": "Common people allegedly invested money seeking fixed monthly returns.",
-          "korean": "예금자들은 고정 수익을 기대했습니다"
+          "label": "Cooperative shops",
+          "english": "They distribute the packs across 218 outlets and four Chennai vehicles.",
+          "korean": "협동조합 매장 218곳과 첸나이 차량 네 대가 판매합니다."
         }
       ],
       "views": [
         {
-          "label": "Enforcement Directorate",
-          "english": "The agency says investors were promised monthly returns of 3.5% to 7%.",
-          "korean": "ED는 월 3.5~7% 수익을 약속했다고 했습니다"
+          "label": "Tamil Nadu officials",
+          "english": "The scheme makes fresh cooking vegetables cheaper before the festival.",
+          "korean": "관계자들은 축제 전에 신선한 채소를 싸게 준다고 말합니다."
         },
         {
-          "label": "Investigators and affected depositors",
-          "english": "The case focuses on alleged losses, but the final legal findings are not yet known.",
-          "korean": "피해와 수사가 중요하지만 최종 판단은 아직 없습니다"
+          "label": "Beneficiaries",
+          "english": "One buyer said separate market purchases would cost more than ₹150.",
+          "korean": "한 구매자는 따로 사면 150루피보다 비싸다고 말했습니다."
         }
       ],
       "disagree": {
-        "english": "The allegations remain unproven, and the available coverage gives little detail about recovery for depositors.",
-        "korean": "혐의는 아직 입증되지 않았고 예금자 보상 정보도 적습니다"
+        "english": "The coverage does not show market prices for every vegetable or total stock available.",
+        "korean": "보도에는 모든 채소 가격과 전체 물량이 없습니다."
       },
-      "reader_question_korean": "투자 사기 돈은 어떻게 해야 할까요?",
+      "reader_question_korean": "정가 꾸러미가 집에 도움이 될까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "ED raids in Odisha, Bengal in investment 'fraud' case'",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "Update: November 4, 2026.",
-        "The probe began with an Odisha Police EOW FIR.",
-        "The allegations still require legal findings."
-      ],
-      "reader_question": "What should happen to money collected in alleged investment fraud?",
-      "topic_tag": "Fraud",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "ED raids in Odisha, Bengal in investment 'fraud' case'",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/news/national/ed-raids-in-odisha-bengal-in-investment-fraud-case/article71664512.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "2026년",
-          "roman": "2026-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "11-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "4일",
-          "roman": "sa-il",
-          "english": "4th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "ED가",
-          "roman": "ED-ga",
-          "english": "ED",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "두",
-          "roman": "du",
-          "english": "two",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "주",
-          "roman": "ju",
-          "english": "states",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "10곳을",
-          "roman": "sip-got-eul",
-          "english": "ten places",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "수색했습니다",
-          "roman": "susaek-haetseumnida",
-          "english": "searched",
-          "particle": false,
-          "suffix": "했습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On November 4, 2026, India’s ED searched ten premises in Odisha and West Bengal.",
-          "korean": "2026년 11월 4일 ED가 두 주 10곳을 수색했습니다",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "2026-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "4일",
-              "roman": "sa-il",
-              "english": "4th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "ED가",
-              "roman": "ED-ga",
-              "english": "ED",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주",
-              "roman": "ju",
-              "english": "states",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "10곳을",
-              "roman": "sip-got-eul",
-              "english": "ten places",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "수색했습니다",
-              "roman": "susaek-haetseumnida",
-              "english": "searched",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The FIR says Kalpana Financial Services promised trading profits and fixed monthly returns.",
-          "korean": "FIR은 거래 수익과 고정 월수익을 약속했다고 했습니다",
-          "glossary": [
-            {
-              "korean": "FIR은",
-              "roman": "FIR-eun",
-              "english": "the FIR",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "거래",
-              "roman": "georae",
-              "english": "trading",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수익과",
-              "roman": "s익-gwa",
-              "english": "profits and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "고정",
-              "roman": "gojeong",
-              "english": "fixed",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "월수익을",
-              "roman": "wol-suik-eul",
-              "english": "monthly returns",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "약속했다고",
-              "roman": "yaksok-haetdago",
-              "english": "promised",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "했습니다",
-              "roman": "haetseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Officials say promoters collected about ₹120 crore from the public.",
-          "korean": "당국은 운영자들이 약 120억 루피를 모았다고 했습니다",
-          "glossary": [
-            {
-              "korean": "당국은",
-              "roman": "danggug-eun",
-              "english": "officials",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "운영자들이",
-              "roman": "unyeongjadeul-i",
-              "english": "promoters",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "120억",
-              "roman": "baek-isip-eok",
-              "english": "12 billion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "루피를",
-              "roman": "rupi-reul",
-              "english": "rupees",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "모았다고",
-              "roman": "moatdago",
-              "english": "collected",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "했습니다",
-              "roman": "haetseumnida",
-              "english": "said",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The investigation continues, but no final finding about guilt or repayment is reported.",
-          "korean": "수사는 계속되지만 유죄와 상환의 최종 결과는 없습니다",
-          "glossary": [
-            {
-              "korean": "수사는",
-              "roman": "susa-neun",
-              "english": "investigation",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "계속되지만",
-              "roman": "gyesok-doejiman",
-              "english": "continues but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "유죄와",
-              "roman": "yujwe-gwa",
-              "english": "guilt and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "상환의",
-              "roman": "sanghwan-ui",
-              "english": "repayment’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "최종",
-              "roman": "choejong",
-              "english": "final",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "결과는",
-              "roman": "gyeolgwa-neun",
-              "english": "result",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "없습니다",
-              "roman": "eopseumnida",
-              "english": "is absent",
-              "particle": false,
-              "suffix": "습니다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/ed-raids-in-odisha-bengal-in-investment-fraud-case/article71664512.ece",
-      "short_english": "On November 4, 2026, India’s ED searched ten premises in Odisha and West Bengal.",
-      "short_korean": "2026년 11월 4일 ED가 두 주 10곳을 수색했습니다",
-      "date": "2026-11-04",
-      "images": [
-        "images/indian/360c15fb69a0/1.jpg",
-        "images/indian/360c15fb69a0/2.jpg",
-        "images/indian/360c15fb69a0/3.jpg",
-        "images/indian/360c15fb69a0/4.jpg",
-        "images/indian/360c15fb69a0/5.jpg",
-        "images/indian/360c15fb69a0/6.jpg",
-        "images/indian/360c15fb69a0/7.jpg",
-        "images/indian/360c15fb69a0/8.jpg",
-        "images/indian/360c15fb69a0/9.jpg",
-        "images/indian/360c15fb69a0/10.jpg",
-        "images/indian/360c15fb69a0/11.jpg",
-        "images/indian/360c15fb69a0/12.jpg",
-        "images/indian/360c15fb69a0/13.jpg",
-        "images/indian/360c15fb69a0/14.jpg",
-        "images/indian/360c15fb69a0/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/360c15fb69a0/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "인도 금융시장 자문위 출범",
-      "english_title": "RBI Creates a New Financial Markets Advisory Committee",
-      "korean_desc": "2026년 11월 4일 RBI가 금융시장 자문위를 발표했습니다 이번 조치는 빠른 시장 변화와 금융 위험에 대응합니다 위원들은 돈, 국채, 외환과 파생상품을 논의합니다 위원회는 적어도 분기마다 한 번 회의합니다",
-      "english_desc": "On November 4, 2026, RBI announced a Technical Consultative Committee for Financial Markets. The move responds to rapidly changing markets, systems and financial risks. Members will discuss money, government securities, foreign exchange and related derivatives. The committee must meet at least once every quarter.",
-      "hook": "RBI created a committee for changing financial markets.",
-      "sticker": "새 금융시장 회의",
-      "korean_hook": "RBI가 새 금융시장 위원회를 만들었습니다",
-      "takeaway_english": "The committee creates a formal channel, while its influence will depend on future recommendations.",
-      "takeaway_korean": "위원회는 공식 통로를 만들었고 영향력은 앞으로 결정됩니다",
-      "why_it_matters": [
-        {
-          "english": "Market rules can affect borrowing, investing and currency trading.",
-          "korean": "시장 규칙은 대출, 투자, 환거래에 영향을 줍니다"
-        },
-        {
-          "english": "Better infrastructure can support smoother financial transactions.",
-          "korean": "더 나은 기반시설은 금융 거래를 원활하게 합니다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Reserve Bank of India",
-          "english": "It will chair and use the committee for policy consultation.",
-          "korean": "RBI는 위원회를 이끌고 정책을 논의합니다"
-        },
-        {
-          "label": "Market participants",
-          "english": "They will provide structured input on markets and infrastructure.",
-          "korean": "시장 관계자들은 시장과 기반시설 의견을 냅니다"
-        },
-        {
-          "label": "External members",
-          "english": "Seven named members come from regulation, banking, clearing and investment.",
-          "korean": "외부 위원 7명은 금융 분야 출신입니다"
-        }
-      ],
-      "views": [
-        {
-          "label": "RBI",
-          "english": "The committee can improve efficiency, liquidity and resilience across financial markets.",
-          "korean": "RBI는 시장 효율성, 유동성, 회복력이 좋아질 수 있다고 봅니다"
-        },
-        {
-          "label": "Market participants",
-          "english": "Regular consultation may help identify operational problems and unintended market frictions.",
-          "korean": "정기 협의는 운영 문제와 시장 마찰을 찾는 데 도움 됩니다"
-        }
-      ],
-      "disagree": {
-        "english": "A committee can advise, but the announcement does not show which recommendations will become rules.",
-        "korean": "위원회는 조언하지만 어떤 의견이 규칙이 될지는 발표하지 않았습니다"
-      },
-      "reader_question_korean": "금융 당국은 시장과 더 자주 논의해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "translation check: \"Members will discuss money, government securities,\" may be missing government",
-        "translation check: \"The committee must meet at least once every quarte\" may be missing at least"
-      ],
-      "source_title": "RBI constitutes Technical Consultative Committee for Financial Markets",
+      "source_title": "‘Vetri Special Vegetables Kit’ with 10 varieties launched in Tamil Nadu at ₹100",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -475,67 +74,67 @@
       "format_data": {},
       "serious": false,
       "caption_lines": [
-        "Announced: November 4, 2026.",
-        "The policy statement behind it came on October 7, 2026.",
-        "Meetings will happen at least quarterly."
+        "Sale dates: November 5–7, 2026.",
+        "The pack weighs about 2.55–2.6 kilograms.",
+        "Sales run during normal outlet hours."
       ],
-      "reader_question": "Should financial regulators consult markets more often?",
-      "topic_tag": "Finance",
+      "reader_question": "Would one fixed-price pack help your household?",
+      "topic_tag": "Vegetables",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "RBI constitutes Technical Consultative Committee for Financial Markets",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece"
+          "title": "‘Vetri Special Vegetables Kit’ with 10 varieties launched in Tamil Nadu at ₹100",
+          "date": "2026-11-05",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/vettri-special-vegetables-kit-with-10-varieties-launched-in-tn-at-100/article71668616.ece"
         }
       ],
       "glossary": [
-        {
-          "korean": "2026년",
-          "roman": "2026-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
         {
           "korean": "11월",
           "roman": "11-wol",
           "english": "November",
           "particle": false,
-          "suffix": "월"
+          "suffix": ""
         },
         {
-          "korean": "4일",
-          "roman": "sa-il",
-          "english": "4th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "RBI가",
-          "roman": "RBI-ga",
-          "english": "RBI",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "금융시장",
-          "roman": "geumyung-sijang",
-          "english": "financial markets",
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "fifth day",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "자문위를",
-          "roman": "jamun-wi-reul",
-          "english": "advisory committee",
+          "korean": "타밀나두가",
+          "roman": "Tamilnadu-ga",
+          "english": "Tamil Nadu",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "첸나이에서",
+          "roman": "Chennai-eseo",
+          "english": "in Chennai",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "100루피",
+          "roman": "baek-rupi",
+          "english": "100 rupees",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "꾸러미를",
+          "roman": "kkueoreomi-reul",
+          "english": "pack",
           "particle": false,
           "suffix": "를"
         },
         {
-          "korean": "발표했습니다",
-          "roman": "balpyo-haetseumnida",
-          "english": "announced",
+          "korean": "시작했습니다",
+          "roman": "sijak-haetseumnida",
+          "english": "started",
           "particle": false,
           "suffix": "했습니다"
         }
@@ -543,55 +142,55 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "On November 4, 2026, RBI announced a Technical Consultative Committee for Financial Markets.",
-          "korean": "2026년 11월 4일 RBI가 금융시장 자문위를 발표했습니다",
+          "english": "On November 5, Tamil Nadu launched a ₹100 pack in Chennai.",
+          "korean": "11월 5일 타밀나두가 첸나이에서 100루피 꾸러미를 시작했습니다.",
           "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "2026-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
             {
               "korean": "11월",
               "roman": "11-wol",
               "english": "November",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
-              "korean": "4일",
-              "roman": "sa-il",
-              "english": "4th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "RBI가",
-              "roman": "RBI-ga",
-              "english": "RBI",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "금융시장",
-              "roman": "geumyung-sijang",
-              "english": "financial markets",
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "fifth day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "자문위를",
-              "roman": "jamun-wi-reul",
-              "english": "advisory committee",
+              "korean": "타밀나두가",
+              "roman": "Tamilnadu-ga",
+              "english": "Tamil Nadu",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "첸나이에서",
+              "roman": "Chennai-eseo",
+              "english": "in Chennai",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "100루피",
+              "roman": "baek-rupi",
+              "english": "100 rupees",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "꾸러미를",
+              "roman": "kkueoreomi-reul",
+              "english": "pack",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "발표했습니다",
-              "roman": "balpyo-haetseumnida",
-              "english": "announced",
+              "korean": "시작했습니다",
+              "roman": "sijak-haetseumnida",
+              "english": "started",
               "particle": false,
               "suffix": "했습니다"
             }
@@ -599,141 +198,148 @@
         },
         {
           "stage": "why",
-          "english": "The move responds to rapidly changing markets, systems and financial risks.",
-          "korean": "이번 조치는 빠른 시장 변화와 금융 위험에 대응합니다",
+          "english": "It aims to offer fresh cooking vegetables below prevailing market prices before Deepavali.",
+          "korean": "디파발리 전에 신선한 채소를 시세보다 싸게 줍니다.",
           "glossary": [
             {
-              "korean": "이번",
-              "roman": "ibeon",
-              "english": "this",
+              "korean": "디파발리",
+              "roman": "Dipaballi",
+              "english": "Deepavali",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "조치는",
-              "roman": "jochi-neun",
-              "english": "measure",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "빠른",
-              "roman": "ppareun",
-              "english": "rapid",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시장",
-              "roman": "sijang",
-              "english": "market",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "변화와",
-              "roman": "byeonhwa-wa",
-              "english": "changes and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "금융",
-              "roman": "geumyung",
-              "english": "financial",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "위험에",
-              "roman": "wiheom-e",
-              "english": "risks",
+              "korean": "전에",
+              "roman": "jeon-e",
+              "english": "before",
               "particle": false,
               "suffix": "에"
             },
             {
-              "korean": "대응합니다",
-              "roman": "daeeung-hamnida",
-              "english": "responds",
+              "korean": "신선한",
+              "roman": "sinseonhan",
+              "english": "fresh",
               "particle": false,
-              "suffix": "합니다"
+              "suffix": ""
+            },
+            {
+              "korean": "채소를",
+              "roman": "chaeso-reul",
+              "english": "vegetables",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "시세보다",
+              "roman": "siseboda",
+              "english": "than market prices",
+              "particle": false,
+              "suffix": "보다"
+            },
+            {
+              "korean": "싸게",
+              "roman": "ssage",
+              "english": "cheaply",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "줍니다",
+              "roman": "jumnida",
+              "english": "gives",
+              "particle": false,
+              "suffix": ""
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Members will discuss money, government securities, foreign exchange and related derivatives.",
-          "korean": "위원들은 돈, 국채, 외환과 파생상품을 논의합니다",
+          "english": "Each pack contains onions, tomatoes, brinjal, potatoes, carrots, beans, chillies, lemons, ginger and coconut.",
+          "korean": "각 꾸러미에는 양파, 토마토, 가지, 감자 등이 들어갑니다.",
           "glossary": [
             {
-              "korean": "위원들은",
-              "roman": "wiwon-deul-eun",
-              "english": "members",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "돈,",
-              "roman": "don",
-              "english": "money",
+              "korean": "각",
+              "roman": "gak",
+              "english": "each",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "국채,",
-              "roman": "gukchae",
-              "english": "government bonds",
+              "korean": "꾸러미에는",
+              "roman": "kkueoreomi-eneun",
+              "english": "in the pack",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "양파",
+              "roman": "yangpa",
+              "english": "onions",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "외환과",
-              "roman": "oehwan-gwa",
-              "english": "foreign exchange and",
+              "korean": "토마토",
+              "roman": "tomato",
+              "english": "tomatoes",
               "particle": false,
-              "suffix": "과"
+              "suffix": ""
             },
             {
-              "korean": "파생상품을",
-              "roman": "pasangpum-eul",
-              "english": "derivatives",
+              "korean": "가지",
+              "roman": "gaji",
+              "english": "brinjal",
               "particle": false,
-              "suffix": "을"
+              "suffix": ""
             },
             {
-              "korean": "논의합니다",
-              "roman": "nonui-hamnida",
-              "english": "discuss",
+              "korean": "감자",
+              "roman": "gamja",
+              "english": "potatoes",
               "particle": false,
-              "suffix": "합니다"
+              "suffix": ""
+            },
+            {
+              "korean": "등이",
+              "roman": "deung-i",
+              "english": "and others",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "들어갑니다",
+              "roman": "deureogamnida",
+              "english": "are included",
+              "particle": false,
+              "suffix": ""
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The committee must meet at least once every quarter.",
-          "korean": "위원회는 적어도 분기마다 한 번 회의합니다",
+          "english": "The sale runs through November 7, with one pack allowed per person.",
+          "korean": "판매는 11월 7일까지이며 한 사람당 한 개입니다.",
           "glossary": [
             {
-              "korean": "위원회는",
-              "roman": "wiwonhoe-neun",
-              "english": "committee",
+              "korean": "판매는",
+              "roman": "panmae-neun",
+              "english": "the sale",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "적어도",
-              "roman": "jeogeodo",
-              "english": "at least",
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "분기마다",
-              "roman": "bungi-mada",
-              "english": "each quarter",
+              "korean": "7일까지이며",
+              "roman": "chil-ilkkaji-imyeo",
+              "english": "continues until the seventh",
               "particle": false,
-              "suffix": "마다"
+              "suffix": "까지이며"
             },
             {
               "korean": "한",
@@ -743,107 +349,399 @@
               "suffix": ""
             },
             {
-              "korean": "번",
-              "roman": "beon",
-              "english": "time",
+              "korean": "한",
+              "roman": "han",
+              "english": "one",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "회의합니다",
-              "roman": "hoeui-hamnida",
-              "english": "holds meetings",
+              "korean": "사람당",
+              "roman": "saramdang",
+              "english": "per person",
               "particle": false,
-              "suffix": "합니다"
+              "suffix": "당"
+            },
+            {
+              "korean": "개입니다",
+              "roman": "gae-imnida",
+              "english": "is one item",
+              "particle": false,
+              "suffix": "입니다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece",
-      "short_english": "On November 4, 2026, RBI announced a Technical Consultative Committee for Financial Markets.",
-      "short_korean": "2026년 11월 4일 RBI가 금융시장 자문위를 발표했습니다",
-      "date": "2026-11-04",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/vettri-special-vegetables-kit-with-10-varieties-launched-in-tn-at-100/article71668616.ece",
+      "short_english": "On November 5, Tamil Nadu launched a ₹100 pack in Chennai.",
+      "short_korean": "11월 5일 타밀나두가 첸나이에서 100루피 꾸러미를 시작했습니다.",
+      "date": "2026-11-05",
       "images": [
-        "images/indian/49e4666581a4/1.jpg",
-        "images/indian/49e4666581a4/2.jpg",
-        "images/indian/49e4666581a4/3.jpg",
-        "images/indian/49e4666581a4/4.jpg",
-        "images/indian/49e4666581a4/5.jpg",
-        "images/indian/49e4666581a4/6.jpg",
-        "images/indian/49e4666581a4/7.jpg",
-        "images/indian/49e4666581a4/8.jpg",
-        "images/indian/49e4666581a4/9.jpg",
-        "images/indian/49e4666581a4/10.jpg",
-        "images/indian/49e4666581a4/11.jpg",
-        "images/indian/49e4666581a4/12.jpg",
-        "images/indian/49e4666581a4/13.jpg",
-        "images/indian/49e4666581a4/14.jpg",
-        "images/indian/49e4666581a4/15.jpg"
+        "images/indian/31609eea6899/1.jpg",
+        "images/indian/31609eea6899/2.jpg",
+        "images/indian/31609eea6899/3.jpg",
+        "images/indian/31609eea6899/4.jpg",
+        "images/indian/31609eea6899/5.jpg",
+        "images/indian/31609eea6899/6.jpg",
+        "images/indian/31609eea6899/7.jpg",
+        "images/indian/31609eea6899/8.jpg",
+        "images/indian/31609eea6899/9.jpg",
+        "images/indian/31609eea6899/10.jpg",
+        "images/indian/31609eea6899/11.jpg",
+        "images/indian/31609eea6899/12.jpg",
+        "images/indian/31609eea6899/13.jpg",
+        "images/indian/31609eea6899/14.jpg",
+        "images/indian/31609eea6899/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/49e4666581a4/caption.txt"
+      "caption_file": "images/indian/31609eea6899/caption.txt"
     },
     {
-      "category": "Culture",
-      "korean_title": "첸나이 디왈리 과자 시장",
-      "english_title": "Chennai’s Deepavali Sweet Bazaars Add Classics and Surprises",
-      "korean_desc": "첸나이 요리사 6곳이 디왈리 과자 시장을 열었습니다 전통 과자는 인기였고 블루베리 카주 카틀리도 추가됐습니다 기업 선물 주문과 해외 배송이 사업을 크게 도왔습니다 시장은 2026년 11월 7일까지 더 많은 메뉴로 엽니다",
-      "english_desc": "Six Chennai caterers opened Deepavali sweet bazaars with freshly prepared festive foods. Classic sweets remained popular, while sellers added blueberry kaju katli and baklava. Corporate gift orders and overseas courier deliveries supplied much of the business. The bazaars remain open until November 7, 2026, with wider menus and more locations.",
-      "hook": "Chennai caterers raised prices, but shoppers kept coming.",
-      "sticker": "달콤한 명절 소식 🍬",
-      "korean_hook": "첸나이 과자값은 올라도 손님은 왔습니다",
-      "takeaway_english": "Chennai’s festive sweet trade is expanding its menu, locations and delivery reach.",
-      "takeaway_korean": "첸나이 명절 과자 시장은 메뉴와 배송을 넓혔습니다",
+      "category": "Business",
+      "korean_title": "ED, 아닐 암바니 그룹 자산 압류",
+      "english_title": "ED attaches ₹23,100 crore in Anil Ambani cases",
+      "korean_desc": "최근 조치는 릴라이언스 세 회사의 은행 사기 의혹입니다. 11월 5일까지 10명이 체포되고 여러 고발장이 제출됐습니다.",
+      "english_desc": "The latest action concerned alleged bank fraud at three Reliance companies. By November 5, ten people had been arrested and multiple complaints filed.",
+      "hook": "ED has attached or seized about ₹23,100 crore.",
+      "sticker": "What the agency seized",
+      "korean_hook": "ED가 약 2조3100억 루피를 압류했습니다",
+      "takeaway_english": "The next important test is how courts assess the allegations and attached assets.",
+      "takeaway_korean": "다음 핵심은 법원이 의혹과 압류 자산을 어떻게 판단하는지입니다.",
       "why_it_matters": [
         {
-          "english": "Food prices affect festive shopping and family gift plans.",
-          "korean": "식품 가격은 명절 쇼핑과 가족 선물에 영향을 줍니다"
+          "english": "The cases involve banks and financial institutions, so public money may be affected.",
+          "korean": "은행과 금융기관 사건이라 공공자금이 영향을 받을 수 있습니다."
         },
         {
-          "english": "Bazaars connect local cooking with overseas family celebrations.",
-          "korean": "시장은 지역 음식과 해외 가족 행사를 연결합니다"
+          "english": "The investigation may affect several companies and creditors.",
+          "korean": "수사는 여러 회사와 채권자에게 영향을 줄 수 있습니다."
         }
       ],
       "parties": [
         {
-          "label": "Chennai caterers",
-          "english": "They opened festive bazaars with sweets, savouries and gift boxes.",
-          "korean": "첸나이 요리사들은 과자와 선물 상자를 팔았습니다"
+          "label": "Enforcement Directorate",
+          "english": "It investigates alleged money laundering and bank fraud.",
+          "korean": "ED는 자금세탁과 은행 사기를 수사합니다."
         },
         {
-          "label": "Corporate buyers",
-          "english": "Bulk festive orders provide a significant share of business.",
-          "korean": "기업 대량 주문은 사업의 큰 부분입니다"
+          "label": "Reliance Anil Ambani Group",
+          "english": "Several group companies are involved in the cases.",
+          "korean": "여러 계열사가 사건에 연루됐습니다."
         },
         {
-          "label": "Customers abroad",
-          "english": "Customers in the United States and elsewhere receive courier orders.",
-          "korean": "미국 등 해외 고객도 택배 주문을 받습니다"
+          "label": "Anil Ambani",
+          "english": "He is linked to the group named in the investigation.",
+          "korean": "아닐 암바니는 수사 대상 그룹과 연결돼 있습니다."
         }
       ],
       "views": [
         {
-          "label": "Caterers",
-          "english": "Higher ingredient, oil and LPG costs forced almost all sellers to raise prices by 10%.",
-          "korean": "재료와 기름, LPG 가격 때문에 거의 모두 10% 올렸습니다"
+          "label": "Enforcement Directorate",
+          "english": "The agency says its cases involve suspected diversion of public money.",
+          "korean": "ED는 공공자금 유용 의혹이 사건에 있다고 말합니다."
         },
         {
-          "label": "Customers",
-          "english": "Demand remained strong despite higher prices and seasonal crowds.",
-          "korean": "가격과 혼잡이 올라도 수요는 강했습니다"
+          "label": "Reliance Group clarification",
+          "english": "The group previously said Reliance Communications left the group in 2019.",
+          "korean": "그룹은 릴라이언스 커뮤니케이션스가 2019년 떠났다고 밝혔습니다."
         }
       ],
       "disagree": {
-        "english": "The coverage highlights sellers and products more than customers’ budgets or independent taste comparisons.",
-        "korean": "보도는 손님 예산과 객관적 맛 비교보다 판매자를 강조합니다"
+        "english": "Attachments are investigative measures, not final court findings of guilt.",
+        "korean": "압류는 유죄를 확정한 법원 판결이 아닙니다."
       },
-      "reader_question_korean": "어떤 명절 과자를 먼저 고르겠어요?",
+      "reader_question_korean": "대규모 압류는 더 빨리 법원 심사를 받아야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Deepavali sweets in Chennai: Six caterers’ bazaars for festive bakshanams and gift hampers",
+      "source_title": "ED action in Reliance Anil Ambani Group cases | Explained",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "Latest attachment announced: November 3, 2026.",
+        "PMLA concerns money laundering.",
+        "FEMA governs foreign exchange matters."
+      ],
+      "reader_question": "Should large asset seizures require faster court review?",
+      "topic_tag": "Investigation",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "ED action in Reliance Anil Ambani Group cases | Explained",
+          "date": "2026-11-05",
+          "url": "https://www.thehindu.com/news/national/ed-action-in-reliance-anil-ambani-group-cases-explained/article71668787.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "최근",
+          "roman": "choegeun",
+          "english": "latest",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "조치는",
+          "roman": "jochi-neun",
+          "english": "the action",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "릴라이언스",
+          "roman": "Rillaieonseu",
+          "english": "Reliance",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "세",
+          "roman": "se",
+          "english": "three",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "회사의",
+          "roman": "hoesa-ui",
+          "english": "companies'",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "은행",
+          "roman": "eunhaeng",
+          "english": "bank",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "사기",
+          "roman": "sagi",
+          "english": "fraud",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "의혹입니다",
+          "roman": "uihok-imnida",
+          "english": "is an allegation",
+          "particle": false,
+          "suffix": "입니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "how",
+          "english": "The latest action concerned alleged bank fraud at three Reliance companies.",
+          "korean": "최근 조치는 릴라이언스 세 회사의 은행 사기 의혹입니다.",
+          "glossary": [
+            {
+              "korean": "최근",
+              "roman": "choegeun",
+              "english": "latest",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "조치는",
+              "roman": "jochi-neun",
+              "english": "the action",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "릴라이언스",
+              "roman": "Rillaieonseu",
+              "english": "Reliance",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "회사의",
+              "roman": "hoesa-ui",
+              "english": "companies'",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "은행",
+              "roman": "eunhaeng",
+              "english": "bank",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사기",
+              "roman": "sagi",
+              "english": "fraud",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "의혹입니다",
+              "roman": "uihok-imnida",
+              "english": "is an allegation",
+              "particle": false,
+              "suffix": "입니다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "By November 5, ten people had been arrested and multiple complaints filed.",
+          "korean": "11월 5일까지 10명이 체포되고 여러 고발장이 제출됐습니다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5일까지",
+              "roman": "o-ilkkaji",
+              "english": "by the fifth",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "10명이",
+              "roman": "sip-myeong-i",
+              "english": "ten people",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "체포되고",
+              "roman": "chepodoego",
+              "english": "were arrested",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여러",
+              "roman": "yeoreo",
+              "english": "multiple",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "고발장이",
+              "roman": "gobaljang-i",
+              "english": "complaints",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "제출됐습니다",
+              "roman": "jesul-dwaetseumnida",
+              "english": "were filed",
+              "particle": false,
+              "suffix": "됐습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/ed-action-in-reliance-anil-ambani-group-cases-explained/article71668787.ece",
+      "short_english": "The latest action concerned alleged bank fraud at three Reliance companies.",
+      "short_korean": "최근 조치는 릴라이언스 세 회사의 은행 사기 의혹입니다.",
+      "date": "2026-11-05",
+      "images": [
+        "images/indian/34b23b5fdbc4/1.jpg",
+        "images/indian/34b23b5fdbc4/2.jpg",
+        "images/indian/34b23b5fdbc4/3.jpg",
+        "images/indian/34b23b5fdbc4/4.jpg",
+        "images/indian/34b23b5fdbc4/5.jpg",
+        "images/indian/34b23b5fdbc4/6.jpg",
+        "images/indian/34b23b5fdbc4/7.jpg",
+        "images/indian/34b23b5fdbc4/8.jpg",
+        "images/indian/34b23b5fdbc4/9.jpg",
+        "images/indian/34b23b5fdbc4/10.jpg",
+        "images/indian/34b23b5fdbc4/11.jpg",
+        "images/indian/34b23b5fdbc4/12.jpg",
+        "images/indian/34b23b5fdbc4/13.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/34b23b5fdbc4/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "나바라트리, 아홉 밤의 여러 이야기",
+      "english_title": "Navaratri carries many stories in nine nights",
+      "korean_desc": "나바라트리는 인도 전역의 아홉 밤 축제입니다. 아니요, 여러 지역 전통이 선악 승리로 이어집니다. 공통 주제는 샤크티와 선의 승리를 기립니다. 사람들은 가르바, 콜루, 바투캄마와 사원 방문을 즐깁니다.",
+      "english_desc": "Navaratri is a nine-night festival across India, ending with Dussehra. No, it joins several regional traditions through good defeating evil. The shared theme honors Shakti and the triumph of good over evil. People celebrate through garba, kolu, Bathukamma, temple visits and Ramlila.",
+      "hook": "Is Navaratri really one single story?",
+      "sticker": "Nine nights, many traditions",
+      "korean_hook": "나바라트리는 정말 한 이야기일까요?",
+      "takeaway_english": "Navaratri is less one script than a shared theme performed in many places.",
+      "takeaway_korean": "나바라트리는 하나의 대본보다 여러 곳의 공통 주제입니다.",
+      "why_it_matters": [
+        {
+          "english": "The festival shows how one religious season can take many local forms.",
+          "korean": "이 축제는 한 종교 기간이 여러 지역 모습이 될 수 있음을 보여줍니다."
+        },
+        {
+          "english": "Its rituals connect family customs, public art, dance and learning.",
+          "korean": "의식은 가족 풍습, 예술, 춤과 배움을 연결합니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Devotees",
+          "english": "They mark the festival with prayer, fasting, dancing, music and food.",
+          "korean": "신자들은 기도, 금식, 춤, 음악과 음식으로 축제를 보냅니다."
+        },
+        {
+          "label": "Gujarat",
+          "english": "Its garba dances are a major Navaratri tradition.",
+          "korean": "구자라트의 가르바 춤은 중요한 나바라트리 전통입니다."
+        },
+        {
+          "label": "Tamil Nadu",
+          "english": "Kolu and Kulasai Dussehra show two local forms.",
+          "korean": "타밀나두에서는 콜루와 쿨라사이 두 전통이 보입니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Religious traditions",
+          "english": "Many celebrations connect the festival with Shakti and victory over evil.",
+          "korean": "많은 전통은 축제를 샤크티와 악에 대한 승리와 연결합니다."
+        },
+        {
+          "label": "Regional communities",
+          "english": "Different states emphasize different stories, rituals and public celebrations.",
+          "korean": "지역마다 다른 이야기와 의식과 행사를 강조합니다."
+        }
+      ],
+      "disagree": {
+        "english": "Some people may see these traditions as separate festivals rather than one shared story.",
+        "korean": "어떤 사람들은 이를 하나가 아닌 별도 축제로 봅니다."
+      },
+      "reader_question_korean": "어떤 나바라트리 전통을 보고 싶나요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Nine nights of Navaratri: The festival that carries multiple mythological threads",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -853,426 +751,28 @@
       "format_data": {},
       "serious": false,
       "caption_lines": [
-        "The bazaars stay open until November 7.",
-        "Deepavali marundhu is a traditional festive preparation.",
-        "Some sellers added Bengali sweets and unusual flavours."
+        "Navaratri ends with Dussehra on the tenth day.",
+        "Garba entered UNESCO's cultural heritage list in December 2023.",
+        "A 2026 Vadodara garba event had 46,818 dancers."
       ],
-      "reader_question": "Which festive sweet would you choose first?",
-      "topic_tag": "Food",
+      "reader_question": "Which Navaratri tradition would you like to see?",
+      "topic_tag": "Festival",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Deepavali sweets in Chennai: Six caterers’ bazaars for festive bakshanams and gift hampers",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/food/features/deepavali-sweets-in-chennai-six-caterers-bazaars-for-festive-bakshanams-and-gift-hampers/article71656075.ece"
+          "title": "Nine nights of Navaratri: The festival that carries multiple mythological threads",
+          "date": "2026-11-05",
+          "url": "https://www.thehindu.com/society/history-and-culture/all-you-need-to-know-about-navaratri-across-india/article71578893.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "첸나이",
-          "roman": "Cenna-i",
-          "english": "Chennai",
+          "korean": "나바라트리는",
+          "roman": "Nabarateurineun",
+          "english": "Navaratri",
           "particle": false,
-          "suffix": ""
+          "suffix": "는"
         },
-        {
-          "korean": "요리사",
-          "roman": "yorisa",
-          "english": "caterer",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "6곳이",
-          "roman": "yeoseot-got-i",
-          "english": "six places",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "디왈리",
-          "roman": "Di-walli",
-          "english": "Deepavali",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "과자",
-          "roman": "gwaja",
-          "english": "sweets",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "시장을",
-          "roman": "sijang-eul",
-          "english": "market",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "열었습니다",
-          "roman": "yeoreotseumnida",
-          "english": "opened",
-          "particle": false,
-          "suffix": "었습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Six Chennai caterers opened Deepavali sweet bazaars with freshly prepared festive foods.",
-          "korean": "첸나이 요리사 6곳이 디왈리 과자 시장을 열었습니다",
-          "glossary": [
-            {
-              "korean": "첸나이",
-              "roman": "Cenna-i",
-              "english": "Chennai",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "요리사",
-              "roman": "yorisa",
-              "english": "caterer",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "6곳이",
-              "roman": "yeoseot-got-i",
-              "english": "six places",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "디왈리",
-              "roman": "Di-walli",
-              "english": "Deepavali",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "과자",
-              "roman": "gwaja",
-              "english": "sweets",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시장을",
-              "roman": "sijang-eul",
-              "english": "market",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "열었습니다",
-              "roman": "yeoreotseumnida",
-              "english": "opened",
-              "particle": false,
-              "suffix": "었습니다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Classic sweets remained popular, while sellers added blueberry kaju katli and baklava.",
-          "korean": "전통 과자는 인기였고 블루베리 카주 카틀리도 추가됐습니다",
-          "glossary": [
-            {
-              "korean": "전통",
-              "roman": "jeontong",
-              "english": "traditional",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "과자는",
-              "roman": "gwaja-neun",
-              "english": "sweets",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "인기였고",
-              "roman": "ingi-yeotgo",
-              "english": "were popular and",
-              "particle": false,
-              "suffix": "였고"
-            },
-            {
-              "korean": "블루베리",
-              "roman": "beullu-beri",
-              "english": "blueberry",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "카주",
-              "roman": "kaju",
-              "english": "cashew",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "카틀리도",
-              "roman": "katlli-do",
-              "english": "katli also",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "추가됐습니다",
-              "roman": "chuga-dwaetseumnida",
-              "english": "was added",
-              "particle": false,
-              "suffix": "됐습니다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Corporate gift orders and overseas courier deliveries supplied much of the business.",
-          "korean": "기업 선물 주문과 해외 배송이 사업을 크게 도왔습니다",
-          "glossary": [
-            {
-              "korean": "기업",
-              "roman": "gieop",
-              "english": "corporate",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선물",
-              "roman": "seonmul",
-              "english": "gift",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주문과",
-              "roman": "jumun-gwa",
-              "english": "orders and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "해외",
-              "roman": "haeoe",
-              "english": "overseas",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "배송이",
-              "roman": "baesong-i",
-              "english": "delivery",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "사업을",
-              "roman": "saeop-eul",
-              "english": "business",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "크게",
-              "roman": "keuge",
-              "english": "greatly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "도왔습니다",
-              "roman": "dowatseumnida",
-              "english": "helped",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The bazaars remain open until November 7, 2026, with wider menus and more locations.",
-          "korean": "시장은 2026년 11월 7일까지 더 많은 메뉴로 엽니다",
-          "glossary": [
-            {
-              "korean": "시장은",
-              "roman": "sijang-eun",
-              "english": "markets",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "2026-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "7일까지",
-              "roman": "chil-il-kkaji",
-              "english": "until the 7th",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "많은",
-              "roman": "maneun",
-              "english": "many",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "메뉴로",
-              "roman": "menyu-ro",
-              "english": "with menus",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "엽니다",
-              "roman": "yeomnida",
-              "english": "remain open",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/food/features/deepavali-sweets-in-chennai-six-caterers-bazaars-for-festive-bakshanams-and-gift-hampers/article71656075.ece",
-      "short_english": "Six Chennai caterers opened Deepavali sweet bazaars with freshly prepared festive foods.",
-      "short_korean": "첸나이 요리사 6곳이 디왈리 과자 시장을 열었습니다",
-      "date": "2026-11-04",
-      "images": [
-        "images/indian/61d34c22ca42/1.jpg",
-        "images/indian/61d34c22ca42/2.jpg",
-        "images/indian/61d34c22ca42/3.jpg",
-        "images/indian/61d34c22ca42/4.jpg",
-        "images/indian/61d34c22ca42/5.jpg",
-        "images/indian/61d34c22ca42/6.jpg",
-        "images/indian/61d34c22ca42/7.jpg",
-        "images/indian/61d34c22ca42/8.jpg",
-        "images/indian/61d34c22ca42/9.jpg",
-        "images/indian/61d34c22ca42/10.jpg",
-        "images/indian/61d34c22ca42/11.jpg",
-        "images/indian/61d34c22ca42/12.jpg",
-        "images/indian/61d34c22ca42/13.jpg",
-        "images/indian/61d34c22ca42/14.jpg",
-        "images/indian/61d34c22ca42/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/61d34c22ca42/caption.txt"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "인도, 뉴질랜드를 185점 봉쇄",
-      "english_title": "India’s Young Pacers Bowl New Zealand Out for 185",
-      "korean_desc": "인도 주전 빠른 투수들은 관리와 부상으로 빠졌습니다 아르시딥은 4개, 구르누르는 3개, 캄보즈는 2개를 잡았습니다 뉴질랜드는 50오버 대신 40.2오버에 이닝을 끝냈습니다",
-      "english_desc": "India’s usual fast bowlers were missing because of workload management and injuries. Arshdeep took four wickets, Gurnoor three, and Kamboj two. New Zealand finished its innings in 40.2 overs instead of 50.",
-      "hook": "India’s attack bowled New Zealand out for 185.",
-      "sticker": "젊은 투수들의 밤 🏏",
-      "korean_hook": "인도 공격진이 뉴질랜드를 185점에 막았습니다",
-      "takeaway_english": "India seized early control, but the first ODI still required a successful chase.",
-      "takeaway_korean": "인도는 초반 주도권을 잡았지만 추격 성공이 필요했습니다",
-      "why_it_matters": [
-        {
-          "english": "India’s regular fast bowlers were unavailable through workload and injury concerns.",
-          "korean": "인도 주전 빠른 투수들은 관리와 부상 문제로 빠졌습니다"
-        },
-        {
-          "english": "Young replacements showed how team depth can shape a series.",
-          "korean": "젊은 대체 선수들이 팀의 깊이를 보여줬습니다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Arshdeep Singh",
-          "english": "He took four wickets for 70 runs in ten overs.",
-          "korean": "그는 10오버에 4위켓을 잡았습니다"
-        },
-        {
-          "label": "Gurnoor Brar",
-          "english": "He used speed and bounce to take three wickets.",
-          "korean": "그는 빠른 공과 바운드로 3위켓을 잡았습니다"
-        },
-        {
-          "label": "Anshul Kamboj",
-          "english": "He took two wickets and bowled 46 dot balls.",
-          "korean": "그는 2위켓과 46개 무득점 공을 기록했습니다"
-        }
-      ],
-      "views": [
-        {
-          "label": "India",
-          "english": "The young pace attack justified captain Shubman Gill’s decision to field first.",
-          "korean": "젊은 빠른 공 공격은 길의 선공 수비 결정을 증명했습니다"
-        },
-        {
-          "label": "New Zealand",
-          "english": "The hosts struggled against pace and bounce and lasted only 40.2 overs.",
-          "korean": "뉴질랜드는 빠른 공에 고전하며 40.2오버만 버텼습니다"
-        }
-      ],
-      "disagree": {
-        "english": "A low total gives India control, but the match outcome still depends on India’s chase.",
-        "korean": "낮은 점수는 인도에 유리하지만 승리는 추격 결과에 달렸습니다"
-      },
-      "reader_question_korean": "어느 인도 투수가 가장 인상적이었나요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "IND vs NZ first ODI: Arshdeep, Gurnoor, and Kamboj restrict New Zealand to 185",
-      "hook_format": "number",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "185",
-          "label": "New Zealand’s runs",
-          "korean_label": "뉴질랜드 득점"
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "Match date: November 4, 2026.",
-        "Venue: Eden Park, Auckland.",
-        "India’s regular trio was unavailable."
-      ],
-      "reader_question": "Which Indian bowler impressed you most?",
-      "topic_tag": "Cricket",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "IND vs NZ first ODI: Arshdeep, Gurnoor, and Kamboj restrict New Zealand to 185",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-in-auckland/article71663766.ece"
-        }
-      ],
-      "glossary": [
         {
           "korean": "인도",
           "roman": "Indo",
@@ -1281,54 +781,47 @@
           "suffix": ""
         },
         {
-          "korean": "주전",
-          "roman": "jujeon",
-          "english": "regular",
+          "korean": "전역의",
+          "roman": "jeonyeog-ui",
+          "english": "across",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "아홉",
+          "roman": "ahop",
+          "english": "nine",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "빠른",
-          "roman": "ppareun",
-          "english": "fast",
+          "korean": "밤",
+          "roman": "bam",
+          "english": "nights",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "투수들은",
-          "roman": "tusu-deul-eun",
-          "english": "bowlers",
+          "korean": "축제입니다",
+          "roman": "chukje-imnida",
+          "english": "is a festival",
           "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "관리와",
-          "roman": "gwanri-wa",
-          "english": "management and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "부상으로",
-          "roman": "busang-euro",
-          "english": "because of injuries",
-          "particle": false,
-          "suffix": "으로"
-        },
-        {
-          "korean": "빠졌습니다",
-          "roman": "ppajyeotseumnida",
-          "english": "were absent",
-          "particle": false,
-          "suffix": ""
+          "suffix": "입니다"
         }
       ],
       "sentences": [
         {
-          "stage": "why",
-          "english": "India’s usual fast bowlers were missing because of workload management and injuries.",
-          "korean": "인도 주전 빠른 투수들은 관리와 부상으로 빠졌습니다",
+          "stage": "what",
+          "english": "Navaratri is a nine-night festival across India, ending with Dussehra.",
+          "korean": "나바라트리는 인도 전역의 아홉 밤 축제입니다.",
           "glossary": [
+            {
+              "korean": "나바라트리는",
+              "roman": "Nabarateurineun",
+              "english": "Navaratri",
+              "particle": false,
+              "suffix": "는"
+            },
             {
               "korean": "인도",
               "roman": "Indo",
@@ -1337,491 +830,135 @@
               "suffix": ""
             },
             {
-              "korean": "주전",
-              "roman": "jujeon",
-              "english": "regular",
+              "korean": "전역의",
+              "roman": "jeonyeog-ui",
+              "english": "across",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "아홉",
+              "roman": "ahop",
+              "english": "nine",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "빠른",
-              "roman": "ppareun",
-              "english": "fast",
+              "korean": "밤",
+              "roman": "bam",
+              "english": "nights",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "투수들은",
-              "roman": "tusu-deul-eun",
-              "english": "bowlers",
+              "korean": "축제입니다",
+              "roman": "chukje-imnida",
+              "english": "is a festival",
               "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "관리와",
-              "roman": "gwanri-wa",
-              "english": "management and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "부상으로",
-              "roman": "busang-euro",
-              "english": "because of injuries",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "빠졌습니다",
-              "roman": "ppajyeotseumnida",
-              "english": "were absent",
-              "particle": false,
-              "suffix": ""
+              "suffix": "입니다"
             }
           ]
         },
         {
-          "stage": "how",
-          "english": "Arshdeep took four wickets, Gurnoor three, and Kamboj two.",
-          "korean": "아르시딥은 4개, 구르누르는 3개, 캄보즈는 2개를 잡았습니다",
+          "stage": "truth",
+          "english": "No, it joins several regional traditions through good defeating evil.",
+          "korean": "아니요, 여러 지역 전통이 선악 승리로 이어집니다.",
           "glossary": [
             {
-              "korean": "아르시딥은",
-              "roman": "Areusidi-beun",
-              "english": "Arshdeep",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "4개,",
-              "roman": "ne-ggae",
-              "english": "four",
+              "korean": "아니요",
+              "roman": "aniyo",
+              "english": "no",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "구르누르는",
-              "roman": "Gureunureu-neun",
-              "english": "Gurnoor",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "3개,",
-              "roman": "se-ggae",
-              "english": "three",
+              "korean": "여러",
+              "roman": "yeoreo",
+              "english": "several",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "캄보즈는",
-              "roman": "Kambojeu-neun",
-              "english": "Kamboj",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2개를",
-              "roman": "du-ggae-reul",
-              "english": "two",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "잡았습니다",
-              "roman": "jabaseumnida",
-              "english": "took",
-              "particle": false,
-              "suffix": "았습니다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "New Zealand finished its innings in 40.2 overs instead of 50.",
-          "korean": "뉴질랜드는 50오버 대신 40.2오버에 이닝을 끝냈습니다",
-          "glossary": [
-            {
-              "korean": "뉴질랜드는",
-              "roman": "Nyujillaendeu-neun",
-              "english": "New Zealand",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "50오버",
-              "roman": "osip-obeo",
-              "english": "50 overs",
+              "korean": "지역",
+              "roman": "jiyeok",
+              "english": "regional",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "대신",
-              "roman": "daesin",
-              "english": "instead of",
+              "korean": "전통이",
+              "roman": "jeontong-i",
+              "english": "traditions",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "선악",
+              "roman": "seonak",
+              "english": "good and evil",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "40.2오버에",
-              "roman": "sasip-jeom-i-obeo-e",
-              "english": "in 40.2 overs",
+              "korean": "승리로",
+              "roman": "seungni-ro",
+              "english": "through victory",
               "particle": false,
-              "suffix": "에"
+              "suffix": "로"
             },
             {
-              "korean": "이닝을",
-              "roman": "ining-eul",
-              "english": "innings",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "끝냈습니다",
-              "roman": "kkeutnaetseumnida",
-              "english": "finished",
+              "korean": "이어집니다",
+              "roman": "ieojimnida",
+              "english": "are connected",
               "particle": false,
               "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-first-odi-in-auckland/article71663766.ece",
-      "short_english": "India’s usual fast bowlers were missing because of workload management and injuries.",
-      "short_korean": "인도 주전 빠른 투수들은 관리와 부상으로 빠졌습니다",
-      "date": "2026-11-04",
-      "images": [
-        "images/indian/ec8010d8fd0b/1.jpg",
-        "images/indian/ec8010d8fd0b/2.jpg",
-        "images/indian/ec8010d8fd0b/3.jpg",
-        "images/indian/ec8010d8fd0b/4.jpg",
-        "images/indian/ec8010d8fd0b/5.jpg",
-        "images/indian/ec8010d8fd0b/6.jpg",
-        "images/indian/ec8010d8fd0b/7.jpg",
-        "images/indian/ec8010d8fd0b/8.jpg",
-        "images/indian/ec8010d8fd0b/9.jpg",
-        "images/indian/ec8010d8fd0b/10.jpg",
-        "images/indian/ec8010d8fd0b/11.jpg",
-        "images/indian/ec8010d8fd0b/12.jpg",
-        "images/indian/ec8010d8fd0b/13.jpg",
-        "images/indian/ec8010d8fd0b/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/ec8010d8fd0b/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "쿠치푸디로 만난 하누만 찰리사",
-      "english_title": "Kuchipudi Turns the Hanuman Chalisa into Dance",
-      "korean_desc": "스리모이 벰파티가 바르티야 비디야 바반에서 쿠치푸디 작품을 공연했습니다 춤은 라마야나와 하누만 찰리사의 하누만 이야기를 따릅니다 무용수들은 라마와의 만남, 랑카, 전투와 시타를 보여줬습니다 이 작품은 첸나이 아카데미의 쿠치푸디 전통을 이었습니다",
-      "english_desc": "Srimoyi Vempati presented KAPISUTRA in Kuchipudi at Bharatiya Vidya Bhavan. The dance follows Hanuman through episodes from the Ramayana and Hanuman Chalisa. Dancers showed Rama’s meeting with Hanuman, Lanka’s journey, battle and Sita’s discovery. The production continues the academy’s Kuchipudi legacy in Chennai.",
-      "hook": "A Kuchipudi production brought Hanuman’s story to life.",
-      "sticker": "춤으로 만난 하누만 🎭",
-      "korean_hook": "쿠치푸디가 하누만 이야기를 춤으로 살렸습니다",
-      "takeaway_english": "The production shows how devotion, storytelling and classical technique can share one stage.",
-      "takeaway_korean": "이 공연은 신앙과 이야기와 기법을 한 무대에 담았습니다",
-      "why_it_matters": [
-        {
-          "english": "Classical dance can carry religious stories to new audiences.",
-          "korean": "고전무용은 종교 이야기를 새 관객에게 전할 수 있습니다"
-        },
-        {
-          "english": "The production connects Kuchipudi teaching with Chennai’s cultural life.",
-          "korean": "공연은 쿠치푸디 교육과 첸나이 문화를 연결합니다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Srimoyi Vempati",
-          "english": "She created, choreographed and performed the production.",
-          "korean": "스리모이 벰파티가 작품을 만들고 공연했습니다"
-        },
-        {
-          "label": "Kuchipudi Art Academy students",
-          "english": "They performed multiple roles in the production.",
-          "korean": "쿠치푸디 아카데미 학생들은 여러 역할을 맡았습니다"
-        },
-        {
-          "label": "Bharatiya Vidya Bhavan audience",
-          "english": "They saw a devotional dance interpretation of Hanuman Chalisa episodes.",
-          "korean": "관객들은 하누만 찰리사 장면을 춤으로 보았습니다"
-        }
-      ],
-      "views": [
-        {
-          "label": "The Hindu review",
-          "english": "The production was praised for expressive acting, coordinated movement, music and lighting.",
-          "korean": "공연은 연기, 움직임, 음악과 조명으로 좋은 평가를 받았습니다"
-        },
-        {
-          "label": "Kuchipudi Art Academy",
-          "english": "The work continues Guru Vempati Chinna Satyam’s Chennai legacy.",
-          "korean": "이 작품은 첸나이에서 구루 벰파티의 전통을 잇습니다"
-        }
-      ],
-      "disagree": {
-        "english": "The available coverage is strongly positive and gives little space to critical or audience responses.",
-        "korean": "보도는 매우 긍정적이며 비판과 관객 반응은 거의 다루지 않습니다"
-      },
-      "reader_question_korean": "춤은 익숙한 종교 이야기를 새롭게 만들까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "‘Kapi Sutra’: Hanuman Chalisa finds expression in Kuchipudi",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Presented at Bharatiya Vidya Bhavan.",
-        "The production is titled KAPISUTRA: The Divine Algorithm of Bhakthi.",
-        "Its story draws on Tulsidas’ Hanuman Chalisa."
-      ],
-      "reader_question": "Can dance make a familiar religious story feel new?",
-      "topic_tag": "Dance",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "‘Kapi Sutra’: Hanuman Chalisa finds expression in Kuchipudi",
-          "date": "2026-11-03",
-          "url": "https://www.thehindu.com/entertainment/dance/kapi-sutra-hanuman-chalisa-finds-expression-in-kuchipudi/article71659760.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "스리모이",
-          "roman": "Seurimoi",
-          "english": "Srimoyi",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "벰파티가",
-          "roman": "Bempati-ga",
-          "english": "Vempati",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "바르티야",
-          "roman": "Bareutiya",
-          "english": "Bharatiya",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "비디야",
-          "roman": "Bidiya",
-          "english": "Vidya",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "바반에서",
-          "roman": "Baban-eseo",
-          "english": "at Bhavan",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "쿠치푸디",
-          "roman": "Kucipudi",
-          "english": "Kuchipudi",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "작품을",
-          "roman": "jakpum-eul",
-          "english": "production",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "공연했습니다",
-          "roman": "gongyeon-haetseumnida",
-          "english": "performed",
-          "particle": false,
-          "suffix": "했습니다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Srimoyi Vempati presented KAPISUTRA in Kuchipudi at Bharatiya Vidya Bhavan.",
-          "korean": "스리모이 벰파티가 바르티야 비디야 바반에서 쿠치푸디 작품을 공연했습니다",
-          "glossary": [
-            {
-              "korean": "스리모이",
-              "roman": "Seurimoi",
-              "english": "Srimoyi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "벰파티가",
-              "roman": "Bempati-ga",
-              "english": "Vempati",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "바르티야",
-              "roman": "Bareutiya",
-              "english": "Bharatiya",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "비디야",
-              "roman": "Bidiya",
-              "english": "Vidya",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "바반에서",
-              "roman": "Baban-eseo",
-              "english": "at Bhavan",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "쿠치푸디",
-              "roman": "Kucipudi",
-              "english": "Kuchipudi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "작품을",
-              "roman": "jakpum-eul",
-              "english": "production",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공연했습니다",
-              "roman": "gongyeon-haetseumnida",
-              "english": "performed",
-              "particle": false,
-              "suffix": "했습니다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The dance follows Hanuman through episodes from the Ramayana and Hanuman Chalisa.",
-          "korean": "춤은 라마야나와 하누만 찰리사의 하누만 이야기를 따릅니다",
+          "english": "The shared theme honors Shakti and the triumph of good over evil.",
+          "korean": "공통 주제는 샤크티와 선의 승리를 기립니다.",
           "glossary": [
             {
-              "korean": "춤은",
-              "roman": "cum-eun",
-              "english": "dance",
+              "korean": "공통",
+              "roman": "gongtong",
+              "english": "shared",
               "particle": false,
-              "suffix": "은"
+              "suffix": ""
             },
             {
-              "korean": "라마야나와",
-              "roman": "Ramayana-wa",
-              "english": "Ramayana and",
+              "korean": "주제는",
+              "roman": "juje-neun",
+              "english": "the theme",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "샤크티와",
+              "roman": "Syakti-wa",
+              "english": "Shakti and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "하누만",
-              "roman": "Hanuman",
-              "english": "Hanuman",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "하누만",
-              "roman": "Hanuman",
-              "english": "Hanuman",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "찰리사의",
-              "roman": "Callisaui",
-              "english": "Chalisa’s",
+              "korean": "선의",
+              "roman": "seon-ui",
+              "english": "of good",
               "particle": false,
               "suffix": "의"
             },
             {
-              "korean": "이야기를",
-              "roman": "iyagi-reul",
-              "english": "story",
+              "korean": "승리를",
+              "roman": "seungni-reul",
+              "english": "victory",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "따릅니다",
-              "roman": "ttareumnida",
-              "english": "follows",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Dancers showed Rama’s meeting with Hanuman, Lanka’s journey, battle and Sita’s discovery.",
-          "korean": "무용수들은 라마와의 만남, 랑카, 전투와 시타를 보여줬습니다",
-          "glossary": [
-            {
-              "korean": "무용수들은",
-              "roman": "muyongsu-deul-eun",
-              "english": "dancers",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "라마와의",
-              "roman": "Rama-wa-ui",
-              "english": "with Rama’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "만남,",
-              "roman": "mannam",
-              "english": "meeting",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "랑카,",
-              "roman": "Rang-ka",
-              "english": "Lanka",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전투와",
-              "roman": "jeontu-wa",
-              "english": "battle and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "시타를",
-              "roman": "Sita-reul",
-              "english": "Sita",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "보여줬습니다",
-              "roman": "boyeo-jwotseumnida",
-              "english": "showed",
+              "korean": "기립니다",
+              "roman": "gir imnida",
+              "english": "honors",
               "particle": false,
               "suffix": ""
             }
@@ -1829,146 +966,146 @@
         },
         {
           "stage": "next",
-          "english": "The production continues the academy’s Kuchipudi legacy in Chennai.",
-          "korean": "이 작품은 첸나이 아카데미의 쿠치푸디 전통을 이었습니다",
+          "english": "People celebrate through garba, kolu, Bathukamma, temple visits and Ramlila.",
+          "korean": "사람들은 가르바, 콜루, 바투캄마와 사원 방문을 즐깁니다.",
           "glossary": [
             {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "작품은",
-              "roman": "jakpum-eun",
-              "english": "production",
+              "korean": "사람들은",
+              "roman": "saramdeul-eun",
+              "english": "people",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "첸나이",
-              "roman": "Cenna-i",
-              "english": "Chennai",
+              "korean": "가르바",
+              "roman": "gareuba",
+              "english": "garba",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "아카데미의",
-              "roman": "akademi-ui",
-              "english": "academy’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "쿠치푸디",
-              "roman": "Kucipudi",
-              "english": "Kuchipudi",
+              "korean": "콜루",
+              "roman": "kollu",
+              "english": "kolu",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "전통을",
-              "roman": "jeontong-eul",
-              "english": "tradition",
+              "korean": "바투캄마와",
+              "roman": "batukamma-wa",
+              "english": "Bathukamma and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "사원",
+              "roman": "sawon",
+              "english": "temples",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방문을",
+              "roman": "bangmun-eul",
+              "english": "visits",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "이었습니다",
-              "roman": "ieotseumnida",
-              "english": "continued",
+              "korean": "즐깁니다",
+              "roman": "jeulgimnida",
+              "english": "enjoy",
               "particle": false,
-              "suffix": "었습니다"
+              "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/entertainment/dance/kapi-sutra-hanuman-chalisa-finds-expression-in-kuchipudi/article71659760.ece",
-      "short_english": "Srimoyi Vempati presented KAPISUTRA in Kuchipudi at Bharatiya Vidya Bhavan.",
-      "short_korean": "스리모이 벰파티가 바르티야 비디야 바반에서 쿠치푸디 작품을 공연했습니다",
-      "date": "2026-11-04",
+      "url": "https://www.thehindu.com/society/history-and-culture/all-you-need-to-know-about-navaratri-across-india/article71578893.ece",
+      "short_english": "Navaratri is a nine-night festival across India, ending with Dussehra.",
+      "short_korean": "나바라트리는 인도 전역의 아홉 밤 축제입니다.",
+      "date": "2026-11-05",
       "images": [
-        "images/indian/e7df684d8465/1.jpg",
-        "images/indian/e7df684d8465/2.jpg",
-        "images/indian/e7df684d8465/3.jpg",
-        "images/indian/e7df684d8465/4.jpg",
-        "images/indian/e7df684d8465/5.jpg",
-        "images/indian/e7df684d8465/6.jpg",
-        "images/indian/e7df684d8465/7.jpg",
-        "images/indian/e7df684d8465/8.jpg",
-        "images/indian/e7df684d8465/9.jpg",
-        "images/indian/e7df684d8465/10.jpg",
-        "images/indian/e7df684d8465/11.jpg",
-        "images/indian/e7df684d8465/12.jpg",
-        "images/indian/e7df684d8465/13.jpg",
-        "images/indian/e7df684d8465/14.jpg",
-        "images/indian/e7df684d8465/15.jpg"
+        "images/indian/1f0e55e008c4/1.jpg",
+        "images/indian/1f0e55e008c4/2.jpg",
+        "images/indian/1f0e55e008c4/3.jpg",
+        "images/indian/1f0e55e008c4/4.jpg",
+        "images/indian/1f0e55e008c4/5.jpg",
+        "images/indian/1f0e55e008c4/6.jpg",
+        "images/indian/1f0e55e008c4/7.jpg",
+        "images/indian/1f0e55e008c4/8.jpg",
+        "images/indian/1f0e55e008c4/9.jpg",
+        "images/indian/1f0e55e008c4/10.jpg",
+        "images/indian/1f0e55e008c4/11.jpg",
+        "images/indian/1f0e55e008c4/12.jpg",
+        "images/indian/1f0e55e008c4/13.jpg",
+        "images/indian/1f0e55e008c4/14.jpg",
+        "images/indian/1f0e55e008c4/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/e7df684d8465/caption.txt"
+      "caption_file": "images/indian/1f0e55e008c4/caption.txt"
     },
     {
-      "category": "World",
-      "korean_title": "압둘 엘사예드 미시간 승리 선언",
-      "english_title": "Abdul El-Sayed Claims a Historic Michigan Senate Victory",
-      "korean_desc": "빈 의석은 양당의 상원 주도권 경쟁 때문에 중요했습니다 엘사예드는 보편적 의료와 큰 병원비 지원을 약속했습니다 확정되면 그는 미국 상원의 첫 무슬림 의원이 됩니다",
-      "english_desc": "The open seat mattered because Democrats and Republicans were competing for Senate control. El-Sayed promised universal health care and help for voters facing large medical bills. If confirmed, he would become the first Muslim elected to the U.S. Senate.",
-      "hook": "Abdul El-Sayed claimed victory over Mike Rogers.",
-      "sticker": "미시간 승부의 결과",
-      "korean_hook": "압둘 엘사예드가 마이크 로저스에 승리를 선언했습니다",
-      "takeaway_english": "Michigan’s result could reshape Senate politics and broaden representation in Washington.",
-      "takeaway_korean": "미시간 결과는 상원 정치와 워싱턴 대표성을 바꿀 수 있습니다",
+      "category": "Sports",
+      "korean_title": "탄비 파트리, 청소년올림픽 결승 진출",
+      "english_title": "Tanvi Patri reaches a historic Youth Olympic final",
+      "korean_desc": "11월 5일 탄비 파트리가 청소년올림픽 여자 단식 결승에 올랐습니다. 15세 선수는 그 길에 오른 첫 인도 여성이 됐습니다. 그녀는 와타나베를 21-14, 11-21, 21-19로 이겼습니다. 그녀는 전에 자신을 이긴 중국 장이신과 경기합니다. 결승에서 파트리는 인도 첫 배드민턴 금메달을 노립니다.",
+      "english_desc": "On November 5, Tanvi Patri reached the Youth Olympic women's singles final. The 15-year-old became the first Indian woman to reach that semifinal and final path. She beat Japan's second seed Yuzuno Watanabe 21-14, 11-21, 21-19. She will play China's Yi Xin Zhang, who previously beat her in straight games. The final offers Patri a chance to win India's first Youth Olympic badminton gold.",
+      "hook": "Tanvi Patri became India's first woman finalist.",
+      "sticker": "One match from gold 🏸",
+      "korean_hook": "탄비 파트리가 인도 최초 결승에 갔어요",
+      "takeaway_english": "The final will test whether Patri can solve the opponent who beat her earlier.",
+      "takeaway_korean": "결승은 파트리가 이전 패배 상대를 풀 수 있는지 시험합니다.",
       "why_it_matters": [
         {
-          "english": "Health care costs were a major promise in the campaign.",
-          "korean": "의료비는 선거운동의 주요 약속이었습니다"
+          "english": "Her result gives Indian badminton a new Youth Olympic milestone.",
+          "korean": "그녀의 결과는 인도 배드민턴에 새 기록을 줍니다."
         },
         {
-          "english": "The result could mark a major religious first in the Senate.",
-          "korean": "결과는 상원에서 중요한 종교적 첫 기록이 될 수 있습니다"
+          "english": "Young athletes can see a path from junior events to major stages.",
+          "korean": "어린 선수들은 주니어 대회에서 큰 무대로 가는 길을 봅니다."
         }
       ],
       "parties": [
         {
-          "label": "Abdul El-Sayed",
-          "english": "The Democrat campaigned on universal health care and changing politics.",
-          "korean": "민주당 후보는 보편적 의료와 정치 변화를 내세웠습니다"
+          "label": "Tanvi Patri",
+          "english": "The 15-year-old Indian player reached the singles final.",
+          "korean": "15세 인도 선수는 단식 결승에 올랐습니다."
         },
         {
-          "label": "Mike Rogers",
-          "english": "The Republican was El-Sayed’s opponent in Michigan’s open Senate race.",
-          "korean": "공화당 후보는 미시간 상원 선거에서 맞붙었습니다"
+          "label": "Yuzuno Watanabe",
+          "english": "Japan's second seed lost the semifinal to Patri.",
+          "korean": "일본 2번 시드 와타나베는 준결승에서 졌습니다."
         },
         {
-          "label": "Michigan Democrats",
-          "english": "They could gain a key Senate seat if the result is confirmed.",
-          "korean": "결과가 확정되면 중요한 상원 의석을 얻을 수 있습니다"
+          "label": "Yi Xin Zhang",
+          "english": "The Chinese world junior champion will face Patri in the final.",
+          "korean": "중국 세계주니어 챔피언 장이신이 결승에서 만납니다."
         }
       ],
       "views": [
         {
-          "label": "El-Sayed’s campaign",
-          "english": "It presented health care costs and economic pressure as central voter concerns.",
-          "korean": "선거운동은 의료비와 경제 압박을 핵심 문제로 제시했습니다"
+          "label": "Indian badminton supporters",
+          "english": "Patri's run signals India's growing presence in Youth Olympic badminton.",
+          "korean": "팬들은 파트리의 질주가 인도 배드민턴의 성장이라고 봅니다."
         },
         {
-          "label": "Republican campaign",
-          "english": "Republicans attacked El-Sayed as dangerous and tied him to far-left politics.",
-          "korean": "공화당은 엘사예드를 위험한 극좌 정치인으로 공격했습니다"
+          "label": "Tournament observers",
+          "english": "The final remains difficult because Zhang previously beat Patri.",
+          "korean": "관계자들은 장이신이 전에 이겨 결승이 어렵다고 봅니다."
         }
       ],
       "disagree": {
-        "english": "The available reports describe a claimed victory, but they do not provide a certified final vote count.",
-        "korean": "보도는 승리 선언을 전하지만 확정된 최종 득표수는 없습니다"
+        "english": "A final appearance is historic, but it does not guarantee gold.",
+        "korean": "결승 진출은 역사적이지만 금메달을 보장하지 않습니다."
       },
-      "reader_question_korean": "미시간의 새 상원 의원은 어떤 문제를 먼저 풀어야 할까요?",
+      "reader_question_korean": "파트리는 이 돌파구를 금메달로 바꿀까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Democrat Abdul El-Sayed claims victory in Michigan Senate battle",
+      "source_title": "Tanvi Patri becomes first Indian badminton player to reach Youth Olympic badminton final",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -1978,230 +1115,195 @@
       "format_data": {},
       "serious": false,
       "caption_lines": [
-        "Election night: November 4, 2026.",
-        "The seat opened when Gary Peters retired.",
-        "Certification details were not included in the available reports."
+        "Semifinal date: November 5, 2026.",
+        "The final opponent is Yi Xin Zhang.",
+        "Patri trains at the Prakash Padukone Badminton Academy."
       ],
-      "reader_question": "What issue should guide Michigan’s new senator?",
-      "topic_tag": "Election",
+      "reader_question": "Can Patri turn this breakthrough into gold?",
+      "topic_tag": "Badminton",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Democrat Abdul El-Sayed claims victory in Michigan Senate battle",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/news/international/democrat-abdul-el-sayed-michigan-us-midterm-elections-senate/article71664484.ece"
+          "title": "Tanvi Patri becomes first Indian badminton player to reach Youth Olympic badminton final",
+          "date": "2026-11-05",
+          "url": "https://www.thehindu.com/sport/tanvi-patri-becomes-first-indian-badminton-player-to-reach-youth-olympic-badminton-final/article71668839.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "빈",
-          "roman": "bin",
-          "english": "open",
+          "korean": "11월",
+          "roman": "11-wol",
+          "english": "November",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "의석은",
-          "roman": "uiseog-eun",
-          "english": "seat",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "양당의",
-          "roman": "yangdang-ui",
-          "english": "the two parties’",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "상원",
-          "roman": "sangwon",
-          "english": "Senate",
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "fifth day",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "주도권",
-          "roman": "judo-gwon",
-          "english": "control",
+          "korean": "탄비",
+          "roman": "Tanbi",
+          "english": "Tanvi",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "경쟁",
-          "roman": "gyeongjaeng",
-          "english": "competition",
+          "korean": "파트리가",
+          "roman": "Pateuri-ga",
+          "english": "Patri",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "청소년올림픽",
+          "roman": "cheongsonyeon-ollimpik",
+          "english": "Youth Olympics",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "때문에",
-          "roman": "ttaemune",
-          "english": "because",
+          "korean": "여자",
+          "roman": "yeoja",
+          "english": "women's",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "중요했습니다",
-          "roman": "jungyo-haetseumnida",
-          "english": "was important",
+          "korean": "단식",
+          "roman": "dansik",
+          "english": "singles",
           "particle": false,
-          "suffix": "했습니다"
+          "suffix": ""
+        },
+        {
+          "korean": "결승에",
+          "roman": "gyeolsung-e",
+          "english": "to the final",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "올랐습니다",
+          "roman": "ollatseumnida",
+          "english": "reached",
+          "particle": false,
+          "suffix": "습니다"
         }
       ],
       "sentences": [
         {
+          "stage": "what",
+          "english": "On November 5, Tanvi Patri reached the Youth Olympic women's singles final.",
+          "korean": "11월 5일 탄비 파트리가 청소년올림픽 여자 단식 결승에 올랐습니다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "fifth day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "탄비",
+              "roman": "Tanbi",
+              "english": "Tanvi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "파트리가",
+              "roman": "Pateuri-ga",
+              "english": "Patri",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "청소년올림픽",
+              "roman": "cheongsonyeon-ollimpik",
+              "english": "Youth Olympics",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여자",
+              "roman": "yeoja",
+              "english": "women's",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "단식",
+              "roman": "dansik",
+              "english": "singles",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결승에",
+              "roman": "gyeolsung-e",
+              "english": "to the final",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "올랐습니다",
+              "roman": "ollatseumnida",
+              "english": "reached",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
           "stage": "why",
-          "english": "The open seat mattered because Democrats and Republicans were competing for Senate control.",
-          "korean": "빈 의석은 양당의 상원 주도권 경쟁 때문에 중요했습니다",
+          "english": "The 15-year-old became the first Indian woman to reach that semifinal and final path.",
+          "korean": "15세 선수는 그 길에 오른 첫 인도 여성이 됐습니다.",
           "glossary": [
             {
-              "korean": "빈",
-              "roman": "bin",
-              "english": "open",
+              "korean": "15세",
+              "roman": "sip-o-se",
+              "english": "15-year-old",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "의석은",
-              "roman": "uiseog-eun",
-              "english": "seat",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "양당의",
-              "roman": "yangdang-ui",
-              "english": "the two parties’",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "상원",
-              "roman": "sangwon",
-              "english": "Senate",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주도권",
-              "roman": "judo-gwon",
-              "english": "control",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "경쟁",
-              "roman": "gyeongjaeng",
-              "english": "competition",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "때문에",
-              "roman": "ttaemune",
-              "english": "because",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중요했습니다",
-              "roman": "jungyo-haetseumnida",
-              "english": "was important",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "El-Sayed promised universal health care and help for voters facing large medical bills.",
-          "korean": "엘사예드는 보편적 의료와 큰 병원비 지원을 약속했습니다",
-          "glossary": [
-            {
-              "korean": "엘사예드는",
-              "roman": "Elsaye-deu-neun",
-              "english": "El-Sayed",
+              "korean": "선수는",
+              "roman": "seonsu-neun",
+              "english": "the player",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "보편적",
-              "roman": "bopyeonjeok",
-              "english": "universal",
+              "korean": "그",
+              "roman": "geu",
+              "english": "that",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "의료와",
-              "roman": "uiryo-wa",
-              "english": "health care and",
+              "korean": "길에",
+              "roman": "gil-e",
+              "english": "on the path",
               "particle": false,
-              "suffix": "와"
+              "suffix": "에"
             },
             {
-              "korean": "큰",
-              "roman": "keun",
-              "english": "large",
+              "korean": "오른",
+              "roman": "oreun",
+              "english": "who reached",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "병원비",
-              "roman": "byeongwonbi",
-              "english": "medical bills",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지원을",
-              "roman": "jiwon-eul",
-              "english": "help",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "약속했습니다",
-              "roman": "yaksok-haetseumnida",
-              "english": "promised",
-              "particle": false,
-              "suffix": "했습니다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "If confirmed, he would become the first Muslim elected to the U.S. Senate.",
-          "korean": "확정되면 그는 미국 상원의 첫 무슬림 의원이 됩니다",
-          "glossary": [
-            {
-              "korean": "확정되면",
-              "roman": "hwakjeong-doemyeon",
-              "english": "if confirmed",
-              "particle": false,
-              "suffix": "면"
-            },
-            {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "미국",
-              "roman": "Miguk",
-              "english": "United States",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "상원의",
-              "roman": "sangwon-ui",
-              "english": "Senate’s",
-              "particle": false,
-              "suffix": "의"
             },
             {
               "korean": "첫",
@@ -2211,51 +1313,1000 @@
               "suffix": ""
             },
             {
-              "korean": "무슬림",
-              "roman": "museullim",
-              "english": "Muslim",
+              "korean": "인도",
+              "roman": "Indo",
+              "english": "Indian",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "의원이",
-              "roman": "uiwon-i",
-              "english": "member",
+              "korean": "여성이",
+              "roman": "yeoseong-i",
+              "english": "woman",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "됩니다",
-              "roman": "doemnida",
-              "english": "becomes",
+              "korean": "됐습니다",
+              "roman": "dwaetseumnida",
+              "english": "became",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "She beat Japan's second seed Yuzuno Watanabe 21-14, 11-21, 21-19.",
+          "korean": "그녀는 와타나베를 21-14, 11-21, 21-19로 이겼습니다.",
+          "glossary": [
+            {
+              "korean": "그녀는",
+              "roman": "geunyeo-neun",
+              "english": "she",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "와타나베를",
+              "roman": "Watanabe-reul",
+              "english": "Watanabe",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "21-14",
+              "roman": "isibil-sipsa",
+              "english": "21-14",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "11-21",
+              "roman": "sibil-isibil",
+              "english": "11-21",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "21-19로",
+              "roman": "isibil-sipgu-ro",
+              "english": "21-19",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "이겼습니다",
+              "roman": "igyeotseumnida",
+              "english": "won",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "She will play China's Yi Xin Zhang, who previously beat her in straight games.",
+          "korean": "그녀는 전에 자신을 이긴 중국 장이신과 경기합니다.",
+          "glossary": [
+            {
+              "korean": "그녀는",
+              "roman": "geunyeo-neun",
+              "english": "she",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "전에",
+              "roman": "jeon-e",
+              "english": "previously",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "자신을",
+              "roman": "jasin-eul",
+              "english": "her",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "이긴",
+              "roman": "igin",
+              "english": "who beat",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중국",
+              "roman": "Jungguk",
+              "english": "China",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장이신과",
+              "roman": "Jang-isin-gwa",
+              "english": "Yi Xin Zhang",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "경기합니다",
+              "roman": "gyeonggi-hamnida",
+              "english": "plays",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The final offers Patri a chance to win India's first Youth Olympic badminton gold.",
+          "korean": "결승에서 파트리는 인도 첫 배드민턴 금메달을 노립니다.",
+          "glossary": [
+            {
+              "korean": "결승에서",
+              "roman": "gyeolsung-eseo",
+              "english": "in the final",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "파트리는",
+              "roman": "Pateuri-neun",
+              "english": "Patri",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "인도",
+              "roman": "Indo",
+              "english": "India's",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "첫",
+              "roman": "cheot",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "배드민턴",
+              "roman": "baedeuminteon",
+              "english": "badminton",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "금메달을",
+              "roman": "geummedal-eul",
+              "english": "gold medal",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "노립니다",
+              "roman": "norimnida",
+              "english": "aims for",
               "particle": false,
               "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/democrat-abdul-el-sayed-michigan-us-midterm-elections-senate/article71664484.ece",
-      "short_english": "The open seat mattered because Democrats and Republicans were competing for Senate control.",
-      "short_korean": "빈 의석은 양당의 상원 주도권 경쟁 때문에 중요했습니다",
-      "date": "2026-11-04",
+      "url": "https://www.thehindu.com/sport/tanvi-patri-becomes-first-indian-badminton-player-to-reach-youth-olympic-badminton-final/article71668839.ece",
+      "short_english": "On November 5, Tanvi Patri reached the Youth Olympic women's singles final.",
+      "short_korean": "11월 5일 탄비 파트리가 청소년올림픽 여자 단식 결승에 올랐습니다.",
+      "date": "2026-11-05",
       "images": [
-        "images/indian/67e2c157ec29/1.jpg",
-        "images/indian/67e2c157ec29/2.jpg",
-        "images/indian/67e2c157ec29/3.jpg",
-        "images/indian/67e2c157ec29/4.jpg",
-        "images/indian/67e2c157ec29/5.jpg",
-        "images/indian/67e2c157ec29/6.jpg",
-        "images/indian/67e2c157ec29/7.jpg",
-        "images/indian/67e2c157ec29/8.jpg",
-        "images/indian/67e2c157ec29/9.jpg",
-        "images/indian/67e2c157ec29/10.jpg",
-        "images/indian/67e2c157ec29/11.jpg",
-        "images/indian/67e2c157ec29/12.jpg",
-        "images/indian/67e2c157ec29/13.jpg",
-        "images/indian/67e2c157ec29/14.jpg"
+        "images/indian/6d25ecdcd00d/1.jpg",
+        "images/indian/6d25ecdcd00d/2.jpg",
+        "images/indian/6d25ecdcd00d/3.jpg",
+        "images/indian/6d25ecdcd00d/4.jpg",
+        "images/indian/6d25ecdcd00d/5.jpg",
+        "images/indian/6d25ecdcd00d/6.jpg",
+        "images/indian/6d25ecdcd00d/7.jpg",
+        "images/indian/6d25ecdcd00d/8.jpg",
+        "images/indian/6d25ecdcd00d/9.jpg",
+        "images/indian/6d25ecdcd00d/10.jpg",
+        "images/indian/6d25ecdcd00d/11.jpg",
+        "images/indian/6d25ecdcd00d/12.jpg",
+        "images/indian/6d25ecdcd00d/13.jpg",
+        "images/indian/6d25ecdcd00d/14.jpg",
+        "images/indian/6d25ecdcd00d/15.jpg",
+        "images/indian/6d25ecdcd00d/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/67e2c157ec29/caption.txt"
+      "caption_file": "images/indian/6d25ecdcd00d/caption.txt"
+    },
+    {
+      "category": "Entertainment",
+      "korean_title": "11월 8일, 브렛 리의 숨은 재능",
+      "english_title": "Which cricketer sang with Asha Bhosle?",
+      "korean_desc": "11월 8일 퀴즈는 배우와 가수였던 선수를 묻습니다. 답은 호주 크리켓 선수 브렛 리입니다. 리는 2006년 챔피언스 트로피 때 아샤와 듀엣을 녹음했습니다. 그는 나중에 영화 언인디안의 주연을 맡았습니다.",
+      "english_desc": "A November 8 quiz asks which cricketer acted and sang with Asha Bhosle. The answer is Australian cricketer Brett Lee. Lee recorded a duet with Asha Bhosle during the 2006 Champions Trophy period. He later acted as the lead in the film UnIndian.",
+      "hook": "Which cricketer turned fast bowling into music?",
+      "sticker": "Cricket meets music 🎵",
+      "korean_hook": "어느 크리켓 선수가 음악도 했을까요?",
+      "takeaway_english": "November 8 brings a birthday clue with a surprisingly musical answer.",
+      "takeaway_korean": "11월 8일 생일 단서는 놀랍게 음악적인 답으로 이어집니다.",
+      "why_it_matters": [
+        {
+          "english": "Trivia can connect sports, cinema and music in one memorable clue.",
+          "korean": "상식은 스포츠, 영화와 음악을 기억할 단서로 연결합니다."
+        },
+        {
+          "english": "The answer rewards readers who notice careers beyond the scoreboard.",
+          "korean": "답은 경기장 밖 경력을 본 독자에게 보상을 줍니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Brett Lee",
+          "english": "He acted in a movie and recorded a duet with Asha Bhosle.",
+          "korean": "그는 영화에 출연했고 아샤 보슬레와 듀엣을 녹음했습니다."
+        },
+        {
+          "label": "Asha Bhosle",
+          "english": "She sang with Lee during the 2006 Champions Trophy period.",
+          "korean": "아샤 보슬레는 2006년 챔피언스 트로피 시기에 리와 노래했습니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Quizmakers",
+          "english": "The date becomes a doorway into unusual cricket and music trivia.",
+          "korean": "퀴즈 출제자는 날짜로 특별한 크리켓 음악 상식을 엽니다."
+        },
+        {
+          "label": "Music fans",
+          "english": "Lee's duet shows that sports celebrities can have unexpected creative careers.",
+          "korean": "리의 듀엣은 스포츠 스타의 뜻밖의 창작 활동을 보여줍니다."
+        }
+      ],
+      "disagree": {
+        "english": "A single celebrity fact does not explain how successful the film or song became.",
+        "korean": "한 가지 사실만으로 영화나 노래의 성공을 알 수 없습니다."
+      },
+      "reader_question_korean": "어느 선수의 숨은 재능이 가장 놀라웠나요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Quiz: Easy like Sunday morning: What has Nov. 8 ever given us",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "Brett Lee was born on November 8.",
+        "The song was a duet with Asha Bhosle.",
+        "The film was UnIndian."
+      ],
+      "reader_question": "Which athlete's hidden talent surprised you most?",
+      "topic_tag": "Quiz",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Quiz: Easy like Sunday morning: What has Nov. 8 ever given us",
+          "date": "2026-11-05",
+          "url": "https://www.thehindu.com/entertainment/quiz-easy-like-sunday-morning-what-has-nov-8-ever-given-us/article71659886.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "11월",
+          "roman": "11-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "8일",
+          "roman": "pal-il",
+          "english": "eighth day",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "퀴즈는",
+          "roman": "kwijeu-neun",
+          "english": "the quiz",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "배우와",
+          "roman": "baeu-wa",
+          "english": "actor and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "가수였던",
+          "roman": "gasu-yeotdeon",
+          "english": "who was a singer",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "선수를",
+          "roman": "seonsu-reul",
+          "english": "player",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "묻습니다",
+          "roman": "mutseumnida",
+          "english": "asks",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "A November 8 quiz asks which cricketer acted and sang with Asha Bhosle.",
+          "korean": "11월 8일 퀴즈는 배우와 가수였던 선수를 묻습니다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "8일",
+              "roman": "pal-il",
+              "english": "eighth day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "퀴즈는",
+              "roman": "kwijeu-neun",
+              "english": "the quiz",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "배우와",
+              "roman": "baeu-wa",
+              "english": "actor and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "가수였던",
+              "roman": "gasu-yeotdeon",
+              "english": "who was a singer",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선수를",
+              "roman": "seonsu-reul",
+              "english": "player",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "묻습니다",
+              "roman": "mutseumnida",
+              "english": "asks",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "truth",
+          "english": "The answer is Australian cricketer Brett Lee.",
+          "korean": "답은 호주 크리켓 선수 브렛 리입니다.",
+          "glossary": [
+            {
+              "korean": "답은",
+              "roman": "dap-eun",
+              "english": "the answer",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "호주",
+              "roman": "Hoju",
+              "english": "Australia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "크리켓",
+              "roman": "keuriket",
+              "english": "cricket",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선수",
+              "roman": "seonsu",
+              "english": "player",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "브렛",
+              "roman": "Beuret",
+              "english": "Brett",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "리입니다",
+              "roman": "Ri-imnida",
+              "english": "is Lee",
+              "particle": false,
+              "suffix": "입니다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Lee recorded a duet with Asha Bhosle during the 2006 Champions Trophy period.",
+          "korean": "리는 2006년 챔피언스 트로피 때 아샤와 듀엣을 녹음했습니다.",
+          "glossary": [
+            {
+              "korean": "리는",
+              "roman": "Ri-neun",
+              "english": "Lee",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2006년",
+              "roman": "icheon-yuknyeon",
+              "english": "2006",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "챔피언스",
+              "roman": "chaempieonseu",
+              "english": "Champions",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "트로피",
+              "roman": "teuropi",
+              "english": "Trophy",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "때",
+              "roman": "ttae",
+              "english": "period",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아샤와",
+              "roman": "Asha-wa",
+              "english": "with Asha",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "듀엣을",
+              "roman": "dyuet-eul",
+              "english": "duet",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "녹음했습니다",
+              "roman": "nogeum-haetseumnida",
+              "english": "recorded",
+              "particle": false,
+              "suffix": "했습니다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "He later acted as the lead in the film UnIndian.",
+          "korean": "그는 나중에 영화 언인디안의 주연을 맡았습니다.",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "나중에",
+              "roman": "najung-e",
+              "english": "later",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "영화",
+              "roman": "yeonghwa",
+              "english": "film",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "언인디안의",
+              "roman": "Eonindian-ui",
+              "english": "UnIndian's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "주연을",
+              "roman": "juyeon-eul",
+              "english": "lead role",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "맡았습니다",
+              "roman": "matatseumnida",
+              "english": "took",
+              "particle": false,
+              "suffix": "았습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/quiz-easy-like-sunday-morning-what-has-nov-8-ever-given-us/article71659886.ece",
+      "short_english": "A November 8 quiz asks which cricketer acted and sang with Asha Bhosle.",
+      "short_korean": "11월 8일 퀴즈는 배우와 가수였던 선수를 묻습니다.",
+      "date": "2026-11-05",
+      "images": [
+        "images/indian/e9431ee840be/1.jpg",
+        "images/indian/e9431ee840be/2.jpg",
+        "images/indian/e9431ee840be/3.jpg",
+        "images/indian/e9431ee840be/4.jpg",
+        "images/indian/e9431ee840be/5.jpg",
+        "images/indian/e9431ee840be/6.jpg",
+        "images/indian/e9431ee840be/7.jpg",
+        "images/indian/e9431ee840be/8.jpg",
+        "images/indian/e9431ee840be/9.jpg",
+        "images/indian/e9431ee840be/10.jpg",
+        "images/indian/e9431ee840be/11.jpg",
+        "images/indian/e9431ee840be/12.jpg",
+        "images/indian/e9431ee840be/13.jpg",
+        "images/indian/e9431ee840be/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/e9431ee840be/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "미국 중간선거, 트럼프의 다음 수",
+      "english_title": "Midterm losses leave Trump weighing his Iran war move",
+      "korean_desc": "11월 3일 민주당이 미국 중간선거에서 의회 양원을 이겼습니다. 유권자들은 물가, 이란 전쟁과 정부 부패를 걱정했습니다. 결과로 민주당은 위원회와 백악관 감시 권한을 얻었습니다. 11월 5일 현재 트럼프는 이란 전쟁의 다음 수를 고민했습니다.",
+      "english_desc": "On November 3, Democrats won both chambers of Congress in America's midterm elections. Voters cited high prices, the Iran war and concerns about government corruption. The result gives Democrats committee control and stronger oversight of the White House. As of November 5, Trump was weighing what to do next in the Iran war.",
+      "hook": "Democrats won Congress; Trump must weigh Iran next.",
+      "sticker": "What Congress does next",
+      "korean_hook": "민주당이 의회를 이겼고 트럼프는 이란을 고민합니다",
+      "takeaway_english": "The next conflict may be political: Congress versus the president over Iran.",
+      "takeaway_korean": "다음 충돌은 이란을 둘러싼 의회와 대통령의 정치 싸움일 수 있습니다.",
+      "why_it_matters": [
+        {
+          "english": "The election may affect war policy, fuel prices and congressional investigations.",
+          "korean": "선거는 전쟁 정책, 연료 가격과 의회 조사를 바꿀 수 있습니다."
+        },
+        {
+          "english": "The result shapes the final two years of Trump's presidency.",
+          "korean": "결과는 트럼프 대통령 임기의 마지막 2년을 좌우합니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Donald Trump",
+          "english": "He now faces pressure over the unpopular eight-month Iran war.",
+          "korean": "그는 8개월째 이란 전쟁에 대한 압박을 받습니다."
+        },
+        {
+          "label": "Democrats",
+          "english": "They control both congressional chambers after the November 3 election.",
+          "korean": "민주당은 11월 3일 선거 뒤 양원을 장악했습니다."
+        },
+        {
+          "label": "J.D. Vance",
+          "english": "He blamed Trump administration policies for the Republican defeat.",
+          "korean": "그는 공화당 패배를 트럼프 정부 정책 탓으로 돌렸습니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Democratic leaders",
+          "english": "They say the result gives Congress power to check Trump's war and tariffs.",
+          "korean": "민주당 지도자들은 의회가 전쟁과 관세를 견제할 힘을 얻었다고 말합니다."
+        },
+        {
+          "label": "Trump and allies",
+          "english": "They argue the administration still has executive authority and may continue its policy.",
+          "korean": "트럼프 측은 정부가 여전히 행정 권한을 갖고 정책을 계속할 수 있다고 말합니다."
+        }
+      ],
+      "disagree": {
+        "english": "A congressional majority can investigate and control funding, but it cannot instantly end every policy.",
+        "korean": "의회 다수당은 조사와 예산 통제가 가능하지만 모든 정책을 즉시 끝낼 수는 없습니다."
+      },
+      "reader_question_korean": "전쟁에 대해 의회는 얼마나 힘을 가져야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"J.D. Vance blamed Trump-era policies, while Democr\" may be missing promis"
+      ],
+      "source_title": "U.S. midterm elections 2026 LIVE: After midterm loss, Trump left to weigh his next move in Iran war",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "Election date: November 3, 2026.",
+        "Democrats won both the House and Senate.",
+        "The article says the Iran war began eight months earlier."
+      ],
+      "reader_question": "How much power should Congress have over a war?",
+      "topic_tag": "Politics",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "U.S. midterm elections 2026 LIVE: After midterm loss, Trump left to weigh his next move in Iran war",
+          "date": "2026-11-05",
+          "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "11월",
+          "roman": "11-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "3일",
+          "roman": "sam-il",
+          "english": "third day",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "민주당이",
+          "roman": "minjudang-i",
+          "english": "Democrats",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "미국",
+          "roman": "Miguk",
+          "english": "America",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "중간선거에서",
+          "roman": "jungganseongeo-eseo",
+          "english": "in midterm elections",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "의회",
+          "roman": "uihoe",
+          "english": "Congress",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "양원을",
+          "roman": "yangwon-eul",
+          "english": "both chambers",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "이겼습니다",
+          "roman": "igyeotseumnida",
+          "english": "won",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On November 3, Democrats won both chambers of Congress in America's midterm elections.",
+          "korean": "11월 3일 민주당이 미국 중간선거에서 의회 양원을 이겼습니다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "3일",
+              "roman": "sam-il",
+              "english": "third day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "민주당이",
+              "roman": "minjudang-i",
+              "english": "Democrats",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "미국",
+              "roman": "Miguk",
+              "english": "America",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중간선거에서",
+              "roman": "jungganseongeo-eseo",
+              "english": "in midterm elections",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "의회",
+              "roman": "uihoe",
+              "english": "Congress",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "양원을",
+              "roman": "yangwon-eul",
+              "english": "both chambers",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "이겼습니다",
+              "roman": "igyeotseumnida",
+              "english": "won",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Voters cited high prices, the Iran war and concerns about government corruption.",
+          "korean": "유권자들은 물가, 이란 전쟁과 정부 부패를 걱정했습니다.",
+          "glossary": [
+            {
+              "korean": "유권자들은",
+              "roman": "yugwonjadeul-eun",
+              "english": "voters",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "물가",
+              "roman": "mulga",
+              "english": "prices",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이란",
+              "roman": "Iran",
+              "english": "Iran",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전쟁과",
+              "roman": "jeonjaeng-gwa",
+              "english": "war and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "정부",
+              "roman": "jeongbu",
+              "english": "government",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "부패를",
+              "roman": "bupae-reul",
+              "english": "corruption",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "걱정했습니다",
+              "roman": "geokjeong-haetseumnida",
+              "english": "worried about",
+              "particle": false,
+              "suffix": "했습니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The result gives Democrats committee control and stronger oversight of the White House.",
+          "korean": "결과로 민주당은 위원회와 백악관 감시 권한을 얻었습니다.",
+          "glossary": [
+            {
+              "korean": "결과로",
+              "roman": "gyeolgwa-ro",
+              "english": "as a result",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "민주당은",
+              "roman": "minjudang-eun",
+              "english": "Democrats",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "위원회와",
+              "roman": "wiwonhoe-wa",
+              "english": "committees and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "백악관",
+              "roman": "Baegakgwan",
+              "english": "White House",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "감시",
+              "roman": "gamsi",
+              "english": "oversight",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "권한을",
+              "roman": "gwonhan-eul",
+              "english": "authority",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "얻었습니다",
+              "roman": "eodeotseumnida",
+              "english": "gained",
+              "particle": false,
+              "suffix": "었습니다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "As of November 5, Trump was weighing what to do next in the Iran war.",
+          "korean": "11월 5일 현재 트럼프는 이란 전쟁의 다음 수를 고민했습니다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "fifth day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "현재",
+              "roman": "hyeonjae",
+              "english": "as of",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "트럼프는",
+              "roman": "Teureompeu-neun",
+              "english": "Trump",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "이란",
+              "roman": "Iran",
+              "english": "Iran",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전쟁의",
+              "roman": "jeonjaeng-ui",
+              "english": "war's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "다음",
+              "roman": "daeum",
+              "english": "next",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수를",
+              "roman": "su-reul",
+              "english": "move",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "고민했습니다",
+              "roman": "gomin-haetseumnida",
+              "english": "was considering",
+              "particle": false,
+              "suffix": "했습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece",
+      "short_english": "On November 3, Democrats won both chambers of Congress in America's midterm elections.",
+      "short_korean": "11월 3일 민주당이 미국 중간선거에서 의회 양원을 이겼습니다.",
+      "date": "2026-11-05",
+      "images": [
+        "images/indian/49fdba8c15d1/1.jpg",
+        "images/indian/49fdba8c15d1/2.jpg",
+        "images/indian/49fdba8c15d1/3.jpg",
+        "images/indian/49fdba8c15d1/4.jpg",
+        "images/indian/49fdba8c15d1/5.jpg",
+        "images/indian/49fdba8c15d1/6.jpg",
+        "images/indian/49fdba8c15d1/7.jpg",
+        "images/indian/49fdba8c15d1/8.jpg",
+        "images/indian/49fdba8c15d1/9.jpg",
+        "images/indian/49fdba8c15d1/10.jpg",
+        "images/indian/49fdba8c15d1/11.jpg",
+        "images/indian/49fdba8c15d1/12.jpg",
+        "images/indian/49fdba8c15d1/13.jpg",
+        "images/indian/49fdba8c15d1/14.jpg",
+        "images/indian/49fdba8c15d1/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/49fdba8c15d1/caption.txt"
     }
   ]
 }

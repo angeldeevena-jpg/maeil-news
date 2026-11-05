@@ -1,141 +1,534 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0159",
-  "generated_at": "2026-11-04T07:32:10.770Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0179",
+  "generated_at": "2026-11-05T07:58:10.090Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "이재명, 사이버안보 총괄 제안",
-      "english_title": "Lee Wants One Cybersecurity Boss After New Attacks",
-      "korean_desc": "이재명 대통령은 2026년 11월 3일 제안했다. 그는 기존 체계가 공격 뒤 대응한다고 말했다. 한국은 SK텔레콤, 쿠팡과 금융기관에서 침해를 겪었다.",
-      "english_desc": "President Lee Jae Myung proposed a powerful cybersecurity coordinator on November 3, 2026. He said existing systems focus too much on inspections and responses after attacks. South Korea has suffered breaches at SK Telecom, Coupang, banks and financial institutions.",
-      "hook": "Lee wants one cyber boss after cyberattacks.",
-      "sticker": "Who guards the networks?",
-      "korean_hook": "이재명, 사이버 총괄 원해",
-      "takeaway_english": "The plan matters, but its real test will be authority, speed and clear responsibility.",
-      "takeaway_korean": "핵심은 권한, 속도와 책임의 명확성이다.",
+      "korean_title": "명동 상인들이 관광객 쓰레기를 받는다",
+      "english_title": "Myeong-dong vendors become Seoul’s unofficial trash cans",
+      "korean_desc": "캠페인은 불법 투기와 쓰레기통 부족에 대응한다. 영어, 일본어, 중국어 표지가 참여 매대를 알린다. 서울은 9월 공공 쓰레기통 7,142개를 보유했다. 공무원들은 캠페인을 다른 관광지와 전통시장으로 넓힐 계획이다.",
+      "english_desc": "The campaign responds to illegal dumping and complaints about finding public bins. Signs in English, Japanese and Chinese identify participating stalls for visitors. Seoul had 7,142 public street bins in September, below its 1995 total of 7,607. Officials plan to extend the campaign to other tourist areas and traditional markets.",
+      "hook": "Myeong-dong vendors now accept outside trash.",
+      "sticker": "Where does the trash go?",
+      "korean_hook": "명동 상인들이 다른 쓰레기도 받는다",
+      "takeaway_english": "Seoul’s next test is adding bins without creating new neighborhood complaints.",
+      "takeaway_korean": "서울의 다음 과제는 민원 없이 쓰레기통을 늘리는 일이다.",
       "why_it_matters": [
         {
-          "english": "Cyberattacks can threaten personal data, financial services and everyday digital life.",
-          "korean": "사이버공격은 개인정보와 금융생활을 위협한다."
+          "english": "Visitors can avoid carrying disposable cups across busy shopping streets.",
+          "korean": "관광객은 번화한 거리에서 컵을 계속 들지 않아도 된다."
         },
         {
-          "english": "Companies may spend valuable time answering overlapping demands instead of sharing threats.",
-          "korean": "기업은 위협 공유보다 중복 신고에 시간을 쓸 수 있다."
+          "english": "The campaign shows how missing public facilities shift work onto small vendors.",
+          "korean": "시설 부족으로 작은 상인에게 일이 넘어간다."
         }
       ],
       "parties": [
         {
-          "label": "이재명",
-          "english": "He wants stronger prevention and one coordinator across public and private sectors.",
-          "korean": "공공과 민간을 잇는 총괄을 원한다."
+          "label": "Myeong-dong vendors",
+          "english": "They accept outside food and drink trash through a local cleanup campaign.",
+          "korean": "상인들은 캠페인으로 외부 쓰레기를 받는다."
         },
         {
-          "label": "South Korean companies",
-          "english": "They face attacks while reporting to several authorities under different laws.",
-          "korean": "여러 기관에 따로 신고해야 한다."
+          "label": "Seoul government",
+          "english": "It promotes the campaign and is discussing more public street bins.",
+          "korean": "서울시는 캠페인과 쓰레기통 확대를 추진한다."
         },
         {
-          "label": "Cybersecurity officials",
-          "english": "They must decide whether to improve the current system or create a new agency.",
-          "korean": "기존 체계를 고칠지 정해야 한다."
+          "label": "Visitors",
+          "english": "They get another place to throw away cups and wrappers.",
+          "korean": "관광객은 컵과 포장지를 버릴 곳을 얻는다."
         }
       ],
       "views": [
         {
-          "label": "Lee Jae Myung and supporters",
-          "english": "Existing response-focused systems have clear limits as attacks become more advanced.",
-          "korean": "공격이 발전해 기존 대응체계는 한계가 있다."
+          "label": "Seoul tourism officials",
+          "english": "Cooperation with vendors can reduce illegal dumping while the city works on facilities.",
+          "korean": "상인 협력은 시설 개선 전 불법 투기를 줄일 수 있다."
         },
         {
-          "label": "A former cybersecurity agency official",
-          "english": "A dedicated civilian agency may work better than one massive control tower.",
-          "korean": "민간 전담기관이 더 나을 수 있다."
+          "label": "Tourism professor Jeong Chul",
+          "english": "Seoul needs more bins because international arrivals are increasing.",
+          "korean": "외국인 방문객 증가로 쓰레기통이 더 필요하다."
         }
       ],
       "disagree": {
-        "english": "Critics may say divided authority slows action, while supporters may fear a new agency will duplicate work.",
-        "korean": "비판자들은 늦은 대응을, 지지자들은 중복을 걱정한다."
+        "english": "Critics may say businesses should not replace public services, especially in crowded tourist districts.",
+        "korean": "비판자들은 상인이 공공서비스를 대신하면 안 된다고 말할 수 있다."
       },
-      "reader_question_korean": "한국은 새 사이버기관을 만들어야 할까요?",
+      "reader_question_korean": "관광지에 쓰레기통을 더 설치해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 1995, 607"
       ],
-      "source_title": "Lee calls for 'cybersecurity czar' amid wave of cyberattacks",
+      "source_title": "In Myeong-dong, street vendors take your trash",
       "hook_format": "headline",
-      "body_format": "two_views",
+      "body_format": "three_points",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "views": [
+        "points": [
           {
-            "label": "Supporters of a central agency",
-            "english": "One authority could share threat information and coordinate faster across finance, government and industry.",
-            "korean": "한 기관이 여러 분야를 빠르게 조정할 수 있다."
+            "label": "",
+            "english": "Participating stalls accept cups and wrappers, even from food bought elsewhere.",
+            "korean": "참여 매대는 다른 가게 쓰레기도 받는다."
           },
           {
-            "label": "Cybersecurity industry official",
-            "english": "A huge control tower could create another layer of bureaucracy instead of stronger defenses.",
-            "korean": "큰 통합기구가 관료주의를 더할 수 있다."
+            "label": "",
+            "english": "Seoul has fewer street bins than in 1995, despite adding some since 2023.",
+            "korean": "서울 쓰레기통은 1995년보다 적다."
+          },
+          {
+            "label": "",
+            "english": "The city plans to extend the campaign to other tourist areas.",
+            "korean": "서울은 캠페인을 다른 관광지로 넓힌다."
           }
         ]
       },
-      "serious": true,
+      "serious": false,
       "caption_lines": [
-        "Update: November 3, 2026",
-        "The Binance theft was blamed on North Korean hackers by the FBI.",
-        "South Korea already has a joint cyber crisis group."
+        "Seoul had 7,142 public street bins in September.",
+        "The city aims for 30 million annual visitors by 2030."
       ],
-      "reader_question": "Should Korea create a new cybersecurity agency?",
-      "topic_tag": "Cybersecurity",
+      "reader_question": "Should tourist districts provide more public trash bins?",
+      "topic_tag": "Waste",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "Lee calls for 'cybersecurity czar' amid wave of cyberattacks",
-          "date": "2026-11-04",
-          "url": "https://www.koreaherald.com/article/10925917"
+          "title": "In Myeong-dong, street vendors take your trash",
+          "date": "2026-11-05",
+          "url": "https://www.koreaherald.com/article/10927437"
         }
       ],
       "glossary": [
         {
-          "korean": "이재명",
-          "roman": "I-jae-myeong",
-          "english": "Lee Jae Myung",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "대통령은",
-          "roman": "daetongnyeong-eun",
-          "english": "president",
+          "korean": "캠페인은",
+          "roman": "kaem-pe-in-eun",
+          "english": "the campaign",
           "particle": false,
           "suffix": "은"
         },
         {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
+          "korean": "불법",
+          "roman": "bul-beop",
+          "english": "illegal",
           "particle": false,
-          "suffix": "년"
+          "suffix": ""
         },
+        {
+          "korean": "투기와",
+          "roman": "tu-gi-wa",
+          "english": "dumping and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "쓰레기통",
+          "roman": "sseu-re-gi-tong",
+          "english": "trash bins",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "부족에",
+          "roman": "bu-jok-e",
+          "english": "shortage",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "대응한다",
+          "roman": "dae-eung-han-da",
+          "english": "responds",
+          "particle": false,
+          "suffix": "한다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "The campaign responds to illegal dumping and complaints about finding public bins.",
+          "korean": "캠페인은 불법 투기와 쓰레기통 부족에 대응한다.",
+          "glossary": [
+            {
+              "korean": "캠페인은",
+              "roman": "kaem-pe-in-eun",
+              "english": "the campaign",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "불법",
+              "roman": "bul-beop",
+              "english": "illegal",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "투기와",
+              "roman": "tu-gi-wa",
+              "english": "dumping and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "쓰레기통",
+              "roman": "sseu-re-gi-tong",
+              "english": "trash bins",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "부족에",
+              "roman": "bu-jok-e",
+              "english": "shortage",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "대응한다",
+              "roman": "dae-eung-han-da",
+              "english": "responds",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Signs in English, Japanese and Chinese identify participating stalls for visitors.",
+          "korean": "영어, 일본어, 중국어 표지가 참여 매대를 알린다.",
+          "glossary": [
+            {
+              "korean": "영어",
+              "roman": "yeong-eo",
+              "english": "English",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "일본어",
+              "roman": "il-bon-eo",
+              "english": "Japanese",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중국어",
+              "roman": "jung-guk-eo",
+              "english": "Chinese",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "표지가",
+              "roman": "pyo-ji-ga",
+              "english": "signs",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "참여",
+              "roman": "cham-yeo",
+              "english": "participating",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "매대를",
+              "roman": "mae-dae-reul",
+              "english": "stalls",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "알린다",
+              "roman": "al-lin-da",
+              "english": "identify",
+              "particle": false,
+              "suffix": "린다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Seoul had 7,142 public street bins in September, below its 1995 total of 7,607.",
+          "korean": "서울은 9월 공공 쓰레기통 7,142개를 보유했다.",
+          "glossary": [
+            {
+              "korean": "서울은",
+              "roman": "Seoul-eun",
+              "english": "Seoul",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "9월",
+              "roman": "gu-wol",
+              "english": "September",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공공",
+              "roman": "gong-gong",
+              "english": "public",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "쓰레기통",
+              "roman": "sseu-re-gi-tong",
+              "english": "trash bins",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "7,142개를",
+              "roman": "chil-cheon-baek-sa-sip-i-gae-reul",
+              "english": "7,142 bins",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "보유했다",
+              "roman": "bo-yu-haet-da",
+              "english": "had",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Officials plan to extend the campaign to other tourist areas and traditional markets.",
+          "korean": "공무원들은 캠페인을 다른 관광지와 전통시장으로 넓힐 계획이다.",
+          "glossary": [
+            {
+              "korean": "공무원들은",
+              "roman": "gong-mu-won-deul-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "캠페인을",
+              "roman": "kaem-pe-in-eul",
+              "english": "the campaign",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "다른",
+              "roman": "da-reun",
+              "english": "other",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "관광지와",
+              "roman": "gwan-gwang-ji-wa",
+              "english": "tourist areas and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "전통시장으로",
+              "roman": "jeon-tong-si-jang-eu-ro",
+              "english": "to traditional markets",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "넓힐",
+              "roman": "neol-hil",
+              "english": "extend",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계획이다",
+              "roman": "gye-hoeg-i-da",
+              "english": "plan to",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10927437",
+      "short_english": "The campaign responds to illegal dumping and complaints about finding public bins.",
+      "short_korean": "캠페인은 불법 투기와 쓰레기통 부족에 대응한다.",
+      "date": "2026-11-05",
+      "images": [
+        "images/korean/7d97e1f2e1ca/1.jpg",
+        "images/korean/7d97e1f2e1ca/2.jpg",
+        "images/korean/7d97e1f2e1ca/3.jpg",
+        "images/korean/7d97e1f2e1ca/4.jpg",
+        "images/korean/7d97e1f2e1ca/5.jpg",
+        "images/korean/7d97e1f2e1ca/6.jpg",
+        "images/korean/7d97e1f2e1ca/7.jpg",
+        "images/korean/7d97e1f2e1ca/8.jpg",
+        "images/korean/7d97e1f2e1ca/9.jpg",
+        "images/korean/7d97e1f2e1ca/10.jpg",
+        "images/korean/7d97e1f2e1ca/11.jpg",
+        "images/korean/7d97e1f2e1ca/12.jpg",
+        "images/korean/7d97e1f2e1ca/13.jpg",
+        "images/korean/7d97e1f2e1ca/14.jpg",
+        "images/korean/7d97e1f2e1ca/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/7d97e1f2e1ca/caption.txt"
+    },
+    {
+      "category": "Business",
+      "korean_title": "가상자산 세금이 2029년으로 미뤄질까",
+      "english_title": "Korea wants to delay crypto tax until 2029",
+      "korean_desc": "11월 5일 한국은 가상자산 세금을 2029년까지 미루자고 제안했다. 정부는 해외 자료와 신고 시스템에 준비가 더 필요하다고 말한다. 계획은 투자자가 손실을 3년 동안 미래 이익과 상쇄하게 한다. 제안된 세금은 연 250만 원 공제 뒤 22퍼센트다. 실무단은 2027년 상반기까지 규칙을 논의한다.",
+      "english_desc": "On November 5, South Korea proposed delaying cryptocurrency income tax until 2029. The government says overseas data and reporting systems need more preparation. The plan would let investors carry losses forward for three years against future gains. The proposed tax would charge 22 percent above a 2.5 million won annual deduction. A working group will discuss rules through the first half of 2027 before legislation is submitted.",
+      "hook": "Korea wants another crypto-tax delay.",
+      "sticker": "Crypto tax, postponed again",
+      "korean_hook": "한국이 가상자산 세금을 또 미루려 한다",
+      "takeaway_english": "The proposal still needs an Income Tax Act amendment before the January start.",
+      "takeaway_korean": "1월 시행 전 소득세법 개정이 필요하다.",
+      "why_it_matters": [
+        {
+          "english": "The decision changes when investors may need to report crypto income.",
+          "korean": "결정에 따라 투자자의 가상자산 신고 시기가 바뀐다."
+        },
+        {
+          "english": "Loss carryforward could reduce taxes after volatile market years.",
+          "korean": "손실 이월은 시장 변동 뒤 세금을 줄일 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "South Korean government",
+          "english": "It wants more time to improve data systems and tax rules.",
+          "korean": "정부는 자료 시스템과 세금 규칙을 개선할 시간이 필요하다."
+        },
+        {
+          "label": "Crypto investors",
+          "english": "They could gain more time and possibly offset earlier losses.",
+          "korean": "투자자는 시간을 얻고 과거 손실을 상쇄할 수 있다."
+        },
+        {
+          "label": "Tax authorities",
+          "english": "They need reliable overseas transaction data to calculate taxable gains.",
+          "korean": "세무 당국은 과세 이익 계산에 해외 자료가 필요하다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Government and exchanges",
+          "english": "A delay could make taxation fairer because overseas data and reporting systems are not ready.",
+          "korean": "해외 자료와 신고 시스템이 준비되지 않아 연기가 더 공정할 수 있다."
+        },
+        {
+          "label": "Tax policy critics",
+          "english": "Repeated delays weaken predictable tax policy and may favor crypto investors.",
+          "korean": "반복된 연기는 예측 가능한 세금 정책을 약화할 수 있다."
+        }
+      ],
+      "disagree": {
+        "english": "Supporters of immediate taxation may say existing legal duties should not wait for perfect systems.",
+        "korean": "즉시 과세 지지자들은 완벽한 시스템을 기다릴 필요가 없다고 말할 수 있다."
+      },
+      "reader_question_korean": "국제 자료가 좋아질 때까지 가상자산 세금을 미뤄야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Korea seeks another delay to crypto tax until 2029",
+      "hook_format": "headline",
+      "body_format": "before_after",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "before": {
+          "label": "",
+          "english": "Crypto income tax was due to begin in January.",
+          "korean": "가상자산 세금은 1월 시작 예정이었다."
+        },
+        "after": {
+          "label": "",
+          "english": "The government now seeks a 2029 start and three-year loss carryforward.",
+          "korean": "정부는 2029년 시작과 3년 손실 이월을 추진한다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The planned rate is 22 percent above a 2.5 million won deduction.",
+        "A working group will discuss details through the first half of 2027."
+      ],
+      "reader_question": "Should crypto taxes wait for better international data?",
+      "topic_tag": "Cryptocurrency",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Korea seeks another delay to crypto tax until 2029",
+          "date": "2026-11-05",
+          "url": "https://www.koreaherald.com/article/10927485"
+        }
+      ],
+      "glossary": [
         {
           "korean": "11월",
-          "roman": "sibir-wol",
+          "roman": "11-wol",
           "english": "November",
           "particle": false,
-          "suffix": "월"
+          "suffix": ""
         },
         {
-          "korean": "3일",
-          "roman": "sam-il",
-          "english": "the 3rd",
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "the 5th",
           "particle": false,
-          "suffix": "일"
+          "suffix": ""
+        },
+        {
+          "korean": "한국은",
+          "roman": "Han-guk-eun",
+          "english": "South Korea",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "가상자산",
+          "roman": "ga-sang-ja-san",
+          "english": "cryptocurrency",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "세금을",
+          "roman": "se-geum-eul",
+          "english": "tax",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "2029년까지",
+          "roman": "i-cheon-i-sip-gu-nyeon-kkaji",
+          "english": "until 2029",
+          "particle": false,
+          "suffix": "까지"
+        },
+        {
+          "korean": "미루자고",
+          "roman": "mi-ru-ja-go",
+          "english": "to delay",
+          "particle": false,
+          "suffix": "고"
         },
         {
           "korean": "제안했다",
@@ -148,43 +541,57 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "President Lee Jae Myung proposed a powerful cybersecurity coordinator on November 3, 2026.",
-          "korean": "이재명 대통령은 2026년 11월 3일 제안했다.",
+          "english": "On November 5, South Korea proposed delaying cryptocurrency income tax until 2029.",
+          "korean": "11월 5일 한국은 가상자산 세금을 2029년까지 미루자고 제안했다.",
           "glossary": [
             {
-              "korean": "이재명",
-              "roman": "I-jae-myeong",
-              "english": "Lee Jae Myung",
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "대통령은",
-              "roman": "daetongnyeong-eun",
-              "english": "president",
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "the 5th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "한국은",
+              "roman": "Han-guk-eun",
+              "english": "South Korea",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
+              "korean": "가상자산",
+              "roman": "ga-sang-ja-san",
+              "english": "cryptocurrency",
               "particle": false,
-              "suffix": "년"
+              "suffix": ""
             },
             {
-              "korean": "11월",
-              "roman": "sibir-wol",
-              "english": "November",
+              "korean": "세금을",
+              "roman": "se-geum-eul",
+              "english": "tax",
               "particle": false,
-              "suffix": "월"
+              "suffix": "을"
             },
             {
-              "korean": "3일",
-              "roman": "sam-il",
-              "english": "the 3rd",
+              "korean": "2029년까지",
+              "roman": "i-cheon-i-sip-gu-nyeon-kkaji",
+              "english": "until 2029",
               "particle": false,
-              "suffix": "일"
+              "suffix": "까지"
+            },
+            {
+              "korean": "미루자고",
+              "roman": "mi-ru-ja-go",
+              "english": "to delay",
+              "particle": false,
+              "suffix": "고"
             },
             {
               "korean": "제안했다",
@@ -196,705 +603,70 @@
           ]
         },
         {
-          "stage": "how",
-          "english": "He said existing systems focus too much on inspections and responses after attacks.",
-          "korean": "그는 기존 체계가 공격 뒤 대응한다고 말했다.",
+          "stage": "why",
+          "english": "The government says overseas data and reporting systems need more preparation.",
+          "korean": "정부는 해외 자료와 신고 시스템에 준비가 더 필요하다고 말한다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
+              "korean": "정부는",
+              "roman": "jeong-bu-neun",
+              "english": "the government",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "기존",
-              "roman": "gijon",
-              "english": "existing",
+              "korean": "해외",
+              "roman": "hae-oe",
+              "english": "overseas",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "체계가",
-              "roman": "chegye-ga",
+              "korean": "자료와",
+              "roman": "ja-ryo-wa",
+              "english": "data and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "신고",
+              "roman": "sin-go",
+              "english": "reporting",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시스템에",
+              "roman": "si-seu-tem-e",
               "english": "systems",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "공격",
-              "roman": "gong-gyeok",
-              "english": "attacks",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대응한다고",
-              "roman": "dae-eung-han-da-go",
-              "english": "respond",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "South Korea has suffered breaches at SK Telecom, Coupang, banks and financial institutions.",
-          "korean": "한국은 SK텔레콤, 쿠팡과 금융기관에서 침해를 겪었다.",
-          "glossary": [
-            {
-              "korean": "한국은",
-              "roman": "hanguk-eun",
-              "english": "South Korea",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "SK텔레콤",
-              "roman": "SK-tel-le-kom",
-              "english": "SK Telecom",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "쿠팡과",
-              "roman": "kupang-gwa",
-              "english": "and Coupang",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "금융기관에서",
-              "roman": "geumyung-gigwan-eseo",
-              "english": "at financial institutions",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "침해를",
-              "roman": "chimhae-reul",
-              "english": "breaches",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "겪었다",
-              "roman": "gyeok-eot-da",
-              "english": "suffered",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10925917",
-      "short_english": "President Lee Jae Myung proposed a powerful cybersecurity coordinator on November 3, 2026.",
-      "short_korean": "이재명 대통령은 2026년 11월 3일 제안했다.",
-      "date": "2026-11-04",
-      "images": [
-        "images/korean/2782c1e4ea3f/1.jpg",
-        "images/korean/2782c1e4ea3f/2.jpg",
-        "images/korean/2782c1e4ea3f/3.jpg",
-        "images/korean/2782c1e4ea3f/4.jpg",
-        "images/korean/2782c1e4ea3f/5.jpg",
-        "images/korean/2782c1e4ea3f/6.jpg",
-        "images/korean/2782c1e4ea3f/7.jpg",
-        "images/korean/2782c1e4ea3f/8.jpg",
-        "images/korean/2782c1e4ea3f/9.jpg",
-        "images/korean/2782c1e4ea3f/10.jpg",
-        "images/korean/2782c1e4ea3f/11.jpg",
-        "images/korean/2782c1e4ea3f/12.jpg",
-        "images/korean/2782c1e4ea3f/13.jpg",
-        "images/korean/2782c1e4ea3f/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/2782c1e4ea3f/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "10월 수입차 판매 29.3% 증가",
-      "english_title": "Imported Car Sales Jump as EVs Near Half the Market",
-      "korean_desc": "한국은 2026년 10월 수입차 31,117대를 등록했다. 전기차는 46.4%, 하이브리드는 45.9%였다. 테슬라는 9,165대, BYD는 1,594대를 팔았다. 테슬라는 9개월 연속 수입차 1위였다.",
-      "english_desc": "South Korea registered 31,117 imported vehicles in October 2026. Electric vehicles made up 46.4 percent, just ahead of hybrids at 45.9 percent. Tesla sold 9,165 cars, while BYD Korea sold 1,594. Tesla remained the best-selling imported brand for nine straight months.",
-      "hook": "Imported vehicle sales rose 29.3 percent.",
-      "sticker": "EVs take the wheel ⚡",
-      "korean_hook": "수입차 판매 29.3% 증가",
-      "takeaway_english": "October showed imported-car growth, but supply shortages still shaped the leaderboard.",
-      "takeaway_korean": "10월 성장은 공급 부족의 영향도 받았다.",
-      "why_it_matters": [
-        {
-          "english": "Electric cars already represented almost half of imported registrations.",
-          "korean": "전기차가 수입차 등록의 거의 절반을 차지했다."
-        },
-        {
-          "english": "Chinese and American brands gained space beside German automakers.",
-          "korean": "중국과 미국 브랜드가 독일 업체와 경쟁했다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Tesla",
-          "english": "It sold 9,165 cars and stayed Korea’s top imported passenger-car brand.",
-          "korean": "9,165대를 팔아 수입차 1위를 지켰다."
-        },
-        {
-          "label": "BYD Korea",
-          "english": "Its sales rose 93.4 percent to 1,594 vehicles.",
-          "korean": "판매가 93.4% 늘어 1,594대가 됐다."
-        },
-        {
-          "label": "Korean car buyers",
-          "english": "They chose electric and hybrid models for most imported-car registrations.",
-          "korean": "수입차 등록의 대부분은 전기차와 하이브리드였다."
-        }
-      ],
-      "views": [
-        {
-          "label": "KAIDA",
-          "english": "Strong EV demand drove the yearly increase, although supply shortages reduced Tesla’s monthly sales.",
-          "korean": "전기차 수요가 증가를 이끌었지만 공급 부족이 있었다."
-        },
-        {
-          "label": "Business Korea",
-          "english": "EVs and hybrids together reached 92 percent of October’s imported-car market.",
-          "korean": "전기차와 하이브리드가 시장의 92%를 차지했다."
-        }
-      ],
-      "disagree": {
-        "english": "Some may see a lasting change in demand, while others may see one month shaped by supply and model availability.",
-        "korean": "장기 변화인지 공급과 차종 영향인지 의견이 갈릴 수 있다."
-      },
-      "reader_question_korean": "전기차 판매가 다음 차 선택을 바꿀까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Imported vehicle sales jump 29.3% in Oct. on strong EV demand",
-      "hook_format": "number",
-      "body_format": "before_after",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "29.3%",
-          "label": "year-on-year sales growth",
-          "korean_label": "전년 대비 판매 증가율"
-        },
-        "before": {
-          "label": "",
-          "english": "Imported vehicles recorded 24,064 registrations in October 2025.",
-          "korean": "2025년 10월 수입차는 24,064대 등록됐다."
-        },
-        "after": {
-          "label": "",
-          "english": "October 2026 registrations reached 31,117, with EVs making up 46.4 percent.",
-          "korean": "2026년 10월 등록은 31,117대였고 전기차는 46.4%였다."
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "Update: November 4, 2026",
-        "Tesla led imported passenger-car brands for the ninth consecutive month.",
-        "German brands held about 47 percent of October sales."
-      ],
-      "reader_question": "Would strong EV sales change your next car choice?",
-      "topic_tag": "Cars",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Imported vehicle sales jump 29.3% in Oct. on strong EV demand",
-          "date": "2026-11-04",
-          "url": "https://www.koreaherald.com/article/10925922"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "한국은",
-          "roman": "hanguk-eun",
-          "english": "South Korea",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "수입차",
-          "roman": "suip-cha",
-          "english": "imported vehicles",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "31,117대를",
-          "roman": "samman-ilcheonsibaek-sipchil-dae-reul",
-          "english": "31,117 vehicles",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "등록했다",
-          "roman": "deungnok-haet-da",
-          "english": "registered",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "South Korea registered 31,117 imported vehicles in October 2026.",
-          "korean": "한국은 2026년 10월 수입차 31,117대를 등록했다.",
-          "glossary": [
-            {
-              "korean": "한국은",
-              "roman": "hanguk-eun",
-              "english": "South Korea",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "수입차",
-              "roman": "suip-cha",
-              "english": "imported vehicles",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "31,117대를",
-              "roman": "samman-ilcheonsibaek-sipchil-dae-reul",
-              "english": "31,117 vehicles",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "등록했다",
-              "roman": "deungnok-haet-da",
-              "english": "registered",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Electric vehicles made up 46.4 percent, just ahead of hybrids at 45.9 percent.",
-          "korean": "전기차는 46.4%, 하이브리드는 45.9%였다.",
-          "glossary": [
-            {
-              "korean": "전기차는",
-              "roman": "jeongi-cha-neun",
-              "english": "electric vehicles",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "하이브리드는",
-              "roman": "ha-i-beu-ri-deu-neun",
-              "english": "hybrids",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "45.9%였다",
-              "roman": "sasib-o-jeom-gu-peosenteu-yeot-da",
-              "english": "were 45.9 percent",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Tesla sold 9,165 cars, while BYD Korea sold 1,594.",
-          "korean": "테슬라는 9,165대, BYD는 1,594대를 팔았다.",
-          "glossary": [
-            {
-              "korean": "테슬라는",
-              "roman": "teseul-la-neun",
-              "english": "Tesla",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "9,165대",
-              "roman": "guchenbaegyuksip-o-dae",
-              "english": "9,165 cars",
-              "particle": false,
-              "suffix": "대"
-            },
-            {
-              "korean": "BYD는",
-              "roman": "BYD-neun",
-              "english": "BYD",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "1,594대를",
-              "roman": "cheonobaegug-sipsa-dae-reul",
-              "english": "1,594 cars",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "팔았다",
-              "roman": "pal-at-da",
-              "english": "sold",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Tesla remained the best-selling imported brand for nine straight months.",
-          "korean": "테슬라는 9개월 연속 수입차 1위였다.",
-          "glossary": [
-            {
-              "korean": "테슬라는",
-              "roman": "teseul-la-neun",
-              "english": "Tesla",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "9개월",
-              "roman": "agu-gae-wol",
-              "english": "nine months",
-              "particle": false,
-              "suffix": "개월"
-            },
-            {
-              "korean": "연속",
-              "roman": "yeonsok",
-              "english": "straight",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수입차",
-              "roman": "suip-cha",
-              "english": "imported cars",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "1위였다",
-              "roman": "il-wi-yeot-da",
-              "english": "was first",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10925922",
-      "short_english": "South Korea registered 31,117 imported vehicles in October 2026.",
-      "short_korean": "한국은 2026년 10월 수입차 31,117대를 등록했다.",
-      "date": "2026-11-04",
-      "images": [
-        "images/korean/8e892b0f52d9/1.jpg",
-        "images/korean/8e892b0f52d9/2.jpg",
-        "images/korean/8e892b0f52d9/3.jpg",
-        "images/korean/8e892b0f52d9/4.jpg",
-        "images/korean/8e892b0f52d9/5.jpg",
-        "images/korean/8e892b0f52d9/6.jpg",
-        "images/korean/8e892b0f52d9/7.jpg",
-        "images/korean/8e892b0f52d9/8.jpg",
-        "images/korean/8e892b0f52d9/9.jpg",
-        "images/korean/8e892b0f52d9/10.jpg",
-        "images/korean/8e892b0f52d9/11.jpg",
-        "images/korean/8e892b0f52d9/12.jpg",
-        "images/korean/8e892b0f52d9/13.jpg",
-        "images/korean/8e892b0f52d9/14.jpg",
-        "images/korean/8e892b0f52d9/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/8e892b0f52d9/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "드라마 붐 뒤의 고된 제작 현실",
-      "english_title": "K-Drama Success Hides Exhausting Work Behind the Scenes",
-      "korean_desc": "한빛센터는 10월 24일 주 54시간을 발표했다. 업계는 외주팀에 의존하며 방영 중 촬영한다. 야간근무는 24.8%였고 31%는 11시간도 못 쉬었다. 전문가들은 명확한 계약과 일정 기준이 필요하다고 말했다.",
-      "english_desc": "A Hanbit study released October 24 found Korean drama crews averaged 54 hours weekly. The sector relies on outsourced teams and often films while episodes are airing. Night shifts made up 24.8 percent, and 31 percent had less than eleven hours’ rest. Experts say clearer contracts and scheduling standards are still needed.",
-      "hook": "K-dramas are booming, but crews are working too long.",
-      "sticker": "Behind the glossy screen",
-      "korean_hook": "드라마는 뜨지만 스태프는 과로한다",
-      "takeaway_english": "Korean dramas may need stronger labor standards to match their global reputation.",
-      "takeaway_korean": "한국 드라마는 명성에 맞는 노동기준이 필요하다.",
-      "why_it_matters": [
-        {
-          "english": "Long shifts and short rest can affect worker safety and health.",
-          "korean": "장시간 근무와 짧은 휴식은 안전과 건강에 영향을 준다."
-        },
-        {
-          "english": "The way dramas are made can shape whether global growth lasts.",
-          "korean": "제작 방식은 세계적 성장이 계속될지 좌우할 수 있다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Drama crews",
-          "english": "They face long hours, night shifts, short rest and insecure project contracts.",
-          "korean": "장시간 노동과 불안정한 계약을 겪는다."
-        },
-        {
-          "label": "Production companies",
-          "english": "They work through several outsourced layers with few common standards.",
-          "korean": "여러 외주 단계에서 공통 기준이 부족하다."
-        },
-        {
-          "label": "Viewers",
-          "english": "They enjoy global dramas whose production workers may not share the success equally.",
-          "korean": "세계적 드라마를 보지만 노동자는 같은 성공을 누리지 못할 수 있다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Labor-rights researchers",
-          "english": "The industry’s global success has not kept pace with safe schedules, fair contracts or adequate pay.",
-          "korean": "세계적 성공이 안전한 일정과 공정한 계약으로 이어지지 않았다."
-        },
-        {
-          "label": "Industry observers",
-          "english": "Conditions have improved gradually, especially since the 52-hour workweek began.",
-          "korean": "주 52시간제 이후 환경은 조금씩 좋아졌다."
-        }
-      ],
-      "disagree": {
-        "english": "The evidence shows real pressure, but the study covers limited workers and may not represent every production.",
-        "korean": "조사 규모가 작아 모든 제작 현장을 대표하지 않을 수 있다."
-      },
-      "reader_question_korean": "온라인 플랫폼도 제작 환경에 더 책임져야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Behind Korea’s drama boom lies a harsh production reality",
-      "hook_format": "vocab",
-      "body_format": "who_speaks",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "people": [
-          {
-            "label": "Hanbit Media Labor Rights Center",
-            "english": "Its study found television crews averaged 54 hours and 23 minutes weekly.",
-            "korean": "조사에서 방송 스태프는 주 54시간 23분 일했다."
-          },
-          {
-            "label": "Professor Lee Moon-haeng",
-            "english": "He said producing and airing dramas at the same time compresses deadlines.",
-            "korean": "동시 제작과 방영이 마감시간을 줄인다고 말했다."
-          },
-          {
-            "label": "Producer Thomas Suh",
-            "english": "He said the 52-hour framework has clarified expectations about working time.",
-            "korean": "주 52시간제가 노동시간 기준을 분명히 했다고 말했다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Update: October 24, 2026",
-        "The study examined 237 crew members.",
-        "Korea’s 52-hour workweek system began phased introduction in 2018."
-      ],
-      "reader_question": "Should streaming platforms share more responsibility for production conditions?",
-      "topic_tag": "Dramas",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Behind Korea’s drama boom lies a harsh production reality",
-          "date": "2026-11-04",
-          "url": "https://www.koreaherald.com/article/10925835"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "한빛센터는",
-          "roman": "hanbit-senteo-neun",
-          "english": "Hanbit Center",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "10월",
-          "roman": "sip-wol",
-          "english": "October",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "24일",
-          "roman": "isipsa-il",
-          "english": "the 24th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "주",
-          "roman": "ju",
-          "english": "per week",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "54시간을",
-          "roman": "osipsa-sigan-eul",
-          "english": "54 hours",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "발표했다",
-          "roman": "balpyo-haet-da",
-          "english": "reported",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "A Hanbit study released October 24 found Korean drama crews averaged 54 hours weekly.",
-          "korean": "한빛센터는 10월 24일 주 54시간을 발표했다.",
-          "glossary": [
-            {
-              "korean": "한빛센터는",
-              "roman": "hanbit-senteo-neun",
-              "english": "Hanbit Center",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "24일",
-              "roman": "isipsa-il",
-              "english": "the 24th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "주",
-              "roman": "ju",
-              "english": "per week",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "54시간을",
-              "roman": "osipsa-sigan-eul",
-              "english": "54 hours",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "발표했다",
-              "roman": "balpyo-haet-da",
-              "english": "reported",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The sector relies on outsourced teams and often films while episodes are airing.",
-          "korean": "업계는 외주팀에 의존하며 방영 중 촬영한다.",
-          "glossary": [
-            {
-              "korean": "업계는",
-              "roman": "eopgye-neun",
-              "english": "the sector",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "외주팀에",
-              "roman": "oeju-tim-e",
-              "english": "on outsourced teams",
               "particle": false,
               "suffix": "에"
             },
             {
-              "korean": "의존하며",
-              "roman": "uijon-ha-myeo",
-              "english": "relies",
+              "korean": "준비가",
+              "roman": "jun-bi-ga",
+              "english": "preparation",
               "particle": false,
-              "suffix": "며"
+              "suffix": "가"
             },
             {
-              "korean": "방영",
-              "roman": "bang-yeong",
-              "english": "broadcasting",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중",
-              "roman": "jung",
-              "english": "during",
+              "korean": "더",
+              "roman": "deo",
+              "english": "more",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "촬영한다",
-              "roman": "chwaryeong-han-da",
-              "english": "films",
+              "korean": "필요하다고",
+              "roman": "pil-yo-ha-da-go",
+              "english": "is needed",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "말한다",
+              "roman": "mal-han-da",
+              "english": "says",
               "particle": false,
               "suffix": "한다"
             }
@@ -902,428 +674,34 @@
         },
         {
           "stage": "how",
-          "english": "Night shifts made up 24.8 percent, and 31 percent had less than eleven hours’ rest.",
-          "korean": "야간근무는 24.8%였고 31%는 11시간도 못 쉬었다.",
+          "english": "The plan would let investors carry losses forward for three years against future gains.",
+          "korean": "계획은 투자자가 손실을 3년 동안 미래 이익과 상쇄하게 한다.",
           "glossary": [
             {
-              "korean": "야간근무는",
-              "roman": "yagan-geunmu-neun",
-              "english": "night shifts",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "24.8%였고",
-              "roman": "isipsa-jeom-pal-peosenteu-yeot-go",
-              "english": "were 24.8 percent",
-              "particle": false,
-              "suffix": "였고"
-            },
-            {
-              "korean": "31%는",
-              "roman": "samsipil-peosenteu-neun",
-              "english": "31 percent",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "11시간도",
-              "roman": "sibil-sigan-do",
-              "english": "even eleven hours",
-              "particle": false,
-              "suffix": "도"
-            },
-            {
-              "korean": "못",
-              "roman": "mot",
-              "english": "could not",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "쉬었다",
-              "roman": "swi-eot-da",
-              "english": "rested",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Experts say clearer contracts and scheduling standards are still needed.",
-          "korean": "전문가들은 명확한 계약과 일정 기준이 필요하다고 말했다.",
-          "glossary": [
-            {
-              "korean": "전문가들은",
-              "roman": "jeonmun-ga-deul-eun",
-              "english": "experts",
+              "korean": "계획은",
+              "roman": "gye-hoeg-eun",
+              "english": "the plan",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "명확한",
-              "roman": "myeonghwak-han",
-              "english": "clear",
+              "korean": "투자자가",
+              "roman": "tu-ja-ja-ga",
+              "english": "investors",
               "particle": false,
-              "suffix": "한"
+              "suffix": "가"
             },
             {
-              "korean": "계약과",
-              "roman": "gyeyak-gwa",
-              "english": "contracts and",
+              "korean": "손실을",
+              "roman": "son-sil-eul",
+              "english": "losses",
               "particle": false,
-              "suffix": "과"
+              "suffix": "을"
             },
             {
-              "korean": "일정",
-              "roman": "iljeong",
-              "english": "scheduling",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "기준이",
-              "roman": "gijun-i",
-              "english": "standards",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "필요하다고",
-              "roman": "piryohadago",
-              "english": "are needed",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10925835",
-      "short_english": "A Hanbit study released October 24 found Korean drama crews averaged 54 hours weekly.",
-      "short_korean": "한빛센터는 10월 24일 주 54시간을 발표했다.",
-      "date": "2026-11-04",
-      "images": [
-        "images/korean/7cdeb5933d07/1.jpg",
-        "images/korean/7cdeb5933d07/2.jpg",
-        "images/korean/7cdeb5933d07/3.jpg",
-        "images/korean/7cdeb5933d07/4.jpg",
-        "images/korean/7cdeb5933d07/5.jpg",
-        "images/korean/7cdeb5933d07/6.jpg",
-        "images/korean/7cdeb5933d07/7.jpg",
-        "images/korean/7cdeb5933d07/8.jpg",
-        "images/korean/7cdeb5933d07/9.jpg",
-        "images/korean/7cdeb5933d07/10.jpg",
-        "images/korean/7cdeb5933d07/11.jpg",
-        "images/korean/7cdeb5933d07/12.jpg",
-        "images/korean/7cdeb5933d07/13.jpg",
-        "images/korean/7cdeb5933d07/14.jpg",
-        "images/korean/7cdeb5933d07/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/7cdeb5933d07/caption.txt"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "패덕, 한국시리즈 선발 강행",
-      "english_title": "Paddack Takes the Ball After Two Taxing Starts",
-      "korean_desc": "삼성 투수 크리스 패덕은 2026년 11월 4일 선발이다. 그는 지난주까지 사흘 휴식 선발이 없었다. 그는 5⅓이닝 동안 99구로 기아를 1실점 막았다. 삼성은 화요일 KT에 1차전을 8-7로 졌다.",
-      "english_desc": "Samsung Lions pitcher Chris Paddack is scheduled for Korean Series Game 2 on November 4, 2026. He had never started on three days’ rest before last week’s playoff game. He held Kia to one run on six hits across 5⅓ innings with 99 pitches. Samsung lost Game 1 to KT Wiz 8-7 on Tuesday.",
-      "hook": "Paddack will start after two exhausting outings.",
-      "sticker": "The big start",
-      "korean_hook": "패덕, 두 번 던지고 선발",
-      "takeaway_english": "The Lions are betting on preparation, momentum and one tired but willing right arm.",
-      "takeaway_korean": "삼성은 준비와 흐름, 지친 오른팔에 기대를 건다.",
-      "why_it_matters": [
-        {
-          "english": "His outing could influence the Korean Series after Samsung lost a close opener.",
-          "korean": "삼성이 접전 끝에 1차전을 져 그의 등판이 중요하다."
-        },
-        {
-          "english": "The matchup brings Paddack face-to-face with KT’s leading hitter.",
-          "korean": "패덕은 KT의 중심타자와 다시 맞선다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Chris Paddack",
-          "english": "He accepted a Game 2 start on four days’ rest after a demanding playoff week.",
-          "korean": "힘든 포스트시즌 뒤 나흘 휴식으로 선발한다."
-        },
-        {
-          "label": "Samsung Lions",
-          "english": "They need his experience after losing the opener to KT Wiz.",
-          "korean": "1차전 패배 뒤 그의 경험이 필요하다."
-        },
-        {
-          "label": "KT Wiz",
-          "english": "Their lineup combines power hitters with disciplined contact hitters.",
-          "korean": "장타자와 선구안 좋은 타자들이 함께 있다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Paddack",
-          "english": "He feels prepared physically and mentally and wants to seize the championship opportunity.",
-          "korean": "몸과 마음을 준비했고 우승 기회를 잡고 싶어 한다."
-        },
-        {
-          "label": "A cautious view",
-          "english": "Four days’ rest is better than three, but it is not ideal after two taxing outings.",
-          "korean": "나흘 휴식은 낫지만 두 번의 강한 등판 뒤 이상적이지 않다."
-        }
-      ],
-      "disagree": {
-        "english": "Fans may value his commitment, while medical and coaching concerns remain about workload and recovery.",
-        "korean": "팬들은 투혼을 반기지만 피로와 회복을 걱정할 수 있다."
-      },
-      "reader_question_korean": "짧은 회복 뒤 패덕을 선발로 내보낼까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Lions ace Paddack says ready to sacrifice body for Korean Series start",
-      "hook_format": "number",
-      "body_format": "three_points",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "99",
-          "label": "pitches in Game 4",
-          "korean_label": "4차전 투구 수"
-        },
-        "points": [
-          {
-            "label": "",
-            "english": "Paddack threw 99 pitches against the Kia Tigers after pitching four days earlier.",
-            "korean": "패덕은 나흘 뒤 기아전에서 99개를 던졌다."
-          },
-          {
-            "label": "",
-            "english": "The Lions lost the Korean Series opener 8-7 to KT Wiz.",
-            "korean": "삼성은 KT에 한국시리즈 1차전을 8-7로 졌다."
-          },
-          {
-            "label": "",
-            "english": "Sam Hilliard led the KBO with 139 RBIs during the regular season.",
-            "korean": "샘 힐리어드는 정규시즌 타점 139개로 1위였다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Update: November 4, 2026",
-        "Paddack went 7-3 with a 2.95 ERA in 13 regular-season starts.",
-        "Game 2 was scheduled at KT Wiz Park in Suwon."
-      ],
-      "reader_question": "Would you let Paddack start despite the short recovery?",
-      "topic_tag": "Baseball",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Lions ace Paddack says ready to sacrifice body for Korean Series start",
-          "date": "2026-11-04",
-          "url": "https://www.koreaherald.com/article/10925316"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "삼성",
-          "roman": "samseong",
-          "english": "Samsung",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "투수",
-          "roman": "tusu",
-          "english": "pitcher",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "크리스",
-          "roman": "keu-ri-seu",
-          "english": "Chris",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "패덕은",
-          "roman": "paedeok-eun",
-          "english": "Paddack",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibir-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "4일",
-          "roman": "sa-il",
-          "english": "the 4th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "선발이다",
-          "roman": "seonbal-i-da",
-          "english": "is the starter",
-          "particle": false,
-          "suffix": "이다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Samsung Lions pitcher Chris Paddack is scheduled for Korean Series Game 2 on November 4, 2026.",
-          "korean": "삼성 투수 크리스 패덕은 2026년 11월 4일 선발이다.",
-          "glossary": [
-            {
-              "korean": "삼성",
-              "roman": "samseong",
-              "english": "Samsung",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "투수",
-              "roman": "tusu",
-              "english": "pitcher",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "크리스",
-              "roman": "keu-ri-seu",
-              "english": "Chris",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "패덕은",
-              "roman": "paedeok-eun",
-              "english": "Paddack",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sibir-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "4일",
-              "roman": "sa-il",
-              "english": "the 4th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "선발이다",
-              "roman": "seonbal-i-da",
-              "english": "is the starter",
-              "particle": false,
-              "suffix": "이다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "He had never started on three days’ rest before last week’s playoff game.",
-          "korean": "그는 지난주까지 사흘 휴식 선발이 없었다.",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "지난주까지",
-              "roman": "jinan-ju-kkaji",
-              "english": "until last week",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "사흘",
-              "roman": "sa-heul",
-              "english": "three days",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "휴식",
-              "roman": "hyusik",
-              "english": "rest",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선발이",
-              "roman": "seonbal-i",
-              "english": "start",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "없었다",
-              "roman": "eop-eot-da",
-              "english": "had not happened",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "He held Kia to one run on six hits across 5⅓ innings with 99 pitches.",
-          "korean": "그는 5⅓이닝 동안 99구로 기아를 1실점 막았다.",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "5⅓이닝",
-              "roman": "o-sam-bun-ui-il-ining",
-              "english": "5⅓ innings",
+              "korean": "3년",
+              "roman": "sam-nyeon",
+              "english": "three years",
               "particle": false,
               "suffix": ""
             },
@@ -1335,171 +713,228 @@
               "suffix": ""
             },
             {
-              "korean": "99구로",
-              "roman": "gusipgu-gu-ro",
-              "english": "with 99 pitches",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "기아를",
-              "roman": "gi-a-reul",
-              "english": "Kia",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "1실점",
-              "roman": "il-siljeom",
-              "english": "one run",
+              "korean": "미래",
+              "roman": "mi-rae",
+              "english": "future",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "막았다",
-              "roman": "mag-at-da",
-              "english": "held",
+              "korean": "이익과",
+              "roman": "i-ik-gwa",
+              "english": "with gains",
               "particle": false,
-              "suffix": "았다"
+              "suffix": "과"
+            },
+            {
+              "korean": "상쇄하게",
+              "roman": "sang-swae-ha-ge",
+              "english": "offset",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "한다",
+              "roman": "han-da",
+              "english": "makes",
+              "particle": false,
+              "suffix": ""
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Samsung lost Game 1 to KT Wiz 8-7 on Tuesday.",
-          "korean": "삼성은 화요일 KT에 1차전을 8-7로 졌다.",
+          "english": "The proposed tax would charge 22 percent above a 2.5 million won annual deduction.",
+          "korean": "제안된 세금은 연 250만 원 공제 뒤 22퍼센트다.",
           "glossary": [
             {
-              "korean": "삼성은",
-              "roman": "samseong-eun",
-              "english": "Samsung",
+              "korean": "제안된",
+              "roman": "je-an-doen",
+              "english": "proposed",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세금은",
+              "roman": "se-geum-eun",
+              "english": "tax",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "화요일",
-              "roman": "hwayo-il",
-              "english": "Tuesday",
+              "korean": "연",
+              "roman": "yeon",
+              "english": "annual",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "KT에",
-              "roman": "KT-e",
-              "english": "to KT",
+              "korean": "250만",
+              "roman": "i-baek-o-sip-man",
+              "english": "2.5 million",
               "particle": false,
-              "suffix": "에"
+              "suffix": ""
             },
             {
-              "korean": "1차전을",
-              "roman": "il-cha-jeon-eul",
-              "english": "Game 1",
+              "korean": "원",
+              "roman": "won",
+              "english": "won",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공제",
+              "roman": "gong-je",
+              "english": "deduction",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "22퍼센트다",
+              "roman": "i-sip-i-peo-sen-teu-da",
+              "english": "is 22 percent",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "A working group will discuss rules through the first half of 2027 before legislation is submitted.",
+          "korean": "실무단은 2027년 상반기까지 규칙을 논의한다.",
+          "glossary": [
+            {
+              "korean": "실무단은",
+              "roman": "sil-mu-dan-eun",
+              "english": "working group",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2027년",
+              "roman": "i-cheon-i-sip-chil-nyeon",
+              "english": "2027",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "상반기까지",
+              "roman": "sang-ban-gi-kkaji",
+              "english": "through the first half",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "규칙을",
+              "roman": "gyu-chig-eul",
+              "english": "rules",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "8-7로",
-              "roman": "pal-chil-ro",
-              "english": "8-7",
+              "korean": "논의한다",
+              "roman": "non-ui-han-da",
+              "english": "discusses",
               "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "졌다",
-              "roman": "jyeot-da",
-              "english": "lost",
-              "particle": false,
-              "suffix": ""
+              "suffix": "한다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10925316",
-      "short_english": "Samsung Lions pitcher Chris Paddack is scheduled for Korean Series Game 2 on November 4, 2026.",
-      "short_korean": "삼성 투수 크리스 패덕은 2026년 11월 4일 선발이다.",
-      "date": "2026-11-04",
+      "url": "https://www.koreaherald.com/article/10927485",
+      "short_english": "On November 5, South Korea proposed delaying cryptocurrency income tax until 2029.",
+      "short_korean": "11월 5일 한국은 가상자산 세금을 2029년까지 미루자고 제안했다.",
+      "date": "2026-11-05",
       "images": [
-        "images/korean/7665428eb9b0/1.jpg",
-        "images/korean/7665428eb9b0/2.jpg",
-        "images/korean/7665428eb9b0/3.jpg",
-        "images/korean/7665428eb9b0/4.jpg",
-        "images/korean/7665428eb9b0/5.jpg",
-        "images/korean/7665428eb9b0/6.jpg",
-        "images/korean/7665428eb9b0/7.jpg",
-        "images/korean/7665428eb9b0/8.jpg",
-        "images/korean/7665428eb9b0/9.jpg",
-        "images/korean/7665428eb9b0/10.jpg",
-        "images/korean/7665428eb9b0/11.jpg",
-        "images/korean/7665428eb9b0/12.jpg",
-        "images/korean/7665428eb9b0/13.jpg",
-        "images/korean/7665428eb9b0/14.jpg",
-        "images/korean/7665428eb9b0/15.jpg"
+        "images/korean/a9350df72b53/1.jpg",
+        "images/korean/a9350df72b53/2.jpg",
+        "images/korean/a9350df72b53/3.jpg",
+        "images/korean/a9350df72b53/4.jpg",
+        "images/korean/a9350df72b53/5.jpg",
+        "images/korean/a9350df72b53/6.jpg",
+        "images/korean/a9350df72b53/7.jpg",
+        "images/korean/a9350df72b53/8.jpg",
+        "images/korean/a9350df72b53/9.jpg",
+        "images/korean/a9350df72b53/10.jpg",
+        "images/korean/a9350df72b53/11.jpg",
+        "images/korean/a9350df72b53/12.jpg",
+        "images/korean/a9350df72b53/13.jpg",
+        "images/korean/a9350df72b53/14.jpg",
+        "images/korean/a9350df72b53/15.jpg",
+        "images/korean/a9350df72b53/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/7665428eb9b0/caption.txt"
+      "caption_file": "images/korean/a9350df72b53/caption.txt"
     },
     {
-      "category": "Entertainment",
-      "korean_title": "베이비몬스터, ‘디자브’ 1억뷰",
-      "english_title": "BABYMONSTER Reaches 100 Million Views in Just 11 Days",
-      "korean_desc": "이는 그룹의 19번째 1억뷰 영상이다. 디지털 싱글은 10월 23일 일곱 명 중 여섯 명이 불렀다. 베이비몬스터의 춤 투어는 토요일 방콕에서 재개된다.",
-      "english_desc": "It became the group’s 19th video to reach that milestone. The digital single was released on October 23 with six of seven members. BABYMONSTER’s Choom world tour resumes in Bangkok on Saturday.",
-      "hook": "BABYMONSTER’s video reached 100 million views in 11 days.",
-      "sticker": "A very fast 100M 🎵",
-      "korean_hook": "베이비몬스터, 11일 만에 1억뷰",
-      "takeaway_english": "The number is huge, but the next test is whether viewers stay for the tour and music.",
-      "takeaway_korean": "큰 숫자 다음 시험은 투어와 음악의 지속력이다.",
+      "category": "Culture",
+      "korean_title": "신숙옥은 아직 싸움을 멈추지 않았다",
+      "english_title": "Shin Sug-ok keeps fighting discrimination",
+      "korean_desc": "도쿄 출생 재일동포 활동가 신숙옥의 다큐멘터리가 11월 11일 한국에서 개봉한다. 그녀는 일본의 재일동포 차별과 혐오 발언에 맞섰다. 2017년 우익 방송은 근거 없이 그녀를 오키나와 시위와 연결했다. 2023년 판결은 DHC텔레비전에 550만 엔 배상을 확정했다.",
+      "english_desc": "Shin Sug-ok is a Tokyo-born Zainichi activist whose documentary opens in Korea on November 11. She has spent decades opposing racism, hate speech and discrimination against ethnic Koreans in Japan. In 2017, a right-wing television program linked her without basis to Okinawa protests. A 2023 ruling upheld damages of 5.5 million yen against DHC Television.",
+      "hook": "Shin Sug-ok keeps fighting discrimination.",
+      "sticker": "A fight against hate",
+      "korean_hook": "신숙옥은 차별과 계속 싸운다",
+      "takeaway_english": "Horoomon brings Shin’s long fight against discrimination to Korean theaters on November 11.",
+      "takeaway_korean": "호루몬은 11월 11일 신숙옥의 싸움을 한국 극장에 소개한다.",
       "why_it_matters": [
         {
-          "english": "The group’s video success shows how quickly K-pop releases can travel online.",
-          "korean": "그룹의 성공은 케이팝이 온라인에서 빠르게 퍼짐을 보여준다."
+          "english": "The case shows how public speech can affect minority communities and individuals.",
+          "korean": "이 사건은 공개 발언이 소수자와 개인에게 미치는 영향을 보여준다."
         },
         {
-          "english": "The tour will carry the song to more Asian and Oceanian cities.",
-          "korean": "투어는 이 노래를 아시아와 오세아니아에 더 알릴 것이다."
+          "english": "A documentary can bring an older discrimination case to new audiences.",
+          "korean": "다큐멘터리는 오래된 차별 사건을 새 관객에게 알릴 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "BABYMONSTER",
-          "english": "The two-year-old group now has 19 music videos above 100 million views.",
-          "korean": "2년 된 그룹이 1억뷰 영상 19개를 보유했다."
+          "label": "Shin Sug-ok",
+          "english": "She is a third-generation Zainichi activist born in Tokyo in 1959.",
+          "korean": "신숙옥은 1959년 도쿄에서 태어난 3세대 재일동포 활동가다."
         },
         {
-          "label": "YG Entertainment",
-          "english": "It released “Deserve” as a digital single on October 23.",
-          "korean": "10월 23일 디지털 싱글을 발표했다."
+          "label": "Horoomon",
+          "english": "The documentary follows Shin’s activism and yearslong defamation lawsuit.",
+          "korean": "다큐멘터리는 신숙옥의 활동과 긴 명예훼손 소송을 다룬다."
         },
         {
-          "label": "Fans",
-          "english": "They helped push the video to a fast milestone before the group’s Asian tour resumes.",
-          "korean": "아시아 투어 재개 전에 빠른 기록을 만들었다."
+          "label": "DHC Television",
+          "english": "The company faced damages after a program linked Shin to Okinawa protests.",
+          "korean": "회사는 신숙옥을 오키나와 시위와 연결해 배상 판결을 받았다."
         }
       ],
       "views": [
         {
-          "label": "YG Entertainment",
-          "english": "The milestone shows strong attention for the group’s latest release.",
-          "korean": "이번 기록은 신곡에 큰 관심이 있음을 보여준다."
+          "label": "Shin Sug-ok",
+          "english": "She says politicians can use discrimination to distract people from policy failures.",
+          "korean": "신숙옥은 정치인이 정책 실패를 가리려고 차별을 이용한다고 말한다."
         },
         {
-          "label": "A cautious view",
-          "english": "View counts measure attention, but they do not alone explain why people watched.",
-          "korean": "조회수만으로 시청 이유를 모두 설명할 수 없다."
+          "label": "Documentary coverage",
+          "english": "The film presents resistance against discrimination as a long personal and political struggle.",
+          "korean": "영화는 차별에 맞서는 일을 긴 개인적 정치적 싸움으로 보여준다."
         }
       ],
       "disagree": {
-        "english": "Fans may see the number as proof of popularity, while others may want broader measures of success.",
-        "korean": "팬들은 인기를 보지만 다른 사람들은 다른 성공 기준을 원할 수 있다."
+        "english": "The coverage does not show DHC Television’s full response to the lawsuit or every disputed claim.",
+        "korean": "보도에는 DHC텔레비전의 전체 반박과 모든 쟁점이 나오지 않는다."
       },
-      "reader_question_korean": "어떤 이유로 케이팝 영상을 클릭하나요?",
+      "reader_question_korean": "차별에 맞서는 공개 행동은 무엇이 효과적일까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Babymonster tops 100m views with ‘Deserve’ music video",
-      "hook_format": "vocab",
+      "source_title": "Shin Sug-ok is always ready for a fight",
+      "hook_format": "headline",
       "body_format": "who_speaks",
       "question": "",
       "korean_question": "",
@@ -1508,330 +943,1393 @@
       "format_data": {
         "people": [
           {
-            "label": "BABYMONSTER",
-            "english": "The group reached 100 million YouTube views with “Deserve.”",
-            "korean": "‘디자브’로 유튜브 1억뷰를 달성했다."
+            "label": "Shin Sug-ok",
+            "english": "The Zainichi activist has challenged racism, hate speech and defamation.",
+            "korean": "재일동포 활동가 신숙옥은 인종차별과 명예훼손에 맞섰다."
           },
           {
-            "label": "YG Entertainment",
-            "english": "The label announced the milestone on November 4, 2026.",
-            "korean": "YG는 2026년 11월 4일 기록을 알렸다."
+            "label": "Lee Il-ha",
+            "english": "The director made Horoomon about Shin’s activism and legal fight.",
+            "korean": "이일하 감독은 신숙옥의 활동과 소송을 영화로 만들었다."
           },
           {
-            "label": "Rami",
-            "english": "The main vocalist has suspended activities since May 2025 for health reasons.",
-            "korean": "라미는 건강 문제로 2025년 5월부터 활동을 멈췄다."
+            "label": "Tokyo High Court",
+            "english": "It upheld the damages ruling against DHC Television in 2023.",
+            "korean": "도쿄고등법원은 2023년 DHC텔레비전 배상 판결을 유지했다."
           }
         ]
       },
       "serious": false,
       "caption_lines": [
-        "Update: November 4, 2026",
-        "“Deserve” features six of the group’s seven members.",
-        "The Choom world tour resumes in Bangkok on Saturday."
+        "Shin Sug-ok was born in Tokyo’s Shibuya district in 1959.",
+        "Horoomon opens in Korean theaters on 2026-11-11."
       ],
-      "reader_question": "What makes you click a K-pop music video?",
-      "topic_tag": "Kpop",
+      "reader_question": "What makes public resistance against discrimination effective?",
+      "topic_tag": "Discrimination",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "Babymonster tops 100m views with ‘Deserve’ music video",
-          "date": "2026-11-04",
-          "url": "https://www.koreaherald.com/article/10925345"
+          "title": "Shin Sug-ok is always ready for a fight",
+          "date": "2026-11-05",
+          "url": "https://www.koreaherald.com/article/10927411"
         }
       ],
       "glossary": [
         {
-          "korean": "이는",
-          "roman": "i-neun",
-          "english": "this",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "그룹의",
-          "roman": "geurup-ui",
-          "english": "the group’s",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "19번째",
-          "roman": "sibigubeonjjae",
-          "english": "19th",
-          "particle": false,
-          "suffix": "번째"
-        },
-        {
-          "korean": "1억뷰",
-          "roman": "il-eok-byu",
-          "english": "100 million views",
+          "korean": "도쿄",
+          "roman": "Do-kyo",
+          "english": "Tokyo",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "영상이다",
-          "roman": "yeongsang-i-da",
-          "english": "is a video",
+          "korean": "출생",
+          "roman": "chul-saeng",
+          "english": "birth",
           "particle": false,
-          "suffix": "이다"
+          "suffix": ""
+        },
+        {
+          "korean": "재일동포",
+          "roman": "jae-il-dong-po",
+          "english": "Zainichi Korean",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "활동가",
+          "roman": "hwal-dong-ga",
+          "english": "activist",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "신숙옥의",
+          "roman": "Sin-Suk-ok-ui",
+          "english": "Shin Sug-ok’s",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "다큐멘터리가",
+          "roman": "da-kyu-men-teo-ri-ga",
+          "english": "documentary",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "11월",
+          "roman": "11-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "11일",
+          "roman": "sip-il-il",
+          "english": "the 11th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "한국에서",
+          "roman": "Han-guk-eseo",
+          "english": "in Korea",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "개봉한다",
+          "roman": "gae-bong-han-da",
+          "english": "opens",
+          "particle": false,
+          "suffix": "한다"
         }
       ],
       "sentences": [
         {
-          "stage": "why",
-          "english": "It became the group’s 19th video to reach that milestone.",
-          "korean": "이는 그룹의 19번째 1억뷰 영상이다.",
+          "stage": "what",
+          "english": "Shin Sug-ok is a Tokyo-born Zainichi activist whose documentary opens in Korea on November 11.",
+          "korean": "도쿄 출생 재일동포 활동가 신숙옥의 다큐멘터리가 11월 11일 한국에서 개봉한다.",
           "glossary": [
             {
-              "korean": "이는",
-              "roman": "i-neun",
-              "english": "this",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "그룹의",
-              "roman": "geurup-ui",
-              "english": "the group’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "19번째",
-              "roman": "sibigubeonjjae",
-              "english": "19th",
-              "particle": false,
-              "suffix": "번째"
-            },
-            {
-              "korean": "1억뷰",
-              "roman": "il-eok-byu",
-              "english": "100 million views",
+              "korean": "도쿄",
+              "roman": "Do-kyo",
+              "english": "Tokyo",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "영상이다",
-              "roman": "yeongsang-i-da",
-              "english": "is a video",
+              "korean": "출생",
+              "roman": "chul-saeng",
+              "english": "birth",
               "particle": false,
-              "suffix": "이다"
+              "suffix": ""
+            },
+            {
+              "korean": "재일동포",
+              "roman": "jae-il-dong-po",
+              "english": "Zainichi Korean",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "활동가",
+              "roman": "hwal-dong-ga",
+              "english": "activist",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "신숙옥의",
+              "roman": "Sin-Suk-ok-ui",
+              "english": "Shin Sug-ok’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "다큐멘터리가",
+              "roman": "da-kyu-men-teo-ri-ga",
+              "english": "documentary",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "11일",
+              "roman": "sip-il-il",
+              "english": "the 11th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "한국에서",
+              "roman": "Han-guk-eseo",
+              "english": "in Korea",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "개봉한다",
+              "roman": "gae-bong-han-da",
+              "english": "opens",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "She has spent decades opposing racism, hate speech and discrimination against ethnic Koreans in Japan.",
+          "korean": "그녀는 일본의 재일동포 차별과 혐오 발언에 맞섰다.",
+          "glossary": [
+            {
+              "korean": "그녀는",
+              "roman": "geu-nyeo-neun",
+              "english": "she",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "일본의",
+              "roman": "Il-bon-ui",
+              "english": "Japan’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "재일동포",
+              "roman": "jae-il-dong-po",
+              "english": "Zainichi Koreans",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "차별과",
+              "roman": "cha-byeol-gwa",
+              "english": "discrimination and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "혐오",
+              "roman": "hyeom-o",
+              "english": "hate",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "발언에",
+              "roman": "bal-eon-e",
+              "english": "speech",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "맞섰다",
+              "roman": "mat-seot-da",
+              "english": "opposed",
+              "particle": false,
+              "suffix": "섰다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The digital single was released on October 23 with six of seven members.",
-          "korean": "디지털 싱글은 10월 23일 일곱 명 중 여섯 명이 불렀다.",
+          "english": "In 2017, a right-wing television program linked her without basis to Okinawa protests.",
+          "korean": "2017년 우익 방송은 근거 없이 그녀를 오키나와 시위와 연결했다.",
           "glossary": [
             {
-              "korean": "디지털",
-              "roman": "di-ji-teol",
-              "english": "digital",
+              "korean": "2017년",
+              "roman": "i-cheon-sip-chil-nyeon",
+              "english": "2017",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "싱글은",
-              "roman": "sing-geul-eun",
-              "english": "single",
+              "korean": "우익",
+              "roman": "u-ik",
+              "english": "right-wing",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방송은",
+              "roman": "bang-song-eun",
+              "english": "broadcast",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "23일",
-              "roman": "isipsam-il",
-              "english": "the 23rd",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "일곱",
-              "roman": "ilgop",
-              "english": "seven",
+              "korean": "근거",
+              "roman": "geun-geo",
+              "english": "basis",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "명",
-              "roman": "myeong",
-              "english": "members",
+              "korean": "없이",
+              "roman": "eop-si",
+              "english": "without",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "중",
-              "roman": "jung",
-              "english": "of",
+              "korean": "그녀를",
+              "roman": "geu-nyeo-reul",
+              "english": "her",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "오키나와",
+              "roman": "O-ki-na-wa",
+              "english": "Okinawa",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "여섯",
-              "roman": "yeoseot",
-              "english": "six",
+              "korean": "시위와",
+              "roman": "si-wi-wa",
+              "english": "protests",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "연결했다",
+              "roman": "yeon-gyeol-haet-da",
+              "english": "linked",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "A 2023 ruling upheld damages of 5.5 million yen against DHC Television.",
+          "korean": "2023년 판결은 DHC텔레비전에 550만 엔 배상을 확정했다.",
+          "glossary": [
+            {
+              "korean": "2023년",
+              "roman": "i-cheon-i-sip-sam-nyeon",
+              "english": "2023",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "명이",
-              "roman": "myeong-i",
-              "english": "members",
+              "korean": "판결은",
+              "roman": "pan-gyeol-eun",
+              "english": "ruling",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "DHC텔레비전에",
+              "roman": "DHC-tel-le-bi-jeon-e",
+              "english": "against DHC Television",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "550만",
+              "roman": "o-baek-o-sip-man",
+              "english": "5.5 million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "엔",
+              "roman": "en",
+              "english": "yen",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "배상을",
+              "roman": "bae-sang-eul",
+              "english": "damages",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "확정했다",
+              "roman": "hwak-jeong-haet-da",
+              "english": "upheld",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10927411",
+      "short_english": "Shin Sug-ok is a Tokyo-born Zainichi activist whose documentary opens in Korea on November 11.",
+      "short_korean": "도쿄 출생 재일동포 활동가 신숙옥의 다큐멘터리가 11월 11일 한국에서 개봉한다.",
+      "date": "2026-11-05",
+      "images": [
+        "images/korean/0dd6d6de2269/1.jpg",
+        "images/korean/0dd6d6de2269/2.jpg",
+        "images/korean/0dd6d6de2269/3.jpg",
+        "images/korean/0dd6d6de2269/4.jpg",
+        "images/korean/0dd6d6de2269/5.jpg",
+        "images/korean/0dd6d6de2269/6.jpg",
+        "images/korean/0dd6d6de2269/7.jpg",
+        "images/korean/0dd6d6de2269/8.jpg",
+        "images/korean/0dd6d6de2269/9.jpg",
+        "images/korean/0dd6d6de2269/10.jpg",
+        "images/korean/0dd6d6de2269/11.jpg",
+        "images/korean/0dd6d6de2269/12.jpg",
+        "images/korean/0dd6d6de2269/13.jpg",
+        "images/korean/0dd6d6de2269/14.jpg",
+        "images/korean/0dd6d6de2269/15.jpg",
+        "images/korean/0dd6d6de2269/16.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/0dd6d6de2269/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "반효진과 박하준, 세계선수권 동메달",
+      "english_title": "Korea’s mixed rifle pair wins bronze in Doha",
+      "korean_desc": "11월 5일 반효진과 박하준이 도하 혼성 10m 소총에서 동메달을 땄다. 두 선수는 2위가 됐지만 중국에 0.8점 뒤져 탈락했다. 두 선수는 634.4점으로 4팀 결승에 1위 진출했다. 반효진의 개인전 금메달은 한국에 2028년 출전권을 안겼다. 한국은 두 선수의 로스앤젤레스 동반 출전에 남자 출전권이 필요하다.",
+      "english_desc": "On November 5, Ban Hyo-jin and Park Ha-jun won bronze in Doha’s mixed 10-meter air rifle event. They moved into second place but dropped after trailing China by 0.8 points. They qualified first with 634.4 points before entering the four-team final. Ban’s individual gold already secured Korea a quota place for the 2028 Los Angeles Olympics. South Korea needs a men’s rifle quota for the pair to compete together in Los Angeles.",
+      "hook": "Korea’s mixed rifle pair won bronze.",
+      "sticker": "Aiming for Los Angeles",
+      "korean_hook": "한국 혼성 소총팀이 동메달을 땄다",
+      "takeaway_english": "The bronze is secured, but the pair’s Olympic future still depends on another quota.",
+      "takeaway_korean": "동메달은 확정됐지만 올림픽 동반 출전은 다른 출전권에 달렸다.",
+      "why_it_matters": [
+        {
+          "english": "The result shows how small score differences can change medals in shooting.",
+          "korean": "사격에서는 작은 점수 차이가 메달을 바꿀 수 있다."
+        },
+        {
+          "english": "The Olympic quota issue affects whether fans see this pair together again.",
+          "korean": "출전권 문제는 팬들이 두 선수를 다시 함께 볼지 결정한다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Ban Hyo-jin",
+          "english": "She won individual gold and an Olympic quota place before the mixed-team bronze.",
+          "korean": "반효진은 혼성 동메달 전 개인전 금메달과 출전권을 얻었다."
+        },
+        {
+          "label": "Park Ha-jun",
+          "english": "He helped South Korea reach the mixed-team final in first place.",
+          "korean": "박하준은 한국이 혼성 결승에 1위로 가는 데 기여했다."
+        },
+        {
+          "label": "South Korea",
+          "english": "The country still needs a men’s rifle quota for the pair to compete together at Los Angeles.",
+          "korean": "한국은 두 선수가 로스앤젤레스에서 함께 뛰려면 남자 소총 출전권이 필요하다."
+        }
+      ],
+      "views": [
+        {
+          "label": "ISSF",
+          "english": "Ban’s individual victory began Korea’s Olympic qualification path at the Doha championships.",
+          "korean": "ISSF는 반효진의 개인전 우승이 한국의 올림픽 도전 시작이라고 본다."
+        },
+        {
+          "label": "Korea Herald result",
+          "english": "The mixed pair showed strong early form but missed silver by 0.8 points.",
+          "korean": "혼성팀은 초반 강했지만 0.8점 차로 은메달을 놓쳤다."
+        }
+      ],
+      "disagree": {
+        "english": "A bronze medal is valuable, but it does not guarantee this pair can compete together in Los Angeles.",
+        "korean": "동메달은 값지지만 두 선수의 로스앤젤레스 동반 출전을 보장하지 않는다."
+      },
+      "reader_question_korean": "메달과 올림픽 출전권 중 무엇이 더 중요할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "long sentence: \"On November 5, Ban Hyo-jin and Park Ha-jun won bro\""
+      ],
+      "source_title": "Ban Hyo-jin, Park Ha-jun win bronze in 10m air rifle mixed team at world championships",
+      "hook_format": "headline",
+      "body_format": "three_points",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "points": [
+          {
+            "label": "",
+            "english": "Ban Hyo-jin and Park Ha-jun scored 440.1 points in Doha.",
+            "korean": "반효진과 박하준은 도하에서 440.1점을 기록했다."
+          },
+          {
+            "label": "",
+            "english": "They reached the final first but fell to third near the end.",
+            "korean": "두 선수는 결승에 1위로 갔지만 끝에 3위가 됐다."
+          },
+          {
+            "label": "",
+            "english": "Ban already secured an Olympic quota place in the individual event.",
+            "korean": "반효진은 개인전에서 올림픽 출전권을 이미 얻었다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The championships took place in Doha, Qatar.",
+        "Ban won women’s 10-meter air rifle gold on November 3."
+      ],
+      "reader_question": "Does a medal matter more than an Olympic quota place?",
+      "topic_tag": "Shooting",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Ban Hyo-jin, Park Ha-jun win bronze in 10m air rifle mixed team at world championships",
+          "date": "2026-11-05",
+          "url": "https://www.koreaherald.com/article/10927231"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "11월",
+          "roman": "11-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "the 5th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "반효진과",
+          "roman": "Ban-Hyo-jin-gwa",
+          "english": "Ban Hyo-jin and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "박하준이",
+          "roman": "Bak-Ha-jun-i",
+          "english": "Park Ha-jun",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "도하",
+          "roman": "Do-ha",
+          "english": "Doha",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "혼성",
+          "roman": "hon-seong",
+          "english": "mixed",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "10m",
+          "roman": "sip-mi-teo",
+          "english": "10-meter",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "소총에서",
+          "roman": "so-chong-eseo",
+          "english": "in rifle",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "동메달을",
+          "roman": "dong-me-dal-eul",
+          "english": "bronze medal",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "땄다",
+          "roman": "ttat-da",
+          "english": "won",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "On November 5, Ban Hyo-jin and Park Ha-jun won bronze in Doha’s mixed 10-meter air rifle event.",
+          "korean": "11월 5일 반효진과 박하준이 도하 혼성 10m 소총에서 동메달을 땄다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "the 5th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "반효진과",
+              "roman": "Ban-Hyo-jin-gwa",
+              "english": "Ban Hyo-jin and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "박하준이",
+              "roman": "Bak-Ha-jun-i",
+              "english": "Park Ha-jun",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "불렀다",
-              "roman": "bul-leot-da",
-              "english": "sang",
+              "korean": "도하",
+              "roman": "Do-ha",
+              "english": "Doha",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "혼성",
+              "roman": "hon-seong",
+              "english": "mixed",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "10m",
+              "roman": "sip-mi-teo",
+              "english": "10-meter",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "소총에서",
+              "roman": "so-chong-eseo",
+              "english": "in rifle",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "동메달을",
+              "roman": "dong-me-dal-eul",
+              "english": "bronze medal",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "땄다",
+              "roman": "ttat-da",
+              "english": "won",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "They moved into second place but dropped after trailing China by 0.8 points.",
+          "korean": "두 선수는 2위가 됐지만 중국에 0.8점 뒤져 탈락했다.",
+          "glossary": [
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선수는",
+              "roman": "seon-su-neun",
+              "english": "athletes",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2위가",
+              "roman": "i-wi-ga",
+              "english": "second place",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "됐지만",
+              "roman": "dwaet-jiman",
+              "english": "became but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "중국에",
+              "roman": "Jung-guk-e",
+              "english": "to China",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "0.8점",
+              "roman": "jeom-pal",
+              "english": "0.8 points",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤져",
+              "roman": "dwi-jyeo",
+              "english": "trailing",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "탈락했다",
+              "roman": "tal-rak-haet-da",
+              "english": "were eliminated",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "They qualified first with 634.4 points before entering the four-team final.",
+          "korean": "두 선수는 634.4점으로 4팀 결승에 1위 진출했다.",
+          "glossary": [
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선수는",
+              "roman": "seon-su-neun",
+              "english": "athletes",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "634.4점으로",
+              "roman": "yuk-baek-sam-sip-sa-jeom-eu-ro",
+              "english": "with 634.4 points",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "4팀",
+              "roman": "sa-tim",
+              "english": "four-team",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "결승에",
+              "roman": "gyeol-seung-e",
+              "english": "to the final",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "1위",
+              "roman": "il-wi",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "진출했다",
+              "roman": "jin-chul-haet-da",
+              "english": "qualified",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Ban’s individual gold already secured Korea a quota place for the 2028 Los Angeles Olympics.",
+          "korean": "반효진의 개인전 금메달은 한국에 2028년 출전권을 안겼다.",
+          "glossary": [
+            {
+              "korean": "반효진의",
+              "roman": "Ban-Hyo-jin-ui",
+              "english": "Ban Hyo-jin’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "개인전",
+              "roman": "gae-in-jeon",
+              "english": "individual event",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "금메달은",
+              "roman": "geum-me-dal-eun",
+              "english": "gold medal",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "한국에",
+              "roman": "Han-guk-e",
+              "english": "to Korea",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "2028년",
+              "roman": "i-cheon-i-sip-pal-nyeon",
+              "english": "2028",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "출전권을",
+              "roman": "chul-jeon-gwon-eul",
+              "english": "quota place",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "안겼다",
+              "roman": "an-gyeot-da",
+              "english": "secured",
+              "particle": false,
+              "suffix": "겼다"
             }
           ]
         },
         {
           "stage": "next",
-          "english": "BABYMONSTER’s Choom world tour resumes in Bangkok on Saturday.",
-          "korean": "베이비몬스터의 춤 투어는 토요일 방콕에서 재개된다.",
+          "english": "South Korea needs a men’s rifle quota for the pair to compete together in Los Angeles.",
+          "korean": "한국은 두 선수의 로스앤젤레스 동반 출전에 남자 출전권이 필요하다.",
           "glossary": [
             {
-              "korean": "베이비몬스터의",
-              "roman": "be-i-bi-mon-seu-teo-ui",
-              "english": "BABYMONSTER’s",
+              "korean": "한국은",
+              "roman": "Han-guk-eun",
+              "english": "South Korea",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선수의",
+              "roman": "seon-su-ui",
+              "english": "athletes’",
               "particle": false,
               "suffix": "의"
             },
             {
-              "korean": "춤",
-              "roman": "chum",
-              "english": "Choom",
+              "korean": "로스앤젤레스",
+              "roman": "Ro-seu-aen-jel-le-seu",
+              "english": "Los Angeles",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "투어는",
-              "roman": "tu-eo-neun",
-              "english": "tour",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "토요일",
-              "roman": "toyo-il",
-              "english": "Saturday",
+              "korean": "동반",
+              "roman": "dong-ban",
+              "english": "together",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "방콕에서",
-              "roman": "bangkok-eseo",
-              "english": "in Bangkok",
+              "korean": "출전에",
+              "roman": "chul-jeon-e",
+              "english": "for competing",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "에"
             },
             {
-              "korean": "재개된다",
-              "roman": "jae-gae-doen-da",
-              "english": "resumes",
+              "korean": "남자",
+              "roman": "nam-ja",
+              "english": "men’s",
               "particle": false,
-              "suffix": "된다"
+              "suffix": ""
+            },
+            {
+              "korean": "출전권이",
+              "roman": "chul-jeon-gwon-i",
+              "english": "quota place",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "필요하다",
+              "roman": "pil-yo-ha-da",
+              "english": "is needed",
+              "particle": false,
+              "suffix": "하다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10925345",
-      "short_english": "It became the group’s 19th video to reach that milestone.",
-      "short_korean": "이는 그룹의 19번째 1억뷰 영상이다.",
-      "date": "2026-11-04",
+      "url": "https://www.koreaherald.com/article/10927231",
+      "short_english": "On November 5, Ban Hyo-jin and Park Ha-jun won bronze in Doha’s mixed 10-meter air rifle event.",
+      "short_korean": "11월 5일 반효진과 박하준이 도하 혼성 10m 소총에서 동메달을 땄다.",
+      "date": "2026-11-05",
       "images": [
-        "images/korean/e7b9b1d3284d/1.jpg",
-        "images/korean/e7b9b1d3284d/2.jpg",
-        "images/korean/e7b9b1d3284d/3.jpg",
-        "images/korean/e7b9b1d3284d/4.jpg",
-        "images/korean/e7b9b1d3284d/5.jpg",
-        "images/korean/e7b9b1d3284d/6.jpg",
-        "images/korean/e7b9b1d3284d/7.jpg",
-        "images/korean/e7b9b1d3284d/8.jpg",
-        "images/korean/e7b9b1d3284d/9.jpg",
-        "images/korean/e7b9b1d3284d/10.jpg",
-        "images/korean/e7b9b1d3284d/11.jpg",
-        "images/korean/e7b9b1d3284d/12.jpg",
-        "images/korean/e7b9b1d3284d/13.jpg",
-        "images/korean/e7b9b1d3284d/14.jpg",
-        "images/korean/e7b9b1d3284d/15.jpg"
+        "images/korean/ce8c969a8ac1/1.jpg",
+        "images/korean/ce8c969a8ac1/2.jpg",
+        "images/korean/ce8c969a8ac1/3.jpg",
+        "images/korean/ce8c969a8ac1/4.jpg",
+        "images/korean/ce8c969a8ac1/5.jpg",
+        "images/korean/ce8c969a8ac1/6.jpg",
+        "images/korean/ce8c969a8ac1/7.jpg",
+        "images/korean/ce8c969a8ac1/8.jpg",
+        "images/korean/ce8c969a8ac1/9.jpg",
+        "images/korean/ce8c969a8ac1/10.jpg",
+        "images/korean/ce8c969a8ac1/11.jpg",
+        "images/korean/ce8c969a8ac1/12.jpg",
+        "images/korean/ce8c969a8ac1/13.jpg",
+        "images/korean/ce8c969a8ac1/14.jpg",
+        "images/korean/ce8c969a8ac1/15.jpg",
+        "images/korean/ce8c969a8ac1/16.jpg",
+        "images/korean/ce8c969a8ac1/17.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/e7b9b1d3284d/caption.txt"
+      "caption_file": "images/korean/ce8c969a8ac1/caption.txt"
     },
     {
-      "category": "World",
-      "korean_title": "미국, 이스라엘 지원 2027년 중단 추진",
-      "english_title": "Trump Plans to End Annual Aid While Arms Sales Continue",
-      "korean_desc": "그는 지원이 끝나도 무기 판매는 계속된다고 말했다. 이스라엘 야당은 안보에 위험한 변화라고 말했다. 미 의회가 결정하며 현 협정은 2028년까지다.",
-      "english_desc": "He said arms sales would continue even after the aid ends. Israel’s opposition called the possible change dangerous for national security. Congress will have major influence, and the current agreement runs through 2028.",
-      "hook": "The US plans to stop $4 billion in annual aid.",
-      "sticker": "What the alliance changes",
-      "korean_hook": "미국, 연 40억 달러 지원 중단",
-      "takeaway_english": "The announcement is important, but Congress will decide whether the promised change becomes policy.",
-      "takeaway_korean": "발표는 중요하지만 실제 정책은 의회가 결정한다.",
+      "category": "Entertainment",
+      "korean_title": "한로로, 새 싱글 물음표 발표",
+      "english_title": "Hanroro turns a broken friendship into Question Mark",
+      "korean_desc": "한로로는 11월 5일 싱글 물음표를 발표했다. 상처받은 관계에는 애정, 원망, 후회가 아직 남아 있다. 영상은 수영장 친구들이 여러 갈등 뒤 멀어지는 모습을 보여준다. 한로로는 2027년 1월 2일과 3일 인천에서 첫 아레나 공연을 연다.",
+      "english_desc": "Hanroro released her single Question Mark on November 5. It follows childhood friends whose damaged relationship still holds affection, resentment and regret. The video shows two swimming-school friends growing apart after repeated conflicts. Hanroro will hold her first arena concerts in Incheon on January 2 and 3, 2027.",
+      "hook": "Hanroro’s new song asks what remains after hurt.",
+      "sticker": "A new question from Hanroro 🎵",
+      "korean_hook": "한로로의 신곡은 상처 뒤를 묻는다",
+      "takeaway_english": "Question Mark turns unresolved friendship into Hanroro’s biggest live step yet.",
+      "takeaway_korean": "물음표는 풀리지 않은 우정을 한로로의 큰 무대로 옮긴다.",
       "why_it_matters": [
         {
-          "english": "The change could affect Israel’s defense budget and American defense companies.",
-          "korean": "변화는 이스라엘 국방예산과 미국 방산업체에 영향을 준다."
+          "english": "The song gives ordinary relationship confusion a clear story and emotional language.",
+          "korean": "이 노래는 흔한 관계의 혼란에 이야기와 감정의 말을 준다."
         },
         {
-          "english": "It could reshape a security relationship built over decades.",
-          "korean": "수십 년 된 안보 관계가 달라질 수 있다."
+          "english": "Hanroro is moving from small venues to her first arena-sized concerts.",
+          "korean": "한로로는 작은 공연장에서 첫 아레나 공연으로 나아간다."
         }
       ],
       "parties": [
         {
-          "label": "United States",
-          "english": "It plans to stop annual aid in 2027 but continue selling weapons.",
-          "korean": "2027년 지원을 중단하지만 무기 판매는 계속한다."
+          "label": "Hanroro",
+          "english": "The singer-songwriter released Question Mark on November 5.",
+          "korean": "싱어송라이터 한로로는 11월 5일 물음표를 발표했다."
         },
         {
-          "label": "Israel",
-          "english": "It has discussed reducing dependence on American aid over time.",
-          "korean": "미국 지원 의존을 점차 줄이는 방안을 논의했다."
+          "label": "Music video characters",
+          "english": "Two childhood friends reunite after their friendship deteriorates through conflicts.",
+          "korean": "두 어린 시절 친구는 갈등 뒤 다시 만난다."
         },
         {
-          "label": "US Congress",
-          "english": "Congress will have major influence over whether and how the change happens.",
-          "korean": "지원 변화의 여부와 방식에 큰 권한이 있다."
+          "label": "Concert audience",
+          "english": "Fans will hear the song’s themes at Hanroro’s first arena concerts in January.",
+          "korean": "팬들은 1월 첫 아레나 공연에서 곡의 주제를 듣는다."
         }
       ],
       "views": [
         {
-          "label": "Trump and supporters",
-          "english": "Israel can buy American weapons directly instead of receiving the money as aid.",
-          "korean": "이스라엘은 지원금 대신 미국 무기를 직접 살 수 있다."
+          "label": "The Korea Herald",
+          "english": "The song explores affection, resentment and regret inside a strained friendship.",
+          "korean": "곡은 멀어진 우정 속 애정과 원망과 후회를 탐구한다."
         },
         {
-          "label": "Israeli opposition",
-          "english": "A sudden aid change could weaken security while Israel faces wars on several fronts.",
-          "korean": "갑작스러운 변화는 여러 전선의 안보를 약화할 수 있다."
+          "label": "ChosunBiz",
+          "english": "The release presents a sharper, rougher image than Hanroro’s familiar lyrical style.",
+          "korean": "이번 발표는 익숙한 서정적 스타일보다 날카롭고 거칠다."
         }
       ],
       "disagree": {
-        "english": "The plan sounds immediate, but Congress and the current agreement could delay or reshape it.",
-        "korean": "계획은 즉시처럼 보이지만 의회와 기존 협정이 바꿀 수 있다."
+        "english": "Listeners may see the darker image as growth, or simply as a new performance choice.",
+        "korean": "청자는 어두운 이미지가 성장인지 새로운 연출인지 다르게 볼 수 있다."
       },
-      "reader_question_korean": "군사 지원을 무기 판매로 바꿔야 할까요?",
+      "reader_question_korean": "상처받은 우정에도 사랑이 남을 수 있을까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "US to halt $4 billion in aid to Israel as Mideast ally reduces dependence on Washington",
+      "source_title": "Hanroro releases new single 'Question Mark'",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "The single was released on 2026-11-05.",
+        "Her arena concerts are scheduled for 2027-01-02 and 2027-01-03."
+      ],
+      "reader_question": "Can a damaged friendship still keep love alive?",
+      "topic_tag": "Music",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Hanroro releases new single 'Question Mark'",
+          "date": "2026-11-05",
+          "url": "https://www.koreaherald.com/article/10927294"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "한로로는",
+          "roman": "Han-ro-ro-neun",
+          "english": "Hanroro",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "11월",
+          "roman": "11-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "the 5th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "싱글",
+          "roman": "sing-geul",
+          "english": "single",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "물음표를",
+          "roman": "mu-reum-pyo-reul",
+          "english": "Question Mark",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "발표했다",
+          "roman": "bal-pyo-haet-da",
+          "english": "released",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Hanroro released her single Question Mark on November 5.",
+          "korean": "한로로는 11월 5일 싱글 물음표를 발표했다.",
+          "glossary": [
+            {
+              "korean": "한로로는",
+              "roman": "Han-ro-ro-neun",
+              "english": "Hanroro",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "11월",
+              "roman": "11-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "the 5th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "싱글",
+              "roman": "sing-geul",
+              "english": "single",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "물음표를",
+              "roman": "mu-reum-pyo-reul",
+              "english": "Question Mark",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "발표했다",
+              "roman": "bal-pyo-haet-da",
+              "english": "released",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "truth",
+          "english": "It follows childhood friends whose damaged relationship still holds affection, resentment and regret.",
+          "korean": "상처받은 관계에는 애정, 원망, 후회가 아직 남아 있다.",
+          "glossary": [
+            {
+              "korean": "상처받은",
+              "roman": "sang-cheo-ba-deun",
+              "english": "damaged",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "관계에는",
+              "roman": "gwan-gye-eneun",
+              "english": "in the relationship",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "애정",
+              "roman": "ae-jeong",
+              "english": "affection",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원망",
+              "roman": "won-mang",
+              "english": "resentment",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "후회가",
+              "roman": "hu-hoe-ga",
+              "english": "regret",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "아직",
+              "roman": "a-jik",
+              "english": "still",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "남아",
+              "roman": "nam-a",
+              "english": "remain",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "there is",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The video shows two swimming-school friends growing apart after repeated conflicts.",
+          "korean": "영상은 수영장 친구들이 여러 갈등 뒤 멀어지는 모습을 보여준다.",
+          "glossary": [
+            {
+              "korean": "영상은",
+              "roman": "yeong-sang-eun",
+              "english": "the video",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "수영장",
+              "roman": "su-yeong-jang",
+              "english": "swimming school",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "친구들이",
+              "roman": "chin-gu-deul-i",
+              "english": "friends",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "여러",
+              "roman": "yeo-reo",
+              "english": "several",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "갈등",
+              "roman": "gal-deung",
+              "english": "conflicts",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "멀어지는",
+              "roman": "meol-eo-ji-neun",
+              "english": "growing apart",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "모습을",
+              "roman": "mo-seub-eul",
+              "english": "scene",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "보여준다",
+              "roman": "bo-yeo-jun-da",
+              "english": "shows",
+              "particle": false,
+              "suffix": "준다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Hanroro will hold her first arena concerts in Incheon on January 2 and 3, 2027.",
+          "korean": "한로로는 2027년 1월 2일과 3일 인천에서 첫 아레나 공연을 연다.",
+          "glossary": [
+            {
+              "korean": "한로로는",
+              "roman": "Han-ro-ro-neun",
+              "english": "Hanroro",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2027년",
+              "roman": "i-cheon-i-sip-chil-nyeon",
+              "english": "2027",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1월",
+              "roman": "il-wol",
+              "english": "January",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2일과",
+              "roman": "i-il-gwa",
+              "english": "the 2nd and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "3일",
+              "roman": "sam-il",
+              "english": "the 3rd",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인천에서",
+              "roman": "In-cheon-eseo",
+              "english": "in Incheon",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "첫",
+              "roman": "cheot",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아레나",
+              "roman": "a-re-na",
+              "english": "arena",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "공연을",
+              "roman": "gong-yeon-eul",
+              "english": "concerts",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "연다",
+              "roman": "yeon-da",
+              "english": "holds",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10927294",
+      "short_english": "Hanroro released her single Question Mark on November 5.",
+      "short_korean": "한로로는 11월 5일 싱글 물음표를 발표했다.",
+      "date": "2026-11-05",
+      "images": [
+        "images/korean/037d944e0dad/1.jpg",
+        "images/korean/037d944e0dad/2.jpg",
+        "images/korean/037d944e0dad/3.jpg",
+        "images/korean/037d944e0dad/4.jpg",
+        "images/korean/037d944e0dad/5.jpg",
+        "images/korean/037d944e0dad/6.jpg",
+        "images/korean/037d944e0dad/7.jpg",
+        "images/korean/037d944e0dad/8.jpg",
+        "images/korean/037d944e0dad/9.jpg",
+        "images/korean/037d944e0dad/10.jpg",
+        "images/korean/037d944e0dad/11.jpg",
+        "images/korean/037d944e0dad/12.jpg",
+        "images/korean/037d944e0dad/13.jpg",
+        "images/korean/037d944e0dad/14.jpg",
+        "images/korean/037d944e0dad/15.jpg",
+        "images/korean/037d944e0dad/16.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/037d944e0dad/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "미 중간선거 뒤 2028년 경쟁 가열",
+      "english_title": "The 2028 race opens after a Democratic midterm shock",
+      "korean_desc": "JD 밴스는 선두였지만 트럼프와의 가까운 동맹이 부담이 됐다. 밴스는 트럼프의 인기 없는 이란 전쟁을 탓했다. 존 오소프의 조지아 재선은 민주당 대선 출마설을 키웠다. 두 당은 2028년 후보를 정하기 전 2년을 준비한다.",
+      "english_desc": "JD Vance had been favored, but his close alliance with Donald Trump now looks costly. Vance blamed Trump’s unpopular war on Iran, while Republicans struggled with the midterm defeat. Jon Ossoff’s reelection in Georgia strengthened talk of a Democratic presidential campaign. Both parties now face two years of organizing before choosing their 2028 nominees.",
+      "hook": "The midterms reshaped the 2028 presidential race.",
+      "sticker": "The 2028 race begins",
+      "korean_hook": "중간선거가 2028년 대선을 흔들었다",
+      "takeaway_english": "The midterms opened the race, but two years remain before voters choose nominees.",
+      "takeaway_korean": "중간선거가 경쟁을 열었지만 후보 결정까지 2년이 남았다.",
+      "why_it_matters": [
+        {
+          "english": "The next presidential contest can affect policies voters face before 2028.",
+          "korean": "다음 대선 경쟁은 2028년 전 유권자의 정책에 영향을 줄 수 있다."
+        },
+        {
+          "english": "The result may change which leaders receive national attention and campaign money.",
+          "korean": "결과는 어떤 지도자가 전국 관심과 선거자금을 얻을지 바꿀 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "JD Vance",
+          "english": "The vice president’s position weakened after Republicans lost the midterms.",
+          "korean": "공화당의 중간선거 패배로 밴스 부통령의 위치가 약해졌다."
+        },
+        {
+          "label": "Jon Ossoff",
+          "english": "His Georgia reelection made him a stronger Democratic possibility for 2028.",
+          "korean": "조지아 재선으로 오소프는 2028년 민주당 후보 가능성이 커졌다."
+        },
+        {
+          "label": "Donald Trump",
+          "english": "His administration and war policy remain tied to Republican candidates’ records.",
+          "korean": "트럼프 행정부와 전쟁 정책은 공화당 후보들의 기록과 연결된다."
+        }
+      ],
+      "views": [
+        {
+          "label": "AP analysis",
+          "english": "The Democratic wave damaged Vance while giving rising Democrats a launchpad.",
+          "korean": "민주당의 승리는 밴스를 약화하고 신진 민주당 인사들을 띄웠다."
+        },
+        {
+          "label": "Council on Foreign Relations",
+          "english": "The 2028 campaign will shape American politics for the next two years, but candidates remain unsettled.",
+          "korean": "2028년 선거운동은 2년간 정치를 이끌지만 후보는 아직 정해지지 않았다."
+        }
+      ],
+      "disagree": {
+        "english": "The midterms may change the field, but early attention does not decide either party’s nomination.",
+        "korean": "중간선거가 판을 바꿔도 초기 관심이 후보 지명을 결정하지는 않는다."
+      },
+      "reader_question_korean": "2028년 전에 어느 당이 더 바뀌어야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Race for 2028 heats up after US midterms firestorm",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -1841,136 +2339,205 @@
       "format_data": {
         "views": [
           {
-            "label": "Donald Trump",
-            "english": "Israel does not need the aid, while arms sales and the relationship can continue.",
-            "korean": "이스라엘은 지원이 필요 없고 무기 판매는 계속할 수 있다."
+            "label": "Republican side",
+            "english": "JD Vance entered as the favorite but now faces blame for staying close to Trump.",
+            "korean": "JD 밴스는 선두였지만 트럼프와 가까웠던 책임을 맞는다."
           },
           {
-            "label": "Israeli opposition leaders",
-            "english": "Ending military aid could seriously damage Israel’s security and burden the public.",
-            "korean": "군사 지원 중단은 안보를 해치고 국민 부담을 키울 수 있다."
+            "label": "Democratic side",
+            "english": "Jon Ossoff’s Georgia reelection strengthened speculation about a future presidential bid.",
+            "korean": "존 오소프의 조지아 재선은 대선 출마 추측을 키웠다."
           }
         ]
       },
-      "serious": true,
+      "serious": false,
       "caption_lines": [
-        "Update: November 3, 2026",
-        "The current security agreement is scheduled to expire in 2028.",
-        "The 2016 agreement provided $38 billion over ten years."
+        "The midterms took place on 2026-11-03.",
+        "Jon Ossoff said he had zero interest in running for president."
       ],
-      "reader_question": "Should military aid become weapons sales instead?",
-      "topic_tag": "Aid",
+      "reader_question": "Which party should change more before 2028?",
+      "topic_tag": "Election",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "US to halt $4 billion in aid to Israel as Mideast ally reduces dependence on Washington",
-          "date": "2026-11-04",
-          "url": "https://www.koreaherald.com/article/10925612"
+          "title": "Race for 2028 heats up after US midterms firestorm",
+          "date": "2026-11-05",
+          "url": "https://www.koreaherald.com/article/10927108"
         }
       ],
       "glossary": [
         {
-          "korean": "그는",
-          "roman": "geu-neun",
-          "english": "he",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "지원이",
-          "roman": "jiwon-i",
-          "english": "aid",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "끝나도",
-          "roman": "kkeut-na-do",
-          "english": "even after ending",
-          "particle": false,
-          "suffix": "도"
-        },
-        {
-          "korean": "무기",
-          "roman": "mugi",
-          "english": "arms",
+          "korean": "JD",
+          "roman": "JD",
+          "english": "JD",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "판매는",
-          "roman": "panmae-neun",
-          "english": "sales",
+          "korean": "밴스는",
+          "roman": "Baen-seu-neun",
+          "english": "Vance",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "계속된다고",
-          "roman": "gyesok-doen-da-go",
-          "english": "would continue",
+          "korean": "선두였지만",
+          "roman": "seon-du-yeot-jiman",
+          "english": "was favored but",
           "particle": false,
-          "suffix": "다고"
+          "suffix": "지만"
         },
         {
-          "korean": "말했다",
-          "roman": "mal-haet-da",
-          "english": "said",
+          "korean": "트럼프와의",
+          "roman": "Teu-reom-peu-wa-ui",
+          "english": "with Trump’s",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "와의"
+        },
+        {
+          "korean": "가까운",
+          "roman": "ga-kka-un",
+          "english": "close",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "동맹이",
+          "roman": "dong-maeng-i",
+          "english": "alliance",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "부담이",
+          "roman": "bu-dam-i",
+          "english": "cost",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "됐다",
+          "roman": "dwaet-da",
+          "english": "became",
+          "particle": false,
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "how",
-          "english": "He said arms sales would continue even after the aid ends.",
-          "korean": "그는 지원이 끝나도 무기 판매는 계속된다고 말했다.",
+          "stage": "why",
+          "english": "JD Vance had been favored, but his close alliance with Donald Trump now looks costly.",
+          "korean": "JD 밴스는 선두였지만 트럼프와의 가까운 동맹이 부담이 됐다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
+              "korean": "JD",
+              "roman": "JD",
+              "english": "JD",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "밴스는",
+              "roman": "Baen-seu-neun",
+              "english": "Vance",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "지원이",
-              "roman": "jiwon-i",
-              "english": "aid",
+              "korean": "선두였지만",
+              "roman": "seon-du-yeot-jiman",
+              "english": "was favored but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "트럼프와의",
+              "roman": "Teu-reom-peu-wa-ui",
+              "english": "with Trump’s",
+              "particle": false,
+              "suffix": "와의"
+            },
+            {
+              "korean": "가까운",
+              "roman": "ga-kka-un",
+              "english": "close",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "동맹이",
+              "roman": "dong-maeng-i",
+              "english": "alliance",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "끝나도",
-              "roman": "kkeut-na-do",
-              "english": "even after ending",
+              "korean": "부담이",
+              "roman": "bu-dam-i",
+              "english": "cost",
               "particle": false,
-              "suffix": "도"
+              "suffix": "이"
             },
             {
-              "korean": "무기",
-              "roman": "mugi",
-              "english": "arms",
+              "korean": "됐다",
+              "roman": "dwaet-da",
+              "english": "became",
               "particle": false,
-              "suffix": ""
-            },
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Vance blamed Trump’s unpopular war on Iran, while Republicans struggled with the midterm defeat.",
+          "korean": "밴스는 트럼프의 인기 없는 이란 전쟁을 탓했다.",
+          "glossary": [
             {
-              "korean": "판매는",
-              "roman": "panmae-neun",
-              "english": "sales",
+              "korean": "밴스는",
+              "roman": "Baen-seu-neun",
+              "english": "Vance",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "계속된다고",
-              "roman": "gyesok-doen-da-go",
-              "english": "would continue",
+              "korean": "트럼프의",
+              "roman": "Teu-reom-peu-ui",
+              "english": "Trump’s",
               "particle": false,
-              "suffix": "다고"
+              "suffix": "의"
             },
             {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
+              "korean": "인기",
+              "roman": "in-gi",
+              "english": "popular",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "없는",
+              "roman": "eom-neun",
+              "english": "unpopular",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이란",
+              "roman": "I-ran",
+              "english": "Iran",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전쟁을",
+              "roman": "jeon-jaeng-eul",
+              "english": "war",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "탓했다",
+              "roman": "tat-haet-da",
+              "english": "blamed",
               "particle": false,
               "suffix": "했다"
             }
@@ -1978,125 +2545,154 @@
         },
         {
           "stage": "now",
-          "english": "Israel’s opposition called the possible change dangerous for national security.",
-          "korean": "이스라엘 야당은 안보에 위험한 변화라고 말했다.",
+          "english": "Jon Ossoff’s reelection in Georgia strengthened talk of a Democratic presidential campaign.",
+          "korean": "존 오소프의 조지아 재선은 민주당 대선 출마설을 키웠다.",
           "glossary": [
             {
-              "korean": "이스라엘",
-              "roman": "i-seu-ra-el",
-              "english": "Israel",
+              "korean": "존",
+              "roman": "Jon",
+              "english": "Jon",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "야당은",
-              "roman": "yadang-eun",
-              "english": "opposition",
+              "korean": "오소프의",
+              "roman": "O-so-peu-ui",
+              "english": "Ossoff’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "조지아",
+              "roman": "Jo-ji-a",
+              "english": "Georgia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "재선은",
+              "roman": "jae-seon-eun",
+              "english": "reelection",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "안보에",
-              "roman": "anbo-e",
-              "english": "for security",
+              "korean": "민주당",
+              "roman": "min-ju-dang",
+              "english": "Democratic Party",
               "particle": false,
-              "suffix": "에"
+              "suffix": ""
             },
             {
-              "korean": "위험한",
-              "roman": "wiheom-han",
-              "english": "dangerous",
+              "korean": "대선",
+              "roman": "dae-seon",
+              "english": "presidential election",
               "particle": false,
-              "suffix": "한"
+              "suffix": ""
             },
             {
-              "korean": "변화라고",
-              "roman": "byeonhwa-rago",
-              "english": "as a change",
+              "korean": "출마설을",
+              "roman": "chul-ma-seol-eul",
+              "english": "talk of running",
               "particle": false,
-              "suffix": "라고"
+              "suffix": "을"
             },
             {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
+              "korean": "키웠다",
+              "roman": "ki-wot-da",
+              "english": "strengthened",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
-          "stage": "now",
-          "english": "Congress will have major influence, and the current agreement runs through 2028.",
-          "korean": "미 의회가 결정하며 현 협정은 2028년까지다.",
+          "stage": "next",
+          "english": "Both parties now face two years of organizing before choosing their 2028 nominees.",
+          "korean": "두 당은 2028년 후보를 정하기 전 2년을 준비한다.",
           "glossary": [
             {
-              "korean": "미",
-              "roman": "mi",
-              "english": "US",
+              "korean": "두",
+              "roman": "du",
+              "english": "both",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "의회가",
-              "roman": "uihoe-ga",
-              "english": "Congress",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "결정하며",
-              "roman": "gyeoljeong-ha-myeo",
-              "english": "decides",
-              "particle": false,
-              "suffix": "며"
-            },
-            {
-              "korean": "현",
-              "roman": "hyeon",
-              "english": "current",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "협정은",
-              "roman": "hyeopjeong-eun",
-              "english": "agreement",
+              "korean": "당은",
+              "roman": "dang-eun",
+              "english": "parties",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "2028년까지다",
-              "roman": "icheon-isip-pal-nyeon-kkaji-da",
-              "english": "runs through 2028",
+              "korean": "2028년",
+              "roman": "i-cheon-i-sip-pal-nyeon",
+              "english": "2028",
               "particle": false,
-              "suffix": "까지다"
+              "suffix": ""
+            },
+            {
+              "korean": "후보를",
+              "roman": "hu-bo-reul",
+              "english": "nominees",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "정하기",
+              "roman": "jeong-ha-gi",
+              "english": "choosing",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전",
+              "roman": "jeon",
+              "english": "before",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2년을",
+              "roman": "i-nyeon-eul",
+              "english": "two years",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "준비한다",
+              "roman": "jun-bi-han-da",
+              "english": "prepare",
+              "particle": false,
+              "suffix": "한다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10925612",
-      "short_english": "He said arms sales would continue even after the aid ends.",
-      "short_korean": "그는 지원이 끝나도 무기 판매는 계속된다고 말했다.",
-      "date": "2026-11-04",
+      "url": "https://www.koreaherald.com/article/10927108",
+      "short_english": "JD Vance had been favored, but his close alliance with Donald Trump now looks costly.",
+      "short_korean": "JD 밴스는 선두였지만 트럼프와의 가까운 동맹이 부담이 됐다.",
+      "date": "2026-11-05",
       "images": [
-        "images/korean/482d7eb02672/1.jpg",
-        "images/korean/482d7eb02672/2.jpg",
-        "images/korean/482d7eb02672/3.jpg",
-        "images/korean/482d7eb02672/4.jpg",
-        "images/korean/482d7eb02672/5.jpg",
-        "images/korean/482d7eb02672/6.jpg",
-        "images/korean/482d7eb02672/7.jpg",
-        "images/korean/482d7eb02672/8.jpg",
-        "images/korean/482d7eb02672/9.jpg",
-        "images/korean/482d7eb02672/10.jpg",
-        "images/korean/482d7eb02672/11.jpg",
-        "images/korean/482d7eb02672/12.jpg",
-        "images/korean/482d7eb02672/13.jpg",
-        "images/korean/482d7eb02672/14.jpg"
+        "images/korean/466b0e7eaaef/1.jpg",
+        "images/korean/466b0e7eaaef/2.jpg",
+        "images/korean/466b0e7eaaef/3.jpg",
+        "images/korean/466b0e7eaaef/4.jpg",
+        "images/korean/466b0e7eaaef/5.jpg",
+        "images/korean/466b0e7eaaef/6.jpg",
+        "images/korean/466b0e7eaaef/7.jpg",
+        "images/korean/466b0e7eaaef/8.jpg",
+        "images/korean/466b0e7eaaef/9.jpg",
+        "images/korean/466b0e7eaaef/10.jpg",
+        "images/korean/466b0e7eaaef/11.jpg",
+        "images/korean/466b0e7eaaef/12.jpg",
+        "images/korean/466b0e7eaaef/13.jpg",
+        "images/korean/466b0e7eaaef/14.jpg",
+        "images/korean/466b0e7eaaef/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/482d7eb02672/caption.txt"
+      "caption_file": "images/korean/466b0e7eaaef/caption.txt"
     }
   ]
 }
