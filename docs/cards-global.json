@@ -1,546 +1,70 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "status": "ai",
-  "note": "4 new cards made, 2 kept. Cost this run about $0.0106",
-  "generated_at": "2026-11-05T08:01:47.815Z",
+  "note": "5 new cards made, 1 kept. Cost this run about $0.0137",
+  "generated_at": "2026-11-06T08:02:06.223Z",
   "cards": [
     {
       "category": "World",
-      "korean_title": "미국 중간선거, 역사적 첫 기록",
-      "english_title": "America’s Midterms Bring a Wave of Historic Firsts",
-      "korean_desc": "유권자들은 2026년 11월 3일 역사적 후보들을 뽑았다. 승리로 여성, 흑인, 무슬림, 게이 남성이 높은 자리에 올랐다. 키샤 랜스 바텀스가 조지아 첫 흑인 여성 주지사가 됐다. 뎁 할랜드가 뉴멕시코 첫 원주민 여성 주지사가 됐다. 압둘 엘사예드는 미국 첫 무슬림 상원의원이 된다.",
-      "english_desc": "Voters elected historic candidates across America on November 3, 2026. Their wins opened offices long closed to women, Black Americans, Muslims and openly gay men. Keisha Lance Bottoms became Georgia’s first Black woman governor. Deb Haaland became New Mexico’s first Native American female governor. Abdul El-Sayed will become America’s first Muslim senator.",
-      "hook": "America’s midterms brought a wave of historic firsts.",
-      "sticker": "History made",
-      "korean_hook": "미국 중간선거에 첫 기록이 쏟아졌다",
-      "takeaway_english": "The new leaders now face pressure to turn symbolic breakthroughs into policy.",
-      "takeaway_korean": "새 지도자들은 이제 상징을 정책으로 바꿔야 한다.",
+      "korean_title": "전쟁이 ‘미국 우선’을 무너뜨렸다",
+      "english_title": "The War That Defeated ‘America First’",
+      "korean_desc": "공화당은 2026년 중간선거에서 의회를 모두 잃었다. 그 뒤 밴스는 이란 전쟁이 패배의 주원인이라고 말했다. 11월 5일 트럼프는 전쟁 결정을 옹호했다. 공화당은 이제 외교정책을 바꿀지 결정해야 한다.",
+      "english_desc": "Republicans lost the 2026 midterms after Democrats won both chambers of Congress. Then Vance said the Iran war was the main reason Republicans lost. On November 5, Trump still defended the decision to fight. Republicans must now decide whether to change their foreign policy.",
+      "hook": "The war helped defeat Republicans.",
+      "sticker": "What voters rejected",
+      "korean_hook": "전쟁이 공화당 패배를 도왔다",
+      "takeaway_english": "The Republican Party now faces a fight over war, costs, and its future direction.",
+      "takeaway_korean": "공화당은 이제 전쟁과 물가와 미래 방향을 두고 싸워야 한다.",
       "why_it_matters": [
         {
-          "english": "New leaders may influence healthcare, costs, representation and national priorities.",
-          "korean": "새 지도자들이 의료와 물가를 바꿀 수 있다."
+          "english": "War policy can change elections and affect national budgets.",
+          "korean": "전쟁 정책은 선거와 국가 예산을 바꿀 수 있다."
         },
         {
-          "english": "More groups now see people like themselves entering powerful offices.",
-          "korean": "더 많은 사람들이 자신과 같은 지도자를 본다."
+          "english": "Foreign policy promises can collide with voters’ daily concerns.",
+          "korean": "외교정책 약속은 유권자의 일상적인 걱정과 충돌할 수 있다."
         }
       ],
       "parties": [
         {
-          "label": "Democrats",
-          "english": "They won key races and are positioned to regain major power in Congress.",
-          "korean": "민주당은 주요 선거에서 이겼다."
+          "label": "J.D. Vance",
+          "english": "He blamed the war for the Republican midterm defeat.",
+          "korean": "그는 전쟁을 공화당 중간선거 패배의 원인으로 지목했다."
         },
-        {
-          "label": "Historic candidates",
-          "english": "Their victories break racial, religious, gender and sexuality barriers in national politics.",
-          "korean": "후보들의 승리는 여러 장벽을 넘었다."
-        },
-        {
-          "label": "Republicans",
-          "english": "They lost important races, including Georgia’s governorship and several Senate seats.",
-          "korean": "공화당은 중요한 선거에서 졌다."
-        }
-      ],
-      "views": [
-        {
-          "label": "The Hindu",
-          "english": "The results show a blue wave and a remarkable series of historic firsts.",
-          "korean": "결과는 민주당의 큰 물결을 보여준다."
-        },
-        {
-          "label": "Associated Press",
-          "english": "Democrats won power, but many voters still remain skeptical of the party.",
-          "korean": "민주당이 이겼지만 유권자는 여전히 신중하다."
-        }
-      ],
-      "disagree": {
-        "english": "Some observers may see rejection of Republicans more than strong support for Democrats.",
-        "korean": "일부는 민주당 지지보다 공화당 거부로 본다."
-      },
-      "reader_question_korean": "어떤 역사적 승리가 가장 중요합니까?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "U.S. midterm elections witness historic firsts: First Black woman governor to first Muslim senator",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The elections were held on November 3, 2026.",
-        "Peggy Flanagan also became the first Native American female senator."
-      ],
-      "reader_question": "Which historic victory matters most to you?",
-      "topic_tag": "Election",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "U.S. midterm elections witness historic firsts: First Black woman governor to first Muslim senator",
-          "date": "2026-11-05",
-          "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-historic-firsts-black-woman-governor-muslim-senator/article71668857.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "유권자들은",
-          "roman": "yugwonjadeureun",
-          "english": "voters",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isipsi-yuknyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibirwol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "3일",
-          "roman": "sam-il",
-          "english": "the third",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "역사적",
-          "roman": "yeoksajeok",
-          "english": "historic",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "후보들을",
-          "roman": "hubodeureul",
-          "english": "candidates",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "뽑았다",
-          "roman": "ppobatda",
-          "english": "elected",
-          "particle": false,
-          "suffix": "았다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Voters elected historic candidates across America on November 3, 2026.",
-          "korean": "유권자들은 2026년 11월 3일 역사적 후보들을 뽑았다.",
-          "glossary": [
-            {
-              "korean": "유권자들은",
-              "roman": "yugwonjadeureun",
-              "english": "voters",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isipsi-yuknyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sibirwol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "3일",
-              "roman": "sam-il",
-              "english": "the third",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "역사적",
-              "roman": "yeoksajeok",
-              "english": "historic",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "후보들을",
-              "roman": "hubodeureul",
-              "english": "candidates",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "뽑았다",
-              "roman": "ppobatda",
-              "english": "elected",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Their wins opened offices long closed to women, Black Americans, Muslims and openly gay men.",
-          "korean": "승리로 여성, 흑인, 무슬림, 게이 남성이 높은 자리에 올랐다.",
-          "glossary": [
-            {
-              "korean": "승리로",
-              "roman": "seungniro",
-              "english": "through the victories",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "여성,",
-              "roman": "yeoseong",
-              "english": "women",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "흑인,",
-              "roman": "heugin",
-              "english": "Black people",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "무슬림,",
-              "roman": "museullim",
-              "english": "Muslims",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "게이",
-              "roman": "gei",
-              "english": "gay",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "남성이",
-              "roman": "namseongi",
-              "english": "men",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "높은",
-              "roman": "nopeun",
-              "english": "high",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "자리에",
-              "roman": "jarie",
-              "english": "positions",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "올랐다",
-              "roman": "ollatda",
-              "english": "rose to",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Keisha Lance Bottoms became Georgia’s first Black woman governor.",
-          "korean": "키샤 랜스 바텀스가 조지아 첫 흑인 여성 주지사가 됐다.",
-          "glossary": [
-            {
-              "korean": "키샤",
-              "roman": "kisya",
-              "english": "Keisha",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "랜스",
-              "roman": "raenseu",
-              "english": "Lance",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "바텀스가",
-              "roman": "bateomseuga",
-              "english": "Bottoms",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "조지아",
-              "roman": "jojia",
-              "english": "Georgia",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "흑인",
-              "roman": "heugin",
-              "english": "Black",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여성",
-              "roman": "yeoseong",
-              "english": "woman",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주지사가",
-              "roman": "jujisaga",
-              "english": "governor",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "됐다",
-              "roman": "dwaetda",
-              "english": "became",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Deb Haaland became New Mexico’s first Native American female governor.",
-          "korean": "뎁 할랜드가 뉴멕시코 첫 원주민 여성 주지사가 됐다.",
-          "glossary": [
-            {
-              "korean": "뎁",
-              "roman": "dep",
-              "english": "Deb",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "할랜드가",
-              "roman": "halleondeuga",
-              "english": "Haaland",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "뉴멕시코",
-              "roman": "nyumeoksiko",
-              "english": "New Mexico",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "원주민",
-              "roman": "wonjumin",
-              "english": "Native American",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여성",
-              "roman": "yeoseong",
-              "english": "female",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주지사가",
-              "roman": "jujisaga",
-              "english": "governor",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "됐다",
-              "roman": "dwaetda",
-              "english": "became",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Abdul El-Sayed will become America’s first Muslim senator.",
-          "korean": "압둘 엘사예드는 미국 첫 무슬림 상원의원이 된다.",
-          "glossary": [
-            {
-              "korean": "압둘",
-              "roman": "apdul",
-              "english": "Abdul",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "엘사예드는",
-              "roman": "elsayedeuneun",
-              "english": "El-Sayed",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "America",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "무슬림",
-              "roman": "museullim",
-              "english": "Muslim",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "상원의원이",
-              "roman": "sangwonweoni",
-              "english": "senator",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "된다",
-              "roman": "doenda",
-              "english": "will become",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-historic-firsts-black-woman-governor-muslim-senator/article71668857.ece",
-      "short_english": "Voters elected historic candidates across America on November 3, 2026.",
-      "short_korean": "유권자들은 2026년 11월 3일 역사적 후보들을 뽑았다.",
-      "date": "2026-11-05",
-      "images": [
-        "images/global/c837535f7a71/1.jpg",
-        "images/global/c837535f7a71/2.jpg",
-        "images/global/c837535f7a71/3.jpg",
-        "images/global/c837535f7a71/4.jpg",
-        "images/global/c837535f7a71/5.jpg",
-        "images/global/c837535f7a71/6.jpg",
-        "images/global/c837535f7a71/7.jpg",
-        "images/global/c837535f7a71/8.jpg",
-        "images/global/c837535f7a71/9.jpg",
-        "images/global/c837535f7a71/10.jpg",
-        "images/global/c837535f7a71/11.jpg",
-        "images/global/c837535f7a71/12.jpg",
-        "images/global/c837535f7a71/13.jpg",
-        "images/global/c837535f7a71/14.jpg",
-        "images/global/c837535f7a71/15.jpg",
-        "images/global/c837535f7a71/16.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/c837535f7a71/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "미국과 이스라엘, 더 커진 긴장",
-      "english_title": "Trump’s Aid Cut Puts U.S.-Israel Ties Under Strain",
-      "korean_desc": "그는 결정을 공화당 선거 부담과 엘사예드 선거에 연결했다. 엘사예드는 미국 군사 원조 반대를 상원 선거 핵심으로 삼았다. 11월 4일 엘사예드는 미시간에서 이겨 첫 무슬림 상원의원이 됐다.",
-      "english_desc": "He linked the decision to Republican election costs, especially El-Sayed’s Michigan campaign. El-Sayed made opposition to American military aid central to his Senate campaign. On November 4, El-Sayed won Michigan and became the first Muslim U.S. senator.",
-      "hook": "Trump announced an end to about $4 billion in yearly aid.",
-      "sticker": "What changed",
-      "korean_hook": "트럼프가 연간 약 40억 달러 원조를 끊겠다고 했다",
-      "takeaway_english": "The announcement signals that support for Israel is now a sharper American election issue.",
-      "takeaway_korean": "이스라엘 지원은 이제 미국 선거의 큰 쟁점이다.",
-      "why_it_matters": [
-        {
-          "english": "American taxpayers may see a major change in how money supports foreign military policy.",
-          "korean": "미국 납세자는 해외 군사정책 지원 변화를 보게 된다."
-        },
-        {
-          "english": "The decision could affect Israel’s military planning and U.S. diplomacy.",
-          "korean": "결정은 이스라엘 군사계획과 미국 외교에 영향을 준다."
-        }
-      ],
-      "parties": [
         {
           "label": "Donald Trump",
-          "english": "He announced that annual U.S. military aid to Israel would end by year’s end.",
-          "korean": "트럼프는 이스라엘 군사 원조를 끝내겠다고 했다."
+          "english": "His administration entered the war after promising to avoid costly foreign conflicts.",
+          "korean": "그의 정부는 값비싼 해외 전쟁을 피하겠다고 약속한 뒤 전쟁에 참여했다."
         },
         {
-          "label": "Israel",
-          "english": "Israel faces a possible loss of major American military support.",
-          "korean": "이스라엘은 미국의 큰 지원을 잃을 수 있다."
-        },
-        {
-          "label": "Abdul El-Sayed",
-          "english": "His opposition to aid helped make the issue important in Michigan’s Senate race.",
-          "korean": "엘사예드는 원조 반대를 선거 쟁점으로 만들었다."
+          "label": "Former Trump voters",
+          "english": "Some reportedly moved to Democrats over war, prices, and foreign policy.",
+          "korean": "일부는 전쟁과 물가와 외교정책 때문에 민주당으로 옮겼다고 전해졌다."
         }
       ],
       "views": [
         {
-          "label": "Trump administration",
-          "english": "The aid had become an electoral liability for Republicans.",
-          "korean": "원조는 공화당에 선거 부담이 됐다."
+          "label": "J.D. Vance",
+          "english": "Vance said ending the war and lowering living costs were key voter demands.",
+          "korean": "밴스는 전쟁 종식과 생활비 인하가 유권자의 핵심 요구라고 말했다."
         },
         {
-          "label": "Israeli government",
-          "english": "Supporters of Israel argue that American military backing remains strategically important.",
-          "korean": "이스라엘 지지자들은 미국 지원이 전략적으로 중요하다고 본다."
+          "label": "Trump and supporters",
+          "english": "Trump defended the war, while other coverage linked losses to broader domestic and political problems.",
+          "korean": "트럼프는 전쟁을 옹호했지만 다른 보도는 더 넓은 국내 문제를 지적했다."
         }
       ],
       "disagree": {
-        "english": "Critics may say the announcement was electoral messaging, while supporters may call it policy correction.",
-        "korean": "비판자들은 선거용 발언, 지지자들은 정책 수정이라고 할 수 있다."
+        "english": "The election may also reflect prices, turnout, younger voters, and anger at Trump’s wider policies.",
+        "korean": "선거에는 물가와 투표율과 젊은 유권자와 다른 정책에 대한 분노도 영향을 줬을 수 있다."
       },
-      "reader_question_korean": "군사 원조는 여론에 따라야 합니까?",
+      "reader_question_korean": "공화당은 어떤 문제부터 해결해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Midterm results put U.S.-Israel ties under further strain",
+      "source_title": "The war that defeated ‘America First’",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -550,366 +74,361 @@
       "format_data": {},
       "serious": true,
       "caption_lines": [
-        "Trump made the announcement on November 3, 2026.",
-        "The decision came as Abdul El-Sayed won Michigan’s Senate race."
+        "The midterm elections were held on November 3, 2026.",
+        "Democrats won control of both chambers of Congress.",
+        "The war was fought in Iran."
       ],
-      "reader_question": "Should military aid depend on public opinion?",
-      "topic_tag": "Diplomacy",
+      "reader_question": "Which issue should Republicans address first?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Midterm results put U.S.-Israel ties under further strain",
-          "date": "2026-11-05",
-          "url": "https://www.thehindu.com/news/international/midterm-results-put-us-israel-ties-under-further-strain/article71668862.ece"
+          "title": "The war that defeated ‘America First’",
+          "date": "2026-11-06",
+          "url": "https://www.thehindu.com/opinion/op-ed/the-war-that-defeated-america-first/article71668984.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "그는",
-          "roman": "geuneun",
-          "english": "he",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "결정을",
-          "roman": "gyeoljeongeul",
-          "english": "the decision",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "공화당",
-          "roman": "gonghwadang",
+          "korean": "공화당은",
+          "roman": "gong-hwa-dang-eun",
           "english": "Republican Party",
           "particle": false,
-          "suffix": ""
+          "suffix": "은"
         },
         {
-          "korean": "선거",
-          "roman": "seongeo",
-          "english": "election",
+          "korean": "2026년",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "중간선거에서",
+          "roman": "jung-gan-seon-geo-e-seo",
+          "english": "in midterm elections",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "의회를",
+          "roman": "ui-hoe-reul",
+          "english": "Congress",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "모두",
+          "roman": "mo-du",
+          "english": "both",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "부담과",
-          "roman": "budamgwa",
-          "english": "burden and",
+          "korean": "잃었다",
+          "roman": "il-eot-da",
+          "english": "lost",
           "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "엘사예드",
-          "roman": "elsayedeu",
-          "english": "El-Sayed",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "선거에",
-          "roman": "seongeoe",
-          "english": "campaign",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "연결했다",
-          "roman": "yeongyeolhaetda",
-          "english": "linked",
-          "particle": false,
-          "suffix": "했다"
+          "suffix": "었다"
         }
       ],
       "sentences": [
         {
-          "stage": "how",
-          "english": "He linked the decision to Republican election costs, especially El-Sayed’s Michigan campaign.",
-          "korean": "그는 결정을 공화당 선거 부담과 엘사예드 선거에 연결했다.",
+          "stage": "what",
+          "english": "Republicans lost the 2026 midterms after Democrats won both chambers of Congress.",
+          "korean": "공화당은 2026년 중간선거에서 의회를 모두 잃었다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
+              "korean": "공화당은",
+              "roman": "gong-hwa-dang-eun",
+              "english": "Republican Party",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "중간선거에서",
+              "roman": "jung-gan-seon-geo-e-seo",
+              "english": "in midterm elections",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "의회를",
+              "roman": "ui-hoe-reul",
+              "english": "Congress",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "모두",
+              "roman": "mo-du",
+              "english": "both",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "잃었다",
+              "roman": "il-eot-da",
+              "english": "lost",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Then Vance said the Iran war was the main reason Republicans lost.",
+          "korean": "그 뒤 밴스는 이란 전쟁이 패배의 주원인이라고 말했다.",
+          "glossary": [
+            {
+              "korean": "그",
+              "roman": "geu",
+              "english": "that",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "afterward",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "밴스는",
+              "roman": "baen-seu-neun",
+              "english": "Vance",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "결정을",
-              "roman": "gyeoljeongeul",
-              "english": "the decision",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공화당",
-              "roman": "gonghwadang",
-              "english": "Republican Party",
+              "korean": "이란",
+              "roman": "i-ran",
+              "english": "Iran",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "선거",
-              "roman": "seongeo",
-              "english": "election",
+              "korean": "전쟁이",
+              "roman": "jeon-jaeng-i",
+              "english": "war",
               "particle": false,
-              "suffix": ""
+              "suffix": "이"
             },
             {
-              "korean": "부담과",
-              "roman": "budamgwa",
-              "english": "burden and",
+              "korean": "패배의",
+              "roman": "pae-bae-ui",
+              "english": "of defeat",
               "particle": false,
-              "suffix": "과"
+              "suffix": "의"
             },
             {
-              "korean": "엘사예드",
-              "roman": "elsayedeu",
-              "english": "El-Sayed",
+              "korean": "주원인이라고",
+              "roman": "ju-won-in-i-ra-go",
+              "english": "main reason",
               "particle": false,
-              "suffix": ""
+              "suffix": "이라고"
             },
             {
-              "korean": "선거에",
-              "roman": "seongeoe",
-              "english": "campaign",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "연결했다",
-              "roman": "yeongyeolhaetda",
-              "english": "linked",
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
               "particle": false,
               "suffix": "했다"
             }
           ]
         },
         {
-          "stage": "how",
-          "english": "El-Sayed made opposition to American military aid central to his Senate campaign.",
-          "korean": "엘사예드는 미국 군사 원조 반대를 상원 선거 핵심으로 삼았다.",
-          "glossary": [
-            {
-              "korean": "엘사예드는",
-              "roman": "elsayedeuneun",
-              "english": "El-Sayed",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "American",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "군사",
-              "roman": "gunsa",
-              "english": "military",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "원조",
-              "roman": "wonjo",
-              "english": "aid",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "반대를",
-              "roman": "bandae-reul",
-              "english": "opposition",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "상원",
-              "roman": "sangwon",
-              "english": "Senate",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선거",
-              "roman": "seongeo",
-              "english": "campaign",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "핵심으로",
-              "roman": "haeksimeuro",
-              "english": "as central",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "삼았다",
-              "roman": "sam-assda",
-              "english": "made",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
           "stage": "now",
-          "english": "On November 4, El-Sayed won Michigan and became the first Muslim U.S. senator.",
-          "korean": "11월 4일 엘사예드는 미시간에서 이겨 첫 무슬림 상원의원이 됐다.",
+          "english": "On November 5, Trump still defended the decision to fight.",
+          "korean": "11월 5일 트럼프는 전쟁 결정을 옹호했다.",
           "glossary": [
             {
               "korean": "11월",
-              "roman": "sibirwol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
-              "korean": "4일",
-              "roman": "sa-il",
-              "english": "the fourth",
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "5th",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "엘사예드는",
-              "roman": "elsayedeuneun",
-              "english": "El-Sayed",
+              "korean": "트럼프는",
+              "roman": "teu-reom-peu-neun",
+              "english": "Trump",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "미시간에서",
-              "roman": "misigane-seo",
-              "english": "in Michigan",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "이겨",
-              "roman": "igyeo",
-              "english": "won",
+              "korean": "전쟁",
+              "roman": "jeon-jaeng",
+              "english": "war",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
+              "korean": "결정을",
+              "roman": "gyeol-jeong-eul",
+              "english": "decision",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "옹호했다",
+              "roman": "ong-ho-haet-da",
+              "english": "defended",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Republicans must now decide whether to change their foreign policy.",
+          "korean": "공화당은 이제 외교정책을 바꿀지 결정해야 한다.",
+          "glossary": [
+            {
+              "korean": "공화당은",
+              "roman": "gong-hwa-dang-eun",
+              "english": "Republicans",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "이제",
+              "roman": "i-je",
+              "english": "now",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "무슬림",
-              "roman": "museullim",
-              "english": "Muslim",
+              "korean": "외교정책을",
+              "roman": "oe-gyo-jeong-chaek-eul",
+              "english": "foreign policy",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "바꿀지",
+              "roman": "ba-kkul-ji",
+              "english": "whether to change",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "상원의원이",
-              "roman": "sangwonweoni",
-              "english": "senator",
+              "korean": "결정해야",
+              "roman": "gyeol-jeong-hae-ya",
+              "english": "must decide",
               "particle": false,
-              "suffix": "이"
+              "suffix": "해야"
             },
             {
-              "korean": "됐다",
-              "roman": "dwaetda",
-              "english": "became",
+              "korean": "한다",
+              "roman": "han-da",
+              "english": "do",
               "particle": false,
               "suffix": ""
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/midterm-results-put-us-israel-ties-under-further-strain/article71668862.ece",
-      "short_english": "He linked the decision to Republican election costs, especially El-Sayed’s Michigan campaign.",
-      "short_korean": "그는 결정을 공화당 선거 부담과 엘사예드 선거에 연결했다.",
-      "date": "2026-11-05",
+      "url": "https://www.thehindu.com/opinion/op-ed/the-war-that-defeated-america-first/article71668984.ece",
+      "short_english": "Republicans lost the 2026 midterms after Democrats won both chambers of Congress.",
+      "short_korean": "공화당은 2026년 중간선거에서 의회를 모두 잃었다.",
+      "date": "2026-11-06",
       "images": [
-        "images/global/39caf94aa37b/1.jpg",
-        "images/global/39caf94aa37b/2.jpg",
-        "images/global/39caf94aa37b/3.jpg",
-        "images/global/39caf94aa37b/4.jpg",
-        "images/global/39caf94aa37b/5.jpg",
-        "images/global/39caf94aa37b/6.jpg",
-        "images/global/39caf94aa37b/7.jpg",
-        "images/global/39caf94aa37b/8.jpg",
-        "images/global/39caf94aa37b/9.jpg",
-        "images/global/39caf94aa37b/10.jpg",
-        "images/global/39caf94aa37b/11.jpg",
-        "images/global/39caf94aa37b/12.jpg",
-        "images/global/39caf94aa37b/13.jpg",
-        "images/global/39caf94aa37b/14.jpg"
+        "images/global/38282f17986f/1.jpg",
+        "images/global/38282f17986f/2.jpg",
+        "images/global/38282f17986f/3.jpg",
+        "images/global/38282f17986f/4.jpg",
+        "images/global/38282f17986f/5.jpg",
+        "images/global/38282f17986f/6.jpg",
+        "images/global/38282f17986f/7.jpg",
+        "images/global/38282f17986f/8.jpg",
+        "images/global/38282f17986f/9.jpg",
+        "images/global/38282f17986f/10.jpg",
+        "images/global/38282f17986f/11.jpg",
+        "images/global/38282f17986f/12.jpg",
+        "images/global/38282f17986f/13.jpg",
+        "images/global/38282f17986f/14.jpg",
+        "images/global/38282f17986f/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/39caf94aa37b/caption.txt"
+      "caption_file": "images/global/38282f17986f/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "애리조나, 첫 인도계 의원 탄생",
-      "english_title": "Amish Shah Flips Arizona Seat for Democrats",
-      "korean_desc": "아미시 샤는 2026년 11월 4일 애리조나 1구에서 이겼다. 민주당 샤가 전 NFL 선수 공화당 제이 필리를 이겼다. 샤는 52.49%, 필리는 45.45%를 받았다. 그는 이제 미국 하원의 여섯 번째 인도계 의원이다.",
-      "english_desc": "Amish Shah won Arizona’s First Congressional District on November 4, 2026. The Democrat defeated Republican Jay Feely, a former National Football League player. Shah received 52.49% of votes, while Feely received 45.45%. He is now the sixth Indian-American elected to the U.S. House.",
-      "hook": "Amish Shah became Arizona’s first Indian-American congressman.",
-      "sticker": "A new voice",
-      "korean_hook": "아미시 샤가 애리조나 첫 인도계 의원이 됐다",
-      "takeaway_english": "Shah’s first test will be turning campaign promises into results for a competitive district.",
-      "takeaway_korean": "샤의 첫 시험은 선거 약속을 성과로 바꾸는 일이다.",
+      "korean_title": "법정 다툼 중 승인된 트럼프 개선문",
+      "english_title": "Trump’s Arch Wins Approval, Then Hits a Court Wall",
+      "korean_desc": "연방위원회는 2026년 11월 5일 트럼프의 250피트 개선문을 승인했다. 투표 전 청문회는 9시간 30분 동안 진행됐다. 그 뒤 타냐 처트칸 판사는 공사를 14일 막았다. 11월 6일 소송은 사업의 합법성과 설계를 계속 다퉜다.",
+      "english_desc": "A federal panel approved Trump’s 250-foot Washington arch on November 5, 2026. The vote followed a hearing lasting nine and a half hours. Then Judge Tanya Chutkan blocked construction for 14 days. On November 6, lawsuits still challenged the project’s legality and design.",
+      "hook": "The arch won approval, then construction stopped.",
+      "sticker": "Approval, then a pause",
+      "korean_hook": "개선문은 승인됐지만 공사는 멈췄다",
+      "takeaway_english": "The arch’s future depends on the court fight and Congress’s coming oversight.",
+      "takeaway_korean": "개선문의 미래는 법정 다툼과 의회의 감독에 달려 있다.",
       "why_it_matters": [
         {
-          "english": "The district now has a representative promising action on healthcare and household costs.",
-          "korean": "지역 주민은 의료와 생활비 해결을 약속한 의원을 얻었다."
+          "english": "Construction could change traffic and emergency responses around Washington.",
+          "korean": "공사는 워싱턴 주변의 교통과 긴급 대응을 바꿀 수 있다."
         },
         {
-          "english": "His election adds another Indian-American voice to Congress.",
-          "korean": "그의 당선으로 의회에 인도계 목소리가 늘었다."
+          "english": "The case tests how much power presidents have over federal land.",
+          "korean": "이 사건은 대통령의 연방 토지 권한을 시험한다."
         }
       ],
       "parties": [
         {
-          "label": "Amish Shah",
-          "english": "He won Arizona’s First Congressional District and flipped a Republican-held seat.",
-          "korean": "샤는 애리조나 1구를 이겨 공화당 의석을 바꿨다."
+          "label": "Trump administration",
+          "english": "It wants to build a 250-foot memorial arch in Washington.",
+          "korean": "트럼프 정부는 워싱턴에 250피트 높이의 기념 개선문을 세우려 한다."
         },
         {
-          "label": "Jay Feely",
-          "english": "The Republican former NFL player lost the close race after Trump endorsed him.",
-          "korean": "공화당 후보 제이 필리는 접전에서 졌다."
+          "label": "Judge Tanya Chutkan",
+          "english": "She paused construction for 14 days after Virginia and Washington, D.C., sued.",
+          "korean": "그녀는 버지니아와 워싱턴 D.C.의 소송 뒤 공사를 14일 중단시켰다."
         },
         {
-          "label": "Arizona voters",
-          "english": "They chose a doctor and former state legislator to represent the district.",
-          "korean": "유권자들은 의사 출신 후보를 선택했다."
+          "label": "National Capital Planning Commission",
+          "english": "It approved the arch 8-4 after a nine-and-a-half-hour hearing.",
+          "korean": "위원회는 9시간 30분 청문회 뒤 8대4로 개선문을 승인했다."
         }
       ],
       "views": [
         {
-          "label": "Amish Shah",
-          "english": "He emphasized lowering costs, expanding healthcare coverage, water and economic growth.",
-          "korean": "샤는 물가, 의료, 물, 경제를 강조했다."
+          "label": "Administration supporters",
+          "english": "They describe the arch as a national monument and tribute to veterans.",
+          "korean": "이들은 개선문을 국가 기념물이자 참전용사 기념물이라고 설명한다."
         },
         {
-          "label": "Indian American Impact",
-          "english": "The group said he reached voters through conversations about unaffordable healthcare and rising costs.",
-          "korean": "단체는 그가 의료비와 물가를 이야기했다고 했다."
+          "label": "Opponents",
+          "english": "They say it could harm Arlington’s solemn setting and lacks required congressional approval.",
+          "korean": "반대자들은 알링턴의 엄숙함을 해치고 의회 승인이 없다고 말한다."
         }
       ],
       "disagree": {
-        "english": "Some voters may have focused more on party control than Shah’s community background.",
-        "korean": "일부 유권자는 배경보다 정당을 더 중시했을 수 있다."
+        "english": "Supporters say the project honors history, while opponents question its design, legality, and purpose.",
+        "korean": "찬성자들은 역사를 기리지만 반대자들은 설계와 합법성과 목적을 의심한다."
       },
-      "reader_question_korean": "샤는 의회에서 무엇부터 해결해야 합니까?",
+      "reader_question_korean": "큰 기념물에는 의회 승인이 필요할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Amish Shah claims victory in Arizona, sixth Indian-American in U.S. House",
+      "source_title": "Key federal panel approves Trump’s arch while it is being challenged in court",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -919,241 +438,256 @@
       "format_data": {},
       "serious": false,
       "caption_lines": [
-        "The race was called on November 4, 2026.",
-        "Shah received 52.49% against Jay Feely’s 45.45%."
+        "The arch is planned near Arlington National Cemetery.",
+        "Three lawsuits oppose the project.",
+        "A temporary order lasts 14 days."
       ],
-      "reader_question": "What should Shah tackle first in Congress?",
-      "topic_tag": "Congress",
+      "reader_question": "Should major monuments need congressional approval?",
+      "topic_tag": "Monument",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Amish Shah claims victory in Arizona, sixth Indian-American in U.S. House",
-          "date": "2026-11-05",
-          "url": "https://www.thehindu.com/news/international/amish-shah-claims-victory-in-arizona-sixth-indian-american-in-us-house/article71668702.ece"
+          "title": "Key federal panel approves Trump’s arch while it is being challenged in court",
+          "date": "2026-11-06",
+          "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "아미시",
-          "roman": "amisi",
-          "english": "Amish",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "샤는",
-          "roman": "syaneun",
-          "english": "Shah",
+          "korean": "연방위원회는",
+          "roman": "yeon-bang-wi-won-hoe-neun",
+          "english": "federal panel",
           "particle": false,
           "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "icheon-isipsi-yuknyeon",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
           "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sibirwol",
+          "roman": "sip-il-wol",
           "english": "November",
           "particle": false,
           "suffix": "월"
         },
         {
-          "korean": "4일",
-          "roman": "sa-il",
-          "english": "the fourth",
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "5th",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "애리조나",
-          "roman": "aerijona",
-          "english": "Arizona",
+          "korean": "트럼프의",
+          "roman": "teu-reom-peu-ui",
+          "english": "Trump's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "250피트",
+          "roman": "i-baek-o-sip-pi-teu",
+          "english": "250 feet",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "1구에서",
-          "roman": "ilgueseo",
-          "english": "in District 1",
+          "korean": "개선문을",
+          "roman": "gae-seon-mun-eul",
+          "english": "arch",
           "particle": false,
-          "suffix": "에서"
+          "suffix": "을"
         },
         {
-          "korean": "이겼다",
-          "roman": "igyeotda",
-          "english": "won",
+          "korean": "승인했다",
+          "roman": "seung-in-haet-da",
+          "english": "approved",
           "particle": false,
-          "suffix": ""
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Amish Shah won Arizona’s First Congressional District on November 4, 2026.",
-          "korean": "아미시 샤는 2026년 11월 4일 애리조나 1구에서 이겼다.",
+          "english": "A federal panel approved Trump’s 250-foot Washington arch on November 5, 2026.",
+          "korean": "연방위원회는 2026년 11월 5일 트럼프의 250피트 개선문을 승인했다.",
           "glossary": [
             {
-              "korean": "아미시",
-              "roman": "amisi",
-              "english": "Amish",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "샤는",
-              "roman": "syaneun",
-              "english": "Shah",
+              "korean": "연방위원회는",
+              "roman": "yeon-bang-wi-won-hoe-neun",
+              "english": "federal panel",
               "particle": false,
               "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "icheon-isipsi-yuknyeon",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
               "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sibirwol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
-              "korean": "4일",
-              "roman": "sa-il",
-              "english": "the fourth",
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "5th",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "애리조나",
-              "roman": "aerijona",
-              "english": "Arizona",
+              "korean": "트럼프의",
+              "roman": "teu-reom-peu-ui",
+              "english": "Trump's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "250피트",
+              "roman": "i-baek-o-sip-pi-teu",
+              "english": "250 feet",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "1구에서",
-              "roman": "ilgueseo",
-              "english": "in District 1",
+              "korean": "개선문을",
+              "roman": "gae-seon-mun-eul",
+              "english": "arch",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "을"
             },
             {
-              "korean": "이겼다",
-              "roman": "igyeotda",
-              "english": "won",
+              "korean": "승인했다",
+              "roman": "seung-in-haet-da",
+              "english": "approved",
               "particle": false,
-              "suffix": ""
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The Democrat defeated Republican Jay Feely, a former National Football League player.",
-          "korean": "민주당 샤가 전 NFL 선수 공화당 제이 필리를 이겼다.",
+          "english": "The vote followed a hearing lasting nine and a half hours.",
+          "korean": "투표 전 청문회는 9시간 30분 동안 진행됐다.",
           "glossary": [
             {
-              "korean": "민주당",
-              "roman": "minjudang",
-              "english": "Democratic Party",
+              "korean": "투표",
+              "roman": "tu-pyo",
+              "english": "vote",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "샤가",
-              "roman": "syaga",
-              "english": "Shah",
-              "particle": false,
-              "suffix": "가"
             },
             {
               "korean": "전",
               "roman": "jeon",
-              "english": "former",
+              "english": "before",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "NFL",
-              "roman": "NFL",
-              "english": "NFL",
+              "korean": "청문회는",
+              "roman": "cheong-mun-hoe-neun",
+              "english": "hearing",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "9시간",
+              "roman": "gu-si-gan",
+              "english": "9 hours",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "선수",
-              "roman": "seonsu",
-              "english": "player",
+              "korean": "30분",
+              "roman": "sam-sip-bun",
+              "english": "30 minutes",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "공화당",
-              "roman": "gonghwadang",
-              "english": "Republican",
+              "korean": "동안",
+              "roman": "dong-an",
+              "english": "during",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "제이",
-              "roman": "jei",
-              "english": "Jay",
+              "korean": "진행됐다",
+              "roman": "jin-haeng-dwaet-da",
+              "english": "continued",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "필리를",
-              "roman": "pillireul",
-              "english": "Feely",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "이겼다",
-              "roman": "igyeotda",
-              "english": "defeated",
-              "particle": false,
-              "suffix": ""
+              "suffix": "됐다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Shah received 52.49% of votes, while Feely received 45.45%.",
-          "korean": "샤는 52.49%, 필리는 45.45%를 받았다.",
+          "english": "Then Judge Tanya Chutkan blocked construction for 14 days.",
+          "korean": "그 뒤 타냐 처트칸 판사는 공사를 14일 막았다.",
           "glossary": [
             {
-              "korean": "샤는",
-              "roman": "syaneun",
-              "english": "Shah",
+              "korean": "그",
+              "roman": "geu",
+              "english": "then",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "타냐",
+              "roman": "ta-nya",
+              "english": "Tanya",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "처트칸",
+              "roman": "cheo-teu-kan",
+              "english": "Chutkan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "판사는",
+              "roman": "pan-sa-neun",
+              "english": "judge",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "필리는",
-              "roman": "pillineun",
-              "english": "Feely",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "45.45%를",
-              "roman": "sasibo-jeom-sasibo-reul",
-              "english": "45.45 percent",
+              "korean": "공사를",
+              "roman": "gong-sa-reul",
+              "english": "construction",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "받았다",
-              "roman": "badatda",
-              "english": "received",
+              "korean": "14일",
+              "roman": "sip-sa-il",
+              "english": "14 days",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "막았다",
+              "roman": "mak-at-da",
+              "english": "blocked",
               "particle": false,
               "suffix": "았다"
             }
@@ -1161,91 +695,91 @@
         },
         {
           "stage": "now",
-          "english": "He is now the sixth Indian-American elected to the U.S. House.",
-          "korean": "그는 이제 미국 하원의 여섯 번째 인도계 의원이다.",
+          "english": "On November 6, lawsuits still challenged the project’s legality and design.",
+          "korean": "11월 6일 소송은 사업의 합법성과 설계를 계속 다퉜다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
-              "suffix": "는"
+              "suffix": "월"
             },
             {
-              "korean": "이제",
-              "roman": "ije",
-              "english": "now",
+              "korean": "6일",
+              "roman": "yuk-il",
+              "english": "6th",
               "particle": false,
-              "suffix": ""
+              "suffix": "일"
             },
             {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "U.S.",
+              "korean": "소송은",
+              "roman": "so-song-eun",
+              "english": "lawsuits",
               "particle": false,
-              "suffix": ""
+              "suffix": "은"
             },
             {
-              "korean": "하원의",
-              "roman": "hawon-ui",
-              "english": "House’s",
+              "korean": "사업의",
+              "roman": "sa-eop-ui",
+              "english": "project's",
               "particle": false,
               "suffix": "의"
             },
             {
-              "korean": "여섯",
-              "roman": "yeoseot",
-              "english": "sixth",
+              "korean": "합법성과",
+              "roman": "hap-beop-seong-gwa",
+              "english": "legality and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "설계를",
+              "roman": "seol-gye-reul",
+              "english": "design",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "계속",
+              "roman": "gye-sok",
+              "english": "still",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "번째",
-              "roman": "beonjjae",
-              "english": "ordinal",
+              "korean": "다퉜다",
+              "roman": "da-twot-da",
+              "english": "disputed",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "인도계",
-              "roman": "indogye",
-              "english": "Indian-American",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의원이다",
-              "roman": "uiwon-ida",
-              "english": "representative",
-              "particle": false,
-              "suffix": "이다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/amish-shah-claims-victory-in-arizona-sixth-indian-american-in-us-house/article71668702.ece",
-      "short_english": "Amish Shah won Arizona’s First Congressional District on November 4, 2026.",
-      "short_korean": "아미시 샤는 2026년 11월 4일 애리조나 1구에서 이겼다.",
-      "date": "2026-11-05",
+      "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece",
+      "short_english": "A federal panel approved Trump’s 250-foot Washington arch on November 5, 2026.",
+      "short_korean": "연방위원회는 2026년 11월 5일 트럼프의 250피트 개선문을 승인했다.",
+      "date": "2026-11-06",
       "images": [
-        "images/global/49d03d8c84c6/1.jpg",
-        "images/global/49d03d8c84c6/2.jpg",
-        "images/global/49d03d8c84c6/3.jpg",
-        "images/global/49d03d8c84c6/4.jpg",
-        "images/global/49d03d8c84c6/5.jpg",
-        "images/global/49d03d8c84c6/6.jpg",
-        "images/global/49d03d8c84c6/7.jpg",
-        "images/global/49d03d8c84c6/8.jpg",
-        "images/global/49d03d8c84c6/9.jpg",
-        "images/global/49d03d8c84c6/10.jpg",
-        "images/global/49d03d8c84c6/11.jpg",
-        "images/global/49d03d8c84c6/12.jpg",
-        "images/global/49d03d8c84c6/13.jpg",
-        "images/global/49d03d8c84c6/14.jpg",
-        "images/global/49d03d8c84c6/15.jpg"
+        "images/global/3fc9bc64e7b8/1.jpg",
+        "images/global/3fc9bc64e7b8/2.jpg",
+        "images/global/3fc9bc64e7b8/3.jpg",
+        "images/global/3fc9bc64e7b8/4.jpg",
+        "images/global/3fc9bc64e7b8/5.jpg",
+        "images/global/3fc9bc64e7b8/6.jpg",
+        "images/global/3fc9bc64e7b8/7.jpg",
+        "images/global/3fc9bc64e7b8/8.jpg",
+        "images/global/3fc9bc64e7b8/9.jpg",
+        "images/global/3fc9bc64e7b8/10.jpg",
+        "images/global/3fc9bc64e7b8/11.jpg",
+        "images/global/3fc9bc64e7b8/12.jpg",
+        "images/global/3fc9bc64e7b8/13.jpg",
+        "images/global/3fc9bc64e7b8/14.jpg",
+        "images/global/3fc9bc64e7b8/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/49d03d8c84c6/caption.txt"
+      "caption_file": "images/global/3fc9bc64e7b8/caption.txt"
     },
     {
       "category": "World",
@@ -1561,7 +1095,7 @@
       "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece",
       "short_english": "Suhas Subramanyam and Pia Dandiya won House seats on November 3.",
       "short_korean": "수하스 수브라마냠과 피아 단디야는 11월 3일 하원에 당선됐다.",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
       "images": [
         "images/global/5a722484cd3e/1.jpg",
         "images/global/5a722484cd3e/2.jpg",
@@ -1583,769 +1117,994 @@
     },
     {
       "category": "World",
-      "korean_title": "밴스, 공화당 패배에서 자기 길을 찾다",
-      "english_title": "Vance Blames Trump’s Iran War After Republican Rout",
-      "korean_desc": "그는 이란 전쟁, 물가, 미국의 우선순위를 지적했다. 그의 주장은 트럼프와 거리를 두면서 미국 우선 정치에 남았다. 패배는 2028년 공화당 후보 경쟁 전 밴스의 입지를 강화했다. 다음 싸움은 공화당이 밴스와 트럼프 중 누구를 따를지다.",
-      "english_desc": "He singled out the Iran war, living costs and America’s priorities. His argument publicly separated him from Trump while staying inside America First politics. The loss strengthened Vance’s position before the 2028 Republican nomination contest. The next fight is whether Republicans follow Vance or defend Trump’s direction.",
-      "hook": "Vance blamed Trump’s policies for the Republican rout.",
-      "sticker": "A party at crossroads",
-      "korean_hook": "밴스가 공화당 패배를 트럼프 정책 탓으로 돌렸다",
-      "takeaway_english": "Vance’s break from Trump may be the beginning of a new Republican succession fight.",
-      "takeaway_korean": "밴스의 거리두기는 공화당 후계 경쟁의 시작일 수 있다.",
+      "korean_title": "인도의 고전 3종, 유네스코 등재",
+      "english_title": "Three Indian Classics Join UNESCO’s Memory Register",
+      "korean_desc": "유네스코는 2026년 11월 5일 세 문헌을 등재했다. 작품들은 인도의 문학과 통치와 철학과 역사를 대표한다. 인디라 간디 센터가 신청서를 준비했고 자카르타에서 결정됐다. 인도는 이제 지역 목록에 여섯 건을 보유한다.",
+      "english_desc": "UNESCO added Mahabharata, Arthashastra, and Rajatarangini manuscripts on November 5, 2026. The works represent Indian literature, statecraft, philosophy, and historical writing. IGNCA prepared nomination files, and the decision came at a Jakarta session. India now has six inscriptions in the regional register.",
+      "hook": "Three Indian manuscripts gained UNESCO recognition.",
+      "sticker": "Old books, new spotlight",
+      "korean_hook": "인도 문헌 3종이 유네스코에 올랐다",
+      "takeaway_english": "The listing gives three famous works a wider regional audience, while preservation work continues.",
+      "takeaway_korean": "등재로 세 작품은 더 넓은 독자를 얻었고 보존 작업은 계속된다.",
       "why_it_matters": [
         {
-          "english": "The dispute could shape Republican leadership before the 2028 presidential race.",
-          "korean": "논쟁은 2028년 대선 전 공화당 지도부를 바꿀 수 있다."
+          "english": "Recognition can increase attention to fragile manuscripts and their preservation.",
+          "korean": "인정은 오래된 문헌 보존에 대한 관심을 높일 수 있다."
         },
         {
-          "english": "War and living costs are now tied directly to the party’s election problem.",
-          "korean": "전쟁과 물가가 공화당 선거 문제와 직접 연결됐다."
+          "english": "The works connect literature, government, philosophy, and regional history.",
+          "korean": "이 작품들은 문학과 정부와 철학과 지역사를 연결한다."
         }
       ],
       "parties": [
         {
-          "label": "J.D. Vance",
-          "english": "He said the administration abandoned America First politics and blamed the Iran war.",
-          "korean": "밴스는 행정부가 미국 우선 정치를 버렸다고 했다."
+          "label": "UNESCO",
+          "english": "It added three Indian manuscript collections to its Asia-Pacific regional register.",
+          "korean": "유네스코는 인도 문헌 세 가지를 아시아태평양 지역 등재 목록에 추가했다."
         },
         {
-          "label": "Donald Trump",
-          "english": "His policies and war with Iran became targets of Republican criticism after the losses.",
-          "korean": "트럼프의 정책과 이란 전쟁이 공화당 비판을 받았다."
+          "label": "India’s culture ministry",
+          "english": "It called the recognition a landmark for India’s documentary heritage.",
+          "korean": "인도 문화부는 이번 인정을 기록 유산의 중요한 성과라고 불렀다."
         },
         {
-          "label": "Marco Rubio",
-          "english": "The Republican rout weakened his prospects as a possible 2028 nominee.",
-          "korean": "공화당 패배로 루비오의 2028년 가능성이 약해졌다."
+          "label": "IGNCA",
+          "english": "It helped prepare the nomination files for all three works.",
+          "korean": "인디라 간디 국립예술센터는 세 작품의 신청서를 준비하는 데 참여했다."
         }
       ],
       "views": [
         {
-          "label": "J.D. Vance",
-          "english": "He argued that war, living costs and misplaced priorities drove voters away.",
-          "korean": "밴스는 전쟁과 물가가 유권자를 떠나게 했다고 봤다."
+          "label": "Indian officials",
+          "english": "They say the manuscripts show India’s traditions of history, philosophy, ethics, and governance.",
+          "korean": "인도 관리들은 문헌들이 역사와 철학과 윤리와 통치 전통을 보여준다고 말한다."
         },
         {
-          "label": "Other Republicans",
-          "english": "Some Republicans may see the result as a broader rejection of Trump’s leadership.",
-          "korean": "일부 공화당원은 트럼프 지도력의 거부로 본다."
+          "label": "UNESCO register perspective",
+          "english": "The register recognizes documentary heritage with regional or wider historical importance.",
+          "korean": "이 목록은 지역적 또는 더 넓은 역사적 가치가 있는 기록 유산을 인정한다."
         }
       ],
       "disagree": {
-        "english": "Others may argue that Democrats benefited from normal midterm backlash, not only Republican policy failures.",
-        "korean": "다른 사람들은 민주당이 중간선거 역풍의 도움을 받았다고 말할 수 있다."
+        "english": "The recognition is important, but it does not by itself settle every debate about history or interpretation.",
+        "korean": "인정은 중요하지만 역사와 해석에 관한 모든 논쟁을 끝내지는 않는다."
       },
-      "reader_question_korean": "밴스는 다른 공화당 정체성을 만들 수 있습니까?",
+      "reader_question_korean": "어떤 옛 문헌을 먼저 보존하고 싶나요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Vance eyes own trail in America First politics in Republican rout",
-      "hook_format": "headline",
+      "source_title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
+      "hook_format": "number",
       "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
+      "format_data": {
+        "number": {
+          "value": "three",
+          "label": "Indian manuscripts",
+          "korean_label": "인도 문헌"
+        }
+      },
       "serious": false,
       "caption_lines": [
-        "Vance spoke after the November 3, 2026 midterms.",
-        "The next Republican presidential nomination is expected in 2028."
+        "The decision came at a Jakarta meeting on November 5, 2026.",
+        "India now has six inscriptions in the regional register.",
+        "The collections are held in Pune, Mysuru, and Srinagar."
       ],
-      "reader_question": "Can Vance build a different Republican identity?",
-      "topic_tag": "Politics",
+      "reader_question": "Which old text would you preserve first?",
+      "topic_tag": "Heritage",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Vance eyes own trail in America First politics in Republican rout",
-          "date": "2026-11-05",
-          "url": "https://www.thehindu.com/news/international/vance-eyes-own-trail-in-america-first-politics-in-republican-rout/article71668793.ece"
+          "title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
+          "date": "2026-11-06",
+          "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "그는",
-          "roman": "geuneun",
-          "english": "he",
+          "korean": "유네스코는",
+          "roman": "yu-ne-seu-ko-neun",
+          "english": "UNESCO",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "이란",
-          "roman": "iran",
-          "english": "Iran",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "전쟁,",
-          "roman": "jeonjaeng",
-          "english": "war",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "물가,",
-          "roman": "mulga",
-          "english": "living costs",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "미국의",
-          "roman": "migug-ui",
-          "english": "America’s",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "우선순위를",
-          "roman": "useonsunwireul",
-          "english": "priorities",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "지적했다",
-          "roman": "jijeokhaetda",
-          "english": "pointed out",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "why",
-          "english": "He singled out the Iran war, living costs and America’s priorities.",
-          "korean": "그는 이란 전쟁, 물가, 미국의 우선순위를 지적했다.",
-          "glossary": [
-            {
-              "korean": "그는",
-              "roman": "geuneun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "이란",
-              "roman": "iran",
-              "english": "Iran",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전쟁,",
-              "roman": "jeonjaeng",
-              "english": "war",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "물가,",
-              "roman": "mulga",
-              "english": "living costs",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "미국의",
-              "roman": "migug-ui",
-              "english": "America’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "우선순위를",
-              "roman": "useonsunwireul",
-              "english": "priorities",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "지적했다",
-              "roman": "jijeokhaetda",
-              "english": "pointed out",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "His argument publicly separated him from Trump while staying inside America First politics.",
-          "korean": "그의 주장은 트럼프와 거리를 두면서 미국 우선 정치에 남았다.",
-          "glossary": [
-            {
-              "korean": "그의",
-              "roman": "geu-ui",
-              "english": "his",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "주장은",
-              "roman": "jujangeun",
-              "english": "argument",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "트럼프와",
-              "roman": "teureompeuwa",
-              "english": "from Trump",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "거리를",
-              "roman": "georireul",
-              "english": "distance",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "두면서",
-              "roman": "dumyeonseo",
-              "english": "while keeping",
-              "particle": false,
-              "suffix": "면서"
-            },
-            {
-              "korean": "미국",
-              "roman": "miguk",
-              "english": "America",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "우선",
-              "roman": "useon",
-              "english": "first",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정치에",
-              "roman": "jeongchie",
-              "english": "in politics",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "남았다",
-              "roman": "namatda",
-              "english": "remained",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The loss strengthened Vance’s position before the 2028 Republican nomination contest.",
-          "korean": "패배는 2028년 공화당 후보 경쟁 전 밴스의 입지를 강화했다.",
-          "glossary": [
-            {
-              "korean": "패배는",
-              "roman": "paebaeneun",
-              "english": "the loss",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2028년",
-              "roman": "icheon-isipsipalnyeon",
-              "english": "in 2028",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "공화당",
-              "roman": "gonghwadang",
-              "english": "Republican",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "후보",
-              "roman": "hubo",
-              "english": "candidate",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "경쟁",
-              "roman": "gyeongjaeng",
-              "english": "contest",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전",
-              "roman": "jeon",
-              "english": "before",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "밴스의",
-              "roman": "baenseu-ui",
-              "english": "Vance’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "입지를",
-              "roman": "ipjireul",
-              "english": "position",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "강화했다",
-              "roman": "ganghwahaetda",
-              "english": "strengthened",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The next fight is whether Republicans follow Vance or defend Trump’s direction.",
-          "korean": "다음 싸움은 공화당이 밴스와 트럼프 중 누구를 따를지다.",
-          "glossary": [
-            {
-              "korean": "다음",
-              "roman": "daeum",
-              "english": "next",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "싸움은",
-              "roman": "ssaumeun",
-              "english": "fight",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "공화당이",
-              "roman": "gonghwadangi",
-              "english": "Republicans",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "밴스와",
-              "roman": "baenseuwa",
-              "english": "Vance and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "트럼프",
-              "roman": "teureompeu",
-              "english": "Trump",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "중",
-              "roman": "jung",
-              "english": "between",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "누구를",
-              "roman": "nugureul",
-              "english": "whom",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "따를지다",
-              "roman": "tareuljida",
-              "english": "will follow",
-              "particle": false,
-              "suffix": "지다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/vance-eyes-own-trail-in-america-first-politics-in-republican-rout/article71668793.ece",
-      "short_english": "He singled out the Iran war, living costs and America’s priorities.",
-      "short_korean": "그는 이란 전쟁, 물가, 미국의 우선순위를 지적했다.",
-      "date": "2026-11-05",
-      "images": [
-        "images/global/01eb75728ebe/1.jpg",
-        "images/global/01eb75728ebe/2.jpg",
-        "images/global/01eb75728ebe/3.jpg",
-        "images/global/01eb75728ebe/4.jpg",
-        "images/global/01eb75728ebe/5.jpg",
-        "images/global/01eb75728ebe/6.jpg",
-        "images/global/01eb75728ebe/7.jpg",
-        "images/global/01eb75728ebe/8.jpg",
-        "images/global/01eb75728ebe/9.jpg",
-        "images/global/01eb75728ebe/10.jpg",
-        "images/global/01eb75728ebe/11.jpg",
-        "images/global/01eb75728ebe/12.jpg",
-        "images/global/01eb75728ebe/13.jpg",
-        "images/global/01eb75728ebe/14.jpg",
-        "images/global/01eb75728ebe/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/01eb75728ebe/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "민주당, 미국 의회 장악",
-      "english_title": "Democrats Take Congress After Trump’s Midterm Defeat",
-      "korean_desc": "민주당은 2026년 11월 3일 양원을 이겼다. 유권자들은 생활비와 연료비, 이란 전쟁에 화났다. 민주당은 캔자스와 텍사스에서도 의석을 뒤집었다. 11월 4일 현재 최종 투표율은 불확실했다.",
-      "english_desc": "Democrats won the House and Senate on November 3, 2026. Voters were angry about living costs, fuel prices and the Iran war. Democrats flipped seats in traditionally Republican states, including Kansas and Texas. As of November 4, final turnout and the House majority size remained unclear.",
-      "hook": "Democrats won both chambers after a sweeping upset.",
-      "sticker": "A Washington power shift",
-      "korean_hook": "민주당이 양원을 모두 차지했다",
-      "takeaway_english": "The result shifts Washington from one-party control toward open confrontation.",
-      "takeaway_korean": "이번 결과로 워싱턴의 대립이 커질 전망이다.",
-      "why_it_matters": [
-        {
-          "english": "Congress can now block parts of the president’s agenda.",
-          "korean": "의회는 대통령 정책 일부를 막을 수 있다."
-        },
-        {
-          "english": "Investigations into the administration may become more likely.",
-          "korean": "정부 조사가 더 많아질 수 있다."
-        },
-        {
-          "english": "High prices and fuel costs shaped a major national vote.",
-          "korean": "높은 물가와 연료비가 전국 선거를 좌우했다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Democrats",
-          "english": "They gained control of both the House and Senate.",
-          "korean": "민주당은 하원과 상원을 장악했다."
-        },
-        {
-          "label": "Donald Trump",
-          "english": "His party lost control after voters focused on prices, war and corruption concerns.",
-          "korean": "트럼프의 당은 물가와 전쟁 문제로 패했다."
-        },
-        {
-          "label": "American voters",
-          "english": "Their votes created a stronger check on the president’s agenda.",
-          "korean": "미국 유권자들은 대통령 견제를 강화했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Associated Press",
-          "english": "Young and Hispanic voters helped Democrats break through in Republican-leaning areas.",
-          "korean": "젊은층과 라틴계 유권자가 민주당을 도왔다."
-        },
-        {
-          "label": "Axios",
-          "english": "Cost of living and corruption were leading concerns, alongside the Iran war.",
-          "korean": "생활비와 부패, 이란 전쟁이 주요 걱정이었다."
-        }
-      ],
-      "disagree": {
-        "english": "Some Republicans may argue the result reflected local races more than a national judgment on Trump.",
-        "korean": "일부 공화당원은 지역 선거 결과라고 주장할 수 있다."
-      },
-      "reader_question_korean": "중간선거는 대통령을 심판해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "U.S. midterm election results 2026: Full list of winners",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Voting took place on November 3, 2026.",
-        "Final turnout figures were not yet available."
-      ],
-      "reader_question": "Should midterm elections mainly judge the president?",
-      "topic_tag": "Election",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "U.S. midterm election results 2026: Full list of winners",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/news/international/us-mid-term-election-poll-results-2026-full-list-of-winners/article71663723.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "민주당은",
-          "roman": "minjudang-eun",
-          "english": "Democrats",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
           "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
           "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sibir-wol",
+          "roman": "sip-il-wol",
           "english": "November",
           "particle": false,
           "suffix": "월"
         },
         {
-          "korean": "3일",
-          "roman": "sam-il",
-          "english": "the 3rd",
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "5th",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "양원을",
-          "roman": "yangwon-eul",
-          "english": "both chambers",
+          "korean": "세",
+          "roman": "se",
+          "english": "three",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "문헌을",
+          "roman": "mun-heon-eul",
+          "english": "manuscripts",
           "particle": false,
           "suffix": "을"
         },
         {
-          "korean": "이겼다",
-          "roman": "igyeotda",
-          "english": "won",
+          "korean": "등재했다",
+          "roman": "deung-jae-haet-da",
+          "english": "listed",
           "particle": false,
-          "suffix": ""
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Democrats won the House and Senate on November 3, 2026.",
-          "korean": "민주당은 2026년 11월 3일 양원을 이겼다.",
+          "english": "UNESCO added Mahabharata, Arthashastra, and Rajatarangini manuscripts on November 5, 2026.",
+          "korean": "유네스코는 2026년 11월 5일 세 문헌을 등재했다.",
           "glossary": [
             {
-              "korean": "민주당은",
-              "roman": "minjudang-eun",
-              "english": "Democrats",
+              "korean": "유네스코는",
+              "roman": "yu-ne-seu-ko-neun",
+              "english": "UNESCO",
               "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
               "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sibir-wol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
-              "korean": "3일",
-              "roman": "sam-il",
-              "english": "the 3rd",
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "5th",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "양원을",
-              "roman": "yangwon-eul",
-              "english": "both chambers",
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "문헌을",
+              "roman": "mun-heon-eul",
+              "english": "manuscripts",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "이겼다",
-              "roman": "igyeotda",
-              "english": "won",
+              "korean": "등재했다",
+              "roman": "deung-jae-haet-da",
+              "english": "listed",
               "particle": false,
-              "suffix": ""
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "Voters were angry about living costs, fuel prices and the Iran war.",
-          "korean": "유권자들은 생활비와 연료비, 이란 전쟁에 화났다.",
+          "english": "The works represent Indian literature, statecraft, philosophy, and historical writing.",
+          "korean": "작품들은 인도의 문학과 통치와 철학과 역사를 대표한다.",
           "glossary": [
             {
-              "korean": "유권자들은",
-              "roman": "yugwonjadeul-eun",
-              "english": "voters",
+              "korean": "작품들은",
+              "roman": "jak-pum-deul-eun",
+              "english": "the works",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "생활비와",
-              "roman": "saenghwalbi-wa",
-              "english": "living costs and",
+              "korean": "인도의",
+              "roman": "in-do-ui",
+              "english": "Indian",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "문학과",
+              "roman": "mun-hak-gwa",
+              "english": "literature and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "통치와",
+              "roman": "tong-chi-wa",
+              "english": "governance and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "연료비,",
-              "roman": "yeonryobi",
-              "english": "fuel prices",
+              "korean": "철학과",
+              "roman": "cheol-hak-gwa",
+              "english": "philosophy and",
               "particle": false,
-              "suffix": ""
+              "suffix": "과"
             },
             {
-              "korean": "이란",
-              "roman": "iran",
-              "english": "Iran",
+              "korean": "역사를",
+              "roman": "yeok-sa-reul",
+              "english": "history",
               "particle": false,
-              "suffix": ""
+              "suffix": "를"
             },
             {
-              "korean": "전쟁에",
-              "roman": "jeonjaeng-e",
-              "english": "about the war",
+              "korean": "대표한다",
+              "roman": "dae-pyo-han-da",
+              "english": "represent",
               "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "화났다",
-              "roman": "hwanatda",
-              "english": "were angry",
-              "particle": false,
-              "suffix": ""
+              "suffix": "한다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Democrats flipped seats in traditionally Republican states, including Kansas and Texas.",
-          "korean": "민주당은 캔자스와 텍사스에서도 의석을 뒤집었다.",
+          "english": "IGNCA prepared nomination files, and the decision came at a Jakarta session.",
+          "korean": "인디라 간디 센터가 신청서를 준비했고 자카르타에서 결정됐다.",
           "glossary": [
             {
-              "korean": "민주당은",
-              "roman": "minjudang-eun",
-              "english": "Democrats",
+              "korean": "인디라",
+              "roman": "in-di-ra",
+              "english": "Indira",
               "particle": false,
-              "suffix": "은"
+              "suffix": ""
             },
             {
-              "korean": "캔자스와",
-              "roman": "kaenjaseu-wa",
-              "english": "Kansas and",
+              "korean": "간디",
+              "roman": "gan-di",
+              "english": "Gandhi",
               "particle": false,
-              "suffix": "와"
+              "suffix": ""
             },
             {
-              "korean": "텍사스에서도",
-              "roman": "tegsaseu-eseodo",
-              "english": "also in Texas",
+              "korean": "센터가",
+              "roman": "sen-teo-ga",
+              "english": "center",
               "particle": false,
-              "suffix": "에서도"
+              "suffix": "가"
             },
             {
-              "korean": "의석을",
-              "roman": "uiseog-eul",
-              "english": "seats",
+              "korean": "신청서를",
+              "roman": "sin-cheong-seo-reul",
+              "english": "nomination files",
               "particle": false,
-              "suffix": "을"
+              "suffix": "를"
             },
             {
-              "korean": "뒤집었다",
-              "roman": "dwijeobeotda",
-              "english": "flipped",
+              "korean": "준비했고",
+              "roman": "jun-bi-haet-go",
+              "english": "prepared",
               "particle": false,
-              "suffix": "었다"
+              "suffix": "했고"
+            },
+            {
+              "korean": "자카르타에서",
+              "roman": "ja-ka-reu-ta-e-seo",
+              "english": "in Jakarta",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "결정됐다",
+              "roman": "gyeol-jeong-dwaet-da",
+              "english": "was decided",
+              "particle": false,
+              "suffix": "됐다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "As of November 4, final turnout and the House majority size remained unclear.",
-          "korean": "11월 4일 현재 최종 투표율은 불확실했다.",
+          "english": "India now has six inscriptions in the regional register.",
+          "korean": "인도는 이제 지역 목록에 여섯 건을 보유한다.",
+          "glossary": [
+            {
+              "korean": "인도는",
+              "roman": "in-do-neun",
+              "english": "India",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "이제",
+              "roman": "i-je",
+              "english": "now",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역",
+              "roman": "ji-yeok",
+              "english": "regional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "목록에",
+              "roman": "mok-rok-e",
+              "english": "in the register",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "여섯",
+              "roman": "yeo-seot",
+              "english": "six",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "건을",
+              "roman": "geon-eul",
+              "english": "entries",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "보유한다",
+              "roman": "bo-yu-han-da",
+              "english": "has",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece",
+      "short_english": "UNESCO added Mahabharata, Arthashastra, and Rajatarangini manuscripts on November 5, 2026.",
+      "short_korean": "유네스코는 2026년 11월 5일 세 문헌을 등재했다.",
+      "date": "2026-11-06",
+      "images": [
+        "images/global/3e8630258193/1.jpg",
+        "images/global/3e8630258193/2.jpg",
+        "images/global/3e8630258193/3.jpg",
+        "images/global/3e8630258193/4.jpg",
+        "images/global/3e8630258193/5.jpg",
+        "images/global/3e8630258193/6.jpg",
+        "images/global/3e8630258193/7.jpg",
+        "images/global/3e8630258193/8.jpg",
+        "images/global/3e8630258193/9.jpg",
+        "images/global/3e8630258193/10.jpg",
+        "images/global/3e8630258193/11.jpg",
+        "images/global/3e8630258193/12.jpg",
+        "images/global/3e8630258193/13.jpg",
+        "images/global/3e8630258193/14.jpg",
+        "images/global/3e8630258193/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/3e8630258193/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "트럼프, 백악관 디파발리 행사 참석",
+      "english_title": "Trump Brings Deepavali Back to the Oval Office",
+      "korean_desc": "이 행사는 조지 W. 부시가 시작한 전통을 잇는다. 버락 오바마는 2009년 백악관에서 처음 디야를 밝혔다. 그 뒤 행사는 백악관 여러 방에서 열렸다.",
+      "english_desc": "The celebration continues a tradition started by President George W. Bush. Barack Obama first lit a diya at the White House in 2009. Since then, ceremonies have moved among several White House rooms.",
+      "hook": "Trump will join a White House Deepavali celebration.",
+      "sticker": "Lights at the White House",
+      "korean_hook": "트럼프가 백악관 디파발리를 함께 기념한다",
+      "takeaway_english": "The lamp-lighting tradition keeps Deepavali visible in American public life.",
+      "takeaway_korean": "등불 점화 전통은 미국 공공생활에서 디파발리를 계속 보이게 한다.",
+      "why_it_matters": [
+        {
+          "english": "National ceremonies show which communities and traditions receive public recognition.",
+          "korean": "국가 행사는 어떤 공동체와 전통이 공식 인정을 받는지 보여준다."
+        },
+        {
+          "english": "The event continues a White House practice begun under George W. Bush.",
+          "korean": "이번 행사는 조지 W. 부시 때 시작된 백악관 관행을 이어간다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Donald Trump",
+          "english": "He is scheduled to participate in Friday’s White House celebration.",
+          "korean": "그는 금요일 백악관 행사에 참석할 예정이다."
+        },
+        {
+          "label": "Indian-American community",
+          "english": "Its members and Indian diplomats have joined earlier White House ceremonies.",
+          "korean": "인도계 미국인들과 인도 외교관들은 이전 백악관 행사에 참석했다."
+        },
+        {
+          "label": "Barack Obama",
+          "english": "He became the first president to light a diya at the White House in 2009.",
+          "korean": "그는 2009년 백악관에서 처음으로 디야에 불을 켠 대통령이었다."
+        }
+      ],
+      "views": [
+        {
+          "label": "White House tradition",
+          "english": "Supporters see the ceremony as a continuing presidential tradition honoring Deepavali.",
+          "korean": "지지자들은 이 행사를 디파발리를 기리는 대통령 전통으로 본다."
+        },
+        {
+          "label": "Cultural perspective",
+          "english": "The ceremony gives Indian-American communities and diplomats a visible place at the White House.",
+          "korean": "이 행사는 인도계 미국인 공동체와 외교관들에게 백악관의 visible한 자리를 준다."
+        }
+      ],
+      "disagree": {
+        "english": "A ceremony can recognize a community while still leaving wider policy questions unanswered.",
+        "korean": "행사는 공동체를 인정하면서도 더 큰 정책 질문은 남길 수 있다."
+      },
+      "reader_question_korean": "공식 기념행사를 의미 있게 만드는 것은 무엇일까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"The celebration continues a tradition started by P\" may be missing president"
+      ],
+      "source_title": "Trump to participate in Deepavali celebration at White House",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "The celebration is scheduled for November 6, 2026.",
+        "Deepavali is also called Diwali.",
+        "Last year, Ambassador Vinay Kwatra joined Trump."
+      ],
+      "reader_question": "What makes a public holiday ceremony meaningful?",
+      "topic_tag": "Culture",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Trump to participate in Deepavali celebration at White House",
+          "date": "2026-11-06",
+          "url": "https://www.thehindu.com/news/international/trump-to-participate-in-deepavali-celebration-at-white-house/article71673084.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "이",
+          "roman": "i",
+          "english": "this",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "행사는",
+          "roman": "haeng-sa-neun",
+          "english": "celebration",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "조지",
+          "roman": "jo-ji",
+          "english": "George",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "W.",
+          "roman": "W",
+          "english": "W.",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "부시가",
+          "roman": "bu-si-ga",
+          "english": "Bush",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "시작한",
+          "roman": "si-jak-han",
+          "english": "started",
+          "particle": false,
+          "suffix": "한"
+        },
+        {
+          "korean": "전통을",
+          "roman": "jeon-tong-eul",
+          "english": "tradition",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "잇는다",
+          "roman": "it-neun-da",
+          "english": "continues",
+          "particle": false,
+          "suffix": "는다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "The celebration continues a tradition started by President George W. Bush.",
+          "korean": "이 행사는 조지 W. 부시가 시작한 전통을 잇는다.",
+          "glossary": [
+            {
+              "korean": "이",
+              "roman": "i",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행사는",
+              "roman": "haeng-sa-neun",
+              "english": "celebration",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "조지",
+              "roman": "jo-ji",
+              "english": "George",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "W.",
+              "roman": "W",
+              "english": "W.",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "부시가",
+              "roman": "bu-si-ga",
+              "english": "Bush",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "시작한",
+              "roman": "si-jak-han",
+              "english": "started",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "전통을",
+              "roman": "jeon-tong-eul",
+              "english": "tradition",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "잇는다",
+              "roman": "it-neun-da",
+              "english": "continues",
+              "particle": false,
+              "suffix": "는다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Barack Obama first lit a diya at the White House in 2009.",
+          "korean": "버락 오바마는 2009년 백악관에서 처음 디야를 밝혔다.",
+          "glossary": [
+            {
+              "korean": "버락",
+              "roman": "beo-rak",
+              "english": "Barack",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "오바마는",
+              "roman": "o-ba-ma-neun",
+              "english": "Obama",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2009년",
+              "roman": "i-cheon-gu-nyeon",
+              "english": "in 2009",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "백악관에서",
+              "roman": "baeg-ak-gwan-e-seo",
+              "english": "at the White House",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "처음",
+              "roman": "cheo-eum",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "디야를",
+              "roman": "di-ya-reul",
+              "english": "diya",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "밝혔다",
+              "roman": "bal-kyeot-da",
+              "english": "lit",
+              "particle": false,
+              "suffix": "혔다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Since then, ceremonies have moved among several White House rooms.",
+          "korean": "그 뒤 행사는 백악관 여러 방에서 열렸다.",
+          "glossary": [
+            {
+              "korean": "그",
+              "roman": "geu",
+              "english": "that",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행사는",
+              "roman": "haeng-sa-neun",
+              "english": "ceremonies",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "백악관",
+              "roman": "baeg-ak-gwan",
+              "english": "White House",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여러",
+              "roman": "yeo-reo",
+              "english": "several",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방에서",
+              "roman": "bang-e-seo",
+              "english": "in rooms",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "열렸다",
+              "roman": "yeol-lyeot-da",
+              "english": "were held",
+              "particle": false,
+              "suffix": "렸다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/trump-to-participate-in-deepavali-celebration-at-white-house/article71673084.ece",
+      "short_english": "The celebration continues a tradition started by President George W. Bush.",
+      "short_korean": "이 행사는 조지 W. 부시가 시작한 전통을 잇는다.",
+      "date": "2026-11-06",
+      "images": [
+        "images/global/d33e30cd1524/1.jpg",
+        "images/global/d33e30cd1524/2.jpg",
+        "images/global/d33e30cd1524/3.jpg",
+        "images/global/d33e30cd1524/4.jpg",
+        "images/global/d33e30cd1524/5.jpg",
+        "images/global/d33e30cd1524/6.jpg",
+        "images/global/d33e30cd1524/7.jpg",
+        "images/global/d33e30cd1524/8.jpg",
+        "images/global/d33e30cd1524/9.jpg",
+        "images/global/d33e30cd1524/10.jpg",
+        "images/global/d33e30cd1524/11.jpg",
+        "images/global/d33e30cd1524/12.jpg",
+        "images/global/d33e30cd1524/13.jpg",
+        "images/global/d33e30cd1524/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/d33e30cd1524/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "네팔 훔라에 규모 4.2 지진",
+      "english_title": "A 4.2 Earthquake Shakes Nepal’s Humla District",
+      "korean_desc": "인근 무구와 바장 지역에서도 흔들림이 느껴졌다. 11월 6일 당국은 즉시 피해가 없다고 발표했다.",
+      "english_desc": "Tremors were felt in neighbouring Mugu and Bajhang districts. On November 6, officials reported no immediate damage.",
+      "hook": "A 4.2 earthquake struck Nepal’s Humla district.",
+      "sticker": "What the ground did",
+      "korean_hook": "네팔 훔라에 규모 4.2 지진이 났다",
+      "takeaway_english": "Officials reported no immediate damage, but monitoring continued after the morning tremor.",
+      "takeaway_korean": "당국은 즉시 피해가 없다고 했지만 감시는 계속됐다.",
+      "why_it_matters": [
+        {
+          "english": "People need accurate updates when communication from mountain districts is difficult.",
+          "korean": "산악 지역의 통신이 어려울 때 정확한 소식이 필요하다."
+        },
+        {
+          "english": "Even a smaller tremor can remind communities about earthquake readiness.",
+          "korean": "작은 흔들림도 지역사회의 지진 대비를 일깨울 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "National Earthquake Monitoring and Research Centre",
+          "english": "It recorded the earthquake at 7:10 a.m. on November 6, 2026.",
+          "korean": "국립 지진 감시연구센터는 2026년 11월 6일 오전 7시 10분 지진을 기록했다."
+        },
+        {
+          "label": "Humla residents",
+          "english": "People in Humla and nearby districts felt the tremors.",
+          "korean": "훔라와 인근 지역 사람들이 흔들림을 느꼈다."
+        },
+        {
+          "label": "Nepal",
+          "english": "The country continues monitoring for further reports or aftershocks.",
+          "korean": "네팔은 추가 보고나 여진을 계속 감시하고 있다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Official monitoring centre",
+          "english": "The centre reported a 4.2 earthquake at 7:10 a.m. in Humla.",
+          "korean": "센터는 훔라에서 오전 7시 10분 규모 4.2 지진을 발표했다."
+        },
+        {
+          "label": "Local reporting",
+          "english": "Local coverage said the tremor was felt nearby and no damage was reported initially.",
+          "korean": "현지 보도는 주변에서 흔들림을 느꼈지만 처음에는 피해가 없었다고 전했다."
+        }
+      ],
+      "disagree": {
+        "english": "Early reports can change because remote areas may send damage information slowly.",
+        "korean": "외딴 지역에서는 피해 정보가 늦게 와 초기 보고가 바뀔 수 있다."
+      },
+      "reader_question_korean": "외딴 지역은 지진에 어떻게 대비해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Magnitude 4.2 earthquake strikes Nepal's Humla district",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "The earthquake occurred in Karnali Province.",
+        "Tremors were felt in Mugu and Bajhang.",
+        "Humla is about 700 kilometers northwest of Kathmandu."
+      ],
+      "reader_question": "How should remote communities prepare for earthquakes?",
+      "topic_tag": "Earthquake",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Magnitude 4.2 earthquake strikes Nepal's Humla district",
+          "date": "2026-11-06",
+          "url": "https://www.thehindu.com/news/international/nepal-humla-earthquake-updates-on-november-6-2026/article71673185.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "인근",
+          "roman": "in-geun",
+          "english": "nearby",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "무구와",
+          "roman": "mu-gu-wa",
+          "english": "Mugu and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "바장",
+          "roman": "ba-jang",
+          "english": "Bajhang",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "지역에서도",
+          "roman": "ji-yeok-e-seo-do",
+          "english": "in districts too",
+          "particle": false,
+          "suffix": "에서도"
+        },
+        {
+          "korean": "흔들림이",
+          "roman": "heun-deul-lim-i",
+          "english": "tremors",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "느껴졌다",
+          "roman": "neu-kyeo-jyeot-da",
+          "english": "were felt",
+          "particle": false,
+          "suffix": "졌다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "how",
+          "english": "Tremors were felt in neighbouring Mugu and Bajhang districts.",
+          "korean": "인근 무구와 바장 지역에서도 흔들림이 느껴졌다.",
+          "glossary": [
+            {
+              "korean": "인근",
+              "roman": "in-geun",
+              "english": "nearby",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "무구와",
+              "roman": "mu-gu-wa",
+              "english": "Mugu and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "바장",
+              "roman": "ba-jang",
+              "english": "Bajhang",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "지역에서도",
+              "roman": "ji-yeok-e-seo-do",
+              "english": "in districts too",
+              "particle": false,
+              "suffix": "에서도"
+            },
+            {
+              "korean": "흔들림이",
+              "roman": "heun-deul-lim-i",
+              "english": "tremors",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "느껴졌다",
+              "roman": "neu-kyeo-jyeot-da",
+              "english": "were felt",
+              "particle": false,
+              "suffix": "졌다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On November 6, officials reported no immediate damage.",
+          "korean": "11월 6일 당국은 즉시 피해가 없다고 발표했다.",
           "glossary": [
             {
               "korean": "11월",
-              "roman": "sibir-wol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
-              "korean": "4일",
-              "roman": "sa-il",
-              "english": "the 4th",
+              "korean": "6일",
+              "roman": "yuk-il",
+              "english": "6th",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "현재",
-              "roman": "hyeonjae",
-              "english": "as of",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "최종",
-              "roman": "choejong",
-              "english": "final",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "투표율은",
-              "roman": "tupyoyul-eun",
-              "english": "turnout",
+              "korean": "당국은",
+              "roman": "dang-gug-eun",
+              "english": "officials",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "불확실했다",
-              "roman": "bulhwaksilhaetda",
-              "english": "was unclear",
+              "korean": "즉시",
+              "roman": "jeuk-si",
+              "english": "immediate",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "피해가",
+              "roman": "pi-hae-ga",
+              "english": "damage",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "없다고",
+              "roman": "eop-da-go",
+              "english": "none",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "발표했다",
+              "roman": "bal-pyo-haet-da",
+              "english": "reported",
               "particle": false,
               "suffix": "했다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/us-mid-term-election-poll-results-2026-full-list-of-winners/article71663723.ece",
-      "short_english": "Democrats won the House and Senate on November 3, 2026.",
-      "short_korean": "민주당은 2026년 11월 3일 양원을 이겼다.",
-      "date": "2026-11-05",
+      "url": "https://www.thehindu.com/news/international/nepal-humla-earthquake-updates-on-november-6-2026/article71673185.ece",
+      "short_english": "Tremors were felt in neighbouring Mugu and Bajhang districts.",
+      "short_korean": "인근 무구와 바장 지역에서도 흔들림이 느껴졌다.",
+      "date": "2026-11-06",
       "images": [
-        "images/global/3c8fa8d66ffe/1.jpg",
-        "images/global/3c8fa8d66ffe/2.jpg",
-        "images/global/3c8fa8d66ffe/3.jpg",
-        "images/global/3c8fa8d66ffe/4.jpg",
-        "images/global/3c8fa8d66ffe/5.jpg",
-        "images/global/3c8fa8d66ffe/6.jpg",
-        "images/global/3c8fa8d66ffe/7.jpg",
-        "images/global/3c8fa8d66ffe/8.jpg",
-        "images/global/3c8fa8d66ffe/9.jpg",
-        "images/global/3c8fa8d66ffe/10.jpg",
-        "images/global/3c8fa8d66ffe/11.jpg",
-        "images/global/3c8fa8d66ffe/12.jpg",
-        "images/global/3c8fa8d66ffe/13.jpg",
-        "images/global/3c8fa8d66ffe/14.jpg",
-        "images/global/3c8fa8d66ffe/15.jpg",
-        "images/global/3c8fa8d66ffe/16.jpg"
+        "images/global/9da8bcc75eda/1.jpg",
+        "images/global/9da8bcc75eda/2.jpg",
+        "images/global/9da8bcc75eda/3.jpg",
+        "images/global/9da8bcc75eda/4.jpg",
+        "images/global/9da8bcc75eda/5.jpg",
+        "images/global/9da8bcc75eda/6.jpg",
+        "images/global/9da8bcc75eda/7.jpg",
+        "images/global/9da8bcc75eda/8.jpg",
+        "images/global/9da8bcc75eda/9.jpg",
+        "images/global/9da8bcc75eda/10.jpg",
+        "images/global/9da8bcc75eda/11.jpg",
+        "images/global/9da8bcc75eda/12.jpg",
+        "images/global/9da8bcc75eda/13.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/3c8fa8d66ffe/caption.txt"
+      "caption_file": "images/global/9da8bcc75eda/caption.txt"
     }
   ]
 }
