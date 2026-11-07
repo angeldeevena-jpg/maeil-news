@@ -1,70 +1,503 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "status": "ai",
-  "note": "5 new cards made, 1 kept. Cost this run about $0.0137",
-  "generated_at": "2026-11-06T08:02:06.223Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0159",
+  "generated_at": "2026-11-07T07:14:49.394Z",
   "cards": [
     {
       "category": "World",
-      "korean_title": "전쟁이 ‘미국 우선’을 무너뜨렸다",
-      "english_title": "The War That Defeated ‘America First’",
-      "korean_desc": "공화당은 2026년 중간선거에서 의회를 모두 잃었다. 그 뒤 밴스는 이란 전쟁이 패배의 주원인이라고 말했다. 11월 5일 트럼프는 전쟁 결정을 옹호했다. 공화당은 이제 외교정책을 바꿀지 결정해야 한다.",
-      "english_desc": "Republicans lost the 2026 midterms after Democrats won both chambers of Congress. Then Vance said the Iran war was the main reason Republicans lost. On November 5, Trump still defended the decision to fight. Republicans must now decide whether to change their foreign policy.",
-      "hook": "The war helped defeat Republicans.",
-      "sticker": "What voters rejected",
-      "korean_hook": "전쟁이 공화당 패배를 도왔다",
-      "takeaway_english": "The Republican Party now faces a fight over war, costs, and its future direction.",
-      "takeaway_korean": "공화당은 이제 전쟁과 물가와 미래 방향을 두고 싸워야 한다.",
+      "korean_title": "이란 “전쟁 전보다 강해졌다”",
+      "english_title": "Iran Says Its Forces Are Stronger Despite the War",
+      "korean_desc": "이란은 2026년 11월 7일 군이 더 강해졌다고 말했다. 이란군 대변인은 전투가 경험과 자신감을 키웠다고 말했다. 테헤란은 전쟁 중 호르무즈 해협 통행을 제한했다. 11월 7일 미사일 두 발이 케심섬을 때렸지만 피해는 확인되지 않았다.",
+      "english_desc": "Iran said on November 7, 2026, that its forces were stronger than before the war. An Iranian army spokesperson said fighting had increased experience, motivation, and confidence. Tehran has limited traffic through the Strait of Hormuz during the conflict. On November 7, two missiles reportedly struck Qeshm Island, with no official damage report.",
+      "hook": "Iran says its forces grew stronger during the war.",
+      "sticker": "What Iran says now",
+      "korean_hook": "이란은 전쟁 중 더 강해졌다고 말했다.",
+      "takeaway_english": "The military claims remain disputed while mediators try to keep the conflict from reigniting.",
+      "takeaway_korean": "군사력 평가는 엇갈리지만 중재자들은 전투 재개를 막고 있다.",
       "why_it_matters": [
         {
-          "english": "War policy can change elections and affect national budgets.",
-          "korean": "전쟁 정책은 선거와 국가 예산을 바꿀 수 있다."
+          "english": "Hormuz normally carries about one-fifth of global oil consumption.",
+          "korean": "호르무즈 해협은 세계 석유의 약 5분의 1을 나른다."
         },
         {
-          "english": "Foreign policy promises can collide with voters’ daily concerns.",
-          "korean": "외교정책 약속은 유권자의 일상적인 걱정과 충돌할 수 있다."
+          "english": "A prolonged closure could affect energy markets beyond the region.",
+          "korean": "해협 폐쇄가 길어지면 세계 에너지 시장에 영향을 준다."
         }
       ],
       "parties": [
         {
-          "label": "J.D. Vance",
-          "english": "He blamed the war for the Republican midterm defeat.",
-          "korean": "그는 전쟁을 공화당 중간선거 패배의 원인으로 지목했다."
+          "label": "Iran",
+          "english": "Tehran says it still controls the Strait of Hormuz.",
+          "korean": "이란은 호르무즈 해협을 통제한다고 말했다."
         },
         {
-          "label": "Donald Trump",
-          "english": "His administration entered the war after promising to avoid costly foreign conflicts.",
-          "korean": "그의 정부는 값비싼 해외 전쟁을 피하겠다고 약속한 뒤 전쟁에 참여했다."
+          "label": "United States",
+          "english": "Washington is offering money for information about Iran’s nuclear program.",
+          "korean": "미국은 이란 핵 정보에 돈을 건다."
         },
         {
-          "label": "Former Trump voters",
-          "english": "Some reportedly moved to Democrats over war, prices, and foreign policy.",
-          "korean": "일부는 전쟁과 물가와 외교정책 때문에 민주당으로 옮겼다고 전해졌다."
+          "label": "Qatar",
+          "english": "Qatar is mediating efforts to prevent renewed fighting.",
+          "korean": "카타르는 전투 재개를 막으려 중재한다."
         }
       ],
       "views": [
         {
-          "label": "J.D. Vance",
-          "english": "Vance said ending the war and lowering living costs were key voter demands.",
-          "korean": "밴스는 전쟁 종식과 생활비 인하가 유권자의 핵심 요구라고 말했다."
+          "label": "Iranian officials",
+          "english": "Iranian officials say direct fighting increased military experience and confidence.",
+          "korean": "이란 관리들은 전투가 경험과 자신감을 키웠다고 말한다."
         },
         {
-          "label": "Trump and supporters",
-          "english": "Trump defended the war, while other coverage linked losses to broader domestic and political problems.",
-          "korean": "트럼프는 전쟁을 옹호했지만 다른 보도는 더 넓은 국내 문제를 지적했다."
+          "label": "Trump administration",
+          "english": "U.S. officials say Iran suffered severe military and economic damage.",
+          "korean": "미국 관리들은 이란이 큰 군사·경제 피해를 입었다고 말한다."
         }
       ],
       "disagree": {
-        "english": "The election may also reflect prices, turnout, younger voters, and anger at Trump’s wider policies.",
-        "korean": "선거에는 물가와 투표율과 젊은 유권자와 다른 정책에 대한 분노도 영향을 줬을 수 있다."
+        "english": "The public evidence does not independently prove either side’s full assessment of Iran’s military strength.",
+        "korean": "공개된 자료만으로는 어느 쪽 평가도 완전히 증명하기 어렵다."
       },
-      "reader_question_korean": "공화당은 어떤 문제부터 해결해야 할까요?",
+      "reader_question_korean": "어느 쪽 설명이 더 설득력 있나요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "The war that defeated ‘America First’",
+      "source_title": "Iran says forces 'stronger' than at beginning of war",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Iran",
+            "english": "Iran says combat experience made its forces more alert, confident, and effective.",
+            "korean": "이란은 전투 경험이 군을 강하게 했다고 말했다."
+          },
+          {
+            "label": "United States",
+            "english": "Trump says Iran’s economy and military were severely damaged and Tehran wants a deal.",
+            "korean": "트럼프는 이란이 큰 피해를 입었다고 말했다."
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Update: November 7, 2026",
+        "The Strait of Hormuz remains central to the dispute."
+      ],
+      "reader_question": "Which side’s description seems more convincing to you?",
+      "topic_tag": "War",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Iran says forces 'stronger' than at beginning of war",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "이란은",
+          "roman": "iran-eun",
+          "english": "Iran",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isib-yuk-nyeon",
+          "english": "2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibil-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "7일",
+          "roman": "chil-il",
+          "english": "7th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "군이",
+          "roman": "gun-i",
+          "english": "forces",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "더",
+          "roman": "deo",
+          "english": "more",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "강해졌다고",
+          "roman": "ganghae-jyeotdago",
+          "english": "became stronger",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "말했다",
+          "roman": "malhaetda",
+          "english": "said",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Iran said on November 7, 2026, that its forces were stronger than before the war.",
+          "korean": "이란은 2026년 11월 7일 군이 더 강해졌다고 말했다.",
+          "glossary": [
+            {
+              "korean": "이란은",
+              "roman": "iran-eun",
+              "english": "Iran",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isib-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "군이",
+              "roman": "gun-i",
+              "english": "forces",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "더",
+              "roman": "deo",
+              "english": "more",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "강해졌다고",
+              "roman": "ganghae-jyeotdago",
+              "english": "became stronger",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "An Iranian army spokesperson said fighting had increased experience, motivation, and confidence.",
+          "korean": "이란군 대변인은 전투가 경험과 자신감을 키웠다고 말했다.",
+          "glossary": [
+            {
+              "korean": "이란군",
+              "roman": "iran-gun",
+              "english": "Iranian army",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대변인은",
+              "roman": "daebyeon-in-eun",
+              "english": "spokesperson",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "전투가",
+              "roman": "jeontu-ga",
+              "english": "fighting",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "경험과",
+              "roman": "gyeongheom-gwa",
+              "english": "experience and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "자신감을",
+              "roman": "jasin-gam-eul",
+              "english": "confidence",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "키웠다고",
+              "roman": "kiwotdago",
+              "english": "increased",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Tehran has limited traffic through the Strait of Hormuz during the conflict.",
+          "korean": "테헤란은 전쟁 중 호르무즈 해협 통행을 제한했다.",
+          "glossary": [
+            {
+              "korean": "테헤란은",
+              "roman": "teheran-eun",
+              "english": "Tehran",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "전쟁",
+              "roman": "jeonjaeng",
+              "english": "war",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중",
+              "roman": "jung",
+              "english": "during",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "호르무즈",
+              "roman": "horeumujeu",
+              "english": "Hormuz",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "해협",
+              "roman": "haehyeop",
+              "english": "strait",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "통행을",
+              "roman": "tonghaeng-eul",
+              "english": "traffic",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "제한했다",
+              "roman": "jehanhaetda",
+              "english": "limited",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On November 7, two missiles reportedly struck Qeshm Island, with no official damage report.",
+          "korean": "11월 7일 미사일 두 발이 케심섬을 때렸지만 피해는 확인되지 않았다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "미사일",
+              "roman": "misail",
+              "english": "missiles",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "발이",
+              "roman": "bal-i",
+              "english": "rounds",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "케심섬을",
+              "roman": "kesimseom-eul",
+              "english": "Qeshm Island",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "때렸지만",
+              "roman": "ttaeryeotjiman",
+              "english": "struck but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "피해는",
+              "roman": "pihae-neun",
+              "english": "damage",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "확인되지",
+              "roman": "hwag-in-doeji",
+              "english": "was confirmed",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았다",
+              "roman": "anatda",
+              "english": "was not",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/iran-says-forces-stronger-than-at-beginning-of-war/article71677400.ece",
+      "short_english": "Iran said on November 7, 2026, that its forces were stronger than before the war.",
+      "short_korean": "이란은 2026년 11월 7일 군이 더 강해졌다고 말했다.",
+      "date": "2026-11-07",
+      "images": [
+        "images/global/bf446cc2b5f7/1.jpg",
+        "images/global/bf446cc2b5f7/2.jpg",
+        "images/global/bf446cc2b5f7/3.jpg",
+        "images/global/bf446cc2b5f7/4.jpg",
+        "images/global/bf446cc2b5f7/5.jpg",
+        "images/global/bf446cc2b5f7/6.jpg",
+        "images/global/bf446cc2b5f7/7.jpg",
+        "images/global/bf446cc2b5f7/8.jpg",
+        "images/global/bf446cc2b5f7/9.jpg",
+        "images/global/bf446cc2b5f7/10.jpg",
+        "images/global/bf446cc2b5f7/11.jpg",
+        "images/global/bf446cc2b5f7/12.jpg",
+        "images/global/bf446cc2b5f7/13.jpg",
+        "images/global/bf446cc2b5f7/14.jpg",
+        "images/global/bf446cc2b5f7/15.jpg",
+        "images/global/bf446cc2b5f7/16.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/bf446cc2b5f7/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "미국, 이란 핵 정보에 2천만 달러",
+      "english_title": "U.S. Offers $20 Million for Iran Nuclear Information",
+      "korean_desc": "미국은 2026년 11월 6일 보상을 발표했다. 보상 대상은 이란 시설과 장비와 핵 인력이다. 미국은 IAEA가 이란 핵 부품 추적을 잃었다고 말했다. 발표에는 최대 보상 정보를 정하는 기준이 없었다.",
+      "english_desc": "The United States announced the reward on November 6, 2026. The offer covers Iranian facilities, equipment, nuclear personnel, and their movements. Washington said the IAEA lost continuous knowledge of key Iranian components. The announcement gave no exact rule for which information would earn the maximum payment.",
+      "hook": "$20 million is offered for information about Iran’s nuclear program.",
+      "sticker": "What the reward seeks",
+      "korean_hook": "이란 핵 정보에 2천만 달러가 걸렸다.",
+      "takeaway_english": "The reward shows that nuclear information remains contested even as Washington claims major destruction.",
+      "takeaway_korean": "보상 발표는 이란 핵 정보가 여전히 논쟁 중임을 보여준다.",
+      "why_it_matters": [
+        {
+          "english": "The reward concerns information about facilities, equipment, and scientific personnel.",
+          "korean": "보상은 시설과 장비와 과학자 정보와 관련된다."
+        },
+        {
+          "english": "The nuclear dispute is central to talks about ending the war.",
+          "korean": "핵 문제는 전쟁 종식을 위한 협상의 핵심이다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "United States",
+          "english": "Washington wants information about Iranian nuclear facilities, equipment, and personnel.",
+          "korean": "미국은 이란 핵 시설과 인력 정보를 원한다."
+        },
+        {
+          "label": "Iran",
+          "english": "Iran rejects U.S. claims and denies that Pickaxe Mountain is a nuclear facility.",
+          "korean": "이란은 미국 주장을 부인하고 픽액스산을 핵 시설로 인정하지 않는다."
+        },
+        {
+          "label": "IAEA",
+          "english": "The agency says it has lost continuity of knowledge about some Iranian nuclear components.",
+          "korean": "IAEA는 이란 핵 부품 정보를 계속 추적하지 못한다고 말했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "U.S. officials",
+          "english": "The reward could help recover information lost because inspectors lacked continuous access.",
+          "korean": "미국 관리들은 보상이 잃어버린 정보를 찾는 데 도움이 된다고 본다."
+        },
+        {
+          "label": "Iranian position",
+          "english": "Iran says the U.S. must meet its conditions before nuclear negotiations begin.",
+          "korean": "이란은 핵 협상 전에 미국이 조건을 받아들여야 한다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Critics may ask how Washington can claim the program was destroyed while seeking basic information about it.",
+        "korean": "비판자들은 핵 계획을 파괴했다면서 왜 정보를 찾는지 물을 수 있다."
+      },
+      "reader_question_korean": "전쟁 중 보상이 핵 감시에 도움이 될까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -74,633 +507,86 @@
       "format_data": {},
       "serious": true,
       "caption_lines": [
-        "The midterm elections were held on November 3, 2026.",
-        "Democrats won control of both chambers of Congress.",
-        "The war was fought in Iran."
+        "Update: November 7, 2026",
+        "The reward includes possible relocation."
       ],
-      "reader_question": "Which issue should Republicans address first?",
-      "topic_tag": "Politics",
+      "reader_question": "Can rewards improve nuclear monitoring during a war?",
+      "topic_tag": "Nuclear",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "The war that defeated ‘America First’",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/opinion/op-ed/the-war-that-defeated-america-first/article71668984.ece"
+          "title": "United States offers $20 million reward for information on 'Iran's nuclear program': CENTCOM",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "공화당은",
-          "roman": "gong-hwa-dang-eun",
-          "english": "Republican Party",
+          "korean": "미국은",
+          "roman": "miguk-eun",
+          "english": "United States",
           "particle": false,
           "suffix": "은"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "중간선거에서",
-          "roman": "jung-gan-seon-geo-e-seo",
-          "english": "in midterm elections",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "의회를",
-          "roman": "ui-hoe-reul",
-          "english": "Congress",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "모두",
-          "roman": "mo-du",
-          "english": "both",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "잃었다",
-          "roman": "il-eot-da",
-          "english": "lost",
-          "particle": false,
-          "suffix": "었다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Republicans lost the 2026 midterms after Democrats won both chambers of Congress.",
-          "korean": "공화당은 2026년 중간선거에서 의회를 모두 잃었다.",
-          "glossary": [
-            {
-              "korean": "공화당은",
-              "roman": "gong-hwa-dang-eun",
-              "english": "Republican Party",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "중간선거에서",
-              "roman": "jung-gan-seon-geo-e-seo",
-              "english": "in midterm elections",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "의회를",
-              "roman": "ui-hoe-reul",
-              "english": "Congress",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "모두",
-              "roman": "mo-du",
-              "english": "both",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "잃었다",
-              "roman": "il-eot-da",
-              "english": "lost",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Then Vance said the Iran war was the main reason Republicans lost.",
-          "korean": "그 뒤 밴스는 이란 전쟁이 패배의 주원인이라고 말했다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "that",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "afterward",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "밴스는",
-              "roman": "baen-seu-neun",
-              "english": "Vance",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "이란",
-              "roman": "i-ran",
-              "english": "Iran",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전쟁이",
-              "roman": "jeon-jaeng-i",
-              "english": "war",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "패배의",
-              "roman": "pae-bae-ui",
-              "english": "of defeat",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "주원인이라고",
-              "roman": "ju-won-in-i-ra-go",
-              "english": "main reason",
-              "particle": false,
-              "suffix": "이라고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On November 5, Trump still defended the decision to fight.",
-          "korean": "11월 5일 트럼프는 전쟁 결정을 옹호했다.",
-          "glossary": [
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "5일",
-              "roman": "o-il",
-              "english": "5th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "트럼프는",
-              "roman": "teu-reom-peu-neun",
-              "english": "Trump",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "전쟁",
-              "roman": "jeon-jaeng",
-              "english": "war",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "결정을",
-              "roman": "gyeol-jeong-eul",
-              "english": "decision",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "옹호했다",
-              "roman": "ong-ho-haet-da",
-              "english": "defended",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Republicans must now decide whether to change their foreign policy.",
-          "korean": "공화당은 이제 외교정책을 바꿀지 결정해야 한다.",
-          "glossary": [
-            {
-              "korean": "공화당은",
-              "roman": "gong-hwa-dang-eun",
-              "english": "Republicans",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "이제",
-              "roman": "i-je",
-              "english": "now",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "외교정책을",
-              "roman": "oe-gyo-jeong-chaek-eul",
-              "english": "foreign policy",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "바꿀지",
-              "roman": "ba-kkul-ji",
-              "english": "whether to change",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "결정해야",
-              "roman": "gyeol-jeong-hae-ya",
-              "english": "must decide",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다",
-              "roman": "han-da",
-              "english": "do",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/opinion/op-ed/the-war-that-defeated-america-first/article71668984.ece",
-      "short_english": "Republicans lost the 2026 midterms after Democrats won both chambers of Congress.",
-      "short_korean": "공화당은 2026년 중간선거에서 의회를 모두 잃었다.",
-      "date": "2026-11-06",
-      "images": [
-        "images/global/38282f17986f/1.jpg",
-        "images/global/38282f17986f/2.jpg",
-        "images/global/38282f17986f/3.jpg",
-        "images/global/38282f17986f/4.jpg",
-        "images/global/38282f17986f/5.jpg",
-        "images/global/38282f17986f/6.jpg",
-        "images/global/38282f17986f/7.jpg",
-        "images/global/38282f17986f/8.jpg",
-        "images/global/38282f17986f/9.jpg",
-        "images/global/38282f17986f/10.jpg",
-        "images/global/38282f17986f/11.jpg",
-        "images/global/38282f17986f/12.jpg",
-        "images/global/38282f17986f/13.jpg",
-        "images/global/38282f17986f/14.jpg",
-        "images/global/38282f17986f/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/38282f17986f/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "법정 다툼 중 승인된 트럼프 개선문",
-      "english_title": "Trump’s Arch Wins Approval, Then Hits a Court Wall",
-      "korean_desc": "연방위원회는 2026년 11월 5일 트럼프의 250피트 개선문을 승인했다. 투표 전 청문회는 9시간 30분 동안 진행됐다. 그 뒤 타냐 처트칸 판사는 공사를 14일 막았다. 11월 6일 소송은 사업의 합법성과 설계를 계속 다퉜다.",
-      "english_desc": "A federal panel approved Trump’s 250-foot Washington arch on November 5, 2026. The vote followed a hearing lasting nine and a half hours. Then Judge Tanya Chutkan blocked construction for 14 days. On November 6, lawsuits still challenged the project’s legality and design.",
-      "hook": "The arch won approval, then construction stopped.",
-      "sticker": "Approval, then a pause",
-      "korean_hook": "개선문은 승인됐지만 공사는 멈췄다",
-      "takeaway_english": "The arch’s future depends on the court fight and Congress’s coming oversight.",
-      "takeaway_korean": "개선문의 미래는 법정 다툼과 의회의 감독에 달려 있다.",
-      "why_it_matters": [
-        {
-          "english": "Construction could change traffic and emergency responses around Washington.",
-          "korean": "공사는 워싱턴 주변의 교통과 긴급 대응을 바꿀 수 있다."
-        },
-        {
-          "english": "The case tests how much power presidents have over federal land.",
-          "korean": "이 사건은 대통령의 연방 토지 권한을 시험한다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Trump administration",
-          "english": "It wants to build a 250-foot memorial arch in Washington.",
-          "korean": "트럼프 정부는 워싱턴에 250피트 높이의 기념 개선문을 세우려 한다."
-        },
-        {
-          "label": "Judge Tanya Chutkan",
-          "english": "She paused construction for 14 days after Virginia and Washington, D.C., sued.",
-          "korean": "그녀는 버지니아와 워싱턴 D.C.의 소송 뒤 공사를 14일 중단시켰다."
-        },
-        {
-          "label": "National Capital Planning Commission",
-          "english": "It approved the arch 8-4 after a nine-and-a-half-hour hearing.",
-          "korean": "위원회는 9시간 30분 청문회 뒤 8대4로 개선문을 승인했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Administration supporters",
-          "english": "They describe the arch as a national monument and tribute to veterans.",
-          "korean": "이들은 개선문을 국가 기념물이자 참전용사 기념물이라고 설명한다."
-        },
-        {
-          "label": "Opponents",
-          "english": "They say it could harm Arlington’s solemn setting and lacks required congressional approval.",
-          "korean": "반대자들은 알링턴의 엄숙함을 해치고 의회 승인이 없다고 말한다."
-        }
-      ],
-      "disagree": {
-        "english": "Supporters say the project honors history, while opponents question its design, legality, and purpose.",
-        "korean": "찬성자들은 역사를 기리지만 반대자들은 설계와 합법성과 목적을 의심한다."
-      },
-      "reader_question_korean": "큰 기념물에는 의회 승인이 필요할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Key federal panel approves Trump’s arch while it is being challenged in court",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The arch is planned near Arlington National Cemetery.",
-        "Three lawsuits oppose the project.",
-        "A temporary order lasts 14 days."
-      ],
-      "reader_question": "Should major monuments need congressional approval?",
-      "topic_tag": "Monument",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Key federal panel approves Trump’s arch while it is being challenged in court",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "연방위원회는",
-          "roman": "yeon-bang-wi-won-hoe-neun",
-          "english": "federal panel",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "in 2026",
+          "roman": "icheon-isib-yuk-nyeon",
+          "english": "2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sip-il-wol",
+          "roman": "sibil-wol",
           "english": "November",
           "particle": false,
           "suffix": "월"
         },
         {
-          "korean": "5일",
-          "roman": "o-il",
-          "english": "5th",
+          "korean": "6일",
+          "roman": "yuk-il",
+          "english": "6th",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "트럼프의",
-          "roman": "teu-reom-peu-ui",
-          "english": "Trump's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "250피트",
-          "roman": "i-baek-o-sip-pi-teu",
-          "english": "250 feet",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "개선문을",
-          "roman": "gae-seon-mun-eul",
-          "english": "arch",
+          "korean": "보상을",
+          "roman": "bosang-eul",
+          "english": "reward",
           "particle": false,
           "suffix": "을"
         },
         {
-          "korean": "승인했다",
-          "roman": "seung-in-haet-da",
-          "english": "approved",
+          "korean": "발표했다",
+          "roman": "balpyohaetda",
+          "english": "announced",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "A federal panel approved Trump’s 250-foot Washington arch on November 5, 2026.",
-          "korean": "연방위원회는 2026년 11월 5일 트럼프의 250피트 개선문을 승인했다.",
+          "english": "The United States announced the reward on November 6, 2026.",
+          "korean": "미국은 2026년 11월 6일 보상을 발표했다.",
           "glossary": [
             {
-              "korean": "연방위원회는",
-              "roman": "yeon-bang-wi-won-hoe-neun",
-              "english": "federal panel",
+              "korean": "미국은",
+              "roman": "miguk-eun",
+              "english": "United States",
               "particle": false,
-              "suffix": "는"
+              "suffix": "은"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "in 2026",
+              "roman": "icheon-isib-yuk-nyeon",
+              "english": "2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "5일",
-              "roman": "o-il",
-              "english": "5th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "트럼프의",
-              "roman": "teu-reom-peu-ui",
-              "english": "Trump's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "250피트",
-              "roman": "i-baek-o-sip-pi-teu",
-              "english": "250 feet",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "개선문을",
-              "roman": "gae-seon-mun-eul",
-              "english": "arch",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "승인했다",
-              "roman": "seung-in-haet-da",
-              "english": "approved",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The vote followed a hearing lasting nine and a half hours.",
-          "korean": "투표 전 청문회는 9시간 30분 동안 진행됐다.",
-          "glossary": [
-            {
-              "korean": "투표",
-              "roman": "tu-pyo",
-              "english": "vote",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전",
-              "roman": "jeon",
-              "english": "before",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "청문회는",
-              "roman": "cheong-mun-hoe-neun",
-              "english": "hearing",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "9시간",
-              "roman": "gu-si-gan",
-              "english": "9 hours",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "30분",
-              "roman": "sam-sip-bun",
-              "english": "30 minutes",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "동안",
-              "roman": "dong-an",
-              "english": "during",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "진행됐다",
-              "roman": "jin-haeng-dwaet-da",
-              "english": "continued",
-              "particle": false,
-              "suffix": "됐다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Then Judge Tanya Chutkan blocked construction for 14 days.",
-          "korean": "그 뒤 타냐 처트칸 판사는 공사를 14일 막았다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "then",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "타냐",
-              "roman": "ta-nya",
-              "english": "Tanya",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "처트칸",
-              "roman": "cheo-teu-kan",
-              "english": "Chutkan",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판사는",
-              "roman": "pan-sa-neun",
-              "english": "judge",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "공사를",
-              "roman": "gong-sa-reul",
-              "english": "construction",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "14일",
-              "roman": "sip-sa-il",
-              "english": "14 days",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "막았다",
-              "roman": "mak-at-da",
-              "english": "blocked",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On November 6, lawsuits still challenged the project’s legality and design.",
-          "korean": "11월 6일 소송은 사업의 합법성과 설계를 계속 다퉜다.",
-          "glossary": [
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
+              "roman": "sibil-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
@@ -713,582 +599,469 @@
               "suffix": "일"
             },
             {
-              "korean": "소송은",
-              "roman": "so-song-eun",
-              "english": "lawsuits",
+              "korean": "보상을",
+              "roman": "bosang-eul",
+              "english": "reward",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "발표했다",
+              "roman": "balpyohaetda",
+              "english": "announced",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The offer covers Iranian facilities, equipment, nuclear personnel, and their movements.",
+          "korean": "보상 대상은 이란 시설과 장비와 핵 인력이다.",
+          "glossary": [
+            {
+              "korean": "보상",
+              "roman": "bosang",
+              "english": "reward",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대상은",
+              "roman": "daesang-eun",
+              "english": "targets",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "사업의",
-              "roman": "sa-eop-ui",
-              "english": "project's",
+              "korean": "이란",
+              "roman": "iran",
+              "english": "Iranian",
               "particle": false,
-              "suffix": "의"
+              "suffix": ""
             },
             {
-              "korean": "합법성과",
-              "roman": "hap-beop-seong-gwa",
-              "english": "legality and",
+              "korean": "시설과",
+              "roman": "siseol-gwa",
+              "english": "facilities and",
               "particle": false,
               "suffix": "과"
             },
             {
-              "korean": "설계를",
-              "roman": "seol-gye-reul",
-              "english": "design",
+              "korean": "장비와",
+              "roman": "jangbi-wa",
+              "english": "equipment and",
               "particle": false,
-              "suffix": "를"
+              "suffix": "와"
             },
             {
-              "korean": "계속",
-              "roman": "gye-sok",
-              "english": "still",
+              "korean": "핵",
+              "roman": "haek",
+              "english": "nuclear",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "다퉜다",
-              "roman": "da-twot-da",
-              "english": "disputed",
+              "korean": "인력이다",
+              "roman": "inryeog-ida",
+              "english": "personnel",
               "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/key-federal-panel-approves-trumps-arch-while-it-is-being-challenged-in-court/article71673086.ece",
-      "short_english": "A federal panel approved Trump’s 250-foot Washington arch on November 5, 2026.",
-      "short_korean": "연방위원회는 2026년 11월 5일 트럼프의 250피트 개선문을 승인했다.",
-      "date": "2026-11-06",
-      "images": [
-        "images/global/3fc9bc64e7b8/1.jpg",
-        "images/global/3fc9bc64e7b8/2.jpg",
-        "images/global/3fc9bc64e7b8/3.jpg",
-        "images/global/3fc9bc64e7b8/4.jpg",
-        "images/global/3fc9bc64e7b8/5.jpg",
-        "images/global/3fc9bc64e7b8/6.jpg",
-        "images/global/3fc9bc64e7b8/7.jpg",
-        "images/global/3fc9bc64e7b8/8.jpg",
-        "images/global/3fc9bc64e7b8/9.jpg",
-        "images/global/3fc9bc64e7b8/10.jpg",
-        "images/global/3fc9bc64e7b8/11.jpg",
-        "images/global/3fc9bc64e7b8/12.jpg",
-        "images/global/3fc9bc64e7b8/13.jpg",
-        "images/global/3fc9bc64e7b8/14.jpg",
-        "images/global/3fc9bc64e7b8/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/3fc9bc64e7b8/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "인도계 후보들, 미국 선거서 엇갈린 성적",
-      "english_title": "Indian-American Candidates Win Some, Lose One Big Race",
-      "korean_desc": "수하스 수브라마냠과 피아 단디야는 11월 3일 하원에 당선됐다. 두 사람의 승리는 의회에 인도계 목소리를 더했다. 비벡 라마스와미는 민주당 에이미 액턴에게 졌다.",
-      "english_desc": "Suhas Subramanyam and Pia Dandiya won House seats on November 3. Their victories added Indian-American voices to Congress. Vivek Ramaswamy lost Ohio’s governor race to Democrat Amy Acton.",
-      "hook": "Two Indian-American Democrats won House seats; Vivek Ramaswamy lost.",
-      "sticker": "A mixed election night",
-      "korean_hook": "인도계 민주당원 둘은 이겼고 라마스와미는 졌다",
-      "takeaway_english": "Indian-American representation grew, but the political map remained mixed.",
-      "takeaway_korean": "인도계 대표성은 커졌지만 결과는 엇갈렸다.",
-      "why_it_matters": [
-        {
-          "english": "More diverse lawmakers can bring different community concerns into Congress.",
-          "korean": "더 다양한 의원들이 지역 문제를 의회에 가져온다."
-        },
-        {
-          "english": "The results show that identity did not guarantee one party’s success.",
-          "korean": "정체성만으로 한 정당의 승리를 보장하지 못했다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Suhas Subramanyam",
-          "english": "He won reelection in Virginia’s 10th congressional district.",
-          "korean": "수하스 수브라마냠은 버지니아에서 재선됐다."
-        },
-        {
-          "label": "Pia Dandiya",
-          "english": "She won Florida’s 22nd congressional district.",
-          "korean": "피아 단디야는 플로리다에서 당선됐다."
-        },
-        {
-          "label": "Vivek Ramaswamy",
-          "english": "He lost Ohio’s governor’s race to Democrat Amy Acton.",
-          "korean": "비벡 라마스와미는 오하이오 주지사 선거에서 졌다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Business Standard",
-          "english": "The results showed a mixed outcome for Indian-American candidates.",
-          "korean": "결과는 인도계 미국 후보들의 혼합된 성적을 보여줬다."
-        },
-        {
-          "label": "New Indian Express",
-          "english": "The wins reflected growing political participation among Indian Americans.",
-          "korean": "승리는 인도계 미국인의 정치 참여를 보여줬다."
-        }
-      ],
-      "disagree": {
-        "english": "Others may see the races as separate contests rather than evidence of one community-wide trend.",
-        "korean": "다른 사람들은 각 선거를 별개의 경쟁으로 볼 수 있다."
-      },
-      "reader_question_korean": "이 결과는 더 큰 정치 변화를 보여줄까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "US midterm election results 2026: List of Indian-origin winners",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Pia Dandiya is a former high school principal.",
-        "Other candidates were still awaiting results."
-      ],
-      "reader_question": "Do these results show a broader political shift?",
-      "topic_tag": "Representation",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "US midterm election results 2026: List of Indian-origin winners",
-          "date": "2026-11-04",
-          "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "수하스",
-          "roman": "suhaseu",
-          "english": "Suhas",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "수브라마냠과",
-          "roman": "subeuramanyam-gwa",
-          "english": "Subramanyam and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "피아",
-          "roman": "pia",
-          "english": "Pia",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "단디야는",
-          "roman": "dandiya-neun",
-          "english": "Dandiya",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibir-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "3일",
-          "roman": "sam-il",
-          "english": "the 3rd",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "하원에",
-          "roman": "hawon-e",
-          "english": "to the House",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "당선됐다",
-          "roman": "dangseondwaetda",
-          "english": "were elected",
-          "particle": false,
-          "suffix": "됐다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Suhas Subramanyam and Pia Dandiya won House seats on November 3.",
-          "korean": "수하스 수브라마냠과 피아 단디야는 11월 3일 하원에 당선됐다.",
-          "glossary": [
-            {
-              "korean": "수하스",
-              "roman": "suhaseu",
-              "english": "Suhas",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수브라마냠과",
-              "roman": "subeuramanyam-gwa",
-              "english": "Subramanyam and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "피아",
-              "roman": "pia",
-              "english": "Pia",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "단디야는",
-              "roman": "dandiya-neun",
-              "english": "Dandiya",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "11월",
-              "roman": "sibir-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "3일",
-              "roman": "sam-il",
-              "english": "the 3rd",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "하원에",
-              "roman": "hawon-e",
-              "english": "to the House",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "당선됐다",
-              "roman": "dangseondwaetda",
-              "english": "were elected",
-              "particle": false,
-              "suffix": "됐다"
+              "suffix": "이다"
             }
           ]
         },
         {
-          "stage": "why",
-          "english": "Their victories added Indian-American voices to Congress.",
-          "korean": "두 사람의 승리는 의회에 인도계 목소리를 더했다.",
+          "stage": "how",
+          "english": "Washington said the IAEA lost continuous knowledge of key Iranian components.",
+          "korean": "미국은 IAEA가 이란 핵 부품 추적을 잃었다고 말했다.",
           "glossary": [
             {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
+              "korean": "미국은",
+              "roman": "miguk-eun",
+              "english": "Washington",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "IAEA가",
+              "roman": "IAEA-ga",
+              "english": "IAEA",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "이란",
+              "roman": "iran",
+              "english": "Iranian",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "사람의",
-              "roman": "saram-ui",
-              "english": "people’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "승리는",
-              "roman": "seungni-neun",
-              "english": "victories",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "의회에",
-              "roman": "uihoe-e",
-              "english": "to Congress",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "인도계",
-              "roman": "indogye",
-              "english": "Indian-American",
+              "korean": "핵",
+              "roman": "haek",
+              "english": "nuclear",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "목소리를",
-              "roman": "moksori-reul",
-              "english": "voices",
+              "korean": "부품",
+              "roman": "bupum",
+              "english": "components",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "더했다",
-              "roman": "deohaetda",
-              "english": "added",
+              "korean": "추적을",
+              "roman": "chujeog-eul",
+              "english": "tracking",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "을"
+            },
+            {
+              "korean": "잃었다고",
+              "roman": "ireotdago",
+              "english": "lost",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Vivek Ramaswamy lost Ohio’s governor race to Democrat Amy Acton.",
-          "korean": "비벡 라마스와미는 민주당 에이미 액턴에게 졌다.",
+          "english": "The announcement gave no exact rule for which information would earn the maximum payment.",
+          "korean": "발표에는 최대 보상 정보를 정하는 기준이 없었다.",
           "glossary": [
             {
-              "korean": "비벡",
-              "roman": "bibeok",
-              "english": "Vivek",
+              "korean": "발표에는",
+              "roman": "balpyo-eneun",
+              "english": "in the announcement",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "최대",
+              "roman": "choedae",
+              "english": "maximum",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "라마스와미는",
-              "roman": "ramaseuwami-neun",
-              "english": "Ramaswamy",
+              "korean": "보상",
+              "roman": "bosang",
+              "english": "reward",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정보를",
+              "roman": "jeongbo-reul",
+              "english": "information",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "정하는",
+              "roman": "jeonghaneun",
+              "english": "deciding",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "민주당",
-              "roman": "minjudang",
-              "english": "Democratic",
+              "korean": "기준이",
+              "roman": "gijun-i",
+              "english": "rule",
               "particle": false,
-              "suffix": ""
+              "suffix": "이"
             },
             {
-              "korean": "에이미",
-              "roman": "eimi",
-              "english": "Amy",
+              "korean": "없었다",
+              "roman": "eopseotda",
+              "english": "was absent",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "액턴에게",
-              "roman": "aekteon-ege",
-              "english": "to Acton",
-              "particle": false,
-              "suffix": "에게"
-            },
-            {
-              "korean": "졌다",
-              "roman": "jyeotda",
-              "english": "lost",
-              "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece",
-      "short_english": "Suhas Subramanyam and Pia Dandiya won House seats on November 3.",
-      "short_korean": "수하스 수브라마냠과 피아 단디야는 11월 3일 하원에 당선됐다.",
-      "date": "2026-11-06",
+      "url": "https://www.thehindu.com/news/international/united-states-offers-20-million-reward-for-information-on-irans-nuclear-program-centcom/article71677324.ece",
+      "short_english": "The United States announced the reward on November 6, 2026.",
+      "short_korean": "미국은 2026년 11월 6일 보상을 발표했다.",
+      "date": "2026-11-07",
       "images": [
-        "images/global/5a722484cd3e/1.jpg",
-        "images/global/5a722484cd3e/2.jpg",
-        "images/global/5a722484cd3e/3.jpg",
-        "images/global/5a722484cd3e/4.jpg",
-        "images/global/5a722484cd3e/5.jpg",
-        "images/global/5a722484cd3e/6.jpg",
-        "images/global/5a722484cd3e/7.jpg",
-        "images/global/5a722484cd3e/8.jpg",
-        "images/global/5a722484cd3e/9.jpg",
-        "images/global/5a722484cd3e/10.jpg",
-        "images/global/5a722484cd3e/11.jpg",
-        "images/global/5a722484cd3e/12.jpg",
-        "images/global/5a722484cd3e/13.jpg",
-        "images/global/5a722484cd3e/14.jpg"
+        "images/global/853c9ccd2c08/1.jpg",
+        "images/global/853c9ccd2c08/2.jpg",
+        "images/global/853c9ccd2c08/3.jpg",
+        "images/global/853c9ccd2c08/4.jpg",
+        "images/global/853c9ccd2c08/5.jpg",
+        "images/global/853c9ccd2c08/6.jpg",
+        "images/global/853c9ccd2c08/7.jpg",
+        "images/global/853c9ccd2c08/8.jpg",
+        "images/global/853c9ccd2c08/9.jpg",
+        "images/global/853c9ccd2c08/10.jpg",
+        "images/global/853c9ccd2c08/11.jpg",
+        "images/global/853c9ccd2c08/12.jpg",
+        "images/global/853c9ccd2c08/13.jpg",
+        "images/global/853c9ccd2c08/14.jpg",
+        "images/global/853c9ccd2c08/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/5a722484cd3e/caption.txt"
+      "caption_file": "images/global/853c9ccd2c08/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "인도의 고전 3종, 유네스코 등재",
-      "english_title": "Three Indian Classics Join UNESCO’s Memory Register",
-      "korean_desc": "유네스코는 2026년 11월 5일 세 문헌을 등재했다. 작품들은 인도의 문학과 통치와 철학과 역사를 대표한다. 인디라 간디 센터가 신청서를 준비했고 자카르타에서 결정됐다. 인도는 이제 지역 목록에 여섯 건을 보유한다.",
-      "english_desc": "UNESCO added Mahabharata, Arthashastra, and Rajatarangini manuscripts on November 5, 2026. The works represent Indian literature, statecraft, philosophy, and historical writing. IGNCA prepared nomination files, and the decision came at a Jakarta session. India now has six inscriptions in the regional register.",
-      "hook": "Three Indian manuscripts gained UNESCO recognition.",
-      "sticker": "Old books, new spotlight",
-      "korean_hook": "인도 문헌 3종이 유네스코에 올랐다",
-      "takeaway_english": "The listing gives three famous works a wider regional audience, while preservation work continues.",
-      "takeaway_korean": "등재로 세 작품은 더 넓은 독자를 얻었고 보존 작업은 계속된다.",
+      "korean_title": "백악관 근처 무장 남성 체포",
+      "english_title": "Armed Man Arrested Near White House After Trump Threat",
+      "korean_desc": "경찰은 그가 주차된 차에서 수상하게 행동하자 다가갔다. 차량은 도난 신고됐고 안에서 총 세 자루와 탄약이 나왔다. 2026년 11월 7일 그는 기소 뒤 연방 구금 상태였다.",
+      "english_desc": "Officers approached him after seeing him acting suspiciously in a parked car. The vehicle was reported stolen, and officers found three guns and ammunition inside. On November 7, 2026, he remained in U.S. Marshals custody after being charged.",
+      "hook": "A man near the White House was arrested with three firearms.",
+      "sticker": "What happened near the White House",
+      "korean_hook": "백악관 근처 남성이 총 세 자루로 체포됐다.",
+      "takeaway_english": "The suspect faces charges, but the allegations still require court review.",
+      "takeaway_korean": "피의자는 기소됐지만 혐의는 법원의 검토가 필요하다.",
       "why_it_matters": [
         {
-          "english": "Recognition can increase attention to fragile manuscripts and their preservation.",
-          "korean": "인정은 오래된 문헌 보존에 대한 관심을 높일 수 있다."
+          "english": "The arrest happened near the White House, a heavily protected public place.",
+          "korean": "체포 장소는 경비가 삼엄한 백악관 근처였다."
         },
         {
-          "english": "The works connect literature, government, philosophy, and regional history.",
-          "korean": "이 작품들은 문학과 정부와 철학과 지역사를 연결한다."
+          "english": "The case adds to recent security concerns involving threats against Trump.",
+          "korean": "이번 사건은 트럼프에 대한 최근 위협 우려를 더한다."
         }
       ],
       "parties": [
         {
-          "label": "UNESCO",
-          "english": "It added three Indian manuscript collections to its Asia-Pacific regional register.",
-          "korean": "유네스코는 인도 문헌 세 가지를 아시아태평양 지역 등재 목록에 추가했다."
+          "label": "Secret Service",
+          "english": "Officers arrested and charged the suspect after finding weapons near the White House.",
+          "korean": "비밀경호국은 백악관 근처에서 피의자를 체포하고 기소했다."
         },
         {
-          "label": "India’s culture ministry",
-          "english": "It called the recognition a landmark for India’s documentary heritage.",
-          "korean": "인도 문화부는 이번 인정을 기록 유산의 중요한 성과라고 불렀다."
+          "label": "Ronny Yordrix Guanipa Chrinos",
+          "english": "The suspect allegedly described voices telling him to kill Trump.",
+          "korean": "피의자는 트럼프를 죽이라는 목소리를 들었다고 말했다."
         },
         {
-          "label": "IGNCA",
-          "english": "It helped prepare the nomination files for all three works.",
-          "korean": "인디라 간디 국립예술센터는 세 작품의 신청서를 준비하는 데 참여했다."
+          "label": "Department of Homeland Security",
+          "english": "DHS said the suspect entered the United States through Texas in March 2024.",
+          "korean": "국토안보부는 피의자가 2024년 3월 텍사스로 들어왔다고 말했다."
         }
       ],
       "views": [
         {
-          "label": "Indian officials",
-          "english": "They say the manuscripts show India’s traditions of history, philosophy, ethics, and governance.",
-          "korean": "인도 관리들은 문헌들이 역사와 철학과 윤리와 통치 전통을 보여준다고 말한다."
+          "label": "Federal officials",
+          "english": "Officials say the arrest stopped a potentially dangerous situation before anyone was harmed.",
+          "korean": "관리들은 체포가 피해 전 위험한 상황을 막았다고 말한다."
         },
         {
-          "label": "UNESCO register perspective",
-          "english": "The register recognizes documentary heritage with regional or wider historical importance.",
-          "korean": "이 목록은 지역적 또는 더 넓은 역사적 가치가 있는 기록 유산을 인정한다."
+          "label": "Critical perspective",
+          "english": "The public record does not yet establish the suspect’s motives or mental-health condition.",
+          "korean": "공개 자료는 피의자의 동기나 정신 상태를 아직 밝히지 않았다."
         }
       ],
       "disagree": {
-        "english": "The recognition is important, but it does not by itself settle every debate about history or interpretation.",
-        "korean": "인정은 중요하지만 역사와 해석에 관한 모든 논쟁을 끝내지는 않는다."
+        "english": "Some people may question early official descriptions before court proceedings test the allegations.",
+        "korean": "재판 전 공식 설명을 의심하는 사람도 있을 수 있다."
       },
-      "reader_question_korean": "어떤 옛 문헌을 먼저 보존하고 싶나요?",
+      "reader_question_korean": "재판 전에 당국은 어떤 정보를 공개해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
-      "hook_format": "number",
-      "body_format": "sentences",
+      "source_title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump",
+      "hook_format": "headline",
+      "body_format": "timeline",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "three",
-          "label": "Indian manuscripts",
-          "korean_label": "인도 문헌"
-        }
+        "steps": [
+          {
+            "label": "",
+            "english": "Thursday night: officers approached a suspicious parked vehicle.",
+            "korean": "목요일 밤 경찰이 수상한 차량에 다가갔다."
+          },
+          {
+            "label": "",
+            "english": "Afterward: officers found a stolen vehicle, three guns, and ammunition.",
+            "korean": "이후 도난 차량과 총 세 자루와 탄약이 발견됐다."
+          },
+          {
+            "label": "",
+            "english": "November 7: the suspect remained in federal custody after charges.",
+            "korean": "11월 7일 피의자는 기소 뒤 연방 구금 상태였다."
+          }
+        ]
       },
-      "serious": false,
+      "serious": true,
       "caption_lines": [
-        "The decision came at a Jakarta meeting on November 5, 2026.",
-        "India now has six inscriptions in the regional register.",
-        "The collections are held in Pune, Mysuru, and Srinagar."
+        "Arrest reported: November 6, 2026",
+        "The White House did not comment."
       ],
-      "reader_question": "Which old text would you preserve first?",
-      "topic_tag": "Heritage",
+      "reader_question": "What information should authorities release before trial?",
+      "topic_tag": "Security",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Mahabharata, Arthashastra, Rajatarangini manuscripts added to UNESCO memory regional register",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece"
+          "title": "Secret Service arrests man near White House after he said he heard voices telling him to kill Trump",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "유네스코는",
-          "roman": "yu-ne-seu-ko-neun",
-          "english": "UNESCO",
+          "korean": "경찰은",
+          "roman": "gyeongchal-eun",
+          "english": "officers",
           "particle": false,
-          "suffix": "는"
+          "suffix": "은"
         },
         {
-          "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "in 2026",
+          "korean": "그가",
+          "roman": "geu-ga",
+          "english": "he",
           "particle": false,
-          "suffix": "년"
+          "suffix": "가"
         },
         {
-          "korean": "11월",
-          "roman": "sip-il-wol",
-          "english": "November",
+          "korean": "주차된",
+          "roman": "juchadoen",
+          "english": "parked",
           "particle": false,
-          "suffix": "월"
+          "suffix": "된"
         },
         {
-          "korean": "5일",
-          "roman": "o-il",
-          "english": "5th",
+          "korean": "차에서",
+          "roman": "cha-eseo",
+          "english": "in a car",
           "particle": false,
-          "suffix": "일"
+          "suffix": "에서"
         },
         {
-          "korean": "세",
-          "roman": "se",
-          "english": "three",
+          "korean": "수상하게",
+          "roman": "susanghage",
+          "english": "suspiciously",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "문헌을",
-          "roman": "mun-heon-eul",
-          "english": "manuscripts",
+          "korean": "행동하자",
+          "roman": "haengdonghaja",
+          "english": "after acting",
           "particle": false,
-          "suffix": "을"
+          "suffix": "자"
         },
         {
-          "korean": "등재했다",
-          "roman": "deung-jae-haet-da",
-          "english": "listed",
+          "korean": "다가갔다",
+          "roman": "dagagatda",
+          "english": "approached",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "UNESCO added Mahabharata, Arthashastra, and Rajatarangini manuscripts on November 5, 2026.",
-          "korean": "유네스코는 2026년 11월 5일 세 문헌을 등재했다.",
+          "stage": "how",
+          "english": "Officers approached him after seeing him acting suspiciously in a parked car.",
+          "korean": "경찰은 그가 주차된 차에서 수상하게 행동하자 다가갔다.",
           "glossary": [
             {
-              "korean": "유네스코는",
-              "roman": "yu-ne-seu-ko-neun",
-              "english": "UNESCO",
+              "korean": "경찰은",
+              "roman": "gyeongchal-eun",
+              "english": "officers",
               "particle": false,
-              "suffix": "는"
+              "suffix": "은"
             },
             {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "in 2026",
+              "korean": "그가",
+              "roman": "geu-ga",
+              "english": "he",
               "particle": false,
-              "suffix": "년"
+              "suffix": "가"
             },
             {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
+              "korean": "주차된",
+              "roman": "juchadoen",
+              "english": "parked",
               "particle": false,
-              "suffix": "월"
+              "suffix": "된"
             },
             {
-              "korean": "5일",
-              "roman": "o-il",
-              "english": "5th",
+              "korean": "차에서",
+              "roman": "cha-eseo",
+              "english": "in a car",
               "particle": false,
-              "suffix": "일"
+              "suffix": "에서"
+            },
+            {
+              "korean": "수상하게",
+              "roman": "susanghage",
+              "english": "suspiciously",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "행동하자",
+              "roman": "haengdonghaja",
+              "english": "after acting",
+              "particle": false,
+              "suffix": "자"
+            },
+            {
+              "korean": "다가갔다",
+              "roman": "dagagatda",
+              "english": "approached",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The vehicle was reported stolen, and officers found three guns and ammunition inside.",
+          "korean": "차량은 도난 신고됐고 안에서 총 세 자루와 탄약이 나왔다.",
+          "glossary": [
+            {
+              "korean": "차량은",
+              "roman": "charyang-eun",
+              "english": "vehicle",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "도난",
+              "roman": "donan",
+              "english": "theft",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "신고됐고",
+              "roman": "singodoetgo",
+              "english": "was reported",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "안에서",
+              "roman": "an-eseo",
+              "english": "inside",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "총",
+              "roman": "chong",
+              "english": "guns",
+              "particle": false,
+              "suffix": ""
             },
             {
               "korean": "세",
@@ -1298,486 +1071,65 @@
               "suffix": ""
             },
             {
-              "korean": "문헌을",
-              "roman": "mun-heon-eul",
-              "english": "manuscripts",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "등재했다",
-              "roman": "deung-jae-haet-da",
-              "english": "listed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The works represent Indian literature, statecraft, philosophy, and historical writing.",
-          "korean": "작품들은 인도의 문학과 통치와 철학과 역사를 대표한다.",
-          "glossary": [
-            {
-              "korean": "작품들은",
-              "roman": "jak-pum-deul-eun",
-              "english": "the works",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "인도의",
-              "roman": "in-do-ui",
-              "english": "Indian",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "문학과",
-              "roman": "mun-hak-gwa",
-              "english": "literature and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "통치와",
-              "roman": "tong-chi-wa",
-              "english": "governance and",
+              "korean": "자루와",
+              "roman": "jaru-wa",
+              "english": "firearms and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "철학과",
-              "roman": "cheol-hak-gwa",
-              "english": "philosophy and",
+              "korean": "탄약이",
+              "roman": "tanyak-i",
+              "english": "ammunition",
               "particle": false,
-              "suffix": "과"
+              "suffix": "이"
             },
             {
-              "korean": "역사를",
-              "roman": "yeok-sa-reul",
-              "english": "history",
+              "korean": "나왔다",
+              "roman": "nawatda",
+              "english": "were found",
               "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "대표한다",
-              "roman": "dae-pyo-han-da",
-              "english": "represent",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "IGNCA prepared nomination files, and the decision came at a Jakarta session.",
-          "korean": "인디라 간디 센터가 신청서를 준비했고 자카르타에서 결정됐다.",
-          "glossary": [
-            {
-              "korean": "인디라",
-              "roman": "in-di-ra",
-              "english": "Indira",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "간디",
-              "roman": "gan-di",
-              "english": "Gandhi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "센터가",
-              "roman": "sen-teo-ga",
-              "english": "center",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "신청서를",
-              "roman": "sin-cheong-seo-reul",
-              "english": "nomination files",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "준비했고",
-              "roman": "jun-bi-haet-go",
-              "english": "prepared",
-              "particle": false,
-              "suffix": "했고"
-            },
-            {
-              "korean": "자카르타에서",
-              "roman": "ja-ka-reu-ta-e-seo",
-              "english": "in Jakarta",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "결정됐다",
-              "roman": "gyeol-jeong-dwaet-da",
-              "english": "was decided",
-              "particle": false,
-              "suffix": "됐다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "India now has six inscriptions in the regional register.",
-          "korean": "인도는 이제 지역 목록에 여섯 건을 보유한다.",
+          "english": "On November 7, 2026, he remained in U.S. Marshals custody after being charged.",
+          "korean": "2026년 11월 7일 그는 기소 뒤 연방 구금 상태였다.",
           "glossary": [
             {
-              "korean": "인도는",
-              "roman": "in-do-neun",
-              "english": "India",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "이제",
-              "roman": "i-je",
-              "english": "now",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지역",
-              "roman": "ji-yeok",
-              "english": "regional",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "목록에",
-              "roman": "mok-rok-e",
-              "english": "in the register",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "여섯",
-              "roman": "yeo-seot",
-              "english": "six",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "건을",
-              "roman": "geon-eul",
-              "english": "entries",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "보유한다",
-              "roman": "bo-yu-han-da",
-              "english": "has",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/society/history-and-culture/mahabharata-arthashastra-rajatarangini-manuscripts-added-to-unesco-memory-regional-register/article71673038.ece",
-      "short_english": "UNESCO added Mahabharata, Arthashastra, and Rajatarangini manuscripts on November 5, 2026.",
-      "short_korean": "유네스코는 2026년 11월 5일 세 문헌을 등재했다.",
-      "date": "2026-11-06",
-      "images": [
-        "images/global/3e8630258193/1.jpg",
-        "images/global/3e8630258193/2.jpg",
-        "images/global/3e8630258193/3.jpg",
-        "images/global/3e8630258193/4.jpg",
-        "images/global/3e8630258193/5.jpg",
-        "images/global/3e8630258193/6.jpg",
-        "images/global/3e8630258193/7.jpg",
-        "images/global/3e8630258193/8.jpg",
-        "images/global/3e8630258193/9.jpg",
-        "images/global/3e8630258193/10.jpg",
-        "images/global/3e8630258193/11.jpg",
-        "images/global/3e8630258193/12.jpg",
-        "images/global/3e8630258193/13.jpg",
-        "images/global/3e8630258193/14.jpg",
-        "images/global/3e8630258193/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/3e8630258193/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "트럼프, 백악관 디파발리 행사 참석",
-      "english_title": "Trump Brings Deepavali Back to the Oval Office",
-      "korean_desc": "이 행사는 조지 W. 부시가 시작한 전통을 잇는다. 버락 오바마는 2009년 백악관에서 처음 디야를 밝혔다. 그 뒤 행사는 백악관 여러 방에서 열렸다.",
-      "english_desc": "The celebration continues a tradition started by President George W. Bush. Barack Obama first lit a diya at the White House in 2009. Since then, ceremonies have moved among several White House rooms.",
-      "hook": "Trump will join a White House Deepavali celebration.",
-      "sticker": "Lights at the White House",
-      "korean_hook": "트럼프가 백악관 디파발리를 함께 기념한다",
-      "takeaway_english": "The lamp-lighting tradition keeps Deepavali visible in American public life.",
-      "takeaway_korean": "등불 점화 전통은 미국 공공생활에서 디파발리를 계속 보이게 한다.",
-      "why_it_matters": [
-        {
-          "english": "National ceremonies show which communities and traditions receive public recognition.",
-          "korean": "국가 행사는 어떤 공동체와 전통이 공식 인정을 받는지 보여준다."
-        },
-        {
-          "english": "The event continues a White House practice begun under George W. Bush.",
-          "korean": "이번 행사는 조지 W. 부시 때 시작된 백악관 관행을 이어간다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Donald Trump",
-          "english": "He is scheduled to participate in Friday’s White House celebration.",
-          "korean": "그는 금요일 백악관 행사에 참석할 예정이다."
-        },
-        {
-          "label": "Indian-American community",
-          "english": "Its members and Indian diplomats have joined earlier White House ceremonies.",
-          "korean": "인도계 미국인들과 인도 외교관들은 이전 백악관 행사에 참석했다."
-        },
-        {
-          "label": "Barack Obama",
-          "english": "He became the first president to light a diya at the White House in 2009.",
-          "korean": "그는 2009년 백악관에서 처음으로 디야에 불을 켠 대통령이었다."
-        }
-      ],
-      "views": [
-        {
-          "label": "White House tradition",
-          "english": "Supporters see the ceremony as a continuing presidential tradition honoring Deepavali.",
-          "korean": "지지자들은 이 행사를 디파발리를 기리는 대통령 전통으로 본다."
-        },
-        {
-          "label": "Cultural perspective",
-          "english": "The ceremony gives Indian-American communities and diplomats a visible place at the White House.",
-          "korean": "이 행사는 인도계 미국인 공동체와 외교관들에게 백악관의 visible한 자리를 준다."
-        }
-      ],
-      "disagree": {
-        "english": "A ceremony can recognize a community while still leaving wider policy questions unanswered.",
-        "korean": "행사는 공동체를 인정하면서도 더 큰 정책 질문은 남길 수 있다."
-      },
-      "reader_question_korean": "공식 기념행사를 의미 있게 만드는 것은 무엇일까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "translation check: \"The celebration continues a tradition started by P\" may be missing president"
-      ],
-      "source_title": "Trump to participate in Deepavali celebration at White House",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The celebration is scheduled for November 6, 2026.",
-        "Deepavali is also called Diwali.",
-        "Last year, Ambassador Vinay Kwatra joined Trump."
-      ],
-      "reader_question": "What makes a public holiday ceremony meaningful?",
-      "topic_tag": "Culture",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Trump to participate in Deepavali celebration at White House",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/news/international/trump-to-participate-in-deepavali-celebration-at-white-house/article71673084.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "이",
-          "roman": "i",
-          "english": "this",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "행사는",
-          "roman": "haeng-sa-neun",
-          "english": "celebration",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "조지",
-          "roman": "jo-ji",
-          "english": "George",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "W.",
-          "roman": "W",
-          "english": "W.",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "부시가",
-          "roman": "bu-si-ga",
-          "english": "Bush",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "시작한",
-          "roman": "si-jak-han",
-          "english": "started",
-          "particle": false,
-          "suffix": "한"
-        },
-        {
-          "korean": "전통을",
-          "roman": "jeon-tong-eul",
-          "english": "tradition",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "잇는다",
-          "roman": "it-neun-da",
-          "english": "continues",
-          "particle": false,
-          "suffix": "는다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "why",
-          "english": "The celebration continues a tradition started by President George W. Bush.",
-          "korean": "이 행사는 조지 W. 부시가 시작한 전통을 잇는다.",
-          "glossary": [
-            {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "행사는",
-              "roman": "haeng-sa-neun",
-              "english": "celebration",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "조지",
-              "roman": "jo-ji",
-              "english": "George",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "W.",
-              "roman": "W",
-              "english": "W.",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "부시가",
-              "roman": "bu-si-ga",
-              "english": "Bush",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "시작한",
-              "roman": "si-jak-han",
-              "english": "started",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "전통을",
-              "roman": "jeon-tong-eul",
-              "english": "tradition",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "잇는다",
-              "roman": "it-neun-da",
-              "english": "continues",
-              "particle": false,
-              "suffix": "는다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Barack Obama first lit a diya at the White House in 2009.",
-          "korean": "버락 오바마는 2009년 백악관에서 처음 디야를 밝혔다.",
-          "glossary": [
-            {
-              "korean": "버락",
-              "roman": "beo-rak",
-              "english": "Barack",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오바마는",
-              "roman": "o-ba-ma-neun",
-              "english": "Obama",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2009년",
-              "roman": "i-cheon-gu-nyeon",
-              "english": "in 2009",
+              "korean": "2026년",
+              "roman": "icheon-isib-yuk-nyeon",
+              "english": "2026",
               "particle": false,
               "suffix": "년"
             },
             {
-              "korean": "백악관에서",
-              "roman": "baeg-ak-gwan-e-seo",
-              "english": "at the White House",
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "월"
             },
             {
-              "korean": "처음",
-              "roman": "cheo-eum",
-              "english": "first",
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
               "particle": false,
-              "suffix": ""
+              "suffix": "일"
             },
             {
-              "korean": "디야를",
-              "roman": "di-ya-reul",
-              "english": "diya",
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
               "particle": false,
-              "suffix": "를"
+              "suffix": "는"
             },
             {
-              "korean": "밝혔다",
-              "roman": "bal-kyeot-da",
-              "english": "lit",
-              "particle": false,
-              "suffix": "혔다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Since then, ceremonies have moved among several White House rooms.",
-          "korean": "그 뒤 행사는 백악관 여러 방에서 열렸다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "that",
+              "korean": "기소",
+              "roman": "giso",
+              "english": "charge",
               "particle": false,
               "suffix": ""
             },
@@ -1789,252 +1141,253 @@
               "suffix": ""
             },
             {
-              "korean": "행사는",
-              "roman": "haeng-sa-neun",
-              "english": "ceremonies",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "백악관",
-              "roman": "baeg-ak-gwan",
-              "english": "White House",
+              "korean": "연방",
+              "roman": "yeonbang",
+              "english": "federal",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "여러",
-              "roman": "yeo-reo",
-              "english": "several",
+              "korean": "구금",
+              "roman": "g u geum",
+              "english": "custody",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "방에서",
-              "roman": "bang-e-seo",
-              "english": "in rooms",
+              "korean": "상태였다",
+              "roman": "sangtae-yeotda",
+              "english": "remained",
               "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "열렸다",
-              "roman": "yeol-lyeot-da",
-              "english": "were held",
-              "particle": false,
-              "suffix": "렸다"
+              "suffix": "였다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/trump-to-participate-in-deepavali-celebration-at-white-house/article71673084.ece",
-      "short_english": "The celebration continues a tradition started by President George W. Bush.",
-      "short_korean": "이 행사는 조지 W. 부시가 시작한 전통을 잇는다.",
-      "date": "2026-11-06",
+      "url": "https://www.thehindu.com/news/international/secret-service-arrests-man-near-white-house-after-he-said-he-heard-voices-telling-him-to-kill-trump/article71677332.ece",
+      "short_english": "Officers approached him after seeing him acting suspiciously in a parked car.",
+      "short_korean": "경찰은 그가 주차된 차에서 수상하게 행동하자 다가갔다.",
+      "date": "2026-11-07",
       "images": [
-        "images/global/d33e30cd1524/1.jpg",
-        "images/global/d33e30cd1524/2.jpg",
-        "images/global/d33e30cd1524/3.jpg",
-        "images/global/d33e30cd1524/4.jpg",
-        "images/global/d33e30cd1524/5.jpg",
-        "images/global/d33e30cd1524/6.jpg",
-        "images/global/d33e30cd1524/7.jpg",
-        "images/global/d33e30cd1524/8.jpg",
-        "images/global/d33e30cd1524/9.jpg",
-        "images/global/d33e30cd1524/10.jpg",
-        "images/global/d33e30cd1524/11.jpg",
-        "images/global/d33e30cd1524/12.jpg",
-        "images/global/d33e30cd1524/13.jpg",
-        "images/global/d33e30cd1524/14.jpg"
+        "images/global/7a5fda256ce8/1.jpg",
+        "images/global/7a5fda256ce8/2.jpg",
+        "images/global/7a5fda256ce8/3.jpg",
+        "images/global/7a5fda256ce8/4.jpg",
+        "images/global/7a5fda256ce8/5.jpg",
+        "images/global/7a5fda256ce8/6.jpg",
+        "images/global/7a5fda256ce8/7.jpg",
+        "images/global/7a5fda256ce8/8.jpg",
+        "images/global/7a5fda256ce8/9.jpg",
+        "images/global/7a5fda256ce8/10.jpg",
+        "images/global/7a5fda256ce8/11.jpg",
+        "images/global/7a5fda256ce8/12.jpg",
+        "images/global/7a5fda256ce8/13.jpg",
+        "images/global/7a5fda256ce8/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/d33e30cd1524/caption.txt"
+      "caption_file": "images/global/7a5fda256ce8/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "네팔 훔라에 규모 4.2 지진",
-      "english_title": "A 4.2 Earthquake Shakes Nepal’s Humla District",
-      "korean_desc": "인근 무구와 바장 지역에서도 흔들림이 느껴졌다. 11월 6일 당국은 즉시 피해가 없다고 발표했다.",
-      "english_desc": "Tremors were felt in neighbouring Mugu and Bajhang districts. On November 6, officials reported no immediate damage.",
-      "hook": "A 4.2 earthquake struck Nepal’s Humla district.",
-      "sticker": "What the ground did",
-      "korean_hook": "네팔 훔라에 규모 4.2 지진이 났다",
-      "takeaway_english": "Officials reported no immediate damage, but monitoring continued after the morning tremor.",
-      "takeaway_korean": "당국은 즉시 피해가 없다고 했지만 감시는 계속됐다.",
+      "korean_title": "제이 록펠러, 89세로 별세",
+      "english_title": "Jay Rockefeller Dies at 89 After Senate Healthcare Career",
+      "korean_desc": "제이 록펠러는 2026년 11월 6일 워싱턴 자택에서 89세로 별세했다. 그는 웨스트버지니아 주지사와 다섯 번 상원의원을 지냈다. 그는 의료 접근과 빈곤과 광부와 참전용사를 위해 일했다. 그는 나중에 2002년 이라크전 승인에 찬성한 것을 후회했다.",
+      "english_desc": "Jay Rockefeller died at his Washington home on November 6, 2026, aged 89. He served as West Virginia governor and then completed five Senate terms. His work focused on healthcare access, poverty, coal miners, and military veterans. He later regretted voting for the 2002 Iraq War authorization.",
+      "hook": "Jay Rockefeller died at 89 after decades in public life.",
+      "sticker": "Remembering Jay Rockefeller",
+      "korean_hook": "제이 록펠러가 89세로 세상을 떠났다.",
+      "takeaway_english": "Rockefeller leaves a record linking healthcare advocacy with a public reckoning over war.",
+      "takeaway_korean": "록펠러는 의료 옹호와 전쟁 반성을 함께 남겼다.",
       "why_it_matters": [
         {
-          "english": "People need accurate updates when communication from mountain districts is difficult.",
-          "korean": "산악 지역의 통신이 어려울 때 정확한 소식이 필요하다."
+          "english": "His work helped shape healthcare coverage for millions of children.",
+          "korean": "그의 활동은 수백만 어린이의 의료 보장에 영향을 줬다."
         },
         {
-          "english": "Even a smaller tremor can remind communities about earthquake readiness.",
-          "korean": "작은 흔들림도 지역사회의 지진 대비를 일깨울 수 있다."
+          "english": "His later criticism of the Iraq War showed how politicians can revise earlier judgments.",
+          "korean": "그의 전쟁 비판은 정치인이 과거 판단을 바꿀 수 있음을 보여준다."
         }
       ],
       "parties": [
         {
-          "label": "National Earthquake Monitoring and Research Centre",
-          "english": "It recorded the earthquake at 7:10 a.m. on November 6, 2026.",
-          "korean": "국립 지진 감시연구센터는 2026년 11월 6일 오전 7시 10분 지진을 기록했다."
+          "label": "Jay Rockefeller",
+          "english": "He served five Senate terms and worked to expand healthcare access.",
+          "korean": "그는 다섯 번 상원의원을 지냈고 의료 접근을 넓혔다."
         },
         {
-          "label": "Humla residents",
-          "english": "People in Humla and nearby districts felt the tremors.",
-          "korean": "훔라와 인근 지역 사람들이 흔들림을 느꼈다."
+          "label": "West Virginia",
+          "english": "The state was Rockefeller’s political home for decades.",
+          "korean": "웨스트버지니아는 수십 년 동안 그의 정치적 고향이었다."
         },
         {
-          "label": "Nepal",
-          "english": "The country continues monitoring for further reports or aftershocks.",
-          "korean": "네팔은 추가 보고나 여진을 계속 감시하고 있다."
+          "label": "Healthcare programs",
+          "english": "He helped shape coverage for uninsured children and supported broader healthcare reform.",
+          "korean": "그는 무보험 아동과 의료 개혁을 지원했다."
         }
       ],
       "views": [
         {
-          "label": "Official monitoring centre",
-          "english": "The centre reported a 4.2 earthquake at 7:10 a.m. in Humla.",
-          "korean": "센터는 훔라에서 오전 7시 10분 규모 4.2 지진을 발표했다."
+          "label": "Supporters",
+          "english": "Supporters remember Rockefeller as a healthcare advocate for poor families, miners, and veterans.",
+          "korean": "지지자들은 그를 가난한 가족과 광부와 참전용사의 의료 옹호자로 기억한다."
         },
         {
-          "label": "Local reporting",
-          "english": "Local coverage said the tremor was felt nearby and no damage was reported initially.",
-          "korean": "현지 보도는 주변에서 흔들림을 느꼈지만 처음에는 피해가 없었다고 전했다."
+          "label": "His critics",
+          "english": "Critics may focus on his 2002 Iraq War vote, which he later regretted.",
+          "korean": "비판자들은 그가 나중에 후회한 2002년 이라크전 투표를 지적할 수 있다."
         }
       ],
       "disagree": {
-        "english": "Early reports can change because remote areas may send damage information slowly.",
-        "korean": "외딴 지역에서는 피해 정보가 늦게 와 초기 보고가 바뀔 수 있다."
+        "english": "People may disagree about whether his healthcare work outweighs his earlier support for the Iraq War authorization.",
+        "korean": "의료 활동과 이라크전 지지 중 무엇이 더 중요한지는 의견이 갈릴 수 있다."
       },
-      "reader_question_korean": "외딴 지역은 지진에 어떻게 대비해야 할까요?",
+      "reader_question_korean": "공직 경력에서 역사는 무엇을 가장 기억해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Magnitude 4.2 earthquake strikes Nepal's Humla district",
+      "source_title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "timeline",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
+      "format_data": {
+        "steps": [
+          {
+            "label": "",
+            "english": "1964–1966: he served in rural West Virginia.",
+            "korean": "1964~1966년 그는 웨스트버지니아에서 봉사했다."
+          },
+          {
+            "label": "",
+            "english": "1976: he became West Virginia governor.",
+            "korean": "1976년 그는 웨스트버지니아 주지사가 됐다."
+          },
+          {
+            "label": "",
+            "english": "1984: he won his first Senate election.",
+            "korean": "1984년 그는 첫 상원의원 선거에서 이겼다."
+          },
+          {
+            "label": "",
+            "english": "November 6, 2026: he died at home in Washington.",
+            "korean": "2026년 11월 6일 그는 워싱턴 자택에서 별세했다."
+          }
+        ]
+      },
       "serious": true,
       "caption_lines": [
-        "The earthquake occurred in Karnali Province.",
-        "Tremors were felt in Mugu and Bajhang.",
-        "Humla is about 700 kilometers northwest of Kathmandu."
+        "Died: November 6, 2026",
+        "He represented West Virginia in the Senate."
       ],
-      "reader_question": "How should remote communities prepare for earthquakes?",
-      "topic_tag": "Earthquake",
+      "reader_question": "Which part of a public career should history remember most?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Magnitude 4.2 earthquake strikes Nepal's Humla district",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/news/international/nepal-humla-earthquake-updates-on-november-6-2026/article71673185.ece"
+          "title": "Jay Rockefeller, heir to famed dynasty and healthcare advocate in U.S. Senate, dies at 89",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/jay-rockefeller-heir-to-famed-dynasty-and-healthcare-advocate-in-us-senate-dies-at-89/article71674682.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "인근",
-          "roman": "in-geun",
-          "english": "nearby",
+          "korean": "제이",
+          "roman": "je-i",
+          "english": "Jay",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "무구와",
-          "roman": "mu-gu-wa",
-          "english": "Mugu and",
+          "korean": "록펠러는",
+          "roman": "rokpelleo-neun",
+          "english": "Rockefeller",
           "particle": false,
-          "suffix": "와"
+          "suffix": "는"
         },
         {
-          "korean": "바장",
-          "roman": "ba-jang",
-          "english": "Bajhang",
+          "korean": "2026년",
+          "roman": "icheon-isib-yuk-nyeon",
+          "english": "2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibil-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "6일",
+          "roman": "yuk-il",
+          "english": "6th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "워싱턴",
+          "roman": "wosingteon",
+          "english": "Washington",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "지역에서도",
-          "roman": "ji-yeok-e-seo-do",
-          "english": "in districts too",
+          "korean": "자택에서",
+          "roman": "jataeg-eseo",
+          "english": "at home",
           "particle": false,
-          "suffix": "에서도"
+          "suffix": "에서"
         },
         {
-          "korean": "흔들림이",
-          "roman": "heun-deul-lim-i",
-          "english": "tremors",
+          "korean": "89세로",
+          "roman": "palsipguse-se-ro",
+          "english": "aged 89",
           "particle": false,
-          "suffix": "이"
+          "suffix": "로"
         },
         {
-          "korean": "느껴졌다",
-          "roman": "neu-kyeo-jyeot-da",
-          "english": "were felt",
+          "korean": "별세했다",
+          "roman": "byeolsehaetda",
+          "english": "died",
           "particle": false,
-          "suffix": "졌다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "how",
-          "english": "Tremors were felt in neighbouring Mugu and Bajhang districts.",
-          "korean": "인근 무구와 바장 지역에서도 흔들림이 느껴졌다.",
+          "stage": "what",
+          "english": "Jay Rockefeller died at his Washington home on November 6, 2026, aged 89.",
+          "korean": "제이 록펠러는 2026년 11월 6일 워싱턴 자택에서 89세로 별세했다.",
           "glossary": [
             {
-              "korean": "인근",
-              "roman": "in-geun",
-              "english": "nearby",
+              "korean": "제이",
+              "roman": "je-i",
+              "english": "Jay",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "무구와",
-              "roman": "mu-gu-wa",
-              "english": "Mugu and",
+              "korean": "록펠러는",
+              "roman": "rokpelleo-neun",
+              "english": "Rockefeller",
               "particle": false,
-              "suffix": "와"
+              "suffix": "는"
             },
             {
-              "korean": "바장",
-              "roman": "ba-jang",
-              "english": "Bajhang",
+              "korean": "2026년",
+              "roman": "icheon-isib-yuk-nyeon",
+              "english": "2026",
               "particle": false,
-              "suffix": ""
+              "suffix": "년"
             },
-            {
-              "korean": "지역에서도",
-              "roman": "ji-yeok-e-seo-do",
-              "english": "in districts too",
-              "particle": false,
-              "suffix": "에서도"
-            },
-            {
-              "korean": "흔들림이",
-              "roman": "heun-deul-lim-i",
-              "english": "tremors",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "느껴졌다",
-              "roman": "neu-kyeo-jyeot-da",
-              "english": "were felt",
-              "particle": false,
-              "suffix": "졌다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On November 6, officials reported no immediate damage.",
-          "korean": "11월 6일 당국은 즉시 피해가 없다고 발표했다.",
-          "glossary": [
             {
               "korean": "11월",
-              "roman": "sip-il-wol",
+              "roman": "sibil-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
@@ -2047,64 +1400,1139 @@
               "suffix": "일"
             },
             {
-              "korean": "당국은",
-              "roman": "dang-gug-eun",
-              "english": "officials",
+              "korean": "워싱턴",
+              "roman": "wosingteon",
+              "english": "Washington",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자택에서",
+              "roman": "jataeg-eseo",
+              "english": "at home",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "89세로",
+              "roman": "palsipguse-se-ro",
+              "english": "aged 89",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "별세했다",
+              "roman": "byeolsehaetda",
+              "english": "died",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "He served as West Virginia governor and then completed five Senate terms.",
+          "korean": "그는 웨스트버지니아 주지사와 다섯 번 상원의원을 지냈다.",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "웨스트버지니아",
+              "roman": "weseuteubeojinia",
+              "english": "West Virginia",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주지사와",
+              "roman": "jujisa-wa",
+              "english": "governor and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "다섯",
+              "roman": "daseot",
+              "english": "five",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "번",
+              "roman": "beon",
+              "english": "times",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "상원의원을",
+              "roman": "sangwon-uiwon-eul",
+              "english": "senator",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "지냈다",
+              "roman": "jinaetda",
+              "english": "served",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "His work focused on healthcare access, poverty, coal miners, and military veterans.",
+          "korean": "그는 의료 접근과 빈곤과 광부와 참전용사를 위해 일했다.",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "의료",
+              "roman": "uiryo",
+              "english": "healthcare",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "접근과",
+              "roman": "jeobgeun-gwa",
+              "english": "access and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "빈곤과",
+              "roman": "bingon-gwa",
+              "english": "poverty and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "광부와",
+              "roman": "gwangbu-wa",
+              "english": "miners and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "참전용사를",
+              "roman": "chamjeonyongsa-reul",
+              "english": "veterans",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "위해",
+              "roman": "wihae",
+              "english": "for",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "일했다",
+              "roman": "ilhaetda",
+              "english": "worked",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "He later regretted voting for the 2002 Iraq War authorization.",
+          "korean": "그는 나중에 2002년 이라크전 승인에 찬성한 것을 후회했다.",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "나중에",
+              "roman": "najung-e",
+              "english": "later",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "2002년",
+              "roman": "icheon-i-nyeon",
+              "english": "2002",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "이라크전",
+              "roman": "irakeujeon",
+              "english": "Iraq War",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "승인에",
+              "roman": "seung-in-e",
+              "english": "authorization",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "찬성한",
+              "roman": "chanseonghan",
+              "english": "supported",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "것을",
+              "roman": "geos-eul",
+              "english": "act",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "후회했다",
+              "roman": "huho ehaetda",
+              "english": "regretted",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/jay-rockefeller-heir-to-famed-dynasty-and-healthcare-advocate-in-us-senate-dies-at-89/article71674682.ece",
+      "short_english": "Jay Rockefeller died at his Washington home on November 6, 2026, aged 89.",
+      "short_korean": "제이 록펠러는 2026년 11월 6일 워싱턴 자택에서 89세로 별세했다.",
+      "date": "2026-11-07",
+      "images": [
+        "images/global/f602cd1a07a2/1.jpg",
+        "images/global/f602cd1a07a2/2.jpg",
+        "images/global/f602cd1a07a2/3.jpg",
+        "images/global/f602cd1a07a2/4.jpg",
+        "images/global/f602cd1a07a2/5.jpg",
+        "images/global/f602cd1a07a2/6.jpg",
+        "images/global/f602cd1a07a2/7.jpg",
+        "images/global/f602cd1a07a2/8.jpg",
+        "images/global/f602cd1a07a2/9.jpg",
+        "images/global/f602cd1a07a2/10.jpg",
+        "images/global/f602cd1a07a2/11.jpg",
+        "images/global/f602cd1a07a2/12.jpg",
+        "images/global/f602cd1a07a2/13.jpg",
+        "images/global/f602cd1a07a2/14.jpg",
+        "images/global/f602cd1a07a2/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/f602cd1a07a2/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "미국, 이란 방공망 다시 타격",
+      "english_title": "U.S. Strikes Iran While Mediators Push a Two-Day Plan",
+      "korean_desc": "미국은 2026년 11월 6일 이란 방공 체계를 제한적으로 타격했다. 앞서 미국은 케심과 헹감과 반다르아바스 근처도 타격했다. 카타르 제안은 미국 조치와 이란 시설 사찰을 맞바꾼다. 11월 7일 이란은 제안을 검토하며 즉시 핵 협상을 거부했다.",
+      "english_desc": "The United States carried out a limited strike on an Iranian air-defense system on November 6, 2026. The action followed earlier defensive strikes near Qeshm, Hengam, and Bandar Abbas. Qatar’s proposal would exchange U.S. steps for inspections at bombed Iranian sites. On November 7, Iran was still reviewing the proposal while refusing immediate nuclear negotiations.",
+      "hook": "The U.S. struck Iran as Tehran reviewed a mediator’s proposal.",
+      "sticker": "War and talks collide",
+      "korean_hook": "미국은 이란을 타격했고, 이란은 제안을 검토했다.",
+      "takeaway_english": "Strikes and negotiations are moving together, but neither side has accepted the other’s conditions.",
+      "takeaway_korean": "타격과 협상이 함께 진행되지만 양쪽은 아직 조건을 받아들이지 않았다.",
+      "why_it_matters": [
+        {
+          "english": "The conflict has affected fuel prices and the wider global economy.",
+          "korean": "전쟁은 연료 가격과 세계 경제에 영향을 줬다."
+        },
+        {
+          "english": "A possible reopening of Hormuz could affect oil shipments.",
+          "korean": "호르무즈 재개방은 석유 운송에 영향을 줄 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "United States",
+          "english": "Washington says the latest action was limited and targeted an air-defense system.",
+          "korean": "미국은 최근 작전이 제한적이며 방공 체계를 겨냥했다고 말했다."
+        },
+        {
+          "label": "Iran",
+          "english": "Tehran wants sanctions lifted, assets unfrozen, and hostilities ended before nuclear talks.",
+          "korean": "이란은 핵 협상 전에 제재 해제와 자산 동결 해제를 원한다."
+        },
+        {
+          "label": "Qatar",
+          "english": "Qatar proposed two-day confidence-building steps involving inspections and Hormuz.",
+          "korean": "카타르는 사찰과 호르무즈를 포함한 이틀 계획을 제안했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "U.S. position",
+          "english": "The United States presents the strikes as limited defensive action against rebuilding air defenses.",
+          "korean": "미국은 타격을 재건 중인 방공망에 대한 제한적 방어 행동으로 설명한다."
+        },
+        {
+          "label": "Iranian position",
+          "english": "Iran says major concessions must come before it negotiates about its nuclear activities.",
+          "korean": "이란은 핵 활동 협상 전에 큰 양보가 필요하다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Each side’s account leaves unanswered questions about the strikes, the targets, and the negotiation timetable.",
+        "korean": "양쪽 설명에는 타격 목표와 협상 일정에 대한 의문이 남는다."
+      },
+      "reader_question_korean": "군사 압박과 중재가 동시에 통할 수 있을까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "long sentence: \"The United States carried out a limited strike on \""
+      ],
+      "source_title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+      "hook_format": "headline",
+      "body_format": "timeline",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "steps": [
+          {
+            "label": "",
+            "english": "November 2: U.S. defensive strikes hit areas near Qeshm and Hengam.",
+            "korean": "11월 2일 미국 방어 타격이 케심과 헹감 근처를 때렸다."
+          },
+          {
+            "label": "",
+            "english": "November 6: the U.S. struck an Iranian air-defense system.",
+            "korean": "11월 6일 미국이 이란 방공 체계를 타격했다."
+          },
+          {
+            "label": "",
+            "english": "November 7: Iran was still reviewing Qatar’s proposal.",
+            "korean": "11월 7일 이란은 카타르 제안을 계속 검토했다."
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Update: November 7, 2026",
+        "Qatar is trying to build a temporary bridge toward wider talks."
+      ],
+      "reader_question": "Can military pressure and mediation work at the same time?",
+      "topic_tag": "Conflict",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "U.S. military carries out fresh targeted strikes on Iran as Tehran weighs mediator's proposals",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "미국은",
+          "roman": "miguk-eun",
+          "english": "United States",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isib-yuk-nyeon",
+          "english": "2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibil-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "6일",
+          "roman": "yuk-il",
+          "english": "6th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "이란",
+          "roman": "iran",
+          "english": "Iranian",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "방공",
+          "roman": "banggong",
+          "english": "air defense",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "체계를",
+          "roman": "chegye-reul",
+          "english": "system",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "제한적으로",
+          "roman": "jehanjeog-euro",
+          "english": "in a limited way",
+          "particle": false,
+          "suffix": "적으로"
+        },
+        {
+          "korean": "타격했다",
+          "roman": "tagyeokhaetda",
+          "english": "struck",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "The United States carried out a limited strike on an Iranian air-defense system on November 6, 2026.",
+          "korean": "미국은 2026년 11월 6일 이란 방공 체계를 제한적으로 타격했다.",
+          "glossary": [
+            {
+              "korean": "미국은",
+              "roman": "miguk-eun",
+              "english": "United States",
               "particle": false,
               "suffix": "은"
             },
             {
+              "korean": "2026년",
+              "roman": "icheon-isib-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "6일",
+              "roman": "yuk-il",
+              "english": "6th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "이란",
+              "roman": "iran",
+              "english": "Iranian",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "방공",
+              "roman": "banggong",
+              "english": "air defense",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "체계를",
+              "roman": "chegye-reul",
+              "english": "system",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "제한적으로",
+              "roman": "jehanjeog-euro",
+              "english": "in a limited way",
+              "particle": false,
+              "suffix": "적으로"
+            },
+            {
+              "korean": "타격했다",
+              "roman": "tagyeokhaetda",
+              "english": "struck",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The action followed earlier defensive strikes near Qeshm, Hengam, and Bandar Abbas.",
+          "korean": "앞서 미국은 케심과 헹감과 반다르아바스 근처도 타격했다.",
+          "glossary": [
+            {
+              "korean": "앞서",
+              "roman": "apseo",
+              "english": "earlier",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "미국은",
+              "roman": "miguk-eun",
+              "english": "United States",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "케심과",
+              "roman": "kesim-gwa",
+              "english": "Qeshm and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "헹감과",
+              "roman": "hengam-gwa",
+              "english": "Hengam and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "반다르아바스",
+              "roman": "bandareuabseu",
+              "english": "Bandar Abbas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "근처도",
+              "roman": "geuncheo-do",
+              "english": "nearby areas too",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "타격했다",
+              "roman": "tagyeokhaetda",
+              "english": "struck",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Qatar’s proposal would exchange U.S. steps for inspections at bombed Iranian sites.",
+          "korean": "카타르 제안은 미국 조치와 이란 시설 사찰을 맞바꾼다.",
+          "glossary": [
+            {
+              "korean": "카타르",
+              "roman": "kat areu",
+              "english": "Qatar",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "제안은",
+              "roman": "je-an-eun",
+              "english": "proposal",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "미국",
+              "roman": "miguk",
+              "english": "U.S.",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "조치와",
+              "roman": "jochi-wa",
+              "english": "steps and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "이란",
+              "roman": "iran",
+              "english": "Iranian",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시설",
+              "roman": "siseol",
+              "english": "sites",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사찰을",
+              "roman": "sachal-eul",
+              "english": "inspections",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "맞바꾼다",
+              "roman": "matbakkunda",
+              "english": "exchanges",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On November 7, Iran was still reviewing the proposal while refusing immediate nuclear negotiations.",
+          "korean": "11월 7일 이란은 제안을 검토하며 즉시 핵 협상을 거부했다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "이란은",
+              "roman": "iran-eun",
+              "english": "Iran",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "제안을",
+              "roman": "je-an-eul",
+              "english": "proposal",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "검토하며",
+              "roman": "geomtohamyeo",
+              "english": "while reviewing",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
               "korean": "즉시",
-              "roman": "jeuk-si",
+              "roman": "jeuksi",
               "english": "immediate",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "피해가",
-              "roman": "pi-hae-ga",
-              "english": "damage",
+              "korean": "핵",
+              "roman": "haek",
+              "english": "nuclear",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
             },
             {
-              "korean": "없다고",
-              "roman": "eop-da-go",
-              "english": "none",
+              "korean": "협상을",
+              "roman": "hyeopsang-eul",
+              "english": "negotiations",
               "particle": false,
-              "suffix": "다고"
+              "suffix": "을"
             },
             {
-              "korean": "발표했다",
-              "roman": "bal-pyo-haet-da",
-              "english": "reported",
+              "korean": "거부했다",
+              "roman": "geobuh a etda",
+              "english": "refused",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/nepal-humla-earthquake-updates-on-november-6-2026/article71673185.ece",
-      "short_english": "Tremors were felt in neighbouring Mugu and Bajhang districts.",
-      "short_korean": "인근 무구와 바장 지역에서도 흔들림이 느껴졌다.",
-      "date": "2026-11-06",
+      "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece",
+      "short_english": "The United States carried out a limited strike on an Iranian air-defense system on November 6, 2026.",
+      "short_korean": "미국은 2026년 11월 6일 이란 방공 체계를 제한적으로 타격했다.",
+      "date": "2026-11-07",
       "images": [
-        "images/global/9da8bcc75eda/1.jpg",
-        "images/global/9da8bcc75eda/2.jpg",
-        "images/global/9da8bcc75eda/3.jpg",
-        "images/global/9da8bcc75eda/4.jpg",
-        "images/global/9da8bcc75eda/5.jpg",
-        "images/global/9da8bcc75eda/6.jpg",
-        "images/global/9da8bcc75eda/7.jpg",
-        "images/global/9da8bcc75eda/8.jpg",
-        "images/global/9da8bcc75eda/9.jpg",
-        "images/global/9da8bcc75eda/10.jpg",
-        "images/global/9da8bcc75eda/11.jpg",
-        "images/global/9da8bcc75eda/12.jpg",
-        "images/global/9da8bcc75eda/13.jpg"
+        "images/global/87f3033a5d18/1.jpg",
+        "images/global/87f3033a5d18/2.jpg",
+        "images/global/87f3033a5d18/3.jpg",
+        "images/global/87f3033a5d18/4.jpg",
+        "images/global/87f3033a5d18/5.jpg",
+        "images/global/87f3033a5d18/6.jpg",
+        "images/global/87f3033a5d18/7.jpg",
+        "images/global/87f3033a5d18/8.jpg",
+        "images/global/87f3033a5d18/9.jpg",
+        "images/global/87f3033a5d18/10.jpg",
+        "images/global/87f3033a5d18/11.jpg",
+        "images/global/87f3033a5d18/12.jpg",
+        "images/global/87f3033a5d18/13.jpg",
+        "images/global/87f3033a5d18/14.jpg",
+        "images/global/87f3033a5d18/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/9da8bcc75eda/caption.txt"
+      "caption_file": "images/global/87f3033a5d18/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "시진핑·트럼프·푸틴 회동 논의",
+      "english_title": "China Confirms Talks on a Xi-Trump-Putin Meeting",
+      "korean_desc": "중국은 이번 달 선전에서 세 정상 회동을 논의한다고 말했다. 회동은 가능하지만 날짜와 형식과 의제는 정해지지 않았다. 가능한 회동은 중국의 21개 경제 APEC 정상회의에서 열린다. 분석가들은 러시아가 가장 얻고 중국은 외교 비용을 걱정한다고 말한다.",
+      "english_desc": "China said it was discussing a possible Xi-Trump-Putin meeting in Shenzhen this month. The meeting is possible, but no date, format, or agenda has been finalized. The possible meeting would occur during China’s APEC summit for 21 economies. Analysts say Russia may gain most, while China worries about diplomatic costs.",
+      "hook": "China says talks are underway for a historic three-leader meeting.",
+      "sticker": "Three leaders, one room?",
+      "korean_hook": "중국이 세 정상 회동을 논의 중이라고 밝혔다.",
+      "takeaway_english": "The possible summit may be symbolically historic even if the leaders avoid difficult substantive issues.",
+      "takeaway_korean": "정상회의는 실질 논의가 적어도 상징적으로 역사적일 수 있다.",
+      "why_it_matters": [
+        {
+          "english": "The three countries possess major military, economic, and diplomatic influence.",
+          "korean": "세 나라는 큰 군사·경제·외교 영향력을 가진다."
+        },
+        {
+          "english": "The meeting could shape how other countries read relations among Washington, Beijing, and Moscow.",
+          "korean": "회동은 다른 나라들의 국제정세 해석에 영향을 줄 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "China",
+          "english": "Beijing would host the possible meeting during the APEC summit in Shenzhen.",
+          "korean": "중국은 선전 APEC 정상회의에서 회동을 열 수 있다."
+        },
+        {
+          "label": "United States",
+          "english": "Trump is expected to visit Shenzhen and meet Xi again.",
+          "korean": "트럼프는 선전을 방문해 시진핑을 다시 만날 예정이다."
+        },
+        {
+          "label": "Russia",
+          "english": "Putin could gain diplomatic visibility from standing beside both leaders.",
+          "korean": "푸틴은 두 정상 옆에 서며 외교적 주목을 얻을 수 있다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Sun Yun",
+          "english": "Sun Yun says China wants the image of the meeting without paying its political costs.",
+          "korean": "선윈은 중국이 비용 없이 회동의 이미지를 원한다고 말한다."
+        },
+        {
+          "label": "Danny Russel",
+          "english": "Danny Russel says Russia has the most to gain from the trilateral meeting.",
+          "korean": "대니 러셀은 러시아가 회동에서 가장 많이 얻는다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Others may see even a symbolic meeting as useful for keeping communication open among rival powers.",
+        "korean": "다른 사람들은 상징적 회동도 경쟁국 간 소통에 도움이 된다고 볼 수 있다."
+      },
+      "reader_question_korean": "사진만 남는 정상회의도 중요할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "China says discussions underway on Xi-Trump-Putin meeting",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "China",
+            "english": "Beijing confirms communication but says nothing is set.",
+            "korean": "중국은 연락 중이지만 정해진 것은 없다고 말했다."
+          },
+          {
+            "label": "Analysts",
+            "english": "Some analysts expect a powerful image but little substantive agreement.",
+            "korean": "일부 분석가는 사진은 남지만 실질 합의는 적을 것으로 본다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Possible timing: November 18–19, 2026",
+        "Location discussed: Shenzhen, China"
+      ],
+      "reader_question": "Would a photo-only summit still matter?",
+      "topic_tag": "Diplomacy",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "China says discussions underway on Xi-Trump-Putin meeting",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "중국은",
+          "roman": "jungguk-eun",
+          "english": "China",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "이번",
+          "roman": "ibeon",
+          "english": "this",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "달",
+          "roman": "dal",
+          "english": "month",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "선전에서",
+          "roman": "seonjeon-eseo",
+          "english": "in Shenzhen",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "세",
+          "roman": "se",
+          "english": "three",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "정상",
+          "roman": "jeongsang",
+          "english": "leaders",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "회동을",
+          "roman": "hoedong-eul",
+          "english": "meeting",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "논의한다고",
+          "roman": "nonuihandago",
+          "english": "is discussing",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "말했다",
+          "roman": "malhaetda",
+          "english": "said",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "China said it was discussing a possible Xi-Trump-Putin meeting in Shenzhen this month.",
+          "korean": "중국은 이번 달 선전에서 세 정상 회동을 논의한다고 말했다.",
+          "glossary": [
+            {
+              "korean": "중국은",
+              "roman": "jungguk-eun",
+              "english": "China",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "이번",
+              "roman": "ibeon",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "달",
+              "roman": "dal",
+              "english": "month",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선전에서",
+              "roman": "seonjeon-eseo",
+              "english": "in Shenzhen",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정상",
+              "roman": "jeongsang",
+              "english": "leaders",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "회동을",
+              "roman": "hoedong-eul",
+              "english": "meeting",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "논의한다고",
+              "roman": "nonuihandago",
+              "english": "is discussing",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "truth",
+          "english": "The meeting is possible, but no date, format, or agenda has been finalized.",
+          "korean": "회동은 가능하지만 날짜와 형식과 의제는 정해지지 않았다.",
+          "glossary": [
+            {
+              "korean": "회동은",
+              "roman": "hoedong-eun",
+              "english": "meeting",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "가능하지만",
+              "roman": "ganeunghajiman",
+              "english": "is possible but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "날짜와",
+              "roman": "naljja-wa",
+              "english": "date and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "형식과",
+              "roman": "hyeongsik-gwa",
+              "english": "format and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "의제는",
+              "roman": "uije-neun",
+              "english": "agenda",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "정해지지",
+              "roman": "jeonghaeji-ji",
+              "english": "not finalized",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않았다",
+              "roman": "anatda",
+              "english": "was not",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The possible meeting would occur during China’s APEC summit for 21 economies.",
+          "korean": "가능한 회동은 중국의 21개 경제 APEC 정상회의에서 열린다.",
+          "glossary": [
+            {
+              "korean": "가능한",
+              "roman": "ganeunghan",
+              "english": "possible",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "회동은",
+              "roman": "hoedong-eun",
+              "english": "meeting",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "중국의",
+              "roman": "jungguk-ui",
+              "english": "China’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "21개",
+              "roman": "isibil-gae",
+              "english": "21",
+              "particle": false,
+              "suffix": "개"
+            },
+            {
+              "korean": "경제",
+              "roman": "gyeongje",
+              "english": "economies",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "APEC",
+              "roman": "APEC",
+              "english": "APEC",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정상회의에서",
+              "roman": "jeongsanghoe-ui-eseo",
+              "english": "at summit",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "열린다",
+              "roman": "yeollinda",
+              "english": "will be held",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Analysts say Russia may gain most, while China worries about diplomatic costs.",
+          "korean": "분석가들은 러시아가 가장 얻고 중국은 외교 비용을 걱정한다고 말한다.",
+          "glossary": [
+            {
+              "korean": "분석가들은",
+              "roman": "bunseokgadeul-eun",
+              "english": "analysts",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "러시아가",
+              "roman": "reosia-ga",
+              "english": "Russia",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "가장",
+              "roman": "gajang",
+              "english": "most",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "얻고",
+              "roman": "eotgo",
+              "english": "gains and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "중국은",
+              "roman": "jungguk-eun",
+              "english": "China",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "외교",
+              "roman": "oegyo",
+              "english": "diplomatic",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "비용을",
+              "roman": "biyong-eul",
+              "english": "costs",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "걱정한다고",
+              "roman": "geokjeonghandago",
+              "english": "worries",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말한다",
+              "roman": "malhanda",
+              "english": "say",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece",
+      "short_english": "China said it was discussing a possible Xi-Trump-Putin meeting in Shenzhen this month.",
+      "short_korean": "중국은 이번 달 선전에서 세 정상 회동을 논의한다고 말했다.",
+      "date": "2026-11-07",
+      "images": [
+        "images/global/c1c829a54f07/1.jpg",
+        "images/global/c1c829a54f07/2.jpg",
+        "images/global/c1c829a54f07/3.jpg",
+        "images/global/c1c829a54f07/4.jpg",
+        "images/global/c1c829a54f07/5.jpg",
+        "images/global/c1c829a54f07/6.jpg",
+        "images/global/c1c829a54f07/7.jpg",
+        "images/global/c1c829a54f07/8.jpg",
+        "images/global/c1c829a54f07/9.jpg",
+        "images/global/c1c829a54f07/10.jpg",
+        "images/global/c1c829a54f07/11.jpg",
+        "images/global/c1c829a54f07/12.jpg",
+        "images/global/c1c829a54f07/13.jpg",
+        "images/global/c1c829a54f07/14.jpg",
+        "images/global/c1c829a54f07/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/c1c829a54f07/caption.txt"
     }
   ]
 }

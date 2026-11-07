@@ -1,743 +1,330 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0154",
-  "generated_at": "2026-11-06T08:00:13.695Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0152",
+  "generated_at": "2026-11-07T07:12:41.823Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "코치 의사 폭행 사건에 배우 체포",
-      "english_title": "Actors Arrested After Kochi Doctor Allegedly Robbed",
-      "korean_desc": "경찰은 2026년 11월 6일 코치에서 배우 비빈 페룸팔리와 아툴리야 찬드라를 체포했다. 41세 의사는 응급 진료 요청을 받고 아파트에 갔다고 한다. 고소장은 일행이 그를 때리고 32만 5천 루피를 훔쳤다고 말한다. 사건에는 피고인 12명이 있고 아홉 명은 아직 신원 미상이다.",
-      "english_desc": "Police arrested actors Bibin Perumpally and Athulya Chandra in Kochi on November 6, 2026. A 41-year-old doctor allegedly went to an apartment after being asked for emergency medical help. The complaint says a group assaulted him and stole valuables worth ₹3.25 lakh. The case lists 12 accused people, while nine identities remain unknown.",
-      "hook": "Two actors were arrested after a doctor was allegedly robbed.",
-      "sticker": "What police allege",
-      "korean_hook": "의사 강도 사건에 배우 둘 체포",
-      "takeaway_english": "The investigation must establish what happened and who else was involved.",
-      "takeaway_korean": "수사는 실제 일과 다른 관련자를 밝혀야 한다.",
+      "korean_title": "아몬카르, 고아 장관 취임",
+      "english_title": "Amonkar fills Goa’s empty cabinet seat",
+      "korean_desc": "산칼프 아몬카르는 2026년 11월 7일 고아 내각에 들어갔다. 그 자리는 라비 나익 장관이 2025년 10월 사망한 뒤 비었다. 아몬카르는 2022년 모르무가오에서 이긴 뒤 일곱 의원과 BJP로 갔다. BJP 지도자들은 임명이 2027년 고아 선거에 도움이 되길 기대한다.",
+      "english_desc": "Sankalp Amonkar joined Goa’s cabinet on November 7, 2026. The post had been empty since minister Ravi Naik died in October 2025. Amonkar won Mormugao for Congress in 2022, then joined the BJP with seven other lawmakers. BJP leaders expect the appointment to help before Goa’s 2027 election.",
+      "hook": "Goa’s cabinet seat stayed empty for a year.",
+      "sticker": "Goa gets a minister",
+      "korean_hook": "고아 장관 자리가 1년 비었다",
+      "takeaway_english": "A vacant post is filled, but its electoral value remains disputed.",
+      "takeaway_korean": "빈자리는 채워졌지만 선거 가치는 논쟁 중이다.",
       "why_it_matters": [
         {
-          "english": "The case involves alleged violence, confinement and robbery.",
-          "korean": "이 사건에는 폭행, 감금, 강도 혐의가 있다."
-        },
-        {
-          "english": "The doctor’s complaint is the basis for the investigation.",
-          "korean": "의사의 고소가 수사의 근거다."
+          "english": "Cabinet membership gives Mormugao a direct voice in Goa’s government.",
+          "korean": "장관 자리는 모르무가오에 정부의 직접 목소리를 준다."
         }
       ],
       "parties": [
         {
-          "label": "Kochi police",
-          "english": "Police arrested two actors in the case.",
-          "korean": "경찰은 사건에서 배우 둘을 체포했다."
+          "label": "Sankalp Amonkar",
+          "english": "He became a cabinet minister after moving from Congress to BJP in 2022.",
+          "korean": "그는 2022년 의회당에서 BJP로 옮긴 뒤 장관이 됐다."
         },
         {
-          "label": "The doctor",
-          "english": "The 41-year-old doctor filed the complaint.",
-          "korean": "41세 의사가 고소장을 냈다."
+          "label": "Goa government",
+          "english": "The twelve-member council now has no vacancy.",
+          "korean": "고아 정부의 12명 내각이 이제 모두 찼다."
         },
         {
-          "label": "Other suspects",
-          "english": "Ten other people are named or still unidentified.",
-          "korean": "다른 열 명은 이름이 밝혀졌거나 미확인이다."
+          "label": "Mormugao",
+          "english": "The region may gain political importance before the 2027 election.",
+          "korean": "모르무가오는 2027년 선거를 앞두고 중요해질 수 있다."
         }
       ],
       "views": [
         {
-          "label": "Police and the complaint",
-          "english": "The case alleges the doctor was lured to an apartment and robbed.",
-          "korean": "사건은 의사가 아파트로 유인돼 강도 피해를 당했다고 주장한다."
+          "label": "BJP supporters",
+          "english": "The appointment gives the BJP stronger representation in Mormugao.",
+          "korean": "이번 임명은 모르무가오에서 BJP의 대표성을 높인다."
         },
         {
-          "label": "The defence position",
-          "english": "The available coverage does not include a response from the arrested actors.",
-          "korean": "확인된 보도에는 체포된 배우들의 반응이 없다."
+          "label": "Congress critics",
+          "english": "The appointment rewards a politician who won the seat as a Congress candidate.",
+          "korean": "이번 임명은 의회당 후보로 당선된 정치인에게 보상한다."
         }
       ],
       "disagree": {
-        "english": "Arrest and allegations do not establish guilt, and the investigation is incomplete.",
-        "korean": "체포와 혐의만으로 유죄가 확정되지는 않으며 수사는 끝나지 않았다."
+        "english": "Others may say the appointment fills a vacancy rather than proving wider political strength.",
+        "korean": "다른 사람들은 단순히 빈자리를 채웠다고 말할 수 있다."
       },
-      "reader_question_korean": "경찰은 다음에 어떤 정보를 공개해야 할까요?",
+      "reader_question_korean": "당적 변경은 장관직으로 이어져야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 25"
+        "fewer than 2 outlets"
       ],
-      "source_title": "Two actors held on charge of assaulting and robbing doctor in Kochi",
+      "source_title": "BJP MLA Sankalp Amonkar inducted into Goa cabinet",
       "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "The alleged incident took place on November 2, 2026.",
-        "The case was registered in Kochi, Kerala."
-      ],
-      "reader_question": "What information should police release next?",
-      "topic_tag": "Crime",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Two actors held on charge of assaulting and robbing doctor in Kochi",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/news/national/kerala/two-actors-held-on-charge-of-assaulting-and-robbing-doctor-in-kochi/article71670572.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "경찰은",
-          "roman": "gyeongchal-eun",
-          "english": "police",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isibyug-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "11월",
-          "roman": "sibilwol",
-          "english": "November",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "6일",
-          "roman": "yugil",
-          "english": "6th day",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "코치에서",
-          "roman": "Kochi-eseo",
-          "english": "in Kochi",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "배우",
-          "roman": "baeu",
-          "english": "actors",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "비빈",
-          "roman": "Bibin",
-          "english": "Bibin",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "페룸팔리와",
-          "roman": "Perumpally-wa",
-          "english": "Perumpally and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "아툴리야",
-          "roman": "Atuliya",
-          "english": "Athulya",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "찬드라를",
-          "roman": "Chandra-reul",
-          "english": "Chandra",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "체포했다",
-          "roman": "chepohatta",
-          "english": "arrested",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Police arrested actors Bibin Perumpally and Athulya Chandra in Kochi on November 6, 2026.",
-          "korean": "경찰은 2026년 11월 6일 코치에서 배우 비빈 페룸팔리와 아툴리야 찬드라를 체포했다.",
-          "glossary": [
-            {
-              "korean": "경찰은",
-              "roman": "gyeongchal-eun",
-              "english": "police",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isibyug-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "11월",
-              "roman": "sibilwol",
-              "english": "November",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "6일",
-              "roman": "yugil",
-              "english": "6th day",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "코치에서",
-              "roman": "Kochi-eseo",
-              "english": "in Kochi",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "배우",
-              "roman": "baeu",
-              "english": "actors",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "비빈",
-              "roman": "Bibin",
-              "english": "Bibin",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "페룸팔리와",
-              "roman": "Perumpally-wa",
-              "english": "Perumpally and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "아툴리야",
-              "roman": "Atuliya",
-              "english": "Athulya",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "찬드라를",
-              "roman": "Chandra-reul",
-              "english": "Chandra",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "체포했다",
-              "roman": "chepohatta",
-              "english": "arrested",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "A 41-year-old doctor allegedly went to an apartment after being asked for emergency medical help.",
-          "korean": "41세 의사는 응급 진료 요청을 받고 아파트에 갔다고 한다.",
-          "glossary": [
-            {
-              "korean": "41세",
-              "roman": "sasibil-se",
-              "english": "41-year-old",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의사는",
-              "roman": "uisa-neun",
-              "english": "doctor",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "응급",
-              "roman": "eunggeup",
-              "english": "emergency",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "진료",
-              "roman": "jinryo",
-              "english": "medical care",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "요청을",
-              "roman": "yocheong-eul",
-              "english": "request",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "받고",
-              "roman": "batgo",
-              "english": "after receiving",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "아파트에",
-              "roman": "apateu-e",
-              "english": "to an apartment",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "갔다고",
-              "roman": "gatdago",
-              "english": "went, reportedly",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "한다",
-              "roman": "handa",
-              "english": "it is said",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The complaint says a group assaulted him and stole valuables worth ₹3.25 lakh.",
-          "korean": "고소장은 일행이 그를 때리고 32만 5천 루피를 훔쳤다고 말한다.",
-          "glossary": [
-            {
-              "korean": "고소장은",
-              "roman": "goso-jang-eun",
-              "english": "the complaint",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "일행이",
-              "roman": "ilhaeng-i",
-              "english": "the group",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "그를",
-              "roman": "geu-reul",
-              "english": "him",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "때리고",
-              "roman": "ttaerigo",
-              "english": "hit and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "32만",
-              "roman": "samsibi-man",
-              "english": "325,000",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5천",
-              "roman": "ocheon",
-              "english": "5,000",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "루피를",
-              "roman": "rupi-reul",
-              "english": "rupees",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "훔쳤다고",
-              "roman": "humchyeotdago",
-              "english": "stole, allegedly",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말한다",
-              "roman": "malhanda",
-              "english": "says",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The case lists 12 accused people, while nine identities remain unknown.",
-          "korean": "사건에는 피고인 12명이 있고 아홉 명은 아직 신원 미상이다.",
-          "glossary": [
-            {
-              "korean": "사건에는",
-              "roman": "sageon-eneun",
-              "english": "in the case",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "피고인",
-              "roman": "pigoin",
-              "english": "accused people",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "12명이",
-              "roman": "sibi-myeong-i",
-              "english": "12 people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "있고",
-              "roman": "itgo",
-              "english": "there are, and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "아홉",
-              "roman": "ahop",
-              "english": "nine",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "명은",
-              "roman": "myeong-eun",
-              "english": "people",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "아직",
-              "roman": "ajik",
-              "english": "still",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "신원",
-              "roman": "sinwon",
-              "english": "identity",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "미상이다",
-              "roman": "misang-ida",
-              "english": "are unknown",
-              "particle": false,
-              "suffix": "이다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/kerala/two-actors-held-on-charge-of-assaulting-and-robbing-doctor-in-kochi/article71670572.ece",
-      "short_english": "Police arrested actors Bibin Perumpally and Athulya Chandra in Kochi on November 6, 2026.",
-      "short_korean": "경찰은 2026년 11월 6일 코치에서 배우 비빈 페룸팔리와 아툴리야 찬드라를 체포했다.",
-      "date": "2026-11-06",
-      "images": [
-        "images/indian/9ac81e871278/1.jpg",
-        "images/indian/9ac81e871278/2.jpg",
-        "images/indian/9ac81e871278/3.jpg",
-        "images/indian/9ac81e871278/4.jpg",
-        "images/indian/9ac81e871278/5.jpg",
-        "images/indian/9ac81e871278/6.jpg",
-        "images/indian/9ac81e871278/7.jpg",
-        "images/indian/9ac81e871278/8.jpg",
-        "images/indian/9ac81e871278/9.jpg",
-        "images/indian/9ac81e871278/10.jpg",
-        "images/indian/9ac81e871278/11.jpg",
-        "images/indian/9ac81e871278/12.jpg",
-        "images/indian/9ac81e871278/13.jpg",
-        "images/indian/9ac81e871278/14.jpg",
-        "images/indian/9ac81e871278/15.jpg",
-        "images/indian/9ac81e871278/16.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/9ac81e871278/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "10월 자동차 판매 24% 감소",
-      "english_title": "October Auto Sales Fell, But EVs Hit A Record",
-      "korean_desc": "인도는 2026년 10월 차량 3,172,466대를 팔아 24% 줄었다. 2025년 10월에는 축제와 GST 인하 뒤 수요가 함께 몰렸다. 이륜차는 28.35% 줄었지만 상용차는 2.29% 늘었다. 전기차 판매는 약 35만 5천 대로 늘어 점유율 11.5%가 됐다.",
-      "english_desc": "India sold 3,172,466 vehicles in October 2026, down 24% from October 2025. October 2025 combined Navratri, Diwali and demand released after GST rate cuts. Two-wheelers fell 28.35%, while commercial vehicles grew 2.29% year-on-year. EV sales reached about 355,000, lifting overall penetration to roughly 11.5%.",
-      "hook": "October vehicle sales fell 24%, while EVs reached a record.",
-      "sticker": "A strange sales month 🚗",
-      "korean_hook": "자동차 판매는 24% 줄고 전기차는 기록",
-      "takeaway_english": "November sales will test whether the October fall was timing or genuine weakness.",
-      "takeaway_korean": "11월 판매가 시기 문제인지 실제 약세인지 시험한다.",
-      "why_it_matters": [
-        {
-          "english": "Vehicle sales show how households and businesses are spending.",
-          "korean": "자동차 판매는 가정과 기업의 지출을 보여준다."
-        },
-        {
-          "english": "Commercial vehicles rose, offering a stronger sign of freight activity.",
-          "korean": "상용차가 늘어 운송 활동의 강한 신호가 됐다."
-        },
-        {
-          "english": "EV growth shows changing choices in transport.",
-          "korean": "전기차 성장은 교통 선택의 변화를 보여준다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "FADA",
-          "english": "The dealers’ group says the annual fall is mainly a calendar effect.",
-          "korean": "딜러협회는 연간 감소가 주로 달력 효과라고 말한다."
-        },
-        {
-          "label": "Vehicle dealers",
-          "english": "Dealers expect deferred festive buying to appear in November.",
-          "korean": "딜러들은 미뤄진 축제 수요가 11월에 나타날 것으로 본다."
-        },
-        {
-          "label": "EV makers",
-          "english": "Electric vehicles reached about 355,000 sales and 11.5% penetration.",
-          "korean": "전기차는 약 35만 5천 대와 11.5% 점유율을 기록했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "FADA",
-          "english": "The fall is mostly optical because October 2025 was unusually strong.",
-          "korean": "2025년 10월이 매우 강해 감소가 대부분 착시라는 견해다."
-        },
-        {
-          "label": "Market watchers",
-          "english": "The sharper rural two-wheeler decline still shows pressure in important consumer segments.",
-          "korean": "농촌 이륜차 감소는 주요 소비 부문의 압박을 보여준다는 견해다."
-        }
-      ],
-      "disagree": {
-        "english": "November data is needed before anyone can tell delayed demand from weaker demand.",
-        "korean": "미뤄진 수요와 약한 수요를 구분하려면 11월 자료가 필요하다."
-      },
-      "reader_question_korean": "11월에 구매가 단지 미뤄졌다는 것이 증명될까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 2025",
-        "number missing in Korean: 355, 000"
-      ],
-      "source_title": "Automobile retail sales fall 24% in October on high base effect a year ago",
-      "hook_format": "number",
-      "body_format": "before_after",
+      "body_format": "two_views",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "24%",
-          "label": "October sales decline",
-          "korean_label": "10월 판매 감소율"
-        },
-        "before": {
-          "label": "",
-          "english": "October 2025 had Navratri, Diwali and pent-up demand together.",
-          "korean": "2025년 10월에는 나브라트리와 디왈리가 함께 있었다."
-        },
-        "after": {
-          "label": "",
-          "english": "In October 2026, Diwali shifted to November and sales comparisons weakened.",
-          "korean": "2026년 10월 디왈리는 11월로 옮겨 비교가 약해졌다."
-        }
+        "views": [
+          {
+            "label": "BJP supporters",
+            "english": "Amonkar’s appointment may strengthen the BJP in Mormugao before the 2027 election.",
+            "korean": "아몬카르의 임명은 선거 전 BJP를 강화할 수 있다."
+          },
+          {
+            "label": "Congress critics",
+            "english": "His move also highlights his switch from Congress to BJP after winning the seat for Congress.",
+            "korean": "그의 이동은 의회당에서 BJP로 바꾼 일을 보여 준다."
+          }
+        ]
       },
       "serious": false,
       "caption_lines": [
-        "FADA released the data on November 6, 2026.",
-        "Diwali fell in November in 2026."
+        "Amonkar won Mormugao in 2022.",
+        "Ravi Naik died on October 15, 2025."
       ],
-      "reader_question": "Will November prove that buyers only delayed their purchases?",
-      "topic_tag": "Business",
+      "reader_question": "Should party switches lead to cabinet posts?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Automobile retail sales fall 24% in October on high base effect a year ago",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/business/Industry/automobile-retail-sales-fall-24-in-october-on-high-base-effect-a-year-ago/article71673102.ece"
+          "title": "BJP MLA Sankalp Amonkar inducted into Goa cabinet",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "인도는",
-          "roman": "Indo-neun",
-          "english": "India",
+          "korean": "산칼프",
+          "roman": "san-kal-peu",
+          "english": "Sankalp",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "아몬카르는",
+          "roman": "a-mon-ka-reu-neun",
+          "english": "Amonkar",
           "particle": false,
           "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "icheon-isibyug-nyeon",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
           "english": "2026",
           "particle": false,
-          "suffix": ""
+          "suffix": "년"
         },
         {
-          "korean": "10월",
-          "roman": "sibiwol",
-          "english": "October",
+          "korean": "11월",
+          "roman": "sip-il-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "7일",
+          "roman": "chil-il",
+          "english": "7th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "고아",
+          "roman": "go-a",
+          "english": "Goa",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "차량",
-          "roman": "charyang",
-          "english": "vehicles",
+          "korean": "내각에",
+          "roman": "nae-gak-e",
+          "english": "cabinet",
           "particle": false,
-          "suffix": ""
+          "suffix": "에"
         },
         {
-          "korean": "3,172,466대를",
-          "roman": "sambaekman-ilchilman-sabaek-yugsip-yugdae-reul",
-          "english": "3,172,466 vehicles",
+          "korean": "들어갔다",
+          "roman": "deul-eo-gat-da",
+          "english": "entered",
           "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "팔아",
-          "roman": "para",
-          "english": "selling",
-          "particle": false,
-          "suffix": "아"
-        },
-        {
-          "korean": "줄었다",
-          "roman": "jureotda",
-          "english": "fell",
-          "particle": false,
-          "suffix": "었다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "India sold 3,172,466 vehicles in October 2026, down 24% from October 2025.",
-          "korean": "인도는 2026년 10월 차량 3,172,466대를 팔아 24% 줄었다.",
+          "english": "Sankalp Amonkar joined Goa’s cabinet on November 7, 2026.",
+          "korean": "산칼프 아몬카르는 2026년 11월 7일 고아 내각에 들어갔다.",
           "glossary": [
             {
-              "korean": "인도는",
-              "roman": "Indo-neun",
-              "english": "India",
+              "korean": "산칼프",
+              "roman": "san-kal-peu",
+              "english": "Sankalp",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "아몬카르는",
+              "roman": "a-mon-ka-reu-neun",
+              "english": "Amonkar",
               "particle": false,
               "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "icheon-isibyug-nyeon",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
               "english": "2026",
               "particle": false,
-              "suffix": ""
+              "suffix": "년"
             },
             {
-              "korean": "10월",
-              "roman": "sibiwol",
-              "english": "October",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "고아",
+              "roman": "go-a",
+              "english": "Goa",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "차량",
-              "roman": "charyang",
-              "english": "vehicles",
+              "korean": "내각에",
+              "roman": "nae-gak-e",
+              "english": "cabinet",
               "particle": false,
-              "suffix": ""
+              "suffix": "에"
             },
             {
-              "korean": "3,172,466대를",
-              "roman": "sambaekman-ilchilman-sabaek-yugsip-yugdae-reul",
-              "english": "3,172,466 vehicles",
+              "korean": "들어갔다",
+              "roman": "deul-eo-gat-da",
+              "english": "entered",
               "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "팔아",
-              "roman": "para",
-              "english": "selling",
-              "particle": false,
-              "suffix": "아"
-            },
-            {
-              "korean": "줄었다",
-              "roman": "jureotda",
-              "english": "fell",
-              "particle": false,
-              "suffix": "었다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "October 2025 combined Navratri, Diwali and demand released after GST rate cuts.",
-          "korean": "2025년 10월에는 축제와 GST 인하 뒤 수요가 함께 몰렸다.",
+          "english": "The post had been empty since minister Ravi Naik died in October 2025.",
+          "korean": "그 자리는 라비 나익 장관이 2025년 10월 사망한 뒤 비었다.",
           "glossary": [
             {
+              "korean": "그",
+              "roman": "geu",
+              "english": "that",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "자리는",
+              "roman": "ja-ri-neun",
+              "english": "post",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "라비",
+              "roman": "ra-bi",
+              "english": "Ravi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "나익",
+              "roman": "na-ik",
+              "english": "Naik",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장관이",
+              "roman": "jang-gwan-i",
+              "english": "minister",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
               "korean": "2025년",
-              "roman": "icheon-isib-o-nyeon",
+              "roman": "i-cheon-i-sip-o-nyeon",
               "english": "2025",
               "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "사망한",
+              "roman": "sa-mang-han",
+              "english": "died",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
               "suffix": ""
             },
             {
-              "korean": "10월에는",
-              "roman": "sibiwol-eneun",
-              "english": "in October",
+              "korean": "비었다",
+              "roman": "bi-eot-da",
+              "english": "was empty",
               "particle": false,
-              "suffix": "에는"
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Amonkar won Mormugao for Congress in 2022, then joined the BJP with seven other lawmakers.",
+          "korean": "아몬카르는 2022년 모르무가오에서 이긴 뒤 일곱 의원과 BJP로 갔다.",
+          "glossary": [
+            {
+              "korean": "아몬카르는",
+              "roman": "a-mon-ka-reu-neun",
+              "english": "Amonkar",
+              "particle": false,
+              "suffix": "는"
             },
             {
-              "korean": "축제와",
-              "roman": "chukje-wa",
-              "english": "festivals and",
+              "korean": "2022년",
+              "roman": "i-cheon-i-sip-i-nyeon",
+              "english": "2022",
               "particle": false,
-              "suffix": "와"
+              "suffix": "년"
             },
             {
-              "korean": "GST",
-              "roman": "GST",
-              "english": "GST",
+              "korean": "모르무가오에서",
+              "roman": "mo-reu-mu-ga-o-e-seo",
+              "english": "in Mormugao",
               "particle": false,
-              "suffix": ""
+              "suffix": "에서"
             },
             {
-              "korean": "인하",
-              "roman": "inha",
-              "english": "cuts",
+              "korean": "이긴",
+              "roman": "i-gin",
+              "english": "won",
               "particle": false,
               "suffix": ""
             },
@@ -749,658 +336,1025 @@
               "suffix": ""
             },
             {
-              "korean": "수요가",
-              "roman": "suyo-ga",
-              "english": "demand",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "함께",
-              "roman": "hamkke",
-              "english": "together",
+              "korean": "일곱",
+              "roman": "il-gop",
+              "english": "seven",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "몰렸다",
-              "roman": "mollyeotda",
-              "english": "surged",
+              "korean": "의원과",
+              "roman": "ui-won-gwa",
+              "english": "lawmakers and",
               "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Two-wheelers fell 28.35%, while commercial vehicles grew 2.29% year-on-year.",
-          "korean": "이륜차는 28.35% 줄었지만 상용차는 2.29% 늘었다.",
-          "glossary": [
-            {
-              "korean": "이륜차는",
-              "roman": "iryuncha-neun",
-              "english": "two-wheelers",
-              "particle": false,
-              "suffix": "는"
+              "suffix": "과"
             },
             {
-              "korean": "줄었지만",
-              "roman": "jureotjiman",
-              "english": "fell but",
+              "korean": "BJP로",
+              "roman": "BJP-ro",
+              "english": "to BJP",
               "particle": false,
-              "suffix": "지만"
+              "suffix": "로"
             },
             {
-              "korean": "상용차는",
-              "roman": "sangyongcha-neun",
-              "english": "commercial vehicles",
+              "korean": "갔다",
+              "roman": "gat-da",
+              "english": "went",
               "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "늘었다",
-              "roman": "neureotda",
-              "english": "grew",
-              "particle": false,
-              "suffix": "었다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "EV sales reached about 355,000, lifting overall penetration to roughly 11.5%.",
-          "korean": "전기차 판매는 약 35만 5천 대로 늘어 점유율 11.5%가 됐다.",
+          "english": "BJP leaders expect the appointment to help before Goa’s 2027 election.",
+          "korean": "BJP 지도자들은 임명이 2027년 고아 선거에 도움이 되길 기대한다.",
           "glossary": [
             {
-              "korean": "전기차",
-              "roman": "jeongicha",
-              "english": "EVs",
+              "korean": "BJP",
+              "roman": "BJP",
+              "english": "BJP",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "판매는",
-              "roman": "panmae-neun",
-              "english": "sales",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "35만",
-              "roman": "samsibo-man",
-              "english": "350,000",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5천",
-              "roman": "ocheon",
-              "english": "5,000",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대로",
-              "roman": "dae-ro",
-              "english": "units",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "늘어",
-              "roman": "neureo",
-              "english": "rising",
-              "particle": false,
-              "suffix": "어"
-            },
-            {
-              "korean": "점유율",
-              "roman": "jeomyuyul",
-              "english": "share",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "11.5%가",
-              "roman": "sibil-jeom-o-puro-ga",
-              "english": "11.5 percent",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "됐다",
-              "roman": "dwaetda",
-              "english": "became",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/business/Industry/automobile-retail-sales-fall-24-in-october-on-high-base-effect-a-year-ago/article71673102.ece",
-      "short_english": "India sold 3,172,466 vehicles in October 2026, down 24% from October 2025.",
-      "short_korean": "인도는 2026년 10월 차량 3,172,466대를 팔아 24% 줄었다.",
-      "date": "2026-11-06",
-      "images": [
-        "images/indian/2f408a279bc7/1.jpg",
-        "images/indian/2f408a279bc7/2.jpg",
-        "images/indian/2f408a279bc7/3.jpg",
-        "images/indian/2f408a279bc7/4.jpg",
-        "images/indian/2f408a279bc7/5.jpg",
-        "images/indian/2f408a279bc7/6.jpg",
-        "images/indian/2f408a279bc7/7.jpg",
-        "images/indian/2f408a279bc7/8.jpg",
-        "images/indian/2f408a279bc7/9.jpg",
-        "images/indian/2f408a279bc7/10.jpg",
-        "images/indian/2f408a279bc7/11.jpg",
-        "images/indian/2f408a279bc7/12.jpg",
-        "images/indian/2f408a279bc7/13.jpg",
-        "images/indian/2f408a279bc7/14.jpg",
-        "images/indian/2f408a279bc7/15.jpg",
-        "images/indian/2f408a279bc7/16.jpg",
-        "images/indian/2f408a279bc7/17.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/2f408a279bc7/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "아트 뭄바이, 더 넓어진 미술 시장",
-      "english_title": "Art Mumbai Bets On A New Kind Of Collector",
-      "korean_desc": "아트 뭄바이는 2026년 11월 12일 마할락스미 경마장에서 네 번째 행사를 연다. 주최 측은 더 젊고 다양하며 많이 아는 구매자를 겨냥한다. 행사에는 94곳, 해설 투어, 강연, 공연, 어린이 활동이 있다.",
-      "english_desc": "Art Mumbai opens its fourth edition at Mahalaxmi Racecourse on November 12, 2026. Its organisers are targeting buyers who are younger, broader and more informed. The programme includes 94 exhibitors, guided walks, talks, performances and children’s activities.",
-      "hook": "Art Mumbai returns with 94 exhibitors and a broader audience.",
-      "sticker": "Art gets a bigger room 🎨",
-      "korean_hook": "아트 뭄바이가 94곳과 돌아온다",
-      "takeaway_english": "The fair’s real test is whether wider access creates deeper participation.",
-      "takeaway_korean": "진짜 시험은 넓은 접근이 깊은 참여를 만드는지다.",
-      "why_it_matters": [
-        {
-          "english": "Art Mumbai shows how India’s collector base is changing.",
-          "korean": "아트 뭄바이는 인도 수집가층의 변화를 보여준다."
-        },
-        {
-          "english": "The programme invites children and non-buyers into the art world.",
-          "korean": "행사는 어린이와 비구매자도 미술 세계로 초대한다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Art Mumbai",
-          "english": "The fair will hold its fourth edition from November 12 to 15.",
-          "korean": "아트 뭄바이는 11월 12일부터 15일까지 네 번째 행사를 연다."
-        },
-        {
-          "label": "New buyers",
-          "english": "Younger entrepreneurs, professionals and first-time buyers are entering the market.",
-          "korean": "젊은 기업가와 전문가, 첫 구매자들이 시장에 들어온다."
-        },
-        {
-          "label": "Public museums",
-          "english": "They remain important for audiences across generations and incomes.",
-          "korean": "공공 박물관은 모든 세대와 소득층에 중요하다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Art Mumbai organisers",
-          "english": "The fair sees collecting as research, education and long-term engagement.",
-          "korean": "주최 측은 수집을 연구와 교육, 장기 참여로 본다."
-        },
-        {
-          "label": "Museum-centred view",
-          "english": "A commercial fair cannot replace the broad civic role of public museums.",
-          "korean": "상업 아트페어는 공공 박물관의 넓은 시민 역할을 대신할 수 없다."
-        }
-      ],
-      "disagree": {
-        "english": "The fair expands access, but buying art still depends on money and information.",
-        "korean": "아트페어가 접근성을 넓혀도 미술 구매에는 돈과 정보가 필요하다."
-      },
-      "reader_question_korean": "미술을 안 살 사람도 아트페어에 초대해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "The next chapter of Art Mumbai",
-      "hook_format": "headline",
-      "body_format": "who_speaks",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "people": [
-          {
-            "label": "Minal Vazirani",
-            "english": "She says Indian collectors are younger, broader and more curious.",
-            "korean": "인도 수집가들은 더 젊고 다양하며 호기심이 많다고 말한다."
-          },
-          {
-            "label": "Dinesh Vazirani",
-            "english": "He says fairs can combine discovery with buying.",
-            "korean": "아트페어는 발견과 구매를 함께 할 수 있다고 말한다."
-          },
-          {
-            "label": "Public museums",
-            "english": "Minal says public museums still have a civic duty private foundations cannot replace.",
-            "korean": "공공 박물관은 민간 재단이 대신할 수 없는 시민 책임이 있다고 한다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "The fourth edition runs November 12–15, 2026.",
-        "The theme is “Where Collections Take Shape.”"
-      ],
-      "reader_question": "Should an art fair welcome people who never plan to buy?",
-      "topic_tag": "Culture",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "The next chapter of Art Mumbai",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/entertainment/art/art-mumbai-2026-fourth-edition-new-buyers-international-galleries-minal-vazirani/article71664306.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "아트",
-          "roman": "ateu",
-          "english": "Art",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "뭄바이는",
-          "roman": "Mumbai-neun",
-          "english": "Mumbai",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isibyug-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "11월",
-          "roman": "sibilwol",
-          "english": "November",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "12일",
-          "roman": "sibi-il",
-          "english": "12th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "마할락스미",
-          "roman": "Mahallakseumi",
-          "english": "Mahalaxmi",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "경마장에서",
-          "roman": "gyeongmajange-eseo",
-          "english": "at the racecourse",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "네",
-          "roman": "ne",
-          "english": "fourth",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "번째",
-          "roman": "beonjjae",
-          "english": "edition",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "행사를",
-          "roman": "haengsa-reul",
-          "english": "event",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "연다",
-          "roman": "yeonda",
-          "english": "opens",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Art Mumbai opens its fourth edition at Mahalaxmi Racecourse on November 12, 2026.",
-          "korean": "아트 뭄바이는 2026년 11월 12일 마할락스미 경마장에서 네 번째 행사를 연다.",
-          "glossary": [
-            {
-              "korean": "아트",
-              "roman": "ateu",
-              "english": "Art",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뭄바이는",
-              "roman": "Mumbai-neun",
-              "english": "Mumbai",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isibyug-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "11월",
-              "roman": "sibilwol",
-              "english": "November",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "12일",
-              "roman": "sibi-il",
-              "english": "12th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "마할락스미",
-              "roman": "Mahallakseumi",
-              "english": "Mahalaxmi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "경마장에서",
-              "roman": "gyeongmajange-eseo",
-              "english": "at the racecourse",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "네",
-              "roman": "ne",
-              "english": "fourth",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "번째",
-              "roman": "beonjjae",
-              "english": "edition",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "행사를",
-              "roman": "haengsa-reul",
-              "english": "event",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "연다",
-              "roman": "yeonda",
-              "english": "opens",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Its organisers are targeting buyers who are younger, broader and more informed.",
-          "korean": "주최 측은 더 젊고 다양하며 많이 아는 구매자를 겨냥한다.",
-          "glossary": [
-            {
-              "korean": "주최",
-              "roman": "jucoe",
-              "english": "organisers",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "측은",
-              "roman": "cheug-eun",
-              "english": "side",
+              "korean": "지도자들은",
+              "roman": "ji-do-ja-deul-eun",
+              "english": "leaders",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "더",
-              "roman": "deo",
-              "english": "more",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "젊고",
-              "roman": "jeolmgo",
-              "english": "young and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "다양하며",
-              "roman": "dayanghamyeo",
-              "english": "diverse and",
-              "particle": false,
-              "suffix": "며"
-            },
-            {
-              "korean": "많이",
-              "roman": "mani",
-              "english": "well",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "아는",
-              "roman": "aneun",
-              "english": "knowing",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "구매자를",
-              "roman": "gumaeja-reul",
-              "english": "buyers",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "겨냥한다",
-              "roman": "gyeonyanghanda",
-              "english": "targets",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The programme includes 94 exhibitors, guided walks, talks, performances and children’s activities.",
-          "korean": "행사에는 94곳, 해설 투어, 강연, 공연, 어린이 활동이 있다.",
-          "glossary": [
-            {
-              "korean": "행사에는",
-              "roman": "haengsa-eneun",
-              "english": "at the event",
-              "particle": false,
-              "suffix": "에는"
-            },
-            {
-              "korean": "94곳",
-              "roman": "gusipsa-got",
-              "english": "94 exhibitors",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "해설",
-              "roman": "haeseol",
-              "english": "guided",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "투어",
-              "roman": "tueo",
-              "english": "tour",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "강연",
-              "roman": "gangyeon",
-              "english": "talks",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "공연",
-              "roman": "gongyeon",
-              "english": "performances",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "어린이",
-              "roman": "eorini",
-              "english": "children",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "활동이",
-              "roman": "hwaldong-i",
-              "english": "activities",
+              "korean": "임명이",
+              "roman": "im-myeong-i",
+              "english": "appointment",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "있다",
-              "roman": "itda",
-              "english": "there are",
+              "korean": "2027년",
+              "roman": "i-cheon-i-sip-chil-nyeon",
+              "english": "2027",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "고아",
+              "roman": "go-a",
+              "english": "Goa",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선거에",
+              "roman": "seon-geo-e",
+              "english": "election",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "도움이",
+              "roman": "do-um-i",
+              "english": "help",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "되길",
+              "roman": "doe-gil",
+              "english": "to help",
+              "particle": false,
+              "suffix": "길"
+            },
+            {
+              "korean": "기대한다",
+              "roman": "gi-dae-han-da",
+              "english": "expect",
               "particle": false,
               "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/entertainment/art/art-mumbai-2026-fourth-edition-new-buyers-international-galleries-minal-vazirani/article71664306.ece",
-      "short_english": "Art Mumbai opens its fourth edition at Mahalaxmi Racecourse on November 12, 2026.",
-      "short_korean": "아트 뭄바이는 2026년 11월 12일 마할락스미 경마장에서 네 번째 행사를 연다.",
-      "date": "2026-11-06",
+      "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece",
+      "short_english": "Sankalp Amonkar joined Goa’s cabinet on November 7, 2026.",
+      "short_korean": "산칼프 아몬카르는 2026년 11월 7일 고아 내각에 들어갔다.",
+      "date": "2026-11-07",
       "images": [
-        "images/indian/eb2fe7f7359f/1.jpg",
-        "images/indian/eb2fe7f7359f/2.jpg",
-        "images/indian/eb2fe7f7359f/3.jpg",
-        "images/indian/eb2fe7f7359f/4.jpg",
-        "images/indian/eb2fe7f7359f/5.jpg",
-        "images/indian/eb2fe7f7359f/6.jpg",
-        "images/indian/eb2fe7f7359f/7.jpg",
-        "images/indian/eb2fe7f7359f/8.jpg",
-        "images/indian/eb2fe7f7359f/9.jpg",
-        "images/indian/eb2fe7f7359f/10.jpg",
-        "images/indian/eb2fe7f7359f/11.jpg",
-        "images/indian/eb2fe7f7359f/12.jpg",
-        "images/indian/eb2fe7f7359f/13.jpg",
-        "images/indian/eb2fe7f7359f/14.jpg",
-        "images/indian/eb2fe7f7359f/15.jpg"
+        "images/indian/2c030756d1c1/1.jpg",
+        "images/indian/2c030756d1c1/2.jpg",
+        "images/indian/2c030756d1c1/3.jpg",
+        "images/indian/2c030756d1c1/4.jpg",
+        "images/indian/2c030756d1c1/5.jpg",
+        "images/indian/2c030756d1c1/6.jpg",
+        "images/indian/2c030756d1c1/7.jpg",
+        "images/indian/2c030756d1c1/8.jpg",
+        "images/indian/2c030756d1c1/9.jpg",
+        "images/indian/2c030756d1c1/10.jpg",
+        "images/indian/2c030756d1c1/11.jpg",
+        "images/indian/2c030756d1c1/12.jpg",
+        "images/indian/2c030756d1c1/13.jpg",
+        "images/indian/2c030756d1c1/14.jpg",
+        "images/indian/2c030756d1c1/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/eb2fe7f7359f/caption.txt"
+      "caption_file": "images/indian/2c030756d1c1/caption.txt"
     },
     {
-      "category": "Sports",
-      "korean_title": "인도, 뉴질랜드전 연승 도전",
-      "english_title": "India’s Pace Attack Tries To Stay Ahead",
-      "korean_desc": "인도는 첫 ODI 승리 뒤 11월 7일 웰링턴에서 뉴질랜드를 만난다. 아르시딥 싱, 안슐 캄보즈, 구르누르 브라르가 오클랜드 타선을 괴롭혔다. 웰링턴의 짧은 측면 경계는 인도 투수의 앞선 공을 도울 수 있다. 뉴질랜드의 데번 콘웨이는 훈련 뇌진탕으로 시리즈에서 빠졌다.",
-      "english_desc": "India faces New Zealand in Wellington on November 7 after winning the first ODI. Arshdeep Singh, Anshul Kamboj and Gurnoor Brar troubled New Zealand’s batters in Auckland. Wellington’s shorter square boundaries may reward fuller deliveries from India’s fast bowlers. New Zealand’s Devon Conway is out for the series after a training concussion.",
-      "hook": "India leads New Zealand, but the second ODI changes the conditions.",
-      "sticker": "Pace meets bounce 🏏",
-      "korean_hook": "인도가 앞서지만 경기 조건은 달라졌다",
-      "takeaway_english": "The second ODI is a test of adaptation, not just momentum.",
-      "takeaway_korean": "두 번째 경기는 기세보다 적응력을 시험한다.",
+      "category": "Business",
+      "korean_title": "카르나타카 E20 연료 논쟁",
+      "english_title": "Karnataka says E20 became E31; oil firms disagree",
+      "korean_desc": "주 정부는 일부 표본이 에탄올 E20 한도를 넘었다고 말했다. 세 석유회사는 56개 표본의 에탄올이 평균 19.3%라고 말했다. 11월 7일 회사들은 문서와 표본과 공동 재검사를 요구했다.",
+      "english_desc": "The state said some samples exceeded the E20 limit for ethanol blending. The three oil companies said their 56 samples averaged 19.3% ethanol. On November 7, the companies requested documents, samples and joint retesting.",
+      "hook": "Karnataka reported ethanol levels as high as 31%.",
+      "sticker": "What is in the petrol?",
+      "korean_hook": "카르나타카가 에탄올 31%를 보고했다",
+      "takeaway_english": "Only transparent joint testing can show whether the reported levels were real.",
+      "takeaway_korean": "투명한 공동 검사만 실제 수치를 보여 줄 수 있다.",
       "why_it_matters": [
         {
-          "english": "The result can give India a stronger series position.",
-          "korean": "결과는 인도에 더 강한 시리즈 위치를 줄 수 있다."
+          "english": "Fuel composition can affect vehicle mileage and repair costs.",
+          "korean": "연료 성분은 차량 주행거리와 수리비에 영향을 줄 수 있다."
         },
         {
-          "english": "New Zealand’s batting depth is tested by injuries.",
-          "korean": "부상은 뉴질랜드 타선의 깊이를 시험한다."
+          "english": "The dispute involves petrol sold across Karnataka.",
+          "korean": "논쟁은 카르나타카 전역에서 팔린 휘발유와 관련된다."
         }
       ],
       "parties": [
         {
-          "label": "India",
-          "english": "India won the opener and wants to extend its lead.",
-          "korean": "인도는 첫 경기를 이겨 앞선을 늘리려 한다."
+          "label": "Karnataka government",
+          "english": "It reported ethanol levels above the E20 limit in petrol samples.",
+          "korean": "카르나타카 정부는 휘발유 표본에서 E20보다 높은 수치를 보고했다."
         },
         {
-          "label": "New Zealand",
-          "english": "New Zealand must handle bounce without Devon Conway.",
-          "korean": "뉴질랜드는 데번 콘웨이 없이 바운스를 상대해야 한다."
+          "label": "Three oil companies",
+          "english": "They rejected the findings and requested joint testing.",
+          "korean": "세 석유회사는 결과를 거부하고 공동 검사를 요구했다."
         },
         {
-          "label": "India’s pacers",
-          "english": "Arshdeep Singh, Anshul Kamboj and Gurnoor Brar changed expectations.",
-          "korean": "아르시딥 싱, 안슐 캄보즈, 구르누르 브라르가 기대를 바꿨다."
+          "label": "Drivers",
+          "english": "They may worry about mileage, repairs and fuel quality.",
+          "korean": "운전자들은 주행거리와 수리비와 연료 품질을 걱정할 수 있다."
         }
       ],
       "views": [
         {
-          "label": "India’s camp",
-          "english": "The pace attack can control the match if it adapts to Wellington’s dimensions.",
-          "korean": "빠른 공 공격은 웰링턴 크기에 적응하면 경기를 지배할 수 있다."
+          "label": "Karnataka government",
+          "english": "State testing found ethanol as high as 31.2% and raised concerns about mileage loss.",
+          "korean": "주 정부 검사는 에탄올 31.2%와 주행거리 감소를 지적했다."
         },
         {
-          "label": "New Zealand’s camp",
-          "english": "Matt Henry’s return and new opportunities could strengthen the hosts.",
-          "korean": "맷 헨리의 복귀와 새 기회가 개최국을 강하게 만들 수 있다."
+          "label": "Oil companies",
+          "english": "Their 56 samples averaged 19.3% ethanol and met prescribed specifications.",
+          "korean": "회사들의 56개 표본은 평균 19.3%로 기준을 충족했다."
         }
       ],
       "disagree": {
-        "english": "A strong first match does not guarantee another win on a different ground.",
-        "korean": "첫 경기의 강한 모습이 다른 경기장의 승리를 보장하지는 않는다."
+        "english": "The dispute may reflect different sampling and testing methods rather than different fuel everywhere.",
+        "korean": "이 논쟁은 모든 연료가 아니라 검사 방법 차이일 수 있다."
       },
-      "reader_question_korean": "어느 팀이 웰링턴의 바운스를 더 잘 다룰까요?",
+      "reader_question_korean": "소비자는 어떤 검사 방법을 믿어야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "IND vs NZ second ODI: Pace heavy India looks to extend advantage over New Zealand",
+      "source_title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
+      "hook_format": "headline",
+      "body_format": "whats_missing",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "missing": [
+          {
+            "label": "",
+            "english": "The state has not supplied all sampling documents requested by the oil companies.",
+            "korean": "주는 석유회사들이 요구한 모든 표본 문서를 아직 주지 않았다."
+          },
+          {
+            "label": "",
+            "english": "The companies say the laboratory certificates lack key testing details.",
+            "korean": "회사들은 실험실 증명서에 핵심 검사 정보가 없다고 말한다."
+          },
+          {
+            "label": "",
+            "english": "Independent retesting has not yet settled the disagreement.",
+            "korean": "독립 재검사는 아직 의견 차이를 해결하지 못했다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "E20 means petrol blended with 20% ethanol.",
+        "The companies cited IS 17021."
+      ],
+      "reader_question": "Which testing method should consumers trust?",
+      "topic_tag": "Fuel",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "주",
+          "roman": "ju",
+          "english": "state",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "정부는",
+          "roman": "jeong-bu-neun",
+          "english": "government",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "일부",
+          "roman": "il-bu",
+          "english": "some",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "표본이",
+          "roman": "pyo-bon-i",
+          "english": "samples",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "에탄올",
+          "roman": "e-tan-ol",
+          "english": "ethanol",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "E20",
+          "roman": "E-i-sip",
+          "english": "E20",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "한도를",
+          "roman": "han-do-reul",
+          "english": "limit",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "넘었다고",
+          "roman": "neom-eot-da-go",
+          "english": "exceeded",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "말했다",
+          "roman": "mal-haet-da",
+          "english": "said",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "The state said some samples exceeded the E20 limit for ethanol blending.",
+          "korean": "주 정부는 일부 표본이 에탄올 E20 한도를 넘었다고 말했다.",
+          "glossary": [
+            {
+              "korean": "주",
+              "roman": "ju",
+              "english": "state",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정부는",
+              "roman": "jeong-bu-neun",
+              "english": "government",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "일부",
+              "roman": "il-bu",
+              "english": "some",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "표본이",
+              "roman": "pyo-bon-i",
+              "english": "samples",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "에탄올",
+              "roman": "e-tan-ol",
+              "english": "ethanol",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "E20",
+              "roman": "E-i-sip",
+              "english": "E20",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "한도를",
+              "roman": "han-do-reul",
+              "english": "limit",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "넘었다고",
+              "roman": "neom-eot-da-go",
+              "english": "exceeded",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The three oil companies said their 56 samples averaged 19.3% ethanol.",
+          "korean": "세 석유회사는 56개 표본의 에탄올이 평균 19.3%라고 말했다.",
+          "glossary": [
+            {
+              "korean": "세",
+              "roman": "se",
+              "english": "three",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "석유회사는",
+              "roman": "seok-yu-hoe-sa-neun",
+              "english": "oil companies",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "56개",
+              "roman": "o-sip-yuk-gae",
+              "english": "56",
+              "particle": false,
+              "suffix": "개"
+            },
+            {
+              "korean": "표본의",
+              "roman": "pyo-bon-ui",
+              "english": "samples'",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "에탄올이",
+              "roman": "e-tan-ol-i",
+              "english": "ethanol",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "평균",
+              "roman": "pyeong-gyun",
+              "english": "average",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "19.3%라고",
+              "roman": "sip-gu-jeom-sam-peo-sen-teu-ra-go",
+              "english": "19.3%",
+              "particle": false,
+              "suffix": "라고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On November 7, the companies requested documents, samples and joint retesting.",
+          "korean": "11월 7일 회사들은 문서와 표본과 공동 재검사를 요구했다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "회사들은",
+              "roman": "hoe-sa-deul-eun",
+              "english": "companies",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "문서와",
+              "roman": "mun-seo-wa",
+              "english": "documents and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "표본과",
+              "roman": "pyo-bon-gwa",
+              "english": "samples and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "공동",
+              "roman": "gong-dong",
+              "english": "joint",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "재검사를",
+              "roman": "jae-geom-sa-reul",
+              "english": "retesting",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "요구했다",
+              "roman": "yo-gu-haet-da",
+              "english": "requested",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
+      "short_english": "The state said some samples exceeded the E20 limit for ethanol blending.",
+      "short_korean": "주 정부는 일부 표본이 에탄올 E20 한도를 넘었다고 말했다.",
+      "date": "2026-11-07",
+      "images": [
+        "images/indian/faaba106cfd3/1.jpg",
+        "images/indian/faaba106cfd3/2.jpg",
+        "images/indian/faaba106cfd3/3.jpg",
+        "images/indian/faaba106cfd3/4.jpg",
+        "images/indian/faaba106cfd3/5.jpg",
+        "images/indian/faaba106cfd3/6.jpg",
+        "images/indian/faaba106cfd3/7.jpg",
+        "images/indian/faaba106cfd3/8.jpg",
+        "images/indian/faaba106cfd3/9.jpg",
+        "images/indian/faaba106cfd3/10.jpg",
+        "images/indian/faaba106cfd3/11.jpg",
+        "images/indian/faaba106cfd3/12.jpg",
+        "images/indian/faaba106cfd3/13.jpg",
+        "images/indian/faaba106cfd3/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/faaba106cfd3/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "인도의 동거와 결혼",
+      "english_title": "In India, living together no longer guarantees marriage",
+      "korean_desc": "인도 커플들은 결혼을 미루거나 다시 생각하며 동거를 택한다. 어떤 커플은 동거를 시험으로 보고 다른 커플은 완전한 관계로 본다. 15세에서 29세 미혼 인도인은 2011년 17.2%에서 2019년 23%로 늘었다. 커플들은 책임과 동의와 일상적인 일을 계속 조율할 것이다.",
+      "english_desc": "Live-in relationships are becoming more visible as Indian couples delay or rethink marriage. Some couples see live-in relationships as a trial, while others see them as complete relationships. The share of Indians aged 15–29 who had never married rose from 17.2% in 2011 to 23% in 2019. The debate will continue as couples negotiate commitment, consent and everyday work.",
+      "hook": "Living together does not always point toward marriage.",
+      "sticker": "Love, with conditions",
+      "korean_hook": "동거가 항상 결혼을 뜻하진 않는다",
+      "takeaway_english": "The real question is not marriage or no marriage, but whether both partners want the same future.",
+      "takeaway_korean": "진짜 질문은 결혼 여부보다 두 사람이 같은 미래를 원하는지다.",
+      "why_it_matters": [
+        {
+          "english": "Different expectations about marriage can create painful misunderstandings.",
+          "korean": "결혼에 대한 기대가 다르면 큰 오해가 생길 수 있다."
+        },
+        {
+          "english": "Consent still matters inside live-in relationships.",
+          "korean": "동거 관계에서도 동의는 여전히 중요하다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Young Indians",
+          "english": "More young people are reaching marriage later than before.",
+          "korean": "젊은 인도인들은 예전보다 늦게 결혼하고 있다."
+        },
+        {
+          "label": "Women in Kerala",
+          "english": "Many want lasting marriages but worry about adjustment, careers and in-laws.",
+          "korean": "많은 여성은 결혼을 원하지만 적응과 경력과 시댁을 걱정한다."
+        },
+        {
+          "label": "Queer couples",
+          "english": "They may disagree about whether marriage is necessary for a shared life.",
+          "korean": "퀴어 커플은 공동생활에 결혼이 필요한지 다를 수 있다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Supporters of live-in relationships",
+          "english": "Living together can reveal compatibility before legal and family ties become harder to unwind.",
+          "korean": "동거는 법적 가족 관계 전에 서로 맞는지 보여 줄 수 있다."
+        },
+        {
+          "label": "Critics of live-in relationships",
+          "english": "One partner may enjoy comfort while avoiding the commitment expected from marriage.",
+          "korean": "한 사람은 결혼 책임 없이 편안함만 누릴 수 있다."
+        }
+      ],
+      "disagree": {
+        "english": "The evidence describes varied experiences, not one rule for all Indian couples.",
+        "korean": "자료는 모든 인도 커플의 규칙이 아닌 다양한 경험을 보여 준다."
+      },
+      "reader_question_korean": "동거 전에 연인은 무엇을 이야기해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "long sentence: \"The share of Indians aged 15–29 who had never marr\""
+      ],
+      "source_title": "Live-in relationships in India: Is marriage still the endgame?",
+      "hook_format": "headline",
+      "body_format": "another_view",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "view": {
+          "label": "Another reasonable view",
+          "english": "Marriage may remain important while couples still delay it or question what it changes.",
+          "korean": "결혼은 여전히 중요하지만 커플들은 결혼을 미루거나 의미를 다시 묻는다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The NSO’s Youth in India 2022 report covers ages 15–29.",
+        "A 2025 Kerala study surveyed 150 unmarried women."
+      ],
+      "reader_question": "What should partners discuss before living together?",
+      "topic_tag": "Culture",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Live-in relationships in India: Is marriage still the endgame?",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/opinion/columns/live-in-relationships-in-india-is-marriage-still-the-endgame/article71669024.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "인도",
+          "roman": "in-do",
+          "english": "India",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "커플들은",
+          "roman": "keo-peul-deul-eun",
+          "english": "couples",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "결혼을",
+          "roman": "gyeol-hon-eul",
+          "english": "marriage",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "미루거나",
+          "roman": "mi-ru-geo-na",
+          "english": "delay or",
+          "particle": false,
+          "suffix": "거나"
+        },
+        {
+          "korean": "다시",
+          "roman": "da-si",
+          "english": "again",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "생각하며",
+          "roman": "saeng-gak-ha-myeo",
+          "english": "while thinking",
+          "particle": false,
+          "suffix": "며"
+        },
+        {
+          "korean": "동거를",
+          "roman": "dong-geo-reul",
+          "english": "living together",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "택한다",
+          "roman": "taek-han-da",
+          "english": "choose",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Live-in relationships are becoming more visible as Indian couples delay or rethink marriage.",
+          "korean": "인도 커플들은 결혼을 미루거나 다시 생각하며 동거를 택한다.",
+          "glossary": [
+            {
+              "korean": "인도",
+              "roman": "in-do",
+              "english": "India",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "커플들은",
+              "roman": "keo-peul-deul-eun",
+              "english": "couples",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "결혼을",
+              "roman": "gyeol-hon-eul",
+              "english": "marriage",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "미루거나",
+              "roman": "mi-ru-geo-na",
+              "english": "delay or",
+              "particle": false,
+              "suffix": "거나"
+            },
+            {
+              "korean": "다시",
+              "roman": "da-si",
+              "english": "again",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "생각하며",
+              "roman": "saeng-gak-ha-myeo",
+              "english": "while thinking",
+              "particle": false,
+              "suffix": "며"
+            },
+            {
+              "korean": "동거를",
+              "roman": "dong-geo-reul",
+              "english": "living together",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "택한다",
+              "roman": "taek-han-da",
+              "english": "choose",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "truth",
+          "english": "Some couples see live-in relationships as a trial, while others see them as complete relationships.",
+          "korean": "어떤 커플은 동거를 시험으로 보고 다른 커플은 완전한 관계로 본다.",
+          "glossary": [
+            {
+              "korean": "어떤",
+              "roman": "eo-tteon",
+              "english": "some",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "커플은",
+              "roman": "keo-peul-eun",
+              "english": "couples",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "커플은",
+              "roman": "keo-peul-eun",
+              "english": "couples",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "동거를",
+              "roman": "dong-geo-reul",
+              "english": "living together",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "시험으로",
+              "roman": "si-heom-eu-ro",
+              "english": "as a trial",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "보고",
+              "roman": "bo-go",
+              "english": "see",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "다른",
+              "roman": "da-reun",
+              "english": "other",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "완전한",
+              "roman": "wan-jeon-han",
+              "english": "complete",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "관계로",
+              "roman": "gwan-gye-ro",
+              "english": "as relationships",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "본다",
+              "roman": "bon-da",
+              "english": "see",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The share of Indians aged 15–29 who had never married rose from 17.2% in 2011 to 23% in 2019.",
+          "korean": "15세에서 29세 미혼 인도인은 2011년 17.2%에서 2019년 23%로 늘었다.",
+          "glossary": [
+            {
+              "korean": "15세에서",
+              "roman": "sip-o-se-e-seo",
+              "english": "from age 15",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "29세",
+              "roman": "i-sip-gu-se",
+              "english": "age 29",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "미혼",
+              "roman": "mi-hon",
+              "english": "unmarried",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "인도인은",
+              "roman": "in-do-in-eun",
+              "english": "Indians",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "2011년",
+              "roman": "i-cheon-sip-il-nyeon",
+              "english": "2011",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "17.2%에서",
+              "roman": "sip-chil-jeom-i-peo-sen-teu-e-seo",
+              "english": "from 17.2%",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "2019년",
+              "roman": "i-cheon-sip-gu-nyeon",
+              "english": "2019",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "23%로",
+              "roman": "i-sip-sam-peo-sen-teu-ro",
+              "english": "to 23%",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "늘었다",
+              "roman": "neul-eot-da",
+              "english": "rose",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The debate will continue as couples negotiate commitment, consent and everyday work.",
+          "korean": "커플들은 책임과 동의와 일상적인 일을 계속 조율할 것이다.",
+          "glossary": [
+            {
+              "korean": "커플들은",
+              "roman": "keo-peul-deul-eun",
+              "english": "couples",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "책임과",
+              "roman": "chaeg-im-gwa",
+              "english": "commitment and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "동의와",
+              "roman": "dong-ui-wa",
+              "english": "consent and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "일상적인",
+              "roman": "il-sang-jeok-in",
+              "english": "everyday",
+              "particle": false,
+              "suffix": "인"
+            },
+            {
+              "korean": "일을",
+              "roman": "il-eul",
+              "english": "work",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "계속",
+              "roman": "gye-sok",
+              "english": "continuously",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "조율할",
+              "roman": "jo-yul-hal",
+              "english": "will negotiate",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "것이다",
+              "roman": "geot-i-da",
+              "english": "will",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/opinion/columns/live-in-relationships-in-india-is-marriage-still-the-endgame/article71669024.ece",
+      "short_english": "Live-in relationships are becoming more visible as Indian couples delay or rethink marriage.",
+      "short_korean": "인도 커플들은 결혼을 미루거나 다시 생각하며 동거를 택한다.",
+      "date": "2026-11-07",
+      "images": [
+        "images/indian/8cf785c3ca06/1.jpg",
+        "images/indian/8cf785c3ca06/2.jpg",
+        "images/indian/8cf785c3ca06/3.jpg",
+        "images/indian/8cf785c3ca06/4.jpg",
+        "images/indian/8cf785c3ca06/5.jpg",
+        "images/indian/8cf785c3ca06/6.jpg",
+        "images/indian/8cf785c3ca06/7.jpg",
+        "images/indian/8cf785c3ca06/8.jpg",
+        "images/indian/8cf785c3ca06/9.jpg",
+        "images/indian/8cf785c3ca06/10.jpg",
+        "images/indian/8cf785c3ca06/11.jpg",
+        "images/indian/8cf785c3ca06/12.jpg",
+        "images/indian/8cf785c3ca06/13.jpg",
+        "images/indian/8cf785c3ca06/14.jpg",
+        "images/indian/8cf785c3ca06/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/8cf785c3ca06/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "카와자, 2018년 사건 재논쟁",
+      "english_title": "Khawaja says ball-tampering talk spread beyond three players",
+      "korean_desc": "우스만 카와자는 2026년 11월 7일 호주의 2018년 공 조작 논의가 넓었다고 말했다. 2018년 스캔들은 스티브 스미스와 데이비드 워너와 카메론 밴크로프트의 정지로 이어졌다. 그는 남아프리카공화국 시리즈에서 선수들이 사포로 공을 긁었다고 말했다. 크리켓 오스트레일리아는 11월 7일 조사가 여전히 유효하다고 말했다.",
+      "english_desc": "Usman Khawaja said on November 7, 2026, that Australia’s 2018 ball-tampering discussions were widespread. The 2018 scandal led to bans for Steve Smith, David Warner and Cameron Bancroft. He said team members discussed scuffing the ball with sandpaper during the South Africa series. Cricket Australia said on November 7 that its investigation still stands.",
+      "hook": "Three players were punished; Khawaja says more people knew.",
+      "sticker": "Cricket’s old secret?",
+      "korean_hook": "세 명이 처벌받았지만 더 알았다고 했다",
+      "takeaway_english": "The old scandal now has two competing accounts, but no new official finding.",
+      "takeaway_korean": "오래된 스캔들에 두 주장이 생겼지만 새 공식 결과는 없다.",
+      "why_it_matters": [
+        {
+          "english": "The dispute affects trust in Cricket Australia’s integrity process.",
+          "korean": "논쟁은 크리켓 오스트레일리아의 공정성 절차 신뢰에 영향을 준다."
+        },
+        {
+          "english": "The claims could change how fans understand the 2018 scandal.",
+          "korean": "주장은 팬들이 2018년 스캔들을 이해하는 방식을 바꿀 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Usman Khawaja",
+          "english": "He says ball-tampering discussions involved the wider team.",
+          "korean": "그는 공 조작 논의에 팀 전체가 관련됐다고 말한다."
+        },
+        {
+          "label": "Cricket Australia",
+          "english": "It says its 2018 findings remain reliable.",
+          "korean": "크리켓 오스트레일리아는 2018년 결과가 믿을 만하다고 말한다."
+        },
+        {
+          "label": "Steve Smith, David Warner and Cameron Bancroft",
+          "english": "They received bans and penalties after the 2018 scandal.",
+          "korean": "세 선수는 2018년 스캔들 뒤 출전 정지와 처벌을 받았다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Usman Khawaja",
+          "english": "He says open team discussions went beyond the three players named by the investigation.",
+          "korean": "그는 공개적인 팀 논의가 조사에서 지목한 세 명을 넘어섰다고 말한다."
+        },
+        {
+          "label": "Cricket Australia",
+          "english": "The governing body says all relevant information was considered and its process remains sound.",
+          "korean": "협회는 관련 정보가 모두 검토됐고 조사 절차가 타당하다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Khawaja’s account is a new claim, while the governing body has not reopened its findings.",
+        "korean": "카와자의 말은 새 주장이고 협회는 조사를 다시 열지 않았다."
+      },
+      "reader_question_korean": "새 증언은 오래된 스포츠 조사를 다시 열어야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
       "hook_format": "headline",
       "body_format": "three_points",
       "question": "",
@@ -1411,335 +1365,349 @@
         "points": [
           {
             "label": "",
-            "english": "India’s young pace attack impressed in the opener.",
-            "korean": "인도의 젊은 빠른 공 공격이 첫 경기에서 빛났다."
+            "english": "Khawaja said discussions about scuffing the ball were widespread inside the team.",
+            "korean": "카와자는 공을 긁는 논의가 팀 안에 널리 퍼졌다고 말했다."
           },
           {
             "label": "",
-            "english": "Wellington’s shorter square boundaries may require fuller bowling.",
-            "korean": "웰링턴의 짧은 측면 경계는 더 앞선 공을 요구할 수 있다."
+            "english": "Cricket Australia said its investigation still stands.",
+            "korean": "크리켓 오스트레일리아는 조사 결과가 여전히 유효하다고 말했다."
           },
           {
             "label": "",
-            "english": "New Zealand lost Devon Conway to concussion.",
-            "korean": "뉴질랜드는 뇌진탕으로 데번 콘웨이를 잃었다."
+            "english": "Khawaja was cleared of wrongdoing and retired in January 2026.",
+            "korean": "카와자는 잘못이 없다고 인정받고 2026년 1월 은퇴했다."
           }
         ]
       },
       "serious": false,
       "caption_lines": [
-        "The match is scheduled for November 7, 2026.",
-        "The venue is Hnry Stadium in Wellington."
+        "The Cape Town Test took place in March 2018.",
+        "Australia lost the recent South Africa series 2–1."
       ],
-      "reader_question": "Which team will handle Wellington’s bounce better?",
+      "reader_question": "Should new testimony reopen an old sports investigation?",
       "topic_tag": "Cricket",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "IND vs NZ second ODI: Pace heavy India looks to extend advantage over New Zealand",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-odi-in-wellington-on-november-7-2026/article71673163.ece"
+          "title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/sport/cricket/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe/article71677394.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "인도는",
-          "roman": "Indo-neun",
-          "english": "India",
+          "korean": "우스만",
+          "roman": "u-seu-man",
+          "english": "Usman",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "카와자는",
+          "roman": "ka-wa-ja-neun",
+          "english": "Khawaja",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "첫",
-          "roman": "cheot",
-          "english": "first",
+          "korean": "2026년",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
+          "english": "2026",
           "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "ODI",
-          "roman": "ODI",
-          "english": "ODI",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "승리",
-          "roman": "seungni",
-          "english": "win",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "뒤",
-          "roman": "dwi",
-          "english": "after",
-          "particle": false,
-          "suffix": ""
+          "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sibilwol",
+          "roman": "sip-il-wol",
           "english": "November",
           "particle": false,
-          "suffix": ""
+          "suffix": "월"
         },
         {
           "korean": "7일",
           "roman": "chil-il",
           "english": "7th",
           "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "호주의",
+          "roman": "ho-ju-ui",
+          "english": "Australia's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "2018년",
+          "roman": "i-cheon-sip-pal-nyeon",
+          "english": "2018",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "공",
+          "roman": "gong",
+          "english": "ball",
+          "particle": false,
           "suffix": ""
         },
         {
-          "korean": "웰링턴에서",
-          "roman": "Wellington-eseo",
-          "english": "in Wellington",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "뉴질랜드를",
-          "roman": "Nyujillaendeu-reul",
-          "english": "New Zealand",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "만난다",
-          "roman": "mannanda",
-          "english": "faces",
+          "korean": "조작",
+          "roman": "jo-jak",
+          "english": "tampering",
           "particle": false,
           "suffix": ""
+        },
+        {
+          "korean": "논의가",
+          "roman": "non-ui-ga",
+          "english": "discussion",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "넓었다고",
+          "roman": "neol-beot-da-go",
+          "english": "was widespread",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "말했다",
+          "roman": "mal-haet-da",
+          "english": "said",
+          "particle": false,
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "India faces New Zealand in Wellington on November 7 after winning the first ODI.",
-          "korean": "인도는 첫 ODI 승리 뒤 11월 7일 웰링턴에서 뉴질랜드를 만난다.",
+          "english": "Usman Khawaja said on November 7, 2026, that Australia’s 2018 ball-tampering discussions were widespread.",
+          "korean": "우스만 카와자는 2026년 11월 7일 호주의 2018년 공 조작 논의가 넓었다고 말했다.",
           "glossary": [
             {
-              "korean": "인도는",
-              "roman": "Indo-neun",
-              "english": "India",
+              "korean": "우스만",
+              "roman": "u-seu-man",
+              "english": "Usman",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "카와자는",
+              "roman": "ka-wa-ja-neun",
+              "english": "Khawaja",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
+              "korean": "2026년",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "english": "2026",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "ODI",
-              "roman": "ODI",
-              "english": "ODI",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "승리",
-              "roman": "seungni",
-              "english": "win",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
+              "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sibilwol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
-              "suffix": ""
+              "suffix": "월"
             },
             {
               "korean": "7일",
               "roman": "chil-il",
               "english": "7th",
               "particle": false,
-              "suffix": ""
+              "suffix": "일"
             },
             {
-              "korean": "웰링턴에서",
-              "roman": "Wellington-eseo",
-              "english": "in Wellington",
+              "korean": "호주의",
+              "roman": "ho-ju-ui",
+              "english": "Australia's",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "의"
             },
             {
-              "korean": "뉴질랜드를",
-              "roman": "Nyujillaendeu-reul",
-              "english": "New Zealand",
+              "korean": "2018년",
+              "roman": "i-cheon-sip-pal-nyeon",
+              "english": "2018",
               "particle": false,
-              "suffix": "를"
+              "suffix": "년"
             },
             {
-              "korean": "만난다",
-              "roman": "mannanda",
-              "english": "faces",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Arshdeep Singh, Anshul Kamboj and Gurnoor Brar troubled New Zealand’s batters in Auckland.",
-          "korean": "아르시딥 싱, 안슐 캄보즈, 구르누르 브라르가 오클랜드 타선을 괴롭혔다.",
-          "glossary": [
-            {
-              "korean": "아르시딥",
-              "roman": "Areusidip",
-              "english": "Arshdeep",
+              "korean": "공",
+              "roman": "gong",
+              "english": "ball",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "싱,",
-              "roman": "Sing",
-              "english": "Sing",
+              "korean": "조작",
+              "roman": "jo-jak",
+              "english": "tampering",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "안슐",
-              "roman": "Ansul",
-              "english": "Anshul",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "캄보즈,",
-              "roman": "Kambojeu",
-              "english": "Kamboj",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "구르누르",
-              "roman": "Gureunureu",
-              "english": "Gurnoor",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "브라르가",
-              "roman": "Beurareu-ga",
-              "english": "Brar",
+              "korean": "논의가",
+              "roman": "non-ui-ga",
+              "english": "discussion",
               "particle": false,
               "suffix": "가"
             },
             {
-              "korean": "오클랜드",
-              "roman": "Okeullaendeu",
-              "english": "Auckland",
+              "korean": "넓었다고",
+              "roman": "neol-beot-da-go",
+              "english": "was widespread",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The 2018 scandal led to bans for Steve Smith, David Warner and Cameron Bancroft.",
+          "korean": "2018년 스캔들은 스티브 스미스와 데이비드 워너와 카메론 밴크로프트의 정지로 이어졌다.",
+          "glossary": [
+            {
+              "korean": "2018년",
+              "roman": "i-cheon-sip-pal-nyeon",
+              "english": "2018",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "스캔들은",
+              "roman": "seu-kaen-deul-eun",
+              "english": "scandal",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "스티브",
+              "roman": "seu-ti-beu",
+              "english": "Steve",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "타선을",
-              "roman": "taseon-eul",
-              "english": "batting lineup",
+              "korean": "스미스와",
+              "roman": "seu-mi-seu-wa",
+              "english": "Smith and",
               "particle": false,
-              "suffix": "을"
+              "suffix": "와"
             },
             {
-              "korean": "괴롭혔다",
-              "roman": "goerophyeotda",
-              "english": "troubled",
+              "korean": "데이비드",
+              "roman": "de-i-bi-deu",
+              "english": "David",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "워너와",
+              "roman": "wo-neo-wa",
+              "english": "Warner and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "카메론",
+              "roman": "ka-me-ron",
+              "english": "Cameron",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "밴크로프트의",
+              "roman": "baen-keu-ro-peu-teu-ui",
+              "english": "Bancroft's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "정지로",
+              "roman": "jeong-ji-ro",
+              "english": "to bans",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "이어졌다",
+              "roman": "i-eo-jyeot-da",
+              "english": "led",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Wellington’s shorter square boundaries may reward fuller deliveries from India’s fast bowlers.",
-          "korean": "웰링턴의 짧은 측면 경계는 인도 투수의 앞선 공을 도울 수 있다.",
+          "english": "He said team members discussed scuffing the ball with sandpaper during the South Africa series.",
+          "korean": "그는 남아프리카공화국 시리즈에서 선수들이 사포로 공을 긁었다고 말했다.",
           "glossary": [
             {
-              "korean": "웰링턴의",
-              "roman": "Wellington-ui",
-              "english": "Wellington's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "짧은",
-              "roman": "jjalbeun",
-              "english": "shorter",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "측면",
-              "roman": "cheugmyeon",
-              "english": "square-side",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "경계는",
-              "roman": "gyeonggye-neun",
-              "english": "boundaries",
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "인도",
-              "roman": "Indo",
-              "english": "India",
+              "korean": "남아프리카공화국",
+              "roman": "nam-a-peu-ri-ka-gong-hwa-guk",
+              "english": "South Africa",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "투수의",
-              "roman": "tusu-ui",
-              "english": "bowlers'",
+              "korean": "시리즈에서",
+              "roman": "si-ri-jeu-e-seo",
+              "english": "during series",
               "particle": false,
-              "suffix": "의"
+              "suffix": "에서"
             },
             {
-              "korean": "수",
-              "roman": "su",
-              "english": "can",
+              "korean": "선수들이",
+              "roman": "seon-su-deul-i",
+              "english": "players",
               "particle": false,
-              "suffix": ""
+              "suffix": "이"
             },
             {
-              "korean": "앞선",
-              "roman": "apseon",
-              "english": "fuller",
+              "korean": "사포로",
+              "roman": "sa-po-ro",
+              "english": "with sandpaper",
               "particle": false,
-              "suffix": ""
+              "suffix": "로"
             },
             {
               "korean": "공을",
               "roman": "gong-eul",
-              "english": "deliveries",
+              "english": "ball",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "도울",
-              "roman": "doul",
-              "english": "help",
+              "korean": "긁었다고",
+              "roman": "geul-eot-da-go",
+              "english": "scuffed",
               "particle": false,
-              "suffix": ""
+              "suffix": "고"
             },
             {
-              "korean": "있다",
-              "roman": "itda",
-              "english": "there is",
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
               "particle": false,
               "suffix": "다"
             }
@@ -1747,549 +1715,613 @@
         },
         {
           "stage": "now",
-          "english": "New Zealand’s Devon Conway is out for the series after a training concussion.",
-          "korean": "뉴질랜드의 데번 콘웨이는 훈련 뇌진탕으로 시리즈에서 빠졌다.",
+          "english": "Cricket Australia said on November 7 that its investigation still stands.",
+          "korean": "크리켓 오스트레일리아는 11월 7일 조사가 여전히 유효하다고 말했다.",
           "glossary": [
             {
-              "korean": "뉴질랜드의",
-              "roman": "Nyujillaendeu-ui",
-              "english": "New Zealand's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "데번",
-              "roman": "Debeon",
-              "english": "Devon",
+              "korean": "크리켓",
+              "roman": "keu-ri-ket",
+              "english": "cricket",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "콘웨이는",
-              "roman": "Konwe-i-neun",
-              "english": "Conway",
+              "korean": "오스트레일리아는",
+              "roman": "o-seu-teu-re-il-li-a-neun",
+              "english": "Australia",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "훈련",
-              "roman": "hunryeon",
-              "english": "training",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
-              "suffix": ""
+              "suffix": "월"
             },
             {
-              "korean": "뇌진탕으로",
-              "roman": "noejintang-euro",
-              "english": "because of concussion",
+              "korean": "7일",
+              "roman": "chil-il",
+              "english": "7th",
               "particle": false,
-              "suffix": "으로"
+              "suffix": "일"
             },
             {
-              "korean": "시리즈에서",
-              "roman": "sirijeu-eseo",
-              "english": "from the series",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "빠졌다",
-              "roman": "ppajyeotda",
-              "english": "is out",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/cricket/india-vs-new-zealand-second-odi-in-wellington-on-november-7-2026/article71673163.ece",
-      "short_english": "India faces New Zealand in Wellington on November 7 after winning the first ODI.",
-      "short_korean": "인도는 첫 ODI 승리 뒤 11월 7일 웰링턴에서 뉴질랜드를 만난다.",
-      "date": "2026-11-06",
-      "images": [
-        "images/indian/25b832771b3d/1.jpg",
-        "images/indian/25b832771b3d/2.jpg",
-        "images/indian/25b832771b3d/3.jpg",
-        "images/indian/25b832771b3d/4.jpg",
-        "images/indian/25b832771b3d/5.jpg",
-        "images/indian/25b832771b3d/6.jpg",
-        "images/indian/25b832771b3d/7.jpg",
-        "images/indian/25b832771b3d/8.jpg",
-        "images/indian/25b832771b3d/9.jpg",
-        "images/indian/25b832771b3d/10.jpg",
-        "images/indian/25b832771b3d/11.jpg",
-        "images/indian/25b832771b3d/12.jpg",
-        "images/indian/25b832771b3d/13.jpg",
-        "images/indian/25b832771b3d/14.jpg",
-        "images/indian/25b832771b3d/15.jpg",
-        "images/indian/25b832771b3d/16.jpg",
-        "images/indian/25b832771b3d/17.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/25b832771b3d/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "야시, 라바나를 빛낸 연기",
-      "english_title": "Why Yash’s Ravana Is Stealing The Spotlight",
-      "korean_desc": "야시, 란비르 카푸르, 사이 팔라비가 나온 니테시 티와리의 라마야나가 개봉했다. 야시는 랑카의 왕 라바나를 연기하며 시선을 끈다는 평을 받는다. 평론은 장관이 서사시에 충분한 감정을 줬는지 여전히 갈린다.",
-      "english_desc": "Nitesh Tiwari’s Ramayana, starring Yash, Ranbir Kapoor and Sai Pallavi, has reached cinemas. Yash plays Ravana, the king of Lanka, and critics say he commands attention. Reviews still disagree about whether the spectacle gives the epic enough emotional depth.",
-      "hook": "Yash’s Ravana is becoming a major strength of Ramayana.",
-      "sticker": "Ravana owns the frame 🎬",
-      "korean_hook": "야시의 라바나가 영화의 강점이 됐다",
-      "takeaway_english": "The debate is not only whether Yash is good, but what kind of Ravana the film wants.",
-      "takeaway_korean": "논쟁은 야시의 실력뿐 아니라 영화가 원하는 라바나의 모습이다.",
-      "why_it_matters": [
-        {
-          "english": "The film is reshaping a widely known epic for modern cinema.",
-          "korean": "영화는 잘 알려진 서사시를 현대 영화로 다시 만든다."
-        },
-        {
-          "english": "Yash’s performance may influence how audiences see Ravana.",
-          "korean": "야시의 연기는 관객의 라바나 인상에 영향을 줄 수 있다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Yash",
-          "english": "Yash plays Ravana in Nitesh Tiwari’s retelling.",
-          "korean": "야시는 니테시 티와리의 재해석에서 라바나를 연기한다."
-        },
-        {
-          "label": "Nitesh Tiwari",
-          "english": "The director presents Ramayana as a large cinematic retelling.",
-          "korean": "감독은 라마야나를 대형 영화로 다시 보여준다."
-        },
-        {
-          "label": "Audiences",
-          "english": "Viewers are seeing a new version of a familiar epic.",
-          "korean": "관객은 익숙한 서사시의 새 버전을 보고 있다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Positive critics",
-          "english": "Several reviews say Yash stands out and gives Ravana power and presence.",
-          "korean": "여러 평론은 야시가 라바나에 힘과 존재감을 줬다고 말한다."
-        },
-        {
-          "label": "More cautious critics",
-          "english": "Other reviews praise the visuals but find the emotions and casting uneven.",
-          "korean": "다른 평론은 영상은 칭찬하지만 감정과 캐스팅은 고르지 않다고 본다."
-        }
-      ],
-      "disagree": {
-        "english": "A strong performance cannot by itself settle debate about the film’s emotional depth.",
-        "korean": "강한 연기만으로 영화의 감정 깊이에 대한 논쟁이 끝나지는 않는다."
-      },
-      "reader_question_korean": "화면 속 기억에 남는 악역은 무엇이 만들까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Ramayana: How Yash mastered the art of playing Ravana",
-      "hook_format": "vocab",
-      "body_format": "another_view",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "view": {
-          "label": "A reasonable alternative view",
-          "english": "The film’s scale and visual spectacle may matter as much as Yash’s performance.",
-          "korean": "야시의 연기만큼 영화의 규모와 시각적 장관도 중요할 수 있다."
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "The film stars Ranbir Kapoor, Sai Pallavi and Yash.",
-        "The director is Nitesh Tiwari."
-      ],
-      "reader_question": "What makes a memorable villain on screen?",
-      "topic_tag": "Cinema",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Ramayana: How Yash mastered the art of playing Ravana",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/videos/ramayana-how-yash-mastered-the-art-of-playing-ravana/article71670656.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "야시,",
-          "roman": "Yasi",
-          "english": "Yash",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "란비르",
-          "roman": "Ranbir",
-          "english": "Ranbir",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "카푸르,",
-          "roman": "Kapureu",
-          "english": "Kapoor",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "사이",
-          "roman": "Sai",
-          "english": "Sai",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "팔라비가",
-          "roman": "Pallabi-ga",
-          "english": "Pallavi",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "나온",
-          "roman": "naon",
-          "english": "appearing",
-          "particle": false,
-          "suffix": "온"
-        },
-        {
-          "korean": "니테시",
-          "roman": "Nitesi",
-          "english": "Nitesh",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "티와리의",
-          "roman": "Tiwari-ui",
-          "english": "Tiwari's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "라마야나가",
-          "roman": "Ramayana-ga",
-          "english": "Ramayana",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "개봉했다",
-          "roman": "gaebonghaetda",
-          "english": "was released",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Nitesh Tiwari’s Ramayana, starring Yash, Ranbir Kapoor and Sai Pallavi, has reached cinemas.",
-          "korean": "야시, 란비르 카푸르, 사이 팔라비가 나온 니테시 티와리의 라마야나가 개봉했다.",
-          "glossary": [
-            {
-              "korean": "야시,",
-              "roman": "Yasi",
-              "english": "Yash",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "란비르",
-              "roman": "Ranbir",
-              "english": "Ranbir",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "카푸르,",
-              "roman": "Kapureu",
-              "english": "Kapoor",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사이",
-              "roman": "Sai",
-              "english": "Sai",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "팔라비가",
-              "roman": "Pallabi-ga",
-              "english": "Pallavi",
+              "korean": "조사가",
+              "roman": "jo-sa-ga",
+              "english": "investigation",
               "particle": false,
               "suffix": "가"
-            },
-            {
-              "korean": "나온",
-              "roman": "naon",
-              "english": "appearing",
-              "particle": false,
-              "suffix": "온"
-            },
-            {
-              "korean": "니테시",
-              "roman": "Nitesi",
-              "english": "Nitesh",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "티와리의",
-              "roman": "Tiwari-ui",
-              "english": "Tiwari's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "라마야나가",
-              "roman": "Ramayana-ga",
-              "english": "Ramayana",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "개봉했다",
-              "roman": "gaebonghaetda",
-              "english": "was released",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Yash plays Ravana, the king of Lanka, and critics say he commands attention.",
-          "korean": "야시는 랑카의 왕 라바나를 연기하며 시선을 끈다는 평을 받는다.",
-          "glossary": [
-            {
-              "korean": "야시는",
-              "roman": "Yasi-neun",
-              "english": "Yash",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "랑카의",
-              "roman": "Rangka-ui",
-              "english": "of Lanka",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "왕",
-              "roman": "wang",
-              "english": "king",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "라바나를",
-              "roman": "Ravana-reul",
-              "english": "Ravana",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "연기하며",
-              "roman": "yeongihamyeo",
-              "english": "acting as",
-              "particle": false,
-              "suffix": "며"
-            },
-            {
-              "korean": "시선을",
-              "roman": "siseon-eul",
-              "english": "attention",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "끈다는",
-              "roman": "kkeundaneun",
-              "english": "draws",
-              "particle": false,
-              "suffix": "다는"
-            },
-            {
-              "korean": "평을",
-              "roman": "pyeong-eul",
-              "english": "reviews",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "받는다",
-              "roman": "batneunda",
-              "english": "receives",
-              "particle": false,
-              "suffix": "는다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Reviews still disagree about whether the spectacle gives the epic enough emotional depth.",
-          "korean": "평론은 장관이 서사시에 충분한 감정을 줬는지 여전히 갈린다.",
-          "glossary": [
-            {
-              "korean": "평론은",
-              "roman": "pyeongnon-eun",
-              "english": "reviews",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "장관이",
-              "roman": "janggwan-i",
-              "english": "spectacle",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "서사시에",
-              "roman": "seosasi-e",
-              "english": "to the epic",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "충분한",
-              "roman": "chungbunhan",
-              "english": "enough",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "감정을",
-              "roman": "gamjeong-eul",
-              "english": "emotion",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "줬는지",
-              "roman": "jwotneunji",
-              "english": "whether gave",
-              "particle": false,
-              "suffix": "는지"
             },
             {
               "korean": "여전히",
-              "roman": "yeojeonhi",
+              "roman": "yeo-jeon-hi",
               "english": "still",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "갈린다",
-              "roman": "gallinda",
-              "english": "are divided",
+              "korean": "유효하다고",
+              "roman": "yu-hyo-ha-da-go",
+              "english": "valid",
               "particle": false,
-              "suffix": ""
+              "suffix": "고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "mal-haet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/videos/ramayana-how-yash-mastered-the-art-of-playing-ravana/article71670656.ece",
-      "short_english": "Nitesh Tiwari’s Ramayana, starring Yash, Ranbir Kapoor and Sai Pallavi, has reached cinemas.",
-      "short_korean": "야시, 란비르 카푸르, 사이 팔라비가 나온 니테시 티와리의 라마야나가 개봉했다.",
-      "date": "2026-11-06",
+      "url": "https://www.thehindu.com/sport/cricket/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe/article71677394.ece",
+      "short_english": "Usman Khawaja said on November 7, 2026, that Australia’s 2018 ball-tampering discussions were widespread.",
+      "short_korean": "우스만 카와자는 2026년 11월 7일 호주의 2018년 공 조작 논의가 넓었다고 말했다.",
+      "date": "2026-11-07",
       "images": [
-        "images/indian/04bc3fa8a44d/1.jpg",
-        "images/indian/04bc3fa8a44d/2.jpg",
-        "images/indian/04bc3fa8a44d/3.jpg",
-        "images/indian/04bc3fa8a44d/4.jpg",
-        "images/indian/04bc3fa8a44d/5.jpg",
-        "images/indian/04bc3fa8a44d/6.jpg",
-        "images/indian/04bc3fa8a44d/7.jpg",
-        "images/indian/04bc3fa8a44d/8.jpg",
-        "images/indian/04bc3fa8a44d/9.jpg",
-        "images/indian/04bc3fa8a44d/10.jpg",
-        "images/indian/04bc3fa8a44d/11.jpg",
-        "images/indian/04bc3fa8a44d/12.jpg",
-        "images/indian/04bc3fa8a44d/13.jpg",
-        "images/indian/04bc3fa8a44d/14.jpg",
-        "images/indian/04bc3fa8a44d/15.jpg"
+        "images/indian/f167b29b4e87/1.jpg",
+        "images/indian/f167b29b4e87/2.jpg",
+        "images/indian/f167b29b4e87/3.jpg",
+        "images/indian/f167b29b4e87/4.jpg",
+        "images/indian/f167b29b4e87/5.jpg",
+        "images/indian/f167b29b4e87/6.jpg",
+        "images/indian/f167b29b4e87/7.jpg",
+        "images/indian/f167b29b4e87/8.jpg",
+        "images/indian/f167b29b4e87/9.jpg",
+        "images/indian/f167b29b4e87/10.jpg",
+        "images/indian/f167b29b4e87/11.jpg",
+        "images/indian/f167b29b4e87/12.jpg",
+        "images/indian/f167b29b4e87/13.jpg",
+        "images/indian/f167b29b4e87/14.jpg",
+        "images/indian/f167b29b4e87/15.jpg",
+        "images/indian/f167b29b4e87/16.jpg",
+        "images/indian/f167b29b4e87/17.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/04bc3fa8a44d/caption.txt"
+      "caption_file": "images/indian/f167b29b4e87/caption.txt"
     },
     {
-      "category": "World",
-      "korean_title": "미국 중간선거, 민주당의 파란 물결",
-      "english_title": "Democrats Win Congress In A Blue Shift",
-      "korean_desc": "민주당은 2026년 11월 3일 중간선거에서 의회 양원을 이겼다. 도널드 트럼프 대통령은 유권자에게 선거를 자신에 대한 판단으로 보라고 했다. 민주당은 텍사스, 조지아, 아이오와, 오하이오 주지사 선거도 이겼다. 11월 5일 분석가들은 권력이 2028년 성공을 보장하지 않는다고 말했다.",
-      "english_desc": "Democrats won both chambers of Congress in the November 3, 2026 midterm elections. President Donald Trump had urged voters to treat the election as a judgment on him. Democrats also won Republican strongholds including Texas, Georgia, Iowa and Ohio governor’s races. On November 5, analysts said control brings power but does not guarantee Democratic success in 2028.",
-      "hook": "Democrats won Congress after voters delivered a rebuke to Trump.",
-      "sticker": "What changed in Washington",
-      "korean_hook": "민주당이 트럼프 반발 속 의회를 차지했다",
-      "takeaway_english": "Democrats now have power, but their next test is turning rejection into governing results.",
-      "takeaway_korean": "민주당의 다음 시험은 반대를 실제 통치 성과로 바꾸는 일이다.",
+      "category": "Entertainment",
+      "korean_title": "영화 디스코, 화려하지만 빈약해",
+      "english_title": "Disco looks dazzling, but its mafia story feels empty",
+      "korean_desc": "울라스 첸반의 말라얄람 영화 디스코는 해안 마을 갱단을 따른다. 의상과 색과 위에서 찍은 장면이 라틴아메리카 분위기를 만든다. 비선형 구조는 갱 전쟁과 사랑과 슬로모션과 힙합 영상을 섞는다. 평론가들은 관객이 볼거리와 약한 이야기로 갈릴 것이라 본다.",
+      "english_desc": "Ullas Chemban’s Malayalam film Disco follows colourful mafia gangs in a coastal town. Its costumes, colours and overhead shots create a vivid world with a Latin American flavour. The non-linear structure mixes gang wars, romance, slow motion and hip-hop videos. Reviewers expect viewers to divide over its spectacle and thin storytelling.",
+      "hook": "Disco brings bright style to a familiar gangster story.",
+      "sticker": "Style meets gangster chaos",
+      "korean_hook": "디스코는 익숙한 갱 이야기를 화려하게 꾸몄다",
+      "takeaway_english": "Disco may please viewers seeking colour and noise, but its script remains the loudest problem.",
+      "takeaway_korean": "디스코는 색과 소리를 주지만 가장 큰 문제는 각본이다.",
       "why_it_matters": [
         {
-          "english": "Congress can now slow or investigate major parts of Trump’s agenda.",
-          "korean": "의회는 이제 트럼프 정책의 큰 부분을 늦추거나 조사할 수 있다."
+          "english": "The film shows how technical polish cannot replace strong writing.",
+          "korean": "영화는 기술적 완성도가 좋은 각본을 대신할 수 없음을 보여 준다."
         },
         {
-          "english": "State results show political change in places once seen as Republican strongholds.",
-          "korean": "주 선거 결과는 공화당 강세 지역의 정치 변화를 보여준다."
-        },
-        {
-          "english": "The outcome shapes the next two years and the 2028 debate.",
-          "korean": "결과는 앞으로 2년과 2028년 논쟁을 바꾼다."
+          "english": "Its 158-minute length makes weak storytelling harder to ignore.",
+          "korean": "158분의 길이는 약한 이야기를 더 숨기기 어렵게 한다."
         }
       ],
       "parties": [
         {
-          "label": "Democrats",
-          "english": "They won control of both the Senate and House.",
-          "korean": "민주당은 상원과 하원을 모두 장악했다."
+          "label": "Ullas Chemban",
+          "english": "He directed Disco as his second film.",
+          "korean": "그는 두 번째 영화로 디스코를 연출했다."
         },
         {
-          "label": "Donald Trump",
-          "english": "He made the election a referendum on his presidency.",
-          "korean": "도널드 트럼프는 선거를 자신의 대통령직에 대한 투표로 만들었다."
+          "label": "Chemban Vinod Jose",
+          "english": "He wrote the film and acts as a gang leader.",
+          "korean": "그는 영화를 쓰고 갱단 두목으로 출연한다."
         },
         {
-          "label": "Texas Democrats",
-          "english": "James Talarico and Gina Hinojosa broke decades of Republican statewide control.",
-          "korean": "제임스 탈라리코와 지나 이노호사가 수십 년 공화당 지배를 깼다."
+          "label": "Viewers",
+          "english": "They get colourful costumes, music videos and long gang battles.",
+          "korean": "관객은 화려한 의상과 뮤직비디오와 긴 갱 전투를 본다."
         }
       ],
       "views": [
         {
-          "label": "Democratic strategists",
-          "english": "The losses show Trump and Republican policies became liabilities in competitive states.",
-          "korean": "민주당 전략가들은 트럼프와 공화당 정책이 약점이 됐다고 본다."
+          "label": "Supportive view",
+          "english": "The film’s colour, costumes, music and staged fights give it a strong visual identity.",
+          "korean": "색과 의상과 음악과 전투가 영화에 강한 시각적 개성을 준다."
         },
         {
-          "label": "Cautious analysts",
-          "english": "The victory gives Democrats power, but it does not guarantee success in 2028.",
-          "korean": "신중한 분석가들은 승리가 2028년 성공을 보장하지 않는다고 본다."
+          "label": "Critical view",
+          "english": "The non-linear story, violence and predictable ending overwhelm the film’s technical strengths.",
+          "korean": "비선형 이야기와 폭력과 뻔한 결말이 기술적 장점을 누른다."
         }
       ],
       "disagree": {
-        "english": "Some voters may have been voting against the governing party rather than for a settled Democratic programme.",
-        "korean": "일부 유권자는 확정된 민주당 정책보다 집권당에 반대해 투표했을 수 있다."
+        "english": "Viewers who value style and spectacle may enjoy the same choices critics find excessive.",
+        "korean": "스타일과 볼거리를 중시하는 관객은 비판받은 요소를 즐길 수 있다."
       },
-      "reader_question_korean": "민주당은 권력을 조사와 입법 중 어디에 더 쓸까요?",
+      "reader_question_korean": "스타일이 익숙한 이야기를 살릴 수 있을까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Making sense of the blue shift in U.S. midterm election | a collection",
+      "source_title": "‘Disco’ movie review: Stylish treatment fails to paper over the lack of substance in this generic mafia story",
+      "hook_format": "vocab",
+      "body_format": "who_speaks",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "people": [
+          {
+            "label": "The Hindu reviewer",
+            "english": "The film’s stylish visuals cannot rescue its generic writing.",
+            "korean": "영화의 화려한 영상이 평범한 각본을 구하지 못한다."
+          },
+          {
+            "label": "Indian Express reviewer",
+            "english": "The action, gore and weak script make the film tiring to watch.",
+            "korean": "액션과 잔혹함과 약한 각본이 영화를 지치게 만든다."
+          },
+          {
+            "label": "Cinema Express reviewer",
+            "english": "The film is a hollow action movie overwhelmed by violence.",
+            "korean": "영화는 폭력에 눌린 텅 빈 액션 영화다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Disco is directed by Ullas Chemban.",
+        "The film runs for 158 minutes."
+      ],
+      "reader_question": "Can style carry a familiar story?",
+      "topic_tag": "Cinema",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "‘Disco’ movie review: Stylish treatment fails to paper over the lack of substance in this generic mafia story",
+          "date": "2026-11-06",
+          "url": "https://www.thehindu.com/entertainment/movies/disco-movie-review-stylish-treatment-fails-to-paper-over-the-lack-of-substance-in-this-generic-mafia-story/article71674961.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "울라스",
+          "roman": "ul-la-seu",
+          "english": "Ullas",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "첸반의",
+          "roman": "chen-ban-ui",
+          "english": "Chemban's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "말라얄람",
+          "roman": "mal-la-yal-lam",
+          "english": "Malayalam",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "영화",
+          "roman": "yeong-hwa",
+          "english": "film",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "디스코는",
+          "roman": "di-seu-ko-neun",
+          "english": "Disco",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "해안",
+          "roman": "hae-an",
+          "english": "coastal",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "마을",
+          "roman": "ma-eul",
+          "english": "town",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "갱단을",
+          "roman": "gaeng-dan-eul",
+          "english": "gangs",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "따른다",
+          "roman": "tta-reun-da",
+          "english": "follows",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Ullas Chemban’s Malayalam film Disco follows colourful mafia gangs in a coastal town.",
+          "korean": "울라스 첸반의 말라얄람 영화 디스코는 해안 마을 갱단을 따른다.",
+          "glossary": [
+            {
+              "korean": "울라스",
+              "roman": "ul-la-seu",
+              "english": "Ullas",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "첸반의",
+              "roman": "chen-ban-ui",
+              "english": "Chemban's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "말라얄람",
+              "roman": "mal-la-yal-lam",
+              "english": "Malayalam",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "영화",
+              "roman": "yeong-hwa",
+              "english": "film",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "디스코는",
+              "roman": "di-seu-ko-neun",
+              "english": "Disco",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "해안",
+              "roman": "hae-an",
+              "english": "coastal",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "마을",
+              "roman": "ma-eul",
+              "english": "town",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "갱단을",
+              "roman": "gaeng-dan-eul",
+              "english": "gangs",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "따른다",
+              "roman": "tta-reun-da",
+              "english": "follows",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "Its costumes, colours and overhead shots create a vivid world with a Latin American flavour.",
+          "korean": "의상과 색과 위에서 찍은 장면이 라틴아메리카 분위기를 만든다.",
+          "glossary": [
+            {
+              "korean": "의상과",
+              "roman": "ui-sang-gwa",
+              "english": "costumes and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "색과",
+              "roman": "saek-gwa",
+              "english": "colours and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "위에서",
+              "roman": "wi-e-seo",
+              "english": "from above",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "찍은",
+              "roman": "jjig-eun",
+              "english": "filmed",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "장면이",
+              "roman": "jang-myeon-i",
+              "english": "scenes",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "라틴아메리카",
+              "roman": "ra-tin-a-me-ri-ka",
+              "english": "Latin American",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "분위기를",
+              "roman": "bun-wi-gi-reul",
+              "english": "atmosphere",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "만든다",
+              "roman": "man-deun-da",
+              "english": "create",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The non-linear structure mixes gang wars, romance, slow motion and hip-hop videos.",
+          "korean": "비선형 구조는 갱 전쟁과 사랑과 슬로모션과 힙합 영상을 섞는다.",
+          "glossary": [
+            {
+              "korean": "비선형",
+              "roman": "bi-seon-hyeong",
+              "english": "non-linear",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "구조는",
+              "roman": "gu-jo-neun",
+              "english": "structure",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "갱",
+              "roman": "gaeng",
+              "english": "gang",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전쟁과",
+              "roman": "jeon-jaeng-gwa",
+              "english": "wars and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "사랑과",
+              "roman": "sa-rang-gwa",
+              "english": "romance and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "슬로모션과",
+              "roman": "seul-lo-mo-syeon-gwa",
+              "english": "slow motion and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "힙합",
+              "roman": "hip-hap",
+              "english": "hip-hop",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "영상을",
+              "roman": "yeong-sang-eul",
+              "english": "videos",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "섞는다",
+              "roman": "seok-neun-da",
+              "english": "mixes",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Reviewers expect viewers to divide over its spectacle and thin storytelling.",
+          "korean": "평론가들은 관객이 볼거리와 약한 이야기로 갈릴 것이라 본다.",
+          "glossary": [
+            {
+              "korean": "평론가들은",
+              "roman": "pyeong-ron-ga-deul-eun",
+              "english": "reviewers",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "관객이",
+              "roman": "gwan-gaek-i",
+              "english": "viewers",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "볼거리와",
+              "roman": "bol-geo-ri-wa",
+              "english": "spectacle and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "약한",
+              "roman": "yak-han",
+              "english": "weak",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "이야기로",
+              "roman": "i-ya-gi-ro",
+              "english": "storytelling",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "갈릴",
+              "roman": "gal-lil",
+              "english": "divide",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "것이라",
+              "roman": "geot-i-ra",
+              "english": "that will",
+              "particle": false,
+              "suffix": "이라"
+            },
+            {
+              "korean": "본다",
+              "roman": "bon-da",
+              "english": "think",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/movies/disco-movie-review-stylish-treatment-fails-to-paper-over-the-lack-of-substance-in-this-generic-mafia-story/article71674961.ece",
+      "short_english": "Ullas Chemban’s Malayalam film Disco follows colourful mafia gangs in a coastal town.",
+      "short_korean": "울라스 첸반의 말라얄람 영화 디스코는 해안 마을 갱단을 따른다.",
+      "date": "2026-11-07",
+      "images": [
+        "images/indian/2c440a8dcbb8/1.jpg",
+        "images/indian/2c440a8dcbb8/2.jpg",
+        "images/indian/2c440a8dcbb8/3.jpg",
+        "images/indian/2c440a8dcbb8/4.jpg",
+        "images/indian/2c440a8dcbb8/5.jpg",
+        "images/indian/2c440a8dcbb8/6.jpg",
+        "images/indian/2c440a8dcbb8/7.jpg",
+        "images/indian/2c440a8dcbb8/8.jpg",
+        "images/indian/2c440a8dcbb8/9.jpg",
+        "images/indian/2c440a8dcbb8/10.jpg",
+        "images/indian/2c440a8dcbb8/11.jpg",
+        "images/indian/2c440a8dcbb8/12.jpg",
+        "images/indian/2c440a8dcbb8/13.jpg",
+        "images/indian/2c440a8dcbb8/14.jpg",
+        "images/indian/2c440a8dcbb8/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/2c440a8dcbb8/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "미중 무역, APEC 전 긴장",
+      "english_title": "U.S. and China trade concerns surface before APEC",
+      "korean_desc": "미국과 중국 당국자들은 2026년 11월 6일 솔직한 무역 회담을 했다. 미국은 중국이 2025년 10월 부산 합의를 이행하길 원한다. 중국은 미국산 콩을 사고 새 희토류 수출 통제를 멈추기로 했다. 다음 큰 회의는 2026년 11월 18일부터 19일까지 선전에서 열린다. 도널드 트럼프와 시진핑은 그곳에서 만날 수 있고 휴전은 2027년 1월 10일까지 간다.",
+      "english_desc": "U.S. and Chinese officials held frank trade talks on November 6, 2026. Washington wants Beijing to implement commitments from the October 2025 Busan agreement. China agreed to buy U.S. soybeans and suspend new rare-earth export controls. The next major meeting is APEC in Shenzhen on November 18–19, 2026. Donald Trump and Xi Jinping may meet there while the truce runs until January 10, 2027.",
+      "hook": "U.S. and Chinese officials raised trade concerns before APEC.",
+      "sticker": "Trade truce under pressure",
+      "korean_hook": "미중 당국자들이 APEC 전 무역 우려를 냈다",
+      "takeaway_english": "The truce continues, but its future depends on actions before January 10, 2027.",
+      "takeaway_korean": "휴전은 계속되지만 미래는 2027년 1월 10일 전 행동에 달렸다.",
+      "why_it_matters": [
+        {
+          "english": "Rare earths are important for phones, cars and military equipment.",
+          "korean": "희토류는 휴대전화와 자동차와 군사 장비에 중요하다."
+        },
+        {
+          "english": "Trade tensions can affect products and supply chains beyond both countries.",
+          "korean": "무역 긴장은 양국 밖의 제품과 공급망에도 영향을 줄 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "United States",
+          "english": "It is watching China’s commitments on trade and rare-earth exports.",
+          "korean": "미국은 중국의 무역과 희토류 수출 약속을 지켜보고 있다."
+        },
+        {
+          "label": "China",
+          "english": "It objects to recent U.S. restrictions and sanctions.",
+          "korean": "중국은 최근 미국의 제한과 제재에 반대한다."
+        },
+        {
+          "label": "APEC",
+          "english": "The November summit may provide a setting for leaders to manage differences.",
+          "korean": "11월 정상회의는 지도자들이 차이를 관리할 자리가 될 수 있다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Washington",
+          "english": "The United States says progress depends on China delivering concrete results.",
+          "korean": "미국은 진전이 중국의 실제 결과에 달렸다고 말한다."
+        },
+        {
+          "label": "Beijing",
+          "english": "China says U.S. restrictive measures threaten the understanding reached by both sides.",
+          "korean": "중국은 미국의 제한 조치가 양국 합의를 위협한다고 말한다."
+        }
+      ],
+      "disagree": {
+        "english": "Each side describes the other’s actions as the main problem, so the disagreement has no shared explanation.",
+        "korean": "양쪽은 상대 행동을 문제로 보며 공통된 설명이 없다."
+      },
+      "reader_question_korean": "어느 쪽이 다음 무역 양보를 해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Top U.S., China officials raise trade 'concerns' as APEC approaches",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -2299,390 +2331,511 @@
       "format_data": {
         "views": [
           {
-            "label": "Democratic view",
-            "english": "The result shows voters rejected Trump’s direction and want Democrats to investigate and govern.",
-            "korean": "민주당은 유권자가 트럼프의 방향을 거부하고 조사와 통치를 원한다고 본다."
+            "label": "United States",
+            "english": "Washington wants China to carry out its Busan commitments immediately and show concrete results.",
+            "korean": "미국은 중국이 부산 약속을 즉시 이행하고 실제 결과를 보이길 원한다."
           },
           {
-            "label": "Cautious view",
-            "english": "Democratic control creates power, but governing will be difficult and the result may not prove a permanent realignment.",
-            "korean": "민주당이 권력을 얻었지만 통치는 어렵고 영구적 재편이라고 단정할 수 없다."
+            "label": "China",
+            "english": "Beijing says recent U.S. trade restrictions are a serious concern.",
+            "korean": "중국은 최근 미국의 무역 제한이 심각한 우려라고 말한다."
           }
         ]
       },
       "serious": false,
       "caption_lines": [
-        "Election Day was November 3, 2026.",
-        "All 435 House seats and 35 Senate seats were contested."
+        "APEC will meet in Shenzhen on November 18–19, 2026.",
+        "The truce was extended until January 10, 2027."
       ],
-      "reader_question": "Will Democrats use power mainly to investigate or to legislate?",
-      "topic_tag": "Election",
+      "reader_question": "Which side should make the next trade concession?",
+      "topic_tag": "Trade",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Making sense of the blue shift in U.S. midterm election | a collection",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/news/international/making-sense-of-the-blue-shift-in-us-midterm-election-a-collection/article71673207.ece"
+          "title": "Top U.S., China officials raise trade 'concerns' as APEC approaches",
+          "date": "2026-11-07",
+          "url": "https://www.thehindu.com/news/international/top-us-china-officials-raise-trade-concerns-as-apec-approaches/article71677476.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "민주당은",
-          "roman": "Minjudang-eun",
-          "english": "Democrats",
+          "korean": "미국과",
+          "roman": "mi-guk-gwa",
+          "english": "U.S. and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "중국",
+          "roman": "jung-guk",
+          "english": "China",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "당국자들은",
+          "roman": "dang-guk-ja-deul-eun",
+          "english": "officials",
           "particle": false,
           "suffix": "은"
         },
         {
           "korean": "2026년",
-          "roman": "icheon-isibyug-nyeon",
+          "roman": "i-cheon-i-sip-yuk-nyeon",
           "english": "2026",
           "particle": false,
-          "suffix": ""
+          "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sibilwol",
+          "roman": "sip-il-wol",
           "english": "November",
           "particle": false,
-          "suffix": ""
+          "suffix": "월"
         },
         {
-          "korean": "3일",
-          "roman": "sam-il",
-          "english": "3rd",
+          "korean": "6일",
+          "roman": "yuk-il",
+          "english": "6th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "솔직한",
+          "roman": "sol-jik-han",
+          "english": "frank",
+          "particle": false,
+          "suffix": "한"
+        },
+        {
+          "korean": "무역",
+          "roman": "mu-yeok",
+          "english": "trade",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "중간선거에서",
-          "roman": "jungganseongeo-eseo",
-          "english": "in the midterms",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "의회",
-          "roman": "uihoe",
-          "english": "Congress",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "양원을",
-          "roman": "yangwon-eul",
-          "english": "both chambers",
+          "korean": "회담을",
+          "roman": "hoe-dam-eul",
+          "english": "talks",
           "particle": false,
           "suffix": "을"
         },
         {
-          "korean": "이겼다",
-          "roman": "igyeotda",
-          "english": "won",
+          "korean": "했다",
+          "roman": "haet-da",
+          "english": "held",
           "particle": false,
-          "suffix": ""
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Democrats won both chambers of Congress in the November 3, 2026 midterm elections.",
-          "korean": "민주당은 2026년 11월 3일 중간선거에서 의회 양원을 이겼다.",
+          "english": "U.S. and Chinese officials held frank trade talks on November 6, 2026.",
+          "korean": "미국과 중국 당국자들은 2026년 11월 6일 솔직한 무역 회담을 했다.",
           "glossary": [
             {
-              "korean": "민주당은",
-              "roman": "Minjudang-eun",
-              "english": "Democrats",
+              "korean": "미국과",
+              "roman": "mi-guk-gwa",
+              "english": "U.S. and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "중국",
+              "roman": "jung-guk",
+              "english": "China",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "당국자들은",
+              "roman": "dang-guk-ja-deul-eun",
+              "english": "officials",
               "particle": false,
               "suffix": "은"
             },
             {
               "korean": "2026년",
-              "roman": "icheon-isibyug-nyeon",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
               "english": "2026",
               "particle": false,
-              "suffix": ""
+              "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sibilwol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
-              "suffix": ""
+              "suffix": "월"
             },
             {
-              "korean": "3일",
-              "roman": "sam-il",
-              "english": "3rd",
+              "korean": "6일",
+              "roman": "yuk-il",
+              "english": "6th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "솔직한",
+              "roman": "sol-jik-han",
+              "english": "frank",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "무역",
+              "roman": "mu-yeok",
+              "english": "trade",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "중간선거에서",
-              "roman": "jungganseongeo-eseo",
-              "english": "in the midterms",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "의회",
-              "roman": "uihoe",
-              "english": "Congress",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "양원을",
-              "roman": "yangwon-eul",
-              "english": "both chambers",
+              "korean": "회담을",
+              "roman": "hoe-dam-eul",
+              "english": "talks",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "이겼다",
-              "roman": "igyeotda",
-              "english": "won",
+              "korean": "했다",
+              "roman": "haet-da",
+              "english": "held",
               "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "President Donald Trump had urged voters to treat the election as a judgment on him.",
-          "korean": "도널드 트럼프 대통령은 유권자에게 선거를 자신에 대한 판단으로 보라고 했다.",
+          "english": "Washington wants Beijing to implement commitments from the October 2025 Busan agreement.",
+          "korean": "미국은 중국이 2025년 10월 부산 합의를 이행하길 원한다.",
           "glossary": [
             {
-              "korean": "도널드",
-              "roman": "Doneoldeu",
-              "english": "Donald",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "트럼프",
-              "roman": "Teureompeu",
-              "english": "Trump",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대통령은",
-              "roman": "daetongnyeong-eun",
-              "english": "president",
+              "korean": "미국은",
+              "roman": "mi-guk-eun",
+              "english": "Washington",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "유권자에게",
-              "roman": "yugwonja-ege",
-              "english": "to voters",
+              "korean": "중국이",
+              "roman": "jung-guk-i",
+              "english": "China",
               "particle": false,
-              "suffix": "에게"
+              "suffix": "이"
             },
             {
-              "korean": "선거를",
-              "roman": "seongeo-reul",
-              "english": "the election",
+              "korean": "2025년",
+              "roman": "i-cheon-i-sip-o-nyeon",
+              "english": "2025",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "10월",
+              "roman": "sip-wol",
+              "english": "October",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "부산",
+              "roman": "bu-san",
+              "english": "Busan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "합의를",
+              "roman": "hap-ui-reul",
+              "english": "agreement",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "자신에",
-              "roman": "jasin-e",
-              "english": "on himself",
+              "korean": "이행하길",
+              "roman": "i-haeng-ha-gil",
+              "english": "implement",
               "particle": false,
-              "suffix": "에"
+              "suffix": "길"
             },
             {
-              "korean": "대한",
-              "roman": "daehan",
-              "english": "about",
+              "korean": "원한다",
+              "roman": "won-han-da",
+              "english": "wants",
               "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "판단으로",
-              "roman": "pandan-euro",
-              "english": "as judgment",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "보라고",
-              "roman": "borago",
-              "english": "to view",
-              "particle": false,
-              "suffix": "라고"
-            },
-            {
-              "korean": "했다",
-              "roman": "haetda",
-              "english": "said",
-              "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Democrats also won Republican strongholds including Texas, Georgia, Iowa and Ohio governor’s races.",
-          "korean": "민주당은 텍사스, 조지아, 아이오와, 오하이오 주지사 선거도 이겼다.",
+          "english": "China agreed to buy U.S. soybeans and suspend new rare-earth export controls.",
+          "korean": "중국은 미국산 콩을 사고 새 희토류 수출 통제를 멈추기로 했다.",
           "glossary": [
             {
-              "korean": "민주당은",
-              "roman": "Minjudang-eun",
-              "english": "Democrats",
+              "korean": "중국은",
+              "roman": "jung-guk-eun",
+              "english": "China",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "텍사스,",
-              "roman": "Teksaseu",
-              "english": "Texas",
+              "korean": "미국산",
+              "roman": "mi-guk-san",
+              "english": "U.S.-made",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "조지아,",
-              "roman": "Jogia",
-              "english": "Georgia",
+              "korean": "콩을",
+              "roman": "kong-eul",
+              "english": "soybeans",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "사고",
+              "roman": "sa-go",
+              "english": "buy and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "아이오와,",
-              "roman": "Aiowa",
-              "english": "Iowa",
+              "korean": "희토류",
+              "roman": "hui-to-ryu",
+              "english": "rare earths",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "오하이오",
-              "roman": "Ohaio",
-              "english": "Ohio",
+              "korean": "수출",
+              "roman": "su-chul",
+              "english": "export",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "주지사",
-              "roman": "jujisa",
-              "english": "governor",
+              "korean": "통제를",
+              "roman": "tong-je-reul",
+              "english": "controls",
               "particle": false,
-              "suffix": ""
+              "suffix": "를"
             },
             {
-              "korean": "선거도",
-              "roman": "seongeo-do",
-              "english": "elections too",
+              "korean": "멈추기로",
+              "roman": "meom-chu-gi-ro",
+              "english": "to suspend",
               "particle": false,
-              "suffix": "도"
+              "suffix": "기로"
             },
             {
-              "korean": "이겼다",
-              "roman": "igyeotda",
-              "english": "won",
+              "korean": "했다",
+              "roman": "haet-da",
+              "english": "agreed",
               "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "On November 5, analysts said control brings power but does not guarantee Democratic success in 2028.",
-          "korean": "11월 5일 분석가들은 권력이 2028년 성공을 보장하지 않는다고 말했다.",
+          "english": "The next major meeting is APEC in Shenzhen on November 18–19, 2026.",
+          "korean": "다음 큰 회의는 2026년 11월 18일부터 19일까지 선전에서 열린다.",
           "glossary": [
             {
+              "korean": "다음",
+              "roman": "da-eum",
+              "english": "next",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "큰",
+              "roman": "keun",
+              "english": "major",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "회의는",
+              "roman": "hoe-ui-neun",
+              "english": "meeting",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
               "korean": "11월",
-              "roman": "sibilwol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
-              "suffix": ""
+              "suffix": "월"
             },
             {
-              "korean": "5일",
-              "roman": "oil",
-              "english": "5th",
+              "korean": "18일부터",
+              "roman": "sip-pal-il-bu-teo",
+              "english": "from 18th",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "19일까지",
+              "roman": "sip-gu-il-kka-ji",
+              "english": "through 19th",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "선전에서",
+              "roman": "seon-jeon-e-seo",
+              "english": "in Shenzhen",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "열린다",
+              "roman": "yeol-lin-da",
+              "english": "will be held",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Donald Trump and Xi Jinping may meet there while the truce runs until January 10, 2027.",
+          "korean": "도널드 트럼프와 시진핑은 그곳에서 만날 수 있고 휴전은 2027년 1월 10일까지 간다.",
+          "glossary": [
+            {
+              "korean": "도널드",
+              "roman": "do-neol-deu",
+              "english": "Donald",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "분석가들은",
-              "roman": "bunseokgadeul-eun",
-              "english": "analysts",
+              "korean": "트럼프와",
+              "roman": "teu-reom-peu-wa",
+              "english": "Trump and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "시진핑은",
+              "roman": "si-jin-ping-eun",
+              "english": "Xi Jinping",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "권력이",
-              "roman": "gwonryeok-i",
-              "english": "power",
+              "korean": "그곳에서",
+              "roman": "geu-got-e-seo",
+              "english": "there",
               "particle": false,
-              "suffix": "이"
+              "suffix": "에서"
             },
             {
-              "korean": "2028년",
-              "roman": "icheon-isip-pal-nyeon",
-              "english": "2028",
+              "korean": "만날",
+              "roman": "man-nal",
+              "english": "meet",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "성공을",
-              "roman": "seonggong-eul",
-              "english": "success",
+              "korean": "수",
+              "roman": "su",
+              "english": "can",
               "particle": false,
-              "suffix": "을"
+              "suffix": ""
             },
             {
-              "korean": "보장하지",
-              "roman": "bojanghaji",
-              "english": "guarantee",
+              "korean": "있고",
+              "roman": "it-go",
+              "english": "and can",
               "particle": false,
-              "suffix": "하지"
+              "suffix": "고"
             },
             {
-              "korean": "않는다고",
-              "roman": "anneundago",
-              "english": "does not",
+              "korean": "휴전은",
+              "roman": "hyu-jeon-eun",
+              "english": "truce",
               "particle": false,
-              "suffix": "는다고"
+              "suffix": "은"
             },
             {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
+              "korean": "2027년",
+              "roman": "i-cheon-i-sip-chil-nyeon",
+              "english": "2027",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "년"
+            },
+            {
+              "korean": "1월",
+              "roman": "il-wol",
+              "english": "January",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "10일까지",
+              "roman": "sip-il-kka-ji",
+              "english": "until 10th",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "간다",
+              "roman": "gan-da",
+              "english": "runs",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/making-sense-of-the-blue-shift-in-us-midterm-election-a-collection/article71673207.ece",
-      "short_english": "Democrats won both chambers of Congress in the November 3, 2026 midterm elections.",
-      "short_korean": "민주당은 2026년 11월 3일 중간선거에서 의회 양원을 이겼다.",
-      "date": "2026-11-06",
+      "url": "https://www.thehindu.com/news/international/top-us-china-officials-raise-trade-concerns-as-apec-approaches/article71677476.ece",
+      "short_english": "U.S. and Chinese officials held frank trade talks on November 6, 2026.",
+      "short_korean": "미국과 중국 당국자들은 2026년 11월 6일 솔직한 무역 회담을 했다.",
+      "date": "2026-11-07",
       "images": [
-        "images/indian/5a41655ee9a4/1.jpg",
-        "images/indian/5a41655ee9a4/2.jpg",
-        "images/indian/5a41655ee9a4/3.jpg",
-        "images/indian/5a41655ee9a4/4.jpg",
-        "images/indian/5a41655ee9a4/5.jpg",
-        "images/indian/5a41655ee9a4/6.jpg",
-        "images/indian/5a41655ee9a4/7.jpg",
-        "images/indian/5a41655ee9a4/8.jpg",
-        "images/indian/5a41655ee9a4/9.jpg",
-        "images/indian/5a41655ee9a4/10.jpg",
-        "images/indian/5a41655ee9a4/11.jpg",
-        "images/indian/5a41655ee9a4/12.jpg",
-        "images/indian/5a41655ee9a4/13.jpg",
-        "images/indian/5a41655ee9a4/14.jpg",
-        "images/indian/5a41655ee9a4/15.jpg",
-        "images/indian/5a41655ee9a4/16.jpg",
-        "images/indian/5a41655ee9a4/17.jpg"
+        "images/indian/8eb93ea6fbfb/1.jpg",
+        "images/indian/8eb93ea6fbfb/2.jpg",
+        "images/indian/8eb93ea6fbfb/3.jpg",
+        "images/indian/8eb93ea6fbfb/4.jpg",
+        "images/indian/8eb93ea6fbfb/5.jpg",
+        "images/indian/8eb93ea6fbfb/6.jpg",
+        "images/indian/8eb93ea6fbfb/7.jpg",
+        "images/indian/8eb93ea6fbfb/8.jpg",
+        "images/indian/8eb93ea6fbfb/9.jpg",
+        "images/indian/8eb93ea6fbfb/10.jpg",
+        "images/indian/8eb93ea6fbfb/11.jpg",
+        "images/indian/8eb93ea6fbfb/12.jpg",
+        "images/indian/8eb93ea6fbfb/13.jpg",
+        "images/indian/8eb93ea6fbfb/14.jpg",
+        "images/indian/8eb93ea6fbfb/15.jpg",
+        "images/indian/8eb93ea6fbfb/16.jpg",
+        "images/indian/8eb93ea6fbfb/17.jpg",
+        "images/indian/8eb93ea6fbfb/18.jpg",
+        "images/indian/8eb93ea6fbfb/19.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/5a41655ee9a4/caption.txt"
+      "caption_file": "images/indian/8eb93ea6fbfb/caption.txt"
     }
   ]
 }
