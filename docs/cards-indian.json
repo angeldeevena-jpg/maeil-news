@@ -1,773 +1,266 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0152",
-  "generated_at": "2026-11-07T07:12:41.823Z",
+  "note": "5 new cards made, 1 kept. Cost this run about $0.0121",
+  "generated_at": "2026-11-08T07:22:19.846Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "아몬카르, 고아 장관 취임",
-      "english_title": "Amonkar fills Goa’s empty cabinet seat",
-      "korean_desc": "산칼프 아몬카르는 2026년 11월 7일 고아 내각에 들어갔다. 그 자리는 라비 나익 장관이 2025년 10월 사망한 뒤 비었다. 아몬카르는 2022년 모르무가오에서 이긴 뒤 일곱 의원과 BJP로 갔다. BJP 지도자들은 임명이 2027년 고아 선거에 도움이 되길 기대한다.",
-      "english_desc": "Sankalp Amonkar joined Goa’s cabinet on November 7, 2026. The post had been empty since minister Ravi Naik died in October 2025. Amonkar won Mormugao for Congress in 2022, then joined the BJP with seven other lawmakers. BJP leaders expect the appointment to help before Goa’s 2027 election.",
-      "hook": "Goa’s cabinet seat stayed empty for a year.",
-      "sticker": "Goa gets a minister",
-      "korean_hook": "고아 장관 자리가 1년 비었다",
-      "takeaway_english": "A vacant post is filled, but its electoral value remains disputed.",
-      "takeaway_korean": "빈자리는 채워졌지만 선거 가치는 논쟁 중이다.",
+      "korean_title": "이스라엘 사고 희생자 고향에 안장",
+      "english_title": "Indian Worker Killed in Israel Returns Home",
+      "korean_desc": "베라마니는 2026년 10월 28일 이스라엘 현장에서 사망했다 수리 중 멈춘 엘리베이터가 갑자기 내려갔다 시신은 11월 7일 첸나이에 도착해 묻혔다",
+      "english_desc": "Veeramani, 31, died at an Israel construction site on October 28, 2026. He was repairing equipment when a stopped elevator suddenly descended. His body reached Chennai on November 7 and was buried in Moongilpatti.",
+      "hook": "Veeramani was buried in his native village.",
+      "sticker": "What happened at work",
+      "korean_hook": "베라마니가 고향에 묻혔다",
+      "takeaway_english": "The family received his body, but safety questions at the worksite remain unanswered.",
+      "takeaway_korean": "가족은 시신을 받았지만 안전 의문은 남았다",
       "why_it_matters": [
         {
-          "english": "Cabinet membership gives Mormugao a direct voice in Goa’s government.",
-          "korean": "장관 자리는 모르무가오에 정부의 직접 목소리를 준다."
+          "english": "The death left a wife and young child in the family’s home village.",
+          "korean": "고향에 아내와 어린 딸이 남았다"
+        },
+        {
+          "english": "The case shows the personal cost of overseas construction work.",
+          "korean": "해외 건설의 개인적 대가를 보여준다"
         }
       ],
       "parties": [
         {
-          "label": "Sankalp Amonkar",
-          "english": "He became a cabinet minister after moving from Congress to BJP in 2022.",
-          "korean": "그는 2022년 의회당에서 BJP로 옮긴 뒤 장관이 됐다."
+          "label": "Veeramani",
+          "english": "The 31-year-old construction worker died in Israel.",
+          "korean": "31세 건설 노동자였다"
         },
         {
-          "label": "Goa government",
-          "english": "The twelve-member council now has no vacancy.",
-          "korean": "고아 정부의 12명 내각이 이제 모두 찼다."
+          "label": "Bhuvaneshwari and Tejashree",
+          "english": "His wife and four-year-old daughter survive him.",
+          "korean": "아내와 네 살 딸이 남았다"
         },
         {
-          "label": "Mormugao",
-          "english": "The region may gain political importance before the 2027 election.",
-          "korean": "모르무가오는 2027년 선거를 앞두고 중요해질 수 있다."
+          "label": "Moongilpatti villagers",
+          "english": "Villagers gathered to say goodbye after his body returned.",
+          "korean": "마을 사람들이 모여 배웅했다"
         }
       ],
       "views": [
         {
-          "label": "BJP supporters",
-          "english": "The appointment gives the BJP stronger representation in Mormugao.",
-          "korean": "이번 임명은 모르무가오에서 BJP의 대표성을 높인다."
+          "label": "Official sources",
+          "english": "The accident happened during repair work after an elevator was stopped.",
+          "korean": "엘리베이터를 멈춘 뒤 사고가 났다"
         },
         {
-          "label": "Congress critics",
-          "english": "The appointment rewards a politician who won the seat as a Congress candidate.",
-          "korean": "이번 임명은 의회당 후보로 당선된 정치인에게 보상한다."
+          "label": "Family and villagers",
+          "english": "They petitioned the government to bring his body home.",
+          "korean": "가족과 주민들은 시신 귀환을 요청했다"
         }
       ],
       "disagree": {
-        "english": "Others may say the appointment fills a vacancy rather than proving wider political strength.",
-        "korean": "다른 사람들은 단순히 빈자리를 채웠다고 말할 수 있다."
+        "english": "The available accounts do not explain who was responsible for the site’s safety.",
+        "korean": "보도에는 현장 안전 책임자가 없다"
       },
-      "reader_question_korean": "당적 변경은 장관직으로 이어져야 할까요?",
+      "reader_question_korean": "해외 건설 노동자를 어떻게 보호해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 31",
+        "translation check: \"He suffered severe head injuries and died at the s\" may be missing injur"
       ],
-      "source_title": "BJP MLA Sankalp Amonkar inducted into Goa cabinet",
+      "source_title": "Dindigul youth killed in Israel construction site accident laid to rest in native village",
       "hook_format": "headline",
-      "body_format": "two_views",
+      "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "BJP supporters",
-            "english": "Amonkar’s appointment may strengthen the BJP in Mormugao before the 2027 election.",
-            "korean": "아몬카르의 임명은 선거 전 BJP를 강화할 수 있다."
-          },
-          {
-            "label": "Congress critics",
-            "english": "His move also highlights his switch from Congress to BJP after winning the seat for Congress.",
-            "korean": "그의 이동은 의회당에서 BJP로 바꾼 일을 보여 준다."
-          }
-        ]
-      },
-      "serious": false,
+      "format_data": {},
+      "serious": true,
       "caption_lines": [
-        "Amonkar won Mormugao in 2022.",
-        "Ravi Naik died on October 15, 2025."
+        "The accident happened on October 28, 2026.",
+        "His body reached Chennai on November 7, 2026."
       ],
-      "reader_question": "Should party switches lead to cabinet posts?",
-      "topic_tag": "Politics",
+      "reader_question": "How should overseas construction workers be protected?",
+      "topic_tag": "Workplace",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "BJP MLA Sankalp Amonkar inducted into Goa cabinet",
-          "date": "2026-11-07",
-          "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece"
+          "title": "Dindigul youth killed in Israel construction site accident laid to rest in native village",
+          "date": "2026-11-08",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/dindigul-youth-killed-in-israel-construction-site-accident-laid-to-rest-in-native-village/article71680678.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "산칼프",
-          "roman": "san-kal-peu",
-          "english": "Sankalp",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "아몬카르는",
-          "roman": "a-mon-ka-reu-neun",
-          "english": "Amonkar",
+          "korean": "베라마니는",
+          "roman": "Beramani-neun",
+          "english": "Veeramani",
           "particle": false,
           "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "2026",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
-          "korean": "11월",
-          "roman": "sip-il-wol",
-          "english": "November",
+          "korean": "10월",
+          "roman": "si-wol",
+          "english": "October",
           "particle": false,
           "suffix": "월"
         },
         {
-          "korean": "7일",
-          "roman": "chil-il",
-          "english": "7th",
+          "korean": "28일",
+          "roman": "isip-pal-il",
+          "english": "28th day",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "고아",
-          "roman": "go-a",
-          "english": "Goa",
+          "korean": "이스라엘",
+          "roman": "Iseurael",
+          "english": "Israel",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "내각에",
-          "roman": "nae-gak-e",
-          "english": "cabinet",
+          "korean": "현장에서",
+          "roman": "hyeonjang-eseo",
+          "english": "at the site",
           "particle": false,
-          "suffix": "에"
+          "suffix": "에서"
         },
         {
-          "korean": "들어갔다",
-          "roman": "deul-eo-gat-da",
-          "english": "entered",
+          "korean": "사망했다",
+          "roman": "samang-haetda",
+          "english": "died",
           "particle": false,
-          "suffix": "다"
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Sankalp Amonkar joined Goa’s cabinet on November 7, 2026.",
-          "korean": "산칼프 아몬카르는 2026년 11월 7일 고아 내각에 들어갔다.",
+          "english": "Veeramani, 31, died at an Israel construction site on October 28, 2026.",
+          "korean": "베라마니는 2026년 10월 28일 이스라엘 현장에서 사망했다",
           "glossary": [
             {
-              "korean": "산칼프",
-              "roman": "san-kal-peu",
-              "english": "Sankalp",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "아몬카르는",
-              "roman": "a-mon-ka-reu-neun",
-              "english": "Amonkar",
+              "korean": "베라마니는",
+              "roman": "Beramani-neun",
+              "english": "Veeramani",
               "particle": false,
               "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "7일",
-              "roman": "chil-il",
-              "english": "7th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "고아",
-              "roman": "go-a",
-              "english": "Goa",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "내각에",
-              "roman": "nae-gak-e",
-              "english": "cabinet",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "들어갔다",
-              "roman": "deul-eo-gat-da",
-              "english": "entered",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The post had been empty since minister Ravi Naik died in October 2025.",
-          "korean": "그 자리는 라비 나익 장관이 2025년 10월 사망한 뒤 비었다.",
-          "glossary": [
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "that",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "자리는",
-              "roman": "ja-ri-neun",
-              "english": "post",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "라비",
-              "roman": "ra-bi",
-              "english": "Ravi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "나익",
-              "roman": "na-ik",
-              "english": "Naik",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "장관이",
-              "roman": "jang-gwan-i",
-              "english": "minister",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "2025년",
-              "roman": "i-cheon-i-sip-o-nyeon",
-              "english": "2025",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "10월",
-              "roman": "sip-wol",
+              "roman": "si-wol",
               "english": "October",
               "particle": false,
               "suffix": "월"
             },
             {
-              "korean": "사망한",
-              "roman": "sa-mang-han",
-              "english": "died",
+              "korean": "28일",
+              "roman": "isip-pal-il",
+              "english": "28th day",
               "particle": false,
-              "suffix": "한"
+              "suffix": "일"
             },
             {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
+              "korean": "이스라엘",
+              "roman": "Iseurael",
+              "english": "Israel",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "비었다",
-              "roman": "bi-eot-da",
-              "english": "was empty",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Amonkar won Mormugao for Congress in 2022, then joined the BJP with seven other lawmakers.",
-          "korean": "아몬카르는 2022년 모르무가오에서 이긴 뒤 일곱 의원과 BJP로 갔다.",
-          "glossary": [
-            {
-              "korean": "아몬카르는",
-              "roman": "a-mon-ka-reu-neun",
-              "english": "Amonkar",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2022년",
-              "roman": "i-cheon-i-sip-i-nyeon",
-              "english": "2022",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "모르무가오에서",
-              "roman": "mo-reu-mu-ga-o-e-seo",
-              "english": "in Mormugao",
+              "korean": "현장에서",
+              "roman": "hyeonjang-eseo",
+              "english": "at the site",
               "particle": false,
               "suffix": "에서"
             },
             {
-              "korean": "이긴",
-              "roman": "i-gin",
-              "english": "won",
+              "korean": "사망했다",
+              "roman": "samang-haetda",
+              "english": "died",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일곱",
-              "roman": "il-gop",
-              "english": "seven",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의원과",
-              "roman": "ui-won-gwa",
-              "english": "lawmakers and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "BJP로",
-              "roman": "BJP-ro",
-              "english": "to BJP",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "갔다",
-              "roman": "gat-da",
-              "english": "went",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "BJP leaders expect the appointment to help before Goa’s 2027 election.",
-          "korean": "BJP 지도자들은 임명이 2027년 고아 선거에 도움이 되길 기대한다.",
-          "glossary": [
-            {
-              "korean": "BJP",
-              "roman": "BJP",
-              "english": "BJP",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "지도자들은",
-              "roman": "ji-do-ja-deul-eun",
-              "english": "leaders",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "임명이",
-              "roman": "im-myeong-i",
-              "english": "appointment",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "2027년",
-              "roman": "i-cheon-i-sip-chil-nyeon",
-              "english": "2027",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "고아",
-              "roman": "go-a",
-              "english": "Goa",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선거에",
-              "roman": "seon-geo-e",
-              "english": "election",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "도움이",
-              "roman": "do-um-i",
-              "english": "help",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "되길",
-              "roman": "doe-gil",
-              "english": "to help",
-              "particle": false,
-              "suffix": "길"
-            },
-            {
-              "korean": "기대한다",
-              "roman": "gi-dae-han-da",
-              "english": "expect",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/goa/bjp-mla-sankalp-amonkar-inducted-into-goa-cabinet/article71677484.ece",
-      "short_english": "Sankalp Amonkar joined Goa’s cabinet on November 7, 2026.",
-      "short_korean": "산칼프 아몬카르는 2026년 11월 7일 고아 내각에 들어갔다.",
-      "date": "2026-11-07",
-      "images": [
-        "images/indian/2c030756d1c1/1.jpg",
-        "images/indian/2c030756d1c1/2.jpg",
-        "images/indian/2c030756d1c1/3.jpg",
-        "images/indian/2c030756d1c1/4.jpg",
-        "images/indian/2c030756d1c1/5.jpg",
-        "images/indian/2c030756d1c1/6.jpg",
-        "images/indian/2c030756d1c1/7.jpg",
-        "images/indian/2c030756d1c1/8.jpg",
-        "images/indian/2c030756d1c1/9.jpg",
-        "images/indian/2c030756d1c1/10.jpg",
-        "images/indian/2c030756d1c1/11.jpg",
-        "images/indian/2c030756d1c1/12.jpg",
-        "images/indian/2c030756d1c1/13.jpg",
-        "images/indian/2c030756d1c1/14.jpg",
-        "images/indian/2c030756d1c1/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/2c030756d1c1/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "카르나타카 E20 연료 논쟁",
-      "english_title": "Karnataka says E20 became E31; oil firms disagree",
-      "korean_desc": "주 정부는 일부 표본이 에탄올 E20 한도를 넘었다고 말했다. 세 석유회사는 56개 표본의 에탄올이 평균 19.3%라고 말했다. 11월 7일 회사들은 문서와 표본과 공동 재검사를 요구했다.",
-      "english_desc": "The state said some samples exceeded the E20 limit for ethanol blending. The three oil companies said their 56 samples averaged 19.3% ethanol. On November 7, the companies requested documents, samples and joint retesting.",
-      "hook": "Karnataka reported ethanol levels as high as 31%.",
-      "sticker": "What is in the petrol?",
-      "korean_hook": "카르나타카가 에탄올 31%를 보고했다",
-      "takeaway_english": "Only transparent joint testing can show whether the reported levels were real.",
-      "takeaway_korean": "투명한 공동 검사만 실제 수치를 보여 줄 수 있다.",
-      "why_it_matters": [
-        {
-          "english": "Fuel composition can affect vehicle mileage and repair costs.",
-          "korean": "연료 성분은 차량 주행거리와 수리비에 영향을 줄 수 있다."
-        },
-        {
-          "english": "The dispute involves petrol sold across Karnataka.",
-          "korean": "논쟁은 카르나타카 전역에서 팔린 휘발유와 관련된다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Karnataka government",
-          "english": "It reported ethanol levels above the E20 limit in petrol samples.",
-          "korean": "카르나타카 정부는 휘발유 표본에서 E20보다 높은 수치를 보고했다."
-        },
-        {
-          "label": "Three oil companies",
-          "english": "They rejected the findings and requested joint testing.",
-          "korean": "세 석유회사는 결과를 거부하고 공동 검사를 요구했다."
-        },
-        {
-          "label": "Drivers",
-          "english": "They may worry about mileage, repairs and fuel quality.",
-          "korean": "운전자들은 주행거리와 수리비와 연료 품질을 걱정할 수 있다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Karnataka government",
-          "english": "State testing found ethanol as high as 31.2% and raised concerns about mileage loss.",
-          "korean": "주 정부 검사는 에탄올 31.2%와 주행거리 감소를 지적했다."
-        },
-        {
-          "label": "Oil companies",
-          "english": "Their 56 samples averaged 19.3% ethanol and met prescribed specifications.",
-          "korean": "회사들의 56개 표본은 평균 19.3%로 기준을 충족했다."
-        }
-      ],
-      "disagree": {
-        "english": "The dispute may reflect different sampling and testing methods rather than different fuel everywhere.",
-        "korean": "이 논쟁은 모든 연료가 아니라 검사 방법 차이일 수 있다."
-      },
-      "reader_question_korean": "소비자는 어떤 검사 방법을 믿어야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
-      "hook_format": "headline",
-      "body_format": "whats_missing",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "missing": [
-          {
-            "label": "",
-            "english": "The state has not supplied all sampling documents requested by the oil companies.",
-            "korean": "주는 석유회사들이 요구한 모든 표본 문서를 아직 주지 않았다."
-          },
-          {
-            "label": "",
-            "english": "The companies say the laboratory certificates lack key testing details.",
-            "korean": "회사들은 실험실 증명서에 핵심 검사 정보가 없다고 말한다."
-          },
-          {
-            "label": "",
-            "english": "Independent retesting has not yet settled the disagreement.",
-            "korean": "독립 재검사는 아직 의견 차이를 해결하지 못했다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "E20 means petrol blended with 20% ethanol.",
-        "The companies cited IS 17021."
-      ],
-      "reader_question": "Which testing method should consumers trust?",
-      "topic_tag": "Fuel",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "OMCs refute Karnataka’s E20 report, seeks additional details about procedure",
-          "date": "2026-11-07",
-          "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "주",
-          "roman": "ju",
-          "english": "state",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "정부는",
-          "roman": "jeong-bu-neun",
-          "english": "government",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "일부",
-          "roman": "il-bu",
-          "english": "some",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "표본이",
-          "roman": "pyo-bon-i",
-          "english": "samples",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "에탄올",
-          "roman": "e-tan-ol",
-          "english": "ethanol",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "E20",
-          "roman": "E-i-sip",
-          "english": "E20",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "한도를",
-          "roman": "han-do-reul",
-          "english": "limit",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "넘었다고",
-          "roman": "neom-eot-da-go",
-          "english": "exceeded",
-          "particle": false,
-          "suffix": "고"
-        },
-        {
-          "korean": "말했다",
-          "roman": "mal-haet-da",
-          "english": "said",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "why",
-          "english": "The state said some samples exceeded the E20 limit for ethanol blending.",
-          "korean": "주 정부는 일부 표본이 에탄올 E20 한도를 넘었다고 말했다.",
-          "glossary": [
-            {
-              "korean": "주",
-              "roman": "ju",
-              "english": "state",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정부는",
-              "roman": "jeong-bu-neun",
-              "english": "government",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "일부",
-              "roman": "il-bu",
-              "english": "some",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "표본이",
-              "roman": "pyo-bon-i",
-              "english": "samples",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "에탄올",
-              "roman": "e-tan-ol",
-              "english": "ethanol",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "E20",
-              "roman": "E-i-sip",
-              "english": "E20",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "한도를",
-              "roman": "han-do-reul",
-              "english": "limit",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "넘었다고",
-              "roman": "neom-eot-da-go",
-              "english": "exceeded",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "다"
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The three oil companies said their 56 samples averaged 19.3% ethanol.",
-          "korean": "세 석유회사는 56개 표본의 에탄올이 평균 19.3%라고 말했다.",
+          "english": "He was repairing equipment when a stopped elevator suddenly descended.",
+          "korean": "수리 중 멈춘 엘리베이터가 갑자기 내려갔다",
           "glossary": [
             {
-              "korean": "세",
-              "roman": "se",
-              "english": "three",
+              "korean": "수리",
+              "roman": "suri",
+              "english": "repair",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "석유회사는",
-              "roman": "seok-yu-hoe-sa-neun",
-              "english": "oil companies",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "56개",
-              "roman": "o-sip-yuk-gae",
-              "english": "56",
-              "particle": false,
-              "suffix": "개"
-            },
-            {
-              "korean": "표본의",
-              "roman": "pyo-bon-ui",
-              "english": "samples'",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "에탄올이",
-              "roman": "e-tan-ol-i",
-              "english": "ethanol",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "평균",
-              "roman": "pyeong-gyun",
-              "english": "average",
+              "korean": "중",
+              "roman": "jung",
+              "english": "during",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "19.3%라고",
-              "roman": "sip-gu-jeom-sam-peo-sen-teu-ra-go",
-              "english": "19.3%",
+              "korean": "멈춘",
+              "roman": "meomcun",
+              "english": "stopped",
               "particle": false,
-              "suffix": "라고"
+              "suffix": ""
             },
             {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
+              "korean": "엘리베이터가",
+              "roman": "ellibeiteo-ga",
+              "english": "elevator",
               "particle": false,
-              "suffix": "다"
+              "suffix": "가"
+            },
+            {
+              "korean": "갑자기",
+              "roman": "gapjagi",
+              "english": "suddenly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "내려갔다",
+              "roman": "naeryeogatda",
+              "english": "descended",
+              "particle": false,
+              "suffix": "갔다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "On November 7, the companies requested documents, samples and joint retesting.",
-          "korean": "11월 7일 회사들은 문서와 표본과 공동 재검사를 요구했다.",
+          "english": "His body reached Chennai on November 7 and was buried in Moongilpatti.",
+          "korean": "시신은 11월 7일 첸나이에 도착해 묻혔다",
           "glossary": [
             {
+              "korean": "시신은",
+              "roman": "sisin-eun",
+              "english": "the body",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
               "korean": "11월",
-              "roman": "sip-il-wol",
+              "roman": "si-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
@@ -775,77 +268,428 @@
             {
               "korean": "7일",
               "roman": "chil-il",
-              "english": "7th",
+              "english": "7th day",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "회사들은",
-              "roman": "hoe-sa-deul-eun",
-              "english": "companies",
+              "korean": "첸나이에",
+              "roman": "Cenna-i-e",
+              "english": "to Chennai",
               "particle": false,
-              "suffix": "은"
+              "suffix": "에"
             },
             {
-              "korean": "문서와",
-              "roman": "mun-seo-wa",
-              "english": "documents and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "표본과",
-              "roman": "pyo-bon-gwa",
-              "english": "samples and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "공동",
-              "roman": "gong-dong",
-              "english": "joint",
+              "korean": "도착해",
+              "roman": "docakhae",
+              "english": "arrived",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "재검사를",
-              "roman": "jae-geom-sa-reul",
-              "english": "retesting",
+              "korean": "묻혔다",
+              "roman": "mutyeotda",
+              "english": "was buried",
+              "particle": false,
+              "suffix": "혔다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/dindigul-youth-killed-in-israel-construction-site-accident-laid-to-rest-in-native-village/article71680678.ece",
+      "short_english": "Veeramani, 31, died at an Israel construction site on October 28, 2026.",
+      "short_korean": "베라마니는 2026년 10월 28일 이스라엘 현장에서 사망했다",
+      "date": "2026-11-08",
+      "images": [
+        "images/indian/365002900a3e/1.jpg",
+        "images/indian/365002900a3e/2.jpg",
+        "images/indian/365002900a3e/3.jpg",
+        "images/indian/365002900a3e/4.jpg",
+        "images/indian/365002900a3e/5.jpg",
+        "images/indian/365002900a3e/6.jpg",
+        "images/indian/365002900a3e/7.jpg",
+        "images/indian/365002900a3e/8.jpg",
+        "images/indian/365002900a3e/9.jpg",
+        "images/indian/365002900a3e/10.jpg",
+        "images/indian/365002900a3e/11.jpg",
+        "images/indian/365002900a3e/12.jpg",
+        "images/indian/365002900a3e/13.jpg",
+        "images/indian/365002900a3e/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/365002900a3e/caption.txt"
+    },
+    {
+      "category": "Business",
+      "korean_title": "아다니, 연간 4만 크로르 투자 계획",
+      "english_title": "Adani Plans Up to ₹40,000 Crore Every Year",
+      "korean_desc": "아다니 엔터프라이즈는 2026년 11월 8일 투자 계획을 밝혔다 핵심 사업은 공항, 데이터센터, PVC 단지다 회사는 상반기 EBITDA 1만1958크로르를 기록했다 회사는 확장, 실행, 수익을 맞춰야 한다",
+      "english_desc": "Adani Enterprises announced its annual investment plan on November 8, 2026. The biggest projects are airports, data centres and a PVC complex. The company reported first-half EBITDA of ₹11,958 crore, up 56 percent. The company still must balance expansion, execution and returns.",
+      "hook": "Adani plans ₹35,000–40,000 crore yearly spending.",
+      "sticker": "A very big investment",
+      "korean_hook": "아다니, 매년 4만 크로르 투자",
+      "takeaway_english": "Adani’s next test is turning a huge construction pipeline into dependable earnings.",
+      "takeaway_korean": "아다니의 다음 시험은 안정적 수익이다",
+      "why_it_matters": [
+        {
+          "english": "The plan also creates pressure to finish projects and earn returns.",
+          "korean": "완공과 수익 창출 압박도 커진다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Adani Enterprises",
+          "english": "It plans large investments in airports, data centres and PVC manufacturing.",
+          "korean": "공항, 데이터센터, PVC에 투자한다"
+        },
+        {
+          "label": "AdaniConneX",
+          "english": "Its contracted data-centre capacity has exceeded 1.2 gigawatts.",
+          "korean": "계약한 데이터센터 용량이 1.2기가와트를 넘었다"
+        },
+        {
+          "label": "Investors",
+          "english": "They must watch whether new assets produce returns.",
+          "korean": "새 자산의 수익을 지켜봐야 한다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Company management",
+          "english": "Management says the group is moving from building projects toward earning from them.",
+          "korean": "회사는 건설에서 수익 단계로 간다고 말한다"
+        },
+        {
+          "label": "Critical investor view",
+          "english": "A reasonable concern is whether expansion can deliver returns on schedule.",
+          "korean": "확장이 제때 수익을 낼지가 걱정이다"
+        }
+      ],
+      "disagree": {
+        "english": "Strong earnings support expansion, but spending plans do not guarantee profitable projects.",
+        "korean": "실적은 좋지만 투자가 수익을 보장하지는 않는다"
+      },
+      "reader_question_korean": "이런 대규모 인프라 투자를 지지하나요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 11, 56"
+      ],
+      "source_title": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+      "hook_format": "number",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "number": {
+          "value": "₹35,000–40,000 crore",
+          "label": "planned yearly spending",
+          "korean_label": "예정된 연간 투자"
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The plan covers the next couple of years.",
+        "No specific FY27 EBITDA forecast was given."
+      ],
+      "reader_question": "Would you support this much spending on infrastructure?",
+      "topic_tag": "Business",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Adani Enterprises plans ₹35,000-40,000 crore annual capex in next two years",
+          "date": "2026-11-08",
+          "url": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "아다니",
+          "roman": "Adani",
+          "english": "Adani",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "엔터프라이즈는",
+          "roman": "enteopeuraijeu-neun",
+          "english": "Enterprises",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "si-il-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "8일",
+          "roman": "pal-il",
+          "english": "8th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "투자",
+          "roman": "tuja",
+          "english": "investment",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "계획을",
+          "roman": "gyehoek-eul",
+          "english": "plan",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "밝혔다",
+          "roman": "balhyeotda",
+          "english": "announced",
+          "particle": false,
+          "suffix": "혔다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Adani Enterprises announced its annual investment plan on November 8, 2026.",
+          "korean": "아다니 엔터프라이즈는 2026년 11월 8일 투자 계획을 밝혔다",
+          "glossary": [
+            {
+              "korean": "아다니",
+              "roman": "Adani",
+              "english": "Adani",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "엔터프라이즈는",
+              "roman": "enteopeuraijeu-neun",
+              "english": "Enterprises",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "si-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "8일",
+              "roman": "pal-il",
+              "english": "8th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "투자",
+              "roman": "tuja",
+              "english": "investment",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계획을",
+              "roman": "gyehoek-eul",
+              "english": "plan",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "밝혔다",
+              "roman": "balhyeotda",
+              "english": "announced",
+              "particle": false,
+              "suffix": "혔다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The biggest projects are airports, data centres and a PVC complex.",
+          "korean": "핵심 사업은 공항, 데이터센터, PVC 단지다",
+          "glossary": [
+            {
+              "korean": "핵심",
+              "roman": "haeksim",
+              "english": "main",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사업은",
+              "roman": "saeop-eun",
+              "english": "businesses",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "공항",
+              "roman": "gonghang",
+              "english": "airports",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "데이터센터",
+              "roman": "deiteosenteo",
+              "english": "data centres",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "PVC",
+              "roman": "pi-bi-si",
+              "english": "PVC",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "단지다",
+              "roman": "danjida",
+              "english": "are complexes",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The company reported first-half EBITDA of ₹11,958 crore, up 56 percent.",
+          "korean": "회사는 상반기 EBITDA 1만1958크로르를 기록했다",
+          "glossary": [
+            {
+              "korean": "회사는",
+              "roman": "hoe-sa-neun",
+              "english": "company",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "상반기",
+              "roman": "sangban-gi",
+              "english": "first half",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "EBITDA",
+              "roman": "i-bi-i-ti-di-ei",
+              "english": "EBITDA",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1만1958크로르를",
+              "roman": "ilman-ilcheon-gubaeg-osippal-keuroreul",
+              "english": "₹11,958 crore",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "요구했다",
-              "roman": "yo-gu-haet-da",
-              "english": "requested",
+              "korean": "기록했다",
+              "roman": "girokhaetda",
+              "english": "recorded",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The company still must balance expansion, execution and returns.",
+          "korean": "회사는 확장, 실행, 수익을 맞춰야 한다",
+          "glossary": [
+            {
+              "korean": "회사는",
+              "roman": "hoe-sa-neun",
+              "english": "company",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "확장",
+              "roman": "hwakjang",
+              "english": "expansion",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "실행",
+              "roman": "silhaeng",
+              "english": "execution",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수익을",
+              "roman": "sui-g-eul",
+              "english": "returns",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "맞춰야",
+              "roman": "matchweoya",
+              "english": "must balance",
+              "particle": false,
+              "suffix": "야"
+            },
+            {
+              "korean": "한다",
+              "roman": "handa",
+              "english": "do",
               "particle": false,
               "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece",
-      "short_english": "The state said some samples exceeded the E20 limit for ethanol blending.",
-      "short_korean": "주 정부는 일부 표본이 에탄올 E20 한도를 넘었다고 말했다.",
-      "date": "2026-11-07",
+      "url": "https://www.thehindu.com/business/Industry/adani-enterprises-plans-35000-40000-crore-annual-capex-in-next-two-years/article71680605.ece",
+      "short_english": "Adani Enterprises announced its annual investment plan on November 8, 2026.",
+      "short_korean": "아다니 엔터프라이즈는 2026년 11월 8일 투자 계획을 밝혔다",
+      "date": "2026-11-08",
       "images": [
-        "images/indian/faaba106cfd3/1.jpg",
-        "images/indian/faaba106cfd3/2.jpg",
-        "images/indian/faaba106cfd3/3.jpg",
-        "images/indian/faaba106cfd3/4.jpg",
-        "images/indian/faaba106cfd3/5.jpg",
-        "images/indian/faaba106cfd3/6.jpg",
-        "images/indian/faaba106cfd3/7.jpg",
-        "images/indian/faaba106cfd3/8.jpg",
-        "images/indian/faaba106cfd3/9.jpg",
-        "images/indian/faaba106cfd3/10.jpg",
-        "images/indian/faaba106cfd3/11.jpg",
-        "images/indian/faaba106cfd3/12.jpg",
-        "images/indian/faaba106cfd3/13.jpg",
-        "images/indian/faaba106cfd3/14.jpg"
+        "images/indian/1bc294862d5c/1.jpg",
+        "images/indian/1bc294862d5c/2.jpg",
+        "images/indian/1bc294862d5c/3.jpg",
+        "images/indian/1bc294862d5c/4.jpg",
+        "images/indian/1bc294862d5c/5.jpg",
+        "images/indian/1bc294862d5c/6.jpg",
+        "images/indian/1bc294862d5c/7.jpg",
+        "images/indian/1bc294862d5c/8.jpg",
+        "images/indian/1bc294862d5c/9.jpg",
+        "images/indian/1bc294862d5c/10.jpg",
+        "images/indian/1bc294862d5c/11.jpg",
+        "images/indian/1bc294862d5c/12.jpg",
+        "images/indian/1bc294862d5c/13.jpg",
+        "images/indian/1bc294862d5c/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/faaba106cfd3/caption.txt"
+      "caption_file": "images/indian/1bc294862d5c/caption.txt"
     },
     {
       "category": "Culture",
@@ -1273,7 +1117,7 @@
       "url": "https://www.thehindu.com/opinion/columns/live-in-relationships-in-india-is-marriage-still-the-endgame/article71669024.ece",
       "short_english": "Live-in relationships are becoming more visible as Indian couples delay or rethink marriage.",
       "short_korean": "인도 커플들은 결혼을 미루거나 다시 생각하며 동거를 택한다.",
-      "date": "2026-11-07",
+      "date": "2026-11-08",
       "images": [
         "images/indian/8cf785c3ca06/1.jpg",
         "images/indian/8cf785c3ca06/2.jpg",
@@ -1296,130 +1140,121 @@
     },
     {
       "category": "Sports",
-      "korean_title": "카와자, 2018년 사건 재논쟁",
-      "english_title": "Khawaja says ball-tampering talk spread beyond three players",
-      "korean_desc": "우스만 카와자는 2026년 11월 7일 호주의 2018년 공 조작 논의가 넓었다고 말했다. 2018년 스캔들은 스티브 스미스와 데이비드 워너와 카메론 밴크로프트의 정지로 이어졌다. 그는 남아프리카공화국 시리즈에서 선수들이 사포로 공을 긁었다고 말했다. 크리켓 오스트레일리아는 11월 7일 조사가 여전히 유효하다고 말했다.",
-      "english_desc": "Usman Khawaja said on November 7, 2026, that Australia’s 2018 ball-tampering discussions were widespread. The 2018 scandal led to bans for Steve Smith, David Warner and Cameron Bancroft. He said team members discussed scuffing the ball with sandpaper during the South Africa series. Cricket Australia said on November 7 that its investigation still stands.",
-      "hook": "Three players were punished; Khawaja says more people knew.",
-      "sticker": "Cricket’s old secret?",
-      "korean_hook": "세 명이 처벌받았지만 더 알았다고 했다",
-      "takeaway_english": "The old scandal now has two competing accounts, but no new official finding.",
-      "takeaway_korean": "오래된 스캔들에 두 주장이 생겼지만 새 공식 결과는 없다.",
+      "korean_title": "맨시티 3연패, 아스널 6점 차 선두",
+      "english_title": "Manchester City Loses Again as Arsenal Pulls Six Points Clear",
+      "korean_desc": "맨체스터 시티는 2026년 11월 7일 3대1로 졌다 이 결과로 시티는 리그 3연패를 당했다 자이르 쿤하가 먼저 넣고 델랍이 두 골을 더했다 아스널은 헐을 1대0으로 이겨 6점 앞섰다",
+      "english_desc": "Manchester City lost 3-1 at Nottingham Forest on November 7, 2026. The result gave City its third straight league defeat. Jair Cunha scored first, and Liam Delap added two goals for Forest. Arsenal beat Hull 1-0 and moved six points ahead of City.",
+      "hook": "Manchester City lost three straight; Arsenal led by six points.",
+      "sticker": "A wild day in football ⚽",
+      "korean_hook": "맨시티 3연패, 아스널 6점 선두",
+      "takeaway_english": "The international break gives City time to repair its defense before the title race moves on.",
+      "takeaway_korean": "A매치 휴식은 맨시티 수비 회복 시간을 준다",
       "why_it_matters": [
         {
-          "english": "The dispute affects trust in Cricket Australia’s integrity process.",
-          "korean": "논쟁은 크리켓 오스트레일리아의 공정성 절차 신뢰에 영향을 준다."
+          "english": "Arsenal’s lead changes the early shape of the title race.",
+          "korean": "아스널의 선두가 우승 경쟁을 바꾼다"
         },
         {
-          "english": "The claims could change how fans understand the 2018 scandal.",
-          "korean": "주장은 팬들이 2018년 스캔들을 이해하는 방식을 바꿀 수 있다."
+          "english": "Forest’s win lifted it away from immediate relegation danger.",
+          "korean": "포리스트는 당장 강등 위험에서 벗어났다"
         }
       ],
       "parties": [
         {
-          "label": "Usman Khawaja",
-          "english": "He says ball-tampering discussions involved the wider team.",
-          "korean": "그는 공 조작 논의에 팀 전체가 관련됐다고 말한다."
+          "label": "Manchester City",
+          "english": "City lost 3-1 at Nottingham Forest after three consecutive defeats.",
+          "korean": "맨시티는 3연패 뒤 3대1로 졌다"
         },
         {
-          "label": "Cricket Australia",
-          "english": "It says its 2018 findings remain reliable.",
-          "korean": "크리켓 오스트레일리아는 2018년 결과가 믿을 만하다고 말한다."
+          "label": "Arsenal",
+          "english": "Arsenal beat Hull 1-0 and opened a six-point lead.",
+          "korean": "아스널은 1대0 승리로 6점 앞섰다"
         },
         {
-          "label": "Steve Smith, David Warner and Cameron Bancroft",
-          "english": "They received bans and penalties after the 2018 scandal.",
-          "korean": "세 선수는 2018년 스캔들 뒤 출전 정지와 처벌을 받았다."
+          "label": "Nottingham Forest",
+          "english": "Forest moved two points above the relegation zone.",
+          "korean": "노팅엄 포리스트는 강등권에서 2점 벗어났다"
         }
       ],
       "views": [
         {
-          "label": "Usman Khawaja",
-          "english": "He says open team discussions went beyond the three players named by the investigation.",
-          "korean": "그는 공개적인 팀 논의가 조사에서 지목한 세 명을 넘어섰다고 말한다."
+          "label": "Enzo Maresca",
+          "english": "City’s manager said the team concedes too many goals but should not panic.",
+          "korean": "마레스카는 실점이 많지만 당황하지 말자고 했다"
         },
         {
-          "label": "Cricket Australia",
-          "english": "The governing body says all relevant information was considered and its process remains sound.",
-          "korean": "협회는 관련 정보가 모두 검토됐고 조사 절차가 타당하다고 말한다."
+          "label": "Match evidence",
+          "english": "Defensive mistakes helped Forest score twice before City recovered briefly.",
+          "korean": "수비 실수가 포리스트의 두 골을 도왔다"
         }
       ],
       "disagree": {
-        "english": "Khawaja’s account is a new claim, while the governing body has not reopened its findings.",
-        "korean": "카와자의 말은 새 주장이고 협회는 조사를 다시 열지 않았다."
+        "english": "Three losses look serious, but the season remains long and City started with seven wins.",
+        "korean": "3연패는 심각하지만 시즌은 아직 길다"
       },
-      "reader_question_korean": "새 증언은 오래된 스포츠 조사를 다시 열어야 할까요?",
+      "reader_question_korean": "맨시티는 A매치 휴식 뒤 회복할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "translation check: \"Manchester City lost 3-1 at Nottingham Forest on N\" may be missing cities",
+        "translation check: \"The result gave City its third straight league def\" may be missing cities",
+        "translation check: \"Arsenal beat Hull 1-0 and moved six points ahead o\" may be missing cities"
       ],
-      "source_title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
-      "hook_format": "headline",
-      "body_format": "three_points",
+      "source_title": "Man City suffers third straight Premier League loss at Forest and Arsenal opens 6-point lead",
+      "hook_format": "number",
+      "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "points": [
-          {
-            "label": "",
-            "english": "Khawaja said discussions about scuffing the ball were widespread inside the team.",
-            "korean": "카와자는 공을 긁는 논의가 팀 안에 널리 퍼졌다고 말했다."
-          },
-          {
-            "label": "",
-            "english": "Cricket Australia said its investigation still stands.",
-            "korean": "크리켓 오스트레일리아는 조사 결과가 여전히 유효하다고 말했다."
-          },
-          {
-            "label": "",
-            "english": "Khawaja was cleared of wrongdoing and retired in January 2026.",
-            "korean": "카와자는 잘못이 없다고 인정받고 2026년 1월 은퇴했다."
-          }
-        ]
+        "number": {
+          "value": "3",
+          "label": "straight City defeats",
+          "korean_label": "맨시티 연속 패배"
+        }
       },
       "serious": false,
       "caption_lines": [
-        "The Cape Town Test took place in March 2018.",
-        "Australia lost the recent South Africa series 2–1."
+        "The matches were played on November 7, 2026.",
+        "Liam Delap scored twice for Nottingham Forest."
       ],
-      "reader_question": "Should new testimony reopen an old sports investigation?",
-      "topic_tag": "Cricket",
+      "reader_question": "Can Manchester City recover after the international break?",
+      "topic_tag": "Football",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Australian cricketer Usman Khawaja disputes findings in 2018 ball-tampering probe",
-          "date": "2026-11-07",
-          "url": "https://www.thehindu.com/sport/cricket/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe/article71677394.ece"
+          "title": "Man City suffers third straight Premier League loss at Forest and Arsenal opens 6-point lead",
+          "date": "2026-11-08",
+          "url": "https://www.thehindu.com/sport/football/man-city-suffers-third-straight-premier-league-loss-at-forest-and-arsenal-opens-6-point-lead/article71680621.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "우스만",
-          "roman": "u-seu-man",
-          "english": "Usman",
+          "korean": "맨체스터",
+          "roman": "Maenceoseuteo",
+          "english": "Manchester",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "카와자는",
-          "roman": "ka-wa-ja-neun",
-          "english": "Khawaja",
+          "korean": "시티는",
+          "roman": "siti-neun",
+          "english": "City",
           "particle": false,
           "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "2026",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sip-il-wol",
+          "roman": "si-il-wol",
           "english": "November",
           "particle": false,
           "suffix": "월"
@@ -1427,90 +1262,55 @@
         {
           "korean": "7일",
           "roman": "chil-il",
-          "english": "7th",
+          "english": "7th day",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "호주의",
-          "roman": "ho-ju-ui",
-          "english": "Australia's",
+          "korean": "3대1로",
+          "roman": "sam-dae-il-ro",
+          "english": "3-1",
           "particle": false,
-          "suffix": "의"
+          "suffix": "로"
         },
         {
-          "korean": "2018년",
-          "roman": "i-cheon-sip-pal-nyeon",
-          "english": "2018",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "공",
-          "roman": "gong",
-          "english": "ball",
+          "korean": "졌다",
+          "roman": "jyeotda",
+          "english": "lost",
           "particle": false,
           "suffix": ""
-        },
-        {
-          "korean": "조작",
-          "roman": "jo-jak",
-          "english": "tampering",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "논의가",
-          "roman": "non-ui-ga",
-          "english": "discussion",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "넓었다고",
-          "roman": "neol-beot-da-go",
-          "english": "was widespread",
-          "particle": false,
-          "suffix": "고"
-        },
-        {
-          "korean": "말했다",
-          "roman": "mal-haet-da",
-          "english": "said",
-          "particle": false,
-          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Usman Khawaja said on November 7, 2026, that Australia’s 2018 ball-tampering discussions were widespread.",
-          "korean": "우스만 카와자는 2026년 11월 7일 호주의 2018년 공 조작 논의가 넓었다고 말했다.",
+          "english": "Manchester City lost 3-1 at Nottingham Forest on November 7, 2026.",
+          "korean": "맨체스터 시티는 2026년 11월 7일 3대1로 졌다",
           "glossary": [
             {
-              "korean": "우스만",
-              "roman": "u-seu-man",
-              "english": "Usman",
+              "korean": "맨체스터",
+              "roman": "Maenceoseuteo",
+              "english": "Manchester",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "카와자는",
-              "roman": "ka-wa-ja-neun",
-              "english": "Khawaja",
+              "korean": "시티는",
+              "roman": "siti-neun",
+              "english": "City",
               "particle": false,
               "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "2026",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sip-il-wol",
+              "roman": "si-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
@@ -1518,1053 +1318,440 @@
             {
               "korean": "7일",
               "roman": "chil-il",
-              "english": "7th",
+              "english": "7th day",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "호주의",
-              "roman": "ho-ju-ui",
-              "english": "Australia's",
+              "korean": "3대1로",
+              "roman": "sam-dae-il-ro",
+              "english": "3-1",
               "particle": false,
-              "suffix": "의"
+              "suffix": "로"
             },
             {
-              "korean": "2018년",
-              "roman": "i-cheon-sip-pal-nyeon",
-              "english": "2018",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "공",
-              "roman": "gong",
-              "english": "ball",
+              "korean": "졌다",
+              "roman": "jyeotda",
+              "english": "lost",
               "particle": false,
               "suffix": ""
-            },
-            {
-              "korean": "조작",
-              "roman": "jo-jak",
-              "english": "tampering",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "논의가",
-              "roman": "non-ui-ga",
-              "english": "discussion",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "넓었다고",
-              "roman": "neol-beot-da-go",
-              "english": "was widespread",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The 2018 scandal led to bans for Steve Smith, David Warner and Cameron Bancroft.",
-          "korean": "2018년 스캔들은 스티브 스미스와 데이비드 워너와 카메론 밴크로프트의 정지로 이어졌다.",
+          "english": "The result gave City its third straight league defeat.",
+          "korean": "이 결과로 시티는 리그 3연패를 당했다",
           "glossary": [
             {
-              "korean": "2018년",
-              "roman": "i-cheon-sip-pal-nyeon",
-              "english": "2018",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "스캔들은",
-              "roman": "seu-kaen-deul-eun",
-              "english": "scandal",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "스티브",
-              "roman": "seu-ti-beu",
-              "english": "Steve",
+              "korean": "이",
+              "roman": "i",
+              "english": "this",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "스미스와",
-              "roman": "seu-mi-seu-wa",
-              "english": "Smith and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "데이비드",
-              "roman": "de-i-bi-deu",
-              "english": "David",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "워너와",
-              "roman": "wo-neo-wa",
-              "english": "Warner and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "카메론",
-              "roman": "ka-me-ron",
-              "english": "Cameron",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "밴크로프트의",
-              "roman": "baen-keu-ro-peu-teu-ui",
-              "english": "Bancroft's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "정지로",
-              "roman": "jeong-ji-ro",
-              "english": "to bans",
+              "korean": "결과로",
+              "roman": "gyeolgwa-ro",
+              "english": "as a result",
               "particle": false,
               "suffix": "로"
             },
             {
-              "korean": "이어졌다",
-              "roman": "i-eo-jyeot-da",
-              "english": "led",
+              "korean": "시티는",
+              "roman": "siti-neun",
+              "english": "City",
               "particle": false,
-              "suffix": "다"
+              "suffix": "는"
+            },
+            {
+              "korean": "리그",
+              "roman": "rigeu",
+              "english": "league",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "3연패를",
+              "roman": "sam-yeonpae-reul",
+              "english": "three straight defeats",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "당했다",
+              "roman": "danghaetda",
+              "english": "suffered",
+              "particle": false,
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "He said team members discussed scuffing the ball with sandpaper during the South Africa series.",
-          "korean": "그는 남아프리카공화국 시리즈에서 선수들이 사포로 공을 긁었다고 말했다.",
+          "english": "Jair Cunha scored first, and Liam Delap added two goals for Forest.",
+          "korean": "자이르 쿤하가 먼저 넣고 델랍이 두 골을 더했다",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "남아프리카공화국",
-              "roman": "nam-a-peu-ri-ka-gong-hwa-guk",
-              "english": "South Africa",
+              "korean": "자이르",
+              "roman": "Jaireu",
+              "english": "Jair",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "시리즈에서",
-              "roman": "si-ri-jeu-e-seo",
-              "english": "during series",
+              "korean": "쿤하가",
+              "roman": "Kunha-ga",
+              "english": "Cunha",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "가"
             },
             {
-              "korean": "선수들이",
-              "roman": "seon-su-deul-i",
-              "english": "players",
+              "korean": "먼저",
+              "roman": "meonjeo",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "넣고",
+              "roman": "neotgo",
+              "english": "scored",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "델랍이",
+              "roman": "Dellap-i",
+              "english": "Delap",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "사포로",
-              "roman": "sa-po-ro",
-              "english": "with sandpaper",
+              "korean": "두",
+              "roman": "du",
+              "english": "two",
               "particle": false,
-              "suffix": "로"
+              "suffix": ""
             },
             {
-              "korean": "공을",
-              "roman": "gong-eul",
-              "english": "ball",
+              "korean": "골을",
+              "roman": "gol-eul",
+              "english": "goals",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "긁었다고",
-              "roman": "geul-eot-da-go",
-              "english": "scuffed",
+              "korean": "더했다",
+              "roman": "deohaetda",
+              "english": "added",
               "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "다"
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Cricket Australia said on November 7 that its investigation still stands.",
-          "korean": "크리켓 오스트레일리아는 11월 7일 조사가 여전히 유효하다고 말했다.",
+          "english": "Arsenal beat Hull 1-0 and moved six points ahead of City.",
+          "korean": "아스널은 헐을 1대0으로 이겨 6점 앞섰다",
           "glossary": [
             {
-              "korean": "크리켓",
-              "roman": "keu-ri-ket",
-              "english": "cricket",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오스트레일리아는",
-              "roman": "o-seu-teu-re-il-li-a-neun",
-              "english": "Australia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "7일",
-              "roman": "chil-il",
-              "english": "7th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "조사가",
-              "roman": "jo-sa-ga",
-              "english": "investigation",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "여전히",
-              "roman": "yeo-jeon-hi",
-              "english": "still",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "유효하다고",
-              "roman": "yu-hyo-ha-da-go",
-              "english": "valid",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/cricket/australian-cricketer-usman-khawaja-disputes-findings-in-2018-ball-tampering-probe/article71677394.ece",
-      "short_english": "Usman Khawaja said on November 7, 2026, that Australia’s 2018 ball-tampering discussions were widespread.",
-      "short_korean": "우스만 카와자는 2026년 11월 7일 호주의 2018년 공 조작 논의가 넓었다고 말했다.",
-      "date": "2026-11-07",
-      "images": [
-        "images/indian/f167b29b4e87/1.jpg",
-        "images/indian/f167b29b4e87/2.jpg",
-        "images/indian/f167b29b4e87/3.jpg",
-        "images/indian/f167b29b4e87/4.jpg",
-        "images/indian/f167b29b4e87/5.jpg",
-        "images/indian/f167b29b4e87/6.jpg",
-        "images/indian/f167b29b4e87/7.jpg",
-        "images/indian/f167b29b4e87/8.jpg",
-        "images/indian/f167b29b4e87/9.jpg",
-        "images/indian/f167b29b4e87/10.jpg",
-        "images/indian/f167b29b4e87/11.jpg",
-        "images/indian/f167b29b4e87/12.jpg",
-        "images/indian/f167b29b4e87/13.jpg",
-        "images/indian/f167b29b4e87/14.jpg",
-        "images/indian/f167b29b4e87/15.jpg",
-        "images/indian/f167b29b4e87/16.jpg",
-        "images/indian/f167b29b4e87/17.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/f167b29b4e87/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "영화 디스코, 화려하지만 빈약해",
-      "english_title": "Disco looks dazzling, but its mafia story feels empty",
-      "korean_desc": "울라스 첸반의 말라얄람 영화 디스코는 해안 마을 갱단을 따른다. 의상과 색과 위에서 찍은 장면이 라틴아메리카 분위기를 만든다. 비선형 구조는 갱 전쟁과 사랑과 슬로모션과 힙합 영상을 섞는다. 평론가들은 관객이 볼거리와 약한 이야기로 갈릴 것이라 본다.",
-      "english_desc": "Ullas Chemban’s Malayalam film Disco follows colourful mafia gangs in a coastal town. Its costumes, colours and overhead shots create a vivid world with a Latin American flavour. The non-linear structure mixes gang wars, romance, slow motion and hip-hop videos. Reviewers expect viewers to divide over its spectacle and thin storytelling.",
-      "hook": "Disco brings bright style to a familiar gangster story.",
-      "sticker": "Style meets gangster chaos",
-      "korean_hook": "디스코는 익숙한 갱 이야기를 화려하게 꾸몄다",
-      "takeaway_english": "Disco may please viewers seeking colour and noise, but its script remains the loudest problem.",
-      "takeaway_korean": "디스코는 색과 소리를 주지만 가장 큰 문제는 각본이다.",
-      "why_it_matters": [
-        {
-          "english": "The film shows how technical polish cannot replace strong writing.",
-          "korean": "영화는 기술적 완성도가 좋은 각본을 대신할 수 없음을 보여 준다."
-        },
-        {
-          "english": "Its 158-minute length makes weak storytelling harder to ignore.",
-          "korean": "158분의 길이는 약한 이야기를 더 숨기기 어렵게 한다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Ullas Chemban",
-          "english": "He directed Disco as his second film.",
-          "korean": "그는 두 번째 영화로 디스코를 연출했다."
-        },
-        {
-          "label": "Chemban Vinod Jose",
-          "english": "He wrote the film and acts as a gang leader.",
-          "korean": "그는 영화를 쓰고 갱단 두목으로 출연한다."
-        },
-        {
-          "label": "Viewers",
-          "english": "They get colourful costumes, music videos and long gang battles.",
-          "korean": "관객은 화려한 의상과 뮤직비디오와 긴 갱 전투를 본다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Supportive view",
-          "english": "The film’s colour, costumes, music and staged fights give it a strong visual identity.",
-          "korean": "색과 의상과 음악과 전투가 영화에 강한 시각적 개성을 준다."
-        },
-        {
-          "label": "Critical view",
-          "english": "The non-linear story, violence and predictable ending overwhelm the film’s technical strengths.",
-          "korean": "비선형 이야기와 폭력과 뻔한 결말이 기술적 장점을 누른다."
-        }
-      ],
-      "disagree": {
-        "english": "Viewers who value style and spectacle may enjoy the same choices critics find excessive.",
-        "korean": "스타일과 볼거리를 중시하는 관객은 비판받은 요소를 즐길 수 있다."
-      },
-      "reader_question_korean": "스타일이 익숙한 이야기를 살릴 수 있을까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "‘Disco’ movie review: Stylish treatment fails to paper over the lack of substance in this generic mafia story",
-      "hook_format": "vocab",
-      "body_format": "who_speaks",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "people": [
-          {
-            "label": "The Hindu reviewer",
-            "english": "The film’s stylish visuals cannot rescue its generic writing.",
-            "korean": "영화의 화려한 영상이 평범한 각본을 구하지 못한다."
-          },
-          {
-            "label": "Indian Express reviewer",
-            "english": "The action, gore and weak script make the film tiring to watch.",
-            "korean": "액션과 잔혹함과 약한 각본이 영화를 지치게 만든다."
-          },
-          {
-            "label": "Cinema Express reviewer",
-            "english": "The film is a hollow action movie overwhelmed by violence.",
-            "korean": "영화는 폭력에 눌린 텅 빈 액션 영화다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Disco is directed by Ullas Chemban.",
-        "The film runs for 158 minutes."
-      ],
-      "reader_question": "Can style carry a familiar story?",
-      "topic_tag": "Cinema",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "‘Disco’ movie review: Stylish treatment fails to paper over the lack of substance in this generic mafia story",
-          "date": "2026-11-06",
-          "url": "https://www.thehindu.com/entertainment/movies/disco-movie-review-stylish-treatment-fails-to-paper-over-the-lack-of-substance-in-this-generic-mafia-story/article71674961.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "울라스",
-          "roman": "ul-la-seu",
-          "english": "Ullas",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "첸반의",
-          "roman": "chen-ban-ui",
-          "english": "Chemban's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "말라얄람",
-          "roman": "mal-la-yal-lam",
-          "english": "Malayalam",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "영화",
-          "roman": "yeong-hwa",
-          "english": "film",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "디스코는",
-          "roman": "di-seu-ko-neun",
-          "english": "Disco",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "해안",
-          "roman": "hae-an",
-          "english": "coastal",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "마을",
-          "roman": "ma-eul",
-          "english": "town",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "갱단을",
-          "roman": "gaeng-dan-eul",
-          "english": "gangs",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "따른다",
-          "roman": "tta-reun-da",
-          "english": "follows",
-          "particle": false,
-          "suffix": "다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Ullas Chemban’s Malayalam film Disco follows colourful mafia gangs in a coastal town.",
-          "korean": "울라스 첸반의 말라얄람 영화 디스코는 해안 마을 갱단을 따른다.",
-          "glossary": [
-            {
-              "korean": "울라스",
-              "roman": "ul-la-seu",
-              "english": "Ullas",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "첸반의",
-              "roman": "chen-ban-ui",
-              "english": "Chemban's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "말라얄람",
-              "roman": "mal-la-yal-lam",
-              "english": "Malayalam",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "영화",
-              "roman": "yeong-hwa",
-              "english": "film",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "디스코는",
-              "roman": "di-seu-ko-neun",
-              "english": "Disco",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "해안",
-              "roman": "hae-an",
-              "english": "coastal",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "마을",
-              "roman": "ma-eul",
-              "english": "town",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "갱단을",
-              "roman": "gaeng-dan-eul",
-              "english": "gangs",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "따른다",
-              "roman": "tta-reun-da",
-              "english": "follows",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Its costumes, colours and overhead shots create a vivid world with a Latin American flavour.",
-          "korean": "의상과 색과 위에서 찍은 장면이 라틴아메리카 분위기를 만든다.",
-          "glossary": [
-            {
-              "korean": "의상과",
-              "roman": "ui-sang-gwa",
-              "english": "costumes and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "색과",
-              "roman": "saek-gwa",
-              "english": "colours and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "위에서",
-              "roman": "wi-e-seo",
-              "english": "from above",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "찍은",
-              "roman": "jjig-eun",
-              "english": "filmed",
+              "korean": "아스널은",
+              "roman": "Aseuneol-eun",
+              "english": "Arsenal",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "장면이",
-              "roman": "jang-myeon-i",
-              "english": "scenes",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "라틴아메리카",
-              "roman": "ra-tin-a-me-ri-ka",
-              "english": "Latin American",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "분위기를",
-              "roman": "bun-wi-gi-reul",
-              "english": "atmosphere",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "만든다",
-              "roman": "man-deun-da",
-              "english": "create",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The non-linear structure mixes gang wars, romance, slow motion and hip-hop videos.",
-          "korean": "비선형 구조는 갱 전쟁과 사랑과 슬로모션과 힙합 영상을 섞는다.",
-          "glossary": [
-            {
-              "korean": "비선형",
-              "roman": "bi-seon-hyeong",
-              "english": "non-linear",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "구조는",
-              "roman": "gu-jo-neun",
-              "english": "structure",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "갱",
-              "roman": "gaeng",
-              "english": "gang",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전쟁과",
-              "roman": "jeon-jaeng-gwa",
-              "english": "wars and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "사랑과",
-              "roman": "sa-rang-gwa",
-              "english": "romance and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "슬로모션과",
-              "roman": "seul-lo-mo-syeon-gwa",
-              "english": "slow motion and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "힙합",
-              "roman": "hip-hap",
-              "english": "hip-hop",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "영상을",
-              "roman": "yeong-sang-eul",
-              "english": "videos",
+              "korean": "헐을",
+              "roman": "Heol-eul",
+              "english": "Hull",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "섞는다",
-              "roman": "seok-neun-da",
-              "english": "mixes",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Reviewers expect viewers to divide over its spectacle and thin storytelling.",
-          "korean": "평론가들은 관객이 볼거리와 약한 이야기로 갈릴 것이라 본다.",
-          "glossary": [
-            {
-              "korean": "평론가들은",
-              "roman": "pyeong-ron-ga-deul-eun",
-              "english": "reviewers",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "관객이",
-              "roman": "gwan-gaek-i",
-              "english": "viewers",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "볼거리와",
-              "roman": "bol-geo-ri-wa",
-              "english": "spectacle and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "약한",
-              "roman": "yak-han",
-              "english": "weak",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "이야기로",
-              "roman": "i-ya-gi-ro",
-              "english": "storytelling",
+              "korean": "1대0으로",
+              "roman": "il-dae-zero-ro",
+              "english": "1-0",
               "particle": false,
               "suffix": "로"
             },
             {
-              "korean": "갈릴",
-              "roman": "gal-lil",
-              "english": "divide",
+              "korean": "이겨",
+              "roman": "igyeo",
+              "english": "beat",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "것이라",
-              "roman": "geot-i-ra",
-              "english": "that will",
+              "korean": "6점",
+              "roman": "yug-jeom",
+              "english": "six points",
               "particle": false,
-              "suffix": "이라"
+              "suffix": ""
             },
             {
-              "korean": "본다",
-              "roman": "bon-da",
-              "english": "think",
+              "korean": "앞섰다",
+              "roman": "apseotda",
+              "english": "moved ahead",
               "particle": false,
-              "suffix": "다"
+              "suffix": "섰다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/entertainment/movies/disco-movie-review-stylish-treatment-fails-to-paper-over-the-lack-of-substance-in-this-generic-mafia-story/article71674961.ece",
-      "short_english": "Ullas Chemban’s Malayalam film Disco follows colourful mafia gangs in a coastal town.",
-      "short_korean": "울라스 첸반의 말라얄람 영화 디스코는 해안 마을 갱단을 따른다.",
-      "date": "2026-11-07",
+      "url": "https://www.thehindu.com/sport/football/man-city-suffers-third-straight-premier-league-loss-at-forest-and-arsenal-opens-6-point-lead/article71680621.ece",
+      "short_english": "Manchester City lost 3-1 at Nottingham Forest on November 7, 2026.",
+      "short_korean": "맨체스터 시티는 2026년 11월 7일 3대1로 졌다",
+      "date": "2026-11-08",
       "images": [
-        "images/indian/2c440a8dcbb8/1.jpg",
-        "images/indian/2c440a8dcbb8/2.jpg",
-        "images/indian/2c440a8dcbb8/3.jpg",
-        "images/indian/2c440a8dcbb8/4.jpg",
-        "images/indian/2c440a8dcbb8/5.jpg",
-        "images/indian/2c440a8dcbb8/6.jpg",
-        "images/indian/2c440a8dcbb8/7.jpg",
-        "images/indian/2c440a8dcbb8/8.jpg",
-        "images/indian/2c440a8dcbb8/9.jpg",
-        "images/indian/2c440a8dcbb8/10.jpg",
-        "images/indian/2c440a8dcbb8/11.jpg",
-        "images/indian/2c440a8dcbb8/12.jpg",
-        "images/indian/2c440a8dcbb8/13.jpg",
-        "images/indian/2c440a8dcbb8/14.jpg",
-        "images/indian/2c440a8dcbb8/15.jpg"
+        "images/indian/2a334c2c0daa/1.jpg",
+        "images/indian/2a334c2c0daa/2.jpg",
+        "images/indian/2a334c2c0daa/3.jpg",
+        "images/indian/2a334c2c0daa/4.jpg",
+        "images/indian/2a334c2c0daa/5.jpg",
+        "images/indian/2a334c2c0daa/6.jpg",
+        "images/indian/2a334c2c0daa/7.jpg",
+        "images/indian/2a334c2c0daa/8.jpg",
+        "images/indian/2a334c2c0daa/9.jpg",
+        "images/indian/2a334c2c0daa/10.jpg",
+        "images/indian/2a334c2c0daa/11.jpg",
+        "images/indian/2a334c2c0daa/12.jpg",
+        "images/indian/2a334c2c0daa/13.jpg",
+        "images/indian/2a334c2c0daa/14.jpg",
+        "images/indian/2a334c2c0daa/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/2c440a8dcbb8/caption.txt"
+      "caption_file": "images/indian/2a334c2c0daa/caption.txt"
     },
     {
-      "category": "World",
-      "korean_title": "미중 무역, APEC 전 긴장",
-      "english_title": "U.S. and China trade concerns surface before APEC",
-      "korean_desc": "미국과 중국 당국자들은 2026년 11월 6일 솔직한 무역 회담을 했다. 미국은 중국이 2025년 10월 부산 합의를 이행하길 원한다. 중국은 미국산 콩을 사고 새 희토류 수출 통제를 멈추기로 했다. 다음 큰 회의는 2026년 11월 18일부터 19일까지 선전에서 열린다. 도널드 트럼프와 시진핑은 그곳에서 만날 수 있고 휴전은 2027년 1월 10일까지 간다.",
-      "english_desc": "U.S. and Chinese officials held frank trade talks on November 6, 2026. Washington wants Beijing to implement commitments from the October 2025 Busan agreement. China agreed to buy U.S. soybeans and suspend new rare-earth export controls. The next major meeting is APEC in Shenzhen on November 18–19, 2026. Donald Trump and Xi Jinping may meet there while the truce runs until January 10, 2027.",
-      "hook": "U.S. and Chinese officials raised trade concerns before APEC.",
-      "sticker": "Trade truce under pressure",
-      "korean_hook": "미중 당국자들이 APEC 전 무역 우려를 냈다",
-      "takeaway_english": "The truce continues, but its future depends on actions before January 10, 2027.",
-      "takeaway_korean": "휴전은 계속되지만 미래는 2027년 1월 10일 전 행동에 달렸다.",
+      "category": "Entertainment",
+      "korean_title": "넷플릭스, 스트레인저 신작 발표",
+      "english_title": "Netflix Takes Stranger Things Back to the 1950s",
+      "korean_desc": "넷플릭스는 2026년 11월 6일 신작을 발표했다 실사 프리퀄은 원작보다 수십 년 전인 1950년대다 더퍼 형제가 작가 케이트 트레프리와 개발한다 넷플릭스는 2028년 시리즈를 공개할 예정이다",
+      "english_desc": "Netflix announced Other Worlds: A Stranger Things Adventure on November 6, 2026. The live-action prequel is set in the 1950s, decades before the original series. The Duffers are developing it with writer Kate Trefry. Netflix plans to premiere the series in 2028.",
+      "hook": "Netflix announced a live-action Stranger Things spin-off.",
+      "sticker": "Back to Hawkins’ past 🎬",
+      "korean_hook": "넷플릭스가 실사 스핀오프를 발표했다",
+      "takeaway_english": "The new series must feel different without losing the horror and mystery fans expect.",
+      "takeaway_korean": "새 시리즈는 새롭고도 무서워야 한다",
       "why_it_matters": [
         {
-          "english": "Rare earths are important for phones, cars and military equipment.",
-          "korean": "희토류는 휴대전화와 자동차와 군사 장비에 중요하다."
+          "english": "The project extends one of Netflix’s most successful television worlds.",
+          "korean": "넷플릭스의 인기 세계가 더 넓어진다"
         },
         {
-          "english": "Trade tensions can affect products and supply chains beyond both countries.",
-          "korean": "무역 긴장은 양국 밖의 제품과 공급망에도 영향을 줄 수 있다."
+          "english": "Its 1950s setting can show a different side of Hawkins.",
+          "korean": "1950년대 배경은 호킨스를 다르게 보여준다"
         }
       ],
       "parties": [
         {
-          "label": "United States",
-          "english": "It is watching China’s commitments on trade and rare-earth exports.",
-          "korean": "미국은 중국의 무역과 희토류 수출 약속을 지켜보고 있다."
+          "label": "Netflix",
+          "english": "It announced the live-action spin-off for 2028.",
+          "korean": "넷플릭스는 2028년 실사 스핀오프를 발표했다"
         },
         {
-          "label": "China",
-          "english": "It objects to recent U.S. restrictions and sanctions.",
-          "korean": "중국은 최근 미국의 제한과 제재에 반대한다."
+          "label": "Duffer Brothers",
+          "english": "They are developing the new series.",
+          "korean": "더퍼 형제가 새 시리즈를 개발한다"
         },
         {
-          "label": "APEC",
-          "english": "The November summit may provide a setting for leaders to manage differences.",
-          "korean": "11월 정상회의는 지도자들이 차이를 관리할 자리가 될 수 있다."
+          "label": "Kate Trefry",
+          "english": "She is showrunner, co-creator and writer.",
+          "korean": "케이트 트레프리가 제작자와 작가를 맡는다"
         }
       ],
       "views": [
         {
-          "label": "Washington",
-          "english": "The United States says progress depends on China delivering concrete results.",
-          "korean": "미국은 진전이 중국의 실제 결과에 달렸다고 말한다."
+          "label": "Netflix and creators",
+          "english": "They describe it as fresh, with new characters, villains and a setting.",
+          "korean": "새 인물과 악당, 배경을 가진 신작이라고 말한다"
         },
         {
-          "label": "Beijing",
-          "english": "China says U.S. restrictive measures threaten the understanding reached by both sides.",
-          "korean": "중국은 미국의 제한 조치가 양국 합의를 위협한다고 말한다."
+          "label": "Franchise watchers",
+          "english": "The series may attract fans, but its story details remain limited.",
+          "korean": "팬을 끌 수 있지만 자세한 내용은 적다"
         }
       ],
       "disagree": {
-        "english": "Each side describes the other’s actions as the main problem, so the disagreement has no shared explanation.",
-        "korean": "양쪽은 상대 행동을 문제로 보며 공통된 설명이 없다."
+        "english": "A new era may refresh the franchise, while some viewers may prefer the original Hawkins characters.",
+        "korean": "새 시대는 신선하지만 원래 인물을 원하는 팬도 있다"
       },
-      "reader_question_korean": "어느 쪽이 다음 무역 양보를 해야 할까요?",
+      "reader_question_korean": "원래 주인공 없는 이야기를 보겠어요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Top U.S., China officials raise trade 'concerns' as APEC approaches",
-      "hook_format": "headline",
-      "body_format": "two_views",
+      "source_title": "‘Other Worlds’: Netflix announces live-action spin-off to ‘Stranger Things’",
+      "hook_format": "vocab",
+      "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "United States",
-            "english": "Washington wants China to carry out its Busan commitments immediately and show concrete results.",
-            "korean": "미국은 중국이 부산 약속을 즉시 이행하고 실제 결과를 보이길 원한다."
-          },
-          {
-            "label": "China",
-            "english": "Beijing says recent U.S. trade restrictions are a serious concern.",
-            "korean": "중국은 최근 미국의 무역 제한이 심각한 우려라고 말한다."
-          }
-        ]
-      },
+      "format_data": {},
       "serious": false,
       "caption_lines": [
-        "APEC will meet in Shenzhen on November 18–19, 2026.",
-        "The truce was extended until January 10, 2027."
+        "The series is scheduled to premiere in 2028.",
+        "Production will take place in New Mexico."
       ],
-      "reader_question": "Which side should make the next trade concession?",
-      "topic_tag": "Trade",
+      "reader_question": "Would you watch a Stranger Things story without its original heroes?",
+      "topic_tag": "Television",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Top U.S., China officials raise trade 'concerns' as APEC approaches",
+          "title": "‘Other Worlds’: Netflix announces live-action spin-off to ‘Stranger Things’",
           "date": "2026-11-07",
-          "url": "https://www.thehindu.com/news/international/top-us-china-officials-raise-trade-concerns-as-apec-approaches/article71677476.ece"
+          "url": "https://www.thehindu.com/entertainment/movies/other-worlds-stranger-things-a-stranger-things-adventure-netflix-live-action-spin-off-duffer-brothers/article71678507.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "미국과",
-          "roman": "mi-guk-gwa",
-          "english": "U.S. and",
+          "korean": "넷플릭스는",
+          "roman": "netpeulligseu-neun",
+          "english": "Netflix",
           "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "중국",
-          "roman": "jung-guk",
-          "english": "China",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "당국자들은",
-          "roman": "dang-guk-ja-deul-eun",
-          "english": "officials",
-          "particle": false,
-          "suffix": "은"
+          "suffix": "는"
         },
         {
           "korean": "2026년",
-          "roman": "i-cheon-i-sip-yuk-nyeon",
-          "english": "2026",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sip-il-wol",
+          "roman": "si-il-wol",
           "english": "November",
           "particle": false,
           "suffix": "월"
         },
         {
           "korean": "6일",
-          "roman": "yuk-il",
-          "english": "6th",
+          "roman": "yug-il",
+          "english": "6th day",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "솔직한",
-          "roman": "sol-jik-han",
-          "english": "frank",
-          "particle": false,
-          "suffix": "한"
-        },
-        {
-          "korean": "무역",
-          "roman": "mu-yeok",
-          "english": "trade",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "회담을",
-          "roman": "hoe-dam-eul",
-          "english": "talks",
+          "korean": "신작을",
+          "roman": "sinjag-eul",
+          "english": "new series",
           "particle": false,
           "suffix": "을"
         },
         {
-          "korean": "했다",
-          "roman": "haet-da",
-          "english": "held",
+          "korean": "발표했다",
+          "roman": "balpyohaetda",
+          "english": "announced",
           "particle": false,
-          "suffix": "다"
+          "suffix": "했다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "U.S. and Chinese officials held frank trade talks on November 6, 2026.",
-          "korean": "미국과 중국 당국자들은 2026년 11월 6일 솔직한 무역 회담을 했다.",
+          "english": "Netflix announced Other Worlds: A Stranger Things Adventure on November 6, 2026.",
+          "korean": "넷플릭스는 2026년 11월 6일 신작을 발표했다",
           "glossary": [
             {
-              "korean": "미국과",
-              "roman": "mi-guk-gwa",
-              "english": "U.S. and",
+              "korean": "넷플릭스는",
+              "roman": "netpeulligseu-neun",
+              "english": "Netflix",
               "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "중국",
-              "roman": "jung-guk",
-              "english": "China",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "당국자들은",
-              "roman": "dang-guk-ja-deul-eun",
-              "english": "officials",
-              "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
               "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "2026",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sip-il-wol",
+              "roman": "si-il-wol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
               "korean": "6일",
-              "roman": "yuk-il",
-              "english": "6th",
+              "roman": "yug-il",
+              "english": "6th day",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "솔직한",
-              "roman": "sol-jik-han",
-              "english": "frank",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "무역",
-              "roman": "mu-yeok",
-              "english": "trade",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "회담을",
-              "roman": "hoe-dam-eul",
-              "english": "talks",
+              "korean": "신작을",
+              "roman": "sinjag-eul",
+              "english": "new series",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "했다",
-              "roman": "haet-da",
-              "english": "held",
+              "korean": "발표했다",
+              "roman": "balpyohaetda",
+              "english": "announced",
               "particle": false,
-              "suffix": "다"
+              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "Washington wants Beijing to implement commitments from the October 2025 Busan agreement.",
-          "korean": "미국은 중국이 2025년 10월 부산 합의를 이행하길 원한다.",
+          "english": "The live-action prequel is set in the 1950s, decades before the original series.",
+          "korean": "실사 프리퀄은 원작보다 수십 년 전인 1950년대다",
           "glossary": [
             {
-              "korean": "미국은",
-              "roman": "mi-guk-eun",
-              "english": "Washington",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "중국이",
-              "roman": "jung-guk-i",
-              "english": "China",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "2025년",
-              "roman": "i-cheon-i-sip-o-nyeon",
-              "english": "2025",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "부산",
-              "roman": "bu-san",
-              "english": "Busan",
+              "korean": "실사",
+              "roman": "silsa",
+              "english": "live-action",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "합의를",
-              "roman": "hap-ui-reul",
-              "english": "agreement",
+              "korean": "프리퀄은",
+              "roman": "peurikwol-eun",
+              "english": "prequel",
               "particle": false,
-              "suffix": "를"
+              "suffix": "은"
             },
             {
-              "korean": "이행하길",
-              "roman": "i-haeng-ha-gil",
-              "english": "implement",
+              "korean": "원작보다",
+              "roman": "wonjak-boda",
+              "english": "than original",
               "particle": false,
-              "suffix": "길"
+              "suffix": "보다"
             },
             {
-              "korean": "원한다",
-              "roman": "won-han-da",
-              "english": "wants",
+              "korean": "수십",
+              "roman": "susip",
+              "english": "several tens",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "년",
+              "roman": "nyeon",
+              "english": "years",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전인",
+              "roman": "jeonin",
+              "english": "before",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1950년대다",
+              "roman": "cheon-gu-baeg-o-sip-nyeondae-da",
+              "english": "is the 1950s",
               "particle": false,
               "suffix": "다"
             }
@@ -2572,270 +1759,442 @@
         },
         {
           "stage": "how",
-          "english": "China agreed to buy U.S. soybeans and suspend new rare-earth export controls.",
-          "korean": "중국은 미국산 콩을 사고 새 희토류 수출 통제를 멈추기로 했다.",
+          "english": "The Duffers are developing it with writer Kate Trefry.",
+          "korean": "더퍼 형제가 작가 케이트 트레프리와 개발한다",
           "glossary": [
             {
-              "korean": "중국은",
-              "roman": "jung-guk-eun",
-              "english": "China",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "미국산",
-              "roman": "mi-guk-san",
-              "english": "U.S.-made",
+              "korean": "더퍼",
+              "roman": "Deopeo",
+              "english": "Duffer",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "콩을",
-              "roman": "kong-eul",
-              "english": "soybeans",
+              "korean": "형제가",
+              "roman": "hyeongje-ga",
+              "english": "brothers",
               "particle": false,
-              "suffix": "을"
+              "suffix": "가"
             },
             {
-              "korean": "사고",
-              "roman": "sa-go",
-              "english": "buy and",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "새",
-              "roman": "sae",
-              "english": "new",
+              "korean": "작가",
+              "roman": "jakga",
+              "english": "writer",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "희토류",
-              "roman": "hui-to-ryu",
-              "english": "rare earths",
+              "korean": "케이트",
+              "roman": "Keiteu",
+              "english": "Kate",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "수출",
-              "roman": "su-chul",
-              "english": "export",
+              "korean": "트레프리와",
+              "roman": "Teurepeuri-wa",
+              "english": "with Trefry",
               "particle": false,
-              "suffix": ""
+              "suffix": "와"
             },
             {
-              "korean": "통제를",
-              "roman": "tong-je-reul",
-              "english": "controls",
+              "korean": "개발한다",
+              "roman": "gaebalhanda",
+              "english": "develop",
+              "particle": false,
+              "suffix": "한다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Netflix plans to premiere the series in 2028.",
+          "korean": "넷플릭스는 2028년 시리즈를 공개할 예정이다",
+          "glossary": [
+            {
+              "korean": "넷플릭스는",
+              "roman": "netpeulligseu-neun",
+              "english": "Netflix",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2028년",
+              "roman": "icheon-isip-pal-nyeon",
+              "english": "in 2028",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "시리즈를",
+              "roman": "sirijeu-reul",
+              "english": "series",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "멈추기로",
-              "roman": "meom-chu-gi-ro",
-              "english": "to suspend",
+              "korean": "공개할",
+              "roman": "gonggaehal",
+              "english": "will release",
               "particle": false,
-              "suffix": "기로"
+              "suffix": "할"
             },
             {
-              "korean": "했다",
-              "roman": "haet-da",
-              "english": "agreed",
+              "korean": "예정이다",
+              "roman": "yejeong-ida",
+              "english": "is planned",
               "particle": false,
-              "suffix": "다"
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/movies/other-worlds-stranger-things-a-stranger-things-adventure-netflix-live-action-spin-off-duffer-brothers/article71678507.ece",
+      "short_english": "Netflix announced Other Worlds: A Stranger Things Adventure on November 6, 2026.",
+      "short_korean": "넷플릭스는 2026년 11월 6일 신작을 발표했다",
+      "date": "2026-11-08",
+      "images": [
+        "images/indian/d0f07a1d7749/1.jpg",
+        "images/indian/d0f07a1d7749/2.jpg",
+        "images/indian/d0f07a1d7749/3.jpg",
+        "images/indian/d0f07a1d7749/4.jpg",
+        "images/indian/d0f07a1d7749/5.jpg",
+        "images/indian/d0f07a1d7749/6.jpg",
+        "images/indian/d0f07a1d7749/7.jpg",
+        "images/indian/d0f07a1d7749/8.jpg",
+        "images/indian/d0f07a1d7749/9.jpg",
+        "images/indian/d0f07a1d7749/10.jpg",
+        "images/indian/d0f07a1d7749/11.jpg",
+        "images/indian/d0f07a1d7749/12.jpg",
+        "images/indian/d0f07a1d7749/13.jpg",
+        "images/indian/d0f07a1d7749/14.jpg",
+        "images/indian/d0f07a1d7749/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/d0f07a1d7749/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "크라쿠프 총격으로 5명 사망",
+      "english_title": "Krakow Shooting Leaves Death Toll Unclear",
+      "korean_desc": "경찰은 그가 차에서 사람들을 무작위로 겨냥했다고 말했다 범인은 경찰과 대치 중 다쳤다 후속 보도는 더 큰 수치를 전했고 수사는 계속됐다",
+      "english_desc": "Police said he targeted random people from a moving vehicle. The gunman was wounded during a confrontation with police. Later updates gave higher figures, but investigations were continuing on November 8.",
+      "hook": "A Krakow shooting killed five people and injured more than twelve.",
+      "sticker": "What police know",
+      "korean_hook": "크라쿠프 총격, 5명 사망",
+      "takeaway_english": "Investigators must establish both the final casualty count and the attack’s circumstances.",
+      "takeaway_korean": "수사관들은 최종 사상자와 경위를 밝혀야 한다",
+      "why_it_matters": [
+        {
+          "english": "People need reliable information during a deadly attack.",
+          "korean": "치명적 공격 때 정확한 정보가 필요하다"
+        },
+        {
+          "english": "The shooting affected a major public square in a large Polish city.",
+          "korean": "폴란드 대도시의 공공 광장이 피해를 입었다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Victims and families",
+          "english": "Five people were killed in the shooting described on November 8.",
+          "korean": "5명이 총격으로 숨졌다"
+        },
+        {
+          "label": "Police",
+          "english": "Police wounded and detained the gunman after a confrontation.",
+          "korean": "경찰은 범인을 쏴 다치게 하고 붙잡았다"
+        },
+        {
+          "label": "Donald Tusk",
+          "english": "Poland’s prime minister said police were investigating.",
+          "korean": "도날트 투스크 총리는 수사를 밝혔다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Police account",
+          "english": "Police said the gunman fired randomly from a vehicle near Krakow’s Main Square.",
+          "korean": "경찰은 범인이 광장에서 무작위로 쐈다고 말했다"
+        },
+        {
+          "label": "Later updates",
+          "english": "Later reports gave higher figures, including six deaths and fifteen or sixteen injuries.",
+          "korean": "후속 보도는 6명 사망과 15명 또는 16명 부상을 전했다"
+        }
+      ],
+      "disagree": {
+        "english": "The casualty figures changed across updates, so the final toll was not settled in the available accounts.",
+        "korean": "사상자 수가 바뀌어 최종 수치는 확정되지 않았다"
+      },
+      "reader_question_korean": "바뀌는 사상자 수를 어떻게 알려야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 8",
+        "translation check: \"A gunman opened fire in Krakow’s Main Square on No\" may be missing fires?",
+        "translation check: \"The initial account said five people died and more\" may be missing more than"
+      ],
+      "source_title": "Gunman kills 5, injures 12 in Poland’s Krakow shooting attack",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": true,
+      "caption_lines": [
+        "The shooting happened on November 7, 2026.",
+        "Krakow is about 250 kilometres from Warsaw."
+      ],
+      "reader_question": "How should officials communicate changing casualty figures?",
+      "topic_tag": "Crime",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Gunman kills 5, injures 12 in Poland’s Krakow shooting attack",
+          "date": "2026-11-08",
+          "url": "https://www.thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "경찰은",
+          "roman": "gyeongchal-eun",
+          "english": "police",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "그가",
+          "roman": "geu-ga",
+          "english": "he",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "차에서",
+          "roman": "cha-eseo",
+          "english": "from a car",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "사람들을",
+          "roman": "saramdeul-eul",
+          "english": "people",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "무작위로",
+          "roman": "mujagwi-ro",
+          "english": "randomly",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "겨냥했다고",
+          "roman": "gyeonyanghaetdago",
+          "english": "targeted",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "말했다",
+          "roman": "malhaetda",
+          "english": "said",
+          "particle": false,
+          "suffix": "했다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "how",
+          "english": "Police said he targeted random people from a moving vehicle.",
+          "korean": "경찰은 그가 차에서 사람들을 무작위로 겨냥했다고 말했다",
+          "glossary": [
+            {
+              "korean": "경찰은",
+              "roman": "gyeongchal-eun",
+              "english": "police",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "그가",
+              "roman": "geu-ga",
+              "english": "he",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "차에서",
+              "roman": "cha-eseo",
+              "english": "from a car",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "사람들을",
+              "roman": "saramdeul-eul",
+              "english": "people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "무작위로",
+              "roman": "mujagwi-ro",
+              "english": "randomly",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "겨냥했다고",
+              "roman": "gyeonyanghaetdago",
+              "english": "targeted",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaetda",
+              "english": "said",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The gunman was wounded during a confrontation with police.",
+          "korean": "범인은 경찰과 대치 중 다쳤다",
+          "glossary": [
+            {
+              "korean": "범인은",
+              "roman": "beom-in-eun",
+              "english": "gunman",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "경찰과",
+              "roman": "gyeongchal-gwa",
+              "english": "with police",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "대치",
+              "roman": "daechi",
+              "english": "confrontation",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중",
+              "roman": "jung",
+              "english": "during",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "다쳤다",
+              "roman": "dacjeotda",
+              "english": "was wounded",
+              "particle": false,
+              "suffix": "쳤다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The next major meeting is APEC in Shenzhen on November 18–19, 2026.",
-          "korean": "다음 큰 회의는 2026년 11월 18일부터 19일까지 선전에서 열린다.",
+          "english": "Later updates gave higher figures, but investigations were continuing on November 8.",
+          "korean": "후속 보도는 더 큰 수치를 전했고 수사는 계속됐다",
           "glossary": [
             {
-              "korean": "다음",
-              "roman": "da-eum",
-              "english": "next",
+              "korean": "후속",
+              "roman": "husok",
+              "english": "later",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "보도는",
+              "roman": "bodo-neun",
+              "english": "reports",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "더",
+              "roman": "deo",
+              "english": "more",
               "particle": false,
               "suffix": ""
             },
             {
               "korean": "큰",
               "roman": "keun",
-              "english": "major",
+              "english": "higher",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "회의는",
-              "roman": "hoe-ui-neun",
-              "english": "meeting",
+              "korean": "수치를",
+              "roman": "suchi-reul",
+              "english": "figures",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "전했고",
+              "roman": "jeonhaetgo",
+              "english": "reported",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수사는",
+              "roman": "susa-neun",
+              "english": "investigation",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "2026년",
-              "roman": "i-cheon-i-sip-yuk-nyeon",
-              "english": "2026",
+              "korean": "계속됐다",
+              "roman": "gyesokdwaetda",
+              "english": "continued",
               "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "18일부터",
-              "roman": "sip-pal-il-bu-teo",
-              "english": "from 18th",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "19일까지",
-              "roman": "sip-gu-il-kka-ji",
-              "english": "through 19th",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "선전에서",
-              "roman": "seon-jeon-e-seo",
-              "english": "in Shenzhen",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "열린다",
-              "roman": "yeol-lin-da",
-              "english": "will be held",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Donald Trump and Xi Jinping may meet there while the truce runs until January 10, 2027.",
-          "korean": "도널드 트럼프와 시진핑은 그곳에서 만날 수 있고 휴전은 2027년 1월 10일까지 간다.",
-          "glossary": [
-            {
-              "korean": "도널드",
-              "roman": "do-neol-deu",
-              "english": "Donald",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "트럼프와",
-              "roman": "teu-reom-peu-wa",
-              "english": "Trump and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "시진핑은",
-              "roman": "si-jin-ping-eun",
-              "english": "Xi Jinping",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그곳에서",
-              "roman": "geu-got-e-seo",
-              "english": "there",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "만날",
-              "roman": "man-nal",
-              "english": "meet",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "can",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있고",
-              "roman": "it-go",
-              "english": "and can",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "휴전은",
-              "roman": "hyu-jeon-eun",
-              "english": "truce",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2027년",
-              "roman": "i-cheon-i-sip-chil-nyeon",
-              "english": "2027",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "1월",
-              "roman": "il-wol",
-              "english": "January",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "10일까지",
-              "roman": "sip-il-kka-ji",
-              "english": "until 10th",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "간다",
-              "roman": "gan-da",
-              "english": "runs",
-              "particle": false,
-              "suffix": "다"
+              "suffix": "됐다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/top-us-china-officials-raise-trade-concerns-as-apec-approaches/article71677476.ece",
-      "short_english": "U.S. and Chinese officials held frank trade talks on November 6, 2026.",
-      "short_korean": "미국과 중국 당국자들은 2026년 11월 6일 솔직한 무역 회담을 했다.",
-      "date": "2026-11-07",
+      "url": "https://www.thehindu.com/news/international/gunman-kills-5-injures-12-in-polands-krakow-shooting-attack/article71679139.ece",
+      "short_english": "Police said he targeted random people from a moving vehicle.",
+      "short_korean": "경찰은 그가 차에서 사람들을 무작위로 겨냥했다고 말했다",
+      "date": "2026-11-08",
       "images": [
-        "images/indian/8eb93ea6fbfb/1.jpg",
-        "images/indian/8eb93ea6fbfb/2.jpg",
-        "images/indian/8eb93ea6fbfb/3.jpg",
-        "images/indian/8eb93ea6fbfb/4.jpg",
-        "images/indian/8eb93ea6fbfb/5.jpg",
-        "images/indian/8eb93ea6fbfb/6.jpg",
-        "images/indian/8eb93ea6fbfb/7.jpg",
-        "images/indian/8eb93ea6fbfb/8.jpg",
-        "images/indian/8eb93ea6fbfb/9.jpg",
-        "images/indian/8eb93ea6fbfb/10.jpg",
-        "images/indian/8eb93ea6fbfb/11.jpg",
-        "images/indian/8eb93ea6fbfb/12.jpg",
-        "images/indian/8eb93ea6fbfb/13.jpg",
-        "images/indian/8eb93ea6fbfb/14.jpg",
-        "images/indian/8eb93ea6fbfb/15.jpg",
-        "images/indian/8eb93ea6fbfb/16.jpg",
-        "images/indian/8eb93ea6fbfb/17.jpg",
-        "images/indian/8eb93ea6fbfb/18.jpg",
-        "images/indian/8eb93ea6fbfb/19.jpg"
+        "images/indian/58227a8958c5/1.jpg",
+        "images/indian/58227a8958c5/2.jpg",
+        "images/indian/58227a8958c5/3.jpg",
+        "images/indian/58227a8958c5/4.jpg",
+        "images/indian/58227a8958c5/5.jpg",
+        "images/indian/58227a8958c5/6.jpg",
+        "images/indian/58227a8958c5/7.jpg",
+        "images/indian/58227a8958c5/8.jpg",
+        "images/indian/58227a8958c5/9.jpg",
+        "images/indian/58227a8958c5/10.jpg",
+        "images/indian/58227a8958c5/11.jpg",
+        "images/indian/58227a8958c5/12.jpg",
+        "images/indian/58227a8958c5/13.jpg",
+        "images/indian/58227a8958c5/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/8eb93ea6fbfb/caption.txt"
+      "caption_file": "images/indian/58227a8958c5/caption.txt"
     }
   ]
 }
