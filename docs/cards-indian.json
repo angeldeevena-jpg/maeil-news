@@ -1,836 +1,623 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0135",
-  "generated_at": "2026-11-09T08:03:13.144Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0156",
+  "generated_at": "2026-11-10T08:31:04.717Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "코치, 개 포획 감시 강화",
-      "english_title": "Kochi tightens monitoring after dog-catching complaints",
-      "korean_desc": "코치 법인은 검사관을 임명한다. 서부 코치 의원들은 방문이 적었다고 말했다. 시장은 15일 일정을 준비한다. 10월 30일까지 94마리만 잡혔다.",
-      "english_desc": "Kochi Corporation will appoint an inspector to monitor dog-catching squads across the city. Councillors from West Kochi complained that squads visited their divisions less often. The mayor plans a fifteen-day schedule, with changes allowed only during emergencies. By October 30, the corporation had captured only 94 dogs.",
-      "hook": "Kochi plans tighter dog-catching checks.",
-      "sticker": "What changes now",
-      "korean_hook": "코치가 개 포획을 감시한다.",
-      "takeaway_english": "Kochi’s new records may show whether unequal service was real or only alleged.",
-      "takeaway_korean": "새 기록은 서비스 격차의 진실을 보여줄 수 있다.",
+      "korean_title": "소니아 회고록에 BJP 반발",
+      "english_title": "Sonia Gandhi’s memoir reopens India’s Emergency debate",
+      "korean_desc": "소니아 간디는 2026년 11월 10일 회고록을 냈다. 산자이를 통제했다면 피해가 줄었을 수 있다고 썼다. 11월 10일 BJP 대변인 케사반이 책을 미화라고 공격했다.",
+      "english_desc": "Sonia Gandhi released her memoir Belonging on November 10, 2026. She also says keeping Sanjay Gandhi in check might have reduced later damage. On November 10, BJP spokesperson C.R. Kesavan called the book whitewashing.",
+      "hook": "Sonia Gandhi called the Emergency a mistake. BJP disagreed.",
+      "sticker": "A political memory fight",
+      "korean_hook": "소니아는 실수라 했다. BJP는 반발했다.",
+      "takeaway_english": "The memoir has turned a family account into a fresh fight over India’s political memory.",
+      "takeaway_korean": "회고록은 가족 이야기를 정치 기억 싸움으로 바꿨다.",
       "why_it_matters": [
         {
-          "english": "A sanitation worker and a Haritha Karma Sena member were bitten after a delayed response.",
-          "korean": "청소 노동자와 환경미화원이 늦은 대응 뒤 물렸다."
+          "english": "The Emergency still shapes arguments about democracy and civil rights in India.",
+          "korean": "비상사태는 인도의 민주주의 논쟁에 영향을 준다."
         },
         {
-          "english": "The city’s sterilisation capacity is higher than its recent capture totals.",
-          "korean": "도시의 중성화 능력이 최근 포획보다 높다."
+          "english": "Memoirs can reopen old political disputes when major elections approach.",
+          "korean": "회고록은 선거를 앞두고 옛 논쟁을 연다."
         }
       ],
       "parties": [
         {
-          "label": "Kochi Corporation",
-          "english": "It will coordinate requests and record each operation by division.",
-          "korean": "코치 법인이 요청과 포획을 기록한다."
+          "label": "Sonia Gandhi",
+          "english": "Her memoir discusses the Emergency, family history and Indian politics.",
+          "korean": "회고록에서 비상사태와 정치를 다룬다."
         },
         {
-          "label": "West Kochi councillors",
-          "english": "They say their divisions received dog-catching services less often.",
-          "korean": "서부 코치 의원들은 서비스가 적었다고 말했다."
+          "label": "BJP",
+          "english": "The ruling party attacks her account and links it to Congress’s historical record.",
+          "korean": "여당은 회고록과 의회당 역사를 공격한다."
         },
         {
-          "label": "Dog-catching squads",
-          "english": "They face limited staffing and pressure to work more consistently.",
-          "korean": "포획대는 인력 부족과 압박을 겪는다."
+          "label": "Congress",
+          "english": "The party faces renewed attention over the Emergency and other past controversies.",
+          "korean": "의회당은 과거 논란을 다시 마주한다."
         }
       ],
       "views": [
         {
-          "label": "Mayor V.K. Minimol",
-          "english": "A schedule and monitoring system could improve fairness without ending the contract.",
-          "korean": "일정과 감시가 공정성을 높일 수 있다."
+          "label": "BJP",
+          "english": "The BJP says Sonia Gandhi is whitewashing the Nehru-Gandhi family and Congress history.",
+          "korean": "BJP는 소니아가 역사를 미화한다고 말했다."
         },
         {
-          "label": "BJP councillor Priya Prasanth",
-          "english": "Better cages and basic infrastructure are needed, not blame aimed only at catchers.",
-          "korean": "포획대만 탓하지 말고 시설을 늘려야 한다."
+          "label": "Sonia Gandhi",
+          "english": "Her memoir presents the Emergency as a mistake, while also discussing wider political damage.",
+          "korean": "소니아는 비상사태를 실수로 설명했다."
         }
       ],
       "disagree": {
-        "english": "Other councillors argue that earlier decisions were repeatedly ignored and urgent requests were delayed.",
-        "korean": "다른 의원들은 결정이 무시되고 요청이 늦었다고 말한다."
+        "english": "Critics may say the book is a personal memoir, not a complete history of Congress rule.",
+        "korean": "비판자들은 개인 회고록이 완전한 역사가 아니라고 말할 수 있다."
       },
-      "reader_question_korean": "코치는 일정과 결과 중 무엇을 봐야 할까요?",
+      "reader_question_korean": "정치 회고록은 가족의 과거를 공정하게 설명할까?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets",
-        "translation check: \"Kochi Corporation will appoint an inspector to mon\" may be missing cities",
-        "translation check: \"The mayor plans a fifteen-day schedule, with chang\" may be missing only"
+        "translation check: \"She writes that the Emergency was a mistake and In\" may be missing confused"
       ],
-      "source_title": "After councillors flag disparities, Kochi Corporation tightens monitoring of dog-catching squads",
+      "source_title": "Sonia Gandhi trying to justify Emergency, memoir should've been named ‘Whitewashing’: BJP",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "two_views",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
-      "serious": true,
+      "format_data": {
+        "views": [
+          {
+            "label": "BJP",
+            "english": "The BJP says the memoir softens the Congress record and excuses Emergency-era damage.",
+            "korean": "BJP는 회고록이 의회당 과오를 덮는다고 말했다."
+          },
+          {
+            "label": "Sonia Gandhi",
+            "english": "Sonia Gandhi calls the Emergency a mistake and says Indira Gandhi later felt similarly.",
+            "korean": "소니아는 비상사태가 실수였다고 말했다."
+          }
+        ]
+      },
+      "serious": false,
       "caption_lines": [
-        "The planned schedule allows changes only during emergencies.",
-        "Only 94 dogs had been captured by October 30, 2026."
+        "The memoir was released on November 10, 2026.",
+        "The Emergency began in 1975 under Indira Gandhi."
       ],
-      "reader_question": "Should Kochi measure fairness by schedules or results?",
-      "topic_tag": "Civic",
+      "reader_question": "Can a political memoir fairly explain a family’s past?",
+      "topic_tag": "Politics",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "After councillors flag disparities, Kochi Corporation tightens monitoring of dog-catching squads",
-          "date": "2026-11-09",
-          "url": "https://www.thehindu.com/news/national/kerala/after-councillors-flag-disparities-kochi-corporation-tightens-monitoring-of-dog-catching-squads/article71681526.ece"
+          "title": "Sonia Gandhi trying to justify Emergency, memoir should've been named ‘Whitewashing’: BJP",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/news/national/sonia-gandhi-trying-to-justify-emergency-memoir-shouldve-been-named-whitewashing-bjp/article71685174.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "코치",
-          "roman": "Ko-chi",
-          "english": "Kochi",
+          "korean": "소니아",
+          "roman": "sonia",
+          "english": "Sonia",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "법인은",
-          "roman": "beop-in-eun",
-          "english": "corporation",
+          "korean": "간디는",
+          "roman": "gandi-neun",
+          "english": "Gandhi",
           "particle": false,
-          "suffix": ""
+          "suffix": "는"
         },
         {
-          "korean": "검사관을",
-          "roman": "geom-sa-gwan-eul",
-          "english": "inspector",
+          "korean": "2026년",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "year 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibir-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "10일",
+          "roman": "sibil-il",
+          "english": "10th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "회고록을",
+          "roman": "hoegorog-eul",
+          "english": "memoir",
           "particle": false,
           "suffix": "을"
         },
         {
-          "korean": "임명한다",
-          "roman": "im-myeong-han-da",
-          "english": "appoints",
+          "korean": "냈다",
+          "roman": "naet-da",
+          "english": "released",
           "particle": false,
-          "suffix": "한다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Kochi Corporation will appoint an inspector to monitor dog-catching squads across the city.",
-          "korean": "코치 법인은 검사관을 임명한다.",
+          "english": "Sonia Gandhi released her memoir Belonging on November 10, 2026.",
+          "korean": "소니아 간디는 2026년 11월 10일 회고록을 냈다.",
           "glossary": [
             {
-              "korean": "코치",
-              "roman": "Ko-chi",
-              "english": "Kochi",
+              "korean": "소니아",
+              "roman": "sonia",
+              "english": "Sonia",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "법인은",
-              "roman": "beop-in-eun",
-              "english": "corporation",
+              "korean": "간디는",
+              "roman": "gandi-neun",
+              "english": "Gandhi",
               "particle": false,
-              "suffix": ""
+              "suffix": "는"
             },
             {
-              "korean": "검사관을",
-              "roman": "geom-sa-gwan-eul",
-              "english": "inspector",
+              "korean": "2026년",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "year 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibir-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "10일",
+              "roman": "sibil-il",
+              "english": "10th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "회고록을",
+              "roman": "hoegorog-eul",
+              "english": "memoir",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "임명한다",
-              "roman": "im-myeong-han-da",
-              "english": "appoints",
+              "korean": "냈다",
+              "roman": "naet-da",
+              "english": "released",
               "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Councillors from West Kochi complained that squads visited their divisions less often.",
-          "korean": "서부 코치 의원들은 방문이 적었다고 말했다.",
-          "glossary": [
-            {
-              "korean": "서부",
-              "roman": "seo-bu",
-              "english": "western",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "코치",
-              "roman": "Ko-chi",
-              "english": "Kochi",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의원들은",
-              "roman": "ui-won-deul-eun",
-              "english": "councillors",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "방문이",
-              "roman": "bang-mun-i",
-              "english": "visits",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "적었다고",
-              "roman": "jeok-eot-da-go",
-              "english": "were fewer",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The mayor plans a fifteen-day schedule, with changes allowed only during emergencies.",
-          "korean": "시장은 15일 일정을 준비한다.",
+          "english": "She also says keeping Sanjay Gandhi in check might have reduced later damage.",
+          "korean": "산자이를 통제했다면 피해가 줄었을 수 있다고 썼다.",
           "glossary": [
             {
-              "korean": "시장은",
-              "roman": "si-jang-eun",
-              "english": "mayor",
+              "korean": "산자이를",
+              "roman": "sanjai-reul",
+              "english": "Sanjay",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "일정을",
-              "roman": "il-jeong-eul",
-              "english": "schedule",
+              "korean": "통제했다면",
+              "roman": "tongje-haetdamyeon",
+              "english": "if controlled",
+              "particle": false,
+              "suffix": "다면"
+            },
+            {
+              "korean": "피해가",
+              "roman": "pihae-ga",
+              "english": "damage",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "줄었을",
+              "roman": "jureosseul",
+              "english": "might have decreased",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "준비한다",
-              "roman": "jun-bi-han-da",
-              "english": "prepares",
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
               "particle": false,
-              "suffix": "한다"
+              "suffix": ""
+            },
+            {
+              "korean": "있다고",
+              "roman": "itdago",
+              "english": "there was",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "썼다",
+              "roman": "sseot-da",
+              "english": "wrote",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "By October 30, the corporation had captured only 94 dogs.",
-          "korean": "10월 30일까지 94마리만 잡혔다.",
+          "english": "On November 10, BJP spokesperson C.R. Kesavan called the book whitewashing.",
+          "korean": "11월 10일 BJP 대변인 케사반이 책을 미화라고 공격했다.",
           "glossary": [
             {
-              "korean": "월",
-              "roman": "wol",
-              "english": "month",
+              "korean": "11월",
+              "roman": "sibir-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "10일",
+              "roman": "sibil-il",
+              "english": "10th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "BJP",
+              "roman": "BJP",
+              "english": "BJP",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "일까지",
-              "roman": "il-il-kka-ji",
-              "english": "by the date",
+              "korean": "대변인",
+              "roman": "daebyeon-in",
+              "english": "spokesperson",
               "particle": false,
-              "suffix": "까지"
+              "suffix": ""
             },
             {
-              "korean": "마리만",
-              "roman": "ma-ri-man",
-              "english": "only animals",
+              "korean": "케사반이",
+              "roman": "kesaban-i",
+              "english": "Kesavan",
               "particle": false,
-              "suffix": "만"
+              "suffix": "이"
             },
             {
-              "korean": "잡혔다",
-              "roman": "jap-hyeot-da",
-              "english": "were caught",
+              "korean": "책을",
+              "roman": "chaeg-eul",
+              "english": "book",
               "particle": false,
-              "suffix": "혔다"
+              "suffix": "을"
+            },
+            {
+              "korean": "미화라고",
+              "roman": "mihwarago",
+              "english": "as whitewashing",
+              "particle": false,
+              "suffix": "라고"
+            },
+            {
+              "korean": "공격했다",
+              "roman": "gonggyeok-haet-da",
+              "english": "attacked",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/national/kerala/after-councillors-flag-disparities-kochi-corporation-tightens-monitoring-of-dog-catching-squads/article71681526.ece",
-      "short_english": "Kochi Corporation will appoint an inspector to monitor dog-catching squads across the city.",
-      "short_korean": "코치 법인은 검사관을 임명한다.",
-      "date": "2026-11-09",
+      "url": "https://www.thehindu.com/news/national/sonia-gandhi-trying-to-justify-emergency-memoir-shouldve-been-named-whitewashing-bjp/article71685174.ece",
+      "short_english": "Sonia Gandhi released her memoir Belonging on November 10, 2026.",
+      "short_korean": "소니아 간디는 2026년 11월 10일 회고록을 냈다.",
+      "date": "2026-11-10",
       "images": [
-        "images/indian/18ade7ff7fdb/1.jpg",
-        "images/indian/18ade7ff7fdb/2.jpg",
-        "images/indian/18ade7ff7fdb/3.jpg",
-        "images/indian/18ade7ff7fdb/4.jpg",
-        "images/indian/18ade7ff7fdb/5.jpg",
-        "images/indian/18ade7ff7fdb/6.jpg",
-        "images/indian/18ade7ff7fdb/7.jpg",
-        "images/indian/18ade7ff7fdb/8.jpg",
-        "images/indian/18ade7ff7fdb/9.jpg",
-        "images/indian/18ade7ff7fdb/10.jpg",
-        "images/indian/18ade7ff7fdb/11.jpg",
-        "images/indian/18ade7ff7fdb/12.jpg",
-        "images/indian/18ade7ff7fdb/13.jpg",
-        "images/indian/18ade7ff7fdb/14.jpg",
-        "images/indian/18ade7ff7fdb/15.jpg"
+        "images/indian/0fcb1c4fdf16/1.jpg",
+        "images/indian/0fcb1c4fdf16/2.jpg",
+        "images/indian/0fcb1c4fdf16/3.jpg",
+        "images/indian/0fcb1c4fdf16/4.jpg",
+        "images/indian/0fcb1c4fdf16/5.jpg",
+        "images/indian/0fcb1c4fdf16/6.jpg",
+        "images/indian/0fcb1c4fdf16/7.jpg",
+        "images/indian/0fcb1c4fdf16/8.jpg",
+        "images/indian/0fcb1c4fdf16/9.jpg",
+        "images/indian/0fcb1c4fdf16/10.jpg",
+        "images/indian/0fcb1c4fdf16/11.jpg",
+        "images/indian/0fcb1c4fdf16/12.jpg",
+        "images/indian/0fcb1c4fdf16/13.jpg",
+        "images/indian/0fcb1c4fdf16/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/18ade7ff7fdb/caption.txt"
+      "caption_file": "images/indian/0fcb1c4fdf16/caption.txt"
     },
     {
       "category": "Business",
-      "korean_title": "엔비디아, 황 CEO 의혹 조사",
-      "english_title": "Nvidia investigates reports targeting CEO Jensen Huang",
-      "korean_desc": "엔비디아는 11월 8일 황 CEO를 조사했다. 미국 정보기관은 앨리스 황을 베이징과 연결했다. 이사회는 현재 비밀 유출 근거가 없다고 말했다. 황은 관계를 인정하고 조사에 협조한다.",
-      "english_desc": "Nvidia opened an investigation on November 8 after reports targeted CEO Jensen Huang. U.S. intelligence reportedly linked Alice Huang to information gathering for Beijing. The board says there is no current reason to believe Nvidia secrets were compromised. Jensen Huang said he will cooperate with the review after acknowledging an intimate relationship.",
-      "hook": "Nvidia is investigating a reported foreign intelligence effort.",
-      "sticker": "What the inquiry finds",
-      "korean_hook": "엔비디아가 해외 정보 의혹을 조사한다.",
-      "takeaway_english": "The board’s investigation must separate confirmed facts from intelligence claims.",
-      "takeaway_korean": "이사회는 확인된 사실과 정보기관 주장을 나눠야 한다.",
+      "korean_title": "콴타스, 850명 감원과 해외 이전",
+      "english_title": "Qantas will cut 850 jobs as Accenture takes over",
+      "korean_desc": "콴타스는 AI가 산업과 낡은 시스템을 바꾼다고 말한다. 일부 기업 업무는 주로 인도의 액센추어 팀으로 간다. 첫 변화는 재무, 구매, 인사, 마케팅에서 시작된다.",
+      "english_desc": "Qantas says AI is changing the industry and legacy systems need an overhaul. Some corporate work will move to Accenture teams mostly based in India. The first changes are planned for finance, procurement, human resources and marketing.",
+      "hook": "Qantas will cut 850 Australian jobs.",
+      "sticker": "Jobs move overseas",
+      "korean_hook": "콴타스가 호주 일자리 850개를 줄인다.",
+      "takeaway_english": "Qantas’s plan shows how AI can arrive at work through outsourcing, not just software.",
+      "takeaway_korean": "콴타스 계획은 AI가 외주화로도 일터에 온다는 점을 보여준다.",
       "why_it_matters": [
         {
-          "english": "Nvidia makes advanced AI chips at the center of U.S.-China technology competition.",
-          "korean": "엔비디아는 미중 기술 경쟁의 핵심 칩을 만든다."
-        },
-        {
-          "english": "The case could affect trust in corporate security and sensitive business relationships.",
-          "korean": "이 사건은 기업 보안과 사업 관계의 신뢰에 영향을 줄 수 있다."
+          "english": "The decision affects around 3% of Qantas’s Australian workforce.",
+          "korean": "이번 결정은 콴타스 호주 직원의 약 3%에 영향을 준다."
         }
       ],
       "parties": [
         {
-          "label": "Nvidia’s board",
-          "english": "It opened an independent investigation and says no secrets are known to be compromised.",
-          "korean": "이사회는 독립 조사를 시작했고 유출 증거가 없다고 말했다."
+          "label": "Qantas",
+          "english": "The airline says AI and simpler systems require the change.",
+          "korean": "항공사는 AI와 간단한 시스템이 필요하다고 말한다."
         },
         {
-          "label": "Jensen Huang",
-          "english": "He acknowledged an intimate relationship and promised to cooperate with the review.",
-          "korean": "황은 관계를 인정하고 조사에 협조하기로 했다."
+          "label": "Accenture",
+          "english": "The consulting firm will receive some finance, procurement, human resources and marketing work.",
+          "korean": "컨설팅사는 여러 기업 업무를 맡는다."
         },
         {
-          "label": "Alice Huang",
-          "english": "She is identified by U.S. intelligence reporting as a Chinese executive linked to Beijing.",
-          "korean": "앨리스 황은 베이징과 연결된 중국인 간부로 지목됐다."
+          "label": "Australian Services Union",
+          "english": "The union says workers should not pay the full cost of technological change.",
+          "korean": "노조는 노동자가 기술 변화 비용을 떠안으면 안 된다고 말한다."
         }
       ],
       "views": [
         {
-          "label": "Nvidia’s board",
-          "english": "The inquiry is necessary, but there is currently no reason to believe Nvidia secrets were compromised.",
-          "korean": "조사는 필요하지만 비밀 유출 근거는 없다고 본다."
+          "label": "Qantas",
+          "english": "Qantas says Accenture provides data and AI skills faster than the airline can hire them.",
+          "korean": "콴타스는 액센추어가 AI 인력을 더 빨리 제공한다고 말한다."
         },
         {
-          "label": "U.S. intelligence reporting",
-          "english": "Alice Huang was allegedly gathering information for Beijing through her relationship with Jensen Huang.",
-          "korean": "앨리스 황이 관계를 통해 베이징 정보를 모았다고 본다."
+          "label": "Australian Services Union",
+          "english": "The union says Qantas previously gave workers a different understanding about offshore jobs.",
+          "korean": "노조는 콴타스가 해외 이전을 다르게 설명했다고 말한다."
         }
       ],
       "disagree": {
-        "english": "The allegations remain under investigation, and public evidence does not establish that Nvidia secrets were accessed.",
-        "korean": "의혹은 조사 중이며 비밀 접근은 확인되지 않았다."
+        "english": "Qantas denies promising that no jobs would move offshore.",
+        "korean": "콴타스는 해외 이전을 막겠다고 약속하지 않았다고 부인한다."
       },
-      "reader_question_korean": "첩보 조사의 증거를 회사는 얼마나 공개해야 할까요?",
+      "reader_question_korean": "기업은 피해 노동자와 기술 절약을 나눠야 할까?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
+      "source_title": "Australia's Qantas to axe 850 jobs in offshoring deal with Accenture",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "before_after",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
-      "serious": true,
+      "format_data": {
+        "before": {
+          "label": "",
+          "english": "Qantas had corporate functions handled by its Australian workforce.",
+          "korean": "콴타스의 기업 업무는 호주 직원들이 맡았다."
+        },
+        "after": {
+          "label": "",
+          "english": "Accenture will handle some work, mostly through teams in India.",
+          "korean": "액센추어가 일부 업무를 주로 인도에서 맡는다."
+        }
+      },
+      "serious": false,
       "caption_lines": [
-        "The board announced the investigation on November 8, 2026.",
-        "Alice Huang and Jensen Huang are not related."
+        "The first round is expected by mid-2027.",
+        "Qantas employs about 28,000 people in Australia."
       ],
-      "reader_question": "How much evidence should a company disclose during an espionage inquiry?",
-      "topic_tag": "Espionage",
+      "reader_question": "Should companies share technology savings with affected workers?",
+      "topic_tag": "Business",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Nvidia investigating reports that CEO Jensen Huang was targeted by Chinese intelligence",
-          "date": "2026-11-09",
-          "url": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece"
+          "title": "Australia's Qantas to axe 850 jobs in offshoring deal with Accenture",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/business/Industry/australias-qantas-to-axe-850-jobs-in-offshoring-deal-with-accenture/article71685285.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "엔비디아는",
-          "roman": "en-bi-di-a-neun",
-          "english": "Nvidia",
+          "korean": "콴타스는",
+          "roman": "kwantaseu-neun",
+          "english": "Qantas",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "11월",
-          "roman": "sip-il-wol",
-          "english": "November",
+          "korean": "AI가",
+          "roman": "AI-ga",
+          "english": "AI",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "산업과",
+          "roman": "saneop-gwa",
+          "english": "industry",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "낡은",
+          "roman": "nalgeun",
+          "english": "old",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "일",
-          "roman": "il",
-          "english": "day",
+          "korean": "시스템을",
+          "roman": "siseutem-eul",
+          "english": "systems",
           "particle": false,
-          "suffix": ""
+          "suffix": "을"
         },
         {
-          "korean": "황",
-          "roman": "Hwang",
-          "english": "Huang",
+          "korean": "바꾼다고",
+          "roman": "bakkundago",
+          "english": "changes",
           "particle": false,
-          "suffix": ""
+          "suffix": "다고"
         },
         {
-          "korean": "CEO를",
-          "roman": "si-i-o-reul",
-          "english": "CEO",
+          "korean": "말한다",
+          "roman": "malhanda",
+          "english": "says",
           "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "조사했다",
-          "roman": "jo-sa-haet-da",
-          "english": "investigated",
-          "particle": false,
-          "suffix": "했다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "Nvidia opened an investigation on November 8 after reports targeted CEO Jensen Huang.",
-          "korean": "엔비디아는 11월 8일 황 CEO를 조사했다.",
+          "stage": "why",
+          "english": "Qantas says AI is changing the industry and legacy systems need an overhaul.",
+          "korean": "콴타스는 AI가 산업과 낡은 시스템을 바꾼다고 말한다.",
           "glossary": [
             {
-              "korean": "엔비디아는",
-              "roman": "en-bi-di-a-neun",
-              "english": "Nvidia",
+              "korean": "콴타스는",
+              "roman": "kwantaseu-neun",
+              "english": "Qantas",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
+              "korean": "AI가",
+              "roman": "AI-ga",
+              "english": "AI",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "산업과",
+              "roman": "saneop-gwa",
+              "english": "industry",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "낡은",
+              "roman": "nalgeun",
+              "english": "old",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "일",
-              "roman": "il",
-              "english": "day",
+              "korean": "시스템을",
+              "roman": "siseutem-eul",
+              "english": "systems",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "황",
-              "roman": "Hwang",
-              "english": "Huang",
+              "korean": "바꾼다고",
+              "roman": "bakkundago",
+              "english": "changes",
               "particle": false,
-              "suffix": ""
+              "suffix": "다고"
             },
             {
-              "korean": "CEO를",
-              "roman": "si-i-o-reul",
-              "english": "CEO",
+              "korean": "말한다",
+              "roman": "malhanda",
+              "english": "says",
               "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "조사했다",
-              "roman": "jo-sa-haet-da",
-              "english": "investigated",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "U.S. intelligence reportedly linked Alice Huang to information gathering for Beijing.",
-          "korean": "미국 정보기관은 앨리스 황을 베이징과 연결했다.",
+          "english": "Some corporate work will move to Accenture teams mostly based in India.",
+          "korean": "일부 기업 업무는 주로 인도의 액센추어 팀으로 간다.",
           "glossary": [
             {
-              "korean": "미국",
-              "roman": "mi-guk",
-              "english": "United States",
+              "korean": "일부",
+              "roman": "ilbu",
+              "english": "some",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "정보기관은",
-              "roman": "jeong-bo-gi-gwan-eun",
-              "english": "intelligence agencies",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "앨리스",
-              "roman": "Ael-li-seu",
-              "english": "Alice",
+              "korean": "기업",
+              "roman": "gigeop",
+              "english": "corporate",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "황을",
-              "roman": "Hwang-eul",
-              "english": "Huang",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "베이징과",
-              "roman": "Bei-jing-gwa",
-              "english": "with Beijing",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "연결했다",
-              "roman": "yeon-gyeol-haet-da",
-              "english": "linked",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The board says there is no current reason to believe Nvidia secrets were compromised.",
-          "korean": "이사회는 현재 비밀 유출 근거가 없다고 말했다.",
-          "glossary": [
-            {
-              "korean": "이사회는",
-              "roman": "i-sa-hoe-neun",
-              "english": "board",
+              "korean": "업무는",
+              "roman": "eopmu-neun",
+              "english": "work",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "현재",
-              "roman": "hyeon-jae",
-              "english": "currently",
+              "korean": "주로",
+              "roman": "juro",
+              "english": "mostly",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "비밀",
-              "roman": "bi-mil",
-              "english": "secrets",
+              "korean": "인도의",
+              "roman": "indo-ui",
+              "english": "India's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "액센추어",
+              "roman": "aeksencueo",
+              "english": "Accenture",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "유출",
-              "roman": "yu-chul",
-              "english": "leak",
+              "korean": "팀으로",
+              "roman": "tim-euro",
+              "english": "to teams",
               "particle": false,
-              "suffix": ""
+              "suffix": "으로"
             },
             {
-              "korean": "근거가",
-              "roman": "geun-geo-ga",
-              "english": "evidence",
+              "korean": "간다",
+              "roman": "gan-da",
+              "english": "goes",
               "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "없다고",
-              "roman": "eop-da-go",
-              "english": "does not exist",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Jensen Huang said he will cooperate with the review after acknowledging an intimate relationship.",
-          "korean": "황은 관계를 인정하고 조사에 협조한다.",
+          "english": "The first changes are planned for finance, procurement, human resources and marketing.",
+          "korean": "첫 변화는 재무, 구매, 인사, 마케팅에서 시작된다.",
           "glossary": [
-            {
-              "korean": "황은",
-              "roman": "Hwang-eun",
-              "english": "Huang",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "관계를",
-              "roman": "gwan-gye-reul",
-              "english": "relationship",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "인정하고",
-              "roman": "in-jeong-ha-go",
-              "english": "acknowledging",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "조사에",
-              "roman": "jo-sa-e",
-              "english": "with the investigation",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "협조한다",
-              "roman": "hyeop-jo-han-da",
-              "english": "cooperates",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sci-tech/technology/nvidia-investigating-reports-that-ceo-jensen-huang-was-targeted-by-chinese-intelligence/article71681239.ece",
-      "short_english": "Nvidia opened an investigation on November 8 after reports targeted CEO Jensen Huang.",
-      "short_korean": "엔비디아는 11월 8일 황 CEO를 조사했다.",
-      "date": "2026-11-09",
-      "images": [
-        "images/indian/ba5fef4757ff/1.jpg",
-        "images/indian/ba5fef4757ff/2.jpg",
-        "images/indian/ba5fef4757ff/3.jpg",
-        "images/indian/ba5fef4757ff/4.jpg",
-        "images/indian/ba5fef4757ff/5.jpg",
-        "images/indian/ba5fef4757ff/6.jpg",
-        "images/indian/ba5fef4757ff/7.jpg",
-        "images/indian/ba5fef4757ff/8.jpg",
-        "images/indian/ba5fef4757ff/9.jpg",
-        "images/indian/ba5fef4757ff/10.jpg",
-        "images/indian/ba5fef4757ff/11.jpg",
-        "images/indian/ba5fef4757ff/12.jpg",
-        "images/indian/ba5fef4757ff/13.jpg",
-        "images/indian/ba5fef4757ff/14.jpg",
-        "images/indian/ba5fef4757ff/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/ba5fef4757ff/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "벵갈루루 카드쇼 2.0 온다",
-      "english_title": "Bangalore Card Show returns after a surprisingly big debut",
-      "korean_desc": "카드쇼 2.0이 11월 14일과 15일 돌아온다. 6월 첫 행사에 약 1,200명이 왔다. 방문객은 교환하고 대회와 수업에 참여한다. 창립자들은 내년 뭄바이와 하이데라바드를 원한다.",
-      "english_desc": "Bangalore Card Show 2.0 returns to Bengaluru on November 14 and 15, 2026. Its June debut attracted nearly 1,200 people, surprising the founders. Visitors can trade cards, enter tournaments, learn games and meet vendors. The founders hope to take the show to Mumbai and Hyderabad next year.",
-      "hook": "The first show drew nearly 1,200 people.",
-      "sticker": "Shuffle up! 🃏",
-      "korean_hook": "첫 카드쇼에 약 1,200명이 왔다.",
-      "takeaway_english": "Bangalore’s card scene is shifting from private collecting toward public community play.",
-      "takeaway_korean": "벵갈루루의 카드 문화가 공개적인 놀이로 바뀐다.",
-      "why_it_matters": [
-        {
-          "english": "India lacks an official trading-card platform, so collectors often depend on social media.",
-          "korean": "인도에는 공식 카드 플랫폼이 없어 수집가들이 소셜미디어에 의존한다."
-        },
-        {
-          "english": "The event gives beginners a place to learn before spending money.",
-          "korean": "행사는 초보자에게 돈 쓰기 전 배울 곳을 준다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Sagar S and Ryan Satish",
-          "english": "The founders created a meeting place for India’s trading-card community.",
-          "korean": "두 창립자는 카드 수집가들의 만남을 만들었다."
-        },
-        {
-          "label": "Collectors",
-          "english": "They can trade, learn games, join tournaments and meet vendors.",
-          "korean": "수집가들은 교환하고 배우고 대회에 참가한다."
-        },
-        {
-          "label": "Families",
-          "english": "The organisers want the event to feel safe for children and parents.",
-          "korean": "주최자들은 아이와 부모에게 안전한 행사를 원한다."
-        }
-      ],
-      "views": [
-        {
-          "label": "The founders",
-          "english": "A physical gathering helps beginners learn and connects collectors who mostly meet online.",
-          "korean": "현장 행사는 초보자를 돕고 온라인 수집가를 연결한다."
-        },
-        {
-          "label": "A cautious view",
-          "english": "Trading cards can be costly and competitive, so safety and trustworthy trading remain important.",
-          "korean": "카드는 비싸고 경쟁적이어서 안전한 거래가 중요하다."
-        }
-      ],
-      "disagree": {
-        "english": "Some people may see the show mainly as a marketplace rather than a community-building event.",
-        "korean": "어떤 사람들은 이 행사를 시장으로만 볼 수 있다."
-      },
-      "reader_question_korean": "카드를 모으거나 게임을 하겠어요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 2026"
-      ],
-      "source_title": "Gear up to stack your deck at the upcoming Bangalore Card Show 2.0",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "BCS 2.0 runs November 14–15, 2026.",
-        "The venue is Shubh Convention Centre in JP Nagar."
-      ],
-      "reader_question": "Would you collect cards, play games, or do both?",
-      "topic_tag": "Cards",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Gear up to stack your deck at the upcoming Bangalore Card Show 2.0",
-          "date": "2026-11-09",
-          "url": "https://www.thehindu.com/life-and-style/gear-up-to-stack-your-deck-at-the-upcoming-bangalore-card-show-20/article71659500.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "카드쇼",
-          "roman": "ka-deu-syo",
-          "english": "card show",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "2.0이",
-          "roman": "i-jeom-il-i",
-          "english": "2.0",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "11월",
-          "roman": "sip-il-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "14일과",
-          "roman": "sip-sa-il-gwa",
-          "english": "14th and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "15일",
-          "roman": "sip-o-il",
-          "english": "15th",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "돌아온다",
-          "roman": "dol-a-on-da",
-          "english": "returns",
-          "particle": false,
-          "suffix": "온다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Bangalore Card Show 2.0 returns to Bengaluru on November 14 and 15, 2026.",
-          "korean": "카드쇼 2.0이 11월 14일과 15일 돌아온다.",
-          "glossary": [
-            {
-              "korean": "카드쇼",
-              "roman": "ka-deu-syo",
-              "english": "card show",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "2.0이",
-              "roman": "i-jeom-il-i",
-              "english": "2.0",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "14일과",
-              "roman": "sip-sa-il-gwa",
-              "english": "14th and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "15일",
-              "roman": "sip-o-il",
-              "english": "15th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "돌아온다",
-              "roman": "dol-a-on-da",
-              "english": "returns",
-              "particle": false,
-              "suffix": "온다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Its June debut attracted nearly 1,200 people, surprising the founders.",
-          "korean": "6월 첫 행사에 약 1,200명이 왔다.",
-          "glossary": [
-            {
-              "korean": "6월",
-              "roman": "yu-wol",
-              "english": "June",
-              "particle": false,
-              "suffix": ""
-            },
             {
               "korean": "첫",
               "roman": "cheot",
@@ -839,318 +626,1035 @@
               "suffix": ""
             },
             {
-              "korean": "행사에",
-              "roman": "haeng-sa-e",
-              "english": "event",
+              "korean": "변화는",
+              "roman": "byeonhwa-neun",
+              "english": "changes",
               "particle": false,
-              "suffix": "에"
+              "suffix": "는"
             },
             {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
+              "korean": "재무",
+              "roman": "jaemu",
+              "english": "finance",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "명이",
-              "roman": "myeong-i",
-              "english": "people",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "왔다",
-              "roman": "wat-da",
-              "english": "came",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Visitors can trade cards, enter tournaments, learn games and meet vendors.",
-          "korean": "방문객은 교환하고 대회와 수업에 참여한다.",
-          "glossary": [
-            {
-              "korean": "방문객은",
-              "roman": "bang-mun-gaek-eun",
-              "english": "visitors",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "교환하고",
-              "roman": "gyo-hwan-ha-go",
-              "english": "trade",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "대회와",
-              "roman": "dae-hoe-wa",
-              "english": "tournaments and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "수업에",
-              "roman": "su-eop-e",
-              "english": "lessons",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "참여한다",
-              "roman": "cham-yeo-han-da",
-              "english": "participate",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The founders hope to take the show to Mumbai and Hyderabad next year.",
-          "korean": "창립자들은 내년 뭄바이와 하이데라바드를 원한다.",
-          "glossary": [
-            {
-              "korean": "창립자들은",
-              "roman": "chang-rip-ja-deul-eun",
-              "english": "founders",
+              "korean": "구매",
+              "roman": "gumae",
+              "english": "procurement",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "내년",
-              "roman": "nae-nyeon",
-              "english": "next year",
+              "korean": "인사",
+              "roman": "insa",
+              "english": "human resources",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "뭄바이와",
-              "roman": "Mum-bai-wa",
-              "english": "Mumbai and",
+              "korean": "마케팅에서",
+              "roman": "maketing-eseo",
+              "english": "in marketing",
               "particle": false,
-              "suffix": "와"
+              "suffix": "에서"
             },
             {
-              "korean": "하이데라바드를",
-              "roman": "Ha-i-de-ra-ba-deu-reul",
-              "english": "Hyderabad",
+              "korean": "시작된다",
+              "roman": "sijak-doenda",
+              "english": "begin",
               "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "원한다",
-              "roman": "won-han-da",
-              "english": "hope for",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/life-and-style/gear-up-to-stack-your-deck-at-the-upcoming-bangalore-card-show-20/article71659500.ece",
-      "short_english": "Bangalore Card Show 2.0 returns to Bengaluru on November 14 and 15, 2026.",
-      "short_korean": "카드쇼 2.0이 11월 14일과 15일 돌아온다.",
-      "date": "2026-11-09",
+      "url": "https://www.thehindu.com/business/Industry/australias-qantas-to-axe-850-jobs-in-offshoring-deal-with-accenture/article71685285.ece",
+      "short_english": "Qantas says AI is changing the industry and legacy systems need an overhaul.",
+      "short_korean": "콴타스는 AI가 산업과 낡은 시스템을 바꾼다고 말한다.",
+      "date": "2026-11-10",
       "images": [
-        "images/indian/190467f70f28/1.jpg",
-        "images/indian/190467f70f28/2.jpg",
-        "images/indian/190467f70f28/3.jpg",
-        "images/indian/190467f70f28/4.jpg",
-        "images/indian/190467f70f28/5.jpg",
-        "images/indian/190467f70f28/6.jpg",
-        "images/indian/190467f70f28/7.jpg",
-        "images/indian/190467f70f28/8.jpg",
-        "images/indian/190467f70f28/9.jpg",
-        "images/indian/190467f70f28/10.jpg",
-        "images/indian/190467f70f28/11.jpg",
-        "images/indian/190467f70f28/12.jpg",
-        "images/indian/190467f70f28/13.jpg",
-        "images/indian/190467f70f28/14.jpg",
-        "images/indian/190467f70f28/15.jpg"
+        "images/indian/bd0b13149acc/1.jpg",
+        "images/indian/bd0b13149acc/2.jpg",
+        "images/indian/bd0b13149acc/3.jpg",
+        "images/indian/bd0b13149acc/4.jpg",
+        "images/indian/bd0b13149acc/5.jpg",
+        "images/indian/bd0b13149acc/6.jpg",
+        "images/indian/bd0b13149acc/7.jpg",
+        "images/indian/bd0b13149acc/8.jpg",
+        "images/indian/bd0b13149acc/9.jpg",
+        "images/indian/bd0b13149acc/10.jpg",
+        "images/indian/bd0b13149acc/11.jpg",
+        "images/indian/bd0b13149acc/12.jpg",
+        "images/indian/bd0b13149acc/13.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/190467f70f28/caption.txt"
+      "caption_file": "images/indian/bd0b13149acc/caption.txt"
     },
     {
-      "category": "Sports",
-      "korean_title": "인도, 뉴질랜드전 준비 강화",
-      "english_title": "Three Indian bowlers stay for New Zealand Test preparations",
-      "korean_desc": "나비, 구르누르, 아르시딥은 3차 ODI 뒤 남는다. 세 선수는 뉴질랜드 테스트를 돕는다. 테스트 전문 선수들은 11월 11일 캠프를 시작한다. 코탁은 뉴질랜드 잔디가 테스트와 비슷하다고 말했다.",
-      "english_desc": "Auqib Nabi, Gurnoor Brar and Arshdeep Singh will stay after India’s third ODI. They will help India prepare for the World Test Championship series against New Zealand. Test specialists will begin a Wellington camp on November 11. Kotak said thick grass at New Zealand grounds may resemble Test conditions.",
-      "hook": "Three Indian bowlers will stay for Test preparations.",
-      "sticker": "Test mode loading 🏏",
-      "korean_hook": "인도 투수 3명이 테스트를 준비한다.",
-      "takeaway_english": "India is using the ODI tour as a rehearsal for different conditions and workloads.",
-      "takeaway_korean": "인도는 ODI 투어를 테스트 예행연습으로 활용한다.",
+      "category": "Culture",
+      "korean_title": "무굴 제국의 디왈리 축제",
+      "english_title": "Akbar turned Deepavali into a Mughal court celebration",
+      "korean_desc": "악바르는 무굴 시대 아그라 요새에서 디왈리를 열었다. 그렇다. 그는 축제로 지역 화합을 장려했다. 그는 게와르와 잘레비 같은 과자를 나눠줬다.",
+      "english_desc": "Akbar celebrated Deepavali at Agra Fort during the Mughal period. Yes. He used the festival to encourage regional harmony. He distributed ghewar, shahi tukda, kheer, peda and jalebi as greetings.",
+      "hook": "Did Mughal rulers celebrate Deepavali? Akbar did.",
+      "sticker": "Lights at the Mughal court ✨",
+      "korean_hook": "무굴 황제도 디왈리를 즐겼을까?",
+      "takeaway_english": "Deepavali at the Mughal court was celebration, cultural exchange and political theatre at once.",
+      "takeaway_korean": "무굴 궁정의 디왈리는 축제이자 문화 교류였다.",
       "why_it_matters": [
         {
-          "english": "New Zealand’s grassy pitches may influence bowling plans and player selection.",
-          "korean": "뉴질랜드의 잔디 구장은 투구 계획에 영향을 줄 수 있다."
+          "english": "The history shows that festivals can cross religious and political boundaries.",
+          "korean": "역사는 축제가 종교와 정치의 경계를 넘을 수 있음을 보여준다."
+        },
+        {
+          "english": "Delhi’s modern celebrations carry memories of its Mughal past.",
+          "korean": "델리의 오늘 축제에는 무굴 시대 기억이 남아 있다."
         }
       ],
       "parties": [
         {
-          "label": "Auqib Nabi, Gurnoor Brar and Arshdeep Singh",
-          "english": "They will stay after the third ODI to help prepare for the Tests.",
-          "korean": "세 선수는 3차 ODI 뒤 테스트를 돕는다."
+          "label": "Akbar",
+          "english": "The emperor used shared celebrations to support regional harmony.",
+          "korean": "황제는 공동 축제로 지역 화합을 도왔다."
         },
         {
-          "label": "India’s Test specialists",
-          "english": "They will begin a camp in Wellington from November 11.",
-          "korean": "테스트 전문 선수들은 11월 11일 캠프를 시작한다."
-        },
-        {
-          "label": "Coaching staff",
-          "english": "Staff will split between ODI duties and Test preparation.",
-          "korean": "코치진은 ODI와 테스트 준비로 나뉜다."
+          "label": "Mughal court",
+          "english": "The court connected Deepavali with sweets, stories and public celebration.",
+          "korean": "궁정은 디왈리를 음식과 이야기로 기념했다."
         }
       ],
       "views": [
         {
-          "label": "Sitanshu Kotak",
-          "english": "ODI conditions are useful because grass and movement may resemble Test conditions.",
-          "korean": "ODI 환경이 테스트 준비에 도움이 된다고 봤다."
+          "label": "Historical account",
+          "english": "The account presents Akbar’s festival policy as part of his syncretic approach.",
+          "korean": "기록은 악바르의 축제 정책을 융합 정책으로 본다."
         },
         {
-          "label": "A cautious view",
-          "english": "One-day matches cannot fully reproduce the mindset and demands of red-ball Tests.",
-          "korean": "ODI가 테스트의 모든 요구를 재현할 수는 없다."
+          "label": "Critical view",
+          "english": "A court record mainly shows imperial events, not every community’s experience.",
+          "korean": "궁정 기록은 모든 공동체의 경험을 보여주지 않는다."
         }
       ],
       "disagree": {
-        "english": "Some may prefer a fixed squad and full coaching group rather than a divided preparation plan.",
-        "korean": "일부는 나뉜 준비보다 고정된 팀을 선호할 수 있다."
+        "english": "Some readers may see the celebration as political inclusion rather than simple religious openness.",
+        "korean": "일부 독자는 축제를 종교적 개방보다 정치적 포용으로 볼 수 있다."
       },
-      "reader_question_korean": "유연한 준비가 한 팀보다 나을까요?",
+      "reader_question_korean": "축제는 종교 행사이자 정치 메시지가 될 수 있을까?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "translation check: \"The court also read and performed Ramayana scenes \" may be missing court"
       ],
-      "source_title": "Nabi, Gurnoor, Arshdeep to stay back and help Test preparations against New Zealand: Kotak",
-      "hook_format": "number",
-      "body_format": "sentences",
+      "source_title": "Jashn-e Chiragha’n: Tracing Deepavali celebrations in the Mughal Empire",
+      "hook_format": "headline",
+      "body_format": "who_speaks",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "three",
-          "label": "Indian bowlers staying",
-          "korean_label": "남는 인도 투수"
-        }
+        "people": [
+          {
+            "label": "Akbar",
+            "english": "He celebrated Deepavali at Agra Fort and distributed sweets.",
+            "korean": "악바르는 아그라 요새에서 디왈리를 열었다."
+          },
+          {
+            "label": "Abul Fazl",
+            "english": "The chronicler described festivals lasting several weeks in Ain-i-Akbari.",
+            "korean": "아불 파즐은 축제가 몇 주간 이어졌다고 썼다."
+          },
+          {
+            "label": "Mughal court",
+            "english": "The court read and performed scenes from the Ramayana in Persian-era celebrations.",
+            "korean": "무굴 궁정은 라마야나 장면을 읽고 공연했다."
+          }
+        ]
       },
       "serious": false,
       "caption_lines": [
-        "The first Test begins at Basin Reserve on November 19, 2026.",
-        "The third ODI is scheduled for Hamilton on November 10."
+        "The Mughal court called the festival Jashn-e Chiraghan.",
+        "Akbar ruled from 1556 to 1605."
       ],
-      "reader_question": "Is flexible preparation better than keeping one complete squad together?",
-      "topic_tag": "Cricket",
+      "reader_question": "Can a festival become both a religious celebration and a political message?",
+      "topic_tag": "Culture",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Nabi, Gurnoor, Arshdeep to stay back and help Test preparations against New Zealand: Kotak",
-          "date": "2026-11-09",
-          "url": "https://www.thehindu.com/sport/cricket/nabi-gurnoor-arshdeep-to-stay-back-and-help-test-preparations-against-new-zealand-kotak/article71681714.ece"
+          "title": "Jashn-e Chiragha’n: Tracing Deepavali celebrations in the Mughal Empire",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/society/history-and-culture/jashn-e-chiraghan-tracing-deepavali-celebrations-in-the-mughal-empire/article71659626.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "나비",
-          "roman": "Na-bi",
-          "english": "Nabi",
+          "korean": "악바르는",
+          "roman": "akbareu-neun",
+          "english": "Akbar",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "무굴",
+          "roman": "mugul",
+          "english": "Mughal",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "구르누르",
-          "roman": "Gu-reu-nu-reu",
-          "english": "Gurnoor",
+          "korean": "시대",
+          "roman": "sidae",
+          "english": "period",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "아르시딥은",
-          "roman": "A-reu-si-dib-eun",
-          "english": "Arshdeep",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "3차",
-          "roman": "sam-cha",
-          "english": "third",
+          "korean": "아그라",
+          "roman": "ageura",
+          "english": "Agra",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "ODI",
-          "roman": "O-di-ai",
-          "english": "ODI",
+          "korean": "요새에서",
+          "roman": "yosae-eseo",
+          "english": "at fort",
           "particle": false,
-          "suffix": ""
+          "suffix": "에서"
         },
         {
-          "korean": "뒤",
-          "roman": "dwi",
-          "english": "after",
+          "korean": "디왈리를",
+          "roman": "diwalli-reul",
+          "english": "Deepavali",
           "particle": false,
-          "suffix": ""
+          "suffix": "를"
         },
         {
-          "korean": "남는다",
-          "roman": "nam-neun-da",
-          "english": "stay",
+          "korean": "열었다",
+          "roman": "yeoreot-da",
+          "english": "held",
           "particle": false,
-          "suffix": "는다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Auqib Nabi, Gurnoor Brar and Arshdeep Singh will stay after India’s third ODI.",
-          "korean": "나비, 구르누르, 아르시딥은 3차 ODI 뒤 남는다.",
+          "english": "Akbar celebrated Deepavali at Agra Fort during the Mughal period.",
+          "korean": "악바르는 무굴 시대 아그라 요새에서 디왈리를 열었다.",
           "glossary": [
             {
-              "korean": "나비",
-              "roman": "Na-bi",
-              "english": "Nabi",
+              "korean": "악바르는",
+              "roman": "akbareu-neun",
+              "english": "Akbar",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "무굴",
+              "roman": "mugul",
+              "english": "Mughal",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "구르누르",
-              "roman": "Gu-reu-nu-reu",
-              "english": "Gurnoor",
+              "korean": "시대",
+              "roman": "sidae",
+              "english": "period",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "아르시딥은",
-              "roman": "A-reu-si-dib-eun",
-              "english": "Arshdeep",
+              "korean": "아그라",
+              "roman": "ageura",
+              "english": "Agra",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "요새에서",
+              "roman": "yosae-eseo",
+              "english": "at fort",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "디왈리를",
+              "roman": "diwalli-reul",
+              "english": "Deepavali",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "열었다",
+              "roman": "yeoreot-da",
+              "english": "held",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "truth",
+          "english": "Yes. He used the festival to encourage regional harmony.",
+          "korean": "그렇다. 그는 축제로 지역 화합을 장려했다.",
+          "glossary": [
+            {
+              "korean": "그렇다",
+              "roman": "geureot-da",
+              "english": "yes",
+              "particle": false,
+              "suffix": "다"
+            },
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "축제로",
+              "roman": "chukje-ro",
+              "english": "through festival",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "지역",
+              "roman": "jiyeok",
+              "english": "regional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "화합을",
+              "roman": "hwahap-eul",
+              "english": "harmony",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "장려했다",
+              "roman": "jangnyeo-haet-da",
+              "english": "encouraged",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "He distributed ghewar, shahi tukda, kheer, peda and jalebi as greetings.",
+          "korean": "그는 게와르와 잘레비 같은 과자를 나눠줬다.",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "게와르와",
+              "roman": "gewaleu-wa",
+              "english": "ghewar and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "잘레비",
+              "roman": "jallebi",
+              "english": "jalebi",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "같은",
+              "roman": "gateun",
+              "english": "such as",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "과자를",
+              "roman": "gwaja-reul",
+              "english": "sweets",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "나눠줬다",
+              "roman": "nanwo-jwot-da",
+              "english": "distributed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/society/history-and-culture/jashn-e-chiraghan-tracing-deepavali-celebrations-in-the-mughal-empire/article71659626.ece",
+      "short_english": "Akbar celebrated Deepavali at Agra Fort during the Mughal period.",
+      "short_korean": "악바르는 무굴 시대 아그라 요새에서 디왈리를 열었다.",
+      "date": "2026-11-10",
+      "images": [
+        "images/indian/3e453ae19b5e/1.jpg",
+        "images/indian/3e453ae19b5e/2.jpg",
+        "images/indian/3e453ae19b5e/3.jpg",
+        "images/indian/3e453ae19b5e/4.jpg",
+        "images/indian/3e453ae19b5e/5.jpg",
+        "images/indian/3e453ae19b5e/6.jpg",
+        "images/indian/3e453ae19b5e/7.jpg",
+        "images/indian/3e453ae19b5e/8.jpg",
+        "images/indian/3e453ae19b5e/9.jpg",
+        "images/indian/3e453ae19b5e/10.jpg",
+        "images/indian/3e453ae19b5e/11.jpg",
+        "images/indian/3e453ae19b5e/12.jpg",
+        "images/indian/3e453ae19b5e/13.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/3e453ae19b5e/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "뉴질랜드, 부상에 흔들린 볼링진",
+      "english_title": "New Zealand’s injured bowling unit frustrated Jamieson",
+      "korean_desc": "맷 헨리와 로키 퍼거슨이 빠졌고 틱너도 손을 다쳤다. 제이미슨은 변화가 볼러들의 결속을 막았다고 말했다. 웰링턴에서 제이미슨은 3위켓을 잡았고 경기는 중단됐다.",
+      "english_desc": "Matt Henry and Lockie Ferguson missed games, while Blair Tickner hurt his hand. Jamieson said the changes stopped the bowlers building cohesion together. In Wellington, Jamieson took three wickets before the third ODI was abandoned.",
+      "hook": "New Zealand lost the T20I series 2–3 and trails ODIs 0–2.",
+      "sticker": "Cricket’s injury puzzle",
+      "korean_hook": "뉴질랜드는 T20 2-3, ODI 0-2다.",
+      "takeaway_english": "New Zealand needs a settled attack quickly, while India already controls the ODI series.",
+      "takeaway_korean": "뉴질랜드는 안정된 공격진이 필요하고 인도는 ODI를 지배한다.",
+      "why_it_matters": [
+        {
+          "english": "Injuries can break the bowling partnerships teams need for repeated plans.",
+          "korean": "부상은 반복 전략에 필요한 볼링 파트너십을 깨뜨린다."
+        },
+        {
+          "english": "Weather and pitch conditions can change which team gains an advantage.",
+          "korean": "날씨와 투구장은 어느 팀이 유리한지 바꿀 수 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Kyle Jamieson",
+          "english": "He says New Zealand lacks continuity in its bowling attack.",
+          "korean": "그는 뉴질랜드 볼링진의 연속성이 부족하다고 말한다."
+        },
+        {
+          "label": "New Zealand",
+          "english": "The team has changed bowlers repeatedly because of injuries.",
+          "korean": "뉴질랜드는 부상 때문에 볼러를 자주 바꿨다."
+        },
+        {
+          "label": "India",
+          "english": "India leads the ODI series after New Zealand’s difficult start.",
+          "korean": "인도는 어려운 출발 뒤 ODI에서 앞선다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Kyle Jamieson",
+          "english": "Jamieson says repeated injuries have prevented the bowlers from building cohesion.",
+          "korean": "제이미슨은 반복된 부상이 팀 결속을 막았다고 말한다."
+        },
+        {
+          "label": "New Zealand bowling conditions",
+          "english": "Helpful pitches give New Zealand bowlers more assistance than recent high-scoring surfaces.",
+          "korean": "이번 투구장은 뉴질랜드 볼러에게 더 많은 도움을 준다."
+        }
+      ],
+      "disagree": {
+        "english": "India’s results also reflect its own batting and bowling performance, not only New Zealand’s injuries.",
+        "korean": "인도의 성적은 뉴질랜드 부상만이 아니라 인도의 경기력도 반영한다."
+      },
+      "reader_question_korean": "한 부상 많은 팀이 시리즈를 얼마나 바꿀까?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"Jamieson said the changes stopped the bowlers buil\" may be missing buildings?"
+      ],
+      "source_title": "IND vs NZ ODI series: Lack of continuity in bowling unit due to injuries is frustrating, says Kyle Jamieson",
+      "hook_format": "headline",
+      "body_format": "three_points",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "points": [
+          {
+            "label": "",
+            "english": "Matt Henry and Lockie Ferguson missed games through injury.",
+            "korean": "맷 헨리와 로키 퍼거슨이 부상으로 빠졌다."
+          },
+          {
+            "label": "",
+            "english": "Blair Tickner injured his hand in the latest game.",
+            "korean": "블레어 틱너는 최근 경기에서 손을 다쳤다."
+          },
+          {
+            "label": "",
+            "english": "Kyle Jamieson took three wickets in Wellington’s cold conditions.",
+            "korean": "카일 제이미슨은 웰링턴에서 3위켓을 잡았다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The third ODI was abandoned because of bad weather.",
+        "Jamieson is also preparing for a long Test run."
+      ],
+      "reader_question": "How much can one injured unit change a cricket series?",
+      "topic_tag": "Cricket",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "IND vs NZ ODI series: Lack of continuity in bowling unit due to injuries is frustrating, says Kyle Jamieson",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-lack-of-continuity-in-bowling-unit-due-to-injuries-is-frustrating-says-kyle-jamieson/article71685338.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "맷",
+          "roman": "maet",
+          "english": "Matt",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "헨리와",
+          "roman": "henri-wa",
+          "english": "Henry and",
+          "particle": false,
+          "suffix": "와"
+        },
+        {
+          "korean": "로키",
+          "roman": "roki",
+          "english": "Lockie",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "퍼거슨이",
+          "roman": "peogeoseun-i",
+          "english": "Ferguson",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "빠졌고",
+          "roman": "ppajyeot-go",
+          "english": "missed and",
+          "particle": false,
+          "suffix": "고"
+        },
+        {
+          "korean": "틱너도",
+          "roman": "tikneo-do",
+          "english": "Tickner too",
+          "particle": false,
+          "suffix": "도"
+        },
+        {
+          "korean": "손을",
+          "roman": "son-eul",
+          "english": "hand",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "다쳤다",
+          "roman": "dachyeot-da",
+          "english": "hurt",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "Matt Henry and Lockie Ferguson missed games, while Blair Tickner hurt his hand.",
+          "korean": "맷 헨리와 로키 퍼거슨이 빠졌고 틱너도 손을 다쳤다.",
+          "glossary": [
+            {
+              "korean": "맷",
+              "roman": "maet",
+              "english": "Matt",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "헨리와",
+              "roman": "henri-wa",
+              "english": "Henry and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "로키",
+              "roman": "roki",
+              "english": "Lockie",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "퍼거슨이",
+              "roman": "peogeoseun-i",
+              "english": "Ferguson",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "빠졌고",
+              "roman": "ppajyeot-go",
+              "english": "missed and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "틱너도",
+              "roman": "tikneo-do",
+              "english": "Tickner too",
+              "particle": false,
+              "suffix": "도"
+            },
+            {
+              "korean": "손을",
+              "roman": "son-eul",
+              "english": "hand",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "다쳤다",
+              "roman": "dachyeot-da",
+              "english": "hurt",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Jamieson said the changes stopped the bowlers building cohesion together.",
+          "korean": "제이미슨은 변화가 볼러들의 결속을 막았다고 말했다.",
+          "glossary": [
+            {
+              "korean": "제이미슨은",
+              "roman": "jeimiseun-eun",
+              "english": "Jamieson",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "3차",
-              "roman": "sam-cha",
-              "english": "third",
+              "korean": "변화가",
+              "roman": "byeonhwa-ga",
+              "english": "changes",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "볼러들의",
+              "roman": "bolleo-deul-ui",
+              "english": "bowlers'",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "결속을",
+              "roman": "gyeolsog-eul",
+              "english": "cohesion",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "막았다고",
+              "roman": "magatdago",
+              "english": "stopped",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했다",
+              "roman": "malhaet-da",
+              "english": "said",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "In Wellington, Jamieson took three wickets before the third ODI was abandoned.",
+          "korean": "웰링턴에서 제이미슨은 3위켓을 잡았고 경기는 중단됐다.",
+          "glossary": [
+            {
+              "korean": "웰링턴에서",
+              "roman": "wellingteon-eseo",
+              "english": "in Wellington",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "제이미슨은",
+              "roman": "jeimiseun-eun",
+              "english": "Jamieson",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "3위켓을",
+              "roman": "sam-wiket-eul",
+              "english": "three wickets",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "잡았고",
+              "roman": "jabat-go",
+              "english": "took and",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "경기는",
+              "roman": "gyeonggi-neun",
+              "english": "match",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "중단됐다",
+              "roman": "jungdan-dwaet-da",
+              "english": "was abandoned",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/sport/cricket/ind-vs-nz-odi-series-lack-of-continuity-in-bowling-unit-due-to-injuries-is-frustrating-says-kyle-jamieson/article71685338.ece",
+      "short_english": "Matt Henry and Lockie Ferguson missed games, while Blair Tickner hurt his hand.",
+      "short_korean": "맷 헨리와 로키 퍼거슨이 빠졌고 틱너도 손을 다쳤다.",
+      "date": "2026-11-10",
+      "images": [
+        "images/indian/48b4c4236b04/1.jpg",
+        "images/indian/48b4c4236b04/2.jpg",
+        "images/indian/48b4c4236b04/3.jpg",
+        "images/indian/48b4c4236b04/4.jpg",
+        "images/indian/48b4c4236b04/5.jpg",
+        "images/indian/48b4c4236b04/6.jpg",
+        "images/indian/48b4c4236b04/7.jpg",
+        "images/indian/48b4c4236b04/8.jpg",
+        "images/indian/48b4c4236b04/9.jpg",
+        "images/indian/48b4c4236b04/10.jpg",
+        "images/indian/48b4c4236b04/11.jpg",
+        "images/indian/48b4c4236b04/12.jpg",
+        "images/indian/48b4c4236b04/13.jpg",
+        "images/indian/48b4c4236b04/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/48b4c4236b04/caption.txt"
+    },
+    {
+      "category": "Entertainment",
+      "korean_title": "감독 마두미타, 편안함을 벗다",
+      "english_title": "Madhumita leaves feel-good films for darker questions",
+      "korean_desc": "감독 마두미타의 존 도는 2026년 11월 13일 개봉한다. 제작자들이 비슷한 이야기를 계속 원해 장르를 바꿨다. 그녀는 힌디어판 작업 뒤 인질극을 촬영할 예정이다.",
+      "english_desc": "Director Madhumita’s John Doe reaches cinemas on November 13, 2026. She moved beyond feel-good films after producers repeatedly requested similar stories. She plans a hostage drama after completing a Hindi adaptation of Angamaly Diaries.",
+      "hook": "Madhumita wanted more than feel-good films.",
+      "sticker": "A director changes lanes 🎬",
+      "korean_hook": "마두미타는 편안한 영화 이상을 원했다.",
+      "takeaway_english": "Madhumita’s next test is whether a darker genre can carry the same emotional trust.",
+      "takeaway_korean": "마두미타의 다음 시험은 어두운 장르의 감정 전달이다.",
+      "why_it_matters": [
+        {
+          "english": "Genre expectations can limit what producers ask women directors to make.",
+          "korean": "장르 기대는 여성 감독에게 요구되는 영화를 제한할 수 있다."
+        },
+        {
+          "english": "John Doe treats crime as a human problem rather than a stylish puzzle.",
+          "korean": "존 도는 범죄를 멋진 퍼즐보다 인간 문제로 다룬다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Madhumita",
+          "english": "She wrote John Doe to challenge expectations about women directors.",
+          "korean": "그녀는 여성 감독에 대한 기대에 도전하려고 존 도를 썼다."
+        },
+        {
+          "label": "John Doe",
+          "english": "The psychological thriller follows police investigating a missing child.",
+          "korean": "심리 스릴러는 실종 아동 사건을 수사하는 경찰을 다룬다."
+        },
+        {
+          "label": "Arjun Das and Sanchana Natarajan",
+          "english": "They lead the film, set near the Tamil Nadu–Kerala border.",
+          "korean": "두 배우가 타밀나두-케랄라 국경 지역 영화에 출연한다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Madhumita",
+          "english": "She says filmmaking is exciting when directors challenge themselves with new genres.",
+          "korean": "마두미타는 새 장르에 도전할 때 영화가 재미있다고 말한다."
+        },
+        {
+          "label": "Madhumita’s earlier success",
+          "english": "The success of KD Engira Karuppudurai brought offers for similar feel-good films.",
+          "korean": "KD 성공 뒤 비슷한 따뜻한 영화 제안이 들어왔다."
+        }
+      ],
+      "disagree": {
+        "english": "Some viewers may prefer the familiar warmth that first made her work popular.",
+        "korean": "일부 관객은 그녀를 유명하게 만든 따뜻함을 더 좋아할 수 있다."
+      },
+      "reader_question_korean": "성공한 감독은 관객이 좋아한 영화를 계속 만들어야 할까?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"John Doe is a psychological thriller about police \" may be missing police"
+      ],
+      "source_title": "‘John Doe’: Why director Madhumita wanted to move beyond feel-good films",
+      "hook_format": "vocab",
+      "body_format": "another_view",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "view": {
+          "label": "Another reasonable view",
+          "english": "A director can explore different genres without rejecting the emotional warmth of earlier films.",
+          "korean": "감독은 이전 영화의 따뜻함을 버리지 않고 장르를 넓힐 수 있다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "John Doe opens on November 13, 2026.",
+        "The script was written during the COVID-19 lockdown."
+      ],
+      "reader_question": "Should successful directors keep making the films audiences already love?",
+      "topic_tag": "Cinema",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "‘John Doe’: Why director Madhumita wanted to move beyond feel-good films",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/entertainment/movies/john-doe-why-director-madhumita-wanted-to-move-beyond-feel-good-films/article71685307.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "감독",
+          "roman": "gamdog",
+          "english": "director",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "마두미타의",
+          "roman": "madumita-ui",
+          "english": "Madhumita's",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "존",
+          "roman": "jon",
+          "english": "John",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "도는",
+          "roman": "do-neun",
+          "english": "Doe",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibir-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "13일",
+          "roman": "sipsam-il",
+          "english": "13th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "개봉한다",
+          "roman": "gaebong-handa",
+          "english": "opens",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Director Madhumita’s John Doe reaches cinemas on November 13, 2026.",
+          "korean": "감독 마두미타의 존 도는 2026년 11월 13일 개봉한다.",
+          "glossary": [
+            {
+              "korean": "감독",
+              "roman": "gamdog",
+              "english": "director",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "ODI",
-              "roman": "O-di-ai",
-              "english": "ODI",
+              "korean": "마두미타의",
+              "roman": "madumita-ui",
+              "english": "Madhumita's",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "존",
+              "roman": "jon",
+              "english": "John",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "도는",
+              "roman": "do-neun",
+              "english": "Doe",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibir-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "13일",
+              "roman": "sipsam-il",
+              "english": "13th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "개봉한다",
+              "roman": "gaebong-handa",
+              "english": "opens",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "She moved beyond feel-good films after producers repeatedly requested similar stories.",
+          "korean": "제작자들이 비슷한 이야기를 계속 원해 장르를 바꿨다.",
+          "glossary": [
+            {
+              "korean": "제작자들이",
+              "roman": "jejakja-deul-i",
+              "english": "producers",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "비슷한",
+              "roman": "biseutan",
+              "english": "similar",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이야기를",
+              "roman": "iyagi-reul",
+              "english": "stories",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "계속",
+              "roman": "gyesok",
+              "english": "repeatedly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원해",
+              "roman": "wonhae",
+              "english": "wanted",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장르를",
+              "roman": "jangreu-reul",
+              "english": "genre",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "바꿨다",
+              "roman": "bakkwot-da",
+              "english": "changed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "She plans a hostage drama after completing a Hindi adaptation of Angamaly Diaries.",
+          "korean": "그녀는 힌디어판 작업 뒤 인질극을 촬영할 예정이다.",
+          "glossary": [
+            {
+              "korean": "그녀는",
+              "roman": "geunyeo-neun",
+              "english": "she",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "힌디어판",
+              "roman": "hindieopan",
+              "english": "Hindi adaptation",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "작업",
+              "roman": "jageop",
+              "english": "work",
               "particle": false,
               "suffix": ""
             },
@@ -1162,889 +1666,476 @@
               "suffix": ""
             },
             {
-              "korean": "남는다",
-              "roman": "nam-neun-da",
-              "english": "stay",
-              "particle": false,
-              "suffix": "는다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "They will help India prepare for the World Test Championship series against New Zealand.",
-          "korean": "세 선수는 뉴질랜드 테스트를 돕는다.",
-          "glossary": [
-            {
-              "korean": "세",
-              "roman": "se",
-              "english": "three",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선수는",
-              "roman": "seon-su-neun",
-              "english": "players",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "뉴질랜드",
-              "roman": "Nyu-jil-laen-deu",
-              "english": "New Zealand",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "테스트를",
-              "roman": "te-seu-teu-reul",
-              "english": "Tests",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "돕는다",
-              "roman": "dop-neun-da",
-              "english": "help",
-              "particle": false,
-              "suffix": "는다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Test specialists will begin a Wellington camp on November 11.",
-          "korean": "테스트 전문 선수들은 11월 11일 캠프를 시작한다.",
-          "glossary": [
-            {
-              "korean": "테스트",
-              "roman": "te-seu-teu",
-              "english": "Test",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "전문",
-              "roman": "jeon-mun",
-              "english": "specialist",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선수들은",
-              "roman": "seon-su-deul-eun",
-              "english": "players",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "11월",
-              "roman": "sip-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "11일",
-              "roman": "sip-il-il",
-              "english": "11th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "캠프를",
-              "roman": "kaem-peu-reul",
-              "english": "camp",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "시작한다",
-              "roman": "si-jak-han-da",
-              "english": "begin",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Kotak said thick grass at New Zealand grounds may resemble Test conditions.",
-          "korean": "코탁은 뉴질랜드 잔디가 테스트와 비슷하다고 말했다.",
-          "glossary": [
-            {
-              "korean": "코탁은",
-              "roman": "Ko-tak-eun",
-              "english": "Kotak",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "뉴질랜드",
-              "roman": "Nyu-jil-laen-deu",
-              "english": "New Zealand",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "잔디가",
-              "roman": "jan-di-ga",
-              "english": "grass",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "테스트와",
-              "roman": "te-seu-teu-wa",
-              "english": "with Tests",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "비슷하다고",
-              "roman": "bi-seut-ha-da-go",
-              "english": "is similar",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/sport/cricket/nabi-gurnoor-arshdeep-to-stay-back-and-help-test-preparations-against-new-zealand-kotak/article71681714.ece",
-      "short_english": "Auqib Nabi, Gurnoor Brar and Arshdeep Singh will stay after India’s third ODI.",
-      "short_korean": "나비, 구르누르, 아르시딥은 3차 ODI 뒤 남는다.",
-      "date": "2026-11-09",
-      "images": [
-        "images/indian/63c17229cc44/1.jpg",
-        "images/indian/63c17229cc44/2.jpg",
-        "images/indian/63c17229cc44/3.jpg",
-        "images/indian/63c17229cc44/4.jpg",
-        "images/indian/63c17229cc44/5.jpg",
-        "images/indian/63c17229cc44/6.jpg",
-        "images/indian/63c17229cc44/7.jpg",
-        "images/indian/63c17229cc44/8.jpg",
-        "images/indian/63c17229cc44/9.jpg",
-        "images/indian/63c17229cc44/10.jpg",
-        "images/indian/63c17229cc44/11.jpg",
-        "images/indian/63c17229cc44/12.jpg",
-        "images/indian/63c17229cc44/13.jpg",
-        "images/indian/63c17229cc44/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/63c17229cc44/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "이창동의 욕망 영화, 오스카 도전",
-      "english_title": "Possible Love turns class, desire and marriage into a prize contender",
-      "korean_desc": "이창동의 가능한 사랑은 두 부부를 따라간다. 파업과 해고와 다큐멘터리가 관계를 만든다. 영화는 질투와 특권과 촬영 윤리를 살핀다. 한국은 영화를 99회 오스카에 출품했다.",
-      "english_desc": "Lee Chang-dong’s Possible Love follows two married couples from opposite economic worlds. Their connection grows after a factory strike, layoffs and a documentary project. The film examines envy, privilege and the ethics of filming other people’s hardship. South Korea selected the film for the 99th Academy Awards international feature category.",
-      "hook": "Lee Chang-dong’s new film turns class tension into drama.",
-      "sticker": "Desire gets complicated 🎬",
-      "korean_hook": "이창동 신작이 계급 갈등을 다룬다.",
-      "takeaway_english": "Possible Love asks whether closeness can survive when wealth keeps the power unequal.",
-      "takeaway_korean": "영화는 부의 불평등 속에서도 가까워질 수 있는지 묻는다.",
-      "why_it_matters": [
-        {
-          "english": "The film connects private desire with labor conflict and economic inequality.",
-          "korean": "영화는 욕망을 노동 갈등과 경제 불평등에 연결한다."
-        },
-        {
-          "english": "Its Oscar submission gives a wider audience a chance to meet Lee’s latest work.",
-          "korean": "오스카 출품으로 더 많은 관객이 영화를 만날 수 있다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Lee Chang-dong",
-          "english": "The director examines desire, class and the ethics of watching other people’s suffering.",
-          "korean": "이창동은 욕망과 계급과 관찰의 윤리를 살핀다."
-        },
-        {
-          "label": "The two couples",
-          "english": "Their lives collide after a factory strike and a documentary project.",
-          "korean": "두 부부의 삶은 파업과 다큐멘터리로 충돌한다."
-        },
-        {
-          "label": "South Korea",
-          "english": "The country selected the film for the 99th Academy Awards international feature category.",
-          "korean": "한국은 이 영화를 오스카 출품작으로 골랐다."
-        }
-      ],
-      "views": [
-        {
-          "label": "The review’s view",
-          "english": "The film uses sharp formal control to show how wealth shapes intimacy and envy.",
-          "korean": "영화는 부가 친밀감과 질투를 바꾸는 모습을 보인다."
-        },
-        {
-          "label": "A more cautious view",
-          "english": "Some critics may find its long, serious examination of class too heavy or sentimental.",
-          "korean": "일부 평론가는 계급 이야기가 무겁다고 볼 수 있다."
-        }
-      ],
-      "disagree": {
-        "english": "Viewers may disagree about whether the film criticizes privilege or simply studies human weakness.",
-        "korean": "관객은 특권 비판인지 인간 약점 관찰인지 다르게 볼 수 있다."
-      },
-      "reader_question_korean": "사랑 이야기가 불평등을 보여줄 수 있을까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "‘Possible Love’ movie review: Lee Chang-dong’s exquisitely layered study of covetousness",
-      "hook_format": "vocab",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "The film won the Venice Grand Jury Prize and FIPRESCI Prize.",
-        "South Korea selected it on August 25, 2026."
-      ],
-      "reader_question": "Can a love story expose inequality without offering easy comfort?",
-      "topic_tag": "Film",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "‘Possible Love’ movie review: Lee Chang-dong’s exquisitely layered study of covetousness",
-          "date": "2026-11-09",
-          "url": "https://www.thehindu.com/entertainment/movies/possible-love-movie-review-lee-chang-dongs-exquisitely-layered-study-of-covetousness/article71681055.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "이창동의",
-          "roman": "I-Chang-dong-ui",
-          "english": "Lee Chang-dong's",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "가능한",
-          "roman": "ga-neung-han",
-          "english": "Possible",
-          "particle": false,
-          "suffix": "한"
-        },
-        {
-          "korean": "사랑은",
-          "roman": "sa-rang-eun",
-          "english": "Love",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "두",
-          "roman": "du",
-          "english": "two",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "부부를",
-          "roman": "bu-bu-reul",
-          "english": "couples",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "따라간다",
-          "roman": "tta-ra-gan-da",
-          "english": "follows",
-          "particle": false,
-          "suffix": "간다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Lee Chang-dong’s Possible Love follows two married couples from opposite economic worlds.",
-          "korean": "이창동의 가능한 사랑은 두 부부를 따라간다.",
-          "glossary": [
-            {
-              "korean": "이창동의",
-              "roman": "I-Chang-dong-ui",
-              "english": "Lee Chang-dong's",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "가능한",
-              "roman": "ga-neung-han",
-              "english": "Possible",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "사랑은",
-              "roman": "sa-rang-eun",
-              "english": "Love",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "부부를",
-              "roman": "bu-bu-reul",
-              "english": "couples",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "따라간다",
-              "roman": "tta-ra-gan-da",
-              "english": "follows",
-              "particle": false,
-              "suffix": "간다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Their connection grows after a factory strike, layoffs and a documentary project.",
-          "korean": "파업과 해고와 다큐멘터리가 관계를 만든다.",
-          "glossary": [
-            {
-              "korean": "파업과",
-              "roman": "pa-eop-gwa",
-              "english": "strike and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "해고와",
-              "roman": "hae-go-wa",
-              "english": "layoffs and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "다큐멘터리가",
-              "roman": "da-kyu-men-teo-ri-ga",
-              "english": "documentary",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "관계를",
-              "roman": "gwan-gye-reul",
-              "english": "relationship",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "만든다",
-              "roman": "man-deun-da",
-              "english": "creates",
-              "particle": false,
-              "suffix": "든다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The film examines envy, privilege and the ethics of filming other people’s hardship.",
-          "korean": "영화는 질투와 특권과 촬영 윤리를 살핀다.",
-          "glossary": [
-            {
-              "korean": "영화는",
-              "roman": "yeong-hwa-neun",
-              "english": "film",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "질투와",
-              "roman": "jil-tu-wa",
-              "english": "envy and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "특권과",
-              "roman": "teuk-gweon-gwa",
-              "english": "privilege and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "촬영",
-              "roman": "chwal-yeong",
-              "english": "filming",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "윤리를",
-              "roman": "yun-ri-reul",
-              "english": "ethics",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "살핀다",
-              "roman": "sal-pin-da",
-              "english": "examines",
-              "particle": false,
-              "suffix": "핀다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "South Korea selected the film for the 99th Academy Awards international feature category.",
-          "korean": "한국은 영화를 99회 오스카에 출품했다.",
-          "glossary": [
-            {
-              "korean": "한국은",
-              "roman": "Han-guk-eun",
-              "english": "South Korea",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "영화를",
-              "roman": "yeong-hwa-reul",
-              "english": "film",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "99회",
-              "roman": "gu-sip-gu-hoe",
-              "english": "99th",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오스카에",
-              "roman": "o-seu-ka-e",
-              "english": "to Oscars",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "출품했다",
-              "roman": "chul-pum-haet-da",
-              "english": "submitted",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/entertainment/movies/possible-love-movie-review-lee-chang-dongs-exquisitely-layered-study-of-covetousness/article71681055.ece",
-      "short_english": "Lee Chang-dong’s Possible Love follows two married couples from opposite economic worlds.",
-      "short_korean": "이창동의 가능한 사랑은 두 부부를 따라간다.",
-      "date": "2026-11-09",
-      "images": [
-        "images/indian/95fd7f538e11/1.jpg",
-        "images/indian/95fd7f538e11/2.jpg",
-        "images/indian/95fd7f538e11/3.jpg",
-        "images/indian/95fd7f538e11/4.jpg",
-        "images/indian/95fd7f538e11/5.jpg",
-        "images/indian/95fd7f538e11/6.jpg",
-        "images/indian/95fd7f538e11/7.jpg",
-        "images/indian/95fd7f538e11/8.jpg",
-        "images/indian/95fd7f538e11/9.jpg",
-        "images/indian/95fd7f538e11/10.jpg",
-        "images/indian/95fd7f538e11/11.jpg",
-        "images/indian/95fd7f538e11/12.jpg",
-        "images/indian/95fd7f538e11/13.jpg",
-        "images/indian/95fd7f538e11/14.jpg",
-        "images/indian/95fd7f538e11/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/95fd7f538e11/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "앨리스 황, 엔비디아 의혹의 중심",
-      "english_title": "Who is Alice Huang in the Nvidia espionage allegations?",
-      "korean_desc": "앨리스 황은 엔비디아 CEO를 염탐한 혐의를 받는다. 미국은 중국에 첨단 엔비디아 칩 수출을 제한한다. 그녀는 엔비디아 고객 메가스피드에서 일했다. 보도는 2025년 조사와 적은 공개 정보를 전한다.",
-      "english_desc": "Alice Huang is a Chinese executive accused of spying on Nvidia CEO Jensen Huang. The allegations matter because Washington restricts advanced Nvidia chip exports to China. She reportedly worked at Singapore-based Megaspeed, a major Nvidia customer. Reports say Singapore authorities questioned Alice Huang in 2025, but public details remain limited.",
-      "hook": "Alice Huang is accused of gathering intelligence for Beijing.",
-      "sticker": "What is actually known",
-      "korean_hook": "앨리스 황은 베이징 정보 수집 혐의를 받는다.",
-      "takeaway_english": "The investigation must establish what Alice Huang did, when she did it, and what evidence supports it.",
-      "takeaway_korean": "조사는 행동과 시기와 증거를 밝혀야 한다.",
-      "why_it_matters": [
-        {
-          "english": "The allegations involve restricted AI chips and U.S.-China technology competition.",
-          "korean": "의혹은 제한된 AI 칩과 미중 기술 경쟁에 관련된다."
-        },
-        {
-          "english": "The case could affect Nvidia’s business relationships and national-security scrutiny.",
-          "korean": "사건은 엔비디아의 사업 관계와 안보 조사를 바꿀 수 있다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Alice Huang",
-          "english": "She is described as a Chinese executive linked to Singapore-based Megaspeed.",
-          "korean": "그녀는 싱가포르 메가스피드의 중국인 간부로 알려졌다."
-        },
-        {
-          "label": "Jensen Huang",
-          "english": "He leads Nvidia and acknowledged an intimate relationship with Alice Huang.",
-          "korean": "그는 엔비디아 CEO이며 앨리스 황과의 관계를 인정했다."
-        },
-        {
-          "label": "Megaspeed International",
-          "english": "The data-centre company bought more than $4.8 billion in Nvidia chips over two years.",
-          "korean": "메가스피드는 2년 동안 칩을 48억 달러 넘게 샀다."
-        }
-      ],
-      "views": [
-        {
-          "label": "The New York Times and Wall Street Journal reporting",
-          "english": "U.S. officials concluded that Alice Huang targeted Jensen Huang as a spy.",
-          "korean": "미국 관리들은 앨리스 황이 황 CEO를 노렸다고 봤다."
-        },
-        {
-          "label": "Megaspeed",
-          "english": "The company said earlier reporting contained misleading information and incorrect insinuations.",
-          "korean": "메가스피드는 보도가 오해를 낳고 부정확하다고 말했다."
-        }
-      ],
-      "disagree": {
-        "english": "Public details are sparse, some profiles are unverified, and no public finding proves Nvidia secrets were transferred.",
-        "korean": "공개 정보가 적고 비밀 전달도 확인되지 않았다."
-      },
-      "reader_question_korean": "공개 증거가 적을 때 어떻게 판단해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Who is Alice Huang, Chinese executive accused of spying on Nvidia CEO?",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "Alice Huang is also known as Huang Le.",
-        "AFP said it could not verify an online profile attributed to her."
-      ],
-      "reader_question": "How should readers judge allegations when public evidence is limited?",
-      "topic_tag": "Intelligence",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Who is Alice Huang, Chinese executive accused of spying on Nvidia CEO?",
-          "date": "2026-11-09",
-          "url": "https://www.thehindu.com/news/international/who-is-alice-huang-chinese-executive-accused-of-spying-on-nvidia-ceo/article71681625.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "앨리스",
-          "roman": "Ael-li-seu",
-          "english": "Alice",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "황은",
-          "roman": "Hwang-eun",
-          "english": "Huang",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "엔비디아",
-          "roman": "en-bi-di-a",
-          "english": "Nvidia",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "CEO를",
-          "roman": "si-i-o-reul",
-          "english": "CEO",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "염탐한",
-          "roman": "yeom-tam-han",
-          "english": "spied on",
-          "particle": false,
-          "suffix": "한"
-        },
-        {
-          "korean": "혐의를",
-          "roman": "hyeom-ui-reul",
-          "english": "accusation",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "받는다",
-          "roman": "bat-neun-da",
-          "english": "receives",
-          "particle": false,
-          "suffix": "는다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Alice Huang is a Chinese executive accused of spying on Nvidia CEO Jensen Huang.",
-          "korean": "앨리스 황은 엔비디아 CEO를 염탐한 혐의를 받는다.",
-          "glossary": [
-            {
-              "korean": "앨리스",
-              "roman": "Ael-li-seu",
-              "english": "Alice",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "황은",
-              "roman": "Hwang-eun",
-              "english": "Huang",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "엔비디아",
-              "roman": "en-bi-di-a",
-              "english": "Nvidia",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "CEO를",
-              "roman": "si-i-o-reul",
-              "english": "CEO",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "염탐한",
-              "roman": "yeom-tam-han",
-              "english": "spied on",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "혐의를",
-              "roman": "hyeom-ui-reul",
-              "english": "accusation",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "받는다",
-              "roman": "bat-neun-da",
-              "english": "receives",
-              "particle": false,
-              "suffix": "는다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The allegations matter because Washington restricts advanced Nvidia chip exports to China.",
-          "korean": "미국은 중국에 첨단 엔비디아 칩 수출을 제한한다.",
-          "glossary": [
-            {
-              "korean": "미국은",
-              "roman": "mi-guk-eun",
-              "english": "United States",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "중국에",
-              "roman": "Jung-guk-e",
-              "english": "to China",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "첨단",
-              "roman": "cheom-dan",
-              "english": "advanced",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "엔비디아",
-              "roman": "en-bi-di-a",
-              "english": "Nvidia",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "칩",
-              "roman": "chip",
-              "english": "chips",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "수출을",
-              "roman": "su-chul-eul",
-              "english": "exports",
+              "korean": "인질극을",
+              "roman": "injilgeug-eul",
+              "english": "hostage drama",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "제한한다",
-              "roman": "je-han-han-da",
-              "english": "restricts",
+              "korean": "촬영할",
+              "roman": "chwaryeonghal",
+              "english": "will film",
               "particle": false,
-              "suffix": "한다"
+              "suffix": "할"
+            },
+            {
+              "korean": "예정이다",
+              "roman": "yejeong-ida",
+              "english": "plans",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/movies/john-doe-why-director-madhumita-wanted-to-move-beyond-feel-good-films/article71685307.ece",
+      "short_english": "Director Madhumita’s John Doe reaches cinemas on November 13, 2026.",
+      "short_korean": "감독 마두미타의 존 도는 2026년 11월 13일 개봉한다.",
+      "date": "2026-11-10",
+      "images": [
+        "images/indian/4580289ade71/1.jpg",
+        "images/indian/4580289ade71/2.jpg",
+        "images/indian/4580289ade71/3.jpg",
+        "images/indian/4580289ade71/4.jpg",
+        "images/indian/4580289ade71/5.jpg",
+        "images/indian/4580289ade71/6.jpg",
+        "images/indian/4580289ade71/7.jpg",
+        "images/indian/4580289ade71/8.jpg",
+        "images/indian/4580289ade71/9.jpg",
+        "images/indian/4580289ade71/10.jpg",
+        "images/indian/4580289ade71/11.jpg",
+        "images/indian/4580289ade71/12.jpg",
+        "images/indian/4580289ade71/13.jpg",
+        "images/indian/4580289ade71/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/4580289ade71/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "셰이크 하시나 귀환의 벽",
+      "english_title": "Sheikh Hasina seeks documents as Bangladesh demands extradition",
+      "korean_desc": "셰이크 하시나는 2026년 11월 9일 새 여권과 신분증을 요청했다. 그녀는 2024년 8월 5일 방글라데시를 떠난 뒤 인도에 있다. 방글라데시는 송환이나 수감자 이송 절차를 요구한다. 재판소는 2024년 진압으로 하시나에게 사형을 선고했다.",
+      "english_desc": "Sheikh Hasina sought a new passport and identity card on November 9, 2026. She has lived in India since leaving Bangladesh on August 5, 2024. Bangladesh says she must return through an extradition or prisoner-transfer process. The tribunal sentenced Hasina to death over the 2024 crackdown, according to the account.",
+      "hook": "Hasina wants to return. Bangladesh wants extradition first.",
+      "sticker": "What happens if she returns",
+      "korean_hook": "하시나는 귀환을 원한다. 방글라데시는 송환을 요구한다.",
+      "takeaway_english": "The passport request is only the first step in a larger legal and political confrontation.",
+      "takeaway_korean": "여권 요청은 더 큰 법적 정치적 충돌의 첫 단계다.",
+      "why_it_matters": [
+        {
+          "english": "The dispute affects Bangladesh’s politics, India’s diplomacy and Hasina’s legal future.",
+          "korean": "분쟁은 방글라데시 정치와 인도 외교에 영향을 준다."
+        },
+        {
+          "english": "A death sentence makes the question of return especially serious.",
+          "korean": "사형 선고는 귀환 문제를 특히 심각하게 만든다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Sheikh Hasina",
+          "english": "She requested a new passport and national identity card on November 9, 2026.",
+          "korean": "하시나는 2026년 11월 9일 새 여권과 신분증을 요청했다."
+        },
+        {
+          "label": "Bangladesh",
+          "english": "The government seeks her return under its arrangement with India.",
+          "korean": "방글라데시는 인도와의 절차에 따라 귀환을 요구한다."
+        },
+        {
+          "label": "India",
+          "english": "Hasina has remained in India since leaving Bangladesh in August 2024.",
+          "korean": "하시나는 2024년 8월부터 인도에 머물렀다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Bangladesh government",
+          "english": "Officials say Hasina must face the legal process instead of returning with new documents.",
+          "korean": "방글라데시 정부는 하시나가 법적 절차를 따라야 한다고 말한다."
+        },
+        {
+          "label": "Hasina’s side",
+          "english": "Her lawyers requested documents to make her return from India possible.",
+          "korean": "하시나 측 변호사들은 귀환을 위해 서류를 요청했다."
+        }
+      ],
+      "disagree": {
+        "english": "Human rights groups have raised fair-trial concerns about the tribunal and trials in absentia.",
+        "korean": "인권단체들은 재판과 궐석 재판의 공정성을 우려한다."
+      },
+      "reader_question_korean": "전 지도자의 귀환 전에 무엇이 가장 중요할까?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Sheikh Hasina’s return to Bangladesh: the hurdles, the risks and the politics | Explained",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Sheikh Hasina",
+            "english": "She wants to return as a political leader and reclaim the Awami League.",
+            "korean": "하시나는 정치 지도자로 돌아와 아와미연맹을 되찾고 싶어 한다."
+          },
+          {
+            "label": "Bangladesh government",
+            "english": "Bangladesh says she should return through an acceptable prisoner transfer or extradition process.",
+            "korean": "방글라데시는 수감자 이송이나 송환 절차를 요구한다."
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Hasina left Bangladesh for India on August 5, 2024.",
+        "The International Crimes Tribunal sentenced her to death."
+      ],
+      "reader_question": "What should matter most before a former leader returns to face charges?",
+      "topic_tag": "Bangladesh",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Sheikh Hasina’s return to Bangladesh: the hurdles, the risks and the politics | Explained",
+          "date": "2026-11-10",
+          "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "셰이크",
+          "roman": "syeikeu",
+          "english": "Sheikh",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "하시나는",
+          "roman": "hasina-neun",
+          "english": "Hasina",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheon-isip-yug-nyeon",
+          "english": "2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibir-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "9일",
+          "roman": "gu-il",
+          "english": "9th",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "새",
+          "roman": "sae",
+          "english": "new",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "여권과",
+          "roman": "yeogwon-gwa",
+          "english": "passport and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "신분증을",
+          "roman": "sinbunjeung-eul",
+          "english": "identity card",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "요청했다",
+          "roman": "yocheong-haet-da",
+          "english": "requested",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Sheikh Hasina sought a new passport and identity card on November 9, 2026.",
+          "korean": "셰이크 하시나는 2026년 11월 9일 새 여권과 신분증을 요청했다.",
+          "glossary": [
+            {
+              "korean": "셰이크",
+              "roman": "syeikeu",
+              "english": "Sheikh",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "하시나는",
+              "roman": "hasina-neun",
+              "english": "Hasina",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheon-isip-yug-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibir-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "9일",
+              "roman": "gu-il",
+              "english": "9th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여권과",
+              "roman": "yeogwon-gwa",
+              "english": "passport and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "신분증을",
+              "roman": "sinbunjeung-eul",
+              "english": "identity card",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "요청했다",
+              "roman": "yocheong-haet-da",
+              "english": "requested",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "She reportedly worked at Singapore-based Megaspeed, a major Nvidia customer.",
-          "korean": "그녀는 엔비디아 고객 메가스피드에서 일했다.",
+          "english": "She has lived in India since leaving Bangladesh on August 5, 2024.",
+          "korean": "그녀는 2024년 8월 5일 방글라데시를 떠난 뒤 인도에 있다.",
           "glossary": [
             {
               "korean": "그녀는",
-              "roman": "geu-nyeo-neun",
+              "roman": "geunyeo-neun",
               "english": "she",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "엔비디아",
-              "roman": "en-bi-di-a",
-              "english": "Nvidia",
+              "korean": "2024년",
+              "roman": "icheon-isip-sa-nyeon",
+              "english": "2024",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "8월",
+              "roman": "pal-wol",
+              "english": "August",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "5th",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "방글라데시를",
+              "roman": "banggeulladesi-reul",
+              "english": "Bangladesh",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "떠난",
+              "roman": "tteonan",
+              "english": "left",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "고객",
-              "roman": "go-gaek",
-              "english": "customer",
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "메가스피드에서",
-              "roman": "me-ga-seu-pi-deu-e-seo",
-              "english": "at Megaspeed",
+              "korean": "인도에",
+              "roman": "indo-e",
+              "english": "in India",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "에"
             },
             {
-              "korean": "일했다",
-              "roman": "il-haet-da",
-              "english": "worked",
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "is",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Bangladesh says she must return through an extradition or prisoner-transfer process.",
+          "korean": "방글라데시는 송환이나 수감자 이송 절차를 요구한다.",
+          "glossary": [
+            {
+              "korean": "방글라데시는",
+              "roman": "banggeulladesi-neun",
+              "english": "Bangladesh",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "송환이나",
+              "roman": "songhwan-ina",
+              "english": "extradition or",
+              "particle": false,
+              "suffix": "이나"
+            },
+            {
+              "korean": "수감자",
+              "roman": "sugamja",
+              "english": "prisoner",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이송",
+              "roman": "isong",
+              "english": "transfer",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "절차를",
+              "roman": "jeolcha-reul",
+              "english": "process",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "요구한다",
+              "roman": "yogu-handa",
+              "english": "demands",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Reports say Singapore authorities questioned Alice Huang in 2025, but public details remain limited.",
-          "korean": "보도는 2025년 조사와 적은 공개 정보를 전한다.",
+          "english": "The tribunal sentenced Hasina to death over the 2024 crackdown, according to the account.",
+          "korean": "재판소는 2024년 진압으로 하시나에게 사형을 선고했다.",
           "glossary": [
             {
-              "korean": "보도는",
-              "roman": "bo-do-neun",
-              "english": "reports",
+              "korean": "재판소는",
+              "roman": "jaepanso-neun",
+              "english": "tribunal",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "2025년",
-              "roman": "i-cheon-i-sip-o-nyeon",
-              "english": "2025",
+              "korean": "2024년",
+              "roman": "icheon-isip-sa-nyeon",
+              "english": "2024",
               "particle": false,
-              "suffix": ""
+              "suffix": "년"
             },
             {
-              "korean": "조사와",
-              "roman": "jo-sa-wa",
-              "english": "investigation and",
+              "korean": "진압으로",
+              "roman": "jinap-euro",
+              "english": "over crackdown",
               "particle": false,
-              "suffix": "와"
+              "suffix": "으로"
             },
             {
-              "korean": "적은",
-              "roman": "jeok-eun",
-              "english": "limited",
+              "korean": "하시나에게",
+              "roman": "hasina-ege",
+              "english": "to Hasina",
               "particle": false,
-              "suffix": "은"
+              "suffix": "에게"
             },
             {
-              "korean": "공개",
-              "roman": "gong-gae",
-              "english": "public",
+              "korean": "사형을",
+              "roman": "sahyeong-eul",
+              "english": "death sentence",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "정보를",
-              "roman": "jeong-bo-reul",
-              "english": "information",
+              "korean": "선고했다",
+              "roman": "seongo-haet-da",
+              "english": "sentenced",
               "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "전한다",
-              "roman": "jeon-han-da",
-              "english": "report",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/who-is-alice-huang-chinese-executive-accused-of-spying-on-nvidia-ceo/article71681625.ece",
-      "short_english": "Alice Huang is a Chinese executive accused of spying on Nvidia CEO Jensen Huang.",
-      "short_korean": "앨리스 황은 엔비디아 CEO를 염탐한 혐의를 받는다.",
-      "date": "2026-11-09",
+      "url": "https://www.thehindu.com/news/international/sheikh-hasinas-return-to-bangladesh-the-hurdles-the-risks-and-the-politics-explained/article71685349.ece",
+      "short_english": "Sheikh Hasina sought a new passport and identity card on November 9, 2026.",
+      "short_korean": "셰이크 하시나는 2026년 11월 9일 새 여권과 신분증을 요청했다.",
+      "date": "2026-11-10",
       "images": [
-        "images/indian/636a81cfb186/1.jpg",
-        "images/indian/636a81cfb186/2.jpg",
-        "images/indian/636a81cfb186/3.jpg",
-        "images/indian/636a81cfb186/4.jpg",
-        "images/indian/636a81cfb186/5.jpg",
-        "images/indian/636a81cfb186/6.jpg",
-        "images/indian/636a81cfb186/7.jpg",
-        "images/indian/636a81cfb186/8.jpg",
-        "images/indian/636a81cfb186/9.jpg",
-        "images/indian/636a81cfb186/10.jpg",
-        "images/indian/636a81cfb186/11.jpg",
-        "images/indian/636a81cfb186/12.jpg",
-        "images/indian/636a81cfb186/13.jpg",
-        "images/indian/636a81cfb186/14.jpg",
-        "images/indian/636a81cfb186/15.jpg"
+        "images/indian/a4887da31d9f/1.jpg",
+        "images/indian/a4887da31d9f/2.jpg",
+        "images/indian/a4887da31d9f/3.jpg",
+        "images/indian/a4887da31d9f/4.jpg",
+        "images/indian/a4887da31d9f/5.jpg",
+        "images/indian/a4887da31d9f/6.jpg",
+        "images/indian/a4887da31d9f/7.jpg",
+        "images/indian/a4887da31d9f/8.jpg",
+        "images/indian/a4887da31d9f/9.jpg",
+        "images/indian/a4887da31d9f/10.jpg",
+        "images/indian/a4887da31d9f/11.jpg",
+        "images/indian/a4887da31d9f/12.jpg",
+        "images/indian/a4887da31d9f/13.jpg",
+        "images/indian/a4887da31d9f/14.jpg",
+        "images/indian/a4887da31d9f/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/636a81cfb186/caption.txt"
+      "caption_file": "images/indian/a4887da31d9f/caption.txt"
     }
   ]
 }
