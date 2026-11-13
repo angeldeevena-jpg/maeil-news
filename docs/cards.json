@@ -1,1911 +1,224 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0164",
-  "generated_at": "2026-11-12T08:21:51.782Z",
+  "note": "5 new cards made, 1 kept. Cost this run about $0.0160",
+  "generated_at": "2026-11-13T07:58:42.878Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "우즈베키스탄 외교 책 한국어판 공개",
-      "english_title": "Uzbekistan brings Mirziyoyev’s foreign-policy book to Seoul",
-      "korean_desc": "탄질라 나르바예바가 2026년 11월 12일 서울에서 한국어판을 공개했다. 나르바예바는 가스와 자동차 등 120억 달러 사업을 언급했다. 한국 학자들은 번역과 공동 연구, 학생 교류를 원한다.",
-      "english_desc": "Uzbek Senate Chair Tanzila Narbayeva launched the book’s Korean edition in Seoul on November 12, 2026. Narbayeva cited proposed Korean projects worth nearly $12 billion in gas, cars, railways and airports. Korean scholars now want more translations, joint research and student exchanges.",
-      "hook": "Uzbekistan brought its foreign-policy book to Seoul.",
-      "sticker": "A new bridge to Korea",
-      "korean_hook": "우즈베키스탄이 외교 책을 서울에 소개했다",
-      "takeaway_english": "The next test is whether the book’s ideas become working projects and exchanges.",
-      "takeaway_korean": "다음 시험은 책의 구상이 실제 사업과 교류가 되는지다.",
+      "korean_title": "수능 아침 서울 영하 1도 예보",
+      "english_title": "Seoul’s Suneung Morning May Fall Below Zero",
+      "korean_desc": "목요일 서울 수능일 아침은 영하 1도로 예보됐다. 전국에 비가 온 뒤 추위가 온다. 북서쪽 찬 공기가 기온을 크게 낮춘다. 강풍과 거친 바다가 한반도 주변 배편을 방해할 수 있다. 기상청은 화요일 시험 날씨를 다시 설명한다.",
+      "english_desc": "Thursday’s Seoul Suneung morning is forecast to reach minus 1 degree Celsius. The cold follows several rainy days across the country. Northwestern cold air will sharply lower morning and daytime temperatures. Strong winds and rough seas may disrupt ferries near the peninsula. The weather agency will brief exam-day conditions again Tuesday.",
+      "hook": "Seoul’s Suneung morning may fall below zero.",
+      "sticker": "Cold exam morning",
+      "korean_hook": "서울 수능 아침 영하 예보",
+      "takeaway_english": "Students may need warm clothes and backup travel plans, but Tuesday’s briefing matters.",
+      "takeaway_korean": "학생들은 따뜻한 옷과 다른 이동 계획이 필요할 수 있다.",
       "why_it_matters": [
         {
-          "english": "Projects could affect jobs, transport, medical care and training in Uzbekistan.",
-          "korean": "사업은 우즈베키스탄의 일자리와 교통, 의료, 교육에 영향을 줄 수 있다."
+          "english": "Cold weather can make the journey to an important exam harder.",
+          "korean": "추운 날씨는 중요한 시험 이동을 어렵게 만든다."
         },
         {
-          "english": "Nearly 50,000 Uzbek citizens have already worked in South Korea since 2007.",
-          "korean": "2007년 이후 우즈베키스탄인 약 5만 명이 한국에서 일했다."
+          "english": "Ferry problems could affect students coming from islands.",
+          "korean": "배편 문제는 섬에서 오는 학생들에게 영향을 준다."
         }
       ],
       "parties": [
         {
-          "label": "Uzbekistan",
-          "english": "It wants foreign policy to support economic development and domestic reforms.",
-          "korean": "우즈베키스탄은 외교로 경제와 개혁을 돕고 싶어 한다."
+          "label": "Students",
+          "english": "They may face freezing air while traveling to the exam.",
+          "korean": "학생들은 시험장에 추운 공기를 만날 수 있다."
         },
         {
-          "label": "South Korea",
-          "english": "It is presented as a partner for investment, technology, training and health care.",
-          "korean": "한국은 투자와 기술, 교육의 협력국으로 소개됐다."
+          "label": "Korea Meteorological Administration",
+          "english": "It warned that the forecast can still change.",
+          "korean": "기상청은 예보가 바뀔 수 있다고 경고했다."
         },
         {
-          "label": "Tanzila Narbayeva",
-          "english": "The Senate chair launched the Korean edition in Seoul.",
-          "korean": "탄질라 나르바예바 상원의장이 서울에서 한국어판을 공개했다."
+          "label": "Island students",
+          "english": "They may face ferry disruptions from strong winds and rough seas.",
+          "korean": "섬 학생들은 강풍과 거친 바다를 만날 수 있다."
         }
       ],
       "views": [
         {
-          "label": "Uzbek officials",
-          "english": "They say relations with Korea can create projects, training and better market access.",
-          "korean": "우즈베키스탄 측은 한국과의 관계가 사업과 교육을 만들 수 있다고 말한다."
+          "label": "Weather officials",
+          "english": "The cold forecast matters because rain, wind and rough seas may disrupt travel.",
+          "korean": "비와 바람과 거친 바다가 이동을 방해할 수 있다."
         },
         {
-          "label": "Korean scholars",
-          "english": "They say readers need more joint research and exchanges to understand Uzbekistan better.",
-          "korean": "한국 학자들은 이해를 위해 공동 연구와 교류가 더 필요하다고 말한다."
+          "label": "Students and families",
+          "english": "They need practical travel planning, but the forecast is not final yet.",
+          "korean": "학생과 가족은 준비해야 하지만 예보는 아직 확정되지 않았다."
         }
       ],
       "disagree": {
-        "english": "Some readers may want independent evidence about how widely reforms have improved daily life.",
-        "korean": "일부 독자는 개혁이 삶을 얼마나 바꿨는지 독립적인 증거를 원할 수 있다."
+        "english": "Some may see the cold as manageable because the forecast could change before Thursday.",
+        "korean": "목요일 전 예보가 바뀌면 추위는 견딜 만할 수 있다."
       },
-      "reader_question_korean": "외교가 정말 보통 사람들의 삶을 바꿀 수 있을까요?",
+      "reader_question_korean": "시험 날 무엇을 먼저 준비해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Uzbekistan unveils Korean edition of ‘The Mirziyoyev Doctrine’",
+      "source_title": "Korea braces for first subzero Suneung morning in 6 years",
       "hook_format": "headline",
-      "body_format": "two_views",
+      "body_format": "sentences",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {
-        "views": [
-          {
-            "label": "Uzbek officials",
-            "english": "The book shows diplomacy serving reform, investment, technology and jobs.",
-            "korean": "이 책은 개혁과 일자리를 위한 외교를 보여준다."
-          },
-          {
-            "label": "Korean scholars",
-            "english": "The launch should lead to more research, translations and student exchanges.",
-            "korean": "한국 학자들은 연구와 교류 확대를 원한다."
-          }
-        ]
-      },
+      "format_data": {},
       "serious": false,
       "caption_lines": [
-        "The Korean edition was launched in Seoul on November 12, 2026.",
-        "The book covers policy since Shavkat Mirziyoyev took office in 2016."
+        "Published November 13, 2026",
+        "Suneung means South Korea’s college entrance exam.",
+        "The Korea Meteorological Administration will brief the weather again Tuesday."
       ],
-      "reader_question": "Can diplomacy really improve ordinary people’s lives?",
-      "topic_tag": "Diplomacy",
+      "reader_question": "What should exam-day planners prepare first?",
+      "topic_tag": "Weather",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "Uzbekistan unveils Korean edition of ‘The Mirziyoyev Doctrine’",
-          "date": "2026-11-12",
-          "url": "https://www.koreaherald.com/article/10935421"
+          "title": "Korea braces for first subzero Suneung morning in 6 years",
+          "date": "2026-11-13",
+          "url": "https://www.koreaherald.com/article/10936594"
         }
       ],
       "glossary": [
-        {
-          "korean": "탄질라",
-          "roman": "Tanjilla",
-          "english": "Tanzila",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "나르바예바가",
-          "roman": "Nareuba-yebaga",
-          "english": "Narbayeva",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sib-il-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "sibi-il",
-          "english": "12th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "서울에서",
-          "roman": "Seoul-eseo",
-          "english": "in Seoul",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "한국어판을",
-          "roman": "Hangug-eopan-eul",
-          "english": "Korean edition",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "공개했다",
-          "roman": "gonggae-haetda",
-          "english": "launched",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Uzbek Senate Chair Tanzila Narbayeva launched the book’s Korean edition in Seoul on November 12, 2026.",
-          "korean": "탄질라 나르바예바가 2026년 11월 12일 서울에서 한국어판을 공개했다.",
-          "glossary": [
-            {
-              "korean": "탄질라",
-              "roman": "Tanjilla",
-              "english": "Tanzila",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "나르바예바가",
-              "roman": "Nareuba-yebaga",
-              "english": "Narbayeva",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "sibi-il",
-              "english": "12th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "서울에서",
-              "roman": "Seoul-eseo",
-              "english": "in Seoul",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "한국어판을",
-              "roman": "Hangug-eopan-eul",
-              "english": "Korean edition",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "공개했다",
-              "roman": "gonggae-haetda",
-              "english": "launched",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Narbayeva cited proposed Korean projects worth nearly $12 billion in gas, cars, railways and airports.",
-          "korean": "나르바예바는 가스와 자동차 등 120억 달러 사업을 언급했다.",
-          "glossary": [
-            {
-              "korean": "나르바예바는",
-              "roman": "Nareuba-yebaneun",
-              "english": "Narbayeva",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "가스와",
-              "roman": "gaseu-wa",
-              "english": "gas and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "자동차",
-              "roman": "jadongcha",
-              "english": "cars",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "등",
-              "roman": "deung",
-              "english": "and others",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "120억",
-              "roman": "baeg-isip-eog",
-              "english": "12 billion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "달러",
-              "roman": "dalleo",
-              "english": "dollars",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사업을",
-              "roman": "sa-eob-eul",
-              "english": "projects",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "언급했다",
-              "roman": "eongeup-haetda",
-              "english": "mentioned",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Korean scholars now want more translations, joint research and student exchanges.",
-          "korean": "한국 학자들은 번역과 공동 연구, 학생 교류를 원한다.",
-          "glossary": [
-            {
-              "korean": "한국",
-              "roman": "Hangug",
-              "english": "Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "학자들은",
-              "roman": "hagjadeul-eun",
-              "english": "scholars",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "번역과",
-              "roman": "beonyeog-gwa",
-              "english": "translations and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "공동",
-              "roman": "gongdong",
-              "english": "joint",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "연구,",
-              "roman": "yeongu",
-              "english": "research",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "학생",
-              "roman": "haksaeng",
-              "english": "student",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "교류를",
-              "roman": "gyoryu-reul",
-              "english": "exchanges",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "원한다",
-              "roman": "wonhanda",
-              "english": "want",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10935421",
-      "short_english": "Uzbek Senate Chair Tanzila Narbayeva launched the book’s Korean edition in Seoul on November 12, 2026.",
-      "short_korean": "탄질라 나르바예바가 2026년 11월 12일 서울에서 한국어판을 공개했다.",
-      "date": "2026-11-12",
-      "images": [
-        "images/korean/237d49c0c65d/1.jpg",
-        "images/korean/237d49c0c65d/2.jpg",
-        "images/korean/237d49c0c65d/3.jpg",
-        "images/korean/237d49c0c65d/4.jpg",
-        "images/korean/237d49c0c65d/5.jpg",
-        "images/korean/237d49c0c65d/6.jpg",
-        "images/korean/237d49c0c65d/7.jpg",
-        "images/korean/237d49c0c65d/8.jpg",
-        "images/korean/237d49c0c65d/9.jpg",
-        "images/korean/237d49c0c65d/10.jpg",
-        "images/korean/237d49c0c65d/11.jpg",
-        "images/korean/237d49c0c65d/12.jpg",
-        "images/korean/237d49c0c65d/13.jpg",
-        "images/korean/237d49c0c65d/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/237d49c0c65d/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "엔비디아 위험에 서울 증시 하락",
-      "english_title": "Nvidia turmoil ends Seoul stocks’ two-day rally",
-      "korean_desc": "한국 주식은 목요일 0.61퍼센트 하락해 이틀 상승을 끝냈다. 엔비디아 이사회가 젠슨 황을 내보낼 수 있다는 보도가 불안을 키웠다. 네이버는 6.43퍼센트, SK하이닉스는 1.8퍼센트 하락했다. 삼성전자는 0.97퍼센트 올라 시장이 모두 같지는 않았다.",
-      "english_desc": "South Korean shares fell 0.61 percent on Thursday, ending a two-day rally. Reports said Nvidia’s board might remove CEO Jensen Huang, raising uncertainty for Korean chip investors. Naver fell 6.43 percent, while SK hynix dropped 1.8 percent. Samsung Electronics rose 0.97 percent, showing the market did not move uniformly.",
-      "hook": "Seoul stocks fell after two days of gains.",
-      "sticker": "A nervous day in Seoul",
-      "korean_hook": "서울 증시가 이틀 상승 뒤 하락했다",
-      "takeaway_english": "Investors will watch Nvidia’s board and Korean semiconductor shares for clearer signals.",
-      "takeaway_korean": "투자자들은 엔비디아 이사회와 한국 반도체주를 지켜볼 것이다.",
-      "why_it_matters": [
-        {
-          "english": "Korean chip companies are closely linked to global AI and semiconductor demand.",
-          "korean": "한국 반도체 기업은 세계 AI와 반도체 수요에 밀접하게 연결돼 있다."
-        },
-        {
-          "english": "The market move changes the value of savings and investments tied to Korean shares.",
-          "korean": "시장 움직임은 한국 주식과 연결된 저축과 투자 가치에 영향을 준다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "KOSPI",
-          "english": "The index closed at 5,342.73, down 0.61 percent.",
-          "korean": "코스피는 5,342.73으로 0.61퍼센트 하락했다."
-        },
-        {
-          "label": "Nvidia",
-          "english": "Reports about CEO Jensen Huang increased uncertainty for Korean chip investors.",
-          "korean": "젠슨 황 관련 보도가 한국 반도체 투자자의 불안을 키웠다."
-        },
-        {
-          "label": "Naver",
-          "english": "Naver fell 6.43 percent, while Nvidia is its third-largest shareholder.",
-          "korean": "엔비디아가 3대 주주인 네이버는 6.43퍼센트 하락했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Daishin Securities analyst Lee Kyoung-min",
-          "english": "The Nvidia CEO controversy hurt the KOSPI, while some investors also took profits.",
-          "korean": "엔비디아 논란과 차익 실현이 코스피를 눌렀다고 본다."
-        },
-        {
-          "label": "Market evidence",
-          "english": "Samsung Electronics rose, showing that not every Korean technology share moved lower.",
-          "korean": "삼성전자는 올라 모든 기술주가 하락한 것은 아니었다."
-        }
-      ],
-      "disagree": {
-        "english": "Others may argue that profit-taking and light trading mattered as much as Nvidia’s leadership risk.",
-        "korean": "다른 사람들은 차익 실현과 적은 거래도 같은 만큼 중요했다고 볼 수 있다."
-      },
-      "reader_question_korean": "한 임원의 논란이 다른 나라 증시를 움직여야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Seoul shares snap 2-day rally amid escalating Nvidia risks",
-      "hook_format": "number",
-      "body_format": "whats_missing",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "0.61 percent",
-          "label": "KOSPI’s daily fall",
-          "korean_label": "코스피 하루 하락률"
-        },
-        "missing": [
-          {
-            "label": "",
-            "english": "The coverage gives no confirmed board decision about Jensen Huang’s position.",
-            "korean": "보도에는 젠슨 황의 거취에 대한 확정된 이사회 결정이 없다."
-          },
-          {
-            "label": "",
-            "english": "It does not show how long Korean shares might remain sensitive to Nvidia news.",
-            "korean": "한국 주식이 엔비디아 뉴스에 얼마나 민감할지는 나오지 않는다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "The KOSPI closed at 5,342.73 on November 12, 2026.",
-        "Foreign investors bought a net 370.4 billion won."
-      ],
-      "reader_question": "Should one executive’s scandal move another country’s stock market?",
-      "topic_tag": "Markets",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Seoul shares snap 2-day rally amid escalating Nvidia risks",
-          "date": "2026-11-12",
-          "url": "https://www.koreaherald.com/article/10935465"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "한국",
-          "roman": "Hangug",
-          "english": "South Korean",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "주식은",
-          "roman": "jusig-eun",
-          "english": "shares",
-          "particle": false,
-          "suffix": "은"
-        },
         {
           "korean": "목요일",
-          "roman": "mog-yoil",
+          "roman": "mok-yo-il",
           "english": "Thursday",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "0.61퍼센트",
-          "roman": "yeong-jeom-yug-il-peosenteu",
-          "english": "0.61 percent",
+          "korean": "서울",
+          "roman": "seo-ul",
+          "english": "Seoul",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "하락해",
-          "roman": "harag-hae",
-          "english": "fell and",
-          "particle": false,
-          "suffix": "해"
-        },
-        {
-          "korean": "이틀",
-          "roman": "iteul",
-          "english": "two days",
+          "korean": "수능일",
+          "roman": "su-neung-il",
+          "english": "Suneung day",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "상승을",
-          "roman": "sangseung-eul",
-          "english": "rally",
+          "korean": "아침은",
+          "roman": "a-chim-eun",
+          "english": "morning",
           "particle": false,
-          "suffix": "을"
+          "suffix": "은"
         },
         {
-          "korean": "끝냈다",
-          "roman": "kkeutnaetda",
-          "english": "ended",
+          "korean": "영하",
+          "roman": "yeong-ha",
+          "english": "below zero",
           "particle": false,
-          "suffix": "냈다"
+          "suffix": ""
+        },
+        {
+          "korean": "1도로",
+          "roman": "il-do-ro",
+          "english": "at minus one degree",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "예보됐다",
+          "roman": "ye-bo-dwaet-da",
+          "english": "was forecast",
+          "particle": false,
+          "suffix": "됐다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "South Korean shares fell 0.61 percent on Thursday, ending a two-day rally.",
-          "korean": "한국 주식은 목요일 0.61퍼센트 하락해 이틀 상승을 끝냈다.",
+          "english": "Thursday’s Seoul Suneung morning is forecast to reach minus 1 degree Celsius.",
+          "korean": "목요일 서울 수능일 아침은 영하 1도로 예보됐다.",
           "glossary": [
             {
-              "korean": "한국",
-              "roman": "Hangug",
-              "english": "South Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주식은",
-              "roman": "jusig-eun",
-              "english": "shares",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
               "korean": "목요일",
-              "roman": "mog-yoil",
+              "roman": "mok-yo-il",
               "english": "Thursday",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "0.61퍼센트",
-              "roman": "yeong-jeom-yug-il-peosenteu",
-              "english": "0.61 percent",
+              "korean": "서울",
+              "roman": "seo-ul",
+              "english": "Seoul",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "하락해",
-              "roman": "harag-hae",
-              "english": "fell and",
-              "particle": false,
-              "suffix": "해"
-            },
-            {
-              "korean": "이틀",
-              "roman": "iteul",
-              "english": "two days",
+              "korean": "수능일",
+              "roman": "su-neung-il",
+              "english": "Suneung day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "상승을",
-              "roman": "sangseung-eul",
-              "english": "rally",
+              "korean": "아침은",
+              "roman": "a-chim-eun",
+              "english": "morning",
               "particle": false,
-              "suffix": "을"
+              "suffix": "은"
             },
             {
-              "korean": "끝냈다",
-              "roman": "kkeutnaetda",
-              "english": "ended",
-              "particle": false,
-              "suffix": "냈다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Reports said Nvidia’s board might remove CEO Jensen Huang, raising uncertainty for Korean chip investors.",
-          "korean": "엔비디아 이사회가 젠슨 황을 내보낼 수 있다는 보도가 불안을 키웠다.",
-          "glossary": [
-            {
-              "korean": "엔비디아",
-              "roman": "Enbidia",
-              "english": "Nvidia",
+              "korean": "영하",
+              "roman": "yeong-ha",
+              "english": "below zero",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "이사회가",
-              "roman": "isahoe-ga",
-              "english": "board",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "젠슨",
-              "roman": "Jenseun",
-              "english": "Jensen",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "황을",
-              "roman": "Hwang-eul",
-              "english": "Huang",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "내보낼",
-              "roman": "naebonael",
-              "english": "remove",
-              "particle": false,
-              "suffix": "낼"
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "could",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있다는",
-              "roman": "itdaneun",
-              "english": "that it might",
-              "particle": false,
-              "suffix": "다는"
-            },
-            {
-              "korean": "보도가",
-              "roman": "bodo-ga",
-              "english": "reports",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "불안을",
-              "roman": "buran-eul",
-              "english": "uncertainty",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "키웠다",
-              "roman": "kiwotda",
-              "english": "raised",
-              "particle": false,
-              "suffix": "웠다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Naver fell 6.43 percent, while SK hynix dropped 1.8 percent.",
-          "korean": "네이버는 6.43퍼센트, SK하이닉스는 1.8퍼센트 하락했다.",
-          "glossary": [
-            {
-              "korean": "네이버는",
-              "roman": "Neibeo-neun",
-              "english": "Naver",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "6.43퍼센트,",
-              "roman": "yug-jeom-sa-sam-peosenteu",
-              "english": "6.43 percent",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "SK하이닉스는",
-              "roman": "SK-hainigseu-neun",
-              "english": "SK hynix",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "1.8퍼센트",
-              "roman": "il-jeom-pal-peosenteu",
-              "english": "1.8 percent",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "하락했다",
-              "roman": "harag-haetda",
-              "english": "fell",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "Samsung Electronics rose 0.97 percent, showing the market did not move uniformly.",
-          "korean": "삼성전자는 0.97퍼센트 올라 시장이 모두 같지는 않았다.",
-          "glossary": [
-            {
-              "korean": "삼성전자는",
-              "roman": "Samseongjeonja-neun",
-              "english": "Samsung Electronics",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "0.97퍼센트",
-              "roman": "yeong-jeom-gu-chil-peosenteu",
-              "english": "0.97 percent",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "올라",
-              "roman": "olla",
-              "english": "rose",
-              "particle": false,
-              "suffix": "라"
-            },
-            {
-              "korean": "시장이",
-              "roman": "sijang-i",
-              "english": "the market",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "모두",
-              "roman": "modu",
-              "english": "uniformly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "같지는",
-              "roman": "gatjineun",
-              "english": "was not all alike",
-              "particle": false,
-              "suffix": "지는"
-            },
-            {
-              "korean": "않았다",
-              "roman": "anatda",
-              "english": "did not",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10935465",
-      "short_english": "South Korean shares fell 0.61 percent on Thursday, ending a two-day rally.",
-      "short_korean": "한국 주식은 목요일 0.61퍼센트 하락해 이틀 상승을 끝냈다.",
-      "date": "2026-11-12",
-      "images": [
-        "images/korean/ed79c44aff71/1.jpg",
-        "images/korean/ed79c44aff71/2.jpg",
-        "images/korean/ed79c44aff71/3.jpg",
-        "images/korean/ed79c44aff71/4.jpg",
-        "images/korean/ed79c44aff71/5.jpg",
-        "images/korean/ed79c44aff71/6.jpg",
-        "images/korean/ed79c44aff71/7.jpg",
-        "images/korean/ed79c44aff71/8.jpg",
-        "images/korean/ed79c44aff71/9.jpg",
-        "images/korean/ed79c44aff71/10.jpg",
-        "images/korean/ed79c44aff71/11.jpg",
-        "images/korean/ed79c44aff71/12.jpg",
-        "images/korean/ed79c44aff71/13.jpg",
-        "images/korean/ed79c44aff71/14.jpg",
-        "images/korean/ed79c44aff71/15.jpg",
-        "images/korean/ed79c44aff71/16.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/ed79c44aff71/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "임윤찬과 이한누리의 같은 주간",
-      "english_title": "Lim Yunchan wins Apple’s top album as Lee Hanurij sweeps Geneva",
-      "korean_desc": "피아니스트 임윤찬과 작곡가 이한누리가 이번 주 국제상을 받았다. 이한누리는 Stuff #1로 제네바 1위와 특별상 6개를 받았다. 몇 시간 뒤 애플은 임윤찬의 골드베르크 음반을 올해의 음반으로 골랐다. 두 사람의 성과는 한국 클래식과 새 작품에 관객을 더할 수 있다.",
-      "english_desc": "Pianist Lim Yunchan and composer Lee Hanurij won major international honors this week. Lee won Geneva’s composition prize with Stuff #1 and collected all six special awards. Hours later, Apple Music Classical named Lim’s live Goldberg Variations its 2026 album of the year. Their achievements may bring more listeners to Korean classical music and new compositions.",
-      "hook": "Two young Korean musicians won major honors in one week.",
-      "sticker": "Classical music has a big week",
-      "korean_hook": "한국 젊은 음악가 둘이 한 주에 수상했다",
-      "takeaway_english": "One friendship now has two very different stages: a piano recording and a new orchestral work.",
-      "takeaway_korean": "한 우정이 이제 피아노 음반과 새 관현악곡으로 빛났다.",
-      "why_it_matters": [
-        {
-          "english": "Their success gives Korean classical music more international attention.",
-          "korean": "두 사람의 성공은 한국 클래식 음악에 국제적 관심을 더한다."
-        },
-        {
-          "english": "Their work shows performance and composition can support each other.",
-          "korean": "두 사람의 활동은 연주와 작곡이 서로 도울 수 있음을 보여준다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Lim Yunchan",
-          "english": "His Carnegie Hall recording reached No. 1 for 16 weeks.",
-          "korean": "임윤찬의 카네기홀 음반은 16주 1위를 했다."
-        },
-        {
-          "label": "Lee Hanurij",
-          "english": "The 20-year-old composer won Geneva’s top prize with Stuff #1.",
-          "korean": "20세 작곡가 이한누리는 Stuff #1로 제네바 1위를 했다."
-        },
-        {
-          "label": "Their friendship",
-          "english": "Lee’s music has appeared in Lim’s performances since they were teenagers.",
-          "korean": "두 사람은 십대 때부터 함께 음악을 만들고 연주했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Apple Music Classical",
-          "english": "Editors selected Lim’s album from recordings released during 2026.",
-          "korean": "애플 편집자들은 2026년 음반 중 임윤찬의 음반을 골랐다."
-        },
-        {
-          "label": "Geneva Competition",
-          "english": "The competition gave Lee a collaborative place to develop new composition.",
-          "korean": "제네바 콩쿠르는 이한누리에게 새 작품을 발전시킬 무대를 줬다."
-        }
-      ],
-      "disagree": {
-        "english": "Awards measure different things, so neither prize alone proves who is the stronger musician.",
-        "korean": "상은 서로 다른 것을 재므로 어느 상도 음악가의 우열을 증명하지 않는다."
-      },
-      "reader_question_korean": "전문가 평가와 큰 관객 중 무엇이 더 중요할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 2026"
-      ],
-      "source_title": "Lim Yunchan wins Apple Music’s album of the year while his best friend Lee Hanurij sweeps Geneva",
-      "hook_format": "headline",
-      "body_format": "who_speaks",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "people": [
-          {
-            "label": "Lim Yunchan",
-            "english": "His live Goldberg Variations recording won Apple Music Classical’s 2026 album award.",
-            "korean": "그의 골드베르크 변주곡 실황 음반이 애플상을 받았다."
-          },
-          {
-            "label": "Lee Hanurij",
-            "english": "His orchestral work Stuff #1 won Geneva’s composition prize and six special awards.",
-            "korean": "그의 관현악곡은 제네바 1위와 특별상 6개를 받았다."
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Lee won in Geneva on November 11, 2026, local time.",
-        "Lim’s album was released by Decca Classics in February."
-      ],
-      "reader_question": "Which matters more: expert judgment or a large audience?",
-      "topic_tag": "Music",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Lim Yunchan wins Apple Music’s album of the year while his best friend Lee Hanurij sweeps Geneva",
-          "date": "2026-11-12",
-          "url": "https://www.koreaherald.com/article/10935492"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "피아니스트",
-          "roman": "pianiseuteu",
-          "english": "pianist",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "임윤찬과",
-          "roman": "Im-yunchan-gwa",
-          "english": "Lim Yunchan and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "작곡가",
-          "roman": "jaggogga",
-          "english": "composer",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "이한누리가",
-          "roman": "I-hannuri-ga",
-          "english": "Lee Hanurij",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "이번",
-          "roman": "ibeon",
-          "english": "this",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "주",
-          "roman": "ju",
-          "english": "week",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "국제상을",
-          "roman": "gugje-sang-eul",
-          "english": "international honors",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "받았다",
-          "roman": "badatda",
-          "english": "won",
-          "particle": false,
-          "suffix": "았다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Pianist Lim Yunchan and composer Lee Hanurij won major international honors this week.",
-          "korean": "피아니스트 임윤찬과 작곡가 이한누리가 이번 주 국제상을 받았다.",
-          "glossary": [
-            {
-              "korean": "피아니스트",
-              "roman": "pianiseuteu",
-              "english": "pianist",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "임윤찬과",
-              "roman": "Im-yunchan-gwa",
-              "english": "Lim Yunchan and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "작곡가",
-              "roman": "jaggogga",
-              "english": "composer",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "이한누리가",
-              "roman": "I-hannuri-ga",
-              "english": "Lee Hanurij",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "이번",
-              "roman": "ibeon",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "주",
-              "roman": "ju",
-              "english": "week",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "국제상을",
-              "roman": "gugje-sang-eul",
-              "english": "international honors",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "받았다",
-              "roman": "badatda",
-              "english": "won",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "Lee won Geneva’s composition prize with Stuff #1 and collected all six special awards.",
-          "korean": "이한누리는 Stuff #1로 제네바 1위와 특별상 6개를 받았다.",
-          "glossary": [
-            {
-              "korean": "이한누리는",
-              "roman": "I-hannuri-neun",
-              "english": "Lee Hanurij",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "Stuff",
-              "roman": "Stuff",
-              "english": "Stuff",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "#1로",
-              "roman": "sya-il-ro",
-              "english": "with No. 1",
+              "korean": "1도로",
+              "roman": "il-do-ro",
+              "english": "at minus one degree",
               "particle": false,
               "suffix": "로"
             },
             {
-              "korean": "제네바",
-              "roman": "Jeneba",
-              "english": "Geneva",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "1위와",
-              "roman": "il-wi-wa",
-              "english": "first place and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "특별상",
-              "roman": "teugbyeol-sang",
-              "english": "special awards",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "6개를",
-              "roman": "yeos-seot-gae-reul",
-              "english": "six",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "받았다",
-              "roman": "badatda",
-              "english": "received",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Hours later, Apple Music Classical named Lim’s live Goldberg Variations its 2026 album of the year.",
-          "korean": "몇 시간 뒤 애플은 임윤찬의 골드베르크 음반을 올해의 음반으로 골랐다.",
-          "glossary": [
-            {
-              "korean": "몇",
-              "roman": "myeot",
-              "english": "several",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시간",
-              "roman": "sigan",
-              "english": "hours",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "later",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "애플은",
-              "roman": "Aepeul-eun",
-              "english": "Apple",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "임윤찬의",
-              "roman": "Im-yunchan-ui",
-              "english": "Lim’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "골드베르크",
-              "roman": "goldeubereukeu",
-              "english": "Goldberg",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "음반을",
-              "roman": "eumban-eul",
-              "english": "album",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "올해의",
-              "roman": "olhae-ui",
-              "english": "of the year",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "음반으로",
-              "roman": "eumban-euro",
-              "english": "as album",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "골랐다",
-              "roman": "gollatda",
-              "english": "selected",
-              "particle": false,
-              "suffix": "랐다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Their achievements may bring more listeners to Korean classical music and new compositions.",
-          "korean": "두 사람의 성과는 한국 클래식과 새 작품에 관객을 더할 수 있다.",
-          "glossary": [
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사람의",
-              "roman": "saram-ui",
-              "english": "people’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "성과는",
-              "roman": "seonggwa-neun",
-              "english": "achievements",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "한국",
-              "roman": "Hangug",
-              "english": "Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "클래식과",
-              "roman": "keullaesig-gwa",
-              "english": "classical music and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "새",
-              "roman": "sae",
-              "english": "new",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "작품에",
-              "roman": "jagpum-e",
-              "english": "to works",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "관객을",
-              "roman": "gwangaeg-eul",
-              "english": "audiences",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "더할",
-              "roman": "deohal",
-              "english": "add",
-              "particle": false,
-              "suffix": "할"
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "can",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "있다",
-              "roman": "itda",
-              "english": "may",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10935492",
-      "short_english": "Pianist Lim Yunchan and composer Lee Hanurij won major international honors this week.",
-      "short_korean": "피아니스트 임윤찬과 작곡가 이한누리가 이번 주 국제상을 받았다.",
-      "date": "2026-11-12",
-      "images": [
-        "images/korean/a825d93754ae/1.jpg",
-        "images/korean/a825d93754ae/2.jpg",
-        "images/korean/a825d93754ae/3.jpg",
-        "images/korean/a825d93754ae/4.jpg",
-        "images/korean/a825d93754ae/5.jpg",
-        "images/korean/a825d93754ae/6.jpg",
-        "images/korean/a825d93754ae/7.jpg",
-        "images/korean/a825d93754ae/8.jpg",
-        "images/korean/a825d93754ae/9.jpg",
-        "images/korean/a825d93754ae/10.jpg",
-        "images/korean/a825d93754ae/11.jpg",
-        "images/korean/a825d93754ae/12.jpg",
-        "images/korean/a825d93754ae/13.jpg",
-        "images/korean/a825d93754ae/14.jpg",
-        "images/korean/a825d93754ae/15.jpg",
-        "images/korean/a825d93754ae/16.jpg",
-        "images/korean/a825d93754ae/17.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/a825d93754ae/caption.txt"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "손흥민과 동료들 불화설 부인",
-      "english_title": "Son and teammates deny quitting threat after Korea squad dispute",
-      "korean_desc": "한국 선수 5명이 2026년 11월 12일 도하에서 불화를 설명했다. 손흥민 등 5명은 공동 성명에 서명했다. 이들은 요구를 위해 은퇴를 조건으로 삼지 않았다고 부인했다. 5명 모두 사우디아라비아와 카타르전에 선발됐다.",
-      "english_desc": "Five South Korean players addressed squad tensions in Doha on November 12, 2026. Son Heung-min, Lee Jae-sung, Hwang Hee-chan, Hwang In-beom and Kim Min-jae signed one statement. They denied that anyone made retirement a condition for pressing demands. All five were selected for friendlies against Saudi Arabia and Qatar.",
-      "hook": "Five players denied threatening to quit South Korea’s team.",
-      "sticker": "What the players clarified",
-      "korean_hook": "선수 5명이 대표팀 탈퇴 협박을 부인했다",
-      "takeaway_english": "The real answer will come from communication and performances, not only a joint statement.",
-      "takeaway_korean": "진짜 답은 공동 성명보다 대화와 경기력에서 나올 것이다.",
-      "why_it_matters": [
-        {
-          "english": "Their cooperation affects preparation for the next generation of Korean players.",
-          "korean": "이들의 협력은 다음 세대 한국 선수들의 준비에도 영향을 준다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Son Heung-min",
-          "english": "The captain joined the statement and denied a retirement threat.",
-          "korean": "주장 손흥민은 성명에 참여해 탈퇴 압박을 부인했다."
-        },
-        {
-          "label": "Five players",
-          "english": "They said their concerns were about improving the national team, not personal divisions.",
-          "korean": "5명은 갈등이 아니라 대표팀 개선이 문제였다고 말했다."
-        },
-        {
-          "label": "Robert Moreno",
-          "english": "The interim coach spoke with the players and selected them for two friendlies.",
-          "korean": "로베르트 모레노 감독은 선수들과 대화하고 모두 선발했다."
-        }
-      ],
-      "views": [
-        {
-          "label": "The five players",
-          "english": "They say the controversy came from shared concerns about team preparation and management.",
-          "korean": "5명은 논란이 팀 준비와 운영에 대한 공통 걱정에서 왔다고 말한다."
-        },
-        {
-          "label": "Earlier reports",
-          "english": "Earlier reports linked the tension to captaincy and possible retirement discussions.",
-          "korean": "이전 보도는 긴장을 주장직과 은퇴 논의에 연결했다."
-        }
-      ],
-      "disagree": {
-        "english": "The public still cannot independently verify every private conversation inside the squad.",
-        "korean": "대중은 대표팀 내부의 모든 대화를 독립적으로 확인할 수 없다."
-      },
-      "reader_question_korean": "공개된 소문 뒤 팀은 어떻게 신뢰를 회복해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Son Heung-min and teammates address squad rift, deny threatening to quit",
-      "hook_format": "headline",
-      "body_format": "before_after",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "before": {
-          "label": "",
-          "english": "Reports described tension between Son’s older group and three players born in 1996.",
-          "korean": "보도는 손흥민의 선배 그룹과 1996년생 세 선수의 긴장을 전했다."
-        },
-        "after": {
-          "label": "",
-          "english": "The five players now say they share one goal and will work together.",
-          "korean": "5명은 이제 같은 목표를 갖고 함께 뛰겠다고 말했다."
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "The statement was issued in Doha on November 12, 2026.",
-        "South Korea was due to face Saudi Arabia on November 13."
-      ],
-      "reader_question": "How should a team rebuild trust after public rumors?",
-      "topic_tag": "Soccer",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Son Heung-min and teammates address squad rift, deny threatening to quit",
-          "date": "2026-11-12",
-          "url": "https://www.koreaherald.com/article/10935245"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "한국",
-          "roman": "Hangug",
-          "english": "South Korean",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "선수",
-          "roman": "seonsu",
-          "english": "players",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "5명이",
-          "roman": "daseot-myeong-i",
-          "english": "five",
-          "particle": false,
-          "suffix": "이"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sib-il-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "sibi-il",
-          "english": "12th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "도하에서",
-          "roman": "Doha-eseo",
-          "english": "in Doha",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "불화를",
-          "roman": "bulhwa-reul",
-          "english": "tensions",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "설명했다",
-          "roman": "seolmyeong-haetda",
-          "english": "addressed",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Five South Korean players addressed squad tensions in Doha on November 12, 2026.",
-          "korean": "한국 선수 5명이 2026년 11월 12일 도하에서 불화를 설명했다.",
-          "glossary": [
-            {
-              "korean": "한국",
-              "roman": "Hangug",
-              "english": "South Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "선수",
-              "roman": "seonsu",
-              "english": "players",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5명이",
-              "roman": "daseot-myeong-i",
-              "english": "five",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "sibi-il",
-              "english": "12th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "도하에서",
-              "roman": "Doha-eseo",
-              "english": "in Doha",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "불화를",
-              "roman": "bulhwa-reul",
-              "english": "tensions",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "설명했다",
-              "roman": "seolmyeong-haetda",
-              "english": "addressed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Son Heung-min, Lee Jae-sung, Hwang Hee-chan, Hwang In-beom and Kim Min-jae signed one statement.",
-          "korean": "손흥민 등 5명은 공동 성명에 서명했다.",
-          "glossary": [
-            {
-              "korean": "손흥민",
-              "roman": "Son-heungmin",
-              "english": "Son Heung-min",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "등",
-              "roman": "deung",
-              "english": "and others",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "5명은",
-              "roman": "daseot-myeong-eun",
-              "english": "five people",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "공동",
-              "roman": "gongdong",
-              "english": "joint",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "성명에",
-              "roman": "seongmyeong-e",
-              "english": "statement",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "서명했다",
-              "roman": "seomyeong-haetda",
-              "english": "signed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "They denied that anyone made retirement a condition for pressing demands.",
-          "korean": "이들은 요구를 위해 은퇴를 조건으로 삼지 않았다고 부인했다.",
-          "glossary": [
-            {
-              "korean": "이들은",
-              "roman": "ideul-eun",
-              "english": "they",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "요구를",
-              "roman": "yogu-reul",
-              "english": "demands",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "위해",
-              "roman": "wihae",
-              "english": "for",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "은퇴를",
-              "roman": "euntoe-reul",
-              "english": "retirement",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "조건으로",
-              "roman": "jogeon-euro",
-              "english": "as a condition",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "삼지",
-              "roman": "samji",
-              "english": "make",
-              "particle": false,
-              "suffix": "지"
-            },
-            {
-              "korean": "않았다고",
-              "roman": "anatdago",
-              "english": "did not",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "부인했다",
-              "roman": "bu-in-haetda",
-              "english": "denied",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "All five were selected for friendlies against Saudi Arabia and Qatar.",
-          "korean": "5명 모두 사우디아라비아와 카타르전에 선발됐다.",
-          "glossary": [
-            {
-              "korean": "5명",
-              "roman": "daseot-myeong",
-              "english": "five players",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "모두",
-              "roman": "modu",
-              "english": "all",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "사우디아라비아와",
-              "roman": "Saudiarabia-wa",
-              "english": "Saudi Arabia and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "카타르전에",
-              "roman": "Katareu-jeon-e",
-              "english": "against Qatar",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "선발됐다",
-              "roman": "seonbal-dwaetda",
-              "english": "were selected",
+              "korean": "예보됐다",
+              "roman": "ye-bo-dwaet-da",
+              "english": "was forecast",
               "particle": false,
               "suffix": "됐다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10935245",
-      "short_english": "Five South Korean players addressed squad tensions in Doha on November 12, 2026.",
-      "short_korean": "한국 선수 5명이 2026년 11월 12일 도하에서 불화를 설명했다.",
-      "date": "2026-11-12",
-      "images": [
-        "images/korean/2fe134c8e5a4/1.jpg",
-        "images/korean/2fe134c8e5a4/2.jpg",
-        "images/korean/2fe134c8e5a4/3.jpg",
-        "images/korean/2fe134c8e5a4/4.jpg",
-        "images/korean/2fe134c8e5a4/5.jpg",
-        "images/korean/2fe134c8e5a4/6.jpg",
-        "images/korean/2fe134c8e5a4/7.jpg",
-        "images/korean/2fe134c8e5a4/8.jpg",
-        "images/korean/2fe134c8e5a4/9.jpg",
-        "images/korean/2fe134c8e5a4/10.jpg",
-        "images/korean/2fe134c8e5a4/11.jpg",
-        "images/korean/2fe134c8e5a4/12.jpg",
-        "images/korean/2fe134c8e5a4/13.jpg",
-        "images/korean/2fe134c8e5a4/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/2fe134c8e5a4/caption.txt"
-    },
-    {
-      "category": "Entertainment",
-      "korean_title": "Lngshot, 스포티파이 레이더 한국 대표",
-      "english_title": "Lngshot joins Spotify’s Radar Korea after 500 million streams",
-      "korean_desc": "스포티파이는 2026년 11월 12일 4인조 Lngshot을 레이더에 선정했다. 그룹은 1월 데뷔 뒤 R&B와 힙합 음악으로 주목받았다. 스포티파이는 Lngshot이 누적 스트리밍 5억 회를 넘었다고 말했다.",
-      "english_desc": "Spotify selected four-member boy group Lngshot for its Radar Korea program on November 12, 2026. The group has attracted attention with R&B and hip-hop sounds since debuting in January. Spotify says Lngshot has passed 500 million cumulative streams and released S.W.I.S.H.",
-      "hook": "Lngshot joined Spotify’s emerging-artist program.",
-      "sticker": "A new K-pop signal",
-      "korean_hook": "Lngshot이 스포티파이 신인 프로그램에 합류했다",
-      "takeaway_english": "Radar gives Lngshot a bigger microphone; the music must keep the audience listening.",
-      "takeaway_korean": "레이더는 더 큰 무대를 주지만 음악이 팬을 붙잡아야 한다.",
-      "why_it_matters": [
-        {
-          "english": "Listeners outside South Korea will see Lngshot on Spotify’s global playlist.",
-          "korean": "한국 밖의 청취자도 스포티파이 글로벌 플레이리스트에서 Lngshot을 만난다."
-        },
-        {
-          "english": "The group’s rise shows how streaming platforms shape new K-pop careers.",
-          "korean": "그룹의 성장은 스트리밍 플랫폼이 새 K팝 경력을 만드는 방식을 보여준다."
-        }
-      ],
-      "parties": [
-        {
-          "label": "Lngshot",
-          "english": "The four-member group received Spotify promotion in Korea and globally.",
-          "korean": "4인조 Lngshot은 한국과 세계에서 스포티파이 홍보를 받는다."
-        },
-        {
-          "label": "Spotify",
-          "english": "Its Radar program supports emerging artists and connects them with listeners.",
-          "korean": "스포티파이 레이더는 신인 음악가와 팬을 연결한다."
-        },
-        {
-          "label": "Jay Park",
-          "english": "Lngshot is the first K-pop act launched by his agency More Vision.",
-          "korean": "Lngshot은 박재범의 회사가 만든 첫 K팝 그룹이다."
-        }
-      ],
-      "views": [
-        {
-          "label": "Spotify",
-          "english": "Lngshot’s sound and 500 million streams make it a promising rising act.",
-          "korean": "스포티파이는 Lngshot을 유망한 신인으로 본다."
-        },
-        {
-          "label": "Lngshot",
-          "english": "The members say they want their music, not publicity, to speak for them.",
-          "korean": "멤버들은 홍보보다 음악이 자신들을 보여주길 원한다."
-        }
-      ],
-      "disagree": {
-        "english": "Playlist placement can increase exposure, but it does not guarantee lasting fans or success.",
-        "korean": "플레이리스트 노출은 팬과 장기 성공을 보장하지 않는다."
-      },
-      "reader_question_korean": "플레이리스트가 유망한 그룹을 오래가는 팀으로 만들 수 있을까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 500",
-        "translation check: \"Spotify says Lngshot has passed 500 million cumula\" may be missing million"
-      ],
-      "source_title": "Lngshot named Spotify's latest Radar Korea artist",
-      "hook_format": "vocab",
-      "body_format": "another_view",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "view": {
-          "label": "A reasonable missing perspective",
-          "english": "The program may help discovery, but its long-term effect on the group’s career is still unknown.",
-          "korean": "프로그램은 발견을 돕지만 장기적인 효과는 아직 모른다."
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "Spotify announced the selection on November 12, 2026.",
-        "Lngshot released its third EP, S.W.I.S.H., on November 10."
-      ],
-      "reader_question": "Can a playlist turn a promising group into a lasting act?",
-      "topic_tag": "Kpop",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "Lngshot named Spotify's latest Radar Korea artist",
-          "date": "2026-11-12",
-          "url": "https://www.koreaherald.com/article/10935101"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "스포티파이는",
-          "roman": "Seupoti-pai-neun",
-          "english": "Spotify",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "in 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sib-il-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "sibi-il",
-          "english": "12th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "4인조",
-          "roman": "sa-injo",
-          "english": "four-member",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "Lngshot을",
-          "roman": "Lngshot-eul",
-          "english": "Lngshot",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "레이더에",
-          "roman": "Reideo-e",
-          "english": "for Radar",
-          "particle": false,
-          "suffix": "에"
-        },
-        {
-          "korean": "선정했다",
-          "roman": "seonjeong-haetda",
-          "english": "selected",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Spotify selected four-member boy group Lngshot for its Radar Korea program on November 12, 2026.",
-          "korean": "스포티파이는 2026년 11월 12일 4인조 Lngshot을 레이더에 선정했다.",
-          "glossary": [
-            {
-              "korean": "스포티파이는",
-              "roman": "Seupoti-pai-neun",
-              "english": "Spotify",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "in 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sib-il-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "sibi-il",
-              "english": "12th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "4인조",
-              "roman": "sa-injo",
-              "english": "four-member",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "Lngshot을",
-              "roman": "Lngshot-eul",
-              "english": "Lngshot",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "레이더에",
-              "roman": "Reideo-e",
-              "english": "for Radar",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "선정했다",
-              "roman": "seonjeong-haetda",
-              "english": "selected",
-              "particle": false,
-              "suffix": "했다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The group has attracted attention with R&B and hip-hop sounds since debuting in January.",
-          "korean": "그룹은 1월 데뷔 뒤 R&B와 힙합 음악으로 주목받았다.",
+          "english": "The cold follows several rainy days across the country.",
+          "korean": "전국에 비가 온 뒤 추위가 온다.",
           "glossary": [
             {
-              "korean": "그룹은",
-              "roman": "geurup-eun",
-              "english": "the group",
+              "korean": "전국에",
+              "roman": "jeon-guk-e",
+              "english": "across the country",
               "particle": false,
-              "suffix": "은"
+              "suffix": "에"
             },
             {
-              "korean": "1월",
-              "roman": "il-wol",
-              "english": "January",
+              "korean": "비가",
+              "roman": "bi-ga",
+              "english": "rain",
               "particle": false,
-              "suffix": "월"
+              "suffix": "가"
             },
             {
-              "korean": "데뷔",
-              "roman": "debyu",
-              "english": "debut",
+              "korean": "온",
+              "roman": "on",
+              "english": "came",
               "particle": false,
               "suffix": ""
             },
@@ -1917,121 +230,1888 @@
               "suffix": ""
             },
             {
-              "korean": "R&B와",
-              "roman": "R-and-B-wa",
-              "english": "R&B and",
+              "korean": "추위가",
+              "roman": "chu-wi-ga",
+              "english": "cold",
               "particle": false,
-              "suffix": "와"
+              "suffix": "가"
             },
             {
-              "korean": "힙합",
-              "roman": "hiphap",
-              "english": "hip-hop",
+              "korean": "온다",
+              "roman": "on-da",
+              "english": "comes",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "음악으로",
-              "roman": "eumag-euro",
-              "english": "with music",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "주목받았다",
-              "roman": "jumog-badatda",
-              "english": "attracted attention",
-              "particle": false,
-              "suffix": "받았다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Spotify says Lngshot has passed 500 million cumulative streams and released S.W.I.S.H.",
-          "korean": "스포티파이는 Lngshot이 누적 스트리밍 5억 회를 넘었다고 말했다.",
+          "english": "Northwestern cold air will sharply lower morning and daytime temperatures.",
+          "korean": "북서쪽 찬 공기가 기온을 크게 낮춘다.",
           "glossary": [
             {
-              "korean": "스포티파이는",
-              "roman": "Seupoti-pai-neun",
-              "english": "Spotify",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "Lngshot이",
-              "roman": "Lngshot-i",
-              "english": "Lngshot",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "누적",
-              "roman": "nujeog",
-              "english": "cumulative",
+              "korean": "북서쪽",
+              "roman": "buk-seo-jjok",
+              "english": "northwestern side",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "스트리밍",
-              "roman": "seuteuriming",
-              "english": "streams",
+              "korean": "찬",
+              "roman": "chan",
+              "english": "cold",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "5억",
-              "roman": "o-eog",
-              "english": "500 million",
+              "korean": "공기가",
+              "roman": "gong-gi-ga",
+              "english": "air",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "기온을",
+              "roman": "gi-on-eul",
+              "english": "temperature",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "크게",
+              "roman": "keu-ge",
+              "english": "sharply",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "회를",
-              "roman": "hoe-reul",
-              "english": "times",
+              "korean": "낮춘다",
+              "roman": "nat-chun-da",
+              "english": "lowers",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Strong winds and rough seas may disrupt ferries near the peninsula.",
+          "korean": "강풍과 거친 바다가 한반도 주변 배편을 방해할 수 있다.",
+          "glossary": [
+            {
+              "korean": "강풍과",
+              "roman": "gang-pung-gwa",
+              "english": "strong winds and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "거친",
+              "roman": "geo-chin",
+              "english": "rough",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "바다가",
+              "roman": "ba-da-ga",
+              "english": "sea",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "한반도",
+              "roman": "han-ban-do",
+              "english": "Korean Peninsula",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주변",
+              "roman": "ju-byeon",
+              "english": "around",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "배편을",
+              "roman": "bae-pyeon-eul",
+              "english": "ferry services",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "방해할",
+              "roman": "bang-hae-hal",
+              "english": "disrupt",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "ability",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "can",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The weather agency will brief exam-day conditions again Tuesday.",
+          "korean": "기상청은 화요일 시험 날씨를 다시 설명한다.",
+          "glossary": [
+            {
+              "korean": "기상청은",
+              "roman": "gi-sang-cheong-eun",
+              "english": "weather agency",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "화요일",
+              "roman": "hwa-yo-il",
+              "english": "Tuesday",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시험",
+              "roman": "si-heom",
+              "english": "exam",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "날씨를",
+              "roman": "nal-ssi-reul",
+              "english": "weather",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "넘었다고",
-              "roman": "neomeotdago",
-              "english": "surpassed",
+              "korean": "다시",
+              "roman": "da-si",
+              "english": "again",
               "particle": false,
-              "suffix": "다고"
+              "suffix": ""
             },
             {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
+              "korean": "설명한다",
+              "roman": "seol-myeong-han-da",
+              "english": "explains",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10935101",
-      "short_english": "Spotify selected four-member boy group Lngshot for its Radar Korea program on November 12, 2026.",
-      "short_korean": "스포티파이는 2026년 11월 12일 4인조 Lngshot을 레이더에 선정했다.",
-      "date": "2026-11-12",
+      "url": "https://www.koreaherald.com/article/10936594",
+      "short_english": "Thursday’s Seoul Suneung morning is forecast to reach minus 1 degree Celsius.",
+      "short_korean": "목요일 서울 수능일 아침은 영하 1도로 예보됐다.",
+      "date": "2026-11-13",
       "images": [
-        "images/korean/759b4a93f1c2/1.jpg",
-        "images/korean/759b4a93f1c2/2.jpg",
-        "images/korean/759b4a93f1c2/3.jpg",
-        "images/korean/759b4a93f1c2/4.jpg",
-        "images/korean/759b4a93f1c2/5.jpg",
-        "images/korean/759b4a93f1c2/6.jpg",
-        "images/korean/759b4a93f1c2/7.jpg",
-        "images/korean/759b4a93f1c2/8.jpg",
-        "images/korean/759b4a93f1c2/9.jpg",
-        "images/korean/759b4a93f1c2/10.jpg",
-        "images/korean/759b4a93f1c2/11.jpg",
-        "images/korean/759b4a93f1c2/12.jpg",
-        "images/korean/759b4a93f1c2/13.jpg",
-        "images/korean/759b4a93f1c2/14.jpg"
+        "images/korean/b1c9b07d5ecd/1.jpg",
+        "images/korean/b1c9b07d5ecd/2.jpg",
+        "images/korean/b1c9b07d5ecd/3.jpg",
+        "images/korean/b1c9b07d5ecd/4.jpg",
+        "images/korean/b1c9b07d5ecd/5.jpg",
+        "images/korean/b1c9b07d5ecd/6.jpg",
+        "images/korean/b1c9b07d5ecd/7.jpg",
+        "images/korean/b1c9b07d5ecd/8.jpg",
+        "images/korean/b1c9b07d5ecd/9.jpg",
+        "images/korean/b1c9b07d5ecd/10.jpg",
+        "images/korean/b1c9b07d5ecd/11.jpg",
+        "images/korean/b1c9b07d5ecd/12.jpg",
+        "images/korean/b1c9b07d5ecd/13.jpg",
+        "images/korean/b1c9b07d5ecd/14.jpg",
+        "images/korean/b1c9b07d5ecd/15.jpg",
+        "images/korean/b1c9b07d5ecd/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/759b4a93f1c2/caption.txt"
+      "caption_file": "images/korean/b1c9b07d5ecd/caption.txt"
+    },
+    {
+      "category": "Business",
+      "korean_title": "우리은행장 정진완 1년 연임",
+      "english_title": "Woori’s CEO Wins One More Year",
+      "korean_desc": "위원회는 자본비율 개선과 고객 증가를 이유로 들었다. 9월 말 분기 순이익은 1조 원을 넘었다. 삼성월렛머니는 1년 안에 가입자 300만 명을 넘었다. 주주들은 11월 말 연장을 승인해야 한다.",
+      "english_desc": "The committee cited stronger capital ratios and a larger customer base. Quarterly net profit passed 1 trillion won by the end of September. Samsung Wallet Money passed three million subscribers within a year. Shareholders must approve the extension later in November.",
+      "hook": "Woori’s CEO gets one more year.",
+      "sticker": "One more year",
+      "korean_hook": "우리은행장 1년 연임",
+      "takeaway_english": "The extension is approved internally, but shareholders still have the final word.",
+      "takeaway_korean": "연장은 내부 승인됐지만 최종 결정은 주주에게 있다.",
+      "why_it_matters": [
+        {
+          "english": "Leadership choices can shape lending and digital banking services.",
+          "korean": "경영진 선택은 대출과 디지털 금융에 영향을 준다."
+        },
+        {
+          "english": "Woori’s decision comes before other major bank appointments.",
+          "korean": "우리은행 결정은 다른 주요 은행 인사보다 먼저 나왔다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Jung Jin-wan",
+          "english": "He is set to lead Woori Bank through 2027, pending shareholder approval.",
+          "korean": "그는 주주 승인 뒤 2027년까지 우리은행을 이끈다."
+        },
+        {
+          "label": "Woori Financial Group",
+          "english": "It credited stronger capital, profits and customer growth.",
+          "korean": "그룹은 자본과 이익과 고객 증가를 높이 평가했다."
+        },
+        {
+          "label": "Other major banks",
+          "english": "Their CEO selection processes are expected to finish soon.",
+          "korean": "다른 주요 은행들도 곧 CEO를 정할 예정이다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Woori’s nomination committee",
+          "english": "Jung’s stronger capital base and wider customer base support another year.",
+          "korean": "정진완의 자본과 고객 증가는 1년 연임을 뒷받침한다."
+        },
+        {
+          "label": "Governance critics",
+          "english": "The quick process and limited public detail may invite questions about transparency.",
+          "korean": "빠른 절차와 적은 공개 정보는 투명성 논란을 부를 수 있다."
+        }
+      ],
+      "disagree": {
+        "english": "Supporters may say the committee followed its performance-based two-plus-one-year policy.",
+        "korean": "지지자들은 위원회가 성과 중심 2년 더하기 1년 정책을 따랐다고 말할 수 있다."
+      },
+      "reader_question_korean": "은행장은 좋은 실적 뒤 연임해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Woori Bank CEO secures additional 1-year term",
+      "hook_format": "number",
+      "body_format": "before_after",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "number": {
+          "value": "1-year",
+          "label": "additional CEO term",
+          "korean_label": "추가 CEO 임기"
+        },
+        "before": {
+          "label": "",
+          "english": "Jung Jin-wan’s current term ends at the end of 2026.",
+          "korean": "정진완의 현재 임기는 2026년 말 끝난다."
+        },
+        "after": {
+          "label": "",
+          "english": "The committee approved an extension through December 31, 2027.",
+          "korean": "위원회는 2027년 12월 31일까지 연장을 승인했다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "Published November 13, 2026",
+        "Shareholders are expected to vote later in November.",
+        "Woori is one of Korea’s five major banks."
+      ],
+      "reader_question": "Should bank CEOs receive extensions after strong results?",
+      "topic_tag": "Banking",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "Woori Bank CEO secures additional 1-year term",
+          "date": "2026-11-13",
+          "url": "https://www.koreaherald.com/article/10936580"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "위원회는",
+          "roman": "wi-won-hoe-neun",
+          "english": "committee",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "자본비율",
+          "roman": "ja-bon-bi-yul",
+          "english": "capital ratio",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "개선과",
+          "roman": "gae-seon-gwa",
+          "english": "improvement and",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "고객",
+          "roman": "go-gaek",
+          "english": "customers",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "증가를",
+          "roman": "jeung-ga-reul",
+          "english": "increase",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "이유로",
+          "roman": "i-yu-ro",
+          "english": "as reasons",
+          "particle": false,
+          "suffix": "로"
+        },
+        {
+          "korean": "들었다",
+          "roman": "deu-reot-da",
+          "english": "cited",
+          "particle": false,
+          "suffix": "었다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "The committee cited stronger capital ratios and a larger customer base.",
+          "korean": "위원회는 자본비율 개선과 고객 증가를 이유로 들었다.",
+          "glossary": [
+            {
+              "korean": "위원회는",
+              "roman": "wi-won-hoe-neun",
+              "english": "committee",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "자본비율",
+              "roman": "ja-bon-bi-yul",
+              "english": "capital ratio",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "개선과",
+              "roman": "gae-seon-gwa",
+              "english": "improvement and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "고객",
+              "roman": "go-gaek",
+              "english": "customers",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "증가를",
+              "roman": "jeung-ga-reul",
+              "english": "increase",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "이유로",
+              "roman": "i-yu-ro",
+              "english": "as reasons",
+              "particle": false,
+              "suffix": "로"
+            },
+            {
+              "korean": "들었다",
+              "roman": "deu-reot-da",
+              "english": "cited",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Quarterly net profit passed 1 trillion won by the end of September.",
+          "korean": "9월 말 분기 순이익은 1조 원을 넘었다.",
+          "glossary": [
+            {
+              "korean": "9월",
+              "roman": "gu-wol",
+              "english": "September",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "말",
+              "roman": "mal",
+              "english": "end",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "분기",
+              "roman": "bun-gi",
+              "english": "quarterly",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "순이익은",
+              "roman": "sun-i-ig-eun",
+              "english": "net profit",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "1조",
+              "roman": "il-jo",
+              "english": "one trillion",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원을",
+              "roman": "won-eul",
+              "english": "won",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "넘었다",
+              "roman": "neom-eot-da",
+              "english": "passed",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Samsung Wallet Money passed three million subscribers within a year.",
+          "korean": "삼성월렛머니는 1년 안에 가입자 300만 명을 넘었다.",
+          "glossary": [
+            {
+              "korean": "삼성월렛머니는",
+              "roman": "sam-seong-wol-let-meo-ni-neun",
+              "english": "Samsung Wallet Money",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "1년",
+              "roman": "il-nyeon",
+              "english": "one year",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "안에",
+              "roman": "an-e",
+              "english": "within",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "가입자",
+              "roman": "ga-ip-ja",
+              "english": "subscribers",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "300만",
+              "roman": "sam-baek-man",
+              "english": "three million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "명을",
+              "roman": "myeong-eul",
+              "english": "people",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "넘었다",
+              "roman": "neom-eot-da",
+              "english": "passed",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Shareholders must approve the extension later in November.",
+          "korean": "주주들은 11월 말 연장을 승인해야 한다.",
+          "glossary": [
+            {
+              "korean": "주주들은",
+              "roman": "ju-ju-deul-eun",
+              "english": "shareholders",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "말",
+              "roman": "mal",
+              "english": "end",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "연장을",
+              "roman": "yeon-jang-eul",
+              "english": "extension",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "승인해야",
+              "roman": "seung-in-hae-ya",
+              "english": "must approve",
+              "particle": false,
+              "suffix": "해야"
+            },
+            {
+              "korean": "한다",
+              "roman": "han-da",
+              "english": "do",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10936580",
+      "short_english": "The committee cited stronger capital ratios and a larger customer base.",
+      "short_korean": "위원회는 자본비율 개선과 고객 증가를 이유로 들었다.",
+      "date": "2026-11-13",
+      "images": [
+        "images/korean/c4c5e2ca889e/1.jpg",
+        "images/korean/c4c5e2ca889e/2.jpg",
+        "images/korean/c4c5e2ca889e/3.jpg",
+        "images/korean/c4c5e2ca889e/4.jpg",
+        "images/korean/c4c5e2ca889e/5.jpg",
+        "images/korean/c4c5e2ca889e/6.jpg",
+        "images/korean/c4c5e2ca889e/7.jpg",
+        "images/korean/c4c5e2ca889e/8.jpg",
+        "images/korean/c4c5e2ca889e/9.jpg",
+        "images/korean/c4c5e2ca889e/10.jpg",
+        "images/korean/c4c5e2ca889e/11.jpg",
+        "images/korean/c4c5e2ca889e/12.jpg",
+        "images/korean/c4c5e2ca889e/13.jpg",
+        "images/korean/c4c5e2ca889e/14.jpg",
+        "images/korean/c4c5e2ca889e/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/c4c5e2ca889e/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "연극 점프X컷이 진실을 묻다",
+      "english_title": "JumpXCut Makes Audiences Doubt What They See",
+      "korean_desc": "점프X컷은 한 사건의 다른 이야기를 다루는 서울 80분 연극이다. 연출가는 작품이 누가 옳은지 정하지 않는다고 말한다. 경사진 원형 무대는 자리마다 같은 장면을 다르게 보인다. 재단은 내년 학교와 기관 프로그램을 확대할 계획이다.",
+      "english_desc": "JumpXCut is an 80-minute Seoul play about conflicting accounts of one event. The director says the production avoids deciding who is right. Its sloped circular stage makes the same scene look different from each seat. The foundation plans to expand its school and institution program next year.",
+      "hook": "JumpXCut refuses to choose one truth.",
+      "sticker": "Who saw what? 🎭",
+      "korean_hook": "점프X컷은 하나의 진실을 고르지 않는다",
+      "takeaway_english": "The production’s real test is whether uncertainty makes audiences more careful.",
+      "takeaway_korean": "이 연극의 진짜 시험은 불확실성이 관객을 더 신중하게 만드는지다.",
+      "why_it_matters": [
+        {
+          "english": "People often meet news through videos, social media and competing accounts.",
+          "korean": "사람들은 영상과 소셜미디어와 여러 이야기를 자주 만난다."
+        },
+        {
+          "english": "The play turns media literacy into a shared physical experience.",
+          "korean": "연극은 미디어 문해력을 함께 겪는 경험으로 만든다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Kang Hoon-gu",
+          "english": "The director leaves the play’s truth unresolved.",
+          "korean": "연출가는 연극의 진실을 열어 둔다."
+        },
+        {
+          "label": "Oh Se-hyeok",
+          "english": "The playwright built the story around teenagers and parkour.",
+          "korean": "작가는 청소년과 파쿠르를 중심에 놓았다."
+        },
+        {
+          "label": "Korea Press Foundation",
+          "english": "It presents the play as media-literacy education.",
+          "korean": "언론재단은 연극을 미디어 교육으로 소개한다."
+        }
+      ],
+      "views": [
+        {
+          "label": "The director and playwright",
+          "english": "Conflicting viewpoints can teach audiences to question quick judgments.",
+          "korean": "서로 다른 시선은 성급한 판단을 의심하게 할 수 있다."
+        },
+        {
+          "label": "A possible skeptical audience view",
+          "english": "Some viewers may want clearer facts before treating every account equally.",
+          "korean": "일부 관객은 모든 말을 같게 보기 전 더 분명한 사실을 원할 수 있다."
+        }
+      ],
+      "disagree": {
+        "english": "Others may argue that refusing an answer can blur responsibility instead of improving judgment.",
+        "korean": "다른 사람들은 답을 피하면 판단보다 책임이 흐려진다고 말할 수 있다."
+      },
+      "reader_question_korean": "예술은 정보를 더 신중히 판단하게 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "‘JumpXCut’ asks audience to question what they see — and what they believe",
+      "hook_format": "headline",
+      "body_format": "who_speaks",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "people": [
+          {
+            "label": "Director Kang Hoon-gu",
+            "english": "He says not knowing the truth helps him represent every character.",
+            "korean": "강훈구 연출은 모름이 모든 인물을 보여준다고 말한다."
+          },
+          {
+            "label": "Playwright Oh Se-hyeok",
+            "english": "He says people can see one event differently without being wrong.",
+            "korean": "오세혁 작가는 사람마다 같은 일을 다르게 본다고 말한다."
+          },
+          {
+            "label": "Korea Press Foundation",
+            "english": "It uses theater to make media literacy more than classroom knowledge.",
+            "korean": "언론재단은 연극으로 미디어 문해력을 넓히려 한다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Published November 13, 2026",
+        "The 80-minute play runs through Sunday in Seongdong-gu, Seoul.",
+        "It has toured 59 schools and institutions."
+      ],
+      "reader_question": "Does art help people judge information more carefully?",
+      "topic_tag": "Theater",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "‘JumpXCut’ asks audience to question what they see — and what they believe",
+          "date": "2026-11-13",
+          "url": "https://www.koreaherald.com/article/10936263"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "점프X컷은",
+          "roman": "jeom-peu-ek-seu-keot-eun",
+          "english": "JumpXCut",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "한",
+          "roman": "han",
+          "english": "one",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "사건의",
+          "roman": "sa-geon-ui",
+          "english": "event’s",
+          "particle": false,
+          "suffix": "의"
+        },
+        {
+          "korean": "다른",
+          "roman": "da-reun",
+          "english": "different",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "이야기를",
+          "roman": "i-ya-gi-reul",
+          "english": "accounts",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "다루는",
+          "roman": "da-ru-neun",
+          "english": "dealing with",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "서울",
+          "roman": "seo-ul",
+          "english": "Seoul",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "80분",
+          "roman": "pal-sip-bun",
+          "english": "80-minute",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "연극이다",
+          "roman": "yeon-geuk-i-da",
+          "english": "is a play",
+          "particle": false,
+          "suffix": "이다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "JumpXCut is an 80-minute Seoul play about conflicting accounts of one event.",
+          "korean": "점프X컷은 한 사건의 다른 이야기를 다루는 서울 80분 연극이다.",
+          "glossary": [
+            {
+              "korean": "점프X컷은",
+              "roman": "jeom-peu-ek-seu-keot-eun",
+              "english": "JumpXCut",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "한",
+              "roman": "han",
+              "english": "one",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사건의",
+              "roman": "sa-geon-ui",
+              "english": "event’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "다른",
+              "roman": "da-reun",
+              "english": "different",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이야기를",
+              "roman": "i-ya-gi-reul",
+              "english": "accounts",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "다루는",
+              "roman": "da-ru-neun",
+              "english": "dealing with",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "서울",
+              "roman": "seo-ul",
+              "english": "Seoul",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "80분",
+              "roman": "pal-sip-bun",
+              "english": "80-minute",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "연극이다",
+              "roman": "yeon-geuk-i-da",
+              "english": "is a play",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The director says the production avoids deciding who is right.",
+          "korean": "연출가는 작품이 누가 옳은지 정하지 않는다고 말한다.",
+          "glossary": [
+            {
+              "korean": "연출가는",
+              "roman": "yeon-chul-ga-neun",
+              "english": "director",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "작품이",
+              "roman": "jak-pum-i",
+              "english": "production",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "누가",
+              "roman": "nu-ga",
+              "english": "who",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "옳은지",
+              "roman": "olh-eun-ji",
+              "english": "is right",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정하지",
+              "roman": "jeong-ha-ji",
+              "english": "deciding",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "않는다고",
+              "roman": "an-neun-da-go",
+              "english": "does not",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말한다",
+              "roman": "mal-han-da",
+              "english": "says",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Its sloped circular stage makes the same scene look different from each seat.",
+          "korean": "경사진 원형 무대는 자리마다 같은 장면을 다르게 보인다.",
+          "glossary": [
+            {
+              "korean": "경사진",
+              "roman": "gyeong-sa-jin",
+              "english": "sloped",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원형",
+              "roman": "won-hyeong",
+              "english": "circular",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "무대는",
+              "roman": "mu-dae-neun",
+              "english": "stage",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "자리마다",
+              "roman": "ja-ri-ma-da",
+              "english": "from each seat",
+              "particle": false,
+              "suffix": "마다"
+            },
+            {
+              "korean": "같은",
+              "roman": "gat-eun",
+              "english": "same",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "장면을",
+              "roman": "jang-myeon-eul",
+              "english": "scene",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "다르게",
+              "roman": "da-reu-ge",
+              "english": "differently",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "보인다",
+              "roman": "bo-in-da",
+              "english": "looks",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The foundation plans to expand its school and institution program next year.",
+          "korean": "재단은 내년 학교와 기관 프로그램을 확대할 계획이다.",
+          "glossary": [
+            {
+              "korean": "재단은",
+              "roman": "jae-dan-eun",
+              "english": "foundation",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "내년",
+              "roman": "nae-nyeon",
+              "english": "next year",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "학교와",
+              "roman": "hak-gyo-wa",
+              "english": "schools and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "기관",
+              "roman": "gi-gwan",
+              "english": "institutions",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "프로그램을",
+              "roman": "peu-ro-geu-raem-eul",
+              "english": "program",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "확대할",
+              "roman": "hwak-dae-hal",
+              "english": "expand",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계획이다",
+              "roman": "gye-hoeg-i-da",
+              "english": "plans to",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10936263",
+      "short_english": "JumpXCut is an 80-minute Seoul play about conflicting accounts of one event.",
+      "short_korean": "점프X컷은 한 사건의 다른 이야기를 다루는 서울 80분 연극이다.",
+      "date": "2026-11-13",
+      "images": [
+        "images/korean/566e76d2de37/1.jpg",
+        "images/korean/566e76d2de37/2.jpg",
+        "images/korean/566e76d2de37/3.jpg",
+        "images/korean/566e76d2de37/4.jpg",
+        "images/korean/566e76d2de37/5.jpg",
+        "images/korean/566e76d2de37/6.jpg",
+        "images/korean/566e76d2de37/7.jpg",
+        "images/korean/566e76d2de37/8.jpg",
+        "images/korean/566e76d2de37/9.jpg",
+        "images/korean/566e76d2de37/10.jpg",
+        "images/korean/566e76d2de37/11.jpg",
+        "images/korean/566e76d2de37/12.jpg",
+        "images/korean/566e76d2de37/13.jpg",
+        "images/korean/566e76d2de37/14.jpg",
+        "images/korean/566e76d2de37/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/566e76d2de37/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "한국 여자축구 남북 올림픽 예선",
+      "english_title": "South Korea Draws North Korea for Olympic Qualifying",
+      "korean_desc": "11월 12일 AFC 추첨이 한국을 B조에 넣었다. 한국은 첫 여자축구 올림픽 출전을 노린다. B조에는 북한과 중국과 필리핀이 있다. 축구협회와 AFC 협의 뒤 경기장은 바뀔 수 있다. 조 1위는 직행하고 2위는 추가 플레이오프를 치른다.",
+      "english_desc": "The AFC draw on November 12 placed South Korea in Group B. The team is chasing its first Olympic women’s soccer appearance. Group B includes North Korea, China and the Philippines. The listed venues may change after football associations consult the AFC. Group winners qualify directly, while runners-up enter further playoffs.",
+      "hook": "South Korea draws North Korea for Olympic qualifying.",
+      "sticker": "Road to Los Angeles",
+      "korean_hook": "한국, 북한과 올림픽 예선",
+      "takeaway_english": "The rivalry is official on paper, but the final venues remain unsettled.",
+      "takeaway_korean": "남북 대결은 정해졌지만 최종 경기장은 아직 미정이다.",
+      "why_it_matters": [
+        {
+          "english": "South Korea has never reached the Olympic women’s soccer tournament.",
+          "korean": "한국은 여자축구 올림픽 본선에 한 번도 나가지 못했다."
+        },
+        {
+          "english": "The schedule could require travel between Seoul and Pyongyang.",
+          "korean": "일정은 서울과 평양 사이 이동을 요구할 수 있다."
+        },
+        {
+          "english": "Asia has only a limited path to Los Angeles.",
+          "korean": "아시아에는 로스앤젤레스행 제한된 기회만 있다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "South Korea",
+          "english": "It is seeking its first Olympic women’s soccer appearance.",
+          "korean": "한국은 첫 여자축구 올림픽 출전을 노린다."
+        },
+        {
+          "label": "North Korea",
+          "english": "It is Group B’s top seed.",
+          "korean": "북한은 B조 1번 시드다."
+        },
+        {
+          "label": "Asian Football Confederation",
+          "english": "It set the draw and qualifying schedule.",
+          "korean": "AFC는 추첨과 예선 일정을 정했다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Asian Football Confederation",
+          "english": "The home-and-away format gives teams six group matches and clear qualification routes.",
+          "korean": "홈앤드어웨이 형식은 여섯 경기와 분명한 진출 경로를 준다."
+        },
+        {
+          "label": "Korea Football Association",
+          "english": "The dates are provisional because politically sensitive venues may change.",
+          "korean": "정치적으로 민감한 경기장은 바뀔 수 있어 일정은 잠정적이다."
+        }
+      ],
+      "disagree": {
+        "english": "Fans may question how much the stated schedule can predict actual travel and venues.",
+        "korean": "팬들은 발표 일정이 실제 이동과 경기장을 얼마나 보여주는지 물을 수 있다."
+      },
+      "reader_question_korean": "여기서 진출과 경기장 중 무엇이 더 중요할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "S. Korean women's soccer team to face N. Korea for 2028 LA Olympics qualifiers",
+      "hook_format": "headline",
+      "body_format": "sentences",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {},
+      "serious": false,
+      "caption_lines": [
+        "Published November 12, 2026",
+        "The 2028 Olympics will have 16 women’s soccer teams.",
+        "Group winners qualify directly."
+      ],
+      "reader_question": "Which matters more here: qualification or the venue?",
+      "topic_tag": "Soccer",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "S. Korean women's soccer team to face N. Korea for 2028 LA Olympics qualifiers",
+          "date": "2026-11-12",
+          "url": "https://www.koreaherald.com/article/10935596"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "11월",
+          "roman": "sip-il-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "12일",
+          "roman": "sip-i-il",
+          "english": "12th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "AFC",
+          "roman": "AFC",
+          "english": "AFC",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "추첨이",
+          "roman": "chu-cheom-i",
+          "english": "draw",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "한국을",
+          "roman": "han-guk-eul",
+          "english": "South Korea",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "B조에",
+          "roman": "bi-jo-e",
+          "english": "in Group B",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "넣었다",
+          "roman": "neo-eot-da",
+          "english": "placed",
+          "particle": false,
+          "suffix": "었다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "The AFC draw on November 12 placed South Korea in Group B.",
+          "korean": "11월 12일 AFC 추첨이 한국을 B조에 넣었다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "12일",
+              "roman": "sip-i-il",
+              "english": "12th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "AFC",
+              "roman": "AFC",
+              "english": "AFC",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "추첨이",
+              "roman": "chu-cheom-i",
+              "english": "draw",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "한국을",
+              "roman": "han-guk-eul",
+              "english": "South Korea",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "B조에",
+              "roman": "bi-jo-e",
+              "english": "in Group B",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "넣었다",
+              "roman": "neo-eot-da",
+              "english": "placed",
+              "particle": false,
+              "suffix": "었다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The team is chasing its first Olympic women’s soccer appearance.",
+          "korean": "한국은 첫 여자축구 올림픽 출전을 노린다.",
+          "glossary": [
+            {
+              "korean": "한국은",
+              "roman": "han-guk-eun",
+              "english": "South Korea",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "첫",
+              "roman": "cheot",
+              "english": "first",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여자축구",
+              "roman": "yeo-ja-chuk-gu",
+              "english": "women’s soccer",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "올림픽",
+              "roman": "ol-lim-pik",
+              "english": "Olympic",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "출전을",
+              "roman": "chul-jeon-eul",
+              "english": "appearance",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "노린다",
+              "roman": "no-rin-da",
+              "english": "seeks",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Group B includes North Korea, China and the Philippines.",
+          "korean": "B조에는 북한과 중국과 필리핀이 있다.",
+          "glossary": [
+            {
+              "korean": "B조에는",
+              "roman": "bi-jo-e-neun",
+              "english": "in Group B",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "북한과",
+              "roman": "buk-han-gwa",
+              "english": "North Korea and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "중국과",
+              "roman": "jung-guk-gwa",
+              "english": "China and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "필리핀이",
+              "roman": "pil-li-pin-i",
+              "english": "the Philippines",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "are included",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The listed venues may change after football associations consult the AFC.",
+          "korean": "축구협회와 AFC 협의 뒤 경기장은 바뀔 수 있다.",
+          "glossary": [
+            {
+              "korean": "축구협회와",
+              "roman": "chuk-gu-hyeop-hoe-wa",
+              "english": "football associations and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "AFC",
+              "roman": "AFC",
+              "english": "AFC",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "협의",
+              "roman": "hyeop-ui",
+              "english": "consultation",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "경기장은",
+              "roman": "gyeong-gi-jang-eun",
+              "english": "venues",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "바뀔",
+              "roman": "ba-kkwil",
+              "english": "change",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "ability",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "can",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Group winners qualify directly, while runners-up enter further playoffs.",
+          "korean": "조 1위는 직행하고 2위는 추가 플레이오프를 치른다.",
+          "glossary": [
+            {
+              "korean": "조",
+              "roman": "jo",
+              "english": "group",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "1위는",
+              "roman": "il-wi-neun",
+              "english": "first place",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "직행하고",
+              "roman": "jik-haeng-ha-go",
+              "english": "qualifies directly",
+              "particle": false,
+              "suffix": "고"
+            },
+            {
+              "korean": "2위는",
+              "roman": "i-wi-neun",
+              "english": "second place",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "추가",
+              "roman": "chu-ga",
+              "english": "further",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "플레이오프를",
+              "roman": "peul-le-i-o-peu-reul",
+              "english": "playoff",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "치른다",
+              "roman": "chi-reun-da",
+              "english": "plays",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10935596",
+      "short_english": "The AFC draw on November 12 placed South Korea in Group B.",
+      "short_korean": "11월 12일 AFC 추첨이 한국을 B조에 넣었다.",
+      "date": "2026-11-13",
+      "images": [
+        "images/korean/47769dc96fbc/1.jpg",
+        "images/korean/47769dc96fbc/2.jpg",
+        "images/korean/47769dc96fbc/3.jpg",
+        "images/korean/47769dc96fbc/4.jpg",
+        "images/korean/47769dc96fbc/5.jpg",
+        "images/korean/47769dc96fbc/6.jpg",
+        "images/korean/47769dc96fbc/7.jpg",
+        "images/korean/47769dc96fbc/8.jpg",
+        "images/korean/47769dc96fbc/9.jpg",
+        "images/korean/47769dc96fbc/10.jpg",
+        "images/korean/47769dc96fbc/11.jpg",
+        "images/korean/47769dc96fbc/12.jpg",
+        "images/korean/47769dc96fbc/13.jpg",
+        "images/korean/47769dc96fbc/14.jpg",
+        "images/korean/47769dc96fbc/15.jpg",
+        "images/korean/47769dc96fbc/16.jpg",
+        "images/korean/47769dc96fbc/17.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/47769dc96fbc/caption.txt"
+    },
+    {
+      "category": "Entertainment",
+      "korean_title": "뉴진스 계약 논쟁, 여론으로 번지다",
+      "english_title": "NewJeans Contract Fight Moves Beyond the Courts",
+      "korean_desc": "11월 5일 조사는 멤버들이 미성년자일 때 계약을 살폈다. 소송은 손해와 책임과 창작물 유사성 주장을 다룬다. 법원은 어도어에 광고 계약 제출을 명령했다. 손해 소송 심리는 1월에 끝날 예정이다.",
+      "english_desc": "A November 5 investigation examined contracts signed when the members were minors. The lawsuits focus on alleged losses, responsibility and claims about creative copying. The court ordered ADOR to submit advertising contracts without delaying the damages review. The damages hearings are expected to finish in January.",
+      "hook": "NewJeans’ contract fight reaches public opinion.",
+      "sticker": "Beyond the courtroom",
+      "korean_hook": "뉴진스 계약 싸움이 여론으로 번졌다",
+      "takeaway_english": "The legal cases continue, while the contract debate may shape wider K-pop expectations.",
+      "takeaway_korean": "소송은 계속되지만 계약 논쟁은 K팝 기준을 바꿀 수 있다.",
+      "why_it_matters": [
+        {
+          "english": "Young artists may sign long contracts before fully understanding their consequences.",
+          "korean": "어린 아티스트는 결과를 완전히 알기 전에 장기 계약을 맺을 수 있다."
+        },
+        {
+          "english": "Court delays can affect whether performers return to work.",
+          "korean": "법정 지연은 가수들의 활동 복귀에 영향을 줄 수 있다."
+        },
+        {
+          "english": "The dispute raises questions about voices, likenesses and financial penalties.",
+          "korean": "분쟁은 목소리와 초상과 금전적 위약금을 묻는다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "ADOR",
+          "english": "It is seeking damages over NewJeans’ interrupted activities.",
+          "korean": "어도어는 뉴진스 활동 중단 손해를 청구하고 있다."
+        },
+        {
+          "label": "Danielle",
+          "english": "She faces the damages case but says delays affect her career.",
+          "korean": "다니엘은 손해 소송을 겪으며 지연이 활동에 영향을 준다고 말한다."
+        },
+        {
+          "label": "HYBE",
+          "english": "It defends the contracts and says minor protections were included.",
+          "korean": "하이브는 계약과 미성년자 보호 조항을 옹호한다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Artist-protection advocates",
+          "english": "Contracts signed by minors deserve close attention because agencies receive broad rights.",
+          "korean": "미성년자가 쓴 계약은 회사 권리가 넓어 자세한 검토가 필요하다."
+        },
+        {
+          "label": "HYBE and ADOR",
+          "english": "The agreements were negotiated with families and lawyers and followed legal standards.",
+          "korean": "계약은 가족과 변호사와 협의했고 법적 기준을 따랐다고 한다."
+        }
+      ],
+      "disagree": {
+        "english": "Critics dispute whether separate protections and standard clauses adequately protect young performers.",
+        "korean": "비판자들은 별도 보호와 표준 조항이 젊은 가수를 충분히 지키는지 의문을 제기한다."
+      },
+      "reader_question_korean": "어린 가수는 얼마나 보호받아야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "translation check: \"NewJeans’ contract dispute has expanded from court\" may be missing court"
+      ],
+      "source_title": "NewJeans contract report shifts spotlight from courts to public opinion",
+      "hook_format": "headline",
+      "body_format": "who_speaks",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "people": [
+          {
+            "label": "The New York Times",
+            "english": "Its November 5 report examined contracts signed when NewJeans members were minors.",
+            "korean": "11월 5일 보도는 멤버들이 미성년자일 때 계약을 살폈다."
+          },
+          {
+            "label": "HYBE and ADOR",
+            "english": "They say the agreements followed standards and included protections for minors.",
+            "korean": "하이브와 어도어는 계약이 기준을 따랐고 미성년자 보호가 있었다고 말한다."
+          },
+          {
+            "label": "Danielle’s side",
+            "english": "It says prolonged litigation leaves her entertainment career in limbo.",
+            "korean": "다니엘 측은 긴 소송이 그녀의 활동을 막는다고 말한다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Published November 12, 2026",
+        "The court upheld the members’ exclusive contracts in October 2025.",
+        "The damages hearing is expected to continue into January."
+      ],
+      "reader_question": "How much protection should young performers receive?",
+      "topic_tag": "Contracts",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "NewJeans contract report shifts spotlight from courts to public opinion",
+          "date": "2026-11-12",
+          "url": "https://www.koreaherald.com/article/10935593"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "11월",
+          "roman": "sip-il-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "5일",
+          "roman": "o-il",
+          "english": "5th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "조사는",
+          "roman": "jo-sa-neun",
+          "english": "investigation",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "멤버들이",
+          "roman": "mem-beo-deul-i",
+          "english": "members",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "미성년자일",
+          "roman": "mi-seong-nyeon-ja-il",
+          "english": "were minors",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "때",
+          "roman": "ttae",
+          "english": "when",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "계약을",
+          "roman": "gye-yak-eul",
+          "english": "contracts",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "살폈다",
+          "roman": "sal-pyeot-da",
+          "english": "examined",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "A November 5 investigation examined contracts signed when the members were minors.",
+          "korean": "11월 5일 조사는 멤버들이 미성년자일 때 계약을 살폈다.",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "5일",
+              "roman": "o-il",
+              "english": "5th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "조사는",
+              "roman": "jo-sa-neun",
+              "english": "investigation",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "멤버들이",
+              "roman": "mem-beo-deul-i",
+              "english": "members",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "미성년자일",
+              "roman": "mi-seong-nyeon-ja-il",
+              "english": "were minors",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "때",
+              "roman": "ttae",
+              "english": "when",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계약을",
+              "roman": "gye-yak-eul",
+              "english": "contracts",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "살폈다",
+              "roman": "sal-pyeot-da",
+              "english": "examined",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The lawsuits focus on alleged losses, responsibility and claims about creative copying.",
+          "korean": "소송은 손해와 책임과 창작물 유사성 주장을 다룬다.",
+          "glossary": [
+            {
+              "korean": "소송은",
+              "roman": "so-song-eun",
+              "english": "lawsuits",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "손해와",
+              "roman": "son-hae-wa",
+              "english": "losses and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "책임과",
+              "roman": "chaeg-im-gwa",
+              "english": "responsibility and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "창작물",
+              "roman": "chang-jak-mul",
+              "english": "creative work",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "유사성",
+              "roman": "yu-sa-seong",
+              "english": "similarity",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "주장을",
+              "roman": "ju-jang-eul",
+              "english": "claims",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "다룬다",
+              "roman": "da-run-da",
+              "english": "deal with",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "The court ordered ADOR to submit advertising contracts without delaying the damages review.",
+          "korean": "법원은 어도어에 광고 계약 제출을 명령했다.",
+          "glossary": [
+            {
+              "korean": "법원은",
+              "roman": "beop-won-eun",
+              "english": "court",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "어도어에",
+              "roman": "eo-do-eo-e",
+              "english": "to ADOR",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "광고",
+              "roman": "gwang-go",
+              "english": "advertising",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "계약",
+              "roman": "gye-yak",
+              "english": "contracts",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "제출을",
+              "roman": "je-chul-eul",
+              "english": "submission",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "명령했다",
+              "roman": "myeong-ryeong-haet-da",
+              "english": "ordered",
+              "particle": false,
+              "suffix": "했다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "The damages hearings are expected to finish in January.",
+          "korean": "손해 소송 심리는 1월에 끝날 예정이다.",
+          "glossary": [
+            {
+              "korean": "손해",
+              "roman": "son-hae",
+              "english": "damages",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "소송",
+              "roman": "so-song",
+              "english": "lawsuit",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "심리는",
+              "roman": "sim-ri-neun",
+              "english": "hearings",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "1월에",
+              "roman": "il-wol-e",
+              "english": "in January",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "끝날",
+              "roman": "kkeut-nal",
+              "english": "finish",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "예정이다",
+              "roman": "ye-jeong-i-da",
+              "english": "are expected",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10935593",
+      "short_english": "A November 5 investigation examined contracts signed when the members were minors.",
+      "short_korean": "11월 5일 조사는 멤버들이 미성년자일 때 계약을 살폈다.",
+      "date": "2026-11-13",
+      "images": [
+        "images/korean/b16c6923e0f5/1.jpg",
+        "images/korean/b16c6923e0f5/2.jpg",
+        "images/korean/b16c6923e0f5/3.jpg",
+        "images/korean/b16c6923e0f5/4.jpg",
+        "images/korean/b16c6923e0f5/5.jpg",
+        "images/korean/b16c6923e0f5/6.jpg",
+        "images/korean/b16c6923e0f5/7.jpg",
+        "images/korean/b16c6923e0f5/8.jpg",
+        "images/korean/b16c6923e0f5/9.jpg",
+        "images/korean/b16c6923e0f5/10.jpg",
+        "images/korean/b16c6923e0f5/11.jpg",
+        "images/korean/b16c6923e0f5/12.jpg",
+        "images/korean/b16c6923e0f5/13.jpg",
+        "images/korean/b16c6923e0f5/14.jpg",
+        "images/korean/b16c6923e0f5/15.jpg",
+        "images/korean/b16c6923e0f5/16.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/b16c6923e0f5/caption.txt"
     },
     {
       "category": "World",
@@ -2368,7 +2448,7 @@
       "url": "https://www.koreaherald.com/article/10935093",
       "short_english": "Marches filled Madrid, Barcelona and other cities, while some clashes followed later.",
       "short_korean": "마드리드와 바르셀로나 등에서 행진 뒤 충돌이 일어났다.",
-      "date": "2026-11-12",
+      "date": "2026-11-13",
       "images": [
         "images/korean/9ce9d9a35ce6/1.jpg",
         "images/korean/9ce9d9a35ce6/2.jpg",

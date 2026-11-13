@@ -1,70 +1,70 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0163",
-  "generated_at": "2026-11-12T08:24:12.808Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0152",
+  "generated_at": "2026-11-13T08:00:56.509Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "케랄라 경찰조직 개편 항소 허용",
-      "english_title": "Kerala court revives the police association reshuffle",
-      "korean_desc": "2026년 11월 12일 케랄라 합의부가 항소를 허용했다 주는 기존 구조가 경찰 근무조건과 맞지 않았다고 말했다 계획은 회원과 자산을 두 협회로 나눴다 최신 판결은 개편을 막은 단독부 결정을 뒤집었다",
-      "english_desc": "On November 12, 2026, Kerala’s Division Bench allowed the State’s appeal. The State said the old structure no longer matched police service conditions. The plan would split members and assets between two associations. The latest ruling overturns the Single Bench decision that had blocked the reshuffle.",
-      "hook": "Kerala court revived the police reshuffle.",
-      "sticker": "What the court changed",
-      "korean_hook": "케랄라 법원이 개편을 되살렸다",
-      "takeaway_english": "The legal fight now turns on structure, representation and association rights.",
-      "takeaway_korean": "법적 싸움은 조직과 대표권으로 이어진다",
+      "korean_title": "함피에 남은 이슬람 유산",
+      "english_title": "Hampi’s Muslim past is hiding in plain sight",
+      "korean_desc": "함피에는 모스크와 무슬림 유적이 있다 이 유적은 무슬림의 중요한 역할을 보여준다 사원 조각에도 무슬림 기수가 보인다 이 증거는 단순한 종교 구분에 의문을 던진다",
+      "english_desc": "Hampi contains mosques, Sufi dargahs, Muslim settlements and Islamic sculptures. These remains show Muslims had a significant place in Vijayanagara’s history. Temple sculptures also show Muslim traders, horse handlers and riders. The evidence challenges a simple Hindu-Muslim reading of the empire.",
+      "hook": "Hampi’s ruins also tell a Muslim history.",
+      "sticker": "The history behind the ruins",
+      "korean_hook": "함피 유적에는 이슬람 역사도 있다",
+      "takeaway_english": "Hampi’s stones suggest an empire connected across religious and cultural lines.",
+      "takeaway_korean": "함피의 돌은 종교와 문화를 잇는 제국을 보여준다",
       "why_it_matters": [
         {
-          "english": "The decision affects who represents different groups of Kerala police personnel.",
-          "korean": "결정은 케랄라 경찰의 대표 방식을 바꿀 수 있다"
+          "english": "A fuller history can challenge rigid religious divisions.",
+          "korean": "전체 역사는 종교적 분열을 다시 보게 한다"
         },
         {
-          "english": "It also concerns control over association membership, committees and assets.",
-          "korean": "회원과 위원회와 자산의 통제도 걸려 있다"
+          "english": "Visitors can understand Hampi beyond its famous temples.",
+          "korean": "방문객은 사원 너머 함피를 이해할 수 있다"
         }
       ],
       "parties": [
         {
-          "label": "Kerala government",
-          "english": "It can continue defending the proposed association reorganisation.",
-          "korean": "제안한 협회 개편을 계속 방어할 수 있다"
+          "label": "Muslim communities",
+          "english": "Their presence remains visible in mosques, dargahs, settlements and sculptures.",
+          "korean": "그들의 흔적은 여러 유적에 남아 있다"
         },
         {
-          "label": "Kerala Police Officers Association",
-          "english": "Its membership, assets and future structure remain central to the dispute.",
-          "korean": "회원과 자산과 조직이 분쟁의 중심이다"
+          "label": "Vijayanagara rulers",
+          "english": "Their empire included Islamic architectural and military connections.",
+          "korean": "제국에는 이슬람 건축과 군사 교류가 있었다"
         },
         {
-          "label": "Kerala High Court",
-          "english": "Its Division Bench has allowed the State’s appeal.",
-          "korean": "고등법원 합의부가 주 항소를 허용했다"
+          "label": "Visitors",
+          "english": "They may see Hampi’s past as more mixed than simple religious labels suggest.",
+          "korean": "방문객은 더 복합적인 역사를 보게 된다"
         }
       ],
       "views": [
         {
-          "label": "Kerala government",
-          "english": "The State says common service conditions require a more suitable representative forum.",
-          "korean": "주는 공통 근무조건에 맞는 대표기구가 필요하다고 말한다"
+          "label": "Historians and heritage researchers",
+          "english": "Islamic monuments and Muslim figures were part of Vijayanagara’s political, military and urban life.",
+          "korean": "이슬람 유산은 제국 생활의 일부였다"
         },
         {
-          "label": "Police association side",
-          "english": "The association side says members should not lose their existing organisation without consent.",
-          "korean": "협회 측은 동의 없이 기존 조직을 잃어선 안 된다고 말한다"
+          "label": "A simpler popular narrative",
+          "english": "Hampi is often presented mainly through temples and a Hindu-Muslim opposition.",
+          "korean": "함피는 종종 사원 중심으로 설명된다"
         }
       ],
       "disagree": {
-        "english": "Critics may say the State’s administrative argument cannot override association rights.",
-        "korean": "비판자들은 행정 논리가 협회 권리를 넘을 수 없다고 말할 수 있다"
+        "english": "The evidence shows contact and coexistence, but it does not explain every Muslim community’s role equally well.",
+        "korean": "교류는 보이지만 모든 공동체의 역할은 분명하지 않다"
       },
-      "reader_question_korean": "경찰 협회는 계급별이어야 할까요?",
+      "reader_question_korean": "유적지는 여러 공동체의 역사를 보여줘야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Kerala HC Division Bench allows State’s appeal against Single Judge order quashing police association rejig",
+      "source_title": "Hampi’s Islamic heritage: An overlooked chapter in Vijayanagara history",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -74,1675 +74,710 @@
       "format_data": {
         "views": [
           {
-            "label": "Kerala government",
-            "english": "The existing structure no longer matched police ranks and service needs.",
-            "korean": "기존 구조가 경찰 계급과 맞지 않았다"
+            "label": "The article’s historical view",
+            "english": "Hampi’s mosques, tombs and Muslim settlements show a major part of Vijayanagara history.",
+            "korean": "함피의 모스크와 무덤은 역사를 보여준다"
           },
           {
-            "label": "Police association members",
-            "english": "The restructuring interfered with their right to continue their association.",
-            "korean": "개편이 협회 유지 권리를 침해했다"
+            "label": "The architectural view",
+            "english": "UNESCO describes Vijayanagara as a multi-religious and multi-ethnic society.",
+            "korean": "유네스코는 다종교 사회로 설명한다"
           }
         ]
       },
       "serious": false,
       "caption_lines": [
-        "The Division Bench ruling was reported on November 12, 2026.",
-        "Earlier rulings had challenged the government order."
+        "Hampi was the imperial capital of Vijayanagara.",
+        "The monuments include mosques, dargahs and Muslim settlements."
       ],
-      "reader_question": "Should police associations be organised by rank or shared service needs?",
-      "topic_tag": "Law",
+      "reader_question": "Should heritage sites show more than one community’s history?",
+      "topic_tag": "History",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Kerala HC Division Bench allows State’s appeal against Single Judge order quashing police association rejig",
-          "date": "2026-11-12",
-          "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-division-bench-allows-states-appeal-against-single-judge-order-quashing-police-association-rejig/article71692716.ece"
+          "title": "Hampi’s Islamic heritage: An overlooked chapter in Vijayanagara history",
+          "date": "2026-11-13",
+          "url": "https://www.thehindu.com/society/history-and-culture/beyond-binaries-tracing-hampis-islamic-heritage/article71685308.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "2026년",
-          "roman": "2026-nyeon",
-          "english": "year 2026",
+          "korean": "함피에는",
+          "roman": "Hampi-eneun",
+          "english": "in Hampi",
           "particle": false,
-          "suffix": "년"
+          "suffix": "에는"
         },
         {
-          "korean": "11월",
-          "roman": "11-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "12-il",
-          "english": "12th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "케랄라",
-          "roman": "keralla",
-          "english": "Kerala",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "합의부가",
-          "roman": "hab-uibu-ga",
-          "english": "the Division Bench",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "항소를",
-          "roman": "hangso-reul",
-          "english": "the appeal",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "허용했다",
-          "roman": "heoyonghaetda",
-          "english": "allowed",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On November 12, 2026, Kerala’s Division Bench allowed the State’s appeal.",
-          "korean": "2026년 11월 12일 케랄라 합의부가 항소를 허용했다",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "2026-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "12-il",
-              "english": "12th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "케랄라",
-              "roman": "keralla",
-              "english": "Kerala",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "합의부가",
-              "roman": "hab-uibu-ga",
-              "english": "the Division Bench",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "항소를",
-              "roman": "hangso-reul",
-              "english": "the appeal",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "허용했다",
-              "roman": "heoyonghaetda",
-              "english": "allowed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The State said the old structure no longer matched police service conditions.",
-          "korean": "주는 기존 구조가 경찰 근무조건과 맞지 않았다고 말했다",
-          "glossary": [
-            {
-              "korean": "주는",
-              "roman": "ju-neun",
-              "english": "the State",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "기존",
-              "roman": "gijon",
-              "english": "existing",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "구조가",
-              "roman": "gujo-ga",
-              "english": "structure",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "경찰",
-              "roman": "gyeongchal",
-              "english": "police",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "근무조건과",
-              "roman": "geunmu-jogeon-gwa",
-              "english": "service conditions",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "맞지",
-              "roman": "matji",
-              "english": "match",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "않았다고",
-              "roman": "an-assdago",
-              "english": "did not",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The plan would split members and assets between two associations.",
-          "korean": "계획은 회원과 자산을 두 협회로 나눴다",
-          "glossary": [
-            {
-              "korean": "계획은",
-              "roman": "gyehoek-eun",
-              "english": "the plan",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "회원과",
-              "roman": "hoewon-gwa",
-              "english": "members and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "자산을",
-              "roman": "jasan-eul",
-              "english": "assets",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "협회로",
-              "roman": "hyeophoe-ro",
-              "english": "into associations",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "나눴다",
-              "roman": "nanwotda",
-              "english": "split",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The latest ruling overturns the Single Bench decision that had blocked the reshuffle.",
-          "korean": "최신 판결은 개편을 막은 단독부 결정을 뒤집었다",
-          "glossary": [
-            {
-              "korean": "최신",
-              "roman": "choesin",
-              "english": "latest",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판결은",
-              "roman": "pangyeol-eun",
-              "english": "ruling",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "개편을",
-              "roman": "gaepyeon-eul",
-              "english": "the reshuffle",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "막은",
-              "roman": "mageun",
-              "english": "that blocked",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "단독부",
-              "roman": "dandokbu",
-              "english": "Single Bench",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "결정을",
-              "roman": "gyeoljeong-eul",
-              "english": "decision",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "뒤집었다",
-              "roman": "dwijibeotda",
-              "english": "overturned",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/national/kerala/kerala-hc-division-bench-allows-states-appeal-against-single-judge-order-quashing-police-association-rejig/article71692716.ece",
-      "short_english": "On November 12, 2026, Kerala’s Division Bench allowed the State’s appeal.",
-      "short_korean": "2026년 11월 12일 케랄라 합의부가 항소를 허용했다",
-      "date": "2026-11-12",
-      "images": [
-        "images/indian/d14cba9db270/1.jpg",
-        "images/indian/d14cba9db270/2.jpg",
-        "images/indian/d14cba9db270/3.jpg",
-        "images/indian/d14cba9db270/4.jpg",
-        "images/indian/d14cba9db270/5.jpg",
-        "images/indian/d14cba9db270/6.jpg",
-        "images/indian/d14cba9db270/7.jpg",
-        "images/indian/d14cba9db270/8.jpg",
-        "images/indian/d14cba9db270/9.jpg",
-        "images/indian/d14cba9db270/10.jpg",
-        "images/indian/d14cba9db270/11.jpg",
-        "images/indian/d14cba9db270/12.jpg",
-        "images/indian/d14cba9db270/13.jpg",
-        "images/indian/d14cba9db270/14.jpg",
-        "images/indian/d14cba9db270/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/d14cba9db270/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "안드라프라데시, 투자 허브 선언",
-      "english_title": "Andhra Pradesh puts ₹22.6 lakh crore on the red carpet",
-      "korean_desc": "11월 12일 파완 칼얀과 나라 로케시가 정상회의에서 주를 홍보했다 그들은 주를 안정적이고 안전한 투자지로 설명했다 로케시는 2024년 6월부터 약속이 늘었다고 말했다 정부는 항구와 친환경 에너지와 투자자보호법을 홍보한다 다음 질문은 발표된 사업의 실제 운영 여부다",
-      "english_desc": "On November 12, Pawan Kalyan and Nara Lokesh pitched Andhra Pradesh at the Vizag CII Summit. They described the State as stable, secure and friendly to investors. Lokesh said commitments had reached ₹22.6 lakh crore since June 2024. The government is promoting ports, green energy and an Investor Protection Act. The next question is whether announced projects become operating businesses.",
-      "hook": "Andhra Pradesh announced ₹22.6 lakh crore in commitments.",
-      "sticker": "The investment red carpet",
-      "korean_hook": "안드라프라데시가 투자 약속을 발표했다",
-      "takeaway_english": "The next test is delivery, not the size of the promise.",
-      "takeaway_korean": "다음 시험은 약속의 크기가 아니라 실행이다",
-      "why_it_matters": [
-        {
-          "english": "New projects could affect jobs, transport and business opportunities in the State.",
-          "korean": "새 사업은 주의 일자리와 교통과 사업기회를 바꿀 수 있다"
-        },
-        {
-          "english": "The government’s success depends on turning commitments into operating projects.",
-          "korean": "정부의 성공은 약속을 실제 사업으로 바꾸는 데 달렸다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Pawan Kalyan",
-          "english": "He presented Andhra Pradesh as stable, secure and investor-friendly.",
-          "korean": "그는 안드라프라데시를 안정적인 투자지로 소개했다"
-        },
-        {
-          "label": "Nara Lokesh",
-          "english": "He highlighted investment commitments, clearances and faster administration.",
-          "korean": "그는 투자 약속과 승인과 빠른 행정을 강조했다"
-        },
-        {
-          "label": "Global investors",
-          "english": "They were urged to build units and move headquarters to the State.",
-          "korean": "세계 투자자들은 본사를 주로 옮기라고 요청받았다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Andhra Pradesh government",
-          "english": "Political stability, ports, green energy and easier approvals can attract major companies.",
-          "korean": "정치 안정과 항구와 친환경 에너지가 기업을 끌 수 있다"
-        },
-        {
-          "label": "Implementation-focused observers",
-          "english": "Investment promises matter only when projects receive approvals and begin operating.",
-          "korean": "투자 약속은 사업이 실제로 시작될 때 중요하다"
-        }
-      ],
-      "disagree": {
-        "english": "Others may question how many announced projects will become working factories, offices or jobs.",
-        "korean": "다른 사람들은 발표된 사업의 실제 결과를 물을 수 있다"
-      },
-      "reader_question_korean": "큰 약속을 믿기 전에 무엇을 확인해야 할까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets",
-        "number missing in Korean: 22"
-      ],
-      "source_title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-      "hook_format": "number",
-      "body_format": "before_after",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "₹22.6 lakh crore",
-          "label": "investment commitments",
-          "korean_label": "투자 약속"
-        },
-        "before": {
-          "label": "",
-          "english": "Andhra Pradesh wanted to attract global companies and capital.",
-          "korean": "안드라프라데시는 세계 기업과 자본을 원했다"
-        },
-        "after": {
-          "label": "",
-          "english": "The government says commitments have reached ₹22.6 lakh crore since June 2024.",
-          "korean": "정부는 2024년 6월부터 약속이 늘었다고 말했다"
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "The summit opened in Visakhapatnam on November 12, 2026.",
-        "The government says 73% of projects already have regulatory clearances."
-      ],
-      "reader_question": "What should investors check before trusting a large promise?",
-      "topic_tag": "Business",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Pawan Kalyan pitches Andhra Pradesh as trusted global hub; Lokesh unveils red-carpet framework at 31st Vizag CII Summit",
-          "date": "2026-11-12",
-          "url": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "11월",
-          "roman": "11-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "12-il",
-          "english": "12th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "파완",
-          "roman": "pawan",
-          "english": "Pawan",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "칼얀과",
-          "roman": "kalyan-gwa",
-          "english": "Kalyan and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "나라",
-          "roman": "nara",
-          "english": "Nara",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "로케시가",
-          "roman": "ro-kesi-ga",
-          "english": "Lokesh",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "정상회의에서",
-          "roman": "jeongsanghoeui-eseo",
-          "english": "at the summit",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "주를",
-          "roman": "ju-reul",
-          "english": "the State",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "홍보했다",
-          "roman": "hongbohaetda",
-          "english": "promoted",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "On November 12, Pawan Kalyan and Nara Lokesh pitched Andhra Pradesh at the Vizag CII Summit.",
-          "korean": "11월 12일 파완 칼얀과 나라 로케시가 정상회의에서 주를 홍보했다",
-          "glossary": [
-            {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "12-il",
-              "english": "12th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "파완",
-              "roman": "pawan",
-              "english": "Pawan",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "칼얀과",
-              "roman": "kalyan-gwa",
-              "english": "Kalyan and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "나라",
-              "roman": "nara",
-              "english": "Nara",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "로케시가",
-              "roman": "ro-kesi-ga",
-              "english": "Lokesh",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "정상회의에서",
-              "roman": "jeongsanghoeui-eseo",
-              "english": "at the summit",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "주를",
-              "roman": "ju-reul",
-              "english": "the State",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "홍보했다",
-              "roman": "hongbohaetda",
-              "english": "promoted",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "They described the State as stable, secure and friendly to investors.",
-          "korean": "그들은 주를 안정적이고 안전한 투자지로 설명했다",
-          "glossary": [
-            {
-              "korean": "그들은",
-              "roman": "geudeul-eun",
-              "english": "they",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "주를",
-              "roman": "ju-reul",
-              "english": "the State",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "안정적이고",
-              "roman": "anjeongjeog-igo",
-              "english": "stable and",
-              "particle": false,
-              "suffix": "이고"
-            },
-            {
-              "korean": "안전한",
-              "roman": "anjeonhan",
-              "english": "safe",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "투자지로",
-              "roman": "tu-jaji-ro",
-              "english": "as an investment place",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "설명했다",
-              "roman": "seolmyeonghaetda",
-              "english": "described",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Lokesh said commitments had reached ₹22.6 lakh crore since June 2024.",
-          "korean": "로케시는 2024년 6월부터 약속이 늘었다고 말했다",
-          "glossary": [
-            {
-              "korean": "로케시는",
-              "roman": "ro-kesi-neun",
-              "english": "Lokesh",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "2024년",
-              "roman": "2024-nyeon",
-              "english": "2024",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "6월부터",
-              "roman": "6-wolbuteo",
-              "english": "since June",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "약속이",
-              "roman": "yaksok-i",
-              "english": "commitments",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "늘었다고",
-              "roman": "neureotdago",
-              "english": "had increased",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "The government is promoting ports, green energy and an Investor Protection Act.",
-          "korean": "정부는 항구와 친환경 에너지와 투자자보호법을 홍보한다",
-          "glossary": [
-            {
-              "korean": "정부는",
-              "roman": "jeongbu-neun",
-              "english": "the government",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "항구와",
-              "roman": "hanggu-wa",
-              "english": "ports and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "친환경",
-              "roman": "chin-hwangyeong",
-              "english": "green",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "에너지와",
-              "roman": "eneoji-wa",
-              "english": "energy and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "투자자보호법을",
-              "roman": "tujaja-boho-beob-eul",
-              "english": "Investor Protection Act",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "홍보한다",
-              "roman": "hongbohanda",
-              "english": "promotes",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The next question is whether announced projects become operating businesses.",
-          "korean": "다음 질문은 발표된 사업의 실제 운영 여부다",
-          "glossary": [
-            {
-              "korean": "다음",
-              "roman": "daeum",
-              "english": "next",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "질문은",
-              "roman": "jilmun-eun",
-              "english": "question",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "발표된",
-              "roman": "balpyodoen",
-              "english": "announced",
-              "particle": false,
-              "suffix": "된"
-            },
-            {
-              "korean": "사업의",
-              "roman": "saeop-ui",
-              "english": "projects'",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "실제",
-              "roman": "silje",
-              "english": "actual",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "운영",
-              "roman": "unyeong",
-              "english": "operation",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여부다",
-              "roman": "yeobuda",
-              "english": "whether",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/cities/Visakhapatnam/pawan-kalyan-pitches-andhra-pradesh-as-trusted-global-hub-lokesh-unveils-red-carpet-framework-at-31st-vizag-cii-summit/article71692595.ece",
-      "short_english": "On November 12, Pawan Kalyan and Nara Lokesh pitched Andhra Pradesh at the Vizag CII Summit.",
-      "short_korean": "11월 12일 파완 칼얀과 나라 로케시가 정상회의에서 주를 홍보했다",
-      "date": "2026-11-12",
-      "images": [
-        "images/indian/c0480851e4ad/1.jpg",
-        "images/indian/c0480851e4ad/2.jpg",
-        "images/indian/c0480851e4ad/3.jpg",
-        "images/indian/c0480851e4ad/4.jpg",
-        "images/indian/c0480851e4ad/5.jpg",
-        "images/indian/c0480851e4ad/6.jpg",
-        "images/indian/c0480851e4ad/7.jpg",
-        "images/indian/c0480851e4ad/8.jpg",
-        "images/indian/c0480851e4ad/9.jpg",
-        "images/indian/c0480851e4ad/10.jpg",
-        "images/indian/c0480851e4ad/11.jpg",
-        "images/indian/c0480851e4ad/12.jpg",
-        "images/indian/c0480851e4ad/13.jpg",
-        "images/indian/c0480851e4ad/14.jpg",
-        "images/indian/c0480851e4ad/15.jpg",
-        "images/indian/c0480851e4ad/16.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/c0480851e4ad/caption.txt"
-    },
-    {
-      "category": "Culture",
-      "korean_title": "인도에서 고급 술이 된 데킬라",
-      "english_title": "Tequila is leaving India’s shot glass behind",
-      "korean_desc": "2025년 인도 데킬라 판매가 고급술과 칵테일로 크게 늘었다 IWSR은 2025년 판매량 34%와 가치 66% 성장을 보고했다 바에서는 피칸테와 마가리타와 팔로마를 판다 전망은 2030년까지 판매량과 가치가 계속 오를 것으로 본다",
-      "english_desc": "Tequila sales in India grew strongly in 2025, led by premium drinks and cocktails. IWSR reported 34% volume growth and 66% value growth in 2025. Bars now feature tequila cocktails including the Picante, Margarita and Paloma. Forecasts expect tequila volume and value to keep rising through 2030.",
-      "hook": "Tequila is moving beyond shots in India.",
-      "sticker": "Beyond the shot glass 🍹",
-      "korean_hook": "데킬라가 인도에서 샷을 넘어섰다",
-      "takeaway_english": "India’s tequila boom is becoming a lesson in branding, farming and patience.",
-      "takeaway_korean": "인도 데킬라 붐은 브랜드와 농업의 이야기다",
-      "why_it_matters": [
-        {
-          "english": "Changing tastes are reshaping bars, restaurants and imported drink choices.",
-          "korean": "변하는 취향이 바와 식당과 수입술 선택을 바꾼다"
-        },
-        {
-          "english": "Tequila’s growth gives consumers more styles, flavours and price levels.",
-          "korean": "데킬라 성장은 더 많은 맛과 가격을 준다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Indian consumers",
-          "english": "They are trying premium spirits with stronger stories and origins.",
-          "korean": "인도 소비자들은 이야기가 있는 고급 술을 찾는다"
-        },
-        {
-          "label": "Campari Group",
-          "english": "It is using Espolòn to enter India’s growing tequila market.",
-          "korean": "캄파리그룹은 성장하는 인도 시장에 들어간다"
-        },
-        {
-          "label": "Mexican tequila makers",
-          "english": "They benefit as Indian drinkers learn about agave, regions and production.",
-          "korean": "멕시코 생산자들은 인도인의 관심에서 이익을 얻는다"
-        }
-      ],
-      "views": [
-        {
-          "label": "IWSR and drinks businesses",
-          "english": "Premiumisation and cocktail culture are making tequila more valuable in India.",
-          "korean": "고급화와 칵테일 문화가 인도 데킬라를 키운다"
-        },
-        {
-          "label": "Agave producers",
-          "english": "Growth may be limited because agave takes years to mature.",
-          "korean": "용설란은 자라는 데 오래 걸려 성장이 제한될 수 있다"
-        }
-      ],
-      "disagree": {
-        "english": "Some may say the trend remains mainly urban and premium rather than truly mainstream.",
-        "korean": "일부는 이 흐름이 아직 도시와 고급시장에 머문다고 말할 수 있다"
-      },
-      "reader_question_korean": "데킬라를 그대로 마셔 볼 건가요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Tequila in India is moving beyond shots to premium sipping",
-      "hook_format": "headline",
-      "body_format": "who_speaks",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "people": [
-          {
-            "label": "IWSR",
-            "english": "It recorded strong tequila growth in India during 2025.",
-            "korean": "IWSR은 2025년 인도 데킬라 성장을 기록했다"
-          },
-          {
-            "label": "Campari Group",
-            "english": "It launched three Espolòn tequilas in India in 2026.",
-            "korean": "캄파리그룹은 2026년 인도에 세 데킬라를 출시했다"
-          },
-          {
-            "label": "Indian bar culture",
-            "english": "It is helping cocktails such as the Picante, Margarita and Paloma grow.",
-            "korean": "인도 바 문화가 데킬라 칵테일을 키우고 있다"
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "Espolòn launched in Mumbai, Goa and Gurugram in 2026.",
-        "The bottles contain 40% alcohol by volume."
-      ],
-      "reader_question": "Would you try tequila neat or only in a cocktail?",
-      "topic_tag": "Tequila",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Tequila in India is moving beyond shots to premium sipping",
-          "date": "2026-11-12",
-          "url": "https://www.thehindu.com/food/features/tequila-in-india-is-moving-beyond-shots-to-premium-sipping/article71578889.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "2025년",
-          "roman": "2025-nyeon",
-          "english": "in 2025",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "인도",
-          "roman": "indo",
-          "english": "India",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "데킬라",
-          "roman": "dekilla",
-          "english": "tequila",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "판매가",
-          "roman": "panmae-ga",
-          "english": "sales",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "고급술과",
-          "roman": "gogeupsul-gwa",
-          "english": "premium drinks and",
-          "particle": false,
-          "suffix": "과"
-        },
-        {
-          "korean": "칵테일로",
-          "roman": "kakteil-ro",
-          "english": "through cocktails",
-          "particle": false,
-          "suffix": "로"
-        },
-        {
-          "korean": "크게",
-          "roman": "keuge",
-          "english": "greatly",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "늘었다",
-          "roman": "neureotda",
-          "english": "grew",
-          "particle": false,
-          "suffix": "었다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Tequila sales in India grew strongly in 2025, led by premium drinks and cocktails.",
-          "korean": "2025년 인도 데킬라 판매가 고급술과 칵테일로 크게 늘었다",
-          "glossary": [
-            {
-              "korean": "2025년",
-              "roman": "2025-nyeon",
-              "english": "in 2025",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "인도",
-              "roman": "indo",
-              "english": "India",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "데킬라",
-              "roman": "dekilla",
-              "english": "tequila",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "판매가",
-              "roman": "panmae-ga",
-              "english": "sales",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "고급술과",
-              "roman": "gogeupsul-gwa",
-              "english": "premium drinks and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "칵테일로",
-              "roman": "kakteil-ro",
-              "english": "through cocktails",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "크게",
-              "roman": "keuge",
-              "english": "greatly",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "늘었다",
-              "roman": "neureotda",
-              "english": "grew",
-              "particle": false,
-              "suffix": "었다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "IWSR reported 34% volume growth and 66% value growth in 2025.",
-          "korean": "IWSR은 2025년 판매량 34%와 가치 66% 성장을 보고했다",
-          "glossary": [
-            {
-              "korean": "IWSR은",
-              "roman": "IWSR-eun",
-              "english": "IWSR",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2025년",
-              "roman": "2025-nyeon",
-              "english": "in 2025",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "판매량",
-              "roman": "panmae-ryang",
-              "english": "volume",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "34%와",
-              "roman": "34%-wa",
-              "english": "34% and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "가치",
-              "roman": "gachi",
-              "english": "value",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "성장을",
-              "roman": "seongjang-eul",
-              "english": "growth",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "보고했다",
-              "roman": "bogohaetda",
-              "english": "reported",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "Bars now feature tequila cocktails including the Picante, Margarita and Paloma.",
-          "korean": "바에서는 피칸테와 마가리타와 팔로마를 판다",
-          "glossary": [
-            {
-              "korean": "바에서는",
-              "roman": "ba-eseoneun",
-              "english": "in bars",
-              "particle": false,
-              "suffix": "에서는"
-            },
-            {
-              "korean": "피칸테와",
-              "roman": "pikante-wa",
-              "english": "Picante and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "마가리타와",
-              "roman": "magarita-wa",
-              "english": "Margarita and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "팔로마를",
-              "roman": "palloma-reul",
-              "english": "Paloma",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "판다",
-              "roman": "panda",
-              "english": "sell",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Forecasts expect tequila volume and value to keep rising through 2030.",
-          "korean": "전망은 2030년까지 판매량과 가치가 계속 오를 것으로 본다",
-          "glossary": [
-            {
-              "korean": "전망은",
-              "roman": "jeonmang-eun",
-              "english": "forecasts",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2030년까지",
-              "roman": "2030-nyeon-kkaji",
-              "english": "through 2030",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "판매량과",
-              "roman": "panmae-ryang-gwa",
-              "english": "volume and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "가치가",
-              "roman": "gachi-ga",
-              "english": "value",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "계속",
-              "roman": "gyesok",
-              "english": " 계속",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "오를",
-              "roman": "oreul",
-              "english": "rise",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "것으로",
-              "roman": "geoseuro",
-              "english": "as",
-              "particle": false,
-              "suffix": "으로"
-            },
-            {
-              "korean": "본다",
-              "roman": "bonda",
-              "english": "expect",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/food/features/tequila-in-india-is-moving-beyond-shots-to-premium-sipping/article71578889.ece",
-      "short_english": "Tequila sales in India grew strongly in 2025, led by premium drinks and cocktails.",
-      "short_korean": "2025년 인도 데킬라 판매가 고급술과 칵테일로 크게 늘었다",
-      "date": "2026-11-12",
-      "images": [
-        "images/indian/cee55ca05292/1.jpg",
-        "images/indian/cee55ca05292/2.jpg",
-        "images/indian/cee55ca05292/3.jpg",
-        "images/indian/cee55ca05292/4.jpg",
-        "images/indian/cee55ca05292/5.jpg",
-        "images/indian/cee55ca05292/6.jpg",
-        "images/indian/cee55ca05292/7.jpg",
-        "images/indian/cee55ca05292/8.jpg",
-        "images/indian/cee55ca05292/9.jpg",
-        "images/indian/cee55ca05292/10.jpg",
-        "images/indian/cee55ca05292/11.jpg",
-        "images/indian/cee55ca05292/12.jpg",
-        "images/indian/cee55ca05292/13.jpg",
-        "images/indian/cee55ca05292/14.jpg",
-        "images/indian/cee55ca05292/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/indian/cee55ca05292/caption.txt"
-    },
-    {
-      "category": "Sports",
-      "korean_title": "프라그나난다와 에리게이시, 무승부 출발",
-      "english_title": "Praggnanandhaa and Erigaisi start with four draws",
-      "korean_desc": "11월 11일 프라그나난다와 에리게이시가 부다페스트에서 두 번씩 비겼다 파일럿은 빠른 클래식과 래피드와 블리츠를 시험한다 선수들은 45분과 매 수 30초를 받는다 프라그나난다는 B조 2위, 에리게이시는 D조 공동 2위다",
-      "english_desc": "On November 11, Praggnanandhaa and Erigaisi drew twice each in Budapest. The pilot tests a championship combining fast classical, rapid and blitz chess. Players receive 45 minutes and 30 extra seconds after every move. Praggnanandhaa is tied for second in Group B, while Erigaisi shares second in Group D.",
-      "hook": "India’s two stars began with four draws.",
-      "sticker": "Chess starts cautiously",
-      "korean_hook": "인도 두 스타가 무승부 네 번으로 시작했다",
-      "takeaway_english": "The opening day changed little, leaving the groups wide open.",
-      "takeaway_korean": "첫날 뒤에도 조 순위는 아직 열려 있다",
-      "why_it_matters": [
-        {
-          "english": "The results show how Indian grandmasters are handling a new competition format.",
-          "korean": "결과는 인도 선수들이 새 형식에 적응하는 모습을 보여 준다"
-        },
-        {
-          "english": "Every half-point matters in groups decided across several chess formats.",
-          "korean": "여러 형식의 조에서는 반점 하나도 중요하다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "R. Praggnanandhaa",
-          "english": "He sits tied for second in Group B after two draws.",
-          "korean": "그는 두 무승부 뒤 B조 공동 2위다"
-        },
-        {
-          "label": "Arjun Erigaisi",
-          "english": "He is among four players tied for second in Group D.",
-          "korean": "그는 D조 공동 2위 네 명 중 하나다"
-        },
-        {
-          "label": "Total Chess Tour",
-          "english": "The pilot combines fast classical, rapid and blitz chess.",
-          "korean": "파일럿 대회는 빠른 클래식과 래피드와 블리츠를 합친다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Tournament organisers",
-          "english": "Combining three formats is meant to find the most complete player.",
-          "korean": "세 형식을 합쳐 가장 완벽한 선수를 찾는다"
-        },
-        {
-          "label": "Traditional chess perspective",
-          "english": "Fast classical games reward decision-making under tighter time limits.",
-          "korean": "빠른 클래식은 짧은 시간의 판단력을 시험한다"
-        }
-      ],
-      "disagree": {
-        "english": "Some fans may prefer longer classical games because they allow deeper calculation.",
-        "korean": "일부 팬들은 더 깊은 계산을 위해 긴 클래식을 선호할 수 있다"
-      },
-      "reader_question_korean": "빠른 체스의 무승부는 신중함일까요?",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Praggnanandhaa, Erigaisi begin fast classical campaign with draws at Total Chess Pilot",
-      "hook_format": "number",
-      "body_format": "three_points",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "four draws",
-          "label": "opening draws",
-          "korean_label": "첫 무승부"
-        },
-        "points": [
-          {
-            "label": "",
-            "english": "Praggnanandhaa drew twice with Vincent Keymer.",
-            "korean": "프라그나난다는 빈센트 케이머와 두 번 비겼다"
-          },
-          {
-            "label": "",
-            "english": "Erigaisi drew twice with Hans Niemann.",
-            "korean": "에리게이시는 한스 니먼과 두 번 비겼다"
-          },
-          {
-            "label": "",
-            "english": "Vaishali lost once, then drew against Maxime Vachier-Lagrave.",
-            "korean": "바이샬리는 한 번 지고 비겼다"
-          }
-        ]
-      },
-      "serious": false,
-      "caption_lines": [
-        "The pilot is being held in Budapest from November 10 to 20, 2026.",
-        "Fast classical games give each player 45 minutes plus 30 seconds per move."
-      ],
-      "reader_question": "Do draws show caution or strong defence in fast chess?",
-      "topic_tag": "Chess",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Praggnanandhaa, Erigaisi begin fast classical campaign with draws at Total Chess Pilot",
-          "date": "2026-11-12",
-          "url": "https://www.thehindu.com/sport/praggnanandhaa-erigaisi-begin-fast-classical-campaign-with-draws-at-total-chess-pilot/article71692731.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "11월",
-          "roman": "11-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "11일",
-          "roman": "11-il",
-          "english": "11th",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "프라그나난다와",
-          "roman": "peurageu-nan-da-wa",
-          "english": "Praggnanandhaa and",
+          "korean": "모스크와",
+          "roman": "moseukeu-wa",
+          "english": "mosques and",
           "particle": false,
           "suffix": "와"
         },
         {
-          "korean": "에리게이시가",
-          "roman": "erigaisi-ga",
-          "english": "Erigaisi",
-          "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "부다페스트에서",
-          "roman": "budapeseuteu-eseo",
-          "english": "in Budapest",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "두",
-          "roman": "du",
-          "english": "two",
+          "korean": "무슬림",
+          "roman": "museullim",
+          "english": "Muslim",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "번씩",
-          "roman": "beon-ssik",
-          "english": "each",
+          "korean": "유적이",
+          "roman": "yujeog-i",
+          "english": "sites",
           "particle": false,
-          "suffix": "씩"
+          "suffix": "이"
         },
         {
-          "korean": "비겼다",
-          "roman": "bigyeotda",
-          "english": "drew",
+          "korean": "있다",
+          "roman": "it-da",
+          "english": "exist",
           "particle": false,
-          "suffix": ""
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "On November 11, Praggnanandhaa and Erigaisi drew twice each in Budapest.",
-          "korean": "11월 11일 프라그나난다와 에리게이시가 부다페스트에서 두 번씩 비겼다",
+          "english": "Hampi contains mosques, Sufi dargahs, Muslim settlements and Islamic sculptures.",
+          "korean": "함피에는 모스크와 무슬림 유적이 있다",
           "glossary": [
             {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
+              "korean": "함피에는",
+              "roman": "Hampi-eneun",
+              "english": "in Hampi",
               "particle": false,
-              "suffix": "월"
+              "suffix": "에는"
             },
             {
-              "korean": "11일",
-              "roman": "11-il",
-              "english": "11th",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "프라그나난다와",
-              "roman": "peurageu-nan-da-wa",
-              "english": "Praggnanandhaa and",
+              "korean": "모스크와",
+              "roman": "moseukeu-wa",
+              "english": "mosques and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "에리게이시가",
-              "roman": "erigaisi-ga",
-              "english": "Erigaisi",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "부다페스트에서",
-              "roman": "budapeseuteu-eseo",
-              "english": "in Budapest",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
+              "korean": "무슬림",
+              "roman": "museullim",
+              "english": "Muslim",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "번씩",
-              "roman": "beon-ssik",
-              "english": "each",
+              "korean": "유적이",
+              "roman": "yujeog-i",
+              "english": "sites",
               "particle": false,
-              "suffix": "씩"
+              "suffix": "이"
             },
             {
-              "korean": "비겼다",
-              "roman": "bigyeotda",
-              "english": "drew",
+              "korean": "있다",
+              "roman": "it-da",
+              "english": "exist",
               "particle": false,
-              "suffix": ""
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The pilot tests a championship combining fast classical, rapid and blitz chess.",
-          "korean": "파일럿은 빠른 클래식과 래피드와 블리츠를 시험한다",
+          "english": "These remains show Muslims had a significant place in Vijayanagara’s history.",
+          "korean": "이 유적은 무슬림의 중요한 역할을 보여준다",
           "glossary": [
             {
-              "korean": "파일럿은",
-              "roman": "pailreot-eun",
-              "english": "the pilot",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "빠른",
-              "roman": "ppareun",
-              "english": "fast",
+              "korean": "이",
+              "roman": "i",
+              "english": "these",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "클래식과",
-              "roman": "keullaesik-gwa",
-              "english": "classical and",
+              "korean": "유적은",
+              "roman": "yujeog-eun",
+              "english": "sites",
               "particle": false,
-              "suffix": "과"
+              "suffix": "은"
             },
             {
-              "korean": "래피드와",
-              "roman": "raepideu-wa",
-              "english": "rapid and",
+              "korean": "무슬림의",
+              "roman": "museullim-ui",
+              "english": "Muslims’",
               "particle": false,
-              "suffix": "와"
+              "suffix": "의"
             },
             {
-              "korean": "블리츠를",
-              "roman": "beullijeu-reul",
-              "english": "blitz",
+              "korean": "중요한",
+              "roman": "jung-yohan",
+              "english": "important",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "시험한다",
-              "roman": "siheomhanda",
-              "english": "tests",
+              "korean": "역할을",
+              "roman": "yeoghal-eul",
+              "english": "role",
               "particle": false,
-              "suffix": "한다"
+              "suffix": "을"
+            },
+            {
+              "korean": "보여준다",
+              "roman": "boyeo-junda",
+              "english": "shows",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Players receive 45 minutes and 30 extra seconds after every move.",
-          "korean": "선수들은 45분과 매 수 30초를 받는다",
+          "english": "Temple sculptures also show Muslim traders, horse handlers and riders.",
+          "korean": "사원 조각에도 무슬림 기수가 보인다",
           "glossary": [
             {
-              "korean": "선수들은",
-              "roman": "seonsu-deul-eun",
-              "english": "players",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "수",
-              "roman": "su",
-              "english": "move",
+              "korean": "사원",
+              "roman": "sawon",
+              "english": "temple",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "45분과",
-              "roman": "45-bun-gwa",
-              "english": "45 minutes and",
+              "korean": "조각에도",
+              "roman": "jogag-edo",
+              "english": "in sculptures too",
               "particle": false,
-              "suffix": "과"
+              "suffix": "에도"
             },
             {
-              "korean": "매",
-              "roman": "mae",
-              "english": "each",
+              "korean": "무슬림",
+              "roman": "museullim",
+              "english": "Muslim",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "30초를",
-              "roman": "30-cho-reul",
-              "english": "30 seconds",
+              "korean": "기수가",
+              "roman": "gisu-ga",
+              "english": "riders",
               "particle": false,
-              "suffix": "를"
+              "suffix": "가"
             },
             {
-              "korean": "받는다",
-              "roman": "batneunda",
-              "english": "receive",
+              "korean": "보인다",
+              "roman": "bo-in-da",
+              "english": "appear",
               "particle": false,
-              "suffix": "는다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Praggnanandhaa is tied for second in Group B, while Erigaisi shares second in Group D.",
-          "korean": "프라그나난다는 B조 2위, 에리게이시는 D조 공동 2위다",
+          "english": "The evidence challenges a simple Hindu-Muslim reading of the empire.",
+          "korean": "이 증거는 단순한 종교 구분에 의문을 던진다",
           "glossary": [
             {
-              "korean": "프라그나난다는",
-              "roman": "peurageu-nan-da-neun",
-              "english": "Praggnanandhaa",
+              "korean": "이",
+              "roman": "i",
+              "english": "this",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "증거는",
+              "roman": "jeung-geo-neun",
+              "english": "evidence",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "B조",
-              "roman": "B-jo",
-              "english": "Group B",
+              "korean": "단순한",
+              "roman": "dansunhan",
+              "english": "simple",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "2위",
-              "roman": "2-wi",
-              "english": "second place",
+              "korean": "종교",
+              "roman": "jong-gyo",
+              "english": "religious",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "에리게이시는",
-              "roman": "erigaisi-neun",
-              "english": "Erigaisi",
+              "korean": "구분에",
+              "roman": "gubun-e",
+              "english": "division",
               "particle": false,
-              "suffix": "는"
+              "suffix": "에"
             },
             {
-              "korean": "D조",
-              "roman": "D-jo",
-              "english": "Group D",
+              "korean": "의문을",
+              "roman": "uimun-eul",
+              "english": "question",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "공동",
-              "roman": "gongdong",
-              "english": "shared",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "2위다",
-              "roman": "2-wi-da",
-              "english": "is second",
+              "korean": "던진다",
+              "roman": "deonj-in-da",
+              "english": "throws",
               "particle": false,
               "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/sport/praggnanandhaa-erigaisi-begin-fast-classical-campaign-with-draws-at-total-chess-pilot/article71692731.ece",
-      "short_english": "On November 11, Praggnanandhaa and Erigaisi drew twice each in Budapest.",
-      "short_korean": "11월 11일 프라그나난다와 에리게이시가 부다페스트에서 두 번씩 비겼다",
-      "date": "2026-11-12",
+      "url": "https://www.thehindu.com/society/history-and-culture/beyond-binaries-tracing-hampis-islamic-heritage/article71685308.ece",
+      "short_english": "Hampi contains mosques, Sufi dargahs, Muslim settlements and Islamic sculptures.",
+      "short_korean": "함피에는 모스크와 무슬림 유적이 있다",
+      "date": "2026-11-13",
       "images": [
-        "images/indian/3a6849841877/1.jpg",
-        "images/indian/3a6849841877/2.jpg",
-        "images/indian/3a6849841877/3.jpg",
-        "images/indian/3a6849841877/4.jpg",
-        "images/indian/3a6849841877/5.jpg",
-        "images/indian/3a6849841877/6.jpg",
-        "images/indian/3a6849841877/7.jpg",
-        "images/indian/3a6849841877/8.jpg",
-        "images/indian/3a6849841877/9.jpg",
-        "images/indian/3a6849841877/10.jpg",
-        "images/indian/3a6849841877/11.jpg",
-        "images/indian/3a6849841877/12.jpg",
-        "images/indian/3a6849841877/13.jpg",
-        "images/indian/3a6849841877/14.jpg",
-        "images/indian/3a6849841877/15.jpg"
+        "images/indian/40126cd5fb59/1.jpg",
+        "images/indian/40126cd5fb59/2.jpg",
+        "images/indian/40126cd5fb59/3.jpg",
+        "images/indian/40126cd5fb59/4.jpg",
+        "images/indian/40126cd5fb59/5.jpg",
+        "images/indian/40126cd5fb59/6.jpg",
+        "images/indian/40126cd5fb59/7.jpg",
+        "images/indian/40126cd5fb59/8.jpg",
+        "images/indian/40126cd5fb59/9.jpg",
+        "images/indian/40126cd5fb59/10.jpg",
+        "images/indian/40126cd5fb59/11.jpg",
+        "images/indian/40126cd5fb59/12.jpg",
+        "images/indian/40126cd5fb59/13.jpg",
+        "images/indian/40126cd5fb59/14.jpg",
+        "images/indian/40126cd5fb59/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/3a6849841877/caption.txt"
+      "caption_file": "images/indian/40126cd5fb59/caption.txt"
     },
     {
-      "category": "Entertainment",
-      "korean_title": "비슈와데브, 다크 초콜릿 도전",
-      "english_title": "Why Dark Chocolate pushed Vishwadev to his limits",
-      "korean_desc": "비슈와데브 라차콘다가 2026년 11월 13일 개봉작에 출연한다 그는 한 장소가 약점보다 몰입의 강점이 됐다고 말한다 심리 스릴러는 불안한 쇠퇴 배우 야그나를 따른다 관객들은 대화와 음악과 한 장소가 영화를 지탱하는지 판단한다",
-      "english_desc": "Vishwadev Rachakonda stars in Dark Chocolate, releasing on November 13, 2026. He says the single setting became an immersive strength rather than a weakness. The psychological thriller follows Yagna, an insecure and fading actor. Viewers will judge whether dialogue, music and one setting can sustain the film.",
-      "hook": "Can one set make a film more intense?",
-      "sticker": "Inside the pressure cooker",
-      "korean_hook": "한 세트가 영화를 더 강하게 만들까?",
-      "takeaway_english": "The gamble is simple: make one room feel like an entire troubled world.",
-      "takeaway_korean": "도전은 한 방을 복잡한 세계로 만드는 것이다",
+      "category": "Business",
+      "korean_title": "마이크로소프트 장애 이틀째",
+      "english_title": "Microsoft’s outage reached a second day without a cause",
+      "korean_desc": "마이크로소프트 서비스가 11월 12일 세계적으로 멈췄다 사용자는 이메일과 업무 앱 문제를 신고했다 11월 13일 서버와 트래픽을 조사했다 복구 뒤 원인 보고서를 공개할 예정이다",
+      "english_desc": "Microsoft’s Outlook, Teams and other services suffered a global outage on November 12. Users reported missing emails, broken inboxes and problems with workplace applications. On November 13, Microsoft said traffic and backend servers were under investigation. Microsoft said a full root-cause report would follow after mitigation.",
+      "hook": "Microsoft services stayed disrupted into Friday.",
+      "sticker": "When the inbox stops",
+      "korean_hook": "마이크로소프트 장애가 금요일까지 이어졌다",
+      "takeaway_english": "Microsoft promised a post-incident report after the services are fully restored.",
+      "takeaway_korean": "복구 뒤 마이크로소프트는 사고 보고서를 낼 예정이다",
       "why_it_matters": [
         {
-          "english": "The film uses a limited space to explore anxiety and difficult behaviour.",
-          "korean": "영화는 제한된 공간에서 불안과 어려운 행동을 탐구한다"
+          "english": "Email and workplace tools support daily work across time zones.",
+          "korean": "이메일과 업무 도구는 매일 국제 업무를 돕는다"
         },
         {
-          "english": "It shows how independent filmmakers turn limits into creative choices.",
-          "korean": "독립영화 제작자가 한계를 창의적 선택으로 바꾸는 모습을 보여 준다"
+          "english": "A long outage can delay messages, support and company results.",
+          "korean": "긴 장애는 연락과 업무를 늦출 수 있다"
         }
       ],
       "parties": [
         {
-          "label": "Vishwadev Rachakonda",
-          "english": "He acted, produced and presented the film.",
-          "korean": "그는 영화에 출연하고 제작하고 발표했다"
+          "label": "Microsoft",
+          "english": "It was investigating traffic and backend server problems.",
+          "korean": "트래픽과 서버 문제를 조사했다"
         },
         {
-          "label": "Dark Chocolate",
-          "english": "The Telugu psychological thriller releases on November 13, 2026.",
-          "korean": "텔루구 심리 스릴러가 2026년 11월 13일 개봉한다"
+          "label": "Users and companies",
+          "english": "They lost access to email, messaging and workplace tools.",
+          "korean": "이메일과 업무 도구를 사용하지 못했다"
         },
         {
-          "label": "Viewers",
-          "english": "They will decide whether the unusual setting holds attention.",
-          "korean": "관객들은 독특한 장소가 흥미를 유지하는지 판단한다"
+          "label": "Air India",
+          "english": "It said flight operations were unaffected.",
+          "korean": "항공 운항은 영향을 받지 않았다고 말했다"
         }
       ],
       "views": [
         {
-          "label": "Vishwadev",
-          "english": "A single location can create an immersive world cut off from outside life.",
-          "korean": "한 장소가 바깥세상과 단절된 몰입 세계를 만들 수 있다"
+          "label": "Microsoft",
+          "english": "The company said it was not aware of malicious activity causing the incident.",
+          "korean": "회사는 악성 활동을 확인하지 못했다고 말했다"
         },
         {
-          "label": "Sceptical viewers",
-          "english": "A dialogue-heavy film on one set may struggle to hold attention.",
-          "korean": "대화 중심의 한 장소 영화는 흥미를 잃을 수 있다"
+          "label": "Business users",
+          "english": "The outage showed that companies need tested backup communication and continuity plans.",
+          "korean": "기업은 백업과 복구 계획을 시험해야 한다"
         }
       ],
       "disagree": {
-        "english": "The film’s success will depend on execution, not simply on its unusual constraint.",
-        "korean": "영화의 성공은 독특한 제약보다 완성도에 달릴 수 있다"
+        "english": "The final cause remained unknown, so outside observers could not yet assess whether the explanation was complete.",
+        "korean": "최종 원인이 없어 설명의 충분함을 판단하기 어려웠다"
       },
-      "reader_question_korean": "작은 공간은 스릴러를 더 가깝게 만들까요?",
+      "reader_question_korean": "기업은 백업 기술을 얼마나 준비해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Vishwadev Rachakonda interview: ‘Dark Chocolate’ challenged me on every possible level",
+      "source_title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
+      "hook_format": "number",
+      "body_format": "timeline",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "number": {
+          "value": "74",
+          "label": "countries and territories",
+          "korean_label": "국가와 지역"
+        },
+        "steps": [
+          {
+            "label": "",
+            "english": "November 12: Outlook, Teams, Copilot and Microsoft 365 reported widespread problems.",
+            "korean": "11월 12일 여러 서비스에 문제가 생겼다"
+          },
+          {
+            "label": "",
+            "english": "November 13: Microsoft continued investigating and restoring services.",
+            "korean": "11월 13일 복구와 원인 조사가 계속됐다"
+          },
+          {
+            "label": "",
+            "english": "November 13: Microsoft said it saw no known malicious activity.",
+            "korean": "11월 13일 악성 활동은 확인되지 않았다"
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The outage began on Thursday, November 12, 2026.",
+        "Downdetector said reports reached 74 countries and territories."
+      ],
+      "reader_question": "How much backup technology should a company maintain?",
+      "topic_tag": "Technology",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Microsoft Outage LIVE: Microsoft outage enters second day; company says not aware of malicious activity",
+          "date": "2026-11-13",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "마이크로소프트",
+          "roman": "maikeurosopeuteu",
+          "english": "Microsoft",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "서비스가",
+          "roman": "seobiseu-ga",
+          "english": "services",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibil-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "12일",
+          "roman": "sibi-il",
+          "english": "12th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "세계적으로",
+          "roman": "segyejeog-euro",
+          "english": "globally",
+          "particle": false,
+          "suffix": "적으로"
+        },
+        {
+          "korean": "멈췄다",
+          "roman": "meomchwot-da",
+          "english": "stopped",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Microsoft’s Outlook, Teams and other services suffered a global outage on November 12.",
+          "korean": "마이크로소프트 서비스가 11월 12일 세계적으로 멈췄다",
+          "glossary": [
+            {
+              "korean": "마이크로소프트",
+              "roman": "maikeurosopeuteu",
+              "english": "Microsoft",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "서비스가",
+              "roman": "seobiseu-ga",
+              "english": "services",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "12일",
+              "roman": "sibi-il",
+              "english": "12th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세계적으로",
+              "roman": "segyejeog-euro",
+              "english": "globally",
+              "particle": false,
+              "suffix": "적으로"
+            },
+            {
+              "korean": "멈췄다",
+              "roman": "meomchwot-da",
+              "english": "stopped",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Users reported missing emails, broken inboxes and problems with workplace applications.",
+          "korean": "사용자는 이메일과 업무 앱 문제를 신고했다",
+          "glossary": [
+            {
+              "korean": "사용자는",
+              "roman": "sayongja-neun",
+              "english": "users",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "이메일과",
+              "roman": "imeil-gwa",
+              "english": "emails and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "업무",
+              "roman": "eopmu",
+              "english": "work",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "앱",
+              "roman": "aep",
+              "english": "apps",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "문제를",
+              "roman": "munje-reul",
+              "english": "problems",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "신고했다",
+              "roman": "singohaet-da",
+              "english": "reported",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "On November 13, Microsoft said traffic and backend servers were under investigation.",
+          "korean": "11월 13일 서버와 트래픽을 조사했다",
+          "glossary": [
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "13일",
+              "roman": "sipsam-il",
+              "english": "13th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "서버와",
+              "roman": "seobeo-wa",
+              "english": "servers and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "트래픽을",
+              "roman": "teuraepig-eul",
+              "english": "traffic",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "조사했다",
+              "roman": "josahaet-da",
+              "english": "investigated",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Microsoft said a full root-cause report would follow after mitigation.",
+          "korean": "복구 뒤 원인 보고서를 공개할 예정이다",
+          "glossary": [
+            {
+              "korean": "복구",
+              "roman": "bokgu",
+              "english": "recovery",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "원인",
+              "roman": "won-in",
+              "english": "cause",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "보고서를",
+              "roman": "bogo-seo-reul",
+              "english": "report",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "공개할",
+              "roman": "gong-gae-hal",
+              "english": "will publish",
+              "particle": false,
+              "suffix": "할"
+            },
+            {
+              "korean": "예정이다",
+              "roman": "yejeong-i-da",
+              "english": "is planned",
+              "particle": false,
+              "suffix": "이다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-outage-live-updates-november-13-2026-steps-to-fix-outlook-and-other-apps-ongoing/article71696624.ece",
+      "short_english": "Microsoft’s Outlook, Teams and other services suffered a global outage on November 12.",
+      "short_korean": "마이크로소프트 서비스가 11월 12일 세계적으로 멈췄다",
+      "date": "2026-11-13",
+      "images": [
+        "images/indian/69c89831c707/1.jpg",
+        "images/indian/69c89831c707/2.jpg",
+        "images/indian/69c89831c707/3.jpg",
+        "images/indian/69c89831c707/4.jpg",
+        "images/indian/69c89831c707/5.jpg",
+        "images/indian/69c89831c707/6.jpg",
+        "images/indian/69c89831c707/7.jpg",
+        "images/indian/69c89831c707/8.jpg",
+        "images/indian/69c89831c707/9.jpg",
+        "images/indian/69c89831c707/10.jpg",
+        "images/indian/69c89831c707/11.jpg",
+        "images/indian/69c89831c707/12.jpg",
+        "images/indian/69c89831c707/13.jpg",
+        "images/indian/69c89831c707/14.jpg",
+        "images/indian/69c89831c707/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/69c89831c707/caption.txt"
+    },
+    {
+      "category": "Culture",
+      "korean_title": "에로드 출신 기술인의 세계 무대",
+      "english_title": "An Erode mason’s son earned global skills recognition",
+      "korean_desc": "22세 수렌티란은 2026년 9월 상하이에서 메달을 받았다 그는 월드스킬스 미장 부문에 참가했다 아버지의 건설 일이 어린 시절 배움이 됐다",
+      "english_desc": "M. Surenthiran, 22, won a Medal of Excellence in Shanghai in September 2026. He competed in Plastering and Drywall Systems at WorldSkills. His father’s construction work gave him early lessons during school holidays.",
+      "hook": "A mason’s son won global recognition for plastering.",
+      "sticker": "Skill goes global",
+      "korean_hook": "미장 기술로 세계 무대에 섰다",
+      "takeaway_english": "Surenthiran’s award puts skilled construction work on a world stage.",
+      "takeaway_korean": "수렌티란의 수상은 건설 기술을 세계에 알렸다",
+      "why_it_matters": [
+        {
+          "english": "Hands-on skills can open international opportunities.",
+          "korean": "실무 기술은 국제 기회를 열 수 있다"
+        },
+        {
+          "english": "Young people can see construction work as a serious career.",
+          "korean": "청년은 건설 일을 진지한 직업으로 볼 수 있다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "M. Surenthiran",
+          "english": "He received international recognition at age 22.",
+          "korean": "그는 22세에 국제적인 인정을 받았다"
+        },
+        {
+          "label": "M. Mani",
+          "english": "His construction work helped shape his son’s practical learning.",
+          "korean": "그의 건설 일은 아들의 실습을 도왔다"
+        },
+        {
+          "label": "WorldSkills",
+          "english": "The competition brought skilled young workers together in Shanghai.",
+          "korean": "대회는 상하이에 젊은 기술인을 모았다"
+        }
+      ],
+      "views": [
+        {
+          "label": "Surenthiran’s experience",
+          "english": "Practical exposure at construction sites helped build his foundation.",
+          "korean": "건설 현장 경험이 그의 기초를 만들었다"
+        },
+        {
+          "label": "The competition’s wider lesson",
+          "english": "WorldSkills presents skilled trades as international achievements, not second-choice work.",
+          "korean": "월드스킬스는 기술직을 국제 성취로 보여준다"
+        }
+      ],
+      "disagree": {
+        "english": "The available evidence explains his background and award, but gives few details about his exact competition performance.",
+        "korean": "배경과 수상은 알려졌지만 경기 내용은 적다"
+      },
+      "reader_question_korean": "기술직은 더 많은 관심을 받아야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "How a mason’s son from Erode won a Medal of Excellence at WorldSkills 2026",
       "hook_format": "headline",
       "body_format": "who_speaks",
       "question": "",
@@ -1752,149 +787,144 @@
       "format_data": {
         "people": [
           {
-            "label": "Vishwadev Rachakonda",
-            "english": "He plays Yagna, an insecure and fading actor.",
-            "korean": "그는 불안하고 쇠퇴하는 배우 야그나를 연기한다"
+            "label": "M. Surenthiran",
+            "english": "He won a Medal of Excellence in Plastering and Drywall Systems.",
+            "korean": "그는 미장과 벽체 부문에서 메달을 받았다"
           },
           {
-            "label": "The film",
-            "english": "It explores anxiety and mental health through dialogue and performance.",
-            "korean": "영화는 대화와 연기로 불안과 정신건강을 다룬다"
-          },
-          {
-            "label": "The production team",
-            "english": "It used one main set and a small cast.",
-            "korean": "제작진은 한 세트와 작은 출연진을 사용했다"
+            "label": "M. Mani",
+            "english": "His mason father gave him early exposure to construction work.",
+            "korean": "그의 아버지는 건설 일을 가르쳤다"
           }
         ]
       },
       "serious": false,
       "caption_lines": [
-        "Dark Chocolate is scheduled for worldwide release on November 13, 2026.",
-        "Vishwadev previously appeared in 35 – Chinna Katha Kaadu."
+        "WorldSkills Shanghai 2026 ran from September 22 to 27.",
+        "Surenthiran competed in Plastering and Drywall Systems."
       ],
-      "reader_question": "Does a small setting make a thriller feel closer or narrower?",
-      "topic_tag": "Cinema",
+      "reader_question": "Should skilled trades receive more public attention?",
+      "topic_tag": "Skills",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Vishwadev Rachakonda interview: ‘Dark Chocolate’ challenged me on every possible level",
-          "date": "2026-11-12",
-          "url": "https://www.thehindu.com/entertainment/movies/vishwadev-rachakonda-interview-dark-chocolate-challenged-me-on-every-possible-level/article71689410.ece"
+          "title": "How a mason’s son from Erode won a Medal of Excellence at WorldSkills 2026",
+          "date": "2026-11-13",
+          "url": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "비슈와데브",
-          "roman": "bisyu-wadebeu",
-          "english": "Vishwadev",
+          "korean": "22세",
+          "roman": "isibi-se",
+          "english": "22 years old",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "라차콘다가",
-          "roman": "racakon-da-ga",
-          "english": "Rachakonda",
+          "korean": "수렌티란은",
+          "roman": "Surentiran-eun",
+          "english": "Surenthiran",
           "particle": false,
-          "suffix": "가"
+          "suffix": "은"
         },
         {
           "korean": "2026년",
-          "roman": "2026-nyeon",
+          "roman": "icheon-isip-yug-nyeon",
           "english": "2026",
           "particle": false,
           "suffix": "년"
         },
         {
-          "korean": "11월",
-          "roman": "11-wol",
-          "english": "November",
+          "korean": "9월",
+          "roman": "gu-wol",
+          "english": "September",
           "particle": false,
-          "suffix": "월"
+          "suffix": ""
         },
         {
-          "korean": "13일",
-          "roman": "13-il",
-          "english": "13th",
+          "korean": "상하이에서",
+          "roman": "Sanghai-eseo",
+          "english": "in Shanghai",
           "particle": false,
-          "suffix": "일"
+          "suffix": "에서"
         },
         {
-          "korean": "개봉작에",
-          "roman": "gaebongjak-e",
-          "english": "in the release",
+          "korean": "메달을",
+          "roman": "medal-eul",
+          "english": "medal",
           "particle": false,
-          "suffix": "에"
+          "suffix": "을"
         },
         {
-          "korean": "출연한다",
-          "roman": "chulyeonhanda",
-          "english": "stars",
+          "korean": "받았다",
+          "roman": "bad-at-da",
+          "english": "received",
           "particle": false,
-          "suffix": "한다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Vishwadev Rachakonda stars in Dark Chocolate, releasing on November 13, 2026.",
-          "korean": "비슈와데브 라차콘다가 2026년 11월 13일 개봉작에 출연한다",
+          "english": "M. Surenthiran, 22, won a Medal of Excellence in Shanghai in September 2026.",
+          "korean": "22세 수렌티란은 2026년 9월 상하이에서 메달을 받았다",
           "glossary": [
             {
-              "korean": "비슈와데브",
-              "roman": "bisyu-wadebeu",
-              "english": "Vishwadev",
+              "korean": "22세",
+              "roman": "isibi-se",
+              "english": "22 years old",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "라차콘다가",
-              "roman": "racakon-da-ga",
-              "english": "Rachakonda",
+              "korean": "수렌티란은",
+              "roman": "Surentiran-eun",
+              "english": "Surenthiran",
               "particle": false,
-              "suffix": "가"
+              "suffix": "은"
             },
             {
               "korean": "2026년",
-              "roman": "2026-nyeon",
+              "roman": "icheon-isip-yug-nyeon",
               "english": "2026",
               "particle": false,
               "suffix": "년"
             },
             {
-              "korean": "11월",
-              "roman": "11-wol",
-              "english": "November",
+              "korean": "9월",
+              "roman": "gu-wol",
+              "english": "September",
               "particle": false,
-              "suffix": "월"
+              "suffix": ""
             },
             {
-              "korean": "13일",
-              "roman": "13-il",
-              "english": "13th",
+              "korean": "상하이에서",
+              "roman": "Sanghai-eseo",
+              "english": "in Shanghai",
               "particle": false,
-              "suffix": "일"
+              "suffix": "에서"
             },
             {
-              "korean": "개봉작에",
-              "roman": "gaebongjak-e",
-              "english": "in the release",
+              "korean": "메달을",
+              "roman": "medal-eul",
+              "english": "medal",
               "particle": false,
-              "suffix": "에"
+              "suffix": "을"
             },
             {
-              "korean": "출연한다",
-              "roman": "chulyeonhanda",
-              "english": "stars",
+              "korean": "받았다",
+              "roman": "bad-at-da",
+              "english": "received",
               "particle": false,
-              "suffix": "한다"
+              "suffix": "다"
             }
           ]
         },
         {
-          "stage": "truth",
-          "english": "He says the single setting became an immersive strength rather than a weakness.",
-          "korean": "그는 한 장소가 약점보다 몰입의 강점이 됐다고 말한다",
+          "stage": "why",
+          "english": "He competed in Plastering and Drywall Systems at WorldSkills.",
+          "korean": "그는 월드스킬스 미장 부문에 참가했다",
           "glossary": [
             {
               "korean": "그는",
@@ -1904,261 +934,964 @@
               "suffix": "는"
             },
             {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
+              "korean": "월드스킬스",
+              "roman": "Wol-deu-seukilseu",
+              "english": "WorldSkills",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "장소가",
-              "roman": "jangso-ga",
-              "english": "setting",
+              "korean": "미장",
+              "roman": "mijang",
+              "english": "plastering",
               "particle": false,
-              "suffix": "가"
+              "suffix": ""
             },
             {
-              "korean": "약점보다",
-              "roman": "yakjeom-boda",
-              "english": "rather than weakness",
+              "korean": "부문에",
+              "roman": "bumun-e",
+              "english": "in category",
               "particle": false,
-              "suffix": "보다"
+              "suffix": "에"
             },
             {
-              "korean": "몰입의",
-              "roman": "morip-ui",
-              "english": "of immersion",
+              "korean": "참가했다",
+              "roman": "chamgahaet-da",
+              "english": "competed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "His father’s construction work gave him early lessons during school holidays.",
+          "korean": "아버지의 건설 일이 어린 시절 배움이 됐다",
+          "glossary": [
+            {
+              "korean": "아버지의",
+              "roman": "abeoji-ui",
+              "english": "father’s",
               "particle": false,
               "suffix": "의"
             },
             {
-              "korean": "강점이",
-              "roman": "gangjeom-i",
-              "english": "strength",
+              "korean": "건설",
+              "roman": "geonseol",
+              "english": "construction",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "일이",
+              "roman": "il-i",
+              "english": "work",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "됐다고",
-              "roman": "dwaetdago",
-              "english": "became",
+              "korean": "어린",
+              "roman": "eorin",
+              "english": "young",
               "particle": false,
-              "suffix": "다고"
+              "suffix": ""
             },
             {
-              "korean": "말한다",
-              "roman": "malhanda",
-              "english": "says",
+              "korean": "시절",
+              "roman": "sijeol",
+              "english": "years",
               "particle": false,
-              "suffix": "한다"
+              "suffix": ""
+            },
+            {
+              "korean": "배움이",
+              "roman": "baeum-i",
+              "english": "learning",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "됐다",
+              "roman": "dwaet-da",
+              "english": "became",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/society/how-a-masons-son-from-erode-won-a-medal-of-excellence-at-worldskills-2026/article71687410.ece",
+      "short_english": "M. Surenthiran, 22, won a Medal of Excellence in Shanghai in September 2026.",
+      "short_korean": "22세 수렌티란은 2026년 9월 상하이에서 메달을 받았다",
+      "date": "2026-11-13",
+      "images": [
+        "images/indian/9a0a53b6b7d8/1.jpg",
+        "images/indian/9a0a53b6b7d8/2.jpg",
+        "images/indian/9a0a53b6b7d8/3.jpg",
+        "images/indian/9a0a53b6b7d8/4.jpg",
+        "images/indian/9a0a53b6b7d8/5.jpg",
+        "images/indian/9a0a53b6b7d8/6.jpg",
+        "images/indian/9a0a53b6b7d8/7.jpg",
+        "images/indian/9a0a53b6b7d8/8.jpg",
+        "images/indian/9a0a53b6b7d8/9.jpg",
+        "images/indian/9a0a53b6b7d8/10.jpg",
+        "images/indian/9a0a53b6b7d8/11.jpg",
+        "images/indian/9a0a53b6b7d8/12.jpg",
+        "images/indian/9a0a53b6b7d8/13.jpg",
+        "images/indian/9a0a53b6b7d8/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/9a0a53b6b7d8/caption.txt"
+    },
+    {
+      "category": "Sports",
+      "korean_title": "인도와 파키스탄의 U19 결승",
+      "english_title": "India needs more than two stars against Pakistan",
+      "korean_desc": "인도는 11월 14일 알아마라트에서 파키스탄과 결승전을 치렀다 인도는 지난해 패배 뒤 9번째 우승을 원했다 아리아비르 세화그는 303점, 이샨 수드는 11위켓을 기록했다 인도는 중간 타선과 스핀 투수의 도움이 필요했다",
+      "english_desc": "India faced Pakistan in the Under-19 Asia Cup final on November 14 in Al Amerat. India wanted its record-extending ninth title after losing to Pakistan last year. Aaryavir Sehwag scored 303 runs, while Ishan Sood took 11 wickets. India needed more from its middle order and supporting spinners.",
+      "hook": "India’s two stars need stronger team support.",
+      "sticker": "Final day in Oman 🏏",
+      "korean_hook": "인도의 두 스타에게 팀 지원이 필요하다",
+      "takeaway_english": "India’s final plan is simple: make its stars less lonely.",
+      "takeaway_korean": "인도의 결승 계획은 스타를 혼자 두지 않는 것이다",
+      "why_it_matters": [
+        {
+          "english": "Young players are competing for a major regional title.",
+          "korean": "젊은 선수들이 큰 지역 우승을 다툰다"
+        },
+        {
+          "english": "The match renews a major India-Pakistan cricket rivalry.",
+          "korean": "경기는 인도와 파키스탄의 라이벌전을 잇는다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "India Under-19",
+          "english": "It is seeking a record-extending ninth Under-19 Asia Cup title.",
+          "korean": "인도는 9번째 우승을 노린다"
+        },
+        {
+          "label": "Pakistan Under-19",
+          "english": "The defending champion has several strong batters and bowlers.",
+          "korean": "디펜딩 챔피언은 강한 선수들을 보유했다"
+        },
+        {
+          "label": "Aaryavir Sehwag and Ishan Sood",
+          "english": "They have carried much of India’s batting and bowling form.",
+          "korean": "두 선수는 인도의 공격을 이끌었다"
+        }
+      ],
+      "views": [
+        {
+          "label": "India’s case",
+          "english": "Better support around its leading performers could help India reclaim the trophy.",
+          "korean": "주요 선수 지원이 우승에 도움이 될 수 있다"
+        },
+        {
+          "label": "Pakistan’s case",
+          "english": "Pakistan beat India last year and has strong performers of its own.",
+          "korean": "파키스탄은 지난해 인도를 이겼고 강한 선수가 있다"
+        }
+      ],
+      "disagree": {
+        "english": "A final can turn on one innings or spell, so tournament form cannot guarantee the result.",
+        "korean": "결승은 한 이닝이나 한 투구로 달라질 수 있다"
+      },
+      "reader_question_korean": "결승에서는 스타와 선수층 중 무엇이 더 중요할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets",
+        "number missing in Korean: 19"
+      ],
+      "source_title": "Under-19 Asia Cup final: India eyes improved batting, bowling effort against Pakistan",
+      "hook_format": "number",
+      "body_format": "three_points",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "number": {
+          "value": "9",
+          "label": "India’s possible titles",
+          "korean_label": "인도의 우승 횟수"
+        },
+        "points": [
+          {
+            "label": "",
+            "english": "Aaryavir Sehwag leads the tournament’s run chart with 303 runs.",
+            "korean": "아리아비르 세화그는 303점을 기록했다"
+          },
+          {
+            "label": "",
+            "english": "Ishan Sood leads India’s bowling with 11 wickets.",
+            "korean": "이샨 수드는 11위켓을 기록했다"
+          },
+          {
+            "label": "",
+            "english": "India needs more batting and spin support in the final.",
+            "korean": "인도는 결승에서 타격과 스핀 지원이 필요하다"
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "The final was scheduled for November 14, 2026.",
+        "The match venue was Al Amerat, Oman."
+      ],
+      "reader_question": "Which matters more in a final: stars or team depth?",
+      "topic_tag": "Cricket",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Under-19 Asia Cup final: India eyes improved batting, bowling effort against Pakistan",
+          "date": "2026-11-13",
+          "url": "https://www.thehindu.com/sport/cricket/under-19-asia-cup-final-india-vs-pakistan-on-november-14-2026/article71697037.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "인도는",
+          "roman": "Indo-neun",
+          "english": "India",
+          "particle": false,
+          "suffix": "는"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibil-wol",
+          "english": "November",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "14일",
+          "roman": "sipsa-il",
+          "english": "14th",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "알아마라트에서",
+          "roman": "Alamarateu-eseo",
+          "english": "in Al Amerat",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "파키스탄과",
+          "roman": "Pakiseutan-gwa",
+          "english": "against Pakistan",
+          "particle": false,
+          "suffix": "과"
+        },
+        {
+          "korean": "결승전을",
+          "roman": "gyeolseungjeon-eul",
+          "english": "final",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "치렀다",
+          "roman": "chireot-da",
+          "english": "played",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "India faced Pakistan in the Under-19 Asia Cup final on November 14 in Al Amerat.",
+          "korean": "인도는 11월 14일 알아마라트에서 파키스탄과 결승전을 치렀다",
+          "glossary": [
+            {
+              "korean": "인도는",
+              "roman": "Indo-neun",
+              "english": "India",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "14일",
+              "roman": "sipsa-il",
+              "english": "14th",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "알아마라트에서",
+              "roman": "Alamarateu-eseo",
+              "english": "in Al Amerat",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "파키스탄과",
+              "roman": "Pakiseutan-gwa",
+              "english": "against Pakistan",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "결승전을",
+              "roman": "gyeolseungjeon-eul",
+              "english": "final",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "치렀다",
+              "roman": "chireot-da",
+              "english": "played",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "The psychological thriller follows Yagna, an insecure and fading actor.",
-          "korean": "심리 스릴러는 불안한 쇠퇴 배우 야그나를 따른다",
+          "english": "India wanted its record-extending ninth title after losing to Pakistan last year.",
+          "korean": "인도는 지난해 패배 뒤 9번째 우승을 원했다",
           "glossary": [
             {
-              "korean": "심리",
-              "roman": "simni",
-              "english": "psychological",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "스릴러는",
-              "roman": "seurilleo-neun",
-              "english": "thriller",
+              "korean": "인도는",
+              "roman": "Indo-neun",
+              "english": "India",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "불안한",
-              "roman": "buranhan",
-              "english": "insecure",
-              "particle": false,
-              "suffix": "한"
-            },
-            {
-              "korean": "쇠퇴",
-              "roman": "soetoe",
-              "english": "fading",
+              "korean": "지난해",
+              "roman": "jinanhae",
+              "english": "last year",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "배우",
-              "roman": "baeu",
-              "english": "actor",
+              "korean": "패배",
+              "roman": "pae-bae",
+              "english": "loss",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "야그나를",
-              "roman": "yagna-reul",
-              "english": "Yagna",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "따른다",
-              "roman": "ttareunda",
-              "english": "follows",
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
               "particle": false,
               "suffix": ""
+            },
+            {
+              "korean": "9번째",
+              "roman": "ahop-beonjjae",
+              "english": "ninth",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "우승을",
+              "roman": "useung-eul",
+              "english": "title",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "원했다",
+              "roman": "wonhaet-da",
+              "english": "wanted",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Aaryavir Sehwag scored 303 runs, while Ishan Sood took 11 wickets.",
+          "korean": "아리아비르 세화그는 303점, 이샨 수드는 11위켓을 기록했다",
+          "glossary": [
+            {
+              "korean": "아리아비르",
+              "roman": "Ariyabireu",
+              "english": "Aaryavir",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "세화그는",
+              "roman": "Sehwageu-neun",
+              "english": "Sehwag",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "303점",
+              "roman": "sambaek-sam-jeom",
+              "english": "303 runs",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이샨",
+              "roman": "Isyan",
+              "english": "Ishan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수드는",
+              "roman": "Sudeu-neun",
+              "english": "Sood",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "11위켓을",
+              "roman": "sibil-wiket-eul",
+              "english": "11 wickets",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "기록했다",
+              "roman": "girokhaet-da",
+              "english": "recorded",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "next",
-          "english": "Viewers will judge whether dialogue, music and one setting can sustain the film.",
-          "korean": "관객들은 대화와 음악과 한 장소가 영화를 지탱하는지 판단한다",
+          "english": "India needed more from its middle order and supporting spinners.",
+          "korean": "인도는 중간 타선과 스핀 투수의 도움이 필요했다",
           "glossary": [
             {
-              "korean": "관객들은",
-              "roman": "gwangaek-deul-eun",
-              "english": "viewers",
+              "korean": "인도는",
+              "roman": "Indo-neun",
+              "english": "India",
               "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
-              "korean": "대화와",
-              "roman": "daehwa-wa",
-              "english": "dialogue and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "음악과",
-              "roman": "eumak-gwa",
-              "english": "music and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
+              "korean": "중간",
+              "roman": "junggan",
+              "english": "middle",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "장소가",
-              "roman": "jangso-ga",
-              "english": "setting",
+              "korean": "타선과",
+              "roman": "taseon-gwa",
+              "english": "batting order and",
               "particle": false,
-              "suffix": "가"
+              "suffix": "과"
             },
             {
-              "korean": "영화를",
-              "roman": "yeonghwa-reul",
-              "english": "the film",
+              "korean": "스핀",
+              "roman": "seupin",
+              "english": "spin",
               "particle": false,
-              "suffix": "를"
+              "suffix": ""
             },
             {
-              "korean": "지탱하는지",
-              "roman": "jitaenghaneunji",
-              "english": "sustain whether",
+              "korean": "투수의",
+              "roman": "tusu-ui",
+              "english": "bowlers’",
               "particle": false,
-              "suffix": "는지"
+              "suffix": "의"
             },
             {
-              "korean": "판단한다",
-              "roman": "pandan-handa",
-              "english": "judge",
+              "korean": "도움이",
+              "roman": "doum-i",
+              "english": "help",
               "particle": false,
-              "suffix": "한다"
+              "suffix": "이"
+            },
+            {
+              "korean": "필요했다",
+              "roman": "piryohaet-da",
+              "english": "was needed",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/entertainment/movies/vishwadev-rachakonda-interview-dark-chocolate-challenged-me-on-every-possible-level/article71689410.ece",
-      "short_english": "Vishwadev Rachakonda stars in Dark Chocolate, releasing on November 13, 2026.",
-      "short_korean": "비슈와데브 라차콘다가 2026년 11월 13일 개봉작에 출연한다",
-      "date": "2026-11-12",
+      "url": "https://www.thehindu.com/sport/cricket/under-19-asia-cup-final-india-vs-pakistan-on-november-14-2026/article71697037.ece",
+      "short_english": "India faced Pakistan in the Under-19 Asia Cup final on November 14 in Al Amerat.",
+      "short_korean": "인도는 11월 14일 알아마라트에서 파키스탄과 결승전을 치렀다",
+      "date": "2026-11-13",
       "images": [
-        "images/indian/10ded0bad5bb/1.jpg",
-        "images/indian/10ded0bad5bb/2.jpg",
-        "images/indian/10ded0bad5bb/3.jpg",
-        "images/indian/10ded0bad5bb/4.jpg",
-        "images/indian/10ded0bad5bb/5.jpg",
-        "images/indian/10ded0bad5bb/6.jpg",
-        "images/indian/10ded0bad5bb/7.jpg",
-        "images/indian/10ded0bad5bb/8.jpg",
-        "images/indian/10ded0bad5bb/9.jpg",
-        "images/indian/10ded0bad5bb/10.jpg",
-        "images/indian/10ded0bad5bb/11.jpg",
-        "images/indian/10ded0bad5bb/12.jpg",
-        "images/indian/10ded0bad5bb/13.jpg",
-        "images/indian/10ded0bad5bb/14.jpg",
-        "images/indian/10ded0bad5bb/15.jpg"
+        "images/indian/afaaaee3ddec/1.jpg",
+        "images/indian/afaaaee3ddec/2.jpg",
+        "images/indian/afaaaee3ddec/3.jpg",
+        "images/indian/afaaaee3ddec/4.jpg",
+        "images/indian/afaaaee3ddec/5.jpg",
+        "images/indian/afaaaee3ddec/6.jpg",
+        "images/indian/afaaaee3ddec/7.jpg",
+        "images/indian/afaaaee3ddec/8.jpg",
+        "images/indian/afaaaee3ddec/9.jpg",
+        "images/indian/afaaaee3ddec/10.jpg",
+        "images/indian/afaaaee3ddec/11.jpg",
+        "images/indian/afaaaee3ddec/12.jpg",
+        "images/indian/afaaaee3ddec/13.jpg",
+        "images/indian/afaaaee3ddec/14.jpg",
+        "images/indian/afaaaee3ddec/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/10ded0bad5bb/caption.txt"
+      "caption_file": "images/indian/afaaaee3ddec/caption.txt"
     },
     {
-      "category": "World",
-      "korean_title": "수니타 윌리엄스, 뉴욕 퍼레이드 선두",
-      "english_title": "Sunita Williams leads New York’s Veterans Day parade",
-      "korean_desc": "수천 명의 참전용사와 군인과 지지자가 5번가를 행진했다 윌리엄스는 해군 복무를 용기와 우주 탐험에 연결했다 조란 맘다니 시장은 참전용사 지원을 약속했다",
-      "english_desc": "Thousands of veterans, service members and supporters marched along Fifth Avenue. Williams linked her Navy service with courage, commitment and space exploration. Mayor Zohran Mamdani called for housing, jobs, education and medical care for veterans.",
-      "hook": "Sunita Williams led New York’s 107th Veterans Day parade.",
-      "sticker": "Honouring veterans",
-      "korean_hook": "수니타 윌리엄스가 뉴욕 107번째 퍼레이드를 이끌었다",
-      "takeaway_english": "The ceremony remembers service, but its meaning also depends on support after the marching ends.",
-      "takeaway_korean": "행사는 복무를 기억하지만 이후 지원도 중요하다",
+      "category": "Entertainment",
+      "korean_title": "카사라발리 영화제에 모인 거장들",
+      "english_title": "Three film giants will meet Girish Kasaravalli",
+      "korean_desc": "칸픽은 12월 3일부터 5일까지 벵갈루루에서 영화제를 연다 행사는 카사라발리의 75세와 영화 50년을 기념한다 마니 라트남과 아누라그 카시압이 대화에 참여한다 카사라발리 영화 6편은 무료지만 등록이 필요하다",
+      "english_desc": "KANFICC will hold a Girish Kasaravalli festival from December 3 to 5 in Bengaluru. The event marks Kasaravalli’s 75th birthday and 50 years in cinema. Mani Ratnam, Anurag Kashyap and Resul Pookutty will join festival conversations. Six Kasaravalli films will screen free, but masterclasses need registration.",
+      "hook": "Three major filmmakers will join Kasaravalli’s festival.",
+      "sticker": "A cinema reunion 🎬",
+      "korean_hook": "세 거장이 카사라발리 영화제에 온다",
+      "takeaway_english": "The festival turns a birthday tribute into a compact cinema lesson.",
+      "takeaway_korean": "이 영화제는 생일 축하를 작은 영화 수업으로 만든다",
       "why_it_matters": [
         {
-          "english": "The parade honours veterans while drawing attention to their ongoing needs.",
-          "korean": "퍼레이드는 참전용사를 기리며 계속되는 필요도 보여 준다"
+          "english": "Audiences can meet influential Indian filmmakers in one festival.",
+          "korean": "관객은 한 영화제에서 인도 거장들을 만난다"
         },
         {
-          "english": "Williams connects military service, space exploration and public role models.",
-          "korean": "윌리엄스는 군 복무와 우주 탐험을 연결한다"
+          "english": "Free screenings make celebrated Kannada cinema easier to explore.",
+          "korean": "무료 상영은 칸나다 영화를 쉽게 접하게 한다"
         }
       ],
       "parties": [
         {
-          "label": "Sunita Williams",
-          "english": "The retired Navy captain and NASA astronaut served as Grand Marshal.",
-          "korean": "퇴역 해군 대위이자 우주비행사가 선두를 맡았다"
+          "label": "Girish Kasaravalli",
+          "english": "The festival celebrates his 50-year cinema journey and 75th birthday.",
+          "korean": "영화제는 그의 50년 여정과 75세를 기념한다"
         },
         {
-          "label": "New York veterans",
-          "english": "Thousands joined the annual Fifth Avenue parade.",
-          "korean": "수천 명의 뉴욕 참전용사가 5번가 퍼레이드에 참여했다"
+          "label": "Mani Ratnam and Anurag Kashyap",
+          "english": "They will interact with Kasaravalli during the festival.",
+          "korean": "두 감독은 영화제에서 카사라발리와 대화한다"
         },
         {
-          "label": "United War Veterans Council",
-          "english": "It organised the 107th parade on November 11, 2026.",
-          "korean": "단체는 2026년 11월 11일 107번째 퍼레이드를 열었다"
+          "label": "The public",
+          "english": "People can attend screenings for free, while masterclasses require registration.",
+          "korean": "상영은 무료지만 마스터클래스는 등록이 필요하다"
         }
       ],
       "views": [
         {
-          "label": "United War Veterans Council",
-          "english": "Williams’s military and space career embodies the values honoured by Veterans Day.",
-          "korean": "윌리엄스의 군 복무와 우주 경력이 참전용사의 가치를 보여 준다"
+          "label": "KANFICC",
+          "english": "The festival honors Kasaravalli’s long career through films and conversations.",
+          "korean": "영화제는 작품과 대화로 그의 경력을 기린다"
         },
         {
-          "label": "New York City Mayor Zohran Mamdani",
-          "english": "Honouring veterans also requires practical support throughout the year.",
-          "korean": "참전용사 존중에는 일 년 내내 실질적 지원이 필요하다"
+          "label": "Film audiences",
+          "english": "The event offers a rare chance to see major filmmakers discuss cinema together.",
+          "korean": "관객은 거장들의 영화 대화를 볼 기회를 얻는다"
         }
       ],
       "disagree": {
-        "english": "Some may argue that ceremonial praise means little without stronger services for veterans and families.",
-        "korean": "일부는 행사보다 참전용사 지원이 더 중요하다고 말할 수 있다"
+        "english": "Only 200 masterclass seats are available, so free screenings and conversations will not be equally accessible.",
+        "korean": "마스터클래스 좌석은 200개뿐이라 접근성이 다르다"
       },
-      "reader_question_korean": "도시는 퍼레이드 외에 참전용사를 어떻게 도와야 할까요?",
+      "reader_question_korean": "고전 영화와 감독 대화 중 무엇을 고르겠어요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Sunita Williams serves as Grand Marshal at 107th New York City Veterans Day Parade",
+      "source_title": "Mani Ratnam, Anurag Kashyap to interact with the auteur at Girish Kasaravalli Film Festival",
+      "hook_format": "vocab",
+      "body_format": "poll",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "poll": {
+          "question": "Which sounds most exciting: screenings or masterclasses?",
+          "question_korean": "상영과 마스터클래스 중 무엇이 더 기대되나요?",
+          "options": [
+            {
+              "label": "",
+              "english": "Free film screenings",
+              "korean": "무료 영화 상영"
+            },
+            {
+              "label": "",
+              "english": "Masterclass conversations",
+              "korean": "마스터클래스 대화"
+            }
+          ]
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "The festival runs from December 3 to 5.",
+        "Masterclass registration is limited to 200 seats."
+      ],
+      "reader_question": "Would you choose a classic film or a filmmaker conversation?",
+      "topic_tag": "Cinema",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Mani Ratnam, Anurag Kashyap to interact with the auteur at Girish Kasaravalli Film Festival",
+          "date": "2026-11-12",
+          "url": "https://www.thehindu.com/entertainment/movies/mani-ratnam-anurag-kashyap-to-interact-with-the-auteur-at-girish-kasaravalli-film-festival/article71693786.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "칸픽은",
+          "roman": "Kanpik-eun",
+          "english": "KANFICC",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "12월",
+          "roman": "sibi-wol",
+          "english": "December",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "3일부터",
+          "roman": "sam-ilbuteo",
+          "english": "from the 3rd",
+          "particle": false,
+          "suffix": "부터"
+        },
+        {
+          "korean": "5일까지",
+          "roman": "o-ilkkaji",
+          "english": "until the 5th",
+          "particle": false,
+          "suffix": "까지"
+        },
+        {
+          "korean": "벵갈루루에서",
+          "roman": "Bengalluru-eseo",
+          "english": "in Bengaluru",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "영화제를",
+          "roman": "yeonghwaje-reul",
+          "english": "film festival",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "연다",
+          "roman": "yeon-da",
+          "english": "holds",
+          "particle": false,
+          "suffix": "다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "KANFICC will hold a Girish Kasaravalli festival from December 3 to 5 in Bengaluru.",
+          "korean": "칸픽은 12월 3일부터 5일까지 벵갈루루에서 영화제를 연다",
+          "glossary": [
+            {
+              "korean": "칸픽은",
+              "roman": "Kanpik-eun",
+              "english": "KANFICC",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "12월",
+              "roman": "sibi-wol",
+              "english": "December",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "3일부터",
+              "roman": "sam-ilbuteo",
+              "english": "from the 3rd",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "5일까지",
+              "roman": "o-ilkkaji",
+              "english": "until the 5th",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "벵갈루루에서",
+              "roman": "Bengalluru-eseo",
+              "english": "in Bengaluru",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "영화제를",
+              "roman": "yeonghwaje-reul",
+              "english": "film festival",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "연다",
+              "roman": "yeon-da",
+              "english": "holds",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "The event marks Kasaravalli’s 75th birthday and 50 years in cinema.",
+          "korean": "행사는 카사라발리의 75세와 영화 50년을 기념한다",
+          "glossary": [
+            {
+              "korean": "행사는",
+              "roman": "haengsa-neun",
+              "english": "event",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "카사라발리의",
+              "roman": "Kasaraballi-ui",
+              "english": "Kasaravalli’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "75세와",
+              "roman": "chilsip-o-se-wa",
+              "english": "75th birthday and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "영화",
+              "roman": "yeonghwa",
+              "english": "cinema",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "50년을",
+              "roman": "osip-nyeon-eul",
+              "english": "50 years",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "기념한다",
+              "roman": "ginyeomhan-da",
+              "english": "celebrates",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Mani Ratnam, Anurag Kashyap and Resul Pookutty will join festival conversations.",
+          "korean": "마니 라트남과 아누라그 카시압이 대화에 참여한다",
+          "glossary": [
+            {
+              "korean": "마니",
+              "roman": "Mani",
+              "english": "Mani",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "라트남과",
+              "roman": "Rateunam-gwa",
+              "english": "Ratnam and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "아누라그",
+              "roman": "Anurageu",
+              "english": "Anurag",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "카시압이",
+              "roman": "Kasiab-i",
+              "english": "Kashyap",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "대화에",
+              "roman": "daehwa-e",
+              "english": "in conversations",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "참여한다",
+              "roman": "chamyeohan-da",
+              "english": "participate",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "Six Kasaravalli films will screen free, but masterclasses need registration.",
+          "korean": "카사라발리 영화 6편은 무료지만 등록이 필요하다",
+          "glossary": [
+            {
+              "korean": "카사라발리",
+              "roman": "Kasaraballi",
+              "english": "Kasaravalli",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "영화",
+              "roman": "yeonghwa",
+              "english": "films",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "6편은",
+              "roman": "yug-pyeon-eun",
+              "english": "six films",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "무료지만",
+              "roman": "muryo-jiman",
+              "english": "free but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "등록이",
+              "roman": "deungnok-i",
+              "english": "registration",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "필요하다",
+              "roman": "piryoha-da",
+              "english": "is needed",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/entertainment/movies/mani-ratnam-anurag-kashyap-to-interact-with-the-auteur-at-girish-kasaravalli-film-festival/article71693786.ece",
+      "short_english": "KANFICC will hold a Girish Kasaravalli festival from December 3 to 5 in Bengaluru.",
+      "short_korean": "칸픽은 12월 3일부터 5일까지 벵갈루루에서 영화제를 연다",
+      "date": "2026-11-13",
+      "images": [
+        "images/indian/68f73eceec0b/1.jpg",
+        "images/indian/68f73eceec0b/2.jpg",
+        "images/indian/68f73eceec0b/3.jpg",
+        "images/indian/68f73eceec0b/4.jpg",
+        "images/indian/68f73eceec0b/5.jpg",
+        "images/indian/68f73eceec0b/6.jpg",
+        "images/indian/68f73eceec0b/7.jpg",
+        "images/indian/68f73eceec0b/8.jpg",
+        "images/indian/68f73eceec0b/9.jpg",
+        "images/indian/68f73eceec0b/10.jpg",
+        "images/indian/68f73eceec0b/11.jpg",
+        "images/indian/68f73eceec0b/12.jpg",
+        "images/indian/68f73eceec0b/13.jpg",
+        "images/indian/68f73eceec0b/14.jpg",
+        "images/indian/68f73eceec0b/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/indian/68f73eceec0b/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "히말라야 홍수와 기후 행동",
+      "english_title": "Himalayan floods sharpen the fight over climate money",
+      "korean_desc": "유엔 기후 수장 사이먼 스티엘은 홍수와 행동을 연결했다 그는 공정한 전환과 적응 재정을 요구했다 11월 9일 협상단은 적응 재정 안건을 채택하지 못했다 네팔에는 잠정 손실과 피해 재정 2160만 달러가 배정됐다 COP31은 약속을 보호와 실제 재정으로 바꿔야 한다",
+      "english_desc": "UN climate chief Simon Stiell linked this year’s Himalayan floods to urgent climate action. He called for a just fossil-fuel transition and more adaptation finance. On November 9, negotiators failed to adopt a standalone adaptation-finance agenda item. A provisional $21.6 million loss-and-damage allocation was announced for Nepal. COP31 still has to turn promises into protection and practical funding.",
+      "hook": "Himalayan floods are testing climate promises.",
+      "sticker": "What climate promises mean",
+      "korean_hook": "히말라야 홍수가 기후 약속을 시험한다",
+      "takeaway_english": "COP31 must turn climate warnings into money, protection and measurable action.",
+      "takeaway_korean": "COP31은 경고를 재정과 보호 행동으로 바꿔야 한다",
+      "why_it_matters": [
+        {
+          "english": "Mountain disasters threaten communities, infrastructure and national recovery.",
+          "korean": "산악 재난은 주민과 기반시설을 위협한다"
+        },
+        {
+          "english": "Climate finance affects whether vulnerable countries can adapt.",
+          "korean": "기후 재정은 취약국의 적응을 좌우한다"
+        }
+      ],
+      "parties": [
+        {
+          "label": "Simon Stiell",
+          "english": "He urged faster, fairer climate action at COP31 in Antalya.",
+          "korean": "그는 안탈리아 COP31에서 행동을 촉구했다"
+        },
+        {
+          "label": "Nepal",
+          "english": "Nepal received an initial provisional loss-and-damage allocation of $21.6 million.",
+          "korean": "네팔은 초기 2160만 달러를 배정받았다"
+        },
+        {
+          "label": "COP31 negotiators",
+          "english": "They did not formally adopt a standalone agenda item on tripling adaptation finance.",
+          "korean": "협상단은 적응 재정 안건을 채택하지 않았다"
+        }
+      ],
+      "views": [
+        {
+          "label": "UN climate leadership",
+          "english": "The Himalayan crisis shows why international climate cooperation remains necessary.",
+          "korean": "히말라야 위기는 국제 협력이 필요함을 보여준다"
+        },
+        {
+          "label": "Vulnerable countries",
+          "english": "They argue that finance must arrive faster and at a much larger scale.",
+          "korean": "취약국은 더 빠르고 큰 재정을 요구한다"
+        }
+      ],
+      "disagree": {
+        "english": "The formal mountain and adaptation agenda proposals failed to win enough support, showing a gap between warnings and decisions.",
+        "korean": "산악과 적응 안건은 지지를 얻지 못해 격차를 보였다"
+      },
+      "reader_question_korean": "부유한 국가는 기후 재난 뒤 무엇을 먼저 지원해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
       "hook_format": "headline",
       "body_format": "two_views",
       "question": "",
@@ -2168,268 +1901,410 @@
       "format_data": {
         "views": [
           {
-            "label": "United War Veterans Council",
-            "english": "Williams represents service, commitment and sacrifice.",
-            "korean": "윌리엄스는 복무와 헌신과 희생을 상징한다"
+            "label": "UN climate chief Simon Stiell",
+            "english": "Countries must act faster and fairer, while moving away from fossil fuels.",
+            "korean": "각국은 더 빠르고 공정하게 행동해야 한다"
           },
           {
-            "label": "New York City officials",
-            "english": "Honouring veterans should also mean housing, jobs, education and medical care.",
-            "korean": "참전용사 존중에는 주거와 일자리와 의료도 포함돼야 한다"
+            "label": "Nepal and Bhutan",
+            "english": "Mountain countries want stronger formal attention to glaciers, finance and adaptation.",
+            "korean": "산악 국가는 빙하와 재정 논의를 원한다"
           }
         ]
       },
       "serious": true,
       "caption_lines": [
-        "The parade took place on Fifth Avenue on November 11, 2026.",
-        "Williams logged 608 days in space, according to the United War Veterans Council."
+        "COP31 is being held in Antalya, Türkiye, from November 9 to 20.",
+        "The formal adaptation-finance agenda was not adopted on November 9."
       ],
-      "reader_question": "How should cities honour veterans beyond one annual parade?",
-      "topic_tag": "Veterans",
+      "reader_question": "What should wealthy countries fund first after climate disasters?",
+      "topic_tag": "Climate",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Sunita Williams serves as Grand Marshal at 107th New York City Veterans Day Parade",
-          "date": "2026-11-12",
-          "url": "https://www.thehindu.com/news/international/sunita-williams-serves-as-grand-marshal-at-107th-new-york-city-veterans-day-parade/article71692666.ece"
+          "title": "COP31: Himalayan flash floods should push all to act ‘faster and fairer’ on climate change: UN climate chief",
+          "date": "2026-11-13",
+          "url": "https://www.thehindu.com/news/international/cop31-himalayan-flash-floods-should-push-all-to-act-faster-and-fairer-on-climate-change-un-climate-chief/article71696870.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "수천",
-          "roman": "sucheon",
-          "english": "thousands",
+          "korean": "유엔",
+          "roman": "Yuen",
+          "english": "UN",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "명의",
-          "roman": "myeong-ui",
-          "english": "of people",
+          "korean": "기후",
+          "roman": "gihu",
+          "english": "climate",
           "particle": false,
-          "suffix": "의"
+          "suffix": ""
         },
         {
-          "korean": "참전용사와",
-          "roman": "chamjeon-yongsa-wa",
-          "english": "veterans and",
+          "korean": "수장",
+          "roman": "sujang",
+          "english": "chief",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "사이먼",
+          "roman": "Saimon",
+          "english": "Simon",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "스티엘은",
+          "roman": "Seutiel-eun",
+          "english": "Stiell",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "홍수와",
+          "roman": "hongsu-wa",
+          "english": "floods and",
           "particle": false,
           "suffix": "와"
         },
         {
-          "korean": "군인과",
-          "roman": "gunin-gwa",
-          "english": "service members and",
+          "korean": "행동을",
+          "roman": "haengdong-eul",
+          "english": "action",
           "particle": false,
-          "suffix": "과"
+          "suffix": "을"
         },
         {
-          "korean": "지지자가",
-          "roman": "jiji-ja-ga",
-          "english": "supporters",
+          "korean": "연결했다",
+          "roman": "yeongyeolhaet-da",
+          "english": "linked",
           "particle": false,
-          "suffix": "가"
-        },
-        {
-          "korean": "5번가를",
-          "roman": "5-beon-ga-reul",
-          "english": "Fifth Avenue",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "행진했다",
-          "roman": "haengjinhaetda",
-          "english": "marched",
-          "particle": false,
-          "suffix": "했다"
+          "suffix": "다"
         }
       ],
       "sentences": [
         {
-          "stage": "how",
-          "english": "Thousands of veterans, service members and supporters marched along Fifth Avenue.",
-          "korean": "수천 명의 참전용사와 군인과 지지자가 5번가를 행진했다",
+          "stage": "what",
+          "english": "UN climate chief Simon Stiell linked this year’s Himalayan floods to urgent climate action.",
+          "korean": "유엔 기후 수장 사이먼 스티엘은 홍수와 행동을 연결했다",
           "glossary": [
             {
-              "korean": "수천",
-              "roman": "sucheon",
-              "english": "thousands",
+              "korean": "유엔",
+              "roman": "Yuen",
+              "english": "UN",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "명의",
-              "roman": "myeong-ui",
-              "english": "of people",
+              "korean": "기후",
+              "roman": "gihu",
+              "english": "climate",
               "particle": false,
-              "suffix": "의"
+              "suffix": ""
             },
             {
-              "korean": "참전용사와",
-              "roman": "chamjeon-yongsa-wa",
-              "english": "veterans and",
+              "korean": "수장",
+              "roman": "sujang",
+              "english": "chief",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "사이먼",
+              "roman": "Saimon",
+              "english": "Simon",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "스티엘은",
+              "roman": "Seutiel-eun",
+              "english": "Stiell",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "홍수와",
+              "roman": "hongsu-wa",
+              "english": "floods and",
               "particle": false,
               "suffix": "와"
             },
             {
-              "korean": "군인과",
-              "roman": "gunin-gwa",
-              "english": "service members and",
+              "korean": "행동을",
+              "roman": "haengdong-eul",
+              "english": "action",
               "particle": false,
-              "suffix": "과"
+              "suffix": "을"
             },
             {
-              "korean": "지지자가",
-              "roman": "jiji-ja-ga",
-              "english": "supporters",
+              "korean": "연결했다",
+              "roman": "yeongyeolhaet-da",
+              "english": "linked",
               "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "5번가를",
-              "roman": "5-beon-ga-reul",
-              "english": "Fifth Avenue",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "행진했다",
-              "roman": "haengjinhaetda",
-              "english": "marched",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Williams linked her Navy service with courage, commitment and space exploration.",
-          "korean": "윌리엄스는 해군 복무를 용기와 우주 탐험에 연결했다",
+          "english": "He called for a just fossil-fuel transition and more adaptation finance.",
+          "korean": "그는 공정한 전환과 적응 재정을 요구했다",
           "glossary": [
             {
-              "korean": "윌리엄스는",
-              "roman": "willieomseu-neun",
-              "english": "Williams",
+              "korean": "그는",
+              "roman": "geu-neun",
+              "english": "he",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "해군",
-              "roman": "haegun",
-              "english": "Navy",
+              "korean": "공정한",
+              "roman": "gongjeonghan",
+              "english": "fair",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "복무를",
-              "roman": "bongmu-reul",
-              "english": "service",
+              "korean": "전환과",
+              "roman": "jeonhwan-gwa",
+              "english": "transition and",
               "particle": false,
-              "suffix": "를"
+              "suffix": "과"
             },
             {
-              "korean": "용기와",
-              "roman": "yonggi-wa",
-              "english": "courage and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "우주",
-              "roman": "uju",
-              "english": "space",
+              "korean": "적응",
+              "roman": "jeog-eung",
+              "english": "adaptation",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "탐험에",
-              "roman": "tamheom-e",
-              "english": "to exploration",
+              "korean": "재정을",
+              "roman": "jaejeong-eul",
+              "english": "finance",
               "particle": false,
-              "suffix": "에"
+              "suffix": "을"
             },
             {
-              "korean": "연결했다",
-              "roman": "yeongyeolhaetda",
-              "english": "connected",
+              "korean": "요구했다",
+              "roman": "yoguhaet-da",
+              "english": "demanded",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Mayor Zohran Mamdani called for housing, jobs, education and medical care for veterans.",
-          "korean": "조란 맘다니 시장은 참전용사 지원을 약속했다",
+          "english": "On November 9, negotiators failed to adopt a standalone adaptation-finance agenda item.",
+          "korean": "11월 9일 협상단은 적응 재정 안건을 채택하지 못했다",
           "glossary": [
             {
-              "korean": "조란",
-              "roman": "joran",
-              "english": "Zohran",
+              "korean": "11월",
+              "roman": "sibil-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "맘다니",
-              "roman": "mamdani",
-              "english": "Mamdani",
+              "korean": "9일",
+              "roman": "gu-il",
+              "english": "9th",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "시장은",
-              "roman": "sijang-eun",
-              "english": "the mayor",
+              "korean": "협상단은",
+              "roman": "hyeopsangdan-eun",
+              "english": "negotiators",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "참전용사",
-              "roman": "chamjeon-yongsa",
-              "english": "veteran",
+              "korean": "적응",
+              "roman": "jeog-eung",
+              "english": "adaptation",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "지원을",
-              "roman": "jiwon-eul",
-              "english": "support",
+              "korean": "재정",
+              "roman": "jaejeong",
+              "english": "finance",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "안건을",
+              "roman": "angeon-eul",
+              "english": "agenda item",
               "particle": false,
               "suffix": "을"
             },
             {
-              "korean": "약속했다",
-              "roman": "yaksokhaetda",
-              "english": "promised",
+              "korean": "채택하지",
+              "roman": "chaetaekhaji",
+              "english": "adopt",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "지"
+            },
+            {
+              "korean": "못했다",
+              "roman": "mothaet-da",
+              "english": "could not",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "A provisional $21.6 million loss-and-damage allocation was announced for Nepal.",
+          "korean": "네팔에는 잠정 손실과 피해 재정 2160만 달러가 배정됐다",
+          "glossary": [
+            {
+              "korean": "네팔에는",
+              "roman": "Nepal-eneun",
+              "english": "for Nepal",
+              "particle": false,
+              "suffix": "에는"
+            },
+            {
+              "korean": "잠정",
+              "roman": "jamjeong",
+              "english": "provisional",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "손실과",
+              "roman": "sonsil-gwa",
+              "english": "loss and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "피해",
+              "roman": "pihae",
+              "english": "damage",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "재정",
+              "roman": "jaejeong",
+              "english": "finance",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "2160만",
+              "roman": "icheon-baek-yuksip-man",
+              "english": "21.6 million",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "달러가",
+              "roman": "dalleo-ga",
+              "english": "dollars",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "배정됐다",
+              "roman": "baejeongdwaet-da",
+              "english": "was allocated",
+              "particle": false,
+              "suffix": "다"
+            }
+          ]
+        },
+        {
+          "stage": "next",
+          "english": "COP31 still has to turn promises into protection and practical funding.",
+          "korean": "COP31은 약속을 보호와 실제 재정으로 바꿔야 한다",
+          "glossary": [
+            {
+              "korean": "COP31은",
+              "roman": "COP31-eun",
+              "english": "COP31",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "약속을",
+              "roman": "yaksog-eul",
+              "english": "promises",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "보호와",
+              "roman": "boho-wa",
+              "english": "protection and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "실제",
+              "roman": "silje",
+              "english": "practical",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "재정으로",
+              "roman": "jaejeong-euro",
+              "english": "into funding",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "바꿔야",
+              "roman": "bakkwo-ya",
+              "english": "must change",
+              "particle": false,
+              "suffix": "야"
+            },
+            {
+              "korean": "한다",
+              "roman": "han-da",
+              "english": "do",
+              "particle": false,
+              "suffix": "다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/sunita-williams-serves-as-grand-marshal-at-107th-new-york-city-veterans-day-parade/article71692666.ece",
-      "short_english": "Thousands of veterans, service members and supporters marched along Fifth Avenue.",
-      "short_korean": "수천 명의 참전용사와 군인과 지지자가 5번가를 행진했다",
-      "date": "2026-11-12",
+      "url": "https://www.thehindu.com/news/international/cop31-himalayan-flash-floods-should-push-all-to-act-faster-and-fairer-on-climate-change-un-climate-chief/article71696870.ece",
+      "short_english": "UN climate chief Simon Stiell linked this year’s Himalayan floods to urgent climate action.",
+      "short_korean": "유엔 기후 수장 사이먼 스티엘은 홍수와 행동을 연결했다",
+      "date": "2026-11-13",
       "images": [
-        "images/indian/d6835df374e4/1.jpg",
-        "images/indian/d6835df374e4/2.jpg",
-        "images/indian/d6835df374e4/3.jpg",
-        "images/indian/d6835df374e4/4.jpg",
-        "images/indian/d6835df374e4/5.jpg",
-        "images/indian/d6835df374e4/6.jpg",
-        "images/indian/d6835df374e4/7.jpg",
-        "images/indian/d6835df374e4/8.jpg",
-        "images/indian/d6835df374e4/9.jpg",
-        "images/indian/d6835df374e4/10.jpg",
-        "images/indian/d6835df374e4/11.jpg",
-        "images/indian/d6835df374e4/12.jpg",
-        "images/indian/d6835df374e4/13.jpg",
-        "images/indian/d6835df374e4/14.jpg"
+        "images/indian/2def1854e322/1.jpg",
+        "images/indian/2def1854e322/2.jpg",
+        "images/indian/2def1854e322/3.jpg",
+        "images/indian/2def1854e322/4.jpg",
+        "images/indian/2def1854e322/5.jpg",
+        "images/indian/2def1854e322/6.jpg",
+        "images/indian/2def1854e322/7.jpg",
+        "images/indian/2def1854e322/8.jpg",
+        "images/indian/2def1854e322/9.jpg",
+        "images/indian/2def1854e322/10.jpg",
+        "images/indian/2def1854e322/11.jpg",
+        "images/indian/2def1854e322/12.jpg",
+        "images/indian/2def1854e322/13.jpg",
+        "images/indian/2def1854e322/14.jpg",
+        "images/indian/2def1854e322/15.jpg",
+        "images/indian/2def1854e322/16.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/indian/d6835df374e4/caption.txt"
+      "caption_file": "images/indian/2def1854e322/caption.txt"
     }
   ]
 }
