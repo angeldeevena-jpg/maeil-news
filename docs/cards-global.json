@@ -1,70 +1,65 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "status": "ai",
-  "note": "6 new cards made, 0 kept. Cost this run about $0.0146",
-  "generated_at": "2026-11-13T08:03:19.352Z",
+  "note": "6 new cards made, 0 kept. Cost this run about $0.0150",
+  "generated_at": "2026-11-14T07:44:03.579Z",
   "cards": [
     {
       "category": "World",
-      "korean_title": "엔비디아 황 전 CEO 청문회",
-      "english_title": "Lawmakers summon Nvidia’s former CEO after spy allegations",
-      "korean_desc": "젠슨 황은 2026년 11월 12일 사임했다 사임은 중국 간첩 의혹 여성과의 불륜 보도 뒤였다 이사회는 최고재무책임자 콜레트 크레스를 임시 CEO로 임명했다 미국 의원들은 12월 비공개 질문을 계획한다",
-      "english_desc": "Jensen Huang resigned from Nvidia on November 12, 2026. The resignation followed reports of two affairs, including one with a suspected Chinese spy. The board appointed CFO Colette Kress as interim CEO. U.S. lawmakers plan closed-door questions in December.",
-      "hook": "Lawmakers will question Huang in December.",
-      "sticker": "What Congress wants to know",
-      "korean_hook": "의원들은 12월 황을 심문한다",
-      "takeaway_english": "The December hearings may show whether the scandal becomes a wider technology-security investigation.",
-      "takeaway_korean": "12월 청문회가 기술 안보 수사로 커질지 보여줄 것이다",
+      "korean_title": "마이크로소프트 서비스 회복",
+      "english_title": "Microsoft Services Recover, But Enterprise Email Still Waits",
+      "korean_desc": "마이크로소프트 서비스가 2026년 11월 13일 회복됐습니다. 장애가 세계 이메일과 업무 도구를 막았습니다. 소비자 서비스는 오후 4시 10분 UTC에 완전히 회복됐습니다. 기업 서비스는 지연 이메일을 계속 감시했습니다.",
+      "english_desc": "Microsoft services recovered after a worldwide outage on November 13, 2026. The outage disrupted email and workplace tools used worldwide. Consumer services fully recovered at 4:10 p.m. UTC. Enterprise services still monitored delayed email messages.",
+      "hook": "Microsoft services recovered, but email backlogs remained.",
+      "sticker": "Back online, mostly",
+      "korean_hook": "서비스는 회복됐지만 이메일은 밀렸습니다",
+      "takeaway_english": "The services returned, but the backlog showed that recovery is not the same as normal work.",
+      "takeaway_korean": "서비스는 돌아왔지만 적체는 정상 업무와 회복이 다름을 보여줬습니다.",
       "why_it_matters": [
         {
-          "english": "Nvidia chips are central to the global AI industry.",
-          "korean": "엔비디아 칩은 세계 인공지능 산업의 핵심이다"
+          "english": "Delayed email can interrupt work, public services, and urgent communication.",
+          "korean": "이메일 지연은 업무와 공공 서비스, 긴급 연락을 방해할 수 있습니다."
         },
         {
-          "english": "The case may affect U.S. technology controls on China.",
-          "korean": "이 사건은 미국의 대중 기술 통제에 영향을 줄 수 있다"
+          "english": "Recovery can still leave people waiting for older messages.",
+          "korean": "회복 뒤에도 사람들은 오래된 메시지를 기다릴 수 있습니다."
         }
       ],
       "parties": [
         {
-          "label": "Jensen Huang",
-          "english": "He resigned after reports about two affairs and a suspected Chinese spy.",
-          "korean": "그는 두 번의 불륜 보도 뒤 사임했다"
+          "label": "Microsoft",
+          "english": "Consumer services recovered, while enterprise services still needed monitoring.",
+          "korean": "소비자 서비스는 회복됐지만 기업 서비스는 감시가 필요했습니다."
         },
         {
-          "label": "U.S. lawmakers",
-          "english": "They want answers about national security and sensitive technology.",
-          "korean": "그들은 국가안보와 민감한 기술을 묻는다"
-        },
-        {
-          "label": "Nvidia",
-          "english": "The company is searching for a permanent CEO.",
-          "korean": "회사는 정식 최고경영자를 찾고 있다"
+          "label": "Users",
+          "english": "Users faced delayed email and disrupted workplace tools during the outage.",
+          "korean": "사용자들은 이메일 지연과 업무 도구 장애를 겪었습니다."
         }
       ],
       "views": [
         {
-          "label": "U.S. lawmakers",
-          "english": "The allegations may have exposed national-security risks around advanced AI chips.",
-          "korean": "의혹은 첨단 인공지능 칩의 안보 위험을 드러냈을 수 있다"
+          "label": "Microsoft",
+          "english": "Microsoft said recovery was continuing and that it was checking delayed email before closing the incident.",
+          "korean": "마이크로소프트는 회복 중이며 지연 이메일을 확인한다고 밝혔습니다."
         },
         {
-          "label": "Nvidia’s board",
-          "english": "The board says company operations and its product plans should continue without interruption.",
-          "korean": "이사회는 회사 운영과 제품 계획이 계속된다고 말한다"
+          "label": "Technology observers",
+          "english": "The outage showed the risks of depending heavily on one major technology provider.",
+          "korean": "기술 관찰자들은 한 기업 의존의 위험을 지적했습니다."
         }
       ],
       "disagree": {
-        "english": "Beijing rejects the spy allegation, and the evidence described publicly remains incomplete.",
-        "korean": "중국은 간첩 의혹을 부인하며 공개된 증거는 아직 부족하다"
+        "english": "Others may say the disruption was temporary and does not prove lasting dependence is unsafe.",
+        "korean": "다른 사람들은 일시적 장애가 의존의 위험을 증명하지 않는다고 말할 수 있습니다."
       },
-      "reader_question_korean": "사생활이 전략 기술회사 경영에 영향을 줘야 할까요",
+      "reader_question_korean": "직장은 한 기술 기업에 얼마나 의존해야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
+      "source_title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
       "hook_format": "headline",
       "body_format": "sentences",
       "question": "",
@@ -74,900 +69,447 @@
       "format_data": {},
       "serious": false,
       "caption_lines": [
-        "The Senate hearing is expected in December.",
-        "Colette Kress is interim CEO.",
-        "China denies the spy allegation."
+        "Update: November 13, 2026",
+        "Microsoft 365 includes workplace services such as email and collaboration tools."
       ],
-      "reader_question": "Should private conduct affect leadership of a strategic technology company?",
+      "reader_question": "How much should workplaces depend on one technology company?",
       "topic_tag": "Technology",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "U.S. lawmakers summon Nvidia former CEO after affair with suspected spy",
-          "date": "2026-11-13",
-          "url": "https://www.thehindu.com/news/international/nvidias-former-ceo-jensen-huang-summoned-to-testify-before-us-lawmakers-senator/article71696780.ece"
+          "title": "Microsoft says consumer products services recovered; still monitoring enterprise services",
+          "date": "2026-11-14",
+          "url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "젠슨",
-          "roman": "jensen",
-          "english": "Jensen",
+          "korean": "마이크로소프트",
+          "roman": "maikeurosopeuteu",
+          "english": "Microsoft",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "황은",
-          "roman": "hwang-eun",
-          "english": "Huang",
+          "korean": "서비스가",
+          "roman": "seobiseuga",
+          "english": "services",
           "particle": false,
-          "suffix": "은"
+          "suffix": "가"
         },
         {
           "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "year 2026",
+          "roman": "icheonsim-sip-yug-nyeon",
+          "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sibil-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "sibil-i-il",
-          "english": "12th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "사임했다",
-          "roman": "sa-im-haet-da",
-          "english": "resigned",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Jensen Huang resigned from Nvidia on November 12, 2026.",
-          "korean": "젠슨 황은 2026년 11월 12일 사임했다",
-          "glossary": [
-            {
-              "korean": "젠슨",
-              "roman": "jensen",
-              "english": "Jensen",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "황은",
-              "roman": "hwang-eun",
-              "english": "Huang",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sibil-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "sibil-i-il",
-              "english": "12th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "사임했다",
-              "roman": "sa-im-haet-da",
-              "english": "resigned",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The resignation followed reports of two affairs, including one with a suspected Chinese spy.",
-          "korean": "사임은 중국 간첩 의혹 여성과의 불륜 보도 뒤였다",
-          "glossary": [
-            {
-              "korean": "사임은",
-              "roman": "sa-im-eun",
-              "english": "the resignation",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "중국",
-              "roman": "jung-gug",
-              "english": "China",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "간첩",
-              "roman": "gan-cheop",
-              "english": "spy",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의혹",
-              "roman": "ui-hog",
-              "english": "suspicion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여성과의",
-              "roman": "yeoseong-gwa-ui",
-              "english": "with a woman",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "불륜",
-              "roman": "bul-lyun",
-              "english": "affair",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "보도",
-              "roman": "bo-do",
-              "english": "reports",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤였다",
-              "roman": "dwi-yeot-da",
-              "english": "came afterward",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The board appointed CFO Colette Kress as interim CEO.",
-          "korean": "이사회는 최고재무책임자 콜레트 크레스를 임시 CEO로 임명했다",
-          "glossary": [
-            {
-              "korean": "이사회는",
-              "roman": "i-sa-hoe-neun",
-              "english": "the board",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "최고재무책임자",
-              "roman": "choe-go-jae-mu-chaeg-im-ja",
-              "english": "chief financial officer",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "콜레트",
-              "roman": "kol-le-teu",
-              "english": "Colette",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "크레스를",
-              "roman": "keu-re-seu-reul",
-              "english": "Kress",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "임시",
-              "roman": "im-si",
-              "english": "interim",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "CEO로",
-              "roman": "CEO-ro",
-              "english": "as CEO",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "임명했다",
-              "roman": "im-myeong-haet-da",
-              "english": "appointed",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "U.S. lawmakers plan closed-door questions in December.",
-          "korean": "미국 의원들은 12월 비공개 질문을 계획한다",
-          "glossary": [
-            {
-              "korean": "미국",
-              "roman": "mi-gug",
-              "english": "United States",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의원들은",
-              "roman": "ui-won-deul-eun",
-              "english": "lawmakers",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "12월",
-              "roman": "sibil-wol",
-              "english": "December",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "비공개",
-              "roman": "bi-gong-gae",
-              "english": "closed-door",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "질문을",
-              "roman": "jil-mun-eul",
-              "english": "questions",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "계획한다",
-              "roman": "gye-hoeg-han-da",
-              "english": "plan",
-              "particle": false,
-              "suffix": "한다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/nvidias-former-ceo-jensen-huang-summoned-to-testify-before-us-lawmakers-senator/article71696780.ece",
-      "short_english": "Jensen Huang resigned from Nvidia on November 12, 2026.",
-      "short_korean": "젠슨 황은 2026년 11월 12일 사임했다",
-      "date": "2026-11-13",
-      "images": [
-        "images/global/926b1b7cc2cb/1.jpg",
-        "images/global/926b1b7cc2cb/2.jpg",
-        "images/global/926b1b7cc2cb/3.jpg",
-        "images/global/926b1b7cc2cb/4.jpg",
-        "images/global/926b1b7cc2cb/5.jpg",
-        "images/global/926b1b7cc2cb/6.jpg",
-        "images/global/926b1b7cc2cb/7.jpg",
-        "images/global/926b1b7cc2cb/8.jpg",
-        "images/global/926b1b7cc2cb/9.jpg",
-        "images/global/926b1b7cc2cb/10.jpg",
-        "images/global/926b1b7cc2cb/11.jpg",
-        "images/global/926b1b7cc2cb/12.jpg",
-        "images/global/926b1b7cc2cb/13.jpg",
-        "images/global/926b1b7cc2cb/14.jpg",
-        "images/global/926b1b7cc2cb/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/926b1b7cc2cb/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "유럽은 우크라이나 협상석을 원한다",
-      "english_title": "Europe wants a peace-talk seat, but cannot choose one voice",
-      "korean_desc": "유럽 정상들은 2026년 11월 13일 더블린에서 대표 문제를 논의했다 그들은 미국과 러시아가 유럽 안보를 대신 정할까 걱정한다 이탈리아 멜로니는 한 대표를 지지하지만 작은 국가는 배제를 걱정한다 미국 특사들은 유럽이 다음 협상에 참여한다고 했지만 대표는 없다",
-      "english_desc": "European leaders debated representation at Ukraine peace talks in Dublin on November 13, 2026. They fear Washington and Moscow could decide Europe’s security without European input. Italy’s Giorgia Meloni supports one envoy, while smaller states fear exclusion. U.S. envoys said Europeans would join the next round, but no representative is chosen.",
-      "hook": "Europe wants a seat but lacks one voice.",
-      "sticker": "Who speaks for Europe?",
-      "korean_hook": "유럽은 자리보다 한목소리가 없다",
-      "takeaway_english": "Europe may join the next talks, but its representative remains unsettled.",
-      "takeaway_korean": "유럽은 다음 협상에 참여할 수 있지만 대표는 정해지지 않았다",
-      "why_it_matters": [
-        {
-          "english": "The talks may shape Ukraine’s future security.",
-          "korean": "협상은 우크라이나의 미래 안보를 정할 수 있다"
-        },
-        {
-          "english": "European countries would live with the settlement’s consequences.",
-          "korean": "유럽 국가들은 합의의 결과를 감당하게 된다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "European governments",
-          "english": "They want representation in talks involving Russia, Ukraine and the United States.",
-          "korean": "그들은 러시아 우크라이나 미국과의 협상에 참여하려 한다"
-        },
-        {
-          "label": "Ukraine",
-          "english": "Ukraine wants European backing during negotiations.",
-          "korean": "우크라이나는 협상에서 유럽의 지원을 원한다"
-        },
-        {
-          "label": "Russia",
-          "english": "Russia opposes direct European involvement in the talks.",
-          "korean": "러시아는 유럽의 직접 참여를 반대한다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Supporters of one envoy",
-          "english": "A single representative could give Europe a clear and authoritative voice.",
-          "korean": "단일 대표는 유럽에 분명한 권위 있는 목소리를 줄 수 있다"
-        },
-        {
-          "label": "Critics of one envoy",
-          "english": "One envoy could leave smaller European countries outside the decision-making process.",
-          "korean": "한 명의 대표는 작은 유럽 국가들을 배제할 수 있다"
-        }
-      ],
-      "disagree": {
-        "english": "Europe includes several overlapping groups, so one representative may not reflect every government.",
-        "korean": "유럽에는 여러 조직이 있어 한 대표가 모두를 대변하기 어렵다"
-      },
-      "reader_question_korean": "유럽은 대표 한 명을 뽑아야 할까요",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "European leaders met in Dublin on November 13.",
-        "Britain and Norway are outside the EU.",
-        "Russia has rejected European involvement."
-      ],
-      "reader_question": "Should Europe choose one representative or several?",
-      "topic_tag": "Diplomacy",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Europe pushes for seat at Ukraine peace talks but lacks unified voice",
-          "date": "2026-11-13",
-          "url": "https://www.thehindu.com/news/international/europe-pushes-for-seat-at-ukraine-peace-talks-but-lacks-unified-voice/article71696911.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "유럽",
-          "roman": "yu-reob",
-          "english": "Europe",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "정상들은",
-          "roman": "jeong-sang-deul-eun",
-          "english": "leaders",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibil-wol",
+          "roman": "sibirwol",
           "english": "November",
           "particle": false,
           "suffix": "월"
         },
         {
           "korean": "13일",
-          "roman": "sibil-sam-il",
+          "roman": "sipsam-il",
           "english": "13th day",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "더블린에서",
-          "roman": "deo-beul-lin-eseo",
-          "english": "in Dublin",
+          "korean": "회복됐습니다",
+          "roman": "hoebokdwaetseumnida",
+          "english": "recovered",
           "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "대표",
-          "roman": "dae-pyo",
-          "english": "representation",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "문제를",
-          "roman": "mun-je-reul",
-          "english": "the issue",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "논의했다",
-          "roman": "non-ui-haet-da",
-          "english": "discussed",
-          "particle": false,
-          "suffix": "했다"
+          "suffix": "습니다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "European leaders debated representation at Ukraine peace talks in Dublin on November 13, 2026.",
-          "korean": "유럽 정상들은 2026년 11월 13일 더블린에서 대표 문제를 논의했다",
+          "english": "Microsoft services recovered after a worldwide outage on November 13, 2026.",
+          "korean": "마이크로소프트 서비스가 2026년 11월 13일 회복됐습니다.",
           "glossary": [
             {
-              "korean": "유럽",
-              "roman": "yu-reob",
-              "english": "Europe",
+              "korean": "마이크로소프트",
+              "roman": "maikeurosopeuteu",
+              "english": "Microsoft",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "정상들은",
-              "roman": "jeong-sang-deul-eun",
-              "english": "leaders",
+              "korean": "서비스가",
+              "roman": "seobiseuga",
+              "english": "services",
               "particle": false,
-              "suffix": "은"
+              "suffix": "가"
             },
             {
               "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "year 2026",
+              "roman": "icheonsim-sip-yug-nyeon",
+              "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sibil-wol",
+              "roman": "sibirwol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
               "korean": "13일",
-              "roman": "sibil-sam-il",
+              "roman": "sipsam-il",
               "english": "13th day",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "더블린에서",
-              "roman": "deo-beul-lin-eseo",
-              "english": "in Dublin",
+              "korean": "회복됐습니다",
+              "roman": "hoebokdwaetseumnida",
+              "english": "recovered",
               "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "대표",
-              "roman": "dae-pyo",
-              "english": "representation",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "문제를",
-              "roman": "mun-je-reul",
-              "english": "the issue",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "논의했다",
-              "roman": "non-ui-haet-da",
-              "english": "discussed",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "why",
-          "english": "They fear Washington and Moscow could decide Europe’s security without European input.",
-          "korean": "그들은 미국과 러시아가 유럽 안보를 대신 정할까 걱정한다",
+          "english": "The outage disrupted email and workplace tools used worldwide.",
+          "korean": "장애가 세계 이메일과 업무 도구를 막았습니다.",
           "glossary": [
             {
-              "korean": "그들은",
-              "roman": "geu-deul-eun",
-              "english": "they",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "미국과",
-              "roman": "mi-gug-gwa",
-              "english": "United States and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "러시아가",
-              "roman": "reo-si-a-ga",
-              "english": "Russia",
+              "korean": "장애가",
+              "roman": "jangaega",
+              "english": "the outage",
               "particle": false,
               "suffix": "가"
             },
             {
-              "korean": "유럽",
-              "roman": "yu-reob",
-              "english": "Europe",
+              "korean": "세계",
+              "roman": "segye",
+              "english": "worldwide",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "안보를",
-              "roman": "an-bo-reul",
-              "english": "security",
+              "korean": "이메일과",
+              "roman": "imeilgwa",
+              "english": "email and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "업무",
+              "roman": "eopmu",
+              "english": "workplace",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "도구를",
+              "roman": "dogureul",
+              "english": "tools",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "대신",
-              "roman": "dae-sin",
-              "english": "instead",
+              "korean": "막았습니다",
+              "roman": "magasseumnida",
+              "english": "blocked",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "정할까",
-              "roman": "jeong-hal-kka",
-              "english": "might decide",
-              "particle": false,
-              "suffix": "까"
-            },
-            {
-              "korean": "걱정한다",
-              "roman": "geok-jeong-han-da",
-              "english": "worry",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Italy’s Giorgia Meloni supports one envoy, while smaller states fear exclusion.",
-          "korean": "이탈리아 멜로니는 한 대표를 지지하지만 작은 국가는 배제를 걱정한다",
+          "english": "Consumer services fully recovered at 4:10 p.m. UTC.",
+          "korean": "소비자 서비스는 오후 4시 10분 UTC에 완전히 회복됐습니다.",
           "glossary": [
             {
-              "korean": "이탈리아",
-              "roman": "i-tal-li-a",
-              "english": "Italy",
+              "korean": "소비자",
+              "roman": "sobija",
+              "english": "consumer",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "멜로니는",
-              "roman": "mel-lo-ni-neun",
-              "english": "Meloni",
+              "korean": "서비스는",
+              "roman": "seobiseuneun",
+              "english": "services",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "한",
-              "roman": "han",
-              "english": "one",
+              "korean": "오후",
+              "roman": "ohu",
+              "english": "afternoon",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "대표를",
-              "roman": "dae-pyo-reul",
-              "english": "representative",
+              "korean": "4시",
+              "roman": "sasi",
+              "english": "4 o'clock",
               "particle": false,
-              "suffix": "를"
+              "suffix": "시"
             },
             {
-              "korean": "지지하지만",
-              "roman": "ji-ji-ha-ji-man",
-              "english": "supports but",
+              "korean": "10분",
+              "roman": "sipbun",
+              "english": "10 minutes",
               "particle": false,
-              "suffix": "지만"
+              "suffix": "분"
             },
             {
-              "korean": "작은",
-              "roman": "jag-eun",
-              "english": "small",
+              "korean": "UTC에",
+              "roman": "UTC-e",
+              "english": "UTC",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "완전히",
+              "roman": "wanjeonhi",
+              "english": "fully",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "국가는",
-              "roman": "gug-ga-neun",
-              "english": "countries",
+              "korean": "회복됐습니다",
+              "roman": "hoebokdwaetseumnida",
+              "english": "recovered",
               "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "배제를",
-              "roman": "bae-je-reul",
-              "english": "exclusion",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "걱정한다",
-              "roman": "geok-jeong-han-da",
-              "english": "worry",
-              "particle": false,
-              "suffix": "한다"
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "U.S. envoys said Europeans would join the next round, but no representative is chosen.",
-          "korean": "미국 특사들은 유럽이 다음 협상에 참여한다고 했지만 대표는 없다",
+          "english": "Enterprise services still monitored delayed email messages.",
+          "korean": "기업 서비스는 지연 이메일을 계속 감시했습니다.",
           "glossary": [
             {
-              "korean": "미국",
-              "roman": "mi-gug",
-              "english": "United States",
+              "korean": "기업",
+              "roman": "gieop",
+              "english": "enterprise",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "특사들은",
-              "roman": "teug-sa-deul-eun",
-              "english": "envoys",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "유럽이",
-              "roman": "yu-reob-i",
-              "english": "Europe",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "다음",
-              "roman": "daeum",
-              "english": "next",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "협상에",
-              "roman": "hyeob-sang-e",
-              "english": "to talks",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "참여한다고",
-              "roman": "cham-yeo-han-da-go",
-              "english": "will join",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "했지만",
-              "roman": "haet-ji-man",
-              "english": "said but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "대표는",
-              "roman": "dae-pyo-neun",
-              "english": "representative",
+              "korean": "서비스는",
+              "roman": "seobiseuneun",
+              "english": "services",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "없다",
-              "roman": "eop-da",
-              "english": "there is none",
+              "korean": "지연",
+              "roman": "jiyeon",
+              "english": "delayed",
               "particle": false,
-              "suffix": "다"
+              "suffix": ""
+            },
+            {
+              "korean": "이메일을",
+              "roman": "imeireul",
+              "english": "emails",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "계속",
+              "roman": "gyesok",
+              "english": "continuously",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "감시했습니다",
+              "roman": "gamsihaetseumnida",
+              "english": "monitored",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/europe-pushes-for-seat-at-ukraine-peace-talks-but-lacks-unified-voice/article71696911.ece",
-      "short_english": "European leaders debated representation at Ukraine peace talks in Dublin on November 13, 2026.",
-      "short_korean": "유럽 정상들은 2026년 11월 13일 더블린에서 대표 문제를 논의했다",
-      "date": "2026-11-13",
+      "url": "https://www.thehindu.com/sci-tech/technology/microsoft-says-consumer-products-services-recovered-still-monitoring-enterprise-services/article71701075.ece",
+      "short_english": "Microsoft services recovered after a worldwide outage on November 13, 2026.",
+      "short_korean": "마이크로소프트 서비스가 2026년 11월 13일 회복됐습니다.",
+      "date": "2026-11-14",
       "images": [
-        "images/global/6851b5698ad4/1.jpg",
-        "images/global/6851b5698ad4/2.jpg",
-        "images/global/6851b5698ad4/3.jpg",
-        "images/global/6851b5698ad4/4.jpg",
-        "images/global/6851b5698ad4/5.jpg",
-        "images/global/6851b5698ad4/6.jpg",
-        "images/global/6851b5698ad4/7.jpg",
-        "images/global/6851b5698ad4/8.jpg",
-        "images/global/6851b5698ad4/9.jpg",
-        "images/global/6851b5698ad4/10.jpg",
-        "images/global/6851b5698ad4/11.jpg",
-        "images/global/6851b5698ad4/12.jpg",
-        "images/global/6851b5698ad4/13.jpg",
-        "images/global/6851b5698ad4/14.jpg",
-        "images/global/6851b5698ad4/15.jpg"
+        "images/global/6525522943c6/1.jpg",
+        "images/global/6525522943c6/2.jpg",
+        "images/global/6525522943c6/3.jpg",
+        "images/global/6525522943c6/4.jpg",
+        "images/global/6525522943c6/5.jpg",
+        "images/global/6525522943c6/6.jpg",
+        "images/global/6525522943c6/7.jpg",
+        "images/global/6525522943c6/8.jpg",
+        "images/global/6525522943c6/9.jpg",
+        "images/global/6525522943c6/10.jpg",
+        "images/global/6525522943c6/11.jpg",
+        "images/global/6525522943c6/12.jpg",
+        "images/global/6525522943c6/13.jpg",
+        "images/global/6525522943c6/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/6851b5698ad4/caption.txt"
+      "caption_file": "images/global/6525522943c6/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "산체스는 좌파 표를 되찾을까",
-      "english_title": "Spain’s Sánchez struggles to rally a disillusioned left",
-      "korean_desc": "스페인 총리 페드로 산체스는 2026년 11월 29일 유권자를 만난다 그는 주거 분노가 좌파 유권자를 모으길 바랐다 퇴거 임대료 공공서비스 시위 뒤 전국 파업이 이어졌다 여론조사는 사회당을 26퍼센트에서 29퍼센트로 본다",
-      "english_desc": "Spain’s Prime Minister Pedro Sánchez faces voters on November 29, 2026. He hoped anger over housing would bring left-wing voters together. A nationwide strike followed protests over evictions, rents and public services. Polls still place the Socialists near 26% to 29%, while a right-wing alliance remains possible.",
-      "hook": "Sánchez faces a divided left before November 29.",
-      "sticker": "Spain votes on housing",
-      "korean_hook": "산체스는 11월 29일 분열된 좌파를 만난다",
-      "takeaway_english": "Housing anger has become both Sánchez’s strongest issue and his political problem.",
-      "takeaway_korean": "주거 분노는 산체스의 가장 강한 쟁점이자 문제다",
+      "korean_title": "인도와 이집트, 무역 확대 논의",
+      "english_title": "India and Egypt Plan Bigger Trade Ties",
+      "korean_desc": "피유시 고얄이 2026년 11월 15일 이집트를 방문합니다. 회담은 무역과 투자, 산업 협력을 강화하려 합니다. 140명 넘는 기업 대표들이 회의에 참여합니다. 4월부터 9월까지 무역은 50억 4천만 달러였습니다.",
+      "english_desc": "Piyush Goyal begins a two-day Egypt visit on November 15, 2026. The talks seek stronger trade, investment, and industrial cooperation. More than 140 business leaders will join committee and business meetings. April–September merchandise trade reached $5.04 billion, up 64 percent.",
+      "hook": "India and Egypt planned wider economic cooperation.",
+      "sticker": "Trade talks begin",
+      "korean_hook": "인도와 이집트가 경제 협력을 넓힙니다",
+      "takeaway_english": "The visit turns broad friendship into detailed talks about markets, factories, ports, and supply chains.",
+      "takeaway_korean": "이번 방문은 우정을 시장과 공장, 항구, 공급망 논의로 바꿉니다.",
       "why_it_matters": [
         {
-          "english": "The election could change housing protections and social policy.",
-          "korean": "선거는 주거 보호와 사회 정책을 바꿀 수 있다"
+          "english": "New trade links can affect jobs, products, and business opportunities.",
+          "korean": "새 무역 연결은 일자리와 상품, 사업 기회에 영향을 줍니다."
         },
         {
-          "english": "A right-wing alliance could shape migration and deregulation policy.",
-          "korean": "우파 연합은 이민과 규제 정책을 바꿀 수 있다"
+          "english": "Egypt can connect Indian companies with several major regions.",
+          "korean": "이집트는 인도 기업을 여러 주요 지역과 연결할 수 있습니다."
         }
       ],
       "parties": [
         {
-          "label": "Pedro Sánchez",
-          "english": "He called a snap election, hoping housing anger would unite the left.",
-          "korean": "그는 주거 분노가 좌파를 묶길 바라며 조기선거를 불렀다"
+          "label": "Piyush Goyal",
+          "english": "India’s minister will lead talks during a two-day Egypt visit.",
+          "korean": "인도 장관은 이틀간 이집트에서 협상합니다."
         },
         {
-          "label": "Left-wing voters",
-          "english": "Many are angry about housing, public services and the government’s record.",
-          "korean": "많은 유권자는 주거와 공공서비스에 화가 났다"
+          "label": "India and Egypt",
+          "english": "Both countries want more trade, investment, and industrial cooperation.",
+          "korean": "양국은 무역과 투자, 산업 협력을 원합니다."
         },
         {
-          "label": "People’s Party and Vox",
-          "english": "Their possible alliance is seen as the likely next government.",
-          "korean": "두 정당의 연합이 다음 정부로 예상된다"
+          "label": "Business delegation",
+          "english": "More than 140 business leaders will join meetings in Egypt.",
+          "korean": "140명 넘는 기업 대표들이 이집트 회의에 참여합니다."
         }
       ],
       "views": [
         {
-          "label": "Sánchez’s Socialists",
-          "english": "They say a People’s Party–Vox government would threaten social rights.",
-          "korean": "그들은 국민당 복스 정부가 사회적 권리를 위협한다고 말한다"
+          "label": "India’s commerce ministry",
+          "english": "Egypt’s location can help Indian companies reach African, Middle Eastern, and European markets.",
+          "korean": "이집트의 위치는 인도 기업의 시장 진출을 도울 수 있습니다."
         },
         {
-          "label": "Left activists",
-          "english": "They say the Socialists have delivered too little and voting alone is insufficient.",
-          "korean": "그들은 사회당의 성과가 부족하고 투표만으로는 충분하지 않다고 말한다"
+          "label": "Business groups",
+          "english": "Direct meetings could create joint ventures, technology partnerships, and wider trade.",
+          "korean": "직접 회의는 합작과 기술 협력, 무역 확대를 만들 수 있습니다."
         }
       ],
       "disagree": {
-        "english": "Supporters of Sánchez argue tactical voting could still stop the right from taking power.",
-        "korean": "산체스 지지자들은 전략 투표가 우파 집권을 막을 수 있다고 말한다"
+        "english": "Some may argue that planned cooperation still depends on solving market-access and trade-barrier problems.",
+        "korean": "일부는 시장 접근과 무역 장벽 문제가 남았다고 말할 수 있습니다."
       },
-      "reader_question_korean": "이번 선거에서 좌파 유권자는 무엇을 우선해야 할까요",
+      "reader_question_korean": "인도와 이집트는 어느 분야를 먼저 키워야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
-        "fewer than 2 outlets"
+        "fewer than 2 outlets",
+        "number missing in Korean: 04, 64"
       ],
-      "source_title": "As election nears, Spain's Sanchez struggles to rally disillusioned left",
+      "source_title": "Piyush Goyal in Egypt: Both sides to discuss increasing cooperation in infra, manufacturing, logistics",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "timeline",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
-      "serious": true,
+      "format_data": {
+        "steps": [
+          {
+            "label": "",
+            "english": "November 15: Piyush Goyal begins a two-day Egypt visit.",
+            "korean": "11월 15일 고얄 장관이 이집트를 방문합니다."
+          },
+          {
+            "label": "",
+            "english": "The trade committee reviews bilateral trade and investment.",
+            "korean": "무역위원회가 양국 무역과 투자를 검토합니다."
+          },
+          {
+            "label": "",
+            "english": "Business meetings explore manufacturing, logistics, and infrastructure.",
+            "korean": "기업 회의가 제조업과 물류, 인프라를 논의합니다."
+          }
+        ]
+      },
+      "serious": false,
       "caption_lines": [
-        "The election is set for November 29, 2026.",
-        "A nationwide strike followed housing protests.",
-        "Poll support remains around 26% to 29%."
+        "Visit dates: November 15–16, 2026",
+        "The seventh Joint Trade Committee session is scheduled for November 15."
       ],
-      "reader_question": "What should left-wing voters prioritize in this election?",
-      "topic_tag": "Election",
+      "reader_question": "Which sector should India and Egypt develop first?",
+      "topic_tag": "Trade",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "As election nears, Spain's Sanchez struggles to rally disillusioned left",
-          "date": "2026-11-13",
-          "url": "https://www.thehindu.com/news/international/as-election-nears-spains-sanchez-struggles-to-rally-disillusioned-left/article71696797.ece"
+          "title": "Piyush Goyal in Egypt: Both sides to discuss increasing cooperation in infra, manufacturing, logistics",
+          "date": "2026-11-14",
+          "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-both-sides-to-discuss-increasing-cooperation-in-infra-manufacturing-logistics/article71701055.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "스페인",
-          "roman": "seu-pe-in",
-          "english": "Spain",
+          "korean": "피유시",
+          "roman": "piyusi",
+          "english": "Piyush",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "총리",
-          "roman": "chong-ni",
-          "english": "prime minister",
+          "korean": "고얄이",
+          "roman": "goyal-i",
+          "english": "Goyal",
           "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "페드로",
-          "roman": "pe-deu-ro",
-          "english": "Pedro",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "산체스는",
-          "roman": "san-che-seu-neun",
-          "english": "Sánchez",
-          "particle": false,
-          "suffix": "는"
+          "suffix": "이"
         },
         {
           "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "year 2026",
+          "roman": "icheonsim-sip-yug-nyeon",
+          "english": "in 2026",
           "particle": false,
           "suffix": "년"
         },
         {
           "korean": "11월",
-          "roman": "sibil-wol",
+          "roman": "sibirwol",
           "english": "November",
           "particle": false,
           "suffix": "월"
         },
         {
-          "korean": "29일",
-          "roman": "isib-gu-il",
-          "english": "29th day",
+          "korean": "15일",
+          "roman": "sibo-il",
+          "english": "15th day",
           "particle": false,
           "suffix": "일"
         },
         {
-          "korean": "유권자를",
-          "roman": "yu-gwon-ja-reul",
-          "english": "voters",
+          "korean": "이집트를",
+          "roman": "ijipteureul",
+          "english": "Egypt",
           "particle": false,
           "suffix": "를"
         },
         {
-          "korean": "만난다",
-          "roman": "man-nan-da",
-          "english": "meets",
+          "korean": "방문합니다",
+          "roman": "bangmunhamnida",
+          "english": "visits",
           "particle": false,
           "suffix": ""
         }
@@ -975,69 +517,55 @@
       "sentences": [
         {
           "stage": "what",
-          "english": "Spain’s Prime Minister Pedro Sánchez faces voters on November 29, 2026.",
-          "korean": "스페인 총리 페드로 산체스는 2026년 11월 29일 유권자를 만난다",
+          "english": "Piyush Goyal begins a two-day Egypt visit on November 15, 2026.",
+          "korean": "피유시 고얄이 2026년 11월 15일 이집트를 방문합니다.",
           "glossary": [
             {
-              "korean": "스페인",
-              "roman": "seu-pe-in",
-              "english": "Spain",
+              "korean": "피유시",
+              "roman": "piyusi",
+              "english": "Piyush",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "총리",
-              "roman": "chong-ni",
-              "english": "prime minister",
+              "korean": "고얄이",
+              "roman": "goyal-i",
+              "english": "Goyal",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "페드로",
-              "roman": "pe-deu-ro",
-              "english": "Pedro",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "산체스는",
-              "roman": "san-che-seu-neun",
-              "english": "Sánchez",
-              "particle": false,
-              "suffix": "는"
+              "suffix": "이"
             },
             {
               "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "year 2026",
+              "roman": "icheonsim-sip-yug-nyeon",
+              "english": "in 2026",
               "particle": false,
               "suffix": "년"
             },
             {
               "korean": "11월",
-              "roman": "sibil-wol",
+              "roman": "sibirwol",
               "english": "November",
               "particle": false,
               "suffix": "월"
             },
             {
-              "korean": "29일",
-              "roman": "isib-gu-il",
-              "english": "29th day",
+              "korean": "15일",
+              "roman": "sibo-il",
+              "english": "15th day",
               "particle": false,
               "suffix": "일"
             },
             {
-              "korean": "유권자를",
-              "roman": "yu-gwon-ja-reul",
-              "english": "voters",
+              "korean": "이집트를",
+              "roman": "ijipteureul",
+              "english": "Egypt",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "만난다",
-              "roman": "man-nan-da",
-              "english": "meets",
+              "korean": "방문합니다",
+              "roman": "bangmunhamnida",
+              "english": "visits",
               "particle": false,
               "suffix": ""
             }
@@ -1045,90 +573,466 @@
         },
         {
           "stage": "why",
-          "english": "He hoped anger over housing would bring left-wing voters together.",
-          "korean": "그는 주거 분노가 좌파 유권자를 모으길 바랐다",
+          "english": "The talks seek stronger trade, investment, and industrial cooperation.",
+          "korean": "회담은 무역과 투자, 산업 협력을 강화하려 합니다.",
           "glossary": [
             {
-              "korean": "그는",
-              "roman": "geu-neun",
-              "english": "he",
+              "korean": "회담은",
+              "roman": "hoedam-eun",
+              "english": "the talks",
               "particle": false,
-              "suffix": "는"
+              "suffix": "은"
             },
             {
-              "korean": "주거",
-              "roman": "ju-geo",
-              "english": "housing",
+              "korean": "무역과",
+              "roman": "muyeokgwa",
+              "english": "trade and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "투자,",
+              "roman": "tuja",
+              "english": "investment",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "분노가",
-              "roman": "bun-no-ga",
-              "english": "anger",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "좌파",
-              "roman": "jwa-pa",
-              "english": "left wing",
+              "korean": "산업",
+              "roman": "saneop",
+              "english": "industry",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "유권자를",
-              "roman": "yu-gwon-ja-reul",
-              "english": "voters",
+              "korean": "협력을",
+              "roman": "hyeomnyeogeul",
+              "english": "cooperation",
               "particle": false,
-              "suffix": "를"
+              "suffix": "을"
             },
             {
-              "korean": "모으길",
-              "roman": "mo-eu-gil",
-              "english": "to gather",
+              "korean": "강화하려",
+              "roman": "ganghwaharyeo",
+              "english": "to strengthen",
               "particle": false,
-              "suffix": "길"
+              "suffix": "려"
             },
             {
-              "korean": "바랐다",
-              "roman": "ba-raet-da",
-              "english": "hoped",
+              "korean": "합니다",
+              "roman": "hamnida",
+              "english": "seek",
               "particle": false,
-              "suffix": "랐다"
+              "suffix": ""
             }
           ]
         },
         {
           "stage": "how",
-          "english": "A nationwide strike followed protests over evictions, rents and public services.",
-          "korean": "퇴거 임대료 공공서비스 시위 뒤 전국 파업이 이어졌다",
+          "english": "More than 140 business leaders will join committee and business meetings.",
+          "korean": "140명 넘는 기업 대표들이 회의에 참여합니다.",
           "glossary": [
             {
-              "korean": "퇴거",
-              "roman": "toe-geo",
-              "english": "evictions",
+              "korean": "140명",
+              "roman": "baeksasip-myeong",
+              "english": "140 people",
+              "particle": false,
+              "suffix": "명"
+            },
+            {
+              "korean": "넘는",
+              "roman": "neomneun",
+              "english": "more than",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "기업",
+              "roman": "gieop",
+              "english": "business",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "임대료",
-              "roman": "im-dae-ryo",
-              "english": "rents",
+              "korean": "대표들이",
+              "roman": "daepyodeuri",
+              "english": "representatives",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "회의에",
+              "roman": "hoeui-e",
+              "english": "to meetings",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "참여합니다",
+              "roman": "chamyeohamnida",
+              "english": "participate",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "April–September merchandise trade reached $5.04 billion, up 64 percent.",
+          "korean": "4월부터 9월까지 무역은 50억 4천만 달러였습니다.",
+          "glossary": [
+            {
+              "korean": "4월부터",
+              "roman": "sawolbuteo",
+              "english": "from April",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "9월까지",
+              "roman": "guwolkkaji",
+              "english": "through September",
+              "particle": false,
+              "suffix": "까지"
+            },
+            {
+              "korean": "무역은",
+              "roman": "muyeogeun",
+              "english": "trade",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "50억",
+              "roman": "osibaek-eok",
+              "english": "five billion",
+              "particle": false,
+              "suffix": "억"
+            },
+            {
+              "korean": "4천만",
+              "roman": "sa-cheon-man",
+              "english": "forty million",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "공공서비스",
-              "roman": "gong-gong-seo-bi-seu",
-              "english": "public services",
+              "korean": "달러였습니다",
+              "roman": "dalleoyeotseumnida",
+              "english": "was dollars",
+              "particle": false,
+              "suffix": "였습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/national/piyush-goyal-in-egypt-both-sides-to-discuss-increasing-cooperation-in-infra-manufacturing-logistics/article71701055.ece",
+      "short_english": "Piyush Goyal begins a two-day Egypt visit on November 15, 2026.",
+      "short_korean": "피유시 고얄이 2026년 11월 15일 이집트를 방문합니다.",
+      "date": "2026-11-14",
+      "images": [
+        "images/global/b98635a341bd/1.jpg",
+        "images/global/b98635a341bd/2.jpg",
+        "images/global/b98635a341bd/3.jpg",
+        "images/global/b98635a341bd/4.jpg",
+        "images/global/b98635a341bd/5.jpg",
+        "images/global/b98635a341bd/6.jpg",
+        "images/global/b98635a341bd/7.jpg",
+        "images/global/b98635a341bd/8.jpg",
+        "images/global/b98635a341bd/9.jpg",
+        "images/global/b98635a341bd/10.jpg",
+        "images/global/b98635a341bd/11.jpg",
+        "images/global/b98635a341bd/12.jpg",
+        "images/global/b98635a341bd/13.jpg",
+        "images/global/b98635a341bd/14.jpg",
+        "images/global/b98635a341bd/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/b98635a341bd/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "인도 대사, USCIRF 비판",
+      "english_title": "India Pushes Back After USCIRF Highlights Sharjeel Imam",
+      "korean_desc": "비나이 모한 콰트라 대사가 2026년 11월 13일 USCIRF를 비판했습니다. 응답은 구금된 활동가 샤르질 이맘의 USCIRF 소개 뒤 나왔습니다. 이맘은 53명 사망한 2020년 폭동 관련 UAPA 혐의를 받습니다. 인도는 USCIRF를 편향됐다고 하며 권고는 구속력이 없습니다.",
+      "english_desc": "Ambassador Vinay Mohan Kwatra criticized USCIRF on November 13, 2026. The response followed USCIRF’s profile of detained activist Sharjeel Imam. Imam faces UAPA allegations tied to 2020 riots that killed 53 people. India calls USCIRF biased, while its recommendations remain non-binding.",
+      "hook": "India rejected USCIRF criticism of Sharjeel Imam’s detention.",
+      "sticker": "What each side says",
+      "korean_hook": "인도가 이맘 구금 비판을 거부했습니다",
+      "takeaway_english": "The argument remains unsettled because India rejects the criticism while USCIRF keeps its rights-based description.",
+      "takeaway_korean": "인도는 비판을 거부하고 USCIRF는 권리 설명을 유지해 논쟁이 계속됩니다.",
+      "why_it_matters": [
+        {
+          "english": "The dispute affects how religious freedom and national sovereignty are understood.",
+          "korean": "이 논쟁은 종교 자유와 국가 주권의 이해에 영향을 줍니다."
+        },
+        {
+          "english": "The underlying case followed violence that killed 53 people and injured more than 700.",
+          "korean": "기초 사건은 53명 사망과 700명 넘는 부상 뒤에 일어났습니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Vinay Mohan Kwatra",
+          "english": "India’s ambassador told USCIRF to examine its own prejudices.",
+          "korean": "인도 대사는 USCIRF에 편견을 돌아보라고 말했습니다."
+        },
+        {
+          "label": "Sharjeel Imam",
+          "english": "Imam remains booked under UAPA over allegations linked to the 2020 riots.",
+          "korean": "이맘은 2020년 폭동 관련 혐의로 UAPA에 기소됐습니다."
+        },
+        {
+          "label": "USCIRF",
+          "english": "The commission says Imam is detained for religious freedom advocacy.",
+          "korean": "위원회는 이맘이 종교 자유 옹호로 구금됐다고 말합니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "India",
+          "english": "India says USCIRF is partisan, ill-informed, and not entitled to judge Indian constitutional rights.",
+          "korean": "인도는 USCIRF가 편파적이며 인도 권리를 판단할 자격이 없다고 말합니다."
+        },
+        {
+          "label": "USCIRF",
+          "english": "USCIRF presents Imam’s detention as a religious-freedom concern.",
+          "korean": "USCIRF는 이맘의 구금을 종교 자유 문제로 봅니다."
+        }
+      ],
+      "disagree": {
+        "english": "Critics may say constitutional rights still deserve scrutiny even when recommendations are non-binding.",
+        "korean": "비판자들은 권고가 구속력 없어도 권리 검토가 필요하다고 말할 수 있습니다."
+      },
+      "reader_question_korean": "외부 단체는 다른 나라의 권리 사건을 어떻게 말해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "India",
+            "english": "India says USCIRF lacks standing and gives biased assessments.",
+            "korean": "인도는 USCIRF가 권한 없고 편향됐다고 말합니다."
+          },
+          {
+            "label": "USCIRF",
+            "english": "USCIRF describes Imam as detained for religious freedom advocacy.",
+            "korean": "USCIRF는 이맘을 종교 자유 옹호로 구금됐다고 설명합니다."
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Update: November 14, 2026",
+        "UAPA means the Unlawful Activities (Prevention) Act."
+      ],
+      "reader_question": "How should outside groups discuss rights cases in another country?",
+      "topic_tag": "Rights",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "No locus standi: Indian envoy hits back at USCIRF for remarks on Sharjeel Imam",
+          "date": "2026-11-14",
+          "url": "https://www.thehindu.com/news/national/indian-envoy-slams-uscirf-over-sharjeel-imam-remarks-says-panel-has-no-locus-standi/article71700860.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "비나이",
+          "roman": "binai",
+          "english": "Vinay",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "모한",
+          "roman": "mohan",
+          "english": "Mohan",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "콰트라",
+          "roman": "kwateura",
+          "english": "Kwatra",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "대사가",
+          "roman": "daesaga",
+          "english": "ambassador",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheonsim-sip-yug-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibirwol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "13일",
+          "roman": "sipsam-il",
+          "english": "13th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "USCIRF를",
+          "roman": "USCIRF-reul",
+          "english": "USCIRF",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "비판했습니다",
+          "roman": "bipanhaetseumnida",
+          "english": "criticized",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Ambassador Vinay Mohan Kwatra criticized USCIRF on November 13, 2026.",
+          "korean": "비나이 모한 콰트라 대사가 2026년 11월 13일 USCIRF를 비판했습니다.",
+          "glossary": [
+            {
+              "korean": "비나이",
+              "roman": "binai",
+              "english": "Vinay",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "시위",
-              "roman": "si-wi",
-              "english": "protests",
+              "korean": "모한",
+              "roman": "mohan",
+              "english": "Mohan",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "콰트라",
+              "roman": "kwateura",
+              "english": "Kwatra",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "대사가",
+              "roman": "daesaga",
+              "english": "ambassador",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheonsim-sip-yug-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibirwol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "13일",
+              "roman": "sipsam-il",
+              "english": "13th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "USCIRF를",
+              "roman": "USCIRF-reul",
+              "english": "USCIRF",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "비판했습니다",
+              "roman": "bipanhaetseumnida",
+              "english": "criticized",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The response followed USCIRF’s profile of detained activist Sharjeel Imam.",
+          "korean": "응답은 구금된 활동가 샤르질 이맘의 USCIRF 소개 뒤 나왔습니다.",
+          "glossary": [
+            {
+              "korean": "응답은",
+              "roman": "eungdabeun",
+              "english": "the response",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "구금된",
+              "roman": "gugumdoen",
+              "english": "detained",
+              "particle": false,
+              "suffix": "된"
+            },
+            {
+              "korean": "활동가",
+              "roman": "hwaldongga",
+              "english": "activist",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "샤르질",
+              "roman": "syareujil",
+              "english": "Sharjeel",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "이맘의",
+              "roman": "imam-ui",
+              "english": "Imam’s",
+              "particle": false,
+              "suffix": "의"
+            },
+            {
+              "korean": "USCIRF",
+              "roman": "USCIRF",
+              "english": "USCIRF",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "소개",
+              "roman": "sogae",
+              "english": "profile",
               "particle": false,
               "suffix": ""
             },
@@ -1140,1115 +1044,960 @@
               "suffix": ""
             },
             {
-              "korean": "전국",
-              "roman": "jeon-gug",
-              "english": "nationwide",
+              "korean": "나왔습니다",
+              "roman": "nawasseumnida",
+              "english": "came out",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "파업이",
-              "roman": "pa-eob-i",
-              "english": "strike",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "이어졌다",
-              "roman": "i-eo-jyeot-da",
-              "english": "followed",
-              "particle": false,
-              "suffix": "졌다"
+              "suffix": "습니다"
             }
           ]
         },
-        {
-          "stage": "now",
-          "english": "Polls still place the Socialists near 26% to 29%, while a right-wing alliance remains possible.",
-          "korean": "여론조사는 사회당을 26퍼센트에서 29퍼센트로 본다",
-          "glossary": [
-            {
-              "korean": "여론조사는",
-              "roman": "yeo-ron-jo-sa-neun",
-              "english": "polls",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "사회당을",
-              "roman": "sa-hoe-dang-eul",
-              "english": "Socialists",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "26퍼센트에서",
-              "roman": "isib-yug-peo-sen-teu-eseo",
-              "english": "from 26 percent",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "29퍼센트로",
-              "roman": "isib-gu-peo-sen-teu-ro",
-              "english": "to 29 percent",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "본다",
-              "roman": "bon-da",
-              "english": "place",
-              "particle": false,
-              "suffix": "다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/as-election-nears-spains-sanchez-struggles-to-rally-disillusioned-left/article71696797.ece",
-      "short_english": "Spain’s Prime Minister Pedro Sánchez faces voters on November 29, 2026.",
-      "short_korean": "스페인 총리 페드로 산체스는 2026년 11월 29일 유권자를 만난다",
-      "date": "2026-11-13",
-      "images": [
-        "images/global/3f2c5d5c97ef/1.jpg",
-        "images/global/3f2c5d5c97ef/2.jpg",
-        "images/global/3f2c5d5c97ef/3.jpg",
-        "images/global/3f2c5d5c97ef/4.jpg",
-        "images/global/3f2c5d5c97ef/5.jpg",
-        "images/global/3f2c5d5c97ef/6.jpg",
-        "images/global/3f2c5d5c97ef/7.jpg",
-        "images/global/3f2c5d5c97ef/8.jpg",
-        "images/global/3f2c5d5c97ef/9.jpg",
-        "images/global/3f2c5d5c97ef/10.jpg",
-        "images/global/3f2c5d5c97ef/11.jpg",
-        "images/global/3f2c5d5c97ef/12.jpg",
-        "images/global/3f2c5d5c97ef/13.jpg",
-        "images/global/3f2c5d5c97ef/14.jpg",
-        "images/global/3f2c5d5c97ef/15.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/3f2c5d5c97ef/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "파키스탄군 74명 사망 주장",
-      "english_title": "Pakistan’s army says 74 militants were killed in raids",
-      "korean_desc": "작전은 11월 3일부터 쿠람 미르알리 오라크자이를 포함했다 군은 무기 탄약 폭발물을 회수했다고 말했다 보고된 사망자의 독립 확인은 없었다",
-      "english_desc": "The operations covered Kurram, Mir Ali and Orakzai from November 3 onward. The military said weapons, ammunition and explosives were recovered. Independent confirmation of the reported deaths was not available.",
-      "hook": "Pakistan’s army says 74 militants were killed.",
-      "sticker": "What the army reported",
-      "korean_hook": "파키스탄군은 무장대원 74명 사망을 주장했다",
-      "takeaway_english": "The reported killings show the scale of Pakistan’s security campaign, but independent verification remains limited.",
-      "takeaway_korean": "사망자 발표는 대규모 안보 작전을 보여주지만 독립 확인은 제한적이다",
-      "why_it_matters": [
-        {
-          "english": "The operations occurred in areas experiencing rising militant violence.",
-          "korean": "작전 지역에서는 무장 폭력이 증가하고 있다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Pakistan’s military",
-          "english": "It says intelligence-based operations killed 74 militants.",
-          "korean": "군은 정보 작전으로 무장대원 74명을 죽였다고 말한다"
-        },
-        {
-          "label": "Tehreek-e-Taliban Pakistan",
-          "english": "The military says 31 of those killed belonged to the group.",
-          "korean": "군은 사망자 중 31명이 이 단체 소속이라고 말한다"
-        },
-        {
-          "label": "Residents of Balochistan and Khyber Pakhtunkhwa",
-          "english": "They live in provinces facing increased militant violence since 2021.",
-          "korean": "주민들은 2021년부터 무장 폭력이 늘어난 지역에 산다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Pakistani military",
-          "english": "The operations are needed to destroy militant networks and prevent attacks.",
-          "korean": "작전은 무장 조직을 없애고 공격을 막는 데 필요하다"
-        },
-        {
-          "label": "Independent observers",
-          "english": "The public account is mainly the military’s statement, with limited independent detail.",
-          "korean": "공개된 설명은 주로 군 발표이며 독립적인 세부 정보가 적다"
-        }
-      ],
-      "disagree": {
-        "english": "The reported tolls and identities have not been independently confirmed in the available accounts.",
-        "korean": "보고된 사망자 수와 신원은 독립적으로 확인되지 않았다"
-      },
-      "reader_question_korean": "대테러 작전 중 군 발표를 어떻게 판단해야 할까요",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "74 terrorists killed in multiple operations: Pakistani Army",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": true,
-      "caption_lines": [
-        "The operations began November 3.",
-        "They covered Balochistan and Khyber Pakhtunkhwa.",
-        "Pakistan has seen increased militant activity since 2021."
-      ],
-      "reader_question": "How should people assess military claims during counterterrorism operations?",
-      "topic_tag": "Security",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "74 terrorists killed in multiple operations: Pakistani Army",
-          "date": "2026-11-13",
-          "url": "https://www.thehindu.com/news/international/74-terrorists-killed-in-multiple-operations-pakistani-army/article71696886.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "작전은",
-          "roman": "jag-jeon-eun",
-          "english": "operations",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibil-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "3일부터",
-          "roman": "sam-il-bu-teo",
-          "english": "from the 3rd",
-          "particle": false,
-          "suffix": "부터"
-        },
-        {
-          "korean": "쿠람",
-          "roman": "ku-ram",
-          "english": "Kurram",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "미르알리",
-          "roman": "mi-reu-al-li",
-          "english": "Mir Ali",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "오라크자이를",
-          "roman": "o-ra-keu-ja-i-reul",
-          "english": "Orakzai",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "포함했다",
-          "roman": "po-ham-haet-da",
-          "english": "covered",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
         {
           "stage": "how",
-          "english": "The operations covered Kurram, Mir Ali and Orakzai from November 3 onward.",
-          "korean": "작전은 11월 3일부터 쿠람 미르알리 오라크자이를 포함했다",
+          "english": "Imam faces UAPA allegations tied to 2020 riots that killed 53 people.",
+          "korean": "이맘은 53명 사망한 2020년 폭동 관련 UAPA 혐의를 받습니다.",
           "glossary": [
             {
-              "korean": "작전은",
-              "roman": "jag-jeon-eun",
-              "english": "operations",
+              "korean": "이맘은",
+              "roman": "imameun",
+              "english": "Imam",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "11월",
-              "roman": "sibil-wol",
-              "english": "November",
+              "korean": "53명",
+              "roman": "osipsam-myeong",
+              "english": "53 people",
+              "particle": false,
+              "suffix": "명"
+            },
+            {
+              "korean": "사망한",
+              "roman": "samanghan",
+              "english": "died",
+              "particle": false,
+              "suffix": "한"
+            },
+            {
+              "korean": "2020년",
+              "roman": "icheonsim-nyeon",
+              "english": "2020",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "폭동",
+              "roman": "pokdong",
+              "english": "riots",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "3일부터",
-              "roman": "sam-il-bu-teo",
-              "english": "from the 3rd",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "쿠람",
-              "roman": "ku-ram",
-              "english": "Kurram",
+              "korean": "관련",
+              "roman": "gwanryeon",
+              "english": "related",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "미르알리",
-              "roman": "mi-reu-al-li",
-              "english": "Mir Ali",
+              "korean": "UAPA",
+              "roman": "UAPA",
+              "english": "UAPA",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "오라크자이를",
-              "roman": "o-ra-keu-ja-i-reul",
-              "english": "Orakzai",
+              "korean": "혐의를",
+              "roman": "hyeom-uireul",
+              "english": "allegations",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "포함했다",
-              "roman": "po-ham-haet-da",
-              "english": "covered",
+              "korean": "받습니다",
+              "roman": "badseumnida",
+              "english": "faces",
               "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The military said weapons, ammunition and explosives were recovered.",
-          "korean": "군은 무기 탄약 폭발물을 회수했다고 말했다",
-          "glossary": [
-            {
-              "korean": "군은",
-              "roman": "gun-eun",
-              "english": "the military",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "무기",
-              "roman": "mu-gi",
-              "english": "weapons",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "탄약",
-              "roman": "tan-yag",
-              "english": "ammunition",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "폭발물을",
-              "roman": "pog-bal-mul-eul",
-              "english": "explosives",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "회수했다고",
-              "roman": "hoe-su-haet-da-go",
-              "english": "recovered",
-              "particle": false,
-              "suffix": "다고"
-            },
-            {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Independent confirmation of the reported deaths was not available.",
-          "korean": "보고된 사망자의 독립 확인은 없었다",
+          "english": "India calls USCIRF biased, while its recommendations remain non-binding.",
+          "korean": "인도는 USCIRF를 편향됐다고 하며 권고는 구속력이 없습니다.",
           "glossary": [
             {
-              "korean": "보고된",
-              "roman": "bo-go-doen",
-              "english": "reported",
+              "korean": "인도는",
+              "roman": "indoneun",
+              "english": "India",
               "particle": false,
-              "suffix": ""
+              "suffix": "는"
             },
             {
-              "korean": "사망자의",
-              "roman": "sa-mang-ja-ui",
-              "english": "of the dead",
+              "korean": "USCIRF를",
+              "roman": "USCIRF-reul",
+              "english": "USCIRF",
               "particle": false,
-              "suffix": "의"
+              "suffix": "를"
             },
             {
-              "korean": "독립",
-              "roman": "dog-rip",
-              "english": "independent",
+              "korean": "편향됐다고",
+              "roman": "pyeonhyangdwaetdago",
+              "english": "says is biased",
               "particle": false,
-              "suffix": ""
+              "suffix": "다고"
             },
             {
-              "korean": "확인은",
-              "roman": "hwag-in-eun",
-              "english": "confirmation",
+              "korean": "하며",
+              "roman": "hamyeo",
+              "english": "while saying",
               "particle": false,
-              "suffix": "은"
+              "suffix": "며"
             },
             {
-              "korean": "없었다",
-              "roman": "eop-eot-da",
-              "english": "was not available",
+              "korean": "권고는",
+              "roman": "gwongoneun",
+              "english": "recommendations",
               "particle": false,
-              "suffix": "었다"
+              "suffix": "는"
+            },
+            {
+              "korean": "구속력이",
+              "roman": "gusongnyeogi",
+              "english": "binding force",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "없습니다",
+              "roman": "eopseumnida",
+              "english": "do not have",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/74-terrorists-killed-in-multiple-operations-pakistani-army/article71696886.ece",
-      "short_english": "The operations covered Kurram, Mir Ali and Orakzai from November 3 onward.",
-      "short_korean": "작전은 11월 3일부터 쿠람 미르알리 오라크자이를 포함했다",
-      "date": "2026-11-13",
+      "url": "https://www.thehindu.com/news/national/indian-envoy-slams-uscirf-over-sharjeel-imam-remarks-says-panel-has-no-locus-standi/article71700860.ece",
+      "short_english": "Ambassador Vinay Mohan Kwatra criticized USCIRF on November 13, 2026.",
+      "short_korean": "비나이 모한 콰트라 대사가 2026년 11월 13일 USCIRF를 비판했습니다.",
+      "date": "2026-11-14",
       "images": [
-        "images/global/fb4f8e6b14b0/1.jpg",
-        "images/global/fb4f8e6b14b0/2.jpg",
-        "images/global/fb4f8e6b14b0/3.jpg",
-        "images/global/fb4f8e6b14b0/4.jpg",
-        "images/global/fb4f8e6b14b0/5.jpg",
-        "images/global/fb4f8e6b14b0/6.jpg",
-        "images/global/fb4f8e6b14b0/7.jpg",
-        "images/global/fb4f8e6b14b0/8.jpg",
-        "images/global/fb4f8e6b14b0/9.jpg",
-        "images/global/fb4f8e6b14b0/10.jpg",
-        "images/global/fb4f8e6b14b0/11.jpg",
-        "images/global/fb4f8e6b14b0/12.jpg",
-        "images/global/fb4f8e6b14b0/13.jpg"
+        "images/global/b5e39985b0ef/1.jpg",
+        "images/global/b5e39985b0ef/2.jpg",
+        "images/global/b5e39985b0ef/3.jpg",
+        "images/global/b5e39985b0ef/4.jpg",
+        "images/global/b5e39985b0ef/5.jpg",
+        "images/global/b5e39985b0ef/6.jpg",
+        "images/global/b5e39985b0ef/7.jpg",
+        "images/global/b5e39985b0ef/8.jpg",
+        "images/global/b5e39985b0ef/9.jpg",
+        "images/global/b5e39985b0ef/10.jpg",
+        "images/global/b5e39985b0ef/11.jpg",
+        "images/global/b5e39985b0ef/12.jpg",
+        "images/global/b5e39985b0ef/13.jpg",
+        "images/global/b5e39985b0ef/14.jpg",
+        "images/global/b5e39985b0ef/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/fb4f8e6b14b0/caption.txt"
+      "caption_file": "images/global/b5e39985b0ef/caption.txt"
     },
     {
       "category": "World",
-      "korean_title": "호르무즈 해협 LNG선 폭발",
-      "english_title": "Iran says an LNG tanker hit a mine and exploded in Hormuz",
-      "korean_desc": "이 수로는 세계 주요 에너지 운송로라 중요하다 혁명수비대는 선박이 승인되지 않은 경로에서 폭발했다고 말했다 11월 첫 열흘 동안 최소 10척이 공격받았다",
-      "english_desc": "The waterway matters because it carries major global energy shipments. The Revolutionary Guards said the vessel used an unauthorized route and exploded. At least 10 ships were hit during November’s first 10 days.",
-      "hook": "Iran says an LNG tanker hit a mine.",
-      "sticker": "Danger in the waterway",
-      "korean_hook": "이란은 LNG선이 기뢰를 쳤다고 말했다",
-      "takeaway_english": "More incidents could threaten the recent recovery of shipping through Hormuz.",
-      "takeaway_korean": "추가 사건은 호르무즈 운항 회복을 위협할 수 있다",
+      "korean_title": "미국 전국 항공 운항 중단",
+      "english_title": "Overloaded Systems Grounded U.S. Flights Nationwide",
+      "korean_desc": "FAA가 2026년 11월 13일 미국 출발편 대부분을 멈췄습니다. 당국은 새 기술이 구형 시스템을 압도했다고 말했습니다. 중단 중 3,000편 넘는 항공편이 안전하게 착륙했습니다. 금요일 밤 중단은 끝났지만 항공사는 며칠 회복을 예상했습니다.",
+      "english_desc": "The FAA halted most U.S. departures nationwide on November 13, 2026. Officials blamed new technology overwhelming older systems. More than 3,000 flights landed safely during the stoppage. The stop ended Friday night, but airlines expected days of recovery.",
+      "hook": "Overloaded systems halted U.S. flights for hours.",
+      "sticker": "What stopped the flights",
+      "korean_hook": "과부하 시스템이 미국 항공편을 멈췄습니다",
+      "takeaway_english": "Flights resumed, but outdated infrastructure left travelers waiting long after the official stop ended.",
+      "takeaway_korean": "운항은 재개됐지만 낡은 기반시설 때문에 여행객은 계속 기다렸습니다.",
       "why_it_matters": [
         {
-          "english": "The Strait of Hormuz is vital for global shipping.",
-          "korean": "호르무즈 해협은 세계 운송에 매우 중요하다"
+          "english": "Flight disruptions affect holidays, work, family visits, and deliveries.",
+          "korean": "항공 장애는 휴일과 일, 가족 방문, 배송에 영향을 줍니다."
         },
         {
-          "english": "Attacks can affect fuel prices and deliveries.",
-          "korean": "공격은 연료 가격과 배송에 영향을 줄 수 있다"
+          "english": "Airlines may need days to reposition aircraft and crews.",
+          "korean": "항공사는 비행기와 승무원을 다시 배치하는 데 며칠 걸릴 수 있습니다."
         }
       ],
       "parties": [
         {
-          "label": "Iran’s Revolutionary Guards navy",
-          "english": "It says the tanker used an unauthorized and dangerous route.",
-          "korean": "혁명수비대 해군은 선박이 위험한 경로를 썼다고 말한다"
+          "label": "FAA",
+          "english": "The FAA stopped departures nationwide for safety after communication and radar gaps.",
+          "korean": "FAA는 통신과 레이더 공백 뒤 안전을 위해 출발을 멈췄습니다."
         },
         {
-          "label": "Commercial tankers",
-          "english": "They continue facing attacks while using the strategic waterway.",
-          "korean": "상업용 유조선들은 전략 수로에서 계속 공격받고 있다"
+          "label": "Travelers",
+          "english": "Thousands of travelers faced delays, diversions, and changing plans.",
+          "korean": "수천 명의 여행객이 지연과 우회, 일정 변경을 겪었습니다."
         },
         {
-          "label": "Global energy markets",
-          "english": "They depend on shipping through the Strait of Hormuz.",
-          "korean": "세계 에너지 시장은 호르무즈 해협 운송에 의존한다"
+          "label": "Trump administration",
+          "english": "Officials blamed overloaded systems and said there was no indication of a cyberattack.",
+          "korean": "당국은 시스템 과부하를 원인으로 말했고 사이버 공격 징후는 없다고 했습니다."
         }
       ],
       "views": [
         {
-          "label": "Iranian authorities",
-          "english": "They say ships ignored warnings and entered restricted waters.",
-          "korean": "이란 당국은 선박들이 경고를 무시하고 제한 수역에 들어갔다고 말한다"
+          "label": "Trump administration",
+          "english": "Officials said new equipment overloaded older systems and caused intermittent communication and radar gaps.",
+          "korean": "당국은 새 장비가 구형 시스템을 과부하해 통신과 레이더 공백을 만들었다고 말했습니다."
         },
         {
-          "label": "Shipping observers",
-          "english": "Repeated attacks show that traffic remains dangerous despite a recent rebound.",
-          "korean": "반복된 공격은 최근 운항 회복에도 위험이 계속됨을 보여준다"
+          "label": "Aviation analysts",
+          "english": "The incident exposed the risks of aging infrastructure and slow recovery after a nationwide disruption.",
+          "korean": "항공 분석가들은 노후 기반시설과 느린 회복의 위험을 지적했습니다."
         }
       ],
       "disagree": {
-        "english": "The available accounts do not independently establish who placed the mine or why.",
-        "korean": "공개된 설명만으로는 누가 기뢰를 설치했는지 알 수 없다"
+        "english": "The exact technical cause remained under investigation, so officials could not rule out every possibility.",
+        "korean": "정확한 기술 원인은 조사 중이어서 당국은 모든 가능성을 배제하지 못했습니다."
       },
-      "reader_question_korean": "반복 공격이 있는 해협을 배들은 어떻게 지나야 할까요",
+      "reader_question_korean": "미국 항공 교통 시스템에서 무엇을 먼저 바꿔야 할까요?",
       "search_hits": 0,
       "flags": [
         "no web results",
         "fewer than 2 outlets"
       ],
-      "source_title": "Tanker carrying LNG hit mine, suffered explosion in Hormuz: Iran",
+      "source_title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "timeline",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
+      "format_data": {
+        "steps": [
+          {
+            "label": "",
+            "english": "November 13: The FAA stopped most U.S. departures.",
+            "korean": "11월 13일 FAA가 미국 출발편 대부분을 멈췄습니다."
+          },
+          {
+            "label": "",
+            "english": "Officials blamed new technology overwhelming older systems.",
+            "korean": "당국은 새 기술이 구형 시스템을 압도했다고 말했습니다."
+          },
+          {
+            "label": "",
+            "english": "Friday night: The ground stop was lifted.",
+            "korean": "금요일 밤 운항 중단이 해제됐습니다."
+          },
+          {
+            "label": "",
+            "english": "Airlines expected several days of recovery.",
+            "korean": "항공사들은 회복에 며칠이 걸린다고 예상했습니다."
+          }
+        ]
+      },
       "serious": true,
       "caption_lines": [
-        "The incident was reported on November 13, 2026.",
-        "At least 10 ships were hit in November’s first ten days.",
-        "October recorded 37 attacks."
+        "Update: November 13, 2026",
+        "The FAA is the Federal Aviation Administration."
       ],
-      "reader_question": "How should ships navigate a waterway facing repeated attacks?",
-      "topic_tag": "Shipping",
+      "reader_question": "What should be upgraded first in America’s air traffic system?",
+      "topic_tag": "Aviation",
       "sources": [
         {
           "outlet": "The Hindu",
-          "title": "Tanker carrying LNG hit mine, suffered explosion in Hormuz: Iran",
-          "date": "2026-11-13",
-          "url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece"
+          "title": "Trump administration blames ‘overloaded’ systems for ground stop after FAA lets flights resume",
+          "date": "2026-11-14",
+          "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece"
         }
       ],
       "glossary": [
         {
-          "korean": "이",
-          "roman": "i",
-          "english": "this",
+          "korean": "FAA가",
+          "roman": "FAA-ga",
+          "english": "FAA",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheonsim-sip-yug-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibirwol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "13일",
+          "roman": "sipsam-il",
+          "english": "13th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "미국",
+          "roman": "miguk",
+          "english": "U.S.",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "수로는",
-          "roman": "su-ro-neun",
-          "english": "waterway",
-          "particle": false,
-          "suffix": "는"
-        },
-        {
-          "korean": "세계",
-          "roman": "se-gye",
-          "english": "world",
+          "korean": "출발편",
+          "roman": "chulbalpyeon",
+          "english": "departing flights",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "주요",
-          "roman": "ju-yo",
-          "english": "major",
+          "korean": "대부분을",
+          "roman": "daebubuneul",
+          "english": "most",
           "particle": false,
-          "suffix": ""
+          "suffix": "을"
         },
         {
-          "korean": "에너지",
-          "roman": "e-neo-ji",
-          "english": "energy",
+          "korean": "멈췄습니다",
+          "roman": "meomchwotseumnida",
+          "english": "halted",
           "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "운송로라",
-          "roman": "un-song-ro-ra",
-          "english": "shipping route",
-          "particle": false,
-          "suffix": "라"
-        },
-        {
-          "korean": "중요하다",
-          "roman": "jung-yo-ha-da",
-          "english": "is important",
-          "particle": false,
-          "suffix": "하다"
+          "suffix": "습니다"
         }
       ],
       "sentences": [
         {
-          "stage": "why",
-          "english": "The waterway matters because it carries major global energy shipments.",
-          "korean": "이 수로는 세계 주요 에너지 운송로라 중요하다",
+          "stage": "what",
+          "english": "The FAA halted most U.S. departures nationwide on November 13, 2026.",
+          "korean": "FAA가 2026년 11월 13일 미국 출발편 대부분을 멈췄습니다.",
           "glossary": [
             {
-              "korean": "이",
-              "roman": "i",
-              "english": "this",
+              "korean": "FAA가",
+              "roman": "FAA-ga",
+              "english": "FAA",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheonsim-sip-yug-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibirwol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "13일",
+              "roman": "sipsam-il",
+              "english": "13th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "미국",
+              "roman": "miguk",
+              "english": "U.S.",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "수로는",
-              "roman": "su-ro-neun",
-              "english": "waterway",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "세계",
-              "roman": "se-gye",
-              "english": "world",
+              "korean": "출발편",
+              "roman": "chulbalpyeon",
+              "english": "departing flights",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "주요",
-              "roman": "ju-yo",
-              "english": "major",
+              "korean": "대부분을",
+              "roman": "daebubuneul",
+              "english": "most",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "에너지",
-              "roman": "e-neo-ji",
-              "english": "energy",
+              "korean": "멈췄습니다",
+              "roman": "meomchwotseumnida",
+              "english": "halted",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "운송로라",
-              "roman": "un-song-ro-ra",
-              "english": "shipping route",
-              "particle": false,
-              "suffix": "라"
-            },
-            {
-              "korean": "중요하다",
-              "roman": "jung-yo-ha-da",
-              "english": "is important",
-              "particle": false,
-              "suffix": "하다"
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "The Revolutionary Guards said the vessel used an unauthorized route and exploded.",
-          "korean": "혁명수비대는 선박이 승인되지 않은 경로에서 폭발했다고 말했다",
+          "english": "Officials blamed new technology overwhelming older systems.",
+          "korean": "당국은 새 기술이 구형 시스템을 압도했다고 말했습니다.",
           "glossary": [
             {
-              "korean": "혁명수비대는",
-              "roman": "hyeog-myeong-su-bi-dae-neun",
-              "english": "Revolutionary Guards",
+              "korean": "당국은",
+              "roman": "danggug-eun",
+              "english": "officials",
               "particle": false,
-              "suffix": "는"
+              "suffix": "은"
             },
             {
-              "korean": "선박이",
-              "roman": "seon-bag-i",
-              "english": "the vessel",
+              "korean": "새",
+              "roman": "sae",
+              "english": "new",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기술이",
+              "roman": "gisuri",
+              "english": "technology",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "승인되지",
-              "roman": "seung-in-doe-ji",
-              "english": "not authorized",
+              "korean": "구형",
+              "roman": "guhyeong",
+              "english": "older",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "않은",
-              "roman": "an-eun",
-              "english": "not",
+              "korean": "시스템을",
+              "roman": "siseutemeul",
+              "english": "systems",
               "particle": false,
-              "suffix": ""
+              "suffix": "을"
             },
             {
-              "korean": "경로에서",
-              "roman": "gyeong-ro-eseo",
-              "english": "on a route",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "폭발했다고",
-              "roman": "pog-bal-haet-da-go",
-              "english": "exploded",
+              "korean": "압도했다고",
+              "roman": "apdohag다고",
+              "english": "overwhelmed",
               "particle": false,
               "suffix": "다고"
             },
             {
-              "korean": "말했다",
-              "roman": "mal-haet-da",
+              "korean": "말했습니다",
+              "roman": "malhaetseumnida",
               "english": "said",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "습니다"
             }
           ]
         },
         {
-          "stage": "now",
-          "english": "At least 10 ships were hit during November’s first 10 days.",
-          "korean": "11월 첫 열흘 동안 최소 10척이 공격받았다",
+          "stage": "how",
+          "english": "More than 3,000 flights landed safely during the stoppage.",
+          "korean": "중단 중 3,000편 넘는 항공편이 안전하게 착륙했습니다.",
           "glossary": [
             {
-              "korean": "11월",
-              "roman": "sibil-wol",
-              "english": "November",
+              "korean": "중단",
+              "roman": "jungdan",
+              "english": "stoppage",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "첫",
-              "roman": "cheot",
-              "english": "first",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "열흘",
-              "roman": "yeol-heul",
-              "english": "ten days",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "동안",
-              "roman": "dong-an",
+              "korean": "중",
+              "roman": "jung",
               "english": "during",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "최소",
-              "roman": "choe-so",
-              "english": "at least",
+              "korean": "3,000편",
+              "roman": "samcheon-pyeon",
+              "english": "3,000 flights",
               "particle": false,
-              "suffix": ""
+              "suffix": "편"
             },
             {
-              "korean": "10척이",
-              "roman": "sip-cheog-i",
-              "english": "10 ships",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "공격받았다",
-              "roman": "gong-gyeog-bat-at-da",
-              "english": "were attacked",
-              "particle": false,
-              "suffix": "았다"
-            }
-          ]
-        }
-      ],
-      "url": "https://www.thehindu.com/news/international/tanker-carrying-lng-hit-mine-suffered-explosion-in-hormuz-iran/article71696996.ece",
-      "short_english": "The waterway matters because it carries major global energy shipments.",
-      "short_korean": "이 수로는 세계 주요 에너지 운송로라 중요하다",
-      "date": "2026-11-13",
-      "images": [
-        "images/global/4c0998195f7e/1.jpg",
-        "images/global/4c0998195f7e/2.jpg",
-        "images/global/4c0998195f7e/3.jpg",
-        "images/global/4c0998195f7e/4.jpg",
-        "images/global/4c0998195f7e/5.jpg",
-        "images/global/4c0998195f7e/6.jpg",
-        "images/global/4c0998195f7e/7.jpg",
-        "images/global/4c0998195f7e/8.jpg",
-        "images/global/4c0998195f7e/9.jpg",
-        "images/global/4c0998195f7e/10.jpg",
-        "images/global/4c0998195f7e/11.jpg",
-        "images/global/4c0998195f7e/12.jpg",
-        "images/global/4c0998195f7e/13.jpg",
-        "images/global/4c0998195f7e/14.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/global/4c0998195f7e/caption.txt"
-    },
-    {
-      "category": "World",
-      "korean_title": "엔비디아 황 CEO 스캔들로 사임",
-      "english_title": "Nvidia CEO Jensen Huang resigns after spy scandal",
-      "korean_desc": "젠슨 황은 2026년 11월 12일 엔비디아 CEO에서 사임했다 그의 퇴진은 중국 간첩 의혹 여성과의 불륜 보도 뒤였다 이사회는 CFO 콜레트 크레스를 임시 CEO로 정하고 후임을 찾기 시작했다 사임 뒤 엔비디아 주가는 개장 전 거래에서 10퍼센트 떨어졌다",
-      "english_desc": "Jensen Huang resigned as Nvidia’s CEO on November 12, 2026. His departure followed reports of affairs, including one with a woman accused of spying for China. The board named CFO Colette Kress interim CEO and began searching for a successor. Nvidia shares fell 10% in premarket trading after the resignation.",
-      "hook": "Nvidia’s CEO resigned after two affair reports.",
-      "sticker": "A founder leaves Nvidia",
-      "korean_hook": "엔비디아 CEO가 불륜 보도 뒤 사임했다",
-      "takeaway_english": "Nvidia now faces a leadership search while governments watch its technology links closely.",
-      "takeaway_korean": "엔비디아는 기술 관계를 지켜보는 가운데 새 지도자를 찾아야 한다",
-      "why_it_matters": [
-        {
-          "english": "Nvidia’s chips power much of the artificial-intelligence industry.",
-          "korean": "엔비디아 칩은 인공지능 산업의 많은 부분을 움직인다"
-        },
-        {
-          "english": "The resignation immediately affected Nvidia’s share price.",
-          "korean": "사임은 엔비디아 주가에 즉시 영향을 줬다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Jensen Huang",
-          "english": "He left Nvidia after 33 years leading the company he co-founded.",
-          "korean": "그는 공동 창업한 회사를 33년 이끈 뒤 떠났다"
-        },
-        {
-          "label": "Colette Kress",
-          "english": "She became interim CEO while remaining chief financial officer.",
-          "korean": "그녀는 최고재무책임자를 유지하며 임시 CEO가 됐다"
-        },
-        {
-          "label": "Nvidia",
-          "english": "The company must search for a permanent replacement during an AI boom.",
-          "korean": "회사는 인공지능 붐 속에서 정식 후임을 찾아야 한다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Nvidia’s board",
-          "english": "The board says operations and the product roadmap should continue without interruption.",
-          "korean": "이사회는 운영과 제품 계획이 중단 없이 계속된다고 말한다"
-        },
-        {
-          "label": "U.S. security critics",
-          "english": "They say the scandal raises questions about chip exports and national security.",
-          "korean": "그들은 스캔들이 칩 수출과 국가안보 문제를 만든다고 말한다"
-        }
-      ],
-      "disagree": {
-        "english": "Beijing denies the spy allegation, and public reports do not establish all details.",
-        "korean": "중국은 간첩 의혹을 부인하며 공개 보도는 모든 세부사항을 밝히지 않았다"
-      },
-      "reader_question_korean": "창업자 퇴진은 일반적인 경영 교체보다 투자자를 더 걱정시켜야 할까요",
-      "search_hits": 0,
-      "flags": [
-        "no web results",
-        "fewer than 2 outlets"
-      ],
-      "source_title": "Nvidia CEO Jensen Huang resigns amid spy scandal",
-      "hook_format": "headline",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {},
-      "serious": false,
-      "caption_lines": [
-        "Huang resigned on November 12, 2026.",
-        "Nvidia’s shares fell 10% in premarket trading.",
-        "The board will consider internal and external candidates."
-      ],
-      "reader_question": "Should a founder’s departure worry investors more than a normal leadership change?",
-      "topic_tag": "Business",
-      "sources": [
-        {
-          "outlet": "The Hindu",
-          "title": "Nvidia CEO Jensen Huang resigns amid spy scandal",
-          "date": "2026-11-13",
-          "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "젠슨",
-          "roman": "jensen",
-          "english": "Jensen",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "황은",
-          "roman": "hwang-eun",
-          "english": "Huang",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "2026년",
-          "roman": "icheon-isip-yug-nyeon",
-          "english": "year 2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibil-wol",
-          "english": "November",
-          "particle": false,
-          "suffix": "월"
-        },
-        {
-          "korean": "12일",
-          "roman": "sibil-i-il",
-          "english": "12th day",
-          "particle": false,
-          "suffix": "일"
-        },
-        {
-          "korean": "엔비디아",
-          "roman": "en-bi-di-a",
-          "english": "Nvidia",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "CEO에서",
-          "roman": "CEO-eseo",
-          "english": "as CEO",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "사임했다",
-          "roman": "sa-im-haet-da",
-          "english": "resigned",
-          "particle": false,
-          "suffix": "했다"
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "what",
-          "english": "Jensen Huang resigned as Nvidia’s CEO on November 12, 2026.",
-          "korean": "젠슨 황은 2026년 11월 12일 엔비디아 CEO에서 사임했다",
-          "glossary": [
-            {
-              "korean": "젠슨",
-              "roman": "jensen",
-              "english": "Jensen",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "황은",
-              "roman": "hwang-eun",
-              "english": "Huang",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "2026년",
-              "roman": "icheon-isip-yug-nyeon",
-              "english": "year 2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sibil-wol",
-              "english": "November",
-              "particle": false,
-              "suffix": "월"
-            },
-            {
-              "korean": "12일",
-              "roman": "sibil-i-il",
-              "english": "12th day",
-              "particle": false,
-              "suffix": "일"
-            },
-            {
-              "korean": "엔비디아",
-              "roman": "en-bi-di-a",
-              "english": "Nvidia",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "CEO에서",
-              "roman": "CEO-eseo",
-              "english": "as CEO",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "사임했다",
-              "roman": "sa-im-haet-da",
-              "english": "resigned",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "His departure followed reports of affairs, including one with a woman accused of spying for China.",
-          "korean": "그의 퇴진은 중국 간첩 의혹 여성과의 불륜 보도 뒤였다",
-          "glossary": [
-            {
-              "korean": "그의",
-              "roman": "geu-ui",
-              "english": "his",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "퇴진은",
-              "roman": "toe-jin-eun",
-              "english": "departure",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "중국",
-              "roman": "jung-gug",
-              "english": "China",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "간첩",
-              "roman": "gan-cheop",
-              "english": "spy",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "의혹",
-              "roman": "ui-hog",
-              "english": "suspicion",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "여성과의",
-              "roman": "yeoseong-gwa-ui",
-              "english": "with a woman",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "불륜",
-              "roman": "bul-lyun",
-              "english": "affair",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "보도",
-              "roman": "bo-do",
-              "english": "reports",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "뒤였다",
-              "roman": "dwi-yeot-da",
-              "english": "came afterward",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "The board named CFO Colette Kress interim CEO and began searching for a successor.",
-          "korean": "이사회는 CFO 콜레트 크레스를 임시 CEO로 정하고 후임을 찾기 시작했다",
-          "glossary": [
-            {
-              "korean": "이사회는",
-              "roman": "i-sa-hoe-neun",
-              "english": "the board",
+              "korean": "넘는",
+              "roman": "neomneun",
+              "english": "more than",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "CFO",
-              "roman": "CFO",
-              "english": "chief financial officer",
+              "korean": "항공편이",
+              "roman": "hanggongpyeoni",
+              "english": "flights",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "안전하게",
+              "roman": "anjeonhage",
+              "english": "safely",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "콜레트",
-              "roman": "kol-le-teu",
-              "english": "Colette",
+              "korean": "착륙했습니다",
+              "roman": "changnyukhaetseumnida",
+              "english": "landed",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "크레스를",
-              "roman": "keu-re-seu-reul",
-              "english": "Kress",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "임시",
-              "roman": "im-si",
-              "english": "interim",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "CEO로",
-              "roman": "CEO-ro",
-              "english": "as CEO",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "정하고",
-              "roman": "jeong-ha-go",
-              "english": "named",
-              "particle": false,
-              "suffix": "고"
-            },
-            {
-              "korean": "후임을",
-              "roman": "hu-im-eul",
-              "english": "successor",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "찾기",
-              "roman": "chat-gi",
-              "english": "finding",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "시작했다",
-              "roman": "si-jag-haet-da",
-              "english": "began",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "Nvidia shares fell 10% in premarket trading after the resignation.",
-          "korean": "사임 뒤 엔비디아 주가는 개장 전 거래에서 10퍼센트 떨어졌다",
+          "english": "The stop ended Friday night, but airlines expected days of recovery.",
+          "korean": "금요일 밤 중단은 끝났지만 항공사는 며칠 회복을 예상했습니다.",
           "glossary": [
             {
-              "korean": "사임",
-              "roman": "sa-im",
-              "english": "resignation",
+              "korean": "금요일",
+              "roman": "geumyoil",
+              "english": "Friday",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "뒤",
-              "roman": "dwi",
-              "english": "after",
+              "korean": "밤",
+              "roman": "bam",
+              "english": "night",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "엔비디아",
-              "roman": "en-bi-di-a",
-              "english": "Nvidia",
+              "korean": "중단은",
+              "roman": "jungdaneun",
+              "english": "the stoppage",
               "particle": false,
-              "suffix": ""
+              "suffix": "은"
             },
             {
-              "korean": "주가는",
-              "roman": "ju-ga-neun",
-              "english": "share price",
+              "korean": "끝났지만",
+              "roman": "kkeunnatjiman",
+              "english": "ended but",
+              "particle": false,
+              "suffix": "지만"
+            },
+            {
+              "korean": "항공사는",
+              "roman": "hanggongsaneun",
+              "english": "airlines",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "개장",
-              "roman": "gae-jang",
-              "english": "market opening",
+              "korean": "며칠",
+              "roman": "myeochil",
+              "english": "several days",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "회복을",
+              "roman": "hoebogeul",
+              "english": "recovery",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "예상했습니다",
+              "roman": "yesanghaetseumnida",
+              "english": "expected",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/trump-administration-blames-overloaded-systems-for-ground-stop-after-faa-lets-flights-resume/article71700826.ece",
+      "short_english": "The FAA halted most U.S. departures nationwide on November 13, 2026.",
+      "short_korean": "FAA가 2026년 11월 13일 미국 출발편 대부분을 멈췄습니다.",
+      "date": "2026-11-14",
+      "images": [
+        "images/global/39036b00633c/1.jpg",
+        "images/global/39036b00633c/2.jpg",
+        "images/global/39036b00633c/3.jpg",
+        "images/global/39036b00633c/4.jpg",
+        "images/global/39036b00633c/5.jpg",
+        "images/global/39036b00633c/6.jpg",
+        "images/global/39036b00633c/7.jpg",
+        "images/global/39036b00633c/8.jpg",
+        "images/global/39036b00633c/9.jpg",
+        "images/global/39036b00633c/10.jpg",
+        "images/global/39036b00633c/11.jpg",
+        "images/global/39036b00633c/12.jpg",
+        "images/global/39036b00633c/13.jpg",
+        "images/global/39036b00633c/14.jpg",
+        "images/global/39036b00633c/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/39036b00633c/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "FAA 운항 중단 해제",
+      "english_title": "Flights Resume After Aging FAA Technology Fails",
+      "korean_desc": "FAA가 2026년 11월 13일 네 시간 전국 중단을 해제했습니다. 중단은 6,600편 넘는 취소와 8,600편 지연을 만들었습니다. 당국은 낡은 레이더와 통신 기술을 원인으로 지목했습니다. 당국은 추수감사절 여행 전 정상화를 예상했습니다.",
+      "english_desc": "The FAA lifted a four-hour nationwide ground stop on November 13, 2026. The stop caused more than 6,600 cancellations and 8,600 delays. Officials blamed aging radar and communications technology. Officials expected normal service before Thanksgiving travel.",
+      "hook": "Flights resumed after an aging technology failure.",
+      "sticker": "The system behind the delays",
+      "korean_hook": "낡은 기술 장애 뒤 운항이 재개됐습니다",
+      "takeaway_english": "The immediate crisis ended, but infrastructure upgrades remain the harder part.",
+      "takeaway_korean": "당장 위기는 끝났지만 기반시설 개선이 더 어려운 과제로 남았습니다.",
+      "why_it_matters": [
+        {
+          "english": "Air traffic controls millions of passenger trips and large cargo flows.",
+          "korean": "항공 교통은 수백만 승객 여행과 큰 화물 흐름을 관리합니다."
+        },
+        {
+          "english": "Old systems can turn a technical failure into nationwide disruption.",
+          "korean": "낡은 시스템은 기술 장애를 전국 혼란으로 키울 수 있습니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "FAA",
+          "english": "The agency lifted the nationwide ground stop after about four hours.",
+          "korean": "FAA는 약 네 시간 뒤 전국 운항 중단을 해제했습니다."
+        },
+        {
+          "label": "Travelers",
+          "english": "Passengers faced more than 6,600 cancellations and 8,600 delays.",
+          "korean": "승객들은 6,600편 넘는 취소와 8,600편 지연을 겪었습니다."
+        },
+        {
+          "label": "Airlines",
+          "english": "Airlines warned that aircraft and crews could remain out of position for days.",
+          "korean": "항공사는 비행기와 승무원이 며칠 동안 어긋날 수 있다고 했습니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Sean Duffy",
+          "english": "Duffy said overloaded switches and routers in an aging system caused the failure.",
+          "korean": "더피는 노후 시스템의 과부하 스위치와 라우터가 장애를 일으켰다고 말했습니다."
+        },
+        {
+          "label": "Aviation safety expert Steve Arroyo",
+          "english": "Arroyo said the nationwide scale left controllers unable to communicate reliably with pilots.",
+          "korean": "애로요는 전국 규모 때문에 관제사가 조종사와 안정적으로 소통하지 못했다고 말했습니다."
+        }
+      ],
+      "disagree": {
+        "english": "The full cause remained disputed, especially because a new air-traffic system was also being rolled out.",
+        "korean": "새 항공 시스템도 도입 중이어서 전체 원인은 여전히 논쟁 중입니다."
+      },
+      "reader_question_korean": "정부는 새 기술과 낡은 기반시설을 어떻게 조화시켜야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Sean Duffy",
+            "english": "The transportation secretary blamed old switches, routers, and copper lines.",
+            "korean": "교통장관은 낡은 스위치와 라우터, 구리선을 원인으로 지목했습니다."
+          },
+          {
+            "label": "GAO findings",
+            "english": "A 2024 review found many FAA air-traffic systems unsustainable or potentially unsustainable.",
+            "korean": "2024년 검토는 많은 FAA 시스템이 지속 불가능하다고 밝혔습니다."
+          }
+        ]
+      },
+      "serious": true,
+      "caption_lines": [
+        "Update: November 13, 2026",
+        "The 2024 GAO review examined 138 FAA air-traffic systems."
+      ],
+      "reader_question": "How should governments balance new technology with old infrastructure?",
+      "topic_tag": "Aviation",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "U.S. FAA ground stop updates: Flights resume as hours-long halt lifted; Trump admin. blames 'overloaded' systems",
+          "date": "2026-11-14",
+          "url": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "FAA가",
+          "roman": "FAA-ga",
+          "english": "FAA",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheonsim-sip-yug-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibirwol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "13일",
+          "roman": "sipsam-il",
+          "english": "13th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "네",
+          "roman": "ne",
+          "english": "four",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "시간",
+          "roman": "sigan",
+          "english": "hours",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "전국",
+          "roman": "jeonguk",
+          "english": "nationwide",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "중단을",
+          "roman": "jungdaneul",
+          "english": "stop",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "해제했습니다",
+          "roman": "haejehaetseumnida",
+          "english": "lifted",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "The FAA lifted a four-hour nationwide ground stop on November 13, 2026.",
+          "korean": "FAA가 2026년 11월 13일 네 시간 전국 중단을 해제했습니다.",
+          "glossary": [
+            {
+              "korean": "FAA가",
+              "roman": "FAA-ga",
+              "english": "FAA",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheonsim-sip-yug-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibirwol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "13일",
+              "roman": "sipsam-il",
+              "english": "13th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "네",
+              "roman": "ne",
+              "english": "four",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "시간",
+              "roman": "sigan",
+              "english": "hours",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전국",
+              "roman": "jeonguk",
+              "english": "nationwide",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "중단을",
+              "roman": "jungdaneul",
+              "english": "stop",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "해제했습니다",
+              "roman": "haejehaetseumnida",
+              "english": "lifted",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The stop caused more than 6,600 cancellations and 8,600 delays.",
+          "korean": "중단은 6,600편 넘는 취소와 8,600편 지연을 만들었습니다.",
+          "glossary": [
+            {
+              "korean": "중단은",
+              "roman": "jungdaneun",
+              "english": "the stop",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "6,600편",
+              "roman": "yukcheon-yukbaek-pyeon",
+              "english": "6,600 flights",
+              "particle": false,
+              "suffix": "편"
+            },
+            {
+              "korean": "넘는",
+              "roman": "neomneun",
+              "english": "more than",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "취소와",
+              "roman": "chwisowa",
+              "english": "cancellations and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "8,600편",
+              "roman": "palcheon-yukbaek-pyeon",
+              "english": "8,600 flights",
+              "particle": false,
+              "suffix": "편"
+            },
+            {
+              "korean": "지연을",
+              "roman": "jiyeoneul",
+              "english": "delays",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "만들었습니다",
+              "roman": "mandeureotseumnida",
+              "english": "caused",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Officials blamed aging radar and communications technology.",
+          "korean": "당국은 낡은 레이더와 통신 기술을 원인으로 지목했습니다.",
+          "glossary": [
+            {
+              "korean": "당국은",
+              "roman": "danggug-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "낡은",
+              "roman": "nalgeun",
+              "english": "aging",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "레이더와",
+              "roman": "reideowa",
+              "english": "radar and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "통신",
+              "roman": "tongsin",
+              "english": "communications",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "기술을",
+              "roman": "gisureul",
+              "english": "technology",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "원인으로",
+              "roman": "wonineuro",
+              "english": "as the cause",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "지목했습니다",
+              "roman": "jimokhaetseumnida",
+              "english": "blamed",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "Officials expected normal service before Thanksgiving travel.",
+          "korean": "당국은 추수감사절 여행 전 정상화를 예상했습니다.",
+          "glossary": [
+            {
+              "korean": "당국은",
+              "roman": "danggug-eun",
+              "english": "officials",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "추수감사절",
+              "roman": "chusugamsajeol",
+              "english": "Thanksgiving",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "여행",
+              "roman": "yeohaeng",
+              "english": "travel",
               "particle": false,
               "suffix": ""
             },
@@ -2260,53 +2009,449 @@
               "suffix": ""
             },
             {
-              "korean": "거래에서",
-              "roman": "geo-rae-eseo",
-              "english": "in trading",
+              "korean": "정상화를",
+              "roman": "jeongsanghwaleul",
+              "english": "normalization",
               "particle": false,
-              "suffix": "에서"
+              "suffix": "를"
             },
             {
-              "korean": "10퍼센트",
-              "roman": "sip-peo-sen-teu",
-              "english": "10 percent",
+              "korean": "예상했습니다",
+              "roman": "yesanghaetseumnida",
+              "english": "expected",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "떨어졌다",
-              "roman": "tteol-eo-jyeot-da",
-              "english": "fell",
-              "particle": false,
-              "suffix": "졌다"
+              "suffix": "습니다"
             }
           ]
         }
       ],
-      "url": "https://www.thehindu.com/news/international/nvidia-ceo-jensen-huang-resigns-amid-scandal/article71694271.ece",
-      "short_english": "Jensen Huang resigned as Nvidia’s CEO on November 12, 2026.",
-      "short_korean": "젠슨 황은 2026년 11월 12일 엔비디아 CEO에서 사임했다",
-      "date": "2026-11-13",
+      "url": "https://www.thehindu.com/news/international/us-flights-grounded-faa-nationwide-stop-usa-flights-live-updates-november-14-2026/article71700693.ece",
+      "short_english": "The FAA lifted a four-hour nationwide ground stop on November 13, 2026.",
+      "short_korean": "FAA가 2026년 11월 13일 네 시간 전국 중단을 해제했습니다.",
+      "date": "2026-11-14",
       "images": [
-        "images/global/c221ba3edc6e/1.jpg",
-        "images/global/c221ba3edc6e/2.jpg",
-        "images/global/c221ba3edc6e/3.jpg",
-        "images/global/c221ba3edc6e/4.jpg",
-        "images/global/c221ba3edc6e/5.jpg",
-        "images/global/c221ba3edc6e/6.jpg",
-        "images/global/c221ba3edc6e/7.jpg",
-        "images/global/c221ba3edc6e/8.jpg",
-        "images/global/c221ba3edc6e/9.jpg",
-        "images/global/c221ba3edc6e/10.jpg",
-        "images/global/c221ba3edc6e/11.jpg",
-        "images/global/c221ba3edc6e/12.jpg",
-        "images/global/c221ba3edc6e/13.jpg",
-        "images/global/c221ba3edc6e/14.jpg",
-        "images/global/c221ba3edc6e/15.jpg",
-        "images/global/c221ba3edc6e/16.jpg"
+        "images/global/f7f0d855a580/1.jpg",
+        "images/global/f7f0d855a580/2.jpg",
+        "images/global/f7f0d855a580/3.jpg",
+        "images/global/f7f0d855a580/4.jpg",
+        "images/global/f7f0d855a580/5.jpg",
+        "images/global/f7f0d855a580/6.jpg",
+        "images/global/f7f0d855a580/7.jpg",
+        "images/global/f7f0d855a580/8.jpg",
+        "images/global/f7f0d855a580/9.jpg",
+        "images/global/f7f0d855a580/10.jpg",
+        "images/global/f7f0d855a580/11.jpg",
+        "images/global/f7f0d855a580/12.jpg",
+        "images/global/f7f0d855a580/13.jpg",
+        "images/global/f7f0d855a580/14.jpg",
+        "images/global/f7f0d855a580/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/global/c221ba3edc6e/caption.txt"
+      "caption_file": "images/global/f7f0d855a580/caption.txt"
+    },
+    {
+      "category": "World",
+      "korean_title": "루비오, 국제형사재판소 공격",
+      "english_title": "Rubio Attacks the ICC and Defends U.S. Power",
+      "korean_desc": "마르코 루비오가 2026년 11월 13일 워싱턴에서 ICC를 공격했습니다. 그는 미국인이 법원 권한을 받아들인 적 없다고 말했습니다. ICC는 전쟁범죄와 반인도적 범죄, 집단학살을 기소합니다. 합의가 없으면 미국 제재는 4월에 시행됩니다.",
+      "english_desc": "Marco Rubio attacked the ICC in Washington on November 13, 2026. He said Americans never accepted the court’s authority. The ICC prosecutes war crimes, crimes against humanity, and genocide. U.S. sanctions are scheduled to take effect in April unless an agreement is reached.",
+      "hook": "Rubio attacked the ICC over limits on U.S. power.",
+      "sticker": "A fight over global law",
+      "korean_hook": "루비오가 미국 권력 제한을 두고 ICC를 공격했습니다",
+      "takeaway_english": "The argument is bigger than one speech: it tests the reach of international law.",
+      "takeaway_korean": "논쟁은 한 연설보다 크며 국제법의 범위를 시험합니다.",
+      "why_it_matters": [
+        {
+          "english": "The dispute concerns who can judge alleged crimes by powerful governments.",
+          "korean": "논쟁은 강한 정부의 범죄 혐의를 누가 판단할지에 관한 것입니다."
+        },
+        {
+          "english": "Sanctions could affect the court’s ability to operate.",
+          "korean": "제재는 법원의 활동 능력에 영향을 줄 수 있습니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Marco Rubio",
+          "english": "The secretary of state attacked the ICC in Washington on November 13, 2026.",
+          "korean": "국무장관 루비오는 2026년 11월 13일 워싱턴에서 ICC를 공격했습니다."
+        },
+        {
+          "label": "International Criminal Court",
+          "english": "The ICC faces U.S. sanctions designed to restrict its operations.",
+          "korean": "ICC는 활동을 제한하는 미국 제재에 직면했습니다."
+        },
+        {
+          "label": "ICC member states",
+          "english": "Most member states, including European Union countries, support the court.",
+          "korean": "유럽연합 국가를 포함한 대부분 회원국은 법원을 지지합니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Marco Rubio",
+          "english": "Rubio argues that international law should not restrain American action or national sovereignty.",
+          "korean": "루비오는 국제법이 미국 행동과 국가 주권을 제한해서는 안 된다고 주장합니다."
+        },
+        {
+          "label": "ICC supporters",
+          "english": "Supporters argue that an international court can address grave crimes when national systems fail.",
+          "korean": "지지자들은 국가 제도가 실패할 때 국제법원이 중대 범죄를 다룰 수 있다고 주장합니다."
+        }
+      ],
+      "disagree": {
+        "english": "Critics may say rejecting outside legal review weakens accountability for powerful countries.",
+        "korean": "비판자들은 외부 법률 검토 거부가 강대국의 책임을 약화한다고 말할 수 있습니다."
+      },
+      "reader_question_korean": "국제법원은 강대국을 제한해야 할까요?",
+      "search_hits": 0,
+      "flags": [
+        "no web results",
+        "fewer than 2 outlets"
+      ],
+      "source_title": "Rubio assails international court in speech to conservative legal group",
+      "hook_format": "headline",
+      "body_format": "two_views",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "views": [
+          {
+            "label": "Marco Rubio",
+            "english": "Rubio says Americans never accepted the ICC’s authority over the United States.",
+            "korean": "루비오는 미국인이 ICC의 미국 관할권을 받아들인 적 없다고 말합니다."
+          },
+          {
+            "label": "ICC supporters",
+            "english": "Supporters say the court helps prosecute war crimes, crimes against humanity, and genocide.",
+            "korean": "지지자들은 법원이 전쟁범죄와 반인도적 범죄, 집단학살을 기소한다고 말합니다."
+          }
+        ]
+      },
+      "serious": false,
+      "caption_lines": [
+        "Speech date: November 13, 2026",
+        "The ICC was founded in 2002."
+      ],
+      "reader_question": "Should an international court limit powerful countries?",
+      "topic_tag": "Law",
+      "sources": [
+        {
+          "outlet": "The Hindu",
+          "title": "Rubio assails international court in speech to conservative legal group",
+          "date": "2026-11-14",
+          "url": "https://www.thehindu.com/news/international/rubio-assails-international-court-in-speech-to-conservative-legal-group/article71700928.ece"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "마르코",
+          "roman": "mareuko",
+          "english": "Marco",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "루비오가",
+          "roman": "rubio-ga",
+          "english": "Rubio",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "2026년",
+          "roman": "icheonsim-sip-yug-nyeon",
+          "english": "in 2026",
+          "particle": false,
+          "suffix": "년"
+        },
+        {
+          "korean": "11월",
+          "roman": "sibirwol",
+          "english": "November",
+          "particle": false,
+          "suffix": "월"
+        },
+        {
+          "korean": "13일",
+          "roman": "sipsam-il",
+          "english": "13th day",
+          "particle": false,
+          "suffix": "일"
+        },
+        {
+          "korean": "워싱턴에서",
+          "roman": "wosingteon-eseo",
+          "english": "in Washington",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "ICC를",
+          "roman": "ICC-reul",
+          "english": "ICC",
+          "particle": false,
+          "suffix": "를"
+        },
+        {
+          "korean": "공격했습니다",
+          "roman": "gonggyeokhaetseumnida",
+          "english": "attacked",
+          "particle": false,
+          "suffix": "습니다"
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "what",
+          "english": "Marco Rubio attacked the ICC in Washington on November 13, 2026.",
+          "korean": "마르코 루비오가 2026년 11월 13일 워싱턴에서 ICC를 공격했습니다.",
+          "glossary": [
+            {
+              "korean": "마르코",
+              "roman": "mareuko",
+              "english": "Marco",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "루비오가",
+              "roman": "rubio-ga",
+              "english": "Rubio",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "2026년",
+              "roman": "icheonsim-sip-yug-nyeon",
+              "english": "in 2026",
+              "particle": false,
+              "suffix": "년"
+            },
+            {
+              "korean": "11월",
+              "roman": "sibirwol",
+              "english": "November",
+              "particle": false,
+              "suffix": "월"
+            },
+            {
+              "korean": "13일",
+              "roman": "sipsam-il",
+              "english": "13th day",
+              "particle": false,
+              "suffix": "일"
+            },
+            {
+              "korean": "워싱턴에서",
+              "roman": "wosingteon-eseo",
+              "english": "in Washington",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "ICC를",
+              "roman": "ICC-reul",
+              "english": "ICC",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "공격했습니다",
+              "roman": "gonggyeokhaetseumnida",
+              "english": "attacked",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "why",
+          "english": "He said Americans never accepted the court’s authority.",
+          "korean": "그는 미국인이 법원 권한을 받아들인 적 없다고 말했습니다.",
+          "glossary": [
+            {
+              "korean": "그는",
+              "roman": "geuneun",
+              "english": "he",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "미국인이",
+              "roman": "migugini",
+              "english": "Americans",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "법원",
+              "roman": "beobwon",
+              "english": "court",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "권한을",
+              "roman": "gwonhaneul",
+              "english": "authority",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "받아들인",
+              "roman": "badadeurin",
+              "english": "accepted",
+              "particle": false,
+              "suffix": "인"
+            },
+            {
+              "korean": "적",
+              "roman": "jeok",
+              "english": "ever",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "없다고",
+              "roman": "eopdago",
+              "english": "not have",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말했습니다",
+              "roman": "malhaetseumnida",
+              "english": "said",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The ICC prosecutes war crimes, crimes against humanity, and genocide.",
+          "korean": "ICC는 전쟁범죄와 반인도적 범죄, 집단학살을 기소합니다.",
+          "glossary": [
+            {
+              "korean": "ICC는",
+              "roman": "ICC-neun",
+              "english": "the ICC",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "전쟁범죄와",
+              "roman": "jeonjaengbeomjoewa",
+              "english": "war crimes and",
+              "particle": false,
+              "suffix": "와"
+            },
+            {
+              "korean": "반인도적",
+              "roman": "banindojok",
+              "english": "against humanity",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "범죄,",
+              "roman": "beomjoe",
+              "english": "crimes",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "집단학살을",
+              "roman": "jipdanhagsaleul",
+              "english": "genocide",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "기소합니다",
+              "roman": "gisohamnida",
+              "english": "prosecutes",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "U.S. sanctions are scheduled to take effect in April unless an agreement is reached.",
+          "korean": "합의가 없으면 미국 제재는 4월에 시행됩니다.",
+          "glossary": [
+            {
+              "korean": "합의가",
+              "roman": "habuiga",
+              "english": "an agreement",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "없으면",
+              "roman": "eopseumyeon",
+              "english": "if there is none",
+              "particle": false,
+              "suffix": "으면"
+            },
+            {
+              "korean": "미국",
+              "roman": "miguk",
+              "english": "U.S.",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "제재는",
+              "roman": "jejaeneun",
+              "english": "sanctions",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "4월에",
+              "roman": "sawol-e",
+              "english": "in April",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "시행됩니다",
+              "roman": "sihaengdoemnida",
+              "english": "take effect",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        }
+      ],
+      "url": "https://www.thehindu.com/news/international/rubio-assails-international-court-in-speech-to-conservative-legal-group/article71700928.ece",
+      "short_english": "Marco Rubio attacked the ICC in Washington on November 13, 2026.",
+      "short_korean": "마르코 루비오가 2026년 11월 13일 워싱턴에서 ICC를 공격했습니다.",
+      "date": "2026-11-14",
+      "images": [
+        "images/global/08e35df92f8a/1.jpg",
+        "images/global/08e35df92f8a/2.jpg",
+        "images/global/08e35df92f8a/3.jpg",
+        "images/global/08e35df92f8a/4.jpg",
+        "images/global/08e35df92f8a/5.jpg",
+        "images/global/08e35df92f8a/6.jpg",
+        "images/global/08e35df92f8a/7.jpg",
+        "images/global/08e35df92f8a/8.jpg",
+        "images/global/08e35df92f8a/9.jpg",
+        "images/global/08e35df92f8a/10.jpg",
+        "images/global/08e35df92f8a/11.jpg",
+        "images/global/08e35df92f8a/12.jpg",
+        "images/global/08e35df92f8a/13.jpg",
+        "images/global/08e35df92f8a/14.jpg",
+        "images/global/08e35df92f8a/15.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/global/08e35df92f8a/caption.txt"
     }
   ]
 }
