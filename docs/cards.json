@@ -1,614 +1,319 @@
 {
-  "date": "2026-11-14",
+  "date": "2026-11-15",
   "status": "ai",
-  "note": "5 new cards made, 1 kept. Cost this run about $0.0158",
-  "generated_at": "2026-11-14T07:39:08.709Z",
+  "note": "4 new cards made, 2 kept. Cost this run about $0.0126",
+  "generated_at": "2026-11-15T07:52:17.021Z",
   "cards": [
     {
       "category": "Politics & Society",
-      "korean_title": "스리랑카, 한국 기업 초청",
-      "english_title": "Sri Lanka wants Korean partners at its 2027 expo",
-      "korean_desc": "스리랑카는 1월 14일부터 17일까지 콜롬보에서 엑스포를 연다 스리랑카는 한국 기업에 기계와 장비를 요청한다 약 750개 기업과 1,500명이 참가한다 2026년 11월 14일 기업은 공급자를 확인해야 한다 대사관은 엑스포 전후에 기업을 연결한다",
-      "english_desc": "Sri Lanka will hold its Expo 2027 in Colombo from January 14 to 17. The country wants Korean firms to supply machinery, automation and renewable-energy equipment. About 750 exhibitors and 1,500 international participants are expected. On November 14, 2026, officials warned that companies must verify suppliers and regulations. The embassy plans introductions before the expo and follow-up after business meetings.",
-      "hook": "Sri Lanka wants buyers, not just visitors.",
-      "sticker": "A new business bridge",
-      "korean_hook": "스리랑카는 방문객보다 바이어를 원한다",
-      "takeaway_english": "The expo may open doors, but careful business checks will decide whether they stay open.",
-      "takeaway_korean": "엑스포가 문을 열어도 확인이 성패를 가른다",
+      "korean_title": "김정은 측근, 러시아 방문",
+      "english_title": "Kim’s top aide visits Russia before a major summit",
+      "korean_desc": "북한의 조용원이 11월 14일 러시아 모스크바에 도착했습니다. 방문은 11월 19일 선전 정상회담 전입니다. 전문가들은 조용원이 푸틴에게 메시지를 전할 수 있다고 말합니다. 11월 15일 현재 회담과 합의는 없습니다.",
+      "english_desc": "North Korean official Jo Yong-won arrived in Moscow, Russia, on November 14. His visit comes before Trump, Xi and Putin meet in Shenzhen on November 19. Analysts say Jo may carry Kim Jong-un’s message to Putin. As of November 15, no meeting or agreement has been announced.",
+      "hook": "Kim’s aide visits Russia before three leaders meet.",
+      "sticker": "What is North Korea planning?",
+      "korean_hook": "김정은 측근이 정상회담 전 러시아를 찾았습니다",
+      "takeaway_english": "The visit signals active diplomacy, but its concrete result remains unknown.",
+      "takeaway_korean": "이번 방문은 외교 움직임을 보이지만 결과는 아직 모릅니다.",
       "why_it_matters": [
         {
-          "english": "New trade links could create business opportunities between Sri Lanka and Korea.",
-          "korean": "새 무역 관계가 양국에 기회를 줄 수 있다"
+          "english": "Decisions by larger powers could affect South Korea’s security.",
+          "korean": "강대국들의 결정은 한국 안보에 영향을 줄 수 있습니다."
         },
         {
-          "english": "Korean companies may find new markets for machinery and technology.",
-          "korean": "한국 기업은 기계와 기술 시장을 찾을 수 있다"
-        },
-        {
-          "english": "Careful checks matter because expo participation does not prove financial strength.",
-          "korean": "참가만으로 기업의 재정 상태를 알 수 없다"
+          "english": "North Korea’s ties with Russia may shape future negotiations.",
+          "korean": "북한과 러시아의 관계는 앞으로의 협상에 영향을 줄 수 있습니다."
         }
       ],
       "parties": [
         {
-          "label": "Sri Lanka",
-          "english": "It wants long-term business partnerships with South Korean companies.",
-          "korean": "스리랑카는 한국 기업과 장기 협력을 원한다"
+          "label": "Jo Yong-won",
+          "english": "He leads North Korea’s party and government delegation in Moscow.",
+          "korean": "그는 모스크바에서 북한 대표단을 이끕니다."
         },
         {
-          "label": "South Korean companies",
-          "english": "They are being invited to supply machinery, automation systems and renewable-energy equipment.",
-          "korean": "한국 기업은 기계와 장비를 공급할 수 있다"
+          "label": "North Korea",
+          "english": "Pyongyang may use Russia ties to strengthen its position before the summit.",
+          "korean": "북한은 정상회담 전 러시아와의 관계를 강화할 수 있습니다."
         },
         {
-          "label": "Sri Lanka Expo 2027",
-          "english": "The expo will connect exhibitors, buyers, investors and business partners.",
-          "korean": "엑스포는 기업과 투자자를 연결한다"
+          "label": "South Korea",
+          "english": "Seoul worries that major powers may discuss its security without it.",
+          "korean": "서울은 강대국들이 안보를 빼고 논의할까 걱정합니다."
         }
       ],
       "views": [
         {
-          "label": "Sri Lankan ambassador",
-          "english": "Targeted introductions could create lasting commercial partnerships.",
-          "korean": "맞춤형 만남이 장기 협력을 만들 수 있다"
+          "label": "South Korean experts",
+          "english": "Jo may be acting as a special envoy carrying Kim’s personal message to Putin.",
+          "korean": "조용원은 푸틴에게 김정은의 개인 메시지를 전할 특사일 수 있습니다."
         },
         {
-          "label": "Trade advisers",
-          "english": "Companies should check suppliers, tariffs, certifications and Korean regulations independently.",
-          "korean": "기업은 공급자와 규정을 직접 확인해야 한다"
+          "label": "Independent analysts",
+          "english": "The visit’s exact purpose is still unclear, and no agreement has been announced.",
+          "korean": "방문의 정확한 목적은 아직 불분명하고 합의도 발표되지 않았습니다."
         }
       ],
       "disagree": {
-        "english": "Some companies may see the economic crisis, weak contacts and unclear regulations as serious risks.",
-        "korean": "일부 기업은 경제 위기와 규제를 위험으로 볼 수 있다"
+        "english": "The delegation may simply deepen contacts, rather than prepare a specific summit deal.",
+        "korean": "대표단은 특별한 합의보다 접촉을 늘리려는 것일 수 있습니다."
       },
-      "reader_question_korean": "이런 위험을 확인하고 시장에 들어가겠어요?",
+      "reader_question_korean": "북한 핵 논의에 한국이 꼭 참여해야 할까요?",
       "search_hits": 1,
       "flags": [
-        "fewer than 2 outlets",
-        "number missing in Korean: 2027"
+        "fewer than 2 outlets"
       ],
-      "source_title": "[Diplomatic Circuit] Sri Lanka invites Korean buyers, machinery suppliers to 2027 expo",
+      "source_title": "Kim Jong-un's top aide visits Russia ahead of US-China-Russia summit",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "two_views",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
+      "format_data": {
+        "views": [
+          {
+            "label": "Seoul officials",
+            "english": "South Korea fears North Korea could discuss its nuclear status without Seoul.",
+            "korean": "한국은 북한이 핵 지위를 논의할까 걱정합니다."
+          },
+          {
+            "label": "Analysts",
+            "english": "Analysts think Jo may carry Kim Jong-un’s message to Vladimir Putin.",
+            "korean": "전문가들은 조용원이 김정은의 메시지를 전할 수 있다고 봅니다."
+          }
+        ]
+      },
       "serious": false,
       "caption_lines": [
-        "Expo dates: January 14–17, 2027.",
-        "Venue: Colombo, Sri Lanka.",
-        "Sri Lanka–Korea trade totaled $343 million in 2025."
+        "Update: November 15, 2026",
+        "The US, China and Russia plan to meet Thursday in Shenzhen."
       ],
-      "reader_question": "Would you enter a market after checking these risks?",
-      "topic_tag": "Trade",
+      "reader_question": "Should South Korea be included in talks about North Korea’s nuclear program?",
+      "topic_tag": "Diplomacy",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "[Diplomatic Circuit] Sri Lanka invites Korean buyers, machinery suppliers to 2027 expo",
-          "date": "2026-11-14",
-          "url": "https://www.koreaherald.com/article/10935512"
+          "title": "Kim Jong-un's top aide visits Russia ahead of US-China-Russia summit",
+          "date": "2026-11-15",
+          "url": "https://www.koreaherald.com/article/10937539"
         }
       ],
       "glossary": [
         {
-          "korean": "스리랑카는",
-          "roman": "seurirangka-neun",
-          "english": "Sri Lanka",
+          "korean": "북한의",
+          "roman": "buk-han-ui",
+          "english": "North Korea's",
           "particle": false,
-          "suffix": "는"
+          "suffix": "의"
         },
         {
-          "korean": "1월",
-          "roman": "il-wol",
-          "english": "January",
+          "korean": "조용원이",
+          "roman": "Jo-yong-won-i",
+          "english": "Jo Yong-won",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "11월",
+          "roman": "sip-il-wol",
+          "english": "November",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "14일부터",
-          "roman": "sipsa-ilbuteo",
-          "english": "from the 14th",
-          "particle": false,
-          "suffix": "부터"
-        },
-        {
-          "korean": "17일까지",
-          "roman": "sipsam-ilkkaji",
-          "english": "until the 17th",
-          "particle": false,
-          "suffix": "까지"
-        },
-        {
-          "korean": "콜롬보에서",
-          "roman": "kollombo-eseo",
-          "english": "in Colombo",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "엑스포를",
-          "roman": "ekseupo-reul",
-          "english": "the expo",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "연다",
-          "roman": "yeonda",
-          "english": "holds",
+          "korean": "14일",
+          "roman": "sip-sa-il",
+          "english": "14th day",
           "particle": false,
           "suffix": ""
+        },
+        {
+          "korean": "러시아",
+          "roman": "reo-si-a",
+          "english": "Russia",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "모스크바에",
+          "roman": "mo-seu-keu-ba-e",
+          "english": "to Moscow",
+          "particle": false,
+          "suffix": "에"
+        },
+        {
+          "korean": "도착했습니다",
+          "roman": "do-chak-hae-sseum-ni-da",
+          "english": "arrived",
+          "particle": false,
+          "suffix": "습니다"
         }
       ],
       "sentences": [
         {
           "stage": "what",
-          "english": "Sri Lanka will hold its Expo 2027 in Colombo from January 14 to 17.",
-          "korean": "스리랑카는 1월 14일부터 17일까지 콜롬보에서 엑스포를 연다",
+          "english": "North Korean official Jo Yong-won arrived in Moscow, Russia, on November 14.",
+          "korean": "북한의 조용원이 11월 14일 러시아 모스크바에 도착했습니다.",
           "glossary": [
             {
-              "korean": "스리랑카는",
-              "roman": "seurirangka-neun",
-              "english": "Sri Lanka",
+              "korean": "북한의",
+              "roman": "buk-han-ui",
+              "english": "North Korea's",
               "particle": false,
-              "suffix": "는"
+              "suffix": "의"
             },
             {
-              "korean": "1월",
-              "roman": "il-wol",
-              "english": "January",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "14일부터",
-              "roman": "sipsa-ilbuteo",
-              "english": "from the 14th",
-              "particle": false,
-              "suffix": "부터"
-            },
-            {
-              "korean": "17일까지",
-              "roman": "sipsam-ilkkaji",
-              "english": "until the 17th",
-              "particle": false,
-              "suffix": "까지"
-            },
-            {
-              "korean": "콜롬보에서",
-              "roman": "kollombo-eseo",
-              "english": "in Colombo",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "엑스포를",
-              "roman": "ekseupo-reul",
-              "english": "the expo",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "연다",
-              "roman": "yeonda",
-              "english": "holds",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "why",
-          "english": "The country wants Korean firms to supply machinery, automation and renewable-energy equipment.",
-          "korean": "스리랑카는 한국 기업에 기계와 장비를 요청한다",
-          "glossary": [
-            {
-              "korean": "스리랑카는",
-              "roman": "seurirangka-neun",
-              "english": "Sri Lanka",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "한국",
-              "roman": "hanguk",
-              "english": "Korean",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "기업에",
-              "roman": "g i-eob-e",
-              "english": "to companies",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "기계와",
-              "roman": "gigye-wa",
-              "english": "machinery and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "장비를",
-              "roman": "jangbi-reul",
-              "english": "equipment",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "요청한다",
-              "roman": "yocheonghanda",
-              "english": "requests",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "how",
-          "english": "About 750 exhibitors and 1,500 international participants are expected.",
-          "korean": "약 750개 기업과 1,500명이 참가한다",
-          "glossary": [
-            {
-              "korean": "약",
-              "roman": "yak",
-              "english": "about",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "750개",
-              "roman": "chilbaekosip-ga e",
-              "english": "750 companies",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "기업과",
-              "roman": "g i-eop-gwa",
-              "english": "companies and",
-              "particle": false,
-              "suffix": "과"
-            },
-            {
-              "korean": "1,500명이",
-              "roman": "cheonobaekmyeong-i",
-              "english": "1,500 people",
+              "korean": "조용원이",
+              "roman": "Jo-yong-won-i",
+              "english": "Jo Yong-won",
               "particle": false,
               "suffix": "이"
             },
             {
-              "korean": "참가한다",
-              "roman": "chamg ahanda",
-              "english": "participate",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "now",
-          "english": "On November 14, 2026, officials warned that companies must verify suppliers and regulations.",
-          "korean": "2026년 11월 14일 기업은 공급자를 확인해야 한다",
-          "glossary": [
-            {
-              "korean": "2026년",
-              "roman": "icheonisip-yuk-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
               "korean": "11월",
-              "roman": "sibil-wol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
               "korean": "14일",
-              "roman": "sipsa-il",
-              "english": "14th",
+              "roman": "sip-sa-il",
+              "english": "14th day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "기업은",
-              "roman": "g i-eop-eun",
-              "english": "companies",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "공급자를",
-              "roman": "gonggeupja-reul",
-              "english": "suppliers",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "확인해야",
-              "roman": "hwaginhaeya",
-              "english": "must check",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다",
-              "roman": "handa",
-              "english": "do",
-              "particle": false,
-              "suffix": ""
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "The embassy plans introductions before the expo and follow-up after business meetings.",
-          "korean": "대사관은 엑스포 전후에 기업을 연결한다",
-          "glossary": [
-            {
-              "korean": "대사관은",
-              "roman": "daesagwan-eun",
-              "english": "the embassy",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "엑스포",
-              "roman": "ekseupo",
-              "english": "expo",
+              "korean": "러시아",
+              "roman": "reo-si-a",
+              "english": "Russia",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "전후에",
-              "roman": "jeonhu-e",
-              "english": "before and after",
+              "korean": "모스크바에",
+              "roman": "mo-seu-keu-ba-e",
+              "english": "to Moscow",
               "particle": false,
               "suffix": "에"
             },
             {
-              "korean": "기업을",
-              "roman": "g i-eob-eul",
-              "english": "companies",
+              "korean": "도착했습니다",
+              "roman": "do-chak-hae-sseum-ni-da",
+              "english": "arrived",
               "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "연결한다",
-              "roman": "yeongyeolhanda",
-              "english": "connects",
-              "particle": false,
-              "suffix": ""
+              "suffix": "습니다"
             }
           ]
-        }
-      ],
-      "url": "https://www.koreaherald.com/article/10935512",
-      "short_english": "Sri Lanka will hold its Expo 2027 in Colombo from January 14 to 17.",
-      "short_korean": "스리랑카는 1월 14일부터 17일까지 콜롬보에서 엑스포를 연다",
-      "date": "2026-11-14",
-      "images": [
-        "images/korean/037abdad8b8f/1.jpg",
-        "images/korean/037abdad8b8f/2.jpg",
-        "images/korean/037abdad8b8f/3.jpg",
-        "images/korean/037abdad8b8f/4.jpg",
-        "images/korean/037abdad8b8f/5.jpg",
-        "images/korean/037abdad8b8f/6.jpg",
-        "images/korean/037abdad8b8f/7.jpg",
-        "images/korean/037abdad8b8f/8.jpg",
-        "images/korean/037abdad8b8f/9.jpg",
-        "images/korean/037abdad8b8f/10.jpg",
-        "images/korean/037abdad8b8f/11.jpg",
-        "images/korean/037abdad8b8f/12.jpg",
-        "images/korean/037abdad8b8f/13.jpg",
-        "images/korean/037abdad8b8f/14.jpg",
-        "images/korean/037abdad8b8f/15.jpg",
-        "images/korean/037abdad8b8f/16.jpg",
-        "images/korean/037abdad8b8f/17.jpg"
-      ],
-      "images_v": 28,
-      "caption_file": "images/korean/037abdad8b8f/caption.txt"
-    },
-    {
-      "category": "Business",
-      "korean_title": "포르쉐 전기차, 트랙도 일상도",
-      "english_title": "Porsche says its EVs can race and live normally",
-      "korean_desc": "능동 서스펜션은 코너와 급제동에서 차체를 평평하게 했다 기본 카이엔은 그 기능 없이 높은 무게중심을 보였다 포르쉐는 이제 일상 운전자에게 기술을 설득해야 한다",
-      "english_desc": "Active suspension kept the Cayenne’s body nearly flat during corners and hard braking. The base Cayenne still showed its higher center of gravity without that option. Porsche now faces the harder test of persuading everyday buyers to pay for this technology.",
-      "hook": "Porsche tested three electric cars in Korea.",
-      "sticker": "Electric, but make it Porsche ⚡",
-      "korean_hook": "포르쉐가 한국에서 전기차 3대를 시험했다",
-      "takeaway_english": "Porsche’s challenge is making electric power feel exciting without making daily driving exhausting.",
-      "takeaway_korean": "포르쉐의 과제는 빠르면서도 편한 전기차다",
-      "why_it_matters": [
-        {
-          "english": "Electric cars are being judged on daily comfort as well as speed.",
-          "korean": "전기차는 속도뿐 아니라 일상 편안함도 평가받는다"
         },
         {
-          "english": "Steering and suspension technology can affect city driving.",
-          "korean": "조향과 서스펜션 기술이 도심 운전에 영향을 준다"
-        }
-      ],
-      "parties": [
-        {
-          "label": "Porsche",
-          "english": "It is presenting electrification as both fast and practical.",
-          "korean": "포르쉐는 전기차의 속도와 실용성을 보여준다"
-        },
-        {
-          "label": "Cayenne Electric",
-          "english": "Its suspension helps the heavy SUV stay controlled on a track.",
-          "korean": "카이엔은 트랙에서 안정적으로 움직인다"
-        },
-        {
-          "label": "Macan GTS",
-          "english": "Its rear-wheel steering helps on narrow roads and tight parking spaces.",
-          "korean": "마칸은 좁은 길과 주차에 유리하다"
-        }
-      ],
-      "views": [
-        {
-          "label": "Porsche and the Korea Herald",
-          "english": "The lineup shows that electric cars can keep Porsche’s sporty character.",
-          "korean": "전기차도 포르쉐의 스포츠 감각을 유지한다"
-        },
-        {
-          "label": "Independent driving reviews",
-          "english": "Reviewers praise the performance but note that electric SUVs remain very heavy.",
-          "korean": "평론가들은 성능을 칭찬하지만 전기 SUV는 무겁다고 말한다"
-        }
-      ],
-      "disagree": {
-        "english": "Some drivers may value lower weight, simpler design or affordability more than track performance.",
-        "korean": "일부 운전자는 트랙 성능보다 가벼움과 가격을 중시할 수 있다"
-      },
-      "reader_question_korean": "트랙 성능이 전기 SUV 생각을 바꿀까요?",
-      "search_hits": 1,
-      "flags": [
-        "fewer than 2 outlets",
-        "translation check: \"The demonstration aimed to combine track performan\" may be missing protest"
-      ],
-      "source_title": "How Porsche proves EVs can master track, everyday driving",
-      "hook_format": "number",
-      "body_format": "sentences",
-      "question": "",
-      "korean_question": "",
-      "answer_english": "",
-      "answer_korean": "",
-      "format_data": {
-        "number": {
-          "value": "three",
-          "label": "electric cars tested",
-          "korean_label": "시험한 전기차"
-        }
-      },
-      "serious": false,
-      "caption_lines": [
-        "The drive took place in Yongin, Gyeonggi Province.",
-        "The Cayenne Turbo produced 1,156 horsepower during launch control.",
-        "The base Cayenne lacks Porsche Active Ride suspension."
-      ],
-      "reader_question": "Would track performance change your opinion of an electric SUV?",
-      "topic_tag": "Cars",
-      "sources": [
-        {
-          "outlet": "The Korea Herald",
-          "title": "How Porsche proves EVs can master track, everyday driving",
-          "date": "2026-11-13",
-          "url": "https://www.koreaherald.com/article/10936696"
-        }
-      ],
-      "glossary": [
-        {
-          "korean": "능동",
-          "roman": "neungdong",
-          "english": "active",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "서스펜션은",
-          "roman": "seoseupensyeon-eun",
-          "english": "suspension",
-          "particle": false,
-          "suffix": "은"
-        },
-        {
-          "korean": "코너와",
-          "roman": "koneo-wa",
-          "english": "corners and",
-          "particle": false,
-          "suffix": "와"
-        },
-        {
-          "korean": "급제동에서",
-          "roman": "geupjedong-eseo",
-          "english": "during hard braking",
-          "particle": false,
-          "suffix": "에서"
-        },
-        {
-          "korean": "차체를",
-          "roman": "chache-reul",
-          "english": "the body",
-          "particle": false,
-          "suffix": "를"
-        },
-        {
-          "korean": "평평하게",
-          "roman": "pyeongpyeonghage",
-          "english": "flat",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "했다",
-          "roman": "haetda",
-          "english": "made",
-          "particle": false,
-          "suffix": ""
-        }
-      ],
-      "sentences": [
-        {
-          "stage": "how",
-          "english": "Active suspension kept the Cayenne’s body nearly flat during corners and hard braking.",
-          "korean": "능동 서스펜션은 코너와 급제동에서 차체를 평평하게 했다",
+          "stage": "why",
+          "english": "His visit comes before Trump, Xi and Putin meet in Shenzhen on November 19.",
+          "korean": "방문은 11월 19일 선전 정상회담 전입니다.",
           "glossary": [
             {
-              "korean": "능동",
-              "roman": "neungdong",
-              "english": "active",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "서스펜션은",
-              "roman": "seoseupensyeon-eun",
-              "english": "suspension",
+              "korean": "방문은",
+              "roman": "bang-mun-eun",
+              "english": "the visit",
               "particle": false,
               "suffix": "은"
             },
             {
-              "korean": "코너와",
-              "roman": "koneo-wa",
-              "english": "corners and",
-              "particle": false,
-              "suffix": "와"
-            },
-            {
-              "korean": "급제동에서",
-              "roman": "geupjedong-eseo",
-              "english": "during hard braking",
-              "particle": false,
-              "suffix": "에서"
-            },
-            {
-              "korean": "차체를",
-              "roman": "chache-reul",
-              "english": "the body",
-              "particle": false,
-              "suffix": "를"
-            },
-            {
-              "korean": "평평하게",
-              "roman": "pyeongpyeonghage",
-              "english": "flat",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "했다",
-              "roman": "haetda",
-              "english": "made",
+              "korean": "19일",
+              "roman": "sip-gu-il",
+              "english": "19th day",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "선전",
+              "roman": "seon-jeon",
+              "english": "Shenzhen",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "정상회담",
+              "roman": "jeong-sang-hoe-dam",
+              "english": "summit",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "전입니다",
+              "roman": "jeon-im-ni-da",
+              "english": "is before",
+              "particle": false,
+              "suffix": "입니다"
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "Analysts say Jo may carry Kim Jong-un’s message to Putin.",
+          "korean": "전문가들은 조용원이 푸틴에게 메시지를 전할 수 있다고 말합니다.",
+          "glossary": [
+            {
+              "korean": "전문가들은",
+              "roman": "jeon-mun-ga-deul-eun",
+              "english": "experts",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "조용원이",
+              "roman": "Jo-yong-won-i",
+              "english": "Jo Yong-won",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "푸틴에게",
+              "roman": "pu-tin-e-ge",
+              "english": "to Putin",
+              "particle": false,
+              "suffix": "에게"
+            },
+            {
+              "korean": "메시지를",
+              "roman": "me-si-ji-reul",
+              "english": "message",
+              "particle": false,
+              "suffix": "를"
+            },
+            {
+              "korean": "전할",
+              "roman": "jeon-hal",
+              "english": "carry",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "수",
+              "roman": "su",
+              "english": "possibility",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "있다고",
+              "roman": "it-da-go",
+              "english": "can",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말합니다",
+              "roman": "mal-ham-ni-da",
+              "english": "say",
               "particle": false,
               "suffix": ""
             }
@@ -616,146 +321,400 @@
         },
         {
           "stage": "now",
-          "english": "The base Cayenne still showed its higher center of gravity without that option.",
-          "korean": "기본 카이엔은 그 기능 없이 높은 무게중심을 보였다",
+          "english": "As of November 15, no meeting or agreement has been announced.",
+          "korean": "11월 15일 현재 회담과 합의는 없습니다.",
           "glossary": [
             {
-              "korean": "기본",
-              "roman": "gibon",
-              "english": "base",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "카이엔은",
-              "roman": "kaien-eun",
-              "english": "Cayenne",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "그",
-              "roman": "geu",
-              "english": "that",
+              "korean": "15일",
+              "roman": "sip-o-il",
+              "english": "15th day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "기능",
-              "roman": "gineung",
-              "english": "feature",
+              "korean": "현재",
+              "roman": "hyeon-jae",
+              "english": "currently",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "없이",
-              "roman": "eopsi",
-              "english": "without",
+              "korean": "회담과",
+              "roman": "hoe-dam-gwa",
+              "english": "meeting and",
               "particle": false,
-              "suffix": ""
+              "suffix": "과"
             },
             {
-              "korean": "높은",
-              "roman": "nopeun",
-              "english": "high",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "무게중심을",
-              "roman": "mugejungsim-eul",
-              "english": "center of gravity",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "보였다",
-              "roman": "boyeotda",
-              "english": "showed",
-              "particle": false,
-              "suffix": "였다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Porsche now faces the harder test of persuading everyday buyers to pay for this technology.",
-          "korean": "포르쉐는 이제 일상 운전자에게 기술을 설득해야 한다",
-          "glossary": [
-            {
-              "korean": "포르쉐는",
-              "roman": "poseuswe-neun",
-              "english": "Porsche",
+              "korean": "합의는",
+              "roman": "hap-ui-neun",
+              "english": "agreement",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "이제",
-              "roman": "ije",
-              "english": "now",
+              "korean": "없습니다",
+              "roman": "eop-seum-ni-da",
+              "english": "there is none",
               "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "일상",
-              "roman": "ilsang",
-              "english": "everyday",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "운전자에게",
-              "roman": "unjeonja-ege",
-              "english": "to drivers",
-              "particle": false,
-              "suffix": "에게"
-            },
-            {
-              "korean": "기술을",
-              "roman": "gisul-eul",
-              "english": "technology",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "설득해야",
-              "roman": "seoldeukhaeya",
-              "english": "must persuade",
-              "particle": false,
-              "suffix": "해야"
-            },
-            {
-              "korean": "한다",
-              "roman": "handa",
-              "english": "do",
-              "particle": false,
-              "suffix": ""
+              "suffix": "습니다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10936696",
-      "short_english": "Active suspension kept the Cayenne’s body nearly flat during corners and hard braking.",
-      "short_korean": "능동 서스펜션은 코너와 급제동에서 차체를 평평하게 했다",
-      "date": "2026-11-14",
+      "url": "https://www.koreaherald.com/article/10937539",
+      "short_english": "North Korean official Jo Yong-won arrived in Moscow, Russia, on November 14.",
+      "short_korean": "북한의 조용원이 11월 14일 러시아 모스크바에 도착했습니다.",
+      "date": "2026-11-15",
       "images": [
-        "images/korean/62ac0dbd9c20/1.jpg",
-        "images/korean/62ac0dbd9c20/2.jpg",
-        "images/korean/62ac0dbd9c20/3.jpg",
-        "images/korean/62ac0dbd9c20/4.jpg",
-        "images/korean/62ac0dbd9c20/5.jpg",
-        "images/korean/62ac0dbd9c20/6.jpg",
-        "images/korean/62ac0dbd9c20/7.jpg",
-        "images/korean/62ac0dbd9c20/8.jpg",
-        "images/korean/62ac0dbd9c20/9.jpg",
-        "images/korean/62ac0dbd9c20/10.jpg",
-        "images/korean/62ac0dbd9c20/11.jpg",
-        "images/korean/62ac0dbd9c20/12.jpg",
-        "images/korean/62ac0dbd9c20/13.jpg",
-        "images/korean/62ac0dbd9c20/14.jpg"
+        "images/korean/c1a2f08af744/1.jpg",
+        "images/korean/c1a2f08af744/2.jpg",
+        "images/korean/c1a2f08af744/3.jpg",
+        "images/korean/c1a2f08af744/4.jpg",
+        "images/korean/c1a2f08af744/5.jpg",
+        "images/korean/c1a2f08af744/6.jpg",
+        "images/korean/c1a2f08af744/7.jpg",
+        "images/korean/c1a2f08af744/8.jpg",
+        "images/korean/c1a2f08af744/9.jpg",
+        "images/korean/c1a2f08af744/10.jpg",
+        "images/korean/c1a2f08af744/11.jpg",
+        "images/korean/c1a2f08af744/12.jpg",
+        "images/korean/c1a2f08af744/13.jpg",
+        "images/korean/c1a2f08af744/14.jpg",
+        "images/korean/c1a2f08af744/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/62ac0dbd9c20/caption.txt"
+      "caption_file": "images/korean/c1a2f08af744/caption.txt"
+    },
+    {
+      "category": "Business",
+      "korean_title": "보령, 2030년 우주 수익 도전",
+      "english_title": "Boryung bets on space revenue by 2030",
+      "korean_desc": "보령은 미세중력이 지구에서 어려운 실험을 돕는다고 말합니다. 회사는 2022년부터 액시엄과 인튜이티브에 투자했습니다. 2026년 11월 DLR과 스카이랩스가 연구 파트너가 됐습니다.",
+      "english_desc": "Boryung says microgravity can support experiments that are difficult on Earth. The company has invested in Axiom Space and Intuitive Machines since 2022. In November 2026, DLR and Sky Labs became possible research partners.",
+      "hook": "Boryung wants space revenue by 2030.",
+      "sticker": "From pills to orbit 🚀",
+      "korean_hook": "보령은 2030년 우주 수익을 원합니다",
+      "takeaway_english": "Boryung has a deadline, but turning orbital ambition into sales remains the hard part.",
+      "takeaway_korean": "보령은 목표가 있지만 우주 사업의 수익화가 과제입니다.",
+      "why_it_matters": [
+        {
+          "english": "Boryung’s medicine business is funding the expensive transformation.",
+          "korean": "보령의 제약 사업이 비싼 변화를 뒷받침합니다."
+        },
+        {
+          "english": "Space research could create new tools for medicine.",
+          "korean": "우주 연구는 의학의 새 도구를 만들 수 있습니다."
+        }
+      ],
+      "parties": [
+        {
+          "label": "Boryung",
+          "english": "The drugmaker wants its space business to become a new growth engine.",
+          "korean": "보령은 우주 사업을 새 성장 동력으로 만들려 합니다."
+        },
+        {
+          "label": "Kim Jung-gyun",
+          "english": "The third-generation CEO set 2030 as the target for meaningful space revenue.",
+          "korean": "김정균 대표는 우주 수익 목표를 2030년으로 정했습니다."
+        },
+        {
+          "label": "Space industry official",
+          "english": "An industry official questions whether Boryung can win customers and build the right equipment.",
+          "korean": "업계 관계자는 고객과 장비 확보를 의심합니다."
+        }
+      ],
+      "views": [
+        {
+          "label": "Boryung",
+          "english": "Microgravity could enable biological experiments that are difficult on Earth.",
+          "korean": "미세중력은 지구에서 어려운 생물 실험을 가능하게 할 수 있습니다."
+        },
+        {
+          "label": "Space industry official",
+          "english": "Commercialization may take a long time because Boryung remains rooted in pharmaceuticals.",
+          "korean": "보령은 제약 중심이라 상업화에 오래 걸릴 수 있습니다."
+        }
+      ],
+      "disagree": {
+        "english": "Supporters may argue that early partnerships can create demand before the business becomes profitable.",
+        "korean": "지지자들은 초기 협력이 수익 전 수요를 만들 수 있다고 봅니다."
+      },
+      "reader_question_korean": "제약회사의 우주 사업에 투자하시겠어요?",
+      "search_hits": 1,
+      "flags": [
+        "fewer than 2 outlets"
+      ],
+      "source_title": "From pills to orbit: Boryung heir's bold space bet",
+      "hook_format": "headline",
+      "body_format": "before_after",
+      "question": "",
+      "korean_question": "",
+      "answer_english": "",
+      "answer_korean": "",
+      "format_data": {
+        "before": {
+          "label": "",
+          "english": "Boryung’s space plan was built mainly through investments and partnerships.",
+          "korean": "보령의 우주 계획은 투자와 협력 중심이었습니다."
+        },
+        "after": {
+          "label": "",
+          "english": "It now has possible research users and a revenue timetable.",
+          "korean": "이제 연구 고객과 수익 목표가 생겼습니다."
+        }
+      },
+      "serious": false,
+      "caption_lines": [
+        "Update: November 15, 2026",
+        "Boryung invested $60 million in Axiom Space in 2022."
+      ],
+      "reader_question": "Would you invest in a drugmaker’s space business?",
+      "topic_tag": "Business",
+      "sources": [
+        {
+          "outlet": "The Korea Herald",
+          "title": "From pills to orbit: Boryung heir's bold space bet",
+          "date": "2026-11-15",
+          "url": "https://www.koreaherald.com/article/10937558"
+        }
+      ],
+      "glossary": [
+        {
+          "korean": "보령은",
+          "roman": "bo-ryeong-eun",
+          "english": "Boryung",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "미세중력이",
+          "roman": "mi-se-jung-ryeok-i",
+          "english": "microgravity",
+          "particle": false,
+          "suffix": "이"
+        },
+        {
+          "korean": "지구에서",
+          "roman": "ji-gu-e-seo",
+          "english": "on Earth",
+          "particle": false,
+          "suffix": "에서"
+        },
+        {
+          "korean": "어려운",
+          "roman": "eo-ryeo-un",
+          "english": "difficult",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "실험을",
+          "roman": "sil-heom-eul",
+          "english": "experiments",
+          "particle": false,
+          "suffix": "을"
+        },
+        {
+          "korean": "돕는다고",
+          "roman": "dop-neun-da-go",
+          "english": "supports",
+          "particle": false,
+          "suffix": "다고"
+        },
+        {
+          "korean": "말합니다",
+          "roman": "mal-ham-ni-da",
+          "english": "says",
+          "particle": false,
+          "suffix": ""
+        }
+      ],
+      "sentences": [
+        {
+          "stage": "why",
+          "english": "Boryung says microgravity can support experiments that are difficult on Earth.",
+          "korean": "보령은 미세중력이 지구에서 어려운 실험을 돕는다고 말합니다.",
+          "glossary": [
+            {
+              "korean": "보령은",
+              "roman": "bo-ryeong-eun",
+              "english": "Boryung",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "미세중력이",
+              "roman": "mi-se-jung-ryeok-i",
+              "english": "microgravity",
+              "particle": false,
+              "suffix": "이"
+            },
+            {
+              "korean": "지구에서",
+              "roman": "ji-gu-e-seo",
+              "english": "on Earth",
+              "particle": false,
+              "suffix": "에서"
+            },
+            {
+              "korean": "어려운",
+              "roman": "eo-ryeo-un",
+              "english": "difficult",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "실험을",
+              "roman": "sil-heom-eul",
+              "english": "experiments",
+              "particle": false,
+              "suffix": "을"
+            },
+            {
+              "korean": "돕는다고",
+              "roman": "dop-neun-da-go",
+              "english": "supports",
+              "particle": false,
+              "suffix": "다고"
+            },
+            {
+              "korean": "말합니다",
+              "roman": "mal-ham-ni-da",
+              "english": "says",
+              "particle": false,
+              "suffix": ""
+            }
+          ]
+        },
+        {
+          "stage": "how",
+          "english": "The company has invested in Axiom Space and Intuitive Machines since 2022.",
+          "korean": "회사는 2022년부터 액시엄과 인튜이티브에 투자했습니다.",
+          "glossary": [
+            {
+              "korean": "회사는",
+              "roman": "hoe-sa-neun",
+              "english": "the company",
+              "particle": false,
+              "suffix": "는"
+            },
+            {
+              "korean": "2022년부터",
+              "roman": "i-cheon-i-sip-i-nyeon-bu-teo",
+              "english": "since 2022",
+              "particle": false,
+              "suffix": "부터"
+            },
+            {
+              "korean": "액시엄과",
+              "roman": "aek-si-eom-gwa",
+              "english": "Axiom and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "인튜이티브에",
+              "roman": "in-tyu-i-ti-beu-e",
+              "english": "in Intuitive Machines",
+              "particle": false,
+              "suffix": "에"
+            },
+            {
+              "korean": "투자했습니다",
+              "roman": "tu-ja-hae-sseum-ni-da",
+              "english": "invested",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        },
+        {
+          "stage": "now",
+          "english": "In November 2026, DLR and Sky Labs became possible research partners.",
+          "korean": "2026년 11월 DLR과 스카이랩스가 연구 파트너가 됐습니다.",
+          "glossary": [
+            {
+              "korean": "2026년",
+              "roman": "i-cheon-i-sip-yuk-nyeon",
+              "english": "2026",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "DLR과",
+              "roman": "DLR-gwa",
+              "english": "DLR and",
+              "particle": false,
+              "suffix": "과"
+            },
+            {
+              "korean": "스카이랩스가",
+              "roman": "seu-kai-raep-seu-ga",
+              "english": "Sky Labs",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "연구",
+              "roman": "yeon-gu",
+              "english": "research",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "파트너가",
+              "roman": "pa-teu-neo-ga",
+              "english": "partners",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "됐습니다",
+              "roman": "dwae-sseum-ni-da",
+              "english": "became",
+              "particle": false,
+              "suffix": "습니다"
+            }
+          ]
+        }
+      ],
+      "url": "https://www.koreaherald.com/article/10937558",
+      "short_english": "Boryung says microgravity can support experiments that are difficult on Earth.",
+      "short_korean": "보령은 미세중력이 지구에서 어려운 실험을 돕는다고 말합니다.",
+      "date": "2026-11-15",
+      "images": [
+        "images/korean/e90fd3c1282f/1.jpg",
+        "images/korean/e90fd3c1282f/2.jpg",
+        "images/korean/e90fd3c1282f/3.jpg",
+        "images/korean/e90fd3c1282f/4.jpg",
+        "images/korean/e90fd3c1282f/5.jpg",
+        "images/korean/e90fd3c1282f/6.jpg",
+        "images/korean/e90fd3c1282f/7.jpg",
+        "images/korean/e90fd3c1282f/8.jpg",
+        "images/korean/e90fd3c1282f/9.jpg",
+        "images/korean/e90fd3c1282f/10.jpg",
+        "images/korean/e90fd3c1282f/11.jpg",
+        "images/korean/e90fd3c1282f/12.jpg",
+        "images/korean/e90fd3c1282f/13.jpg",
+        "images/korean/e90fd3c1282f/14.jpg"
+      ],
+      "images_v": 28,
+      "caption_file": "images/korean/e90fd3c1282f/caption.txt"
     },
     {
       "category": "Culture",
@@ -1064,7 +1023,7 @@
       "url": "https://www.koreaherald.com/article/10935218",
       "short_english": "The project links regional ingredients, local dishes, traditional drinks and tourism.",
       "short_korean": "이 사업은 재료와 음식과 술과 관광을 연결한다",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "images": [
         "images/korean/dd51309025c4/1.jpg",
         "images/korean/dd51309025c4/2.jpg",
@@ -1086,393 +1045,397 @@
     },
     {
       "category": "Sports",
-      "korean_title": "손흥민의 노력, 사우디에 막혔다",
-      "english_title": "South Korea lost 3–2 despite more chances against Saudi Arabia",
-      "korean_desc": "한국은 15번 슈팅했지만 기회를 덜 마무리했다 사우디는 후반 초반 3분 안에 두 골을 넣었다 이번 패배로 한국의 사우디전 무패 행진이 끝났다 손흥민은 한국이 11월 17일 카타르전을 준비해야 한다고 말했다",
-      "english_desc": "Korea created 15 shots, including six on target, but finished fewer chances. Saudi Arabia scored twice in three minutes after opening the match late in the first half. The defeat ended Korea’s six-match unbeaten run against Saudi Arabia. Son said Korea must prepare for Qatar in Doha on November 17.",
-      "hook": "South Korea had 15 shots. Saudi Arabia won 3–2.",
-      "sticker": "A painful football lesson",
-      "korean_hook": "한국은 15번 슈팅했지만 3대2로 졌다",
-      "takeaway_english": "The next match will show whether Korea’s promising play can become a result.",
-      "takeaway_korean": "다음 경기는 좋은 경기력이 결과가 될지 보여준다",
+      "korean_title": "벵거 불출마, 인판티노 유리",
+      "english_title": "Wenger steps aside, helping Infantino’s FIFA reelection",
+      "korean_desc": "UEFA는 FIFA 상업 계획 논란 뒤 그를 강력한 대안으로 봤습니다. FIFA 포워드 엔터프라이즈 계획은 여러 연맹 반대로 폐기됐습니다. 11월 15일 현재 인판티노의 3월 총회 반대가 줄었습니다.",
+      "english_desc": "UEFA had considered him a strong alternative after disputes over FIFA’s commercial plans. The proposed FIFA Forward Enterprise was abandoned after objections from several confederations. As of November 15, Infantino faces less opposition before the March Congress.",
+      "hook": "Wenger will not challenge Infantino for FIFA president.",
+      "sticker": "One challenger gone",
+      "korean_hook": "벵거는 인판티노와 FIFA 회장 선거에서 맞붙지 않습니다",
+      "takeaway_english": "Wenger’s exit narrows the race, but FIFA’s governance debate continues.",
+      "takeaway_korean": "벵거의 불출마로 경쟁은 좁아졌지만 논란은 계속됩니다.",
       "why_it_matters": [
         {
-          "english": "The match exposed a gap between creating chances and finishing them.",
-          "korean": "경기는 기회 만들기와 마무리의 차이를 보여줬다"
+          "english": "FIFA’s president influences major tournaments and their commercial rights.",
+          "korean": "FIFA 회장은 주요 대회와 상업권에 영향을 줍니다."
         },
         {
-          "english": "The team faces Qatar next and has little time to adjust.",
-          "korean": "한국은 곧 카타르를 만나 조정할 시간이 적다"
+          "english": "The election affects how global soccer is governed.",
+          "korean": "선거는 세계 축구 운영 방식에 영향을 줍니다."
         }
       ],
       "parties": [
         {
-          "label": "South Korea",
-          "english": "It lost 3–2 and suffered its first defeat against Saudi Arabia since August 2005.",
-          "korean": "한국은 3대2로 졌고 2005년 이후 처음 패했다"
+          "label": "Arsene Wenger",
+          "english": "The former Arsenal manager decided not to enter the FIFA presidential race.",
+          "korean": "전 아스널 감독은 FIFA 회장 선거에 나가지 않습니다."
         },
         {
-          "label": "Son Heung-min",
-          "english": "He regretted missing a chance and said the team must improve.",
-          "korean": "손흥민은 기회를 놓친 것을 아쉬워했다"
+          "label": "Gianni Infantino",
+          "english": "The FIFA president is seeking a fourth term with fewer prominent challengers.",
+          "korean": "FIFA 회장은 경쟁자 감소 속에 네 번째 임기를 노립니다."
         },
         {
-          "label": "Saudi Arabia",
-          "english": "It scored twice within three minutes and protected the lead.",
-          "korean": "사우디아라비아는 3분 안에 두 골을 넣었다"
+          "label": "UEFA",
+          "english": "European soccer officials had explored Wenger as an alternative candidate.",
+          "korean": "유럽 축구 관계자들은 벵거를 대안 후보로 검토했습니다."
         }
       ],
       "views": [
         {
-          "label": "Son Heung-min",
-          "english": "He saw communication and determination as positive signs despite the result.",
-          "korean": "손흥민은 결과와 달리 소통과 투지를 긍정적으로 봤다"
+          "label": "UEFA critics",
+          "english": "Infantino faces governance concerns after the abandoned commercial-rights plan.",
+          "korean": "인판티노는 상업권 계획과 관련해 지배구조 비판을 받습니다."
         },
         {
-          "label": "Korea JoongAng Daily",
-          "english": "Its account emphasized Korea’s defensive collapse after conceding two quick goals.",
-          "korean": "중앙일보는 빠른 두 실점 뒤 수비 붕괴를 강조했다"
+          "label": "Infantino supporters",
+          "english": "His support has strengthened, including reported backing from the AFC.",
+          "korean": "인판티노의 지지는 AFC 등을 통해 강해졌습니다."
         }
       ],
       "disagree": {
-        "english": "Supporters may argue that the chances and two goals show improvement, not only failure.",
-        "korean": "팬들은 기회와 두 골이 실패만은 아니라고 말할 수 있다"
+        "english": "Some may say fewer candidates do not settle the wider argument about FIFA’s leadership.",
+        "korean": "후보가 줄어도 FIFA 지도부 논란은 끝나지 않는다는 반론이 있습니다."
       },
-      "reader_question_korean": "다음 평가전 전에 한국은 무엇을 고쳐야 할까요?",
+      "reader_question_korean": "FIFA를 경험 많은 감독과 정치형 지도자 중 누가 이끌면 좋을까요?",
       "search_hits": 1,
       "flags": [
         "fewer than 2 outlets"
       ],
-      "source_title": "Son Heung-min laments unrewarded effort against Saudi Arabia after 3-2 loss",
-      "hook_format": "number",
-      "body_format": "sentences",
+      "source_title": "Wenger declines FIFA presidency bid, easing Infantino's path",
+      "hook_format": "headline",
+      "body_format": "before_after",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
       "format_data": {
-        "number": {
-          "value": "15",
-          "label": "South Korean shots",
-          "korean_label": "한국 슈팅 수"
+        "before": {
+          "label": "",
+          "english": "Wenger was considered a strong European-backed alternative to Infantino.",
+          "korean": "벵거는 유럽이 지지할 강력한 대안이었습니다."
+        },
+        "after": {
+          "label": "",
+          "english": "Infantino now faces less opposition before the March election.",
+          "korean": "인판티노는 3월 선거에서 반대가 줄었습니다."
         }
       },
       "serious": false,
       "caption_lines": [
-        "Match date: November 13, 2026.",
-        "Next opponent: Qatar in Doha.",
-        "Oh Hyeon-gyu and Lee Jae-sung scored for Korea."
+        "Update: November 15, 2026",
+        "Candidates must register by November 18."
       ],
-      "reader_question": "What should Korea fix before its next friendly?",
-      "topic_tag": "Football",
+      "reader_question": "Would you prefer an experienced coach or a political organizer to lead FIFA?",
+      "topic_tag": "Soccer",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "Son Heung-min laments unrewarded effort against Saudi Arabia after 3-2 loss",
-          "date": "2026-11-14",
-          "url": "https://www.koreaherald.com/article/10936907"
+          "title": "Wenger declines FIFA presidency bid, easing Infantino's path",
+          "date": "2026-11-15",
+          "url": "https://www.koreaherald.com/article/10937434"
         }
       ],
       "glossary": [
         {
-          "korean": "한국은",
-          "roman": "hanguk-eun",
-          "english": "South Korea",
+          "korean": "UEFA는",
+          "roman": "UEFA-neun",
+          "english": "UEFA",
           "particle": false,
-          "suffix": "은"
+          "suffix": "는"
         },
         {
-          "korean": "15번",
-          "roman": "sibo n",
-          "english": "15 times",
+          "korean": "FIFA",
+          "roman": "FIFA",
+          "english": "FIFA",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "슈팅했지만",
-          "roman": "syuting-haetjiman",
-          "english": "shot, but",
+          "korean": "상업",
+          "roman": "sang-eop",
+          "english": "commercial",
           "particle": false,
-          "suffix": "지만"
+          "suffix": ""
         },
         {
-          "korean": "기회를",
-          "roman": "gihoe-reul",
-          "english": "chances",
+          "korean": "계획",
+          "roman": "gye-hoek",
+          "english": "plans",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "논란",
+          "roman": "non-ran",
+          "english": "dispute",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "뒤",
+          "roman": "dwi",
+          "english": "after",
+          "particle": false,
+          "suffix": ""
+        },
+        {
+          "korean": "그를",
+          "roman": "geu-reul",
+          "english": "him",
           "particle": false,
           "suffix": "를"
         },
         {
-          "korean": "덜",
-          "roman": "deol",
-          "english": "less",
+          "korean": "강력한",
+          "roman": "gang-ryeok-han",
+          "english": "strong",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "마무리했다",
-          "roman": "mamur ihaetda",
-          "english": "finished",
+          "korean": "대안으로",
+          "roman": "dae-an-eu-ro",
+          "english": "as an alternative",
           "particle": false,
-          "suffix": "했다"
+          "suffix": "으로"
+        },
+        {
+          "korean": "봤습니다",
+          "roman": "bwa-sseum-ni-da",
+          "english": "considered",
+          "particle": false,
+          "suffix": "습니다"
         }
       ],
       "sentences": [
         {
           "stage": "why",
-          "english": "Korea created 15 shots, including six on target, but finished fewer chances.",
-          "korean": "한국은 15번 슈팅했지만 기회를 덜 마무리했다",
+          "english": "UEFA had considered him a strong alternative after disputes over FIFA’s commercial plans.",
+          "korean": "UEFA는 FIFA 상업 계획 논란 뒤 그를 강력한 대안으로 봤습니다.",
           "glossary": [
             {
-              "korean": "한국은",
-              "roman": "hanguk-eun",
-              "english": "South Korea",
+              "korean": "UEFA는",
+              "roman": "UEFA-neun",
+              "english": "UEFA",
               "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
-              "korean": "15번",
-              "roman": "sibo n",
-              "english": "15 times",
+              "korean": "FIFA",
+              "roman": "FIFA",
+              "english": "FIFA",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "슈팅했지만",
-              "roman": "syuting-haetjiman",
-              "english": "shot, but",
+              "korean": "상업",
+              "roman": "sang-eop",
+              "english": "commercial",
               "particle": false,
-              "suffix": "지만"
+              "suffix": ""
             },
             {
-              "korean": "기회를",
-              "roman": "gihoe-reul",
-              "english": "chances",
+              "korean": "계획",
+              "roman": "gye-hoek",
+              "english": "plans",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "논란",
+              "roman": "non-ran",
+              "english": "dispute",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "뒤",
+              "roman": "dwi",
+              "english": "after",
+              "particle": false,
+              "suffix": ""
+            },
+            {
+              "korean": "그를",
+              "roman": "geu-reul",
+              "english": "him",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "덜",
-              "roman": "deol",
-              "english": "less",
+              "korean": "강력한",
+              "roman": "gang-ryeok-han",
+              "english": "strong",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "마무리했다",
-              "roman": "mamur ihaetda",
-              "english": "finished",
+              "korean": "대안으로",
+              "roman": "dae-an-eu-ro",
+              "english": "as an alternative",
               "particle": false,
-              "suffix": "했다"
+              "suffix": "으로"
+            },
+            {
+              "korean": "봤습니다",
+              "roman": "bwa-sseum-ni-da",
+              "english": "considered",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Saudi Arabia scored twice in three minutes after opening the match late in the first half.",
-          "korean": "사우디는 후반 초반 3분 안에 두 골을 넣었다",
+          "english": "The proposed FIFA Forward Enterprise was abandoned after objections from several confederations.",
+          "korean": "FIFA 포워드 엔터프라이즈 계획은 여러 연맹 반대로 폐기됐습니다.",
           "glossary": [
             {
-              "korean": "사우디는",
-              "roman": "saudi-neun",
-              "english": "Saudi Arabia",
-              "particle": false,
-              "suffix": "는"
-            },
-            {
-              "korean": "후반",
-              "roman": "huban",
-              "english": "second half",
+              "korean": "FIFA",
+              "roman": "FIFA",
+              "english": "FIFA",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "초반",
-              "roman": "choban",
-              "english": "early",
+              "korean": "포워드",
+              "roman": "po-wo-deu",
+              "english": "Forward",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "3분",
-              "roman": "sam-bun",
-              "english": "three minutes",
+              "korean": "엔터프라이즈",
+              "roman": "en-teo-peu-ra-i-jeu",
+              "english": "Enterprise",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "안에",
-              "roman": "ane",
-              "english": "within",
+              "korean": "계획은",
+              "roman": "gye-hoek-eun",
+              "english": "plan",
               "particle": false,
-              "suffix": "에"
+              "suffix": "은"
             },
             {
-              "korean": "두",
-              "roman": "du",
-              "english": "two",
+              "korean": "여러",
+              "roman": "yeo-reo",
+              "english": "several",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "골을",
-              "roman": "gol-eul",
-              "english": "goals",
+              "korean": "연맹",
+              "roman": "yeon-maeng",
+              "english": "confederations",
               "particle": false,
-              "suffix": "을"
+              "suffix": ""
             },
             {
-              "korean": "넣었다",
-              "roman": "neoeotda",
-              "english": "scored",
+              "korean": "반대로",
+              "roman": "ban-dae-ro",
+              "english": "because of opposition",
               "particle": false,
-              "suffix": "었다"
+              "suffix": "로"
+            },
+            {
+              "korean": "폐기됐습니다",
+              "roman": "pye-gi-dwae-sseum-ni-da",
+              "english": "was abandoned",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "The defeat ended Korea’s six-match unbeaten run against Saudi Arabia.",
-          "korean": "이번 패배로 한국의 사우디전 무패 행진이 끝났다",
+          "english": "As of November 15, Infantino faces less opposition before the March Congress.",
+          "korean": "11월 15일 현재 인판티노의 3월 총회 반대가 줄었습니다.",
           "glossary": [
-            {
-              "korean": "이번",
-              "roman": "ibeon",
-              "english": "this",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "패배로",
-              "roman": "paebae-ro",
-              "english": "with the defeat",
-              "particle": false,
-              "suffix": "로"
-            },
-            {
-              "korean": "한국의",
-              "roman": "hanguk-ui",
-              "english": "Korea’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "사우디전",
-              "roman": "saudi-jeon",
-              "english": "against Saudi Arabia",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "무패",
-              "roman": "m upae",
-              "english": "unbeaten",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "행진이",
-              "roman": "haengjin-i",
-              "english": "run",
-              "particle": false,
-              "suffix": "이"
-            },
-            {
-              "korean": "끝났다",
-              "roman": "kkeunnatda",
-              "english": "ended",
-              "particle": false,
-              "suffix": "났다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Son said Korea must prepare for Qatar in Doha on November 17.",
-          "korean": "손흥민은 한국이 11월 17일 카타르전을 준비해야 한다고 말했다",
-          "glossary": [
-            {
-              "korean": "손흥민은",
-              "roman": "sonheungmin-eun",
-              "english": "Son Heung-min",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "한국이",
-              "roman": "hanguk-i",
-              "english": "Korea",
-              "particle": false,
-              "suffix": "이"
-            },
             {
               "korean": "11월",
-              "roman": "sibil-wol",
+              "roman": "sip-il-wol",
               "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "17일",
-              "roman": "sipsi-il",
-              "english": "17th",
+              "korean": "15일",
+              "roman": "sip-o-il",
+              "english": "15th day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "카타르전을",
-              "roman": "katareujeon-eul",
-              "english": "Qatar match",
+              "korean": "현재",
+              "roman": "hyeon-jae",
+              "english": "currently",
               "particle": false,
-              "suffix": "을"
+              "suffix": ""
             },
             {
-              "korean": "준비해야",
-              "roman": "junbihaeya",
-              "english": "must prepare",
+              "korean": "인판티노의",
+              "roman": "in-pan-ti-no-ui",
+              "english": "Infantino's",
               "particle": false,
-              "suffix": "해야"
+              "suffix": "의"
             },
             {
-              "korean": "한다고",
-              "roman": "handago",
-              "english": "that it should",
+              "korean": "3월",
+              "roman": "sam-wol",
+              "english": "March",
               "particle": false,
-              "suffix": "다고"
+              "suffix": ""
             },
             {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
+              "korean": "총회",
+              "roman": "chong-hoe",
+              "english": "Congress",
               "particle": false,
-              "suffix": "했다"
+              "suffix": ""
+            },
+            {
+              "korean": "반대가",
+              "roman": "ban-dae-ga",
+              "english": "opposition",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "줄었습니다",
+              "roman": "ju-reo-sseum-ni-da",
+              "english": "decreased",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10936907",
-      "short_english": "Korea created 15 shots, including six on target, but finished fewer chances.",
-      "short_korean": "한국은 15번 슈팅했지만 기회를 덜 마무리했다",
-      "date": "2026-11-14",
+      "url": "https://www.koreaherald.com/article/10937434",
+      "short_english": "UEFA had considered him a strong alternative after disputes over FIFA’s commercial plans.",
+      "short_korean": "UEFA는 FIFA 상업 계획 논란 뒤 그를 강력한 대안으로 봤습니다.",
+      "date": "2026-11-15",
       "images": [
-        "images/korean/0aff986dffad/1.jpg",
-        "images/korean/0aff986dffad/2.jpg",
-        "images/korean/0aff986dffad/3.jpg",
-        "images/korean/0aff986dffad/4.jpg",
-        "images/korean/0aff986dffad/5.jpg",
-        "images/korean/0aff986dffad/6.jpg",
-        "images/korean/0aff986dffad/7.jpg",
-        "images/korean/0aff986dffad/8.jpg",
-        "images/korean/0aff986dffad/9.jpg",
-        "images/korean/0aff986dffad/10.jpg",
-        "images/korean/0aff986dffad/11.jpg",
-        "images/korean/0aff986dffad/12.jpg",
-        "images/korean/0aff986dffad/13.jpg",
-        "images/korean/0aff986dffad/14.jpg",
-        "images/korean/0aff986dffad/15.jpg"
+        "images/korean/51d229151b3c/1.jpg",
+        "images/korean/51d229151b3c/2.jpg",
+        "images/korean/51d229151b3c/3.jpg",
+        "images/korean/51d229151b3c/4.jpg",
+        "images/korean/51d229151b3c/5.jpg",
+        "images/korean/51d229151b3c/6.jpg",
+        "images/korean/51d229151b3c/7.jpg",
+        "images/korean/51d229151b3c/8.jpg",
+        "images/korean/51d229151b3c/9.jpg",
+        "images/korean/51d229151b3c/10.jpg",
+        "images/korean/51d229151b3c/11.jpg",
+        "images/korean/51d229151b3c/12.jpg",
+        "images/korean/51d229151b3c/13.jpg",
+        "images/korean/51d229151b3c/14.jpg",
+        "images/korean/51d229151b3c/15.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/0aff986dffad/caption.txt"
+      "caption_file": "images/korean/51d229151b3c/caption.txt"
     },
     {
       "category": "Entertainment",
@@ -1861,7 +1824,7 @@
       "url": "https://www.koreaherald.com/article/10935593",
       "short_english": "A November 5 investigation examined contracts signed when the members were minors.",
       "short_korean": "11월 5일 조사는 멤버들이 미성년자일 때 계약을 살폈다.",
-      "date": "2026-11-14",
+      "date": "2026-11-15",
       "images": [
         "images/korean/b16c6923e0f5/1.jpg",
         "images/korean/b16c6923e0f5/2.jpg",
@@ -1885,416 +1848,343 @@
     },
     {
       "category": "World",
-      "korean_title": "중국, 김정은 방중 내용을 서울에 설명",
-      "english_title": "China briefed Seoul on Kim Jong-un’s Dandong visit",
-      "korean_desc": "왕이는 2026년 11월 13일 조현에게 김정은의 단둥 방문을 설명했다 김정은은 10월 24일 단둥에서 왕후닝을 만났다 한국 당국은 미북 대화가 가능하지만 크지 않다고 말했다 조현은 중국에 북한의 한반도 대화 복귀를 요청했다",
-      "english_desc": "Chinese Foreign Minister Wang Yi briefed Cho Hyun about Kim Jong-un’s Dandong visit on November 13, 2026. Kim visited Dandong on October 24 and met senior Chinese official Wang Huning. South Korean officials said renewed US–North Korea talks were possible but not very likely. Cho urged China to help bring North Korea back to dialogue on peninsula issues.",
-      "hook": "China described ties with North Korea as mainly economic.",
-      "sticker": "What Beijing told Seoul",
-      "korean_hook": "중국은 북중 관계가 주로 경제라고 설명했다",
-      "takeaway_english": "The briefing offered more detail, but the visit’s full political meaning remains uncertain.",
-      "takeaway_korean": "설명은 늘었지만 방문의 정치적 의미는 아직 불확실하다",
+      "korean_title": "젤렌스키 “미국, 영토 양보 제안”",
+      "english_title": "Zelenskyy says Washington linked NATO to giving up land",
+      "korean_desc": "질문은 우크라이나가 통제하는 돈바스 일부를 떠날지였습니다. 러시아는 11월 15일 우크라이나 동부를 계속 폭격했습니다. 11월 15일 현재 키이우는 점령지를 러시아 땅으로 인정하지 않습니다.",
+      "english_desc": "The reported question concerned Ukraine leaving parts of Donbas it still controls. Russia continued bombardments in eastern Ukraine on November 15. As of November 15, Kyiv rejects recognizing seized land as Russian.",
+      "hook": "Zelenskyy says the US linked NATO membership to ceding land.",
+      "sticker": "What the talks could cost",
+      "korean_hook": "젤렌스키는 미국이 NATO와 영토 양보를 연결했다고 말했습니다",
+      "takeaway_english": "The reported tradeoff remains disputed, while Kyiv and Moscow still reject key parts of each other’s positions.",
+      "takeaway_korean": "제안 내용은 논란 중이며 양측의 핵심 입장 차이도 남았습니다.",
       "why_it_matters": [
         {
-          "english": "China remains important to North Korea’s economy and diplomacy.",
-          "korean": "중국은 북한 경제와 외교에서 중요하다"
+          "english": "Any deal could affect Ukraine’s territory, alliances and future security.",
+          "korean": "어떤 합의든 우크라이나 영토와 동맹, 안보에 영향을 줍니다."
         },
         {
-          "english": "Any renewed US–North Korea dialogue could affect regional security.",
-          "korean": "미북 대화는 지역 안보에 영향을 줄 수 있다"
+          "english": "Russian attacks continue while negotiations remain unresolved.",
+          "korean": "협상이 풀리지 않는 동안 러시아의 공격은 계속됩니다."
         }
       ],
       "parties": [
         {
-          "label": "China",
-          "english": "It briefed South Korea on Kim Jong-un’s October 24 visit to Dandong.",
-          "korean": "중국은 김정은의 10월 24일 단둥 방문을 설명했다"
+          "label": "Ukraine",
+          "english": "Kyiv says Ukrainians will decide whether to accept any agreement.",
+          "korean": "우크라이나는 국민이 합의 수용 여부를 결정한다고 말합니다."
         },
         {
-          "label": "South Korea",
-          "english": "It asked China to help bring North Korea back to dialogue.",
-          "korean": "한국은 중국에 북한의 대화 복귀를 요청했다"
+          "label": "United States",
+          "english": "US negotiators raised a possible land-for-NATO arrangement, according to Zelenskyy.",
+          "korean": "젤렌스키에 따르면 미국 협상단은 영토와 NATO 교환을 물었습니다."
         },
         {
-          "label": "North Korea",
-          "english": "Its ties with China are being described as focused on economic cooperation.",
-          "korean": "북한과 중국은 경제 협력을 강조하고 있다"
+          "label": "Russia",
+          "english": "Moscow continues attacks and rejects NATO membership for Ukraine.",
+          "korean": "러시아는 공격을 계속하며 우크라이나의 NATO 가입을 거부합니다."
         }
       ],
       "views": [
         {
-          "label": "Chinese officials",
-          "english": "They describe the relationship as mainly economic rather than political.",
-          "korean": "중국은 관계가 정치보다 경제 중심이라고 말한다"
+          "label": "Ukraine and France",
+          "english": "They argue that forcing an unjust peace could create another war.",
+          "korean": "우크라이나와 프랑스는 부당한 평화가 또 다른 전쟁을 부를 수 있다고 말합니다."
         },
         {
-          "label": "South Korean officials and analysts",
-          "english": "They see possible wider goals, including renewed US–North Korea diplomacy, but judge a summit unlikely.",
-          "korean": "한국 측은 미국과 북한의 대화 가능성을 보지만 정상회담은 작게 본다"
+          "label": "Russia",
+          "english": "Moscow says NATO expansion threatens its security and rejects foreign troops in Ukraine.",
+          "korean": "러시아는 NATO 확대가 안보를 위협하며 외국군을 거부한다고 말합니다."
         }
       ],
       "disagree": {
-        "english": "China’s official explanation may not reveal every political or strategic purpose of the visit.",
-        "korean": "중국의 설명이 방문의 모든 정치 목적을 보여주지는 않을 수 있다"
+        "english": "The reported question may have tested Ukraine’s position rather than represented a final US proposal.",
+        "korean": "그 질문은 최종 미국 제안이 아니라 우크라이나 입장 확인일 수 있습니다."
       },
-      "reader_question_korean": "중국은 한반도 대화를 더 강하게 추진해야 할까요?",
+      "reader_question_korean": "평화 협상이 한 나라의 영토 포기를 요구해도 될까요?",
       "search_hits": 1,
       "flags": [
         "fewer than 2 outlets",
-        "long sentence: \"Chinese Foreign Minister Wang Yi briefed Cho Hyun \""
+        "translation check: \"Ukrainian President Volodymyr Zelenskyy said Washi\" may be missing president"
       ],
-      "source_title": "Beijing details N. Korean leader's China visit in FM talks with Seoul: official",
+      "source_title": "US suggested Kyiv cede land for NATO, Zelenskyy says",
       "hook_format": "headline",
-      "body_format": "sentences",
+      "body_format": "two_views",
       "question": "",
       "korean_question": "",
       "answer_english": "",
       "answer_korean": "",
-      "format_data": {},
-      "serious": false,
+      "format_data": {
+        "views": [
+          {
+            "label": "Volodymyr Zelenskyy",
+            "english": "Ukraine should not recognize land seized by Russia as Russian.",
+            "korean": "우크라이나는 러시아가 빼앗은 땅을 러시아 영토로 인정하면 안 됩니다."
+          },
+          {
+            "label": "Russia",
+            "english": "Moscow says Ukrainian NATO membership is unacceptable and opposes foreign peacekeepers.",
+            "korean": "러시아는 우크라이나의 NATO 가입과 외국 평화군을 반대합니다."
+          }
+        ]
+      },
+      "serious": true,
       "caption_lines": [
-        "Kim Jong-un visited Dandong on October 24, 2026.",
-        "Wang Yi met South Korean Foreign Minister Cho Hyun in Beijing.",
-        "Seoul said a US–North Korea summit was possible but not very likely."
+        "Update: November 15, 2026",
+        "US-led talks in Abu Dhabi ended without a breakthrough."
       ],
-      "reader_question": "Should China push harder for dialogue on the Korean Peninsula?",
-      "topic_tag": "Diplomacy",
+      "reader_question": "Should peace talks ever require a country to give up land?",
+      "topic_tag": "Ukraine",
       "sources": [
         {
           "outlet": "The Korea Herald",
-          "title": "Beijing details N. Korean leader's China visit in FM talks with Seoul: official",
-          "date": "2026-11-14",
-          "url": "https://www.koreaherald.com/article/10937015"
+          "title": "US suggested Kyiv cede land for NATO, Zelenskyy says",
+          "date": "2026-11-15",
+          "url": "https://www.koreaherald.com/article/10937471"
         }
       ],
       "glossary": [
         {
-          "korean": "왕이는",
-          "roman": "wang-i-neun",
-          "english": "Wang Yi",
+          "korean": "질문은",
+          "roman": "jil-mun-eun",
+          "english": "the question",
+          "particle": false,
+          "suffix": "은"
+        },
+        {
+          "korean": "우크라이나가",
+          "roman": "u-keu-ra-i-na-ga",
+          "english": "Ukraine",
+          "particle": false,
+          "suffix": "가"
+        },
+        {
+          "korean": "통제하는",
+          "roman": "tong-je-ha-neun",
+          "english": "controls",
           "particle": false,
           "suffix": "는"
         },
         {
-          "korean": "2026년",
-          "roman": "icheonisip-yuk-nyeon",
-          "english": "2026",
-          "particle": false,
-          "suffix": "년"
-        },
-        {
-          "korean": "11월",
-          "roman": "sibil-wol",
-          "english": "November",
+          "korean": "돈바스",
+          "roman": "don-ba-seu",
+          "english": "Donbas",
           "particle": false,
           "suffix": ""
         },
         {
-          "korean": "13일",
-          "roman": "sipsam-il",
-          "english": "13th",
+          "korean": "일부를",
+          "roman": "il-bu-reul",
+          "english": "part",
           "particle": false,
-          "suffix": ""
+          "suffix": "를"
         },
         {
-          "korean": "조현에게",
-          "roman": "jo-hyeon-ege",
-          "english": "to Cho Hyun",
+          "korean": "떠날지였습니다",
+          "roman": "tteo-nal-ji-yeo-sseum-ni-da",
+          "english": "whether it would leave",
           "particle": false,
-          "suffix": "에게"
-        },
-        {
-          "korean": "김정은의",
-          "roman": "gimjeong-eun-ui",
-          "english": "Kim Jong-un’s",
-          "particle": false,
-          "suffix": "의"
-        },
-        {
-          "korean": "단둥",
-          "roman": "dandung",
-          "english": "Dandong",
-          "particle": false,
-          "suffix": ""
-        },
-        {
-          "korean": "방문을",
-          "roman": "bangmun-eul",
-          "english": "visit",
-          "particle": false,
-          "suffix": "을"
-        },
-        {
-          "korean": "설명했다",
-          "roman": "seolmyeonghaetda",
-          "english": "explained",
-          "particle": false,
-          "suffix": "했다"
+          "suffix": "였습니다"
         }
       ],
       "sentences": [
         {
-          "stage": "what",
-          "english": "Chinese Foreign Minister Wang Yi briefed Cho Hyun about Kim Jong-un’s Dandong visit on November 13, 2026.",
-          "korean": "왕이는 2026년 11월 13일 조현에게 김정은의 단둥 방문을 설명했다",
+          "stage": "how",
+          "english": "The reported question concerned Ukraine leaving parts of Donbas it still controls.",
+          "korean": "질문은 우크라이나가 통제하는 돈바스 일부를 떠날지였습니다.",
           "glossary": [
             {
-              "korean": "왕이는",
-              "roman": "wang-i-neun",
-              "english": "Wang Yi",
+              "korean": "질문은",
+              "roman": "jil-mun-eun",
+              "english": "the question",
+              "particle": false,
+              "suffix": "은"
+            },
+            {
+              "korean": "우크라이나가",
+              "roman": "u-keu-ra-i-na-ga",
+              "english": "Ukraine",
+              "particle": false,
+              "suffix": "가"
+            },
+            {
+              "korean": "통제하는",
+              "roman": "tong-je-ha-neun",
+              "english": "controls",
               "particle": false,
               "suffix": "는"
             },
             {
-              "korean": "2026년",
-              "roman": "icheonisip-yuk-nyeon",
-              "english": "2026",
-              "particle": false,
-              "suffix": "년"
-            },
-            {
-              "korean": "11월",
-              "roman": "sibil-wol",
-              "english": "November",
+              "korean": "돈바스",
+              "roman": "don-ba-seu",
+              "english": "Donbas",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "13일",
-              "roman": "sipsam-il",
-              "english": "13th",
+              "korean": "일부를",
+              "roman": "il-bu-reul",
+              "english": "part",
               "particle": false,
-              "suffix": ""
+              "suffix": "를"
             },
             {
-              "korean": "조현에게",
-              "roman": "jo-hyeon-ege",
-              "english": "to Cho Hyun",
+              "korean": "떠날지였습니다",
+              "roman": "tteo-nal-ji-yeo-sseum-ni-da",
+              "english": "whether it would leave",
               "particle": false,
-              "suffix": "에게"
-            },
-            {
-              "korean": "김정은의",
-              "roman": "gimjeong-eun-ui",
-              "english": "Kim Jong-un’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "단둥",
-              "roman": "dandung",
-              "english": "Dandong",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "방문을",
-              "roman": "bangmun-eul",
-              "english": "visit",
-              "particle": false,
-              "suffix": "을"
-            },
-            {
-              "korean": "설명했다",
-              "roman": "seolmyeonghaetda",
-              "english": "explained",
-              "particle": false,
-              "suffix": "했다"
+              "suffix": "였습니다"
             }
           ]
         },
         {
           "stage": "how",
-          "english": "Kim visited Dandong on October 24 and met senior Chinese official Wang Huning.",
-          "korean": "김정은은 10월 24일 단둥에서 왕후닝을 만났다",
+          "english": "Russia continued bombardments in eastern Ukraine on November 15.",
+          "korean": "러시아는 11월 15일 우크라이나 동부를 계속 폭격했습니다.",
           "glossary": [
             {
-              "korean": "김정은은",
-              "roman": "gimjeong-eun-eun",
-              "english": "Kim Jong-un",
+              "korean": "러시아는",
+              "roman": "reo-si-a-neun",
+              "english": "Russia",
               "particle": false,
-              "suffix": "은"
+              "suffix": "는"
             },
             {
-              "korean": "10월",
-              "roman": "sip-wol",
-              "english": "October",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "24일",
-              "roman": "isipsa-il",
-              "english": "24th",
+              "korean": "15일",
+              "roman": "sip-o-il",
+              "english": "15th day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "단둥에서",
-              "roman": "dandung-eseo",
-              "english": "in Dandong",
+              "korean": "우크라이나",
+              "roman": "u-keu-ra-i-na",
+              "english": "Ukraine",
               "particle": false,
-              "suffix": "에서"
+              "suffix": ""
             },
             {
-              "korean": "왕후닝을",
-              "roman": "wanghuning-eul",
-              "english": "Wang Huning",
+              "korean": "동부를",
+              "roman": "dong-bu-reul",
+              "english": "eastern area",
               "particle": false,
-              "suffix": "을"
+              "suffix": "를"
             },
             {
-              "korean": "만났다",
-              "roman": "mannatda",
-              "english": "met",
+              "korean": "계속",
+              "roman": "gye-sok",
+              "english": "continued",
               "particle": false,
-              "suffix": "났다"
+              "suffix": ""
+            },
+            {
+              "korean": "폭격했습니다",
+              "roman": "pok-gyeok-hae-sseum-ni-da",
+              "english": "bombarded",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         },
         {
           "stage": "now",
-          "english": "South Korean officials said renewed US–North Korea talks were possible but not very likely.",
-          "korean": "한국 당국은 미북 대화가 가능하지만 크지 않다고 말했다",
+          "english": "As of November 15, Kyiv rejects recognizing seized land as Russian.",
+          "korean": "11월 15일 현재 키이우는 점령지를 러시아 땅으로 인정하지 않습니다.",
           "glossary": [
             {
-              "korean": "한국",
-              "roman": "hanguk",
-              "english": "South Korean",
+              "korean": "11월",
+              "roman": "sip-il-wol",
+              "english": "November",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "당국은",
-              "roman": "dangguk-eun",
-              "english": "officials",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "미북",
-              "roman": "mibuk",
-              "english": "US–North Korea",
+              "korean": "15일",
+              "roman": "sip-o-il",
+              "english": "15th day",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "대화가",
-              "roman": "daehwa-ga",
-              "english": "talks",
-              "particle": false,
-              "suffix": "가"
-            },
-            {
-              "korean": "가능하지만",
-              "roman": "ganeunghajiman",
-              "english": "possible but",
-              "particle": false,
-              "suffix": "지만"
-            },
-            {
-              "korean": "크지",
-              "roman": "keuji",
-              "english": "not big",
+              "korean": "현재",
+              "roman": "hyeon-jae",
+              "english": "currently",
               "particle": false,
               "suffix": ""
             },
             {
-              "korean": "않다고",
-              "roman": "antago",
-              "english": "not",
+              "korean": "키이우는",
+              "roman": "ki-i-u-neun",
+              "english": "Kyiv",
               "particle": false,
-              "suffix": ""
+              "suffix": "는"
             },
             {
-              "korean": "말했다",
-              "roman": "malhaetda",
-              "english": "said",
-              "particle": false,
-              "suffix": "했다"
-            }
-          ]
-        },
-        {
-          "stage": "next",
-          "english": "Cho urged China to help bring North Korea back to dialogue on peninsula issues.",
-          "korean": "조현은 중국에 북한의 한반도 대화 복귀를 요청했다",
-          "glossary": [
-            {
-              "korean": "조현은",
-              "roman": "jo-hyeon-eun",
-              "english": "Cho Hyun",
-              "particle": false,
-              "suffix": "은"
-            },
-            {
-              "korean": "중국에",
-              "roman": "jungguk-e",
-              "english": "to China",
-              "particle": false,
-              "suffix": "에"
-            },
-            {
-              "korean": "북한의",
-              "roman": "bukhan-ui",
-              "english": "North Korea’s",
-              "particle": false,
-              "suffix": "의"
-            },
-            {
-              "korean": "한반도",
-              "roman": "hanbando",
-              "english": "Korean Peninsula",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "대화",
-              "roman": "daehwa",
-              "english": "dialogue",
-              "particle": false,
-              "suffix": ""
-            },
-            {
-              "korean": "복귀를",
-              "roman": "bokgwi-reul",
-              "english": "return",
+              "korean": "점령지를",
+              "roman": "jeom-nyeong-ji-reul",
+              "english": "seized land",
               "particle": false,
               "suffix": "를"
             },
             {
-              "korean": "요청했다",
-              "roman": "yocheonghaetda",
-              "english": "requested",
+              "korean": "러시아",
+              "roman": "reo-si-a",
+              "english": "Russian",
               "particle": false,
-              "suffix": "했다"
+              "suffix": ""
+            },
+            {
+              "korean": "땅으로",
+              "roman": "ttang-eu-ro",
+              "english": "as land",
+              "particle": false,
+              "suffix": "으로"
+            },
+            {
+              "korean": "인정하지",
+              "roman": "in-jeong-ha-ji",
+              "english": "recognize",
+              "particle": false,
+              "suffix": "지"
+            },
+            {
+              "korean": "않습니다",
+              "roman": "an-seum-ni-da",
+              "english": "does not",
+              "particle": false,
+              "suffix": "습니다"
             }
           ]
         }
       ],
-      "url": "https://www.koreaherald.com/article/10937015",
-      "short_english": "Chinese Foreign Minister Wang Yi briefed Cho Hyun about Kim Jong-un’s Dandong visit on November 13, 2026.",
-      "short_korean": "왕이는 2026년 11월 13일 조현에게 김정은의 단둥 방문을 설명했다",
-      "date": "2026-11-14",
+      "url": "https://www.koreaherald.com/article/10937471",
+      "short_english": "The reported question concerned Ukraine leaving parts of Donbas it still controls.",
+      "short_korean": "질문은 우크라이나가 통제하는 돈바스 일부를 떠날지였습니다.",
+      "date": "2026-11-15",
       "images": [
-        "images/korean/0106786cf68e/1.jpg",
-        "images/korean/0106786cf68e/2.jpg",
-        "images/korean/0106786cf68e/3.jpg",
-        "images/korean/0106786cf68e/4.jpg",
-        "images/korean/0106786cf68e/5.jpg",
-        "images/korean/0106786cf68e/6.jpg",
-        "images/korean/0106786cf68e/7.jpg",
-        "images/korean/0106786cf68e/8.jpg",
-        "images/korean/0106786cf68e/9.jpg",
-        "images/korean/0106786cf68e/10.jpg",
-        "images/korean/0106786cf68e/11.jpg",
-        "images/korean/0106786cf68e/12.jpg",
-        "images/korean/0106786cf68e/13.jpg",
-        "images/korean/0106786cf68e/14.jpg",
-        "images/korean/0106786cf68e/15.jpg"
+        "images/korean/48dad40ebc3d/1.jpg",
+        "images/korean/48dad40ebc3d/2.jpg",
+        "images/korean/48dad40ebc3d/3.jpg",
+        "images/korean/48dad40ebc3d/4.jpg",
+        "images/korean/48dad40ebc3d/5.jpg",
+        "images/korean/48dad40ebc3d/6.jpg",
+        "images/korean/48dad40ebc3d/7.jpg",
+        "images/korean/48dad40ebc3d/8.jpg",
+        "images/korean/48dad40ebc3d/9.jpg",
+        "images/korean/48dad40ebc3d/10.jpg",
+        "images/korean/48dad40ebc3d/11.jpg",
+        "images/korean/48dad40ebc3d/12.jpg",
+        "images/korean/48dad40ebc3d/13.jpg",
+        "images/korean/48dad40ebc3d/14.jpg"
       ],
       "images_v": 28,
-      "caption_file": "images/korean/0106786cf68e/caption.txt"
+      "caption_file": "images/korean/48dad40ebc3d/caption.txt"
     }
   ]
 }
